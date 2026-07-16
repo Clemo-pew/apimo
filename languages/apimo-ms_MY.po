@@ -1,0 +1,5010 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ms_MY\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.1\n"
+
+msgid "Reminder"
+msgstr "Peringatan"
+
+msgid "Suggestion"
+msgstr "Cadangan"
+
+msgid "Report"
+msgstr "Laporan"
+
+#, fuzzy
+msgid "Other"
+msgstr ""
+"#-#-#-#-#  apimo-ms_MY.po  #-#-#-#-#\n"
+"Lain\n"
+"#-#-#-#-#  apimo-ms_MY.po  #-#-#-#-#\n"
+"Lain-lain\n"
+"#-#-#-#-#  apimo-ms_MY.po  #-#-#-#-#\n"
+"Lain-lain\n"
+"#-#-#-#-#  apimo-ms_MY.po  #-#-#-#-#\n"
+"Lain"
+
+#, fuzzy
+msgid "Valuation"
+msgstr ""
+"#-#-#-#-#  apimo-ms_MY.po  #-#-#-#-#\n"
+"Anggaran\n"
+"#-#-#-#-#  apimo-ms_MY.po  #-#-#-#-#\n"
+"Penilaian\n"
+"#-#-#-#-#  apimo-ms_MY.po  #-#-#-#-#\n"
+"Penilaian"
+
+#, fuzzy
+msgid "Advertising"
+msgstr ""
+"#-#-#-#-#  apimo-ms_MY.po  #-#-#-#-#\n"
+"Iklan\n"
+"#-#-#-#-#  apimo-ms_MY.po  #-#-#-#-#\n"
+"Pengiklanan\n"
+"#-#-#-#-#  apimo-ms_MY.po  #-#-#-#-#\n"
+"Pengiklanan"
+
+msgid "Open House"
+msgstr "Rumah terbuka"
+
+msgid "Canvassing"
+msgstr "Pencarian"
+
+msgid "Message"
+msgstr "Mesej"
+
+msgid "After-sales"
+msgstr "Servis lepas jualan"
+
+msgid "Visit"
+msgstr "Lawat"
+
+msgid "Appointment"
+msgstr "Temujanji"
+
+#, fuzzy
+msgid "Phone"
+msgstr ""
+"#-#-#-#-#  apimo-ms_MY.po  #-#-#-#-#\n"
+"No telefon\n"
+"#-#-#-#-#  apimo-ms_MY.po  #-#-#-#-#\n"
+"Telefon\n"
+"#-#-#-#-#  apimo-ms_MY.po  #-#-#-#-#\n"
+"Telefon"
+
+msgid "Mail"
+msgstr "Emel"
+
+#, fuzzy
+msgid "Fax"
+msgstr ""
+"#-#-#-#-#  apimo-ms_MY.po  #-#-#-#-#\n"
+"No fax\n"
+"#-#-#-#-#  apimo-ms_MY.po  #-#-#-#-#\n"
+"Faks"
+
+msgid "SMS"
+msgstr "SMS"
+
+msgid "Walk-in"
+msgstr "Pelanggan datang terus"
+
+msgid "Extranet"
+msgstr "Extranet"
+
+msgid "Project"
+msgstr "Projek"
+
+msgid "Under construction"
+msgstr "Dalam pembinaan"
+
+msgid "Delivered"
+msgstr "Dihantar"
+
+msgid "Ended"
+msgstr "Diselesaikan"
+
+msgid "Canceled"
+msgstr "Dibatalkan"
+
+msgid "Mr."
+msgstr "Encik"
+
+msgid "Mrs."
+msgstr "Puan"
+
+msgid "Ms."
+msgstr "Cik"
+
+msgid "Mr. & Mrs."
+msgstr "En. & Pn."
+
+msgid "Sheik"
+msgstr "Syek"
+
+msgid "Duke"
+msgstr "Duke"
+
+msgid "Duchess"
+msgstr "Duchess"
+
+msgid "Lord"
+msgstr "Tuan"
+
+msgid "Maître"
+msgstr "Ketua"
+
+msgid "Professor"
+msgstr "Professor"
+
+msgid "Sir"
+msgstr "Sir"
+
+msgid "Regulations"
+msgstr "Peraturan"
+
+msgid "AML/KYC Vendor"
+msgstr "AML/KYC Vendor"
+
+msgid "AML/KYC Buyer"
+msgstr "AML/KYC Buyer"
+
+msgid "Concierge"
+msgstr "Pemilik"
+
+msgid "Contact"
+msgstr "Kenalan"
+
+#, fuzzy
+msgid "Search"
+msgstr ""
+"#-#-#-#-#  apimo-ms_MY.po  #-#-#-#-#\n"
+"Maklumat lanjut\n"
+"#-#-#-#-#  apimo-ms_MY.po  #-#-#-#-#\n"
+"Cari"
+
+msgid "Owner"
+msgstr "Jual"
+
+#, fuzzy
+msgid "e-mail alert"
+msgstr ""
+"#-#-#-#-#  apimo-ms_MY.po  #-#-#-#-#\n"
+"Makluman emel\n"
+"#-#-#-#-#  apimo-ms_MY.po  #-#-#-#-#\n"
+"Amaran emel"
+
+msgid "Send to a friend"
+msgstr "Hantar kepada kawan"
+
+msgid "Newsletter"
+msgstr "Majalah / Surat berita"
+
+msgid "Selection"
+msgstr "Pilihan"
+
+msgid "New"
+msgstr "Baru"
+
+msgid "Opened"
+msgstr "Dibuka"
+
+msgid "Processing"
+msgstr "Dalam proses"
+
+msgid "Closed"
+msgstr "Ditutup"
+
+msgid "Self-employed"
+msgstr "Bekerja sendiri"
+
+msgid "Bakery"
+msgstr "Kedai roti"
+
+msgid "Restaurant"
+msgstr "Restoran"
+
+msgid "Press"
+msgstr "Akhbar"
+
+msgid "Bar"
+msgstr "Bar"
+
+msgid "Florist"
+msgstr "Penjual bunga"
+
+msgid "Tobacconist"
+msgstr "Kedai runcit"
+
+msgid "Clothes"
+msgstr "Pakaian"
+
+msgid "Chemist"
+msgstr "Farmasi"
+
+msgid "Shopping centre"
+msgstr "Pusat beli-belah"
+
+msgid "Travel agency"
+msgstr "Agensi Pelancongan"
+
+msgid "Real estate agent"
+msgstr "Agensi Hartanah"
+
+msgid "Gallery"
+msgstr "Galeri"
+
+msgid "Garage"
+msgstr "Garaj"
+
+msgid "Insurer"
+msgstr "Insurans"
+
+msgid "Optician"
+msgstr "Pakar Optik"
+
+msgid "Perfumery"
+msgstr "Minyak wangi"
+
+#, fuzzy
+msgid "Hotel"
+msgstr ""
+"#-#-#-#-#  apimo-ms_MY.po  #-#-#-#-#\n"
+"Perhotelan\n"
+"#-#-#-#-#  apimo-ms_MY.po  #-#-#-#-#\n"
+"Hotel\n"
+"#-#-#-#-#  apimo-ms_MY.po  #-#-#-#-#\n"
+"Hotel"
+
+msgid "Antique dealer"
+msgstr "Penjual barang antik"
+
+msgid "Laundry"
+msgstr "Dobi"
+
+msgid "Pressing"
+msgstr "Tukang seterika"
+
+msgid "Jeweller"
+msgstr "Tukang emas"
+
+msgid "Grocer"
+msgstr "Peniaga"
+
+msgid "Butcher"
+msgstr "Penjual daging"
+
+msgid "Caterer"
+msgstr "Katerer"
+
+msgid "Brewery"
+msgstr "Pembuat bir"
+
+msgid "Snack"
+msgstr "Snek"
+
+msgid "Confectioner"
+msgstr "Penjual mansion"
+
+msgid "Pork butcher"
+msgstr "Penjual daging babi"
+
+msgid "Grocery"
+msgstr "Pemborong"
+
+msgid "Cheesemonger"
+msgstr "Penjual keju"
+
+msgid "Fruit and vegetables"
+msgstr "Penjual sayur dan buah-buahan"
+
+msgid "Sex shop"
+msgstr "Kedai mainan seks"
+
+msgid "Video game"
+msgstr "Permainan video"
+
+msgid "Computer"
+msgstr "Komputer"
+
+msgid "Hairdresser"
+msgstr "Penggaya rambut"
+
+msgid "Groomer"
+msgstr "Jurusolek"
+
+msgid "Household electrical"
+msgstr "Elektrik rumah"
+
+msgid "Shoes"
+msgstr "Kasut"
+
+msgid "Haberdasher"
+msgstr "Haberdasher"
+
+msgid "Tea room"
+msgstr "Bilik santai"
+
+msgid "Beach"
+msgstr "Pantai"
+
+msgid "Bookshop"
+msgstr "Perpustakaan"
+
+msgid "Offices"
+msgstr "Ofis"
+
+msgid "Gas station"
+msgstr "Stesen minyak"
+
+msgid "Camping"
+msgstr "Perkhemahan"
+
+msgid "Nightclub"
+msgstr "Kelab malam"
+
+msgid "Pet store"
+msgstr "Kedai Haiwan"
+
+msgid "Video arcade"
+msgstr "Arked"
+
+msgid "Office supplies"
+msgstr "Kedai Alat Tulis"
+
+msgid "Furniture"
+msgstr "Kedai Perabot"
+
+#, fuzzy
+msgid "Decoration"
+msgstr ""
+"#-#-#-#-#  apimo-ms_MY.po  #-#-#-#-#\n"
+"Kedai Deko\n"
+"#-#-#-#-#  apimo-ms_MY.po  #-#-#-#-#\n"
+"Hiasan"
+
+msgid "Agriculture"
+msgstr "Agrikultur"
+
+msgid "Photo"
+msgstr "Foto"
+
+msgid "Drugstore"
+msgstr "Kedai Ubat"
+
+msgid "Locksmith"
+msgstr "Tukang Kunci"
+
+msgid "Health club"
+msgstr "Tempat Rekreasi"
+
+msgid "Taxi"
+msgstr "Teksi"
+
+msgid "Theater"
+msgstr "Pawagam"
+
+msgid "Café"
+msgstr "Kafe"
+
+msgid "Garden centre"
+msgstr "Taman Bunga"
+
+msgid "Hardware shop"
+msgstr "Kedai Hardware"
+
+msgid "Fishmongers"
+msgstr "Penjual ikan"
+
+msgid "Recreation"
+msgstr "Riadah"
+
+msgid "Culture"
+msgstr "Kebudayaan"
+
+msgid "Funeral"
+msgstr "Kematian"
+
+msgid "Sport supplies"
+msgstr "Bekalan sukan"
+
+msgid "Bedroom"
+msgstr "Bilik tidur"
+
+msgid "Living-room"
+msgstr "Ruang tamu"
+
+msgid "Kitchen"
+msgstr "Dapur"
+
+msgid "Parking"
+msgstr "Parking"
+
+#, fuzzy
+msgid "Cellar"
+msgstr ""
+"#-#-#-#-#  apimo-ms_MY.po  #-#-#-#-#\n"
+"Bilik bawah tanah\n"
+"#-#-#-#-#  apimo-ms_MY.po  #-#-#-#-#\n"
+"Bawah tanah"
+
+msgid "Garden shelter"
+msgstr "Tempat perlindungan taman"
+
+msgid "Bathroom"
+msgstr "Bilik air"
+
+msgid "Laundry room"
+msgstr "Bilik dobi"
+
+msgid "Study"
+msgstr "Bilik belajar"
+
+msgid "Hallway"
+msgstr "Ruang depan"
+
+msgid "Corridor"
+msgstr "Koridor"
+
+msgid "Shower room"
+msgstr "Bilik mandi"
+
+msgid "Walk-in wardrobe"
+msgstr "Bilik almari"
+
+msgid "Entrance"
+msgstr "Pintu masuk"
+
+msgid "Lavatory"
+msgstr "Toilet"
+
+msgid "Veranda"
+msgstr "Beranda"
+
+msgid "Terrace"
+msgstr "Teres"
+
+msgid "Solarium"
+msgstr "Rumah kaca"
+
+msgid "Living room/dining area"
+msgstr "Ruang tamu/ruang makan"
+
+msgid "Play room"
+msgstr "Bilik permainan video"
+
+msgid "Dining room"
+msgstr "Bilik makan"
+
+msgid "Pool house"
+msgstr "Pool vila"
+
+msgid "Closet"
+msgstr "Almari"
+
+msgid "Not used"
+msgstr "Tidak digunakan"
+
+msgid "Loggia"
+msgstr "Serambi"
+
+msgid "Loft"
+msgstr "Loteng"
+
+msgid "Mezzanine"
+msgstr "Mezzanine"
+
+msgid "Basement"
+msgstr "Bawah tanah"
+
+msgid "Maintenance room"
+msgstr "Bilik penyelenggaraan"
+
+#, fuzzy
+msgid "Workshop"
+msgstr ""
+"#-#-#-#-#  apimo-ms_MY.po  #-#-#-#-#\n"
+"Bengkel\n"
+"#-#-#-#-#  apimo-ms_MY.po  #-#-#-#-#\n"
+"Workshop"
+
+msgid "Studio"
+msgstr "Studio"
+
+msgid "Library"
+msgstr "Perpustakaan"
+
+msgid "Courtyard"
+msgstr "Halaman"
+
+msgid "Stair"
+msgstr "Tangga"
+
+msgid "Linen room"
+msgstr "Bilik pakaian dalam"
+
+msgid "Bathroom / Lavatory"
+msgstr "Bilik air/tandas"
+
+msgid "Shower room / Lavatory"
+msgstr "Bilik mandi/tandas"
+
+msgid "Balcony"
+msgstr "Balkoni"
+
+msgid "Exercise room"
+msgstr "Bilik senaman"
+
+msgid "Discothèque"
+msgstr "Disko"
+
+msgid "Home cinema"
+msgstr "Teater rumah"
+
+msgid "Reception room"
+msgstr "Bilik ruang tamu"
+
+msgid "Storage room"
+msgstr "Bilik stor"
+
+msgid "Garden"
+msgstr "Taman bunga"
+
+#, fuzzy
+msgid "Park"
+msgstr ""
+"#-#-#-#-#  apimo-ms_MY.po  #-#-#-#-#\n"
+"Taman\n"
+"#-#-#-#-#  apimo-ms_MY.po  #-#-#-#-#\n"
+"Taman\n"
+"#-#-#-#-#  apimo-ms_MY.po  #-#-#-#-#\n"
+"Park"
+
+#, fuzzy
+msgid "Land"
+msgstr ""
+"#-#-#-#-#  apimo-ms_MY.po  #-#-#-#-#\n"
+"Land\n"
+"#-#-#-#-#  apimo-ms_MY.po  #-#-#-#-#\n"
+"Tanah"
+
+msgid "Patio"
+msgstr "Laman dalam"
+
+msgid "Principal bedroom"
+msgstr "Bilik tidur utama"
+
+msgid "Suite"
+msgstr "Suite"
+
+msgid "Shed"
+msgstr "Shed"
+
+#, fuzzy
+msgid "Apartment"
+msgstr ""
+"#-#-#-#-#  apimo-ms_MY.po  #-#-#-#-#\n"
+"Pangsapuri\n"
+"#-#-#-#-#  apimo-ms_MY.po  #-#-#-#-#\n"
+"Pangsapuri / Apartment\n"
+"#-#-#-#-#  apimo-ms_MY.po  #-#-#-#-#\n"
+"Pangsapuri"
+
+msgid "Cabin"
+msgstr "Kabin"
+
+msgid "Barn"
+msgstr "Bangsal"
+
+msgid "Outbuilding"
+msgstr "Bangunan tambahan"
+
+msgid "Bike storage room"
+msgstr "Bilik simpanan basikal"
+
+msgid "Ski storage room"
+msgstr "Bilik simpanan ski"
+
+msgid "Garbage room"
+msgstr "Garbage room"
+
+msgid "Steam room"
+msgstr "Hammam"
+
+msgid "Indoor swimming pool"
+msgstr "Kolam renang dalam"
+
+msgid "Prayer room"
+msgstr "Bilik sembahyang"
+
+#, fuzzy
+msgid "Sauna"
+msgstr ""
+"#-#-#-#-#  apimo-ms_MY.po  #-#-#-#-#\n"
+"Bilik sauna\n"
+"#-#-#-#-#  apimo-ms_MY.po  #-#-#-#-#\n"
+"Sauna"
+
+msgid "Watchtower"
+msgstr "Menara pengawal"
+
+msgid "Room"
+msgstr "Bilik"
+
+msgid "Meeting room"
+msgstr "Bilik mesyuarat"
+
+msgid "Maid's room"
+msgstr "Bilik orang gaji"
+
+msgid "Maid's studio"
+msgstr "Studio orang gaji"
+
+msgid "Double reception room"
+msgstr "Dua bilik resepsi"
+
+msgid "Triple reception room"
+msgstr "tiga bilik resepsi"
+
+msgid "Indoor parking"
+msgstr "Parking dalam"
+
+msgid "Outdoor parking"
+msgstr "Parking luar"
+
+msgid "Stockroom"
+msgstr "Bilik simpanan"
+
+msgid "Shop"
+msgstr "Kedai"
+
+msgid "Cafeteria"
+msgstr "Kafeteria"
+
+msgid "Unit"
+msgstr "Unit"
+
+msgid "Warehouse"
+msgstr "Gudang"
+
+msgid "Accommodation"
+msgstr "Penginapan"
+
+msgid "Arcade"
+msgstr "Arked"
+
+msgid "House"
+msgstr "Rumah"
+
+#, fuzzy
+msgid "Box"
+msgstr ""
+"#-#-#-#-#  apimo-ms_MY.po  #-#-#-#-#\n"
+"Kotak\n"
+"#-#-#-#-#  apimo-ms_MY.po  #-#-#-#-#\n"
+"Box"
+
+msgid "Panic room"
+msgstr "Bilik kecemasan"
+
+msgid "Single"
+msgstr "Rumah asing"
+
+msgid "Twin"
+msgstr "Kembar"
+
+msgid "Twin by garage"
+msgstr "Garaj berhubung"
+
+#, fuzzy
+msgid "Village house"
+msgstr ""
+"#-#-#-#-#  apimo-ms_MY.po  #-#-#-#-#\n"
+"Rumah\n"
+"#-#-#-#-#  apimo-ms_MY.po  #-#-#-#-#\n"
+"Village house"
+
+msgid "Twin by angle"
+msgstr "Vila dengan pemandangan"
+
+msgid "Ranged"
+msgstr "Taman"
+
+msgid "Standard"
+msgstr "Standard"
+
+msgid "Co-exclusive"
+msgstr "Ko-eksklusif"
+
+msgid "Exclusive"
+msgstr "Eksklusif"
+
+msgid "Delegation"
+msgstr "Delegasi"
+
+msgid "Exclusive agent"
+msgstr "Agen Eksklusif"
+
+msgid "Colleague"
+msgstr "Rakan sejawat"
+
+#, fuzzy
+msgid "Free"
+msgstr ""
+"#-#-#-#-#  apimo-ms_MY.po  #-#-#-#-#\n"
+"Sedia ada\n"
+"#-#-#-#-#  apimo-ms_MY.po  #-#-#-#-#\n"
+"Percuma"
+
+msgid "Rented"
+msgstr "Disewakan"
+
+msgid "Occupied"
+msgstr "Diduduki"
+
+msgid "To be agreed"
+msgstr "Untuk disetujui"
+
+msgid "Building"
+msgstr "Bangunan"
+
+msgid "Residence"
+msgstr "Residensi"
+
+msgid "Housing scheme"
+msgstr "Skim perumahan"
+
+msgid "Hamlet"
+msgstr "Perkampungan"
+
+msgid "Domain"
+msgstr "Kawasan"
+
+#, fuzzy
+msgid "Property"
+msgstr ""
+"#-#-#-#-#  apimo-ms_MY.po  #-#-#-#-#\n"
+"Harta\n"
+"#-#-#-#-#  apimo-ms_MY.po  #-#-#-#-#\n"
+"Hartanah\n"
+"#-#-#-#-#  apimo-ms_MY.po  #-#-#-#-#\n"
+"Harta"
+
+#, fuzzy
+msgid "Street"
+msgstr ""
+"#-#-#-#-#  apimo-ms_MY.po  #-#-#-#-#\n"
+"Jalan / Lorong\n"
+"#-#-#-#-#  apimo-ms_MY.po  #-#-#-#-#\n"
+"Jalan"
+
+msgid "Sale"
+msgstr "Untuk dijual"
+
+#, fuzzy
+msgid "Rental"
+msgstr ""
+"#-#-#-#-#  apimo-ms_MY.po  #-#-#-#-#\n"
+"Untuk disewa\n"
+"#-#-#-#-#  apimo-ms_MY.po  #-#-#-#-#\n"
+"Sewa"
+
+msgid "Seasonal rental"
+msgstr "Sewaan bermusim"
+
+msgid "Development"
+msgstr "Perkembangan"
+
+#, fuzzy
+msgid "Life annuity"
+msgstr ""
+"#-#-#-#-#  apimo-ms_MY.po  #-#-#-#-#\n"
+"Sepanjang hayat\n"
+"#-#-#-#-#  apimo-ms_MY.po  #-#-#-#-#\n"
+"Anuiti hidup\n"
+"#-#-#-#-#  apimo-ms_MY.po  #-#-#-#-#\n"
+"Anuiti hidup"
+
+msgid "Auction"
+msgstr "Lelong"
+
+msgid "Unit sale"
+msgstr "Jualan unit"
+
+msgid "Bulk sale"
+msgstr "Jualan pukal"
+
+msgid "Unfurnished"
+msgstr "Kosong"
+
+msgid "Furnished"
+msgstr "Dilengkapi"
+
+msgid "Roommate"
+msgstr "Rakan sebilik"
+
+msgid "Student"
+msgstr "Pelajar"
+
+msgid "Holidays"
+msgstr "Cuti"
+
+#, fuzzy
+msgid "Event"
+msgstr ""
+"#-#-#-#-#  apimo-ms_MY.po  #-#-#-#-#\n"
+"Acara\n"
+"#-#-#-#-#  apimo-ms_MY.po  #-#-#-#-#\n"
+"Majlis / Acara"
+
+msgid "New construction"
+msgstr "Pembinaan baru"
+
+msgid "Life annuity occupied"
+msgstr "Anuiti hidup diduduki"
+
+msgid "Bare Ownership"
+msgstr "Pemilikan kosong"
+
+msgid "Forward sale"
+msgstr "Jualan forward"
+
+msgid "Life annuity semi-occupied"
+msgstr "Anuiti hidup semi-diduduki"
+
+msgid "Forward sale available"
+msgstr "Jualan forward sedia ada"
+
+msgid "Forward sale semi-occupied"
+msgstr "Jualan forward semi-diduduki"
+
+msgid "Forward sale occupied"
+msgstr "Jualan forward diduduki"
+
+msgid "Life annuity without income"
+msgstr "Anuiti hidup tanpa pendapatan"
+
+msgid "Requires updating"
+msgstr "Perlu dikemaskini"
+
+msgid "Good condition"
+msgstr "Keadaan baik"
+
+msgid "Requires renovation"
+msgstr "Perlu diubahsuai"
+
+msgid "Excellent condition"
+msgstr "Keadaan terbaik"
+
+msgid "Timber"
+msgstr "Kayu"
+
+msgid "Engineered wood"
+msgstr "Engineered wood"
+
+msgid "Stone"
+msgstr "Batu"
+
+msgid "Brick"
+msgstr "Bata"
+
+msgid "Concrete"
+msgstr "Konkrit"
+
+msgid "Reinforced concrete"
+msgstr "Konkrit besi"
+
+msgid "Steel frame"
+msgstr "Rangka besi"
+
+msgid "Reinforced concrete frame"
+msgstr "Rangka konkrit bertulang"
+
+msgid "Shear wall"
+msgstr "Dinding ricih"
+
+msgid "Concrete block"
+msgstr "Blok konkrit"
+
+msgid "Ground floor"
+msgstr "Aras bawah"
+
+msgid "Top floor"
+msgstr "Tingkat paling atas"
+
+msgid "1st"
+msgstr "1st"
+
+msgid "2nd"
+msgstr "2nd"
+
+msgid "3rd"
+msgstr "3rd"
+
+msgid "4th"
+msgstr "4th"
+
+msgid "5th"
+msgstr "5th"
+
+msgid "6th"
+msgstr "6th"
+
+msgid "7th"
+msgstr "7th"
+
+msgid "8th"
+msgstr "8th"
+
+msgid "9th"
+msgstr "9th"
+
+msgid "10th"
+msgstr "10th"
+
+msgid "11th"
+msgstr "11th"
+
+msgid "12th"
+msgstr "12th"
+
+msgid "13th"
+msgstr "13th"
+
+msgid "14th"
+msgstr "14th"
+
+msgid "15th"
+msgstr "15th"
+
+msgid "16th"
+msgstr "16th"
+
+msgid "17th"
+msgstr "17th"
+
+msgid "18th"
+msgstr "18th"
+
+msgid "19th"
+msgstr "19th"
+
+msgid "20th"
+msgstr "20th"
+
+msgid "Garden level"
+msgstr "Tingkat taman bunga"
+
+msgid "Split-level"
+msgstr "Tahap perpecahan"
+
+msgid "-1"
+msgstr "-1"
+
+msgid "-2"
+msgstr "-2"
+
+msgid "-3"
+msgstr "-3"
+
+msgid "-4"
+msgstr "-4"
+
+msgid "Single-storey"
+msgstr "Setingkat"
+
+msgid "21st"
+msgstr "21th"
+
+msgid "22nd"
+msgstr "22th"
+
+msgid "23rd"
+msgstr "23th"
+
+msgid "24th"
+msgstr "24th"
+
+msgid "25th"
+msgstr "25th"
+
+msgid "26th"
+msgstr "26th"
+
+msgid "27th"
+msgstr "27th"
+
+msgid "28th"
+msgstr "28th"
+
+msgid "29th"
+msgstr "29th"
+
+msgid "30th"
+msgstr "30th"
+
+msgid "31st"
+msgstr "31th"
+
+msgid "32nd"
+msgstr "32th"
+
+msgid "33rd"
+msgstr "33th"
+
+msgid "34th"
+msgstr "34th"
+
+msgid "35th"
+msgstr "35th"
+
+msgid "36th"
+msgstr "36th"
+
+msgid "37th"
+msgstr "37th"
+
+msgid "38th"
+msgstr "38th"
+
+msgid "39th"
+msgstr "39th"
+
+msgid "40th"
+msgstr "40th"
+
+msgid "-5"
+msgstr "-5"
+
+msgid "-6"
+msgstr "-6"
+
+msgid "-7"
+msgstr "-7"
+
+msgid "-8"
+msgstr "-8"
+
+msgid "-9"
+msgstr "-9"
+
+msgid "-10"
+msgstr "-10"
+
+msgid "41st"
+msgstr "41"
+
+msgid "42nd"
+msgstr "42"
+
+msgid "43rd"
+msgstr "43"
+
+msgid "44th"
+msgstr "44"
+
+msgid "45th"
+msgstr "45"
+
+msgid "46th"
+msgstr "46"
+
+msgid "47th"
+msgstr "47"
+
+msgid "48th"
+msgstr "48"
+
+msgid "49th"
+msgstr "49"
+
+msgid "50th"
+msgstr "50"
+
+msgid "51st"
+msgstr "51"
+
+msgid "52nd"
+msgstr "52"
+
+msgid "53rd"
+msgstr "53"
+
+msgid "54th"
+msgstr "54"
+
+msgid "55th"
+msgstr "55"
+
+msgid "56th"
+msgstr "56"
+
+msgid "57th"
+msgstr "57"
+
+msgid "58th"
+msgstr "58"
+
+msgid "59th"
+msgstr "59"
+
+msgid "60th"
+msgstr "60"
+
+msgid "Wooden floor"
+msgstr "Lantai kayu"
+
+msgid "Tile"
+msgstr "Jubin lantai"
+
+msgid "Carpet"
+msgstr "Karpet"
+
+msgid "Natural fiber"
+msgstr "Natural fiber"
+
+msgid "Coco"
+msgstr "Coco"
+
+msgid "Travertine"
+msgstr "Travertine"
+
+msgid "Marble"
+msgstr "Marmar"
+
+msgid "Granite"
+msgstr "Granit"
+
+msgid "Terracotta tile"
+msgstr "Jubin terracotta"
+
+msgid "Teak"
+msgstr "Kayu jati"
+
+msgid "Mosaïc"
+msgstr "Mozek"
+
+msgid "Clay"
+msgstr "Tanah liat"
+
+msgid "Laminate"
+msgstr "Laminate"
+
+msgid "Vinyl composition tile"
+msgstr "Vinil / PVC"
+
+msgid "Convector"
+msgstr "Pemanas"
+
+msgid "Underfloor"
+msgstr "Bawah tanah"
+
+msgid "Radiator"
+msgstr "Radiator"
+
+msgid "Stove"
+msgstr "Dapur"
+
+msgid "Air-conditioning"
+msgstr "Pendingin hawa"
+
+msgid "Central"
+msgstr "Sentral"
+
+msgid "Without"
+msgstr "Tanpa"
+
+msgid "Fireplace"
+msgstr "Perapian"
+
+msgid "Individual"
+msgstr "Individu"
+
+msgid "Common"
+msgstr "Kolektif"
+
+msgid "Mixed"
+msgstr "Campur"
+
+msgid "District heating"
+msgstr "District heating"
+
+msgid "Gas"
+msgstr "Gas"
+
+msgid "Fuel oil"
+msgstr "Minyak bahan api"
+
+msgid "Electric"
+msgstr "Elektrik"
+
+msgid "Wood"
+msgstr "Kayu"
+
+msgid "Solar"
+msgstr "Solar"
+
+msgid "Charcoal"
+msgstr "Arang"
+
+msgid "Heat pump"
+msgstr "Pam haba"
+
+msgid "Geothermal"
+msgstr "Geoterma"
+
+msgid "Wood pellet"
+msgstr "Pelet kayu"
+
+msgid "Hot water"
+msgstr "Air panas"
+
+msgid "Hot water tank"
+msgstr "Tangki air panas"
+
+msgid "Boiler"
+msgstr "Boiler"
+
+msgid "Collective"
+msgstr "Kolektif"
+
+msgid "Flat"
+msgstr "Rata / Flat"
+
+msgid "Dry-stone wall terraces"
+msgstr "Teras dinding dry-stone"
+
+msgid "Steep"
+msgstr "Condong"
+
+msgid "Wooded"
+msgstr "Berkayu"
+
+msgid "Meadow"
+msgstr "Padang rumput"
+
+msgid "Term lease"
+msgstr "Tempoh pajakan"
+
+msgid "Long-Term"
+msgstr "Tempoh panjang"
+
+msgid "Long-Term - Single activity"
+msgstr "Tempoh panjang - Satu aktiviti"
+
+msgid "Long-Term - All activities"
+msgstr "Tempoh panjang - Semua aktiviti"
+
+msgid "Seaside"
+msgstr "Pantai"
+
+msgid "Village"
+msgstr "Kampung"
+
+msgid "Old town"
+msgstr "Kampung lama"
+
+msgid "Precinct"
+msgstr "Zon pejalan kaki"
+
+msgid "Ski slope"
+msgstr "Cerun ski"
+
+msgid "Town center"
+msgstr "Pusat bandar"
+
+msgid "Industrial estate"
+msgstr "Estet perindustrian"
+
+msgid "Shopping center"
+msgstr "Pusat beli belah"
+
+msgid "Business park"
+msgstr "Taman industri"
+
+msgid "Airport area"
+msgstr "Kawasan lapangan terbang"
+
+msgid "Science park"
+msgstr "Technopole"
+
+msgid "Port area"
+msgstr "Kawasan pelabuhan"
+
+msgid "Suburb"
+msgstr "Pinggir bandar"
+
+msgid "Hills"
+msgstr "Bukit"
+
+msgid "Waterfront"
+msgstr "Dermaga"
+
+#, fuzzy
+msgid "Countryside"
+msgstr ""
+"#-#-#-#-#  apimo-ms_MY.po  #-#-#-#-#\n"
+"Kawasan luar bandar\n"
+"#-#-#-#-#  apimo-ms_MY.po  #-#-#-#-#\n"
+"Desa"
+
+msgid "East"
+msgstr "Timur"
+
+msgid "North"
+msgstr "Utara"
+
+msgid "West"
+msgstr "Barat"
+
+msgid "South"
+msgstr "Selatan"
+
+msgid "Day"
+msgstr "Hari"
+
+msgid "Week"
+msgstr "Minggu"
+
+msgid "Fortnight"
+msgstr "Dua minggu"
+
+msgid "Month"
+msgstr "Bulan"
+
+msgid "Quarterly"
+msgstr "Suku tahunan"
+
+msgid "Bimonthly"
+msgstr "Dua bulan sekali"
+
+msgid "Half-yearly"
+msgstr "Separuh tahunan"
+
+msgid "Yearly"
+msgstr "Setiap tahun"
+
+msgid "Bus"
+msgstr "Bus"
+
+msgid "Bus hub"
+msgstr "Hab bus"
+
+msgid "Metro"
+msgstr "Metro"
+
+msgid "Shops"
+msgstr "Kedai"
+
+msgid "Primary school"
+msgstr "Sekolah Rendah"
+
+msgid "Town centre"
+msgstr "Pusat bandar"
+
+msgid "Hospital/clinic"
+msgstr "Hospital/Klinik"
+
+msgid "Doctor"
+msgstr "Doktor"
+
+msgid "Tram"
+msgstr "Trem"
+
+msgid "Train station"
+msgstr "Stesen Kereta Api"
+
+msgid "Public parking"
+msgstr "Parking awam"
+
+msgid "Supermarket"
+msgstr "Pasar raya"
+
+msgid "Sea port"
+msgstr "Pelabuhan"
+
+msgid "Nursery"
+msgstr "Pusat perjagaan"
+
+msgid "Public pool"
+msgstr "Kolam renang"
+
+msgid "Tennis"
+msgstr "Tenis"
+
+msgid "Golf"
+msgstr "Golf"
+
+msgid "Movies"
+msgstr "Wayang"
+
+msgid "Secondary school"
+msgstr "Sekolah Menengah"
+
+msgid "Sport center"
+msgstr "Kompleks Sukan"
+
+msgid "Airport"
+msgstr "Lapangan terbang"
+
+msgid "Sea"
+msgstr "Laut"
+
+msgid "TGV station"
+msgstr "Stesen TGV"
+
+msgid "Highway"
+msgstr "Highway"
+
+msgid "University"
+msgstr "Universiti"
+
+msgid "Convention center"
+msgstr "Pusat Konvensyen"
+
+msgid "Lake"
+msgstr "Tasik"
+
+msgid "On main road"
+msgstr "Atas jalan utama"
+
+msgid "Energy - Conventional consumption"
+msgstr "Tenaga - Penggunaan konvensional"
+
+msgid "Energy - Emissions estimate"
+msgstr "Anggaran tenaga - Anggaran pelepasan"
+
+msgid "« Carrez » act"
+msgstr "Akta carréz"
+
+msgid "ERP"
+msgstr "ERP"
+
+msgid "Termites"
+msgstr "Anai-anai"
+
+msgid "Asbestos"
+msgstr "Asbestos"
+
+msgid "Lead"
+msgstr "Plumbum"
+
+msgid "Electricity"
+msgstr "Elektrik"
+
+msgid "Boutin act"
+msgstr "Akta Boutin"
+
+msgid "Sanitation"
+msgstr "Sanitasi"
+
+msgid "EPI (Non renewable)"
+msgstr "Indice prestazione energetica (EPI)"
+
+msgid "APE"
+msgstr "APE"
+
+msgid "Request for nomination of an ad hoc agent"
+msgstr "Permintaan untuk penamaan seorang ejen ad hoc"
+
+msgid "Request for nomination of a temporary administrator"
+msgstr "Permintaan untuk penamaan seorang pentadbir sementara"
+
+msgid "Request for expert nomination"
+msgstr "Permintaan untuk pencalonan pakar"
+
+msgid "Fire safety regulations"
+msgstr "Standard keselamatan kebakaran"
+
+msgid "Accessibility standards for people with disabilities"
+msgstr "Standard kemudahan untuk Orang Kurang Upaya"
+
+msgid "Sanitary authorization"
+msgstr "Perjanjian sanitasi"
+
+msgid "Energy consumption"
+msgstr "Penggunaan tenaga"
+
+msgid "Land charges"
+msgstr "Caj tanah"
+
+msgid "Residents only"
+msgstr "Untuk penduduk sahaja"
+
+msgid "Property tax (IPTU)"
+msgstr "IPTU"
+
+msgid "Minergie"
+msgstr "Minergie"
+
+msgid "Volume"
+msgstr "Volume"
+
+msgid "Useful surface"
+msgstr "Permukaan yang boleh diguna"
+
+msgid "Co-Ownership property"
+msgstr "Harta kepunyaan bersama"
+
+msgid "Communal tax rate"
+msgstr "Kadar cukai komunal"
+
+msgid "Registration number"
+msgstr "Nombor pendaftaran"
+
+msgid "Emissions estimate"
+msgstr "Anggaran pelepasan"
+
+msgid "Rental value"
+msgstr "Nilai sewaan"
+
+msgid "Rental reference index"
+msgstr "Indeks rujukan sewa"
+
+msgid "Turnover"
+msgstr "Perolehan"
+
+msgid "Net income"
+msgstr "Pendapatan bersih"
+
+msgid "Gross operating profit"
+msgstr "Keuntungan operasi kasar"
+
+msgid "Personnel costs"
+msgstr "Kos peribadi"
+
+msgid "Cash flow"
+msgstr "Cash flow"
+
+msgid "Shareholders’equity"
+msgstr "Ekuiti pemegang saham"
+
+msgid "Net debt"
+msgstr "Hutang bersih"
+
+msgid "Internet"
+msgstr "Internet"
+
+msgid "Disabled access"
+msgstr "Akses OKU"
+
+msgid "Alarm system"
+msgstr "Sistem penggera"
+
+msgid "Lift"
+msgstr "Lif"
+
+msgid "Caretaker"
+msgstr "Penjaga"
+
+msgid "Double glazing"
+msgstr "Kaca berganda"
+
+msgid "Intercom"
+msgstr "Intercom"
+
+msgid "TV distribution"
+msgstr "TV kabel"
+
+msgid "Swimming pool"
+msgstr "Kolam renang"
+
+msgid "Security door"
+msgstr "Pintu sekuriti"
+
+msgid "Tennis court"
+msgstr "Gelanggang tenis"
+
+msgid "Irrigation sprinkler"
+msgstr "Pemercik pengairan"
+
+msgid "Barbecue"
+msgstr "Barbeku"
+
+msgid "Electric gate"
+msgstr "Pintu elektrik"
+
+msgid "Crawl space"
+msgstr "Crawl space"
+
+msgid "Car port"
+msgstr "Garaj kereta"
+
+msgid "Caretaker house"
+msgstr "Rumah penjaga"
+
+msgid "Sliding windows"
+msgstr "Sliding windows"
+
+msgid "Central vacuum system"
+msgstr "Sistem vakum"
+
+msgid "Electric shutters"
+msgstr "Bidai elektrik"
+
+msgid "Window shade"
+msgstr "Tingkap tetingkap"
+
+msgid "Electric awnings"
+msgstr "Awning elektrik"
+
+msgid "Washing machine"
+msgstr "Mesin basuh"
+
+msgid "Jacuzzi"
+msgstr "Jakuzi"
+
+msgid "Whirlpool tub"
+msgstr "Tab pusaran air"
+
+msgid "Well"
+msgstr "Perigi"
+
+msgid "Spring"
+msgstr "Spring"
+
+msgid "Engine generator"
+msgstr "Penjana enjin"
+
+msgid "Dishwasher"
+msgstr "Mesin basuh pinggan mangkuk"
+
+msgid "Hob"
+msgstr "Hob"
+
+msgid "Safe"
+msgstr "Peti keselamatan"
+
+msgid "Helipad"
+msgstr "Helipad"
+
+msgid "Videophone"
+msgstr "Videophone"
+
+msgid "Video security"
+msgstr "Video keselamatan"
+
+msgid "Iron"
+msgstr "Seterika"
+
+msgid "Hair dryer"
+msgstr "Pengering rambut"
+
+msgid "Television"
+msgstr "Televisyen"
+
+msgid "DVD Player"
+msgstr "Pemain DVD"
+
+msgid "CD Player"
+msgstr "Pemain CD"
+
+msgid "Outdoor lighting"
+msgstr "Pencahayaan luar"
+
+msgid "Spa"
+msgstr "Spa"
+
+msgid "Home automation"
+msgstr "Domotik"
+
+msgid "Linens"
+msgstr "Linens"
+
+msgid "Tableware"
+msgstr "Pinggan mangkuk"
+
+msgid "Clothes dryer"
+msgstr "Pengering baju"
+
+msgid "Refrigerator"
+msgstr "Peti sejuk"
+
+msgid "Oven"
+msgstr "Oven"
+
+msgid "Reception 24/7"
+msgstr "Reception 24/7"
+
+msgid "Coffeemaker"
+msgstr "Pembancuh kopi"
+
+msgid "Microwave oven"
+msgstr "Microwave oven"
+
+msgid "Shabbat elevator"
+msgstr "Lif Shabbat"
+
+msgid "Sukkah"
+msgstr "Sukkah"
+
+msgid "Synagogue"
+msgstr "Synagogue"
+
+msgid "Digicode"
+msgstr "Digikod"
+
+msgid "Common laundry"
+msgstr "Dobi awam"
+
+msgid "Pets allowed"
+msgstr "Haiwan peliharaan dibenarkan"
+
+msgid "Metal shutters"
+msgstr "Tetingkap logam"
+
+msgid "Wiring closet"
+msgstr "Brewing bay"
+
+msgid "Computer network"
+msgstr "Rangkaian komputer"
+
+msgid "Dropped ceiling"
+msgstr "Dropped ceiling"
+
+msgid "Fire hose cabinets"
+msgstr "Pili bomba"
+
+msgid "Fire sprinkler system"
+msgstr "Pemadam api automatik"
+
+msgid "Wharf"
+msgstr "Dok"
+
+msgid "Connected thermostat"
+msgstr "Termostat yang disambungkan"
+
+msgid "Bowling game"
+msgstr "Bowling game"
+
+msgid "Water softener"
+msgstr "Pelembut air"
+
+msgid "Triple glazing"
+msgstr "Kaca tiga"
+
+msgid "Well drilling"
+msgstr "Penggerudian"
+
+msgid "Optical fiber"
+msgstr "Serat optik"
+
+msgid "Non-flooding"
+msgstr "Non-flooding"
+
+msgid "Backup water system"
+msgstr "Sistem air sandaran"
+
+msgid "Water filtration system"
+msgstr "Sistem penapisan air"
+
+msgid "Air filtration system"
+msgstr "Sistem penapisan udara"
+
+msgid "Fire alarm system"
+msgstr "Sistem penggera kebakaran"
+
+msgid "Commercial services"
+msgstr "Perkhidmatan komersil"
+
+msgid "Playground"
+msgstr "Taman permainan"
+
+msgid "Flyboard"
+msgstr "Flyboard"
+
+msgid "Amphibious car"
+msgstr "Kereta amfibia"
+
+msgid "Beach games"
+msgstr "Permainan pantai"
+
+msgid "Bikes"
+msgstr "Basikal"
+
+msgid "Canoe"
+msgstr "Kanu"
+
+msgid "Diving"
+msgstr "Menyelam"
+
+msgid "Fishing"
+msgstr "Pancing"
+
+msgid "Floating pool"
+msgstr "Kolam terapung"
+
+msgid "Hoverboard"
+msgstr "Hoverboard"
+
+msgid "Hovercraft"
+msgstr "Hovercraft"
+
+msgid "Inflatables"
+msgstr "Inflatables"
+
+msgid "Water slide"
+msgstr "Slide air"
+
+msgid "Waterpark"
+msgstr "Taman tema air"
+
+msgid "Jet ski"
+msgstr "Jet ski"
+
+msgid "Kite surf"
+msgstr "Kite surf"
+
+msgid "Paddle"
+msgstr "Paddle"
+
+msgid "Scooter"
+msgstr "Skuter"
+
+msgid "Seabob"
+msgstr "Seabob"
+
+msgid "Segway"
+msgstr "Segway"
+
+msgid "Wakeboard"
+msgstr "Wakeboard"
+
+msgid "Berth"
+msgstr "Tempat pelabuhan"
+
+msgid "Cinema"
+msgstr "Teater"
+
+msgid "Supplies"
+msgstr "Bekalan"
+
+msgid "Outdoor spaces"
+msgstr "Ruang luar"
+
+msgid "Rental supplies"
+msgstr "Bekalan penyewaan"
+
+#, fuzzy
+msgid "Security"
+msgstr ""
+"#-#-#-#-#  apimo-ms_MY.po  #-#-#-#-#\n"
+"Sekuriti\n"
+"#-#-#-#-#  apimo-ms_MY.po  #-#-#-#-#\n"
+"Keselamatan"
+
+msgid "Professional supplies"
+msgstr "Bekalan profesional"
+
+msgid "Yacht supplies"
+msgstr "Bekalan yacht"
+
+msgid "High standard"
+msgstr "High standard"
+
+msgid "Luxury"
+msgstr "Mewah"
+
+msgid "High luxury"
+msgstr "Sangat mewah"
+
+msgid "Housing estate"
+msgstr "Kawasan perumahan"
+
+msgid "Regular"
+msgstr "Regular"
+
+msgid "In progress"
+msgstr "Dalam proses"
+
+msgid "Standby"
+msgstr "Standby"
+
+msgid "Deleted"
+msgstr "Dipadam"
+
+msgid "Waiting for agreement"
+msgstr "Sedang tunggu untuk perjanjian"
+
+msgid "Agreement ended"
+msgstr "Perjanjian tamat tempoh"
+
+#, fuzzy
+msgid "Offer"
+msgstr ""
+"#-#-#-#-#  apimo-ms_MY.po  #-#-#-#-#\n"
+"Tempahan\n"
+"#-#-#-#-#  apimo-ms_MY.po  #-#-#-#-#\n"
+"Tawaran"
+
+msgid "Processing sale"
+msgstr "Proses penjualan / penyewaan"
+
+msgid "Waiting for contract"
+msgstr "Tunggu untuk kontrak"
+
+msgid "Pending approval"
+msgstr "Tengah tunggu kelulusan"
+
+msgid "Sell/Rent by agent"
+msgstr "Jual/Sewa oleh ejen"
+
+msgid "Sell/Rent by owner"
+msgstr "Jual/Sewa oleh pemilik"
+
+msgid "Sell/Rent by other agent"
+msgstr "Jual/Sewa oleh ejen lain"
+
+msgid "Removed by agent"
+msgstr "Dibuang oleh ejen"
+
+msgid "Removed by owner"
+msgstr "Dibuang oleh pemilik"
+
+msgid "Sale/Rental cancelled"
+msgstr "Jual/Sewa dibatal"
+
+msgid "Delete this property"
+msgstr "Musnah / Buang harta ini"
+
+msgid "Business"
+msgstr "Bisnes"
+
+msgid "Garage/Parking"
+msgstr "Garaj / Parking"
+
+msgid "Office"
+msgstr "Ofis"
+
+msgid "Boat"
+msgstr "Bot"
+
+msgid "Cellar / Box"
+msgstr "bawah tanah / kotak"
+
+msgid "Triplex"
+msgstr "Triplex"
+
+msgid "Building land"
+msgstr "Kawasan pembinaan"
+
+msgid "Not constructible land"
+msgstr "Kawasan tidak boleh diguna untuk pembinaan"
+
+msgid "Penthouse"
+msgstr "Penthouse"
+
+msgid "Castle"
+msgstr "Istana"
+
+msgid "Duplex"
+msgstr "Duplex"
+
+msgid "Manor house"
+msgstr "Manoir"
+
+msgid "Farm"
+msgstr "Ladang"
+
+msgid "Attic"
+msgstr "Loteng"
+
+msgid "Villa"
+msgstr "Vila"
+
+msgid "Apartment villa"
+msgstr "Apartment vila"
+
+msgid "Ruin"
+msgstr "Ruin"
+
+msgid "Mansion"
+msgstr "Rumah"
+
+msgid "Mill"
+msgstr "Mill"
+
+msgid "Carpark"
+msgstr "Tempat letak kereta"
+
+msgid "Farmhouse"
+msgstr "Rumah ladang"
+
+msgid "Townhouse"
+msgstr "Rumah bandar"
+
+msgid "Mobile home"
+msgstr "Rumah mobil"
+
+msgid "Cottage"
+msgstr "Cottage"
+
+msgid "Hangar"
+msgstr "Hangar"
+
+msgid "Mas"
+msgstr "Mas"
+
+msgid "Local"
+msgstr "Local"
+
+msgid "Chalet"
+msgstr "Chalet"
+
+msgid "Retail space"
+msgstr "Premis lokal"
+
+msgid "Business assets"
+msgstr "Aset perniagaan"
+
+msgid "Right to the lease"
+msgstr "Hak untuk memajak"
+
+msgid "Management"
+msgstr "Pengurusan"
+
+msgid "Agricultural exploitation"
+msgstr "Eksploitasi pertanian"
+
+msgid "Woodshed"
+msgstr "Woodshed"
+
+msgid "Stud farm"
+msgstr "Ladang stud"
+
+#, fuzzy
+msgid "Plot of land"
+msgstr ""
+"#-#-#-#-#  apimo-ms_MY.po  #-#-#-#-#\n"
+"Plot tanah\n"
+"#-#-#-#-#  apimo-ms_MY.po  #-#-#-#-#\n"
+"Tanah"
+
+msgid "Bastide"
+msgstr "Bastide"
+
+msgid "Bastidon"
+msgstr "Bastidon"
+
+msgid "Company"
+msgstr "Syarikat"
+
+msgid "Vineyard property"
+msgstr "Tanah kebun anggur"
+
+msgid "Motor Yacht"
+msgstr "Motor Yacht"
+
+msgid "Narrow boat"
+msgstr "Tongkang"
+
+msgid "Sailing Yacht"
+msgstr "Kapal layar"
+
+msgid "Catamaran"
+msgstr "Catamaran"
+
+msgid "Equestrian estate"
+msgstr "Equestrian estate"
+
+msgid "Bed and breakfast"
+msgstr "Bed and breakfast"
+
+msgid "Gîte"
+msgstr "Gîte"
+
+msgid "Riad"
+msgstr "Riad"
+
+msgid "Retail shop"
+msgstr "Kedai butik"
+
+msgid "Shophouse"
+msgstr "Shophouse"
+
+msgid "Borey"
+msgstr "Borey"
+
+msgid "Condo"
+msgstr "Kondo"
+
+msgid "Factory"
+msgstr "Kilang"
+
+msgid "Serviced apartment"
+msgstr "Apartmen servis"
+
+msgid "Twin Villa"
+msgstr "Vila Kembar"
+
+msgid "Flat House"
+msgstr "Rumah flat"
+
+msgid "Semi-detached house"
+msgstr "Rumah kembar"
+
+msgid "Bungalow"
+msgstr "Banglo"
+
+msgid "Beach house"
+msgstr "Rumah pantai"
+
+msgid "Ger district"
+msgstr "Ger district"
+
+msgid "Summer house"
+msgstr "Rumah musim panas"
+
+msgid "Private island"
+msgstr "Pulau persendirian"
+
+msgid "Residential land"
+msgstr "Tanah residensi"
+
+msgid "Commercial land"
+msgstr "Tanah komersial"
+
+msgid "Subdivision"
+msgstr "Subdivisi"
+
+msgid "Game reserve"
+msgstr "Rizab"
+
+msgid "Mountains"
+msgstr "Gunung"
+
+msgid "Greenery"
+msgstr "Kehijauan"
+
+msgid "Monument"
+msgstr "Monumen"
+
+msgid "Forest"
+msgstr "Hutan"
+
+msgid "Main stem"
+msgstr "Sungai"
+
+msgid "City"
+msgstr "Bandar"
+
+msgid "Sky"
+msgstr "Langit"
+
+msgid "Harbor"
+msgstr "Pelabuhan"
+
+msgid "Ski slopes"
+msgstr "Cerun ski"
+
+msgid "Obstructed"
+msgstr "Terhalang"
+
+msgid "Slight"
+msgstr "Slight"
+
+msgid "Unobstructed"
+msgstr "Tidak terhalang"
+
+msgid "Panoramic"
+msgstr "Panoramik"
+
+msgid "Septic tank"
+msgstr "Tanki septik"
+
+msgid "Main drainage"
+msgstr "Saliran utama"
+
+msgid "Treatment plant"
+msgstr "Loji rawatan"
+
+msgid "Estate agent"
+msgstr "Ejen hartanah"
+
+msgid "Phoning"
+msgstr "Phoning"
+
+msgid "Collaboration"
+msgstr "Kolaborasi"
+
+msgid "Provider"
+msgstr "Pembekal"
+
+msgid "Renown"
+msgstr "Terkenal"
+
+msgid "Walk-in / Window"
+msgstr "Datang terus"
+
+msgid "Network"
+msgstr "Kenalan"
+
+msgid "Flyer"
+msgstr "Flyer"
+
+msgid "Sign"
+msgstr "Panel"
+
+msgid "Magazine"
+msgstr "Majalah"
+
+msgid "Mailing"
+msgstr "Mailing"
+
+msgid "e-mailing"
+msgstr "e-mailing"
+
+msgid "Old client"
+msgstr "Pelanggan lama"
+
+msgid "Appraisal"
+msgstr "Penilaian"
+
+msgid "Selection / Favorite"
+msgstr "Pilihan / Kegemaran"
+
+msgid "Main residence"
+msgstr "Residensi utama"
+
+msgid "Secondary residence"
+msgstr "Residensi secondary"
+
+msgid "Student residence"
+msgstr "Residensi pelajar"
+
+msgid "Tourism residence"
+msgstr "Residensi pelancongan"
+
+msgid "Seniors residence"
+msgstr "Residensi senior"
+
+msgid "Duflot Legislation"
+msgstr "Akta Duflot"
+
+msgid "Censi-Bouvard Legislation"
+msgstr "Akta Censi-Bouvard"
+
+msgid "Rental investment"
+msgstr "Pelaburan penyewaan"
+
+msgid "Resale"
+msgstr "Jual balik"
+
+msgid "Private leasing"
+msgstr "Pajakan persendirian"
+
+msgid "Bank leasing"
+msgstr "Pajakan bank"
+
+msgid "Exchangeable"
+msgstr "Boleh ditukar"
+
+msgid "No advance"
+msgstr "Tiada pendahuluan"
+
+msgid "m²"
+msgstr "m²"
+
+msgid "sq ft"
+msgstr "ft²"
+
+msgid "sq yd"
+msgstr "yd²"
+
+msgid "ha"
+msgstr "ha"
+
+msgid "ares"
+msgstr "ares"
+
+msgid "minute"
+msgstr "minit"
+
+msgid "metre"
+msgstr "meter"
+
+msgid "km"
+msgstr "km"
+
+msgid "Administrator"
+msgstr "Pentadbir"
+
+msgid "Company manager"
+msgstr "Manager Syarikat"
+
+msgid "Agency manager"
+msgstr "Manager agensi"
+
+msgid "Secretariat"
+msgstr "Setiausaha"
+
+#, fuzzy
+msgid "Agent"
+msgstr ""
+"#-#-#-#-#  apimo-ms_MY.po  #-#-#-#-#\n"
+"Broker\n"
+"#-#-#-#-#  apimo-ms_MY.po  #-#-#-#-#\n"
+"Egen"
+
+msgid "Intern"
+msgstr "Intern"
+
+msgid "User"
+msgstr "Pengguna"
+
+msgid "Franchisor"
+msgstr "Franchisor"
+
+msgid "Translator"
+msgstr "Penterjemah"
+
+msgid "Plan"
+msgstr "Pelan"
+
+msgid "Pictures"
+msgstr "Gambar"
+
+msgid "Pet"
+msgstr "Haiwan / Binatang"
+
+msgid "Natural light"
+msgstr "Lampu natural"
+
+msgid "Kitchen island"
+msgstr "Pulau dapur"
+
+msgid "Kitchen bar"
+msgstr "Bar dapur"
+
+msgid "High ceiling"
+msgstr "Siling tinggi"
+
+msgid "Skylight"
+msgstr "Skylight"
+
+msgid "Exposed bricks"
+msgstr "Dinding bata"
+
+msgid "Ceiling fan"
+msgstr "Kipas siling"
+
+msgid "Chandelier"
+msgstr "Kandil siling"
+
+msgid "Stainless steel"
+msgstr "Keluli tahan karat"
+
+msgid "Price on request"
+msgstr "Harga atas permintaan"
+
+msgid "Currency"
+msgstr "Mata wang"
+
+msgid "Price"
+msgstr "Harga"
+
+msgid "Type"
+msgstr "Jenis"
+
+msgid "Rooms"
+msgstr "Bilik"
+
+msgid "Send"
+msgstr "Hantar"
+
+msgid "message"
+msgstr "Mesej"
+
+msgid "e-mail"
+msgstr "emel"
+
+msgid "Lastname"
+msgstr "Nama keluarga"
+
+msgid "Name"
+msgstr "Nama"
+
+msgid "Reference"
+msgstr "Rujukan"
+
+msgid "Ref"
+msgstr "Ruj."
+
+msgid "%s bedrooms"
+msgstr "%s bilik tidur"
+
+msgid "%s rooms"
+msgstr "%s bilik"
+
+msgid "Folder"
+msgstr "Folder"
+
+msgid "No results found"
+msgstr "Tiada padanan ditemui"
+
+msgid "Please enter one more character"
+msgstr "Sila taip satu lagi karakter"
+
+msgid "Duplicate"
+msgstr "Penduakan"
+
+msgid "Backup"
+msgstr "Backup"
+
+msgid "Rates"
+msgstr "Kadar"
+
+msgid "Sender"
+msgstr "Pengirim"
+
+msgid "Recipient"
+msgstr "Penerima"
+
+msgid "Subject"
+msgstr "Perkara / subjek"
+
+msgid "Attachment"
+msgstr "Lampiran"
+
+msgid "Lock"
+msgstr "Kunci"
+
+msgid "Document"
+msgstr "Dokumen"
+
+msgid "Back"
+msgstr "Kembali / Pulang"
+
+msgid "Help?"
+msgstr "Bantuan?"
+
+msgid "Read more"
+msgstr "Baca lagi"
+
+msgid "Areas"
+msgstr "Keluasan"
+
+msgid "Length"
+msgstr "Panjang"
+
+msgid "Height"
+msgstr "Tinggi"
+
+msgid "Width"
+msgstr "Lebar"
+
+msgid "Deposit"
+msgstr "Deposit"
+
+msgid "Agreement reference"
+msgstr "Rujukan perjanjian"
+
+msgid "Agreement start at"
+msgstr "Perjanjian bermula pada"
+
+msgid "Agreement end at"
+msgstr "Perjanjian tamat pada"
+
+msgid "Website"
+msgstr "Laman web"
+
+msgid "Proximities"
+msgstr "Berdekatan"
+
+msgid "Loading"
+msgstr "Sedang muat turun"
+
+msgid "Log out"
+msgstr "Log keluar"
+
+msgid "Availability"
+msgstr "Kebolehdapatan / Ketersediaan"
+
+msgid "Total area"
+msgstr "Keluasan total"
+
+msgid "Living area"
+msgstr "Keluasan tempat tinggal"
+
+msgid "Password forgotten"
+msgstr "Lupa kata laluan"
+
+msgid "Password"
+msgstr "Kata laluan"
+
+msgid "Username"
+msgstr "Nama pengguna"
+
+msgid "Welcome on %s"
+msgstr "Selamat datang %s"
+
+msgid "Add"
+msgstr "Tambah"
+
+msgid "Show"
+msgstr "Papar / Tunjuk"
+
+msgid "List"
+msgstr "Senarai"
+
+msgid "Tools"
+msgstr "Alat"
+
+msgid "Market"
+msgstr "Saham"
+
+msgid "agencies"
+msgstr "Agensi"
+
+msgid "Calendar"
+msgstr "Kalendar"
+
+msgid "Homepage"
+msgstr "Laman utama"
+
+msgid "Maps"
+msgstr "Peta"
+
+msgid "Values"
+msgstr "Nilai"
+
+msgid "Sector"
+msgstr "Sektor"
+
+msgid "contacts"
+msgstr "Kenalan"
+
+msgid "%s contacts"
+msgstr "%s kenalan"
+
+msgid "Configuration"
+msgstr "Konfigurasi"
+
+msgid "General"
+msgstr "General"
+
+msgid "Heating"
+msgstr "Pemanasan"
+
+msgid "Waste water"
+msgstr "Air sisa / air kumbahan"
+
+msgid "Country"
+msgstr "Negara"
+
+msgid "Escrow deposit"
+msgstr "Escrows"
+
+msgid "Owners"
+msgstr "Pemilik"
+
+msgid "Orientation"
+msgstr "Orientasi / Kedudukan"
+
+msgid "View"
+msgstr "Pemandangan"
+
+msgid "District"
+msgstr "Dareah / Kawasan / Wilayah"
+
+msgid "Fields"
+msgstr "Tempat kosong"
+
+msgid "Hook"
+msgstr "Cangkuk"
+
+msgid "Comment"
+msgstr "Komen / Ulasan"
+
+msgid "Buy"
+msgstr "Beli"
+
+msgid "Commercial"
+msgstr "Komersial"
+
+msgid "About us"
+msgstr "Tentang kami"
+
+msgid "Companies"
+msgstr "Syarikat"
+
+msgid "Service"
+msgstr "Servis"
+
+msgid "News"
+msgstr "Berita"
+
+msgid "Contact us"
+msgstr "Hubungi kami"
+
+msgid "Print"
+msgstr "Cetak"
+
+msgid "Add to cart"
+msgstr "Tambah ke dalam troli"
+
+msgid "Replace in cart"
+msgstr "Ganti di dalam troli"
+
+msgid "Category"
+msgstr "Kategori"
+
+msgid "History"
+msgstr "Sejarah"
+
+msgid "Details"
+msgstr "Maklumat / Info"
+
+msgid "Date"
+msgstr "Tarikh"
+
+msgid "Previous"
+msgstr "Terdahulu / Sebelum"
+
+msgid "Next"
+msgstr "Seterusnya"
+
+msgid "Quick search"
+msgstr "Pencarian rapid"
+
+msgid "Postal code"
+msgstr "Kod postal"
+
+msgid "The username and/or password is invalid."
+msgstr "Nama pengguna dan/atau kata laluan salah"
+
+msgid "Group"
+msgstr "Kumpulan"
+
+msgid "Are you sure?"
+msgstr "Adakah anda yakin?"
+
+msgid "Nationality"
+msgstr "Kewarganegaraan"
+
+msgid "Radius"
+msgstr "Radius"
+
+msgid "Summary"
+msgstr "Ringkasan"
+
+msgid "Watermark"
+msgstr "Tera air"
+
+msgid "Latitude"
+msgstr "Latitud"
+
+msgid "Longitude"
+msgstr "Longitud"
+
+msgid "Mortgage"
+msgstr "Cagar"
+
+msgid "Download"
+msgstr "Muat turun"
+
+msgid "Dashboard"
+msgstr "Papan pemuka"
+
+msgid "Matching"
+msgstr "Pemadanan"
+
+msgid "Pay now by card"
+msgstr "Bayar menggunakan kad"
+
+msgid "Pay by bank transfer"
+msgstr "Bayar melalui pemindahan bank"
+
+msgid "Pay by check"
+msgstr "Bayar menggunakan cek"
+
+msgid "Powered by"
+msgstr "Rakan kongsi dengan"
+
+msgid "Accepted payment methods"
+msgstr "Cara pembayaran yang diterima"
+
+msgid "Terms and Conditions"
+msgstr "Terma dan syarat"
+
+msgid ""
+"Your contact is already in database, please select it on the list below."
+msgstr ""
+"Kenalan anda sudah ada dalam pangkalan data, sila pilih dalam senarai di "
+"bawah."
+
+msgid "Contract"
+msgstr "Perjanjian"
+
+msgid "Agreement"
+msgstr "Perjanjian"
+
+msgid "Seekers"
+msgstr "Pencari"
+
+msgid "Active seekers"
+msgstr "Pencari aktif"
+
+msgid "Active owner"
+msgstr "Pemilik aktif"
+
+msgid "Monitoring"
+msgstr "Pantau / Semak"
+
+msgid "Forward"
+msgstr "Forward"
+
+msgid "Similar"
+msgstr "Serupa / Sama"
+
+msgid "Condition"
+msgstr "Keadaan"
+
+msgid "Level"
+msgstr "Aras / Tingkat"
+
+msgid "Water"
+msgstr "Air"
+
+msgid "Description"
+msgstr "Deskripsi"
+
+msgid "Deductions"
+msgstr "Deduksi"
+
+msgid "Not available"
+msgstr "Tidak tersedia / Tiada untuk perkhidmatan"
+
+msgid "Occupant"
+msgstr "Penghuni"
+
+msgid "Prospect"
+msgstr "Prospect"
+
+msgid "Sharing"
+msgstr "Kongsi"
+
+msgid "Like"
+msgstr "Suka"
+
+msgid "Unlike"
+msgstr "Tidak suka"
+
+msgid "Portfolio"
+msgstr "Portfolio"
+
+msgid "Characteristics"
+msgstr "Ciri-ciri"
+
+msgid "Contracted owners"
+msgstr "Pemilik yang sudah tandatangan"
+
+msgid "Contracted customers"
+msgstr "Pelanggan yang sudah tandatangan"
+
+msgid "Transfer tax"
+msgstr "Cukai pemindahan"
+
+msgid "Change to"
+msgstr "Tukar kepada"
+
+msgid "Until"
+msgstr "Sampai"
+
+msgid "Location reference"
+msgstr "Rujukan lokasi"
+
+msgid "Priority"
+msgstr "Prioriti"
+
+msgid "Full form"
+msgstr "Borang lengkap"
+
+msgid "Quick form"
+msgstr "Borang rapid"
+
+msgid "%s char(s)"
+msgstr "%s karakter"
+
+msgid "Price from"
+msgstr "Harga dari"
+
+msgid "Listings"
+msgstr "Penyenaraian"
+
+msgid "Duration"
+msgstr "Tempoh"
+
+msgid "Request incomplete"
+msgstr "Permintaan tidak lengkap"
+
+msgid "%s incomplete request(s)"
+msgstr "%s permintaan tidak lengkap"
+
+msgid "Subscribe for"
+msgstr "Langgan untuk"
+
+msgid "Subtotal"
+msgstr "Jumlah kecil"
+
+msgid "Tax notice"
+msgstr "Notis cukai"
+
+msgid "Events"
+msgstr "Peristiwa / Acara"
+
+msgid "Present"
+msgstr "Hadir / Ada"
+
+msgid "Missing"
+msgstr "Hilang / Tiada"
+
+msgid "Planned"
+msgstr "Telah dirancang"
+
+msgid "Full"
+msgstr "Penuh"
+
+msgid "Organizer"
+msgstr "Penganjur"
+
+msgid "Already subscribed"
+msgstr "Sudah langgan"
+
+msgid "Attendees"
+msgstr "Peserta"
+
+msgid "Join"
+msgstr "Sertai"
+
+msgid "Training"
+msgstr "Latihan"
+
+msgid "Require a change of password at next logon"
+msgstr "Minta perubahan kata laluan pada log masuk seterusnya"
+
+msgid "Gross revenue"
+msgstr "Pendapatan kasar"
+
+msgid "Gross yield"
+msgstr "Hasil kasar"
+
+msgid "Net yield"
+msgstr "Pendapatan bersih"
+
+msgid "Vacancy rate"
+msgstr "Kadar kekosongan"
+
+msgid "Investment"
+msgstr "Pelaburan"
+
+msgid "Variables"
+msgstr "Pembolehubah"
+
+msgid "Example"
+msgstr "Contoh"
+
+msgid "Increment"
+msgstr "Kenaikan"
+
+msgid "Schema"
+msgstr "Skema"
+
+msgid "Automation"
+msgstr "Automasi"
+
+msgid "Login"
+msgstr "Login"
+
+msgid "Renovation year"
+msgstr "Tahun pengubahsuaian"
+
+msgid "Curriculum vitae"
+msgstr "Kurikulum vitae"
+
+msgid "Resellers"
+msgstr "Penjual balik"
+
+msgid "Select"
+msgstr "Pilih"
+
+msgid "Billing"
+msgstr "Billing"
+
+msgid "The balance of your account is %s"
+msgstr "Baki akaun anda adalah %s"
+
+msgid "Ceiling"
+msgstr "Siling"
+
+msgid "Weighted area"
+msgstr "Kawasan wajaran"
+
+msgid "Collected"
+msgstr "Dikumpul"
+
+msgid "Unlimited"
+msgstr "Tiada had/ Tiada batas"
+
+msgid "Quantity"
+msgstr "Kuantiti"
+
+msgid "Subscribe"
+msgstr "Langgan"
+
+msgid "Setup"
+msgstr "Setup"
+
+msgid "Matching at"
+msgstr "Sepadan pada"
+
+msgid "Price by area"
+msgstr "Harga ikut keluasan"
+
+msgid "Default list"
+msgstr "Senarai asal"
+
+msgid "Subtype"
+msgstr "Jenis sub"
+
+msgid "Inventory"
+msgstr "Inventori"
+
+msgid "Add a custom document"
+msgstr "Tambah dokumen"
+
+msgid "Line spacing"
+msgstr "Jarak baris"
+
+msgid "Font"
+msgstr "Saiz huruf"
+
+msgid "Portrait"
+msgstr "Potret"
+
+msgid "Landscape"
+msgstr "Landskap"
+
+msgid "Account"
+msgstr "Akaun"
+
+msgid "Optional"
+msgstr "Fakultatif"
+
+msgid "File"
+msgstr "Fail"
+
+msgid "Collected at"
+msgstr "Dkiumpul / Dikutip pada"
+
+msgid "Linked"
+msgstr "Dihubung"
+
+msgid "Discover our offers"
+msgstr "Lihat tawaran kami"
+
+msgid "Blank"
+msgstr "Kosong"
+
+msgid "Portal"
+msgstr "Portal"
+
+msgid "Software Documentation"
+msgstr "Dokumentasi perisian"
+
+msgid "Time"
+msgstr "Waktu"
+
+msgid "Dedicated website"
+msgstr "Laman web khusus"
+
+msgid "Subcategory"
+msgstr "Subkategori"
+
+msgid "No IP control"
+msgstr "Tiada kontrol IP"
+
+msgid "Auto publish"
+msgstr "Penerbitan automatik"
+
+msgid "Link to property"
+msgstr "Berkait dengan harta"
+
+msgid "Happy birthday!"
+msgstr "Selamat hari jadi !"
+
+msgid "Birthday"
+msgstr "Hari jadi"
+
+msgid "Last login"
+msgstr "Log masuk terakhir"
+
+msgid "This property is a part of:"
+msgstr "Harta ini adalah sebahagian daripada:"
+
+msgid "IP address"
+msgstr "Alamat IP"
+
+msgid "Searches"
+msgstr "Pencarian"
+
+msgid "Access code"
+msgstr "Kod akses"
+
+msgid "Access code at"
+msgstr "Kod akses pada"
+
+msgid "Number of shares"
+msgstr "Bilangan saham"
+
+msgid "Leads"
+msgstr "Prospek"
+
+msgid "Cancelled"
+msgstr "Dibatalkan"
+
+msgid "Link"
+msgstr "Pautan"
+
+msgid "Advanced"
+msgstr "Lanjut"
+
+msgid "Publish on homepage"
+msgstr "Terbit di laman utama"
+
+msgid "Suggested"
+msgstr "Dicadang"
+
+msgid "Content"
+msgstr "Kandungan"
+
+msgid "Extranet access"
+msgstr "Akses Extranet"
+
+msgid "Publish address"
+msgstr "Papar alamat"
+
+msgid "Opening hours"
+msgstr "Waktu pembukaan"
+
+msgid "Backoffice"
+msgstr "Back ofis"
+
+msgid "Member since %s"
+msgstr "Ahli sejak %s"
+
+msgid "Lock menu bar"
+msgstr "Bar menu kunci"
+
+msgid "Update"
+msgstr "Kemas kini"
+
+msgid "Reservations"
+msgstr "Tempahan"
+
+msgid "Forward to contact"
+msgstr "Forward untuk dihubungi"
+
+msgid "Responder"
+msgstr "Responder"
+
+msgid ""
+"You can search our Frequently Asked Questions (FAQs) database by keyword(s):"
+msgstr ""
+"Anda boleh mencari pangkalan data Soalan Lazim (FAQ) dengan kata kunci:"
+
+msgid "Registrar"
+msgstr "Pendaftar"
+
+msgid "Expiration at"
+msgstr "Tamat tempoh pada"
+
+msgid "Mailbox"
+msgstr "Peti mel"
+
+msgid "Domain name"
+msgstr "Nama domain"
+
+msgid "Filling"
+msgstr "Isian"
+
+msgid "Condition precedent"
+msgstr "Keadaan terdahulu"
+
+msgid "Size"
+msgstr "Saiz"
+
+msgid "Deal fees"
+msgstr "Yuran perjanjian"
+
+msgid "Fees charged"
+msgstr "Yuran yang dikenakan"
+
+msgid "Customers"
+msgstr "Pelangggan"
+
+msgid "Booked"
+msgstr "Ditempah"
+
+msgid "Available"
+msgstr "Sedia ada"
+
+msgid "Associate"
+msgstr "Campur / Berganding"
+
+msgid "Ceiling height"
+msgstr "Tinggi siling"
+
+msgid "Translations"
+msgstr "Terjemahan"
+
+msgid "Unsold"
+msgstr "Belum dijual"
+
+msgid "Sold"
+msgstr "Telah dijual"
+
+msgid "Last action"
+msgstr "Tindakan terakhir"
+
+msgid "Our agency"
+msgstr "Agensi kita"
+
+msgid "Locate us"
+msgstr "Cari kami"
+
+msgid "Your main contact"
+msgstr "Kenalan utama anda"
+
+msgid "Send me a message"
+msgstr "Hantar mesej kepada saya"
+
+msgid "Leave us a message"
+msgstr "Tinggalkan pesanan untuk kami"
+
+msgid "Price with fees"
+msgstr "Harga dengan bayaran"
+
+msgid "Owner access"
+msgstr "Akses pemilik"
+
+msgid "Added"
+msgstr "Ditambah"
+
+msgid "Available for matching"
+msgstr "Sedia untuk dipadankan"
+
+msgid "Available on"
+msgstr "Sedia ada pada"
+
+msgid "Lessee"
+msgstr "Penyewa"
+
+msgid "Add to list"
+msgstr "Tambah pada senarai"
+
+msgid "Custom tags"
+msgstr "Custom tags"
+
+msgid "%s pending approval properties"
+msgstr "%s hartanah yang menunggu kelulusan"
+
+msgid "Negotiable price"
+msgstr "Harga boleh dirunding"
+
+msgid "Price updated"
+msgstr "Harga yang dikemas kini"
+
+msgid "Less equal"
+msgstr "Kurang sama"
+
+msgid "Equal"
+msgstr "Sama"
+
+msgid "Greater equal"
+msgstr "Lebih besar sama"
+
+msgid "Contact means"
+msgstr "Cara berhubung"
+
+msgid "Agency commission"
+msgstr "Agensi suruhanjaya"
+
+msgid "Scheduled at"
+msgstr "Dijualkan pada"
+
+msgid "Contract at"
+msgstr "Perjanjian pada"
+
+msgid "Commitment"
+msgstr "Komitmen"
+
+msgid "Commitment at"
+msgstr "Komitmen pada"
+
+msgid "Offer at"
+msgstr "Tawaran pada"
+
+msgid "No action"
+msgstr "Tiada tindakan"
+
+msgid "Others"
+msgstr "Lain"
+
+msgid "Received contact information"
+msgstr "Telah terima maklumat kenalan"
+
+msgid "Linked contact"
+msgstr "Kenalan yang berkaitan"
+
+msgid "Related contacts"
+msgstr "Kenalan berkaitan"
+
+msgid "Assign by"
+msgstr "Ditugaskan pada"
+
+msgid "Opened by"
+msgstr "Dibuka oleh"
+
+msgid "Closed by"
+msgstr "Ditutup oleh"
+
+msgid "Time zone"
+msgstr "Zon masa"
+
+msgid "Invert selection"
+msgstr "Songsangkan pilihan"
+
+msgid "Select all"
+msgstr "Pilih semua"
+
+msgid "Unselect all"
+msgstr "Nyahpilih semua"
+
+msgid "%s awaiting lead(s)"
+msgstr "%s prospek menunggu"
+
+msgid "%s lead(s) to assign"
+msgstr "%s Prospek untuk ditugaskan"
+
+msgid "%s pending properties"
+msgstr "%s hartanah pending"
+
+msgid "%s pending matching(s)"
+msgstr "%s padanan pending"
+
+msgid "%s expired agreement(s)"
+msgstr "%s perjanjian yang tamat tempoh"
+
+msgid "%s expired soon agreement(s)"
+msgstr "%s perjanjian yang akan tamat tempoh"
+
+msgid "Legal notice"
+msgstr "Notis legal"
+
+msgid "Tags"
+msgstr "Tags"
+
+msgid "Allowed"
+msgstr "Dibenarkan"
+
+msgid "Min stay"
+msgstr "Penginapan minimum"
+
+msgid "Over"
+msgstr "Lebih"
+
+msgid "Refresh"
+msgstr "Ulangmmuat"
+
+msgid "Free text"
+msgstr "Teks bebas"
+
+msgid "Generate comment"
+msgstr "Janakan pandangan / ulasan"
+
+msgid "Building name"
+msgstr "Nama bangunan"
+
+msgid "VAT"
+msgstr "VAT"
+
+msgid "VAT included"
+msgstr "VAT inklus"
+
+msgid "VAT excluded"
+msgstr "VAT dikecualikan"
+
+msgid "Recurrence"
+msgstr "Berulang"
+
+msgid "Calculate"
+msgstr "Kira"
+
+msgid "Contribution"
+msgstr "Sumbangan"
+
+msgid "Maximum debt"
+msgstr "Hutang maximum"
+
+msgid "Purchase amount"
+msgstr "Jumlah pembelian"
+
+msgid "Borrowing calculator"
+msgstr "Kalkulator pinjaman"
+
+msgid "Monthly payment calculator"
+msgstr "Kalkulator bayaran bulanan"
+
+msgid "You don't have broadcasting rights"
+msgstr "Anda tidak mempunyai hak penyiaran"
+
+msgid "Pending"
+msgstr "Belum selesai"
+
+msgid "Suggestions"
+msgstr "Cadangan"
+
+msgid "Publish"
+msgstr "Papar"
+
+msgid "Automatic"
+msgstr "Automatik"
+
+msgid "Manual"
+msgstr "Manual"
+
+msgid "In collaboration with a %name% professional"
+msgstr "Kolaborasi dengan %name% profesional"
+
+msgid "Partners"
+msgstr "Rakan kongsi"
+
+msgid "Cost"
+msgstr "Kos"
+
+msgid "My search"
+msgstr "Carian saya"
+
+msgid "Spouse"
+msgstr "Pasangan"
+
+msgid "Manager"
+msgstr "Pengurus"
+
+msgid "Category reference"
+msgstr "Kategori rujukan"
+
+msgid "Cadastre reference"
+msgstr "Rujukan kadester"
+
+msgid "Lot reference"
+msgstr "Rujukan lot"
+
+msgid "Block reference"
+msgstr "Rujukan blok"
+
+msgid "Stairs reference"
+msgstr "Rujukan tangga"
+
+msgid "Mortgage end at"
+msgstr "Cagaran tamat pada"
+
+msgid "Review"
+msgstr "Tinjauan"
+
+msgid "Medias"
+msgstr "Media"
+
+msgid "Last access"
+msgstr "Akses terakhir"
+
+msgid "First access"
+msgstr "Akses pertama"
+
+msgid "Access count"
+msgstr "Kiraan akses"
+
+msgid "Default"
+msgstr "Default"
+
+msgid "Please do not enter any name or contact"
+msgstr "Jangan masukkan sebarang nama atau kenalan"
+
+msgid "QR-Code"
+msgstr "Kod QR"
+
+msgid "Show price"
+msgstr "Papar harga"
+
+msgid "Done"
+msgstr "Selesai"
+
+msgid "Not applicable"
+msgstr "Tidak berkaitan"
+
+msgid "Fill in the table"
+msgstr "Isikan jadual"
+
+msgid "Copy"
+msgstr "Copy"
+
+msgid "Automatic matching"
+msgstr "Padanan automatik"
+
+msgid "Authorization"
+msgstr "Kebenaran"
+
+msgid "Last connection the %s"
+msgstr "Login terakhir pada %s"
+
+msgid "All"
+msgstr "Semua"
+
+msgid "Wiki"
+msgstr "Wiki"
+
+msgid "Latest"
+msgstr "Terbaru"
+
+msgid "Reset"
+msgstr "Reset"
+
+msgid "Show/hide fields"
+msgstr "Tunjuk/Sembunyi medan"
+
+msgid "Recent searches"
+msgstr "Carian terbaharu"
+
+msgid "Association"
+msgstr "Persatuan"
+
+msgid "Meta crawler"
+msgstr "Meta crawler"
+
+msgid "Alerts"
+msgstr "Amaran"
+
+msgid "Prescriber"
+msgstr "Prescriber"
+
+msgid "Staff"
+msgstr "Kaki tangan"
+
+msgid "Standing"
+msgstr "Standing"
+
+msgid "Receive a copy"
+msgstr "Terima satu salinan"
+
+msgid "Latest views"
+msgstr "Pandangan terkini"
+
+msgid "Quality"
+msgstr "Kualiti"
+
+msgid "Waiting for partner"
+msgstr "Sedang menunggu rakan kongsi"
+
+msgid "Viewing agreement"
+msgstr "Perjanjian pemandangan"
+
+msgid "Decline"
+msgstr "Tolak"
+
+msgid "Accept"
+msgstr "Terima"
+
+msgid "Accepted"
+msgstr "Telah diterima"
+
+msgid "Zone"
+msgstr "Zon"
+
+msgid "Matrimonial regime"
+msgstr "Rejim perkahwinan"
+
+msgid "Marital status"
+msgstr "Status perkahwinan"
+
+msgid "Thumbnail"
+msgstr "Thumbnail"
+
+msgid "Unread"
+msgstr "Belum dibaca"
+
+msgid "Reply"
+msgstr "Balas"
+
+msgid "Pension"
+msgstr "Pencen"
+
+msgid "Beam"
+msgstr "Beam"
+
+msgid "Draft"
+msgstr "Draf"
+
+msgid "Guests"
+msgstr "Jemputan"
+
+msgid "Crew"
+msgstr "Krew"
+
+msgid "Cruising speed"
+msgstr "Kelajuan pelayaran"
+
+msgid "Builder"
+msgstr "Pembina / Pemaju"
+
+msgid "Administration"
+msgstr "Pentadbiran"
+
+msgid "Civil law notary"
+msgstr "Notari undang-undang sivil"
+
+msgid "Max price"
+msgstr "Harga maks"
+
+msgid "Reminders"
+msgstr "Peringatan"
+
+msgid "Credit"
+msgstr "Kredit"
+
+msgid "Signature"
+msgstr "Tandatangan"
+
+msgid "Title (politeness)"
+msgstr "Gelaran (hormat)"
+
+msgid "Total"
+msgstr "Jumlah"
+
+msgid "Updated at"
+msgstr "Dikemas kini pada"
+
+msgid "Created at"
+msgstr "Dicipta / Dihasil"
+
+msgid "First published at"
+msgstr "Pertama kali diterbitkan pada"
+
+msgid "Insurance"
+msgstr "Insurans"
+
+msgid "Provision"
+msgstr "Peruntukan"
+
+msgid "Entries"
+msgstr "Kemasukan"
+
+msgid "Number"
+msgstr "Nombor"
+
+msgid "Plot of land area"
+msgstr "Plot kawasan tanah"
+
+msgid "Deposit account"
+msgstr "Akaun deposit"
+
+msgid "Owner's price"
+msgstr "Harga pemilik"
+
+msgid "Starting price"
+msgstr "Harga permulaan"
+
+msgid "Mobile"
+msgstr "Telefon bimbit"
+
+msgid "Tel."
+msgstr "Tel."
+
+msgid "Leases"
+msgstr "Pajakan"
+
+msgid "Address"
+msgstr "Alamat"
+
+msgid "Tips"
+msgstr "Tips"
+
+msgid "Erase"
+msgstr "Padam"
+
+msgid "day"
+msgstr "Hari"
+
+msgid "Catalog"
+msgstr "Katalog"
+
+msgid "Statistics"
+msgstr "Statistik"
+
+msgid "Built in"
+msgstr "Terbina dalam"
+
+msgid "Mark"
+msgstr "Tanda"
+
+msgid "Percentage"
+msgstr "Peratusan"
+
+msgid "Visits"
+msgstr "Lawatan"
+
+msgid "Tour comment"
+msgstr "Ulasan lawatan"
+
+msgid "Key number"
+msgstr "Nombor kunci"
+
+msgid "Key's place"
+msgstr "Tempat kunci"
+
+msgid "Displayed city (optional)"
+msgstr "Bandar yang dipaparkan (fakultatif)"
+
+msgid "Displayed district (optional)"
+msgstr "Daerah yang dipaparkan (fakultatif)"
+
+msgid "Clauses"
+msgstr "Klausa"
+
+msgid "Seller"
+msgstr "Penjual"
+
+msgid "Adjacency"
+msgstr "Bersebelahan"
+
+msgid "Step"
+msgstr "Langkah"
+
+msgid "Long comment"
+msgstr "Komen panjang"
+
+msgid "Subtitle"
+msgstr "Tajuk kecil"
+
+msgid "Title"
+msgstr "Tajuk"
+
+msgid "Last published at"
+msgstr "Diterbitkan terakhir pada"
+
+msgid "Inactive"
+msgstr "Tidak aktif"
+
+msgid "Position"
+msgstr "Jawatan"
+
+msgid "Please fill in a name and a phone or an e-mail."
+msgstr "Sila isikan nama dan telefon atau e-mel."
+
+msgid "Passwords do not match, please retype"
+msgstr "Kata laluan tidak sepadan, sila taip semula"
+
+msgid "Please change your password"
+msgstr "Sila tukar kata laluan anda"
+
+msgid "New password should not be same as old password"
+msgstr "Kata laluan baru tidak boleh sama dengan kata laluan lama"
+
+msgid "years"
+msgstr "tahun"
+
+msgid "Subscriptions"
+msgstr "Langganan"
+
+msgid "Action"
+msgstr "Tindakan"
+
+msgid "Ad"
+msgstr "Iklan"
+
+msgid "Add opening hours"
+msgstr "Tambah waktu pembukaan"
+
+msgid "price"
+msgstr "harga"
+
+msgid "Private"
+msgstr "Peribadi"
+
+msgid ""
+"Please note that there are dependencies, please select a contact for "
+"completing the data transfer."
+msgstr ""
+"Sila ambil perhatian terdapat dependensi, terima kasih untuk memilih kenalan"
+" untuk menyelesaikan pemindahan"
+
+msgid "The installation can take several minutes, please come back later."
+msgstr ""
+"Pemasangan boleh mengambil masa beberapa minit, sila kembali kemudian."
+
+msgid "Your contact speaks %s, would you like to change the language?"
+msgstr "Kenalan anda bercakap % s, adakah anda ingin tukar kepada bahasa itu?"
+
+msgid "Would you like to publish on the homepage?"
+msgstr "Adakah anda ingin paparkan di laman utama?"
+
+msgid "plus VAT"
+msgstr "plus VAT"
+
+msgid "<b>Warning :</b> there is an error, please check each fields."
+msgstr "Amaran: terdapat ralat, sila periksa setiap bidang."
+
+msgid "Price/sq m"
+msgstr "Price/sq m"
+
+msgid "today"
+msgstr "Hari ini"
+
+msgid "week"
+msgstr "Minggu"
+
+msgid "from %from_value% to %to_value%"
+msgstr "dari %from_value% hingga %to_value%"
+
+msgid "Page"
+msgstr "Halaman"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Context"
+msgstr "Konteks"
+
+msgid "More criteria"
+msgstr "Kriteria pelengkap"
+
+msgid "Criteria"
+msgstr "Kriteria"
+
+msgid "Classification"
+msgstr "Klasifikasi"
+
+msgid "metres"
+msgstr "meter"
+
+msgid "Window"
+msgstr "Tingkap"
+
+msgid "Stock area"
+msgstr "Kawasan saham"
+
+msgid "Sales area"
+msgstr "Kawasan jualan"
+
+msgid "Sold price"
+msgstr "Harga jualan"
+
+msgid "Broadcast to"
+msgstr "Disiarkan pada"
+
+msgid "The property will not be published because it is in step « %s »"
+msgstr "Harta tidak akan dipaparkan kerana ianya masih dalam proses «% s»"
+
+msgid "Last agencies"
+msgstr "Agensi terakhir"
+
+msgid "I confirm my subscription to %s and I accept the general conditions"
+msgstr ""
+"Saya mengesahkan langganan saya kepada % s dan saya menerima syarat umum"
+
+msgid "from %from_date% to %to_date%"
+msgstr "dari %from_date% hingga %to_date%"
+
+msgid "sq m"
+msgstr "sq m"
+
+msgid "days"
+msgstr "hari"
+
+msgid "bedroom"
+msgstr "bilik tidur"
+
+msgid "room"
+msgstr "bilik"
+
+msgid "Comments"
+msgstr "Ulasan / Komen"
+
+msgid "comments"
+msgstr "komen"
+
+msgid "Private comment"
+msgstr "Komen peribadi"
+
+msgid "Exchange"
+msgstr "Pertukaran"
+
+msgid "by"
+msgstr "oleh"
+
+msgid "n.a"
+msgstr "n.a"
+
+msgid "Elevator"
+msgstr "Lif"
+
+msgid "no"
+msgstr "tidak"
+
+msgid "yes"
+msgstr "ya"
+
+msgid "Printed with care"
+msgstr "Dicetak dengan berhati-hati"
+
+msgid "Please do not litter on public way"
+msgstr "Jangan buang sampah atas jalan umum"
+
+msgid "Non-contractual information"
+msgstr "Maklumat tidak berkaitan dengan kontrak"
+
+msgid "Agency fees"
+msgstr "Yuran agensi"
+
+msgid "Agency fees included"
+msgstr "Yuran agensi termasuk"
+
+msgid "Agency fees not included"
+msgstr "Yuran agensi tidak termasuk"
+
+msgid "Fees"
+msgstr "Yuran"
+
+msgid "Personal property tax"
+msgstr "Cukai harta peribadi"
+
+msgid "Property tax"
+msgstr "Cukai harta"
+
+msgid "Style"
+msgstr "Gaya"
+
+msgid "Parkings"
+msgstr "Parkings"
+
+msgid "Window card"
+msgstr "Iklan pameran"
+
+msgid "Public sheet"
+msgstr "Iklan peribadi"
+
+msgid "Language"
+msgstr "Bahasa"
+
+msgid "Cart"
+msgstr "Troli"
+
+msgid "Land type"
+msgstr "Jenis tanah"
+
+msgid "Property agent"
+msgstr "Ejen hartanah"
+
+msgid "End at"
+msgstr "Tamat pada"
+
+msgid "Close at"
+msgstr "Tutup pada"
+
+msgid "Start at"
+msgstr "Mula pada"
+
+msgid "Guarantees"
+msgstr "Penjamin"
+
+msgid "Inter-agencies"
+msgstr "Agensi perantaraan"
+
+msgid "Number of floors"
+msgstr "Nombor tigkat"
+
+msgid "Evaluated price"
+msgstr "Harga anggaran"
+
+msgid "Seller's commission"
+msgstr "Komisen penjual"
+
+msgid "Buyer's commission"
+msgstr "Komisen pembeli"
+
+msgid "Commission"
+msgstr "Komisen"
+
+msgid "Origin"
+msgstr "Asal-usul"
+
+msgid "Specific origin"
+msgstr "Asal-usul spesifik"
+
+msgid "Flooring"
+msgstr "Flooring"
+
+msgid "Rank"
+msgstr "Posisi"
+
+msgid "Phone call"
+msgstr "Panggilan"
+
+msgid "Publications"
+msgstr "Publikasi"
+
+msgid "Send to contact"
+msgstr "Hantar kepada kenalan"
+
+msgid "results"
+msgstr "Keputusan"
+
+msgid "result"
+msgstr "keputusan"
+
+msgid "Advertiser"
+msgstr "Pengiklan"
+
+msgid "Active"
+msgstr "Aktif"
+
+msgid "Confidential"
+msgstr "Sulit"
+
+msgid "Activities"
+msgstr "Aktiviti"
+
+msgid "Edit"
+msgstr "Edit"
+
+msgid "Save"
+msgstr "Simpan"
+
+msgid "Succession"
+msgstr "Pewarisan"
+
+msgid "Please fill in a city."
+msgstr "Sila masukkan bandar"
+
+msgid "Guarantee"
+msgstr "Jaminan"
+
+msgid "Please fill"
+msgstr "Sili isikan"
+
+msgid "The email address is invalid."
+msgstr "Alamat e-mel tidak sah."
+
+msgid "Right"
+msgstr "Hak"
+
+msgid "Display"
+msgstr "Paparan"
+
+msgid "Since"
+msgstr "Dari"
+
+msgid "Filter"
+msgstr "Tapis"
+
+msgid "Min"
+msgstr "Min"
+
+msgid "Max"
+msgstr "Max"
+
+msgid "Lessor"
+msgstr "Pemberi pajak"
+
+msgid "Booking"
+msgstr "Tempah"
+
+msgid "Bed"
+msgstr "Katil"
+
+msgid "Cleaning price"
+msgstr "Caj pembersihan"
+
+msgid "Availabilities"
+msgstr "Ketersediaan"
+
+msgid "Sent"
+msgstr "Telah dihantar"
+
+msgid "Year"
+msgstr "Tahun"
+
+msgid "month"
+msgstr "Bulan"
+
+msgid "Season"
+msgstr "Musim"
+
+msgid "Todo"
+msgstr "Perlu dibuat"
+
+msgid "Brand"
+msgstr "Jenama"
+
+msgid "Publicated at"
+msgstr "Diterbit pada"
+
+msgid "Networks"
+msgstr "Rangkaian"
+
+msgid "Bank"
+msgstr "Bank"
+
+msgid "Brief comment"
+msgstr "Komen ringkas"
+
+msgid "Delivery at"
+msgstr "Penghantaran pada"
+
+msgid "Reason"
+msgstr "Sebab"
+
+msgid "What's new"
+msgstr "Lihat yang terbaru"
+
+msgid "Request"
+msgstr "Permintaan"
+
+msgid "request"
+msgstr "permintaan"
+
+msgid "Current rent"
+msgstr "Sewaan semasa"
+
+msgid "property"
+msgstr "harta"
+
+msgid "Bill"
+msgstr "Bill"
+
+msgid "Calculator"
+msgstr "Kalkulator"
+
+msgid "Birthplace"
+msgstr "Tempat lahir"
+
+msgid "Income"
+msgstr "Income"
+
+msgid "Costs"
+msgstr "Caj / Kos"
+
+msgid "Margin"
+msgstr "Margin"
+
+msgid "Required."
+msgstr "Wajib."
+
+msgid "Seasonal"
+msgstr "Bermusim"
+
+msgid "Spoken languages"
+msgstr "Bahasa lisan"
+
+msgid "Number of children"
+msgstr "Bilangan anak"
+
+msgid "Hotline"
+msgstr "Hotline"
+
+msgid "Re-type password"
+msgstr "Masukkan semula kata laluan"
+
+msgid "Public longitude"
+msgstr "Longitud awam"
+
+msgid "Public latitude"
+msgstr "Latitud awam"
+
+msgid "Access denied"
+msgstr "Akses dinafikan"
+
+msgid "Access"
+msgstr "Akses"
+
+msgid "Launch"
+msgstr "Lancar"
+
+msgid "Shortcuts"
+msgstr "Shortcuts"
+
+msgid "Subscription"
+msgstr "Langganan"
+
+msgid "SEO"
+msgstr "SEO"
+
+msgid "Life annuity length"
+msgstr "Tempoh anuiti hidup"
+
+msgid "Market value"
+msgstr "Nilai pasaran"
+
+msgid "Price contribution"
+msgstr "Sumbangan harga"
+
+msgid "Show more results"
+msgstr "Tunjukkan lebih banyak keputusan"
+
+msgid "Close"
+msgstr "Tutup"
+
+msgid "Hide"
+msgstr "Sembunyi"
+
+msgid "Keyword"
+msgstr "Kata kunci"
+
+msgid "Corporate register"
+msgstr "Daftar korporat"
+
+msgid "Expired soon"
+msgstr "Tamat tempoh tidak lama lagi"
+
+msgid "Expired"
+msgstr "Telah tamat tempoh"
+
+msgid "Agreement number"
+msgstr "Nombor perjanjian"
+
+msgid "VAT identification number"
+msgstr "Nombor pengenalan VAT"
+
+msgid "What's on your mind?"
+msgstr "Ingin luahkan sesuatu"
+
+msgid "Buyer"
+msgstr "Pembeli"
+
+msgid "Message sent"
+msgstr "Mesej telah dihantar"
+
+msgid "Limit"
+msgstr "Had"
+
+msgid "Do not publish"
+msgstr "Jangan papar"
+
+msgid "Cancel"
+msgstr "Batal"
+
+msgid "Already suggested"
+msgstr "Telah dicadangkan"
+
+msgid "To suggest"
+msgstr "Untuk dicadang"
+
+msgid "Suggest"
+msgstr "Cadang"
+
+msgid "Diagnostics"
+msgstr "Diagnosis"
+
+msgid "Footer"
+msgstr "Footer"
+
+msgid "Header"
+msgstr "Header"
+
+msgid "Serviced plot"
+msgstr "Plot perkhidmatan"
+
+msgid "Net floor area"
+msgstr "Net kawasan lantai"
+
+msgid "Sold at"
+msgstr "Dijual pada"
+
+msgid "Preview"
+msgstr "Preview"
+
+msgid "Garden area"
+msgstr "Kawasan taman bunga"
+
+msgid "Payments"
+msgstr "Bayaran"
+
+msgid "Reopen"
+msgstr "Buka balik"
+
+msgid "Completed"
+msgstr "Telah siap"
+
+msgid "Complete"
+msgstr "Siapkan"
+
+msgid "Callbacks"
+msgstr "Telefon balik"
+
+msgid "Coagent"
+msgstr "Co-ejen"
+
+msgid "%s properties"
+msgstr "%s harta"
+
+msgid "%s property"
+msgstr "%s harta"
+
+msgid "%s request"
+msgstr "%s permintaan"
+
+msgid "%s requests"
+msgstr "%s permintaan"
+
+msgid "Sorry, this property is no longer available."
+msgstr "Maaf,harta ini tidak lagi tersedia."
+
+msgid "Processed"
+msgstr "Telah diproses"
+
+msgid "remaining tickets"
+msgstr "tiket yang tinggal"
+
+msgid "Congratulations ! No more support tickets."
+msgstr "Tahniah! Tiada lagi tiket yang tinggal."
+
+msgid "unassigned tickets"
+msgstr "tiket yang belum lagi ditetapkan"
+
+msgid "All tickets are assigned."
+msgstr "Semua tiket telah ditetapkan."
+
+msgid "task in progress"
+msgstr "kerja sedang dibuat"
+
+msgid "Database"
+msgstr "Pangkalan data"
+
+msgid "Used"
+msgstr "Telah diguna"
+
+msgid "%s results"
+msgstr "%s keputusan"
+
+msgid "Redirects"
+msgstr "Redirects"
+
+msgid "Subscribe to the newsletter"
+msgstr "Langgan berita"
+
+msgid "Purge"
+msgstr "Purger"
+
+msgid "Valuation methods"
+msgstr "Method penilaian"
+
+msgid "Rebuild cost"
+msgstr "Kos bina balik"
+
+msgid "Capitalization"
+msgstr "Permodalan"
+
+msgid "Comparative market analysis"
+msgstr "Perbandingan analisis pasaran"
+
+msgid "An average of"
+msgstr "Purata sebanyak"
+
+msgid "Your own valuation"
+msgstr "Penilaian anda sendiri"
+
+msgid "Desired profitability"
+msgstr "Keuntungan yang diingini"
+
+msgid "Taxes and/or fees"
+msgstr "Cukai dan/atau yuran"
+
+msgid "Year of purchase"
+msgstr "Tahun pembelian"
+
+msgid "Rental income"
+msgstr "Pendapatan sewa"
+
+msgid "Price of purchase"
+msgstr "Harga pembelian"
+
+msgid "Land price"
+msgstr "Harga tanah"
+
+msgid "Cost of construction"
+msgstr "Kos pembinaan"
+
+msgid "Interior fittings"
+msgstr "Kelengkapan dalaman"
+
+msgid "Landscaping"
+msgstr "Landscaping"
+
+msgid "Decrepitude"
+msgstr "Kemunduran"
+
+msgid "Capital losses"
+msgstr "Kerugian kapital"
+
+msgid "Capital gains"
+msgstr "Keuntungan kapital"
+
+msgid "Your mailbox has exceeded the storage limit (%s)"
+msgstr "Peti mel anda telah melebihi had simpanan (% s)"
+
+msgid "Your mailbox will reach the storage limit"
+msgstr "Peti mel anda akan mencapai had simpanan"
+
+msgid "Sort by"
+msgstr "Susun mengikut"
+
+msgid "Condominium in difficulty"
+msgstr "Pemilikan bersama dalam kesulitan"
+
+msgid "Back to the list"
+msgstr "Kembali pada senarai"
+
+msgid "Previous listing"
+msgstr "Penyenaraian terdahulu"
+
+msgid "Next listing"
+msgstr "Penyenaraian seterusnya"
+
+msgid "empty"
+msgstr "kosong"
+
+msgid "Filename"
+msgstr "Nama fail"
+
+msgid "New feed"
+msgstr "Paparan terbaru"
+
+msgid "Error"
+msgstr "Ralat"
+
+msgid "Erase all"
+msgstr "Padam semua"
+
+msgid "Try"
+msgstr "Cuba"
+
+msgid "Query"
+msgstr "Pertanyaan"
+
+msgid "Agency fees payable by vendor"
+msgstr "Yuran penjual"
+
+msgid "Agency fees payable by buyer"
+msgstr "Yuran pembeli"
+
+msgid "Condominium fees"
+msgstr "Yuran pemilikan bersama"
+
+msgid "An error occurred"
+msgstr "Ralat telah berlaku"
+
+msgid "Successful subscription"
+msgstr "Langganan anda berjaya"
+
+msgid "Created date"
+msgstr "Tarikh dibuat"
+
+msgid "Updated date"
+msgstr "Tarikh dikemas kini"
+
+msgid "Back to homepage"
+msgstr "Kembali ke halaman"
+
+msgid "Price min"
+msgstr "Harga min"
+
+msgid "Price max"
+msgstr "Harga max"
+
+msgid "Bedroom min"
+msgstr "Bilik tidur min"
+
+msgid "Bedroom max"
+msgstr "Bilik tidur max"
+
+msgid "Room min"
+msgstr "Bilik min"
+
+msgid "Room max"
+msgstr "Bilik max"
+
+msgid "Project at"
+msgstr "Projek pada"
+
+msgid "Agency rate"
+msgstr "Kadar agensi"
+
+msgid "Tenant's commission"
+msgstr "Komisen penyewa"
+
+msgid "Inventory tenant charge"
+msgstr "Caj inventori oleh penyewa"
+
+msgid "Fees included"
+msgstr "Yuran termasuk"
+
+msgid "Provision on recoverable fees"
+msgstr "Peruntukan yuran boleh pulih"
+
+msgid "Never"
+msgstr "Tidak pernah"
+
+msgid "Remaining credits"
+msgstr "Kredit yang tinggal"
+
+msgid "Buy credits"
+msgstr "Beli kredit"
+
+msgid "%s credits"
+msgstr "%s kredit"
+
+msgid "Transaction fees"
+msgstr "Yuran transaksi"
+
+msgid "View property"
+msgstr "Lihat harta"
+
+msgid "lots available"
+msgstr "lot sedia ada"
+
+msgid "Area min"
+msgstr "Kawasan min"
+
+msgid "Search a property"
+msgstr "Cari sebuah harta"
+
+msgid "International"
+msgstr "International"
+
+msgid "Unsubscribe"
+msgstr "Tidak melanggan lagi"
+
+msgid "The property will not be published because it is in group « %s »"
+msgstr "Hartanah tidak akan diterbitkan kerana ianya dalam kumpulan «% s»"
+
+msgid "%s months"
+msgstr "%s bulan"
+
+msgid "No action after"
+msgstr "Tiada tindakan sejak"
+
+msgid "%s pending delete"
+msgstr "%s pending untuk dipadam"
+
+msgid "Pending delete"
+msgstr "Pending untuk dipadam"
+
+msgid "%s to delete"
+msgstr "%s untuk dipadam"
+
+msgid "Unsubscribed"
+msgstr "Tidak lagi melanggan"
+
+msgid "Edit my search"
+msgstr "Edit carian saya"
+
+msgid "Activate my search"
+msgstr "Aktifkan carian saya"
+
+msgid "Cancel my search"
+msgstr "Batal carian saya"
+
+msgid "Only authorized properties"
+msgstr "Hanya harta yang dibenarkan"
+
+msgid "Another currency"
+msgstr "Mata wang lain"
+
+msgid "Enter the first 6 digits"
+msgstr "Masukkan 6 digit pertama"
+
+msgid ""
+"Without action on your part, your contact will be deleted before the %s."
+msgstr "Tanpa tindakan di pihak anda, kenalan anda akan dipadamkan sebelum %s"
+
+msgid "No procedure in progress"
+msgstr "Tiada prosedur dalam proses"
+
+msgid "Procedure in progress"
+msgstr "Prosedur dalam proses"
+
+msgid "Number of lots in the condominium"
+msgstr "Jumlah lot dalam kondo"
+
+msgid "Network authorized"
+msgstr "Rangkaian yang dibenarkan"
+
+msgid "Renew the lease"
+msgstr "Pembaharuan pajakan"
+
+msgid "Remove at"
+msgstr "Dipadam pada"
+
+msgid "External action"
+msgstr "Tindakan luaran"
+
+msgid ""
+"The migration of your prospect into a request will allow you to make "
+"matching and proposals with a better tracking."
+msgstr ""
+"Penghijrahan prospek anda ke dalam permintaan akan membolehkan anda membuat "
+"padanan dan cadangan dengan pengesanan yang lebih baik."
+
+msgid "floors"
+msgstr "aras / tingkat"
+
+msgid "Job"
+msgstr "Pekerjaan"
+
+msgid "Unsuscribe from this list"
+msgstr "Berhenti melanggan dari senarai ini"
+
+msgid "Entry"
+msgstr "Entry"
+
+msgid "Exit"
+msgstr "Keluar"
+
+msgid "Secured"
+msgstr "Dikawal"
+
+msgid "Opacity"
+msgstr "Kelegapan"
+
+msgid "Left"
+msgstr "Kiri"
+
+msgid "Top"
+msgstr "Atas"
+
+msgid "Relative to the last element"
+msgstr "Relatif dengan elemen terakhir"
+
+msgid "Alignment"
+msgstr "Penjajaran"
+
+msgid "Border size"
+msgstr "Saiz border"
+
+msgid "Border color"
+msgstr "Warna border"
+
+msgid "Size of the internal margin"
+msgstr "Saiz margin dalaman"
+
+msgid "Font color"
+msgstr "Warna font"
+
+msgid "Font size"
+msgstr "Saiz font"
+
+msgid "Background color"
+msgstr "Warna latar belakang"
+
+msgid "Custom image"
+msgstr "Imej custom"
+
+msgid "custom"
+msgstr "custom"
+
+msgid "Center"
+msgstr "Tengah"
+
+msgid "Justified"
+msgstr "Justified"
+
+msgid "Transparency"
+msgstr "Transparency"
+
+msgid "Line height"
+msgstr "Ketinggian baris"
+
+msgid "Uppercase"
+msgstr "Huruf besar"
+
+msgid "Price proposal"
+msgstr "Proposal harga"
+
+msgid "Template"
+msgstr "Template"
+
+msgid "Publication date"
+msgstr "Tarikh penerbitan"
+
+msgid "Recovered at"
+msgstr "Diambil pada"
+
+msgid "Allow all"
+msgstr "Benarkan semua"
+
+msgid "Private position is not set, click here to update."
+msgstr ""
+"Kedudukan peribadi tidak ditetapkan, klik di sini untuk mengemas kini."
+
+msgid "Public position is not set, click here to update."
+msgstr "Kedudukan umum tidak ditetapkan, klik di sini untuk mengemas kini."
+
+msgid ""
+"Please use this link to subscribe to your calendar from a software or a "
+"device:"
+msgstr ""
+"Sila gunakan pautan ini untuk melanggan kalendar anda dari perisian atau "
+"peranti:"
+
+msgid "Activate"
+msgstr "Aktifkan"
+
+msgid "Disable"
+msgstr "Nyah aktif"
+
+msgid "Block"
+msgstr "Blok"
+
+msgid "Unblock"
+msgstr "Unblok"
+
+msgid "Area max"
+msgstr "Keluasan max"
+
+msgid "Plot of land area min"
+msgstr "Plot keluasan tanah min"
+
+msgid "Plot of land area max"
+msgstr "Plot keluasan tanah max"
+
+msgid "Date descending"
+msgstr "Tarikh menurun"
+
+msgid "Date ascending"
+msgstr "Tarikh meningkat"
+
+msgid "Price descending"
+msgstr "Harga menurun"
+
+msgid "Price ascending"
+msgstr "Harga menaik"
+
+msgid "Balance"
+msgstr "Baki akaun"
+
+msgid "Construction method"
+msgstr "Cara pembinaan"
+
+msgid "Tax code"
+msgstr "Kod cukai"
+
+msgid "Downsides"
+msgstr "Keburukkan"
+
+msgid "Assets"
+msgstr "Kebaikan"
+
+msgid "Please select a district from the list:"
+msgstr "Sila pilih daerah daripada senarai:"
+
+msgid "Non-flood zone"
+msgstr "Zon bebas banjir"
+
+msgid "Potential flood zone"
+msgstr "Zon berpotensi untuk banjir"
+
+msgid "Recognized flood zone"
+msgstr "Zon banjir yang dikenal pasti"
+
+msgid "Delimited flood zone"
+msgstr "Zon banjir yang dibatasi"
+
+msgid "Cadastre"
+msgstr "Cadastre"
+
+msgid "Delimited waterside zone"
+msgstr "Zon kawasan air yang dibatasi"
+
+msgid "Potential flood zone in a delimited waterside zone"
+msgstr "Kawasan yang berpotensi untuk banjir di kawasan air yang dibatasi"
+
+msgid "Potential flood zone in a delimited flood zone"
+msgstr "Kawasan yang berpotensi untuk banjir di kawasan banjir yang dibatasi"
+
+msgid "Recognized flood zone in a delimited waterside zone"
+msgstr "Kawasan yang dikenal pasti untuk banjir di kawasan air yang dibatasi"
+
+msgid "Recognized flood zone in a delimited flood zone"
+msgstr ""
+"Kawasan yang dikenal pasti untuk banjir di kawasan banjir yang dibatasi"
+
+msgid "Profile"
+msgstr "Profil"
+
+msgid "Export"
+msgstr "Eksport"
+
+msgid "Quota"
+msgstr "Kuota"
+
+msgid "Logs"
+msgstr "Logs"
+
+msgid "Partner"
+msgstr "Rakan kongsi"
+
+msgid "Signage"
+msgstr "Papan tanda / Panel"
+
+msgid "Set up at"
+msgstr "Ditetap pada"
+
+msgid "Forecast"
+msgstr "Ramalan"
+
+msgid "Area ascending"
+msgstr "Keluasan / Kawasan meningkat"
+
+msgid "Area descending"
+msgstr "Keluasan / Kawasan menurun"
+
+msgid "%s awaiting review(s)"
+msgstr "%s review yang pending"
+
+msgid "To review"
+msgstr "Untuk review"
+
+msgid "Net seller"
+msgstr "Penjual Net"
+
+msgid "Price displayed"
+msgstr "Harga yang dipapar"
+
+msgid "Rental price"
+msgstr "Harga sewa"
+
+msgid "Listed price: %s, exchange rates are indicative."
+msgstr "Harga yang disenaraikan: %s, kadar pertukaran adalah indikatif."
+
+msgid "%s unit"
+msgstr "%s unit"
+
+msgid "Not suggested"
+msgstr "Tidak dicadang"
+
+msgid "%s guest"
+msgstr "%s jemputan"
+
+msgid "%s bed"
+msgstr "%s katil"
+
+msgid "Documentation"
+msgstr "Dokumentasi"
+
+msgid "%s bathroom"
+msgstr "%s bilik air"
+
+msgid "%s bathrooms"
+msgstr "%s bilik mandi"
+
+msgid "Floors"
+msgstr "Aras / tingkat"
+
+msgid "Professional"
+msgstr "Professional"
+
+msgid "Professionals"
+msgstr "Professionals"
+
+msgid "Toilet"
+msgstr "Toilet"
+
+msgid "Help"
+msgstr "Bantuan"
+
+msgid "Show pagination"
+msgstr "Papar pagination"
+
+msgid "Mandatory fields"
+msgstr "Medan wajib"
+
+msgid "Available soon"
+msgstr "Boleh didapati tidak lama lagi"
+
+msgid "HD Photo"
+msgstr "HD Photo"
+
+msgid "Contract end at"
+msgstr "Kontrak berakhir pada"
+
+msgid "Incomplete"
+msgstr "Tidak lengkap"
+
+msgid "Location Map"
+msgstr "Peta Lokasi"
+
+msgid "User Detail"
+msgstr "Butiran Pengguna"
+
+msgid "File size"
+msgstr "Saiz Fail"
+
+msgid "File title"
+msgstr "Tajuk Fail"
+
+msgid "Region"
+msgstr "Wilayah"
+
+msgid "Bath"
+msgstr "Bilik Mandi"
+
+msgid "Private Negotiation"
+msgstr "Rundingan Peribadi"
+
+msgid "Property specifications"
+msgstr "Spesifikasi Hartanah"
+
+msgid "Energy performance"
+msgstr "Prestasi Tenaga"
+
+msgid "Media Details"
+msgstr "Butiran Media"
+
+msgid "View Video"
+msgstr "Lihat Video"
+
+msgid "Start Date"
+msgstr "Tarikh Mula"
+
+msgid "End Date"
+msgstr "Tarikh Tamat"
+
+msgid "Welcome"
+msgstr "Selamat Datang"
+
+msgid "See What’s happening with Apimo Plugin."
+msgstr "Lihat apa yang berlaku dengan Plugin Apimo."
+
+msgid "PROVIDERS"
+msgstr "PEMBEKAL"
+
+msgid "AGENCIES"
+msgstr "AGENSI"
+
+msgid "PROPERTIES"
+msgstr "HARTANAH"
+
+msgid "BOOKMARK"
+msgstr "PENANDA BUKU"
+
+msgid "Remove all"
+msgstr "Buang semua"
+
+msgid "Apply filter"
+msgstr "Guna penapis"
+
+msgid "Select Subtype"
+msgstr "Pilih Subjenis"
+
+msgid "Enchère"
+msgstr "Lelong"
+
+msgid "Location"
+msgstr "Sewaan"
+
+msgid "Location saisonnière"
+msgstr "Sewaan bermusim"
+
+msgid "From"
+msgstr ""
+
+msgid "To"
+msgstr ""
+
+msgid "Dates"
+msgstr ""
+
+msgid "Select country"
+msgstr ""
+
+msgid "Select region"
+msgstr ""
+
+msgid "Select district"
+msgstr ""
+
+msgid "Select city"
+msgstr ""
+
+msgid "Good"
+msgstr "bagus"
+
+msgid "Bad"
+msgstr "teruk"
+
+msgid "hello"
+msgstr "hello"
+
+msgid "Available Integrations"
+msgstr "Integrasi yang ada"
+
+msgid "reCAPTCHA Detected"
+msgstr "Recaptcha dikesan"
+
+msgid "reCAPTCHA Not Detected"
+msgstr "Recaptcha tidak dikesan"
+
+msgid "Google reCAPTCHA Integration"
+msgstr "Integrasi Google Recaptcha"
+
+msgid ""
+"Protect your forms from spam and abuse with Google reCAPTCHA integration."
+msgstr ""
+"Lindungi borang anda dari spam dan penyalahgunaan dengan integrasi Google "
+"Recaptcha."
+
+msgid "Activate Integration"
+msgstr "Aktifkan integrasi"
+
+msgid "Deactivate Integration"
+msgstr "Menyahaktifkan integrasi"
+
+msgid "reCAPTCHA Configuration"
+msgstr "Konfigurasi Recaptcha"
+
+msgid "Please configure your reCAPTCHA keys below to complete the setup."
+msgstr ""
+"Sila konfigurasikan kekunci Recaptcha anda di bawah untuk melengkapkan "
+"persediaan."
+
+msgid "To complete the reCAPTCHA setup:"
+msgstr "Untuk melengkapkan persediaan Recaptcha:"
+
+msgid "Go to the"
+msgstr "Pergi ke"
+
+msgid "Google reCAPTCHA Admin Console"
+msgstr "Konsol Admin Google Recaptcha"
+
+msgid "Register your site and get your Site Key and Secret Key"
+msgstr ""
+"Daftarkan laman web anda dan dapatkan kunci laman web dan kunci rahsia anda"
+
+msgid "Enter the keys below to activate reCAPTCHA"
+msgstr "Masukkan kunci di bawah untuk mengaktifkan Recaptcha"
+
+msgid "reCAPTCHA is configured properly."
+msgstr "Recaptcha dikonfigurasi dengan betul."
+
+msgid "Site Key"
+msgstr "Kunci Tapak"
+
+msgid "Secret Key"
+msgstr "Kunci Rahsia"
+
+msgid "Save Configuration"
+msgstr "Simpan konfigurasi"
+
+msgid "Contact Form"
+msgstr "Borang hubungan"
+
+msgid "Invalid format"
+msgstr "Format tidak sah"
+
+msgid "This field is required"
+msgstr "Bidang ini diperlukan"
+
+msgid "Invalid email format"
+msgstr "Format e -mel tidak sah"
+
+msgid "Please use reCAPTCHA version 3"
+msgstr "Sila gunakan Recaptcha Versi 3"

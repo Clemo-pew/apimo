@@ -1,0 +1,6568 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ca_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.1\n"
+
+msgid "Reminder"
+msgstr "Recordatori"
+
+msgid "Suggestion"
+msgstr "Suggeriment"
+
+msgid "Report"
+msgstr "Informe"
+
+msgid "Other"
+msgstr "Altres"
+
+#, fuzzy
+msgid "Valuation"
+msgstr ""
+"#-#-#-#-#  apimo-ca_ES.po  #-#-#-#-#\n"
+"Estimació\n"
+"#-#-#-#-#  apimo-ca_ES.po  #-#-#-#-#\n"
+"Valoració\n"
+"#-#-#-#-#  apimo-ca_ES.po  #-#-#-#-#\n"
+"Valoració"
+
+msgid "Advertising"
+msgstr "Publicitat"
+
+msgid "Open House"
+msgstr "Jornada de portes obertes"
+
+msgid "Canvassing"
+msgstr "Escampat"
+
+msgid "Message"
+msgstr "Missatge"
+
+msgid "After-sales"
+msgstr "Després de les rebaixes"
+
+msgid "Virtual tour"
+msgstr "Visita virtual"
+
+msgid "Visit"
+msgstr "Visita - Tour"
+
+msgid "Survey"
+msgstr "Enquesta"
+
+msgid "Appointment"
+msgstr "Cita"
+
+msgid "Phone"
+msgstr "Telèfon"
+
+msgid "e-mail"
+msgstr "correu electrònic"
+
+msgid "Fax"
+msgstr "Fax"
+
+msgid "Mail"
+msgstr "Correu"
+
+msgid "SMS"
+msgstr "SMS"
+
+msgid "Walk-in"
+msgstr "Entrar"
+
+msgid "Extranet"
+msgstr "Extranet"
+
+msgid "Reservation"
+msgstr "Reserva"
+
+msgid "Signed"
+msgstr "Signat"
+
+msgid "Canceled"
+msgstr "Cancel·lat"
+
+msgid "Closed"
+msgstr "Tancat"
+
+msgid "Transaction"
+msgstr "Transacció"
+
+msgid "Rental management"
+msgstr "Gestió del lloguer"
+
+msgid "Search"
+msgstr "Cerca"
+
+msgid "Caution"
+msgstr "Precaució"
+
+msgid "Project"
+msgstr "Projecte"
+
+msgid "Under construction"
+msgstr "En construcció"
+
+msgid "Delivered"
+msgstr "Lliurat"
+
+msgid "Ended"
+msgstr "S'ha acabat"
+
+msgid "Mr."
+msgstr "Sr."
+
+msgid "Mrs."
+msgstr "Mrs."
+
+msgid "Ms."
+msgstr "Senyora."
+
+msgid "Mr. & Mrs."
+msgstr "Senyor Senyora."
+
+msgid "Sheik"
+msgstr "Sheik"
+
+msgid "Duke"
+msgstr "duc"
+
+msgid "Duchess"
+msgstr "Duquessa"
+
+msgid "Lord"
+msgstr "Senyor"
+
+msgid "Maître"
+msgstr "Mestre"
+
+msgid "Professor"
+msgstr "Professora"
+
+msgid "Sir"
+msgstr "senyor"
+
+msgid "Engineer"
+msgstr "Enginyer"
+
+msgid "Notary"
+msgstr "Notari"
+
+msgid "Accountant"
+msgstr "Comptable"
+
+msgid "Colonel"
+msgstr "coronel"
+
+msgid "Architetto"
+msgstr "Arquitecte"
+
+msgid "Plan"
+msgstr "Pla"
+
+msgid "Identity papers"
+msgstr "Documents d'identitat"
+
+msgid "Diagnostics"
+msgstr "Diagnòstics"
+
+msgid "Agreement"
+msgstr "Acord"
+
+msgid "Contract"
+msgstr "Contracte"
+
+msgid "Condominium"
+msgstr "Condomini"
+
+msgid "Maintenance"
+msgstr "Manteniment"
+
+msgid "Appraisal"
+msgstr "Avaluació"
+
+msgid "Brochure"
+msgstr "Fullet"
+
+msgid "Invoice"
+msgstr "Factura"
+
+msgid "Lease"
+msgstr "Arrendament"
+
+msgid "Inventory"
+msgstr "Inventari"
+
+msgid "Title deeds"
+msgstr "Títol de la propietat"
+
+msgid "Application"
+msgstr "Aplicació"
+
+#, fuzzy
+msgid "Regulations"
+msgstr ""
+"#-#-#-#-#  apimo-ca_ES.po  #-#-#-#-#\n"
+"Normativa\n"
+"#-#-#-#-#  apimo-ca_ES.po  #-#-#-#-#\n"
+"Regulació"
+
+msgid "AML/KYC Vendor"
+msgstr "Proveïdor AML/KYC"
+
+msgid "AML/KYC Buyer"
+msgstr "Comprador AML/KYC"
+
+msgid "Electricity"
+msgstr "Electricitat"
+
+msgid "Water"
+msgstr "Aigua"
+
+msgid "Maintenance of common areas"
+msgstr "Manteniment de les zones comunes"
+
+msgid "Waste collection"
+msgstr "Recollida de residus"
+
+msgid "Heating"
+msgstr "Calefacció"
+
+msgid "Hot water"
+msgstr "Aigua calenta"
+
+msgid "Concierge"
+msgstr "Conserge"
+
+msgid "Chimney-sweeping"
+msgstr "Escombra xemeneies"
+
+msgid "Sanitation"
+msgstr "Sanejament"
+
+msgid "Household waste tax"
+msgstr "Impost sobre residus domèstics"
+
+msgid "Contact"
+msgstr "Contacte"
+
+msgid "Owner"
+msgstr "Propietari"
+
+msgid "e-mail alert"
+msgstr "alerta per correu electrònic"
+
+msgid "Send to a friend"
+msgstr "Enviar a un amic"
+
+msgid "Newsletter"
+msgstr "Butlletí informatiu"
+
+msgid "Selection"
+msgstr "Selecció"
+
+msgid "New"
+msgstr "Nou"
+
+msgid "Opened"
+msgstr "Obert"
+
+msgid "Processing"
+msgstr "Tramitació"
+
+msgid "Self-employed"
+msgstr "Autònom"
+
+msgid "Bakery"
+msgstr "Fleca"
+
+msgid "Restaurant"
+msgstr "Restaurant"
+
+msgid "Press"
+msgstr "Premeu"
+
+msgid "Bar"
+msgstr "Bar"
+
+msgid "Florist"
+msgstr "Floristeria"
+
+msgid "Tobacconist"
+msgstr "Estanquer"
+
+msgid "Clothes"
+msgstr "Roba"
+
+msgid "Chemist"
+msgstr "Químic"
+
+msgid "Shopping centre"
+msgstr "Centre comercial"
+
+msgid "Travel agency"
+msgstr "Agència de viatges"
+
+msgid "Real estate agent"
+msgstr "Agent de béns arrels"
+
+msgid "Gallery"
+msgstr "Galeria"
+
+msgid "Garage"
+msgstr "Garatge"
+
+msgid "Insurer"
+msgstr "Assegurador"
+
+msgid "Optician"
+msgstr "Òptica"
+
+msgid "Perfumery"
+msgstr "Perfumeria"
+
+msgid "Hotel"
+msgstr "Hotel"
+
+msgid "Antique dealer"
+msgstr "Antiquari"
+
+msgid "Laundry"
+msgstr "Bugaderia"
+
+msgid "Pressing"
+msgstr "Prement"
+
+msgid "Jeweller"
+msgstr "Joier"
+
+msgid "Grocer"
+msgstr "Botiguer"
+
+msgid "Butcher"
+msgstr "carnisser"
+
+msgid "Caterer"
+msgstr "càtering"
+
+msgid "Brewery"
+msgstr "Cerveseria"
+
+msgid "Snack"
+msgstr "berenar"
+
+msgid "Confectioner"
+msgstr "Pastisser"
+
+msgid "Pork butcher"
+msgstr "Carnisseria de porc"
+
+msgid "Grocery"
+msgstr "Botiga de queviures"
+
+msgid "Cheesemonger"
+msgstr "Formatger"
+
+msgid "Fruit and vegetables"
+msgstr "Fruita i verdures"
+
+msgid "Sex shop"
+msgstr "Sex shop"
+
+msgid "Video game"
+msgstr "Videojoc"
+
+msgid "Computer"
+msgstr "Ordinador"
+
+msgid "Hairdresser"
+msgstr "Perruqueria"
+
+msgid "Cosmetician"
+msgstr "Esteticista"
+
+msgid "Household electrical"
+msgstr "Electricitat domèstica"
+
+msgid "Shoes"
+msgstr "Sabates"
+
+msgid "Haberdasher"
+msgstr "Merceria"
+
+msgid "Groomer"
+msgstr "Perruquer"
+
+msgid "Tea room"
+msgstr "Sala de te"
+
+msgid "Beach"
+msgstr "Platja"
+
+msgid "Bookshop"
+msgstr "Llibreria"
+
+msgid "Offices"
+msgstr "Oficines"
+
+msgid "Gas station"
+msgstr "Gasolinera"
+
+msgid "Camping"
+msgstr "Campament"
+
+msgid "Nightclub"
+msgstr "Discoteca"
+
+msgid "Pet store"
+msgstr "Botiga de mascotes"
+
+msgid "Video arcade"
+msgstr "Sala de videojocs"
+
+msgid "Office supplies"
+msgstr "Material d'oficina"
+
+msgid "Furniture"
+msgstr "Mobles"
+
+msgid "Decoration"
+msgstr "Decoració"
+
+msgid "Agriculture"
+msgstr "Agricultura"
+
+msgid "Photo"
+msgstr "foto"
+
+msgid "Drugstore"
+msgstr "Drogueria"
+
+msgid "Locksmith"
+msgstr "Serraller"
+
+msgid "Health club"
+msgstr "Club de salut"
+
+msgid "Taxi"
+msgstr "Taxi"
+
+msgid "Cinema"
+msgstr "Cinema"
+
+msgid "Theater"
+msgstr "Teatre"
+
+msgid "Café"
+msgstr "Cafè"
+
+msgid "Garden centre"
+msgstr "Centre de jardineria"
+
+msgid "Hardware shop"
+msgstr "Ferreteria"
+
+msgid "Fishmongers"
+msgstr "Peixateries"
+
+msgid "Recreation"
+msgstr "Recreació"
+
+msgid "Culture"
+msgstr "Cultura"
+
+msgid "Funeral"
+msgstr "Funeral"
+
+msgid "Agritourism"
+msgstr "Agroturisme"
+
+msgid "Sport supplies"
+msgstr "Subministraments esportius"
+
+msgid "Bedroom"
+msgstr "Dormitori"
+
+msgid "Living-room"
+msgstr "Sala d'estar"
+
+msgid "Kitchen"
+msgstr "Cuina"
+
+msgid "Parking"
+msgstr "Aparcament"
+
+msgid "Wine cellar"
+msgstr "Celler"
+
+msgid "Garden shelter"
+msgstr "Refugi de jardí"
+
+msgid "Bathroom"
+msgstr "Bany"
+
+msgid "Laundry room"
+msgstr "Bugaderia"
+
+msgid "Study"
+msgstr "Estudiar"
+
+msgid "Hallway"
+msgstr "passadís"
+
+msgid "Corridor"
+msgstr "Passadís"
+
+msgid "Shower room"
+msgstr "Dutxa"
+
+msgid "Walk-in wardrobe"
+msgstr "Vestidor"
+
+msgid "Entrance"
+msgstr "Entrada"
+
+msgid "Lavatory"
+msgstr "Lavabo"
+
+msgid "Terrace"
+msgstr "Terrassa"
+
+msgid "Solarium"
+msgstr "Solàrium"
+
+msgid "Living room/dining area"
+msgstr "Sala d'estar/menjador"
+
+msgid "Play room"
+msgstr "Sala de jocs"
+
+msgid "Dining room"
+msgstr "Menjador"
+
+msgid "Pool house"
+msgstr "Casa de piscina"
+
+msgid "Closet"
+msgstr "Armari"
+
+msgid "Not used"
+msgstr "No utilitzat"
+
+msgid "Loggia"
+msgstr "Loggia"
+
+msgid "Attic"
+msgstr "golfes"
+
+msgid "Mezzanine"
+msgstr "Entresòl"
+
+#, fuzzy
+msgid "Pantry"
+msgstr ""
+"#-#-#-#-#  apimo-ca_ES.po  #-#-#-#-#\n"
+"Celler d'arrel\n"
+"#-#-#-#-#  apimo-ca_ES.po  #-#-#-#-#\n"
+"Rebost"
+
+msgid "Maintenance room"
+msgstr "Sala de manteniment"
+
+msgid "Workshop"
+msgstr "Taller"
+
+msgid "Studio"
+msgstr "Estudi"
+
+msgid "Loft"
+msgstr "Loft"
+
+msgid "Library"
+msgstr "Biblioteca"
+
+msgid "Patio"
+msgstr "Pati"
+
+msgid "Landing"
+msgstr "Aterratge"
+
+msgid "Linen room"
+msgstr "Habitació de llençols"
+
+msgid "Basement"
+msgstr "Soterrani"
+
+msgid "Bathroom / Lavatory"
+msgstr "Bany / Lavabo"
+
+msgid "Shower room / Lavatory"
+msgstr "Dutxa / Lavabo"
+
+msgid "Balcony"
+msgstr "Balcó"
+
+msgid "Exercise room"
+msgstr "Sala d'exercicis"
+
+msgid "Discothèque"
+msgstr "Discoteca"
+
+msgid "Home cinema"
+msgstr "Cinema a casa"
+
+msgid "Reception room"
+msgstr "Recepció"
+
+msgid "Stockroom"
+msgstr "Traster"
+
+msgid "Garden"
+msgstr "Jardí"
+
+msgid "Park"
+msgstr "Parc"
+
+msgid "Land"
+msgstr "Terra"
+
+msgid "Principal bedroom"
+msgstr "Habitació principal"
+
+msgid "Suite"
+msgstr "Suite"
+
+msgid "Shed"
+msgstr "cobert"
+
+msgid "Apartment"
+msgstr "Apartament"
+
+msgid "Cabin"
+msgstr "cabina"
+
+msgid "Barn"
+msgstr "Graner"
+
+msgid "Outbuilding"
+msgstr "Dependència"
+
+msgid "Bike storage room"
+msgstr "Traster per a bicicletes"
+
+msgid "Ski storage room"
+msgstr "Guardaesquís"
+
+msgid "Garbage room"
+msgstr "Sala d'escombraries"
+
+msgid "Steam room"
+msgstr "Hammam"
+
+msgid "Indoor swimming pool"
+msgstr "Piscina coberta"
+
+msgid "Prayer room"
+msgstr "Sala de pregària"
+
+msgid "Sauna"
+msgstr "Sauna"
+
+msgid "Watchtower"
+msgstr "Torre de vigilància"
+
+msgid "Room"
+msgstr "Habitació"
+
+msgid "Meeting room"
+msgstr "Sala de reunions"
+
+msgid "Maid's room"
+msgstr "Habitació de criada"
+
+msgid "Maid's studio"
+msgstr "Taller de criada"
+
+msgid "Double reception room"
+msgstr "Sala de recepció doble"
+
+msgid "Triple reception room"
+msgstr "Sala de recepció triple"
+
+msgid "Indoor parking"
+msgstr "Aparcament interior"
+
+msgid "Outdoor parking"
+msgstr "Aparcament exterior"
+
+msgid "Shop"
+msgstr "Botiga"
+
+msgid "Cafeteria"
+msgstr "Cafeteria"
+
+msgid "Unit"
+msgstr "Unitat"
+
+msgid "Warehouse"
+msgstr "Magatzem"
+
+msgid "Accommodation"
+msgstr "Allotjament"
+
+msgid "Arcade"
+msgstr "Arcade"
+
+msgid "House"
+msgstr "casa"
+
+msgid "Stair"
+msgstr "Escala"
+
+msgid "Box"
+msgstr "Caixa"
+
+msgid "Carnotzet"
+msgstr "Carnotzet"
+
+msgid "Panic room"
+msgstr "Habitació del panic"
+
+msgid "Open space"
+msgstr "Espai obert"
+
+msgid "Hall"
+msgstr "Saló"
+
+msgid "Living room/kitchen"
+msgstr "Saló/cuina"
+
+msgid "Summer kitchen"
+msgstr "Cuina d'estiu"
+
+msgid "Spa"
+msgstr "Spa"
+
+msgid "Boathouse"
+msgstr "Casa de vaixells"
+
+msgid "Eat-in kitchen"
+msgstr "Cuina menjador"
+
+msgid "Equipped kitchen"
+msgstr "Cuina equipada"
+
+msgid "Semi equipped kitchen"
+msgstr "Cuina semi equipada"
+
+msgid "Corner kitchen"
+msgstr "Cuina cantonera"
+
+msgid "Open kitchen"
+msgstr "Cuina oberta"
+
+msgid "Plot"
+msgstr "Parcel · la"
+
+msgid "Porch"
+msgstr "Porxo"
+
+msgid "Living/dining/kitchen area"
+msgstr "Zona d'estar/menjador/cuina"
+
+msgid "Children's room"
+msgstr "Habitació infantil"
+
+msgid "Locker"
+msgstr "Taquilla"
+
+msgid "Lobby"
+msgstr "Vestíbul"
+
+msgid "Accessible toilet"
+msgstr "Lavabo accessible"
+
+msgid "Craft workshop"
+msgstr "Taller de manualitats"
+
+msgid "Single"
+msgstr "Solter"
+
+msgid "Twin"
+msgstr "Bessó"
+
+msgid "Twin by garage"
+msgstr "Doble per garatge"
+
+msgid "Village house"
+msgstr "Casa de poble"
+
+msgid "Twin by angle"
+msgstr "Bessons per angle"
+
+msgid "Ranged"
+msgstr "A distància"
+
+msgid "Standard"
+msgstr "Estàndard"
+
+msgid "Co-exclusive"
+msgstr "Co-exclusiu"
+
+msgid "Exclusive"
+msgstr "Exclusiu"
+
+msgid "Delegation"
+msgstr "Delegació"
+
+msgid "Exclusive agent"
+msgstr "Agent exclusiu"
+
+msgid "Colleague"
+msgstr "Col·lega"
+
+msgid "Verbal"
+msgstr "Verbal"
+
+msgid "Free"
+msgstr "Gratuït"
+
+msgid "Rented"
+msgstr "Llogat"
+
+msgid "Occupied"
+msgstr "Ocupat"
+
+msgid "To be agreed"
+msgstr "A convenir"
+
+msgid "Building"
+msgstr "Edifici"
+
+msgid "Residence"
+msgstr "Residència"
+
+msgid "Housing scheme"
+msgstr "Pla d'habitatge"
+
+msgid "Hamlet"
+msgstr "Hamlet"
+
+msgid "Domain"
+msgstr "Domini"
+
+msgid "Property"
+msgstr "Propietat"
+
+msgid "Street"
+msgstr "carrer"
+
+msgid "Sale"
+msgstr "Venda"
+
+msgid "Rental"
+msgstr "Lloguer"
+
+msgid "Seasonal rental"
+msgstr "Lloguer de temporada"
+
+msgid "Development"
+msgstr "Desenvolupament"
+
+msgid "Life annuity"
+msgstr "Renta vitalícia"
+
+msgid "Auction"
+msgstr "Subhasta"
+
+msgid "Unit sale"
+msgstr "Venda d'unitats"
+
+msgid "Bulk sale"
+msgstr "Venda a granel"
+
+msgid "Unfurnished"
+msgstr "Sense moblar"
+
+msgid "Furnished"
+msgstr "Moblat"
+
+msgid "Roommate"
+msgstr "Company d'habitació"
+
+msgid "Student"
+msgstr "Estudiant"
+
+msgid "Half furnished"
+msgstr "mig moblat"
+
+msgid "Coworking"
+msgstr "Coworking"
+
+msgid "Holidays"
+msgstr "Vacances"
+
+msgid "Event"
+msgstr "Esdeveniment"
+
+msgid "New construction"
+msgstr "Obra nova"
+
+msgid "Life annuity occupied"
+msgstr "Renta vitalícia ocupada"
+
+msgid "Bare Ownership"
+msgstr "Propietat nua"
+
+msgid "Forward sale"
+msgstr "Venda a terme"
+
+msgid "Life annuity semi-occupied"
+msgstr "Renta vitalícia semiocupada"
+
+msgid "Forward sale available"
+msgstr "Venda a termini disponible"
+
+msgid "Forward sale semi-occupied"
+msgstr "Venda a terme semiocupada"
+
+msgid "Forward sale occupied"
+msgstr "Venda a termini ocupada"
+
+msgid "Life annuity without income"
+msgstr "Renta vitalícia sense ingressos"
+
+msgid "Requires updating"
+msgstr "Requereix actualització"
+
+msgid "Good condition"
+msgstr "Bona condició"
+
+msgid "Requires renovation"
+msgstr "Requereix renovació"
+
+msgid "Excellent condition"
+msgstr "Condició excel · lent"
+
+msgid "Timber"
+msgstr "Fusta"
+
+msgid "Engineered wood"
+msgstr "Fusta d'enginyeria"
+
+msgid "Stone"
+msgstr "Pedra"
+
+msgid "Brick"
+msgstr "Maó"
+
+msgid "Concrete"
+msgstr "formigó"
+
+msgid "Reinforced concrete"
+msgstr "Formigó armat"
+
+msgid "Wood frame"
+msgstr "Marc de fusta"
+
+msgid "Steel frame"
+msgstr "Estructura d'acer"
+
+msgid "Reinforced concrete frame"
+msgstr "Marc de formigó armat"
+
+msgid "Shear wall"
+msgstr "Mur de cisalla"
+
+msgid "Concrete block"
+msgstr "Bloc de formigó"
+
+msgid "Dimension stone"
+msgstr "Dimensió pedra"
+
+msgid "Monolith brick"
+msgstr "Maó monòlit"
+
+msgid "Panel"
+msgstr "Panell"
+
+msgid "Metal frame"
+msgstr "Estructura metàl·lica"
+
+msgid "Mudbrick"
+msgstr "Maó de fang"
+
+msgid "Cinder block"
+msgstr "Bloc de ciment"
+
+msgid "Aerated concrete"
+msgstr "Formigó celular"
+
+msgid "Ground floor"
+msgstr "Planta baixa"
+
+msgid "Top floor"
+msgstr "Planta superior"
+
+msgid "1st"
+msgstr "1r"
+
+msgid "2nd"
+msgstr "2n"
+
+msgid "3rd"
+msgstr "3r"
+
+msgid "4th"
+msgstr "4t"
+
+msgid "5th"
+msgstr "5è"
+
+msgid "6th"
+msgstr "6è"
+
+msgid "7th"
+msgstr "7è"
+
+msgid "8th"
+msgstr "8è"
+
+msgid "9th"
+msgstr "9è"
+
+msgid "10th"
+msgstr "10è"
+
+msgid "11th"
+msgstr "11è"
+
+msgid "12th"
+msgstr "12è"
+
+msgid "13th"
+msgstr "13è"
+
+msgid "14th"
+msgstr "14è"
+
+msgid "15th"
+msgstr "15è"
+
+msgid "16th"
+msgstr "16è"
+
+msgid "17th"
+msgstr "17è"
+
+msgid "18th"
+msgstr "18è"
+
+msgid "19th"
+msgstr "19è"
+
+msgid "20th"
+msgstr "20è"
+
+msgid "Garden level"
+msgstr "Nivell de jardí"
+
+msgid "Split-level"
+msgstr "Nivell dividit"
+
+msgid "-1"
+msgstr "-1"
+
+msgid "-2"
+msgstr "-2"
+
+msgid "-3"
+msgstr "-3"
+
+msgid "-4"
+msgstr "-4"
+
+msgid "Single-storey"
+msgstr "D'una sola planta"
+
+msgid "21st"
+msgstr "21è"
+
+msgid "22nd"
+msgstr "22è"
+
+msgid "23rd"
+msgstr "23è"
+
+msgid "24th"
+msgstr "24è"
+
+msgid "25th"
+msgstr "25è"
+
+msgid "26th"
+msgstr "26è"
+
+msgid "27th"
+msgstr "27è"
+
+msgid "28th"
+msgstr "28è"
+
+msgid "29th"
+msgstr "29è"
+
+msgid "30th"
+msgstr "30è"
+
+msgid "31st"
+msgstr "31è"
+
+msgid "32nd"
+msgstr "32è"
+
+msgid "33rd"
+msgstr "33è"
+
+msgid "34th"
+msgstr "34è"
+
+msgid "35th"
+msgstr "35è"
+
+msgid "36th"
+msgstr "36è"
+
+msgid "37th"
+msgstr "37è"
+
+msgid "38th"
+msgstr "38è"
+
+msgid "39th"
+msgstr "39è"
+
+msgid "40th"
+msgstr "40è"
+
+msgid "-5"
+msgstr "-5"
+
+msgid "-6"
+msgstr "-6"
+
+msgid "-7"
+msgstr "-7"
+
+msgid "-8"
+msgstr "-8"
+
+msgid "-9"
+msgstr "-9"
+
+msgid "-10"
+msgstr "-10"
+
+msgid "41st"
+msgstr "41è"
+
+msgid "42nd"
+msgstr "42è"
+
+msgid "43rd"
+msgstr "43è"
+
+msgid "44th"
+msgstr "44è"
+
+msgid "45th"
+msgstr "45è"
+
+msgid "46th"
+msgstr "46è"
+
+msgid "47th"
+msgstr "47è"
+
+msgid "48th"
+msgstr "48è"
+
+msgid "49th"
+msgstr "49è"
+
+msgid "50th"
+msgstr "50è"
+
+msgid "51st"
+msgstr "51è"
+
+msgid "52nd"
+msgstr "52è"
+
+msgid "53rd"
+msgstr "53è"
+
+msgid "54th"
+msgstr "54è"
+
+msgid "55th"
+msgstr "55è"
+
+msgid "56th"
+msgstr "56è"
+
+msgid "57th"
+msgstr "57è"
+
+msgid "58th"
+msgstr "58è"
+
+msgid "59th"
+msgstr "59è"
+
+msgid "60th"
+msgstr "60è"
+
+msgid "Raised"
+msgstr "Criat"
+
+msgid "61st"
+msgstr "61è"
+
+msgid "62nd"
+msgstr "62è"
+
+msgid "63rd"
+msgstr "63è"
+
+msgid "64th"
+msgstr "64è"
+
+msgid "65th"
+msgstr "65è"
+
+msgid "66th"
+msgstr "66è"
+
+msgid "67th"
+msgstr "67è"
+
+msgid "68th"
+msgstr "68è"
+
+msgid "69th"
+msgstr "69è"
+
+msgid "70th"
+msgstr "70è"
+
+msgid "71st"
+msgstr "71è"
+
+msgid "72nd"
+msgstr "72è"
+
+msgid "73rd"
+msgstr "73è"
+
+msgid "74th"
+msgstr "74è"
+
+msgid "75th"
+msgstr "75è"
+
+msgid "76th"
+msgstr "76è"
+
+msgid "77th"
+msgstr "77è"
+
+msgid "78th"
+msgstr "78è"
+
+msgid "79th"
+msgstr "79è"
+
+msgid "80th"
+msgstr "80è"
+
+msgid "81st"
+msgstr "81è"
+
+msgid "82nd"
+msgstr "82è"
+
+msgid "83rd"
+msgstr "83è"
+
+msgid "84th"
+msgstr "84è"
+
+msgid "85th"
+msgstr "85è"
+
+msgid "86th"
+msgstr "86è"
+
+msgid "87th"
+msgstr "87è"
+
+msgid "88th"
+msgstr "88è"
+
+msgid "89th"
+msgstr "89è"
+
+msgid "90th"
+msgstr "90è"
+
+msgid "91st"
+msgstr "91è"
+
+msgid "92nd"
+msgstr "92è"
+
+msgid "93rd"
+msgstr "93è"
+
+msgid "94th"
+msgstr "94è"
+
+msgid "95th"
+msgstr "95è"
+
+msgid "96th"
+msgstr "96è"
+
+msgid "97th"
+msgstr "97è"
+
+msgid "98th"
+msgstr "98è"
+
+msgid "99th"
+msgstr "99è"
+
+msgid "100th"
+msgstr "100è"
+
+msgid "Wooden floor"
+msgstr "Terra de fusta"
+
+msgid "Tile"
+msgstr "Rajola"
+
+msgid "Vinyl composition tile"
+msgstr "Rajola de composició de vinil"
+
+msgid "Carpet"
+msgstr "Catifa"
+
+msgid "Natural fiber"
+msgstr "Fibra natural"
+
+msgid "Coco"
+msgstr "Coco"
+
+msgid "Travertine"
+msgstr "Travertí"
+
+msgid "Marble"
+msgstr "Marbre"
+
+msgid "Granite"
+msgstr "Granit"
+
+msgid "Terracotta tile"
+msgstr "Rajola de terracota"
+
+msgid "Teak"
+msgstr "Teca"
+
+msgid "Mosaïc"
+msgstr "Mosaic"
+
+msgid "Clay"
+msgstr "Argila"
+
+msgid "Laminate"
+msgstr "Laminat"
+
+msgid "Porcelain stoneware"
+msgstr "Gres porcelànic"
+
+msgid "Cement tile"
+msgstr "Rajola de ciment"
+
+msgid "Convector"
+msgstr "Convector"
+
+msgid "Underfloor"
+msgstr "Sota terra"
+
+msgid "Radiator"
+msgstr "Radiador"
+
+msgid "Stove"
+msgstr "Estufa"
+
+msgid "Air-conditioning"
+msgstr "Aire condicionat"
+
+msgid "Central"
+msgstr "Central"
+
+msgid "Without"
+msgstr "Sense"
+
+msgid "Fireplace"
+msgstr "Llar de foc"
+
+msgid "Individual"
+msgstr "Individual"
+
+msgid "Common"
+msgstr "Comú"
+
+msgid "Mixed"
+msgstr "Mixt"
+
+msgid "District heating"
+msgstr "Calefacció urbana"
+
+msgid "Gas"
+msgstr "Gas"
+
+msgid "Fuel oil"
+msgstr "Gasolina"
+
+msgid "Electric"
+msgstr "elèctric"
+
+msgid "Wood"
+msgstr "Fusta"
+
+msgid "Solar"
+msgstr "Solar"
+
+msgid "Charcoal"
+msgstr "Carbó vegetal"
+
+msgid "Heat pump"
+msgstr "Bomba de calor"
+
+msgid "Geothermal"
+msgstr "Geotèrmica"
+
+msgid "Wood pellet"
+msgstr "Pellet de fusta"
+
+msgid "Aerothermy"
+msgstr "Aerotèrmia"
+
+msgid "Hot water tank"
+msgstr "Dipòsit d'aigua calenta"
+
+msgid "Boiler"
+msgstr "Caldera"
+
+msgid "Collective"
+msgstr "Col·lectiu"
+
+msgid "Flat"
+msgstr "Pis"
+
+msgid "Dry-stone wall terraces"
+msgstr "Terrasses de mur de pedra seca"
+
+msgid "Steep"
+msgstr "Escarpat"
+
+msgid "Wooded"
+msgstr "Arbrat"
+
+msgid "Meadow"
+msgstr "Prat"
+
+msgid "Term lease"
+msgstr "Arrendament a termini"
+
+msgid "Long-Term"
+msgstr "Llarg termini"
+
+msgid "Long-Term - Single activity"
+msgstr "A llarg termini - Activitat única"
+
+msgid "Long-Term - All activities"
+msgstr "A llarg termini - Totes les activitats"
+
+msgid "Regulated"
+msgstr "Regulada"
+
+msgid "Seaside"
+msgstr "Costa del mar"
+
+msgid "Village"
+msgstr "Poble"
+
+msgid "Old town"
+msgstr "Barri antic"
+
+msgid "Precinct"
+msgstr "Recinte"
+
+msgid "Ski slope"
+msgstr "Pista d'esquí"
+
+msgid "Town center"
+msgstr "Centre de la ciutat"
+
+msgid "Industrial estate"
+msgstr "Polígon industrial"
+
+msgid "Shopping center"
+msgstr "Centre comercial"
+
+msgid "Business park"
+msgstr "Parc empresarial"
+
+msgid "Airport area"
+msgstr "Zona de l'aeroport"
+
+msgid "Science park"
+msgstr "Parc científic"
+
+msgid "Port area"
+msgstr "Zona portuària"
+
+msgid "Outskirts"
+msgstr "Afores"
+
+msgid "Hills"
+msgstr "Turons"
+
+msgid "Waterfront"
+msgstr "Façana marítima"
+
+msgid "Countryside"
+msgstr "Camp"
+
+msgid "Suburb"
+msgstr "Suburbi"
+
+msgid "East"
+msgstr "Est"
+
+msgid "North"
+msgstr "nord"
+
+msgid "West"
+msgstr "Oest"
+
+msgid "South"
+msgstr "Sud"
+
+msgid "North-east"
+msgstr "Nord-est"
+
+msgid "South-east"
+msgstr "Sud-est"
+
+msgid "South-west"
+msgstr "Sud-oest"
+
+msgid "North-west"
+msgstr "Nord-oest"
+
+msgid "Day"
+msgstr "Dia"
+
+msgid "Week"
+msgstr "Setmana"
+
+msgid "Fortnight"
+msgstr "Quinzena"
+
+msgid "Month"
+msgstr "Mes"
+
+msgid "Quarterly"
+msgstr "Trimestral"
+
+msgid "Bimonthly"
+msgstr "Bimestral"
+
+msgid "Half-yearly"
+msgstr "Semestral"
+
+msgid "Yearly"
+msgstr "Anualment"
+
+msgid "Bus"
+msgstr "Autobús"
+
+msgid "Bus hub"
+msgstr "Nucli d'autobusos"
+
+msgid "Metro"
+msgstr "Metro"
+
+msgid "Shops"
+msgstr "Botigues"
+
+msgid "Primary school"
+msgstr "Primària"
+
+msgid "Town centre"
+msgstr "Centre del poble"
+
+msgid "Hospital/clinic"
+msgstr "Hospital/clínica"
+
+msgid "Doctor"
+msgstr "Doctor"
+
+msgid "Tram"
+msgstr "Tramvia"
+
+msgid "Train station"
+msgstr "Estació de tren"
+
+msgid "Public parking"
+msgstr "Aparcament públic"
+
+msgid "Supermarket"
+msgstr "Supermercat"
+
+msgid "Sea port"
+msgstr "Port marítim"
+
+msgid "Nursery"
+msgstr "Guarderia diürna"
+
+msgid "Public pool"
+msgstr "Piscina pública"
+
+msgid "Tennis"
+msgstr "Tennis"
+
+msgid "Golf"
+msgstr "Golf"
+
+msgid "Movies"
+msgstr "Pel·lícules"
+
+msgid "Secondary school"
+msgstr "Escola secundaria"
+
+msgid "Sport center"
+msgstr "Centre Esportiu"
+
+msgid "Airport"
+msgstr "Aeroport"
+
+msgid "Sea"
+msgstr "mar"
+
+msgid "TGV station"
+msgstr "Estació de TGV"
+
+msgid "Highway"
+msgstr "Carretera"
+
+msgid "University"
+msgstr "Universitat"
+
+msgid "Convention center"
+msgstr "Centre de Convencions"
+
+msgid "Lake"
+msgstr "llac"
+
+msgid "On main road"
+msgstr "A la carretera principal"
+
+msgid "Energy - Conventional consumption"
+msgstr "Energia - Consum convencional"
+
+msgid "Energy - Emissions estimate"
+msgstr "Energia - Estimació d'emissions"
+
+msgid "« Carrez » act"
+msgstr "Acte Carrez."
+
+msgid "ERP"
+msgstr "ERP"
+
+msgid "Termites"
+msgstr "Tèrmits"
+
+msgid "Asbestos"
+msgstr "Amiant"
+
+msgid "Lead"
+msgstr "Dirigir"
+
+msgid "Boutin act"
+msgstr "Acte Boutin"
+
+msgid "EPI (Non renewable)"
+msgstr "EPI (no renovable)"
+
+msgid "APE"
+msgstr "APE"
+
+msgid "Request for nomination of an ad hoc agent"
+msgstr "Sol·licitud de nomenament d'un agent ad hoc"
+
+msgid "Request for nomination of a temporary administrator"
+msgstr "Sol·licitud de nomenament d'un administrador temporal"
+
+msgid "Request for expert nomination"
+msgstr "Sol·licitud de nomenament d'expert"
+
+msgid "Fire safety regulations"
+msgstr "Normes de seguretat contra incendis"
+
+msgid "Accessibility standards for people with disabilities"
+msgstr "Normes d'accessibilitat per a persones amb discapacitat"
+
+msgid "Sanitary authorization"
+msgstr "Autorització sanitària"
+
+msgid "Energy consumption"
+msgstr "Consum d'energia"
+
+msgid "Housing tax"
+msgstr "Impost sobre l'habitatge"
+
+msgid "Land charges"
+msgstr "Càrregues de terres"
+
+msgid "Residents only"
+msgstr "Només residents"
+
+msgid "Property tax (IPTU)"
+msgstr "Impost sobre béns immobles (IPTU)"
+
+msgid "Taxe Locale d’Equipement"
+msgstr "Taxe Local d'Equipment"
+
+msgid "Minergie"
+msgstr "Minergie"
+
+msgid "Volume"
+msgstr "Volum"
+
+msgid "Useful surface"
+msgstr "Superfície útil"
+
+msgid "Co-Ownership property"
+msgstr "Immoble de copropietat"
+
+msgid "Communal tax rate"
+msgstr "Tipus impositiu comunal"
+
+msgid "Land register extract number"
+msgstr "Número d'extracte del registre de la propietat"
+
+msgid "Droit de superficie"
+msgstr "Dret de superfície"
+
+msgid "Millièmes"
+msgstr "Milions"
+
+msgid "PPE budget"
+msgstr "Pressupost dels EPI"
+
+msgid "Current renovation fund"
+msgstr "Fons de renovació actual"
+
+msgid "Plot ratio"
+msgstr "Relació de trama"
+
+msgid "Occupancy ratio"
+msgstr "Ratio d'ocupació"
+
+msgid "Ground footprint coefficient"
+msgstr "Coeficient de la petjada del sòl"
+
+msgid "Floor space coefficient"
+msgstr "Coeficient de superfície"
+
+msgid "Priority period CCH L443-11"
+msgstr "Període de prioritat CCH L443-11"
+
+msgid "Plot division / Demarcation"
+msgstr "Divisió de parcel·la / Demarcació"
+
+msgid "Board of directors / supervisory deliberation"
+msgstr "Junta directiva/deliberació supervisora"
+
+msgid "Certificate of compliance"
+msgstr "Certificat de compliment"
+
+msgid "Energy class"
+msgstr "Classe energètica"
+
+msgid "Thermal insulation class"
+msgstr "Classe d'aïllament tèrmic"
+
+msgid "Greenhouse Gas"
+msgstr "Gasos d'efecte hivernacle"
+
+msgid "Energy passport"
+msgstr "Passaport energètic"
+
+msgid "Energy certificate"
+msgstr "Certificat energètic"
+
+msgid "Energy consumption / Final energy requirement"
+msgstr "Consum d'energia / Necessitat energètica final"
+
+msgid "Energy efficiency class"
+msgstr "Classe d'eficiència energètica"
+
+msgid "Year of construction according to certificate"
+msgstr "Any de construcció segons certificat"
+
+msgid "Energy consumption : Hot water included"
+msgstr "Consum d'energia: Aigua calenta inclosa"
+
+msgid "Specific primary energy consumption"
+msgstr "Consum específic d'energia primària"
+
+msgid "PEB unique code"
+msgstr "Codi únic PEB"
+
+msgid "K level (Thermal Insulation)"
+msgstr "Nivell K (aïllament tèrmic)"
+
+msgid "Ew level (Energy performance)"
+msgstr "Nivell Ew (rendiment energètic)"
+
+msgid "CO2 emission"
+msgstr "emissió de CO2"
+
+msgid "Flood risks"
+msgstr "Riscos d'inundació"
+
+msgid "Certificate: Oil tank conformity"
+msgstr "Certificat: Conformitat al dipòsit d'oli"
+
+msgid "Certificate : Electric installation conformity"
+msgstr "Certificat: Conformitat de la instal·lació elèctrica"
+
+msgid "« As Built » certificate"
+msgstr "Certificat « As Built »."
+
+msgid "Total consumption of primary energy"
+msgstr "Consum total d'energia primària"
+
+msgid "Registration number"
+msgstr "Matrícula"
+
+msgid "Cadastral income"
+msgstr "Ingressos cadastrals"
+
+msgid "Planning permit obtained"
+msgstr "Llicència urbanística obtinguda"
+
+msgid "Subdivision authorization"
+msgstr "Autorització de subdivisió"
+
+msgid "Pre-emptive right possible"
+msgstr "Dret de preferència possible"
+
+msgid "Citation for urbanistic infraction"
+msgstr "Citació per infracció urbanística"
+
+msgid "Last use designation"
+msgstr "Designació d'últim ús"
+
+msgid "Cadastral annuity"
+msgstr "Anualitat cadastral"
+
+msgid "Energy certification number"
+msgstr "Número de certificació energètica"
+
+msgid "VAT applicable"
+msgstr "IVA aplicable"
+
+msgid "Energy certification"
+msgstr "Certificació energètica"
+
+msgid "Emissions estimate"
+msgstr "Estimació d'emissions"
+
+msgid "Possibility of connecting : Water / Gas / Electricity"
+msgstr "Possibilitat de connexió: Aigua / Gas / Electricitat"
+
+msgid "Laudêmio"
+msgstr "Laudêmio"
+
+msgid "Real estate program"
+msgstr "Programa immobiliari"
+
+msgid "Accessible to foreigners"
+msgstr "Accessible als estrangers"
+
+msgid "Building type"
+msgstr "Tipus d'edifici"
+
+msgid "Primärenergiebedarf"
+msgstr "Primärenergiebedarf"
+
+msgid "Flat rate for charges"
+msgstr "Tarifa plana per càrrecs"
+
+msgid "Energy Efficiency Rating (Current)"
+msgstr "Classificació d'eficiència energètica (actual)"
+
+msgid "Energy Efficiency Rating (Potential)"
+msgstr "Classificació d'eficiència energètica (potencial)"
+
+msgid "Environmental Impact Rating (Current)"
+msgstr "Valoració d'impacte ambiental (actual)"
+
+msgid "Environmental Impact Rating (Potential)"
+msgstr "Valoració d'impacte ambiental (potencial)"
+
+msgid "Tenure type"
+msgstr "Tipus de tinença"
+
+msgid "Property tenure"
+msgstr "Tinència de la propietat"
+
+msgid "Rental value"
+msgstr "Valor de lloguer"
+
+msgid "Tax value"
+msgstr "Valor fiscal"
+
+msgid "Insurance value"
+msgstr "Valor de l'assegurança"
+
+msgid "Building zone"
+msgstr "Zona d'edificació"
+
+msgid "Stratum"
+msgstr "Estrat"
+
+msgid "Rental reference index"
+msgstr "Índex de referència de lloguer"
+
+msgid "Last rental price"
+msgstr "Últim preu de lloguer"
+
+msgid "Building envelope efficiency"
+msgstr "Eficiència de l'envoltant de l'edifici"
+
+msgid "Overall energy efficiency"
+msgstr "Eficiència energètica global"
+
+msgid "Dry rot diagnosis"
+msgstr "Diagnòstic de podridura seca"
+
+msgid "Additional rent"
+msgstr "Lloguer addicional"
+
+msgid "Indexed cadastral income"
+msgstr "Renda cadastral indexada"
+
+msgid "Property tax"
+msgstr "Impost sobre béns immobles"
+
+msgid "EPI (Renewable)"
+msgstr "EPI (Renovable)"
+
+msgid "Emission class"
+msgstr "Classe d'emissió"
+
+msgid "Heating costs"
+msgstr "Costos de calefacció"
+
+msgid "Performance level (summer season)"
+msgstr "Nivell de rendiment (temporada d'estiu)"
+
+msgid "Performance level (winter season)"
+msgstr "Nivell de rendiment (temporada d'hivern)"
+
+msgid "Cadastral data - Section"
+msgstr "Dades cadastrals - Secció"
+
+msgid "Cadastral data - Sheet"
+msgstr "Dades cadastrals - Full"
+
+msgid "Cadastral data - Parcel"
+msgstr "Dades cadastrals - Parcel·la"
+
+msgid "Cadastral data - Subparcel"
+msgstr "Dades cadastrals - Subparcel·la"
+
+msgid "Cadastral data - Sub"
+msgstr "Dades cadastrals - Sub"
+
+msgid "Cadastral data - Sub 2"
+msgstr "Dades cadastrals - Sub 2"
+
+msgid "Licença de habitação - Número"
+msgstr "Licença de habitação - Número"
+
+msgid "Licença de habitação - Emitida em"
+msgstr "Licença de habitação - Emitida em"
+
+msgid "Taxa de IMI"
+msgstr "Taxa de IMI"
+
+msgid "Regime de IVA"
+msgstr "Règim d'IVA"
+
+msgid "Escritura - Número"
+msgstr "Escriptura - Número"
+
+msgid "Licença de construção - Número"
+msgstr "Llicència de construcció - Número"
+
+msgid "Licença de construção - Emitida em"
+msgstr "Licença de construção - Emitida em"
+
+msgid "Turnover"
+msgstr "Facturació"
+
+msgid "Net income"
+msgstr "Ingressos nets"
+
+msgid "Gross operating profit"
+msgstr "Benefici brut d'explotació"
+
+msgid "Personnel costs"
+msgstr "Costos de personal"
+
+msgid "Cash flow"
+msgstr "Flux de caixa"
+
+msgid "Shareholders’equity"
+msgstr "Patrimoni propi"
+
+msgid "Net debt"
+msgstr "Deute net"
+
+msgid "Internet"
+msgstr "Internet"
+
+msgid "Disabled access"
+msgstr "Accés minusvàlids"
+
+msgid "Alarm system"
+msgstr "Sistema d'alarma"
+
+msgid "Lift"
+msgstr "Ascensor"
+
+msgid "Double glazing"
+msgstr "Doble vidre"
+
+msgid "Intercom"
+msgstr "Intercomunicador"
+
+msgid "TV distribution"
+msgstr "Distribució televisiva"
+
+msgid "Swimming pool"
+msgstr "Piscina"
+
+msgid "Security door"
+msgstr "Porta de seguretat"
+
+msgid "Tennis court"
+msgstr "Pista de tennis"
+
+msgid "Irrigation sprinkler"
+msgstr "Reg per aspersió"
+
+msgid "Barbecue"
+msgstr "Barbacoa"
+
+msgid "Electric gate"
+msgstr "Porta elèctrica"
+
+msgid "Crawl space"
+msgstr "Espai de rastreig"
+
+msgid "Car port"
+msgstr "Port de cotxes"
+
+msgid "Caretaker house"
+msgstr "Casa de conserge"
+
+msgid "Sliding windows"
+msgstr "Finestres corredisses"
+
+msgid "Central vacuum system"
+msgstr "Sistema central de buit"
+
+msgid "Electric shutters"
+msgstr "Persianes elèctriques"
+
+msgid "Window shade"
+msgstr "Ombra de la finestra"
+
+msgid "Electric awnings"
+msgstr "Tendals elèctrics"
+
+msgid "Washing machine"
+msgstr "Rentadora"
+
+msgid "Jacuzzi"
+msgstr "Jacuzzi"
+
+msgid "Whirlpool tub"
+msgstr "Banyera d'hidromassatge"
+
+msgid "Well"
+msgstr "Bé"
+
+msgid "Spring"
+msgstr "Primavera"
+
+msgid "Engine generator"
+msgstr "Generador de motor"
+
+msgid "Dishwasher"
+msgstr "Rentaplats"
+
+msgid "Hob"
+msgstr "Placa"
+
+msgid "Safe"
+msgstr "Caixa forta"
+
+msgid "Helipad"
+msgstr "Helipad"
+
+msgid "Videophone"
+msgstr "Videotelèfon"
+
+msgid "Video security"
+msgstr "Seguretat de vídeo"
+
+msgid "Iron"
+msgstr "Ferro"
+
+msgid "Hair dryer"
+msgstr "Assecador de cabell"
+
+msgid "Television"
+msgstr "Televisió"
+
+msgid "DVD Player"
+msgstr "Reproductor de DVD"
+
+msgid "CD Player"
+msgstr "Reproductor de CD's"
+
+msgid "Outdoor lighting"
+msgstr "Il·luminació exterior"
+
+msgid "Home automation"
+msgstr "Domòtica"
+
+msgid "Linens"
+msgstr "Llençols"
+
+msgid "Tableware"
+msgstr "Vaixella"
+
+msgid "Clothes dryer"
+msgstr "Secadora"
+
+msgid "Refrigerator"
+msgstr "Nevera"
+
+msgid "Oven"
+msgstr "Forn"
+
+msgid "Reception 24/7"
+msgstr "Recepció 24/7"
+
+msgid "Coffeemaker"
+msgstr "Cafetera"
+
+msgid "Microwave oven"
+msgstr "Microones"
+
+msgid "Shabbat elevator"
+msgstr "Ascensor de Shabat"
+
+msgid "Sukkah"
+msgstr "Sukkah"
+
+msgid "Synagogue"
+msgstr "Sinagoga"
+
+msgid "Digicode"
+msgstr "Digicode"
+
+msgid "Common laundry"
+msgstr "Bugaderia comuna"
+
+msgid "Pets allowed"
+msgstr "Mascotes permeses"
+
+msgid "Metal shutters"
+msgstr "Persianes metàl·liques"
+
+msgid "Wiring closet"
+msgstr "Armari de cablejat"
+
+msgid "Computer network"
+msgstr "Xarxa d'ordinadors"
+
+msgid "Dropped ceiling"
+msgstr "Sostre caigut"
+
+msgid "Fire hose cabinets"
+msgstr "Armaris de mànegues contra incendis"
+
+msgid "Fire sprinkler system"
+msgstr "Sistema d'aspersió contra incendis"
+
+msgid "Wharf"
+msgstr "Moll"
+
+msgid "Connected thermostat"
+msgstr "Termòstat connectat"
+
+msgid "Bowling game"
+msgstr "Bowling game"
+
+msgid "Water softener"
+msgstr "Descalcificador d'aigua"
+
+msgid "Triple glazing"
+msgstr "Triple vidre"
+
+msgid "Well drilling"
+msgstr "Perforació de pous"
+
+msgid "Optical fiber"
+msgstr "Fibra òptica"
+
+msgid "Non-flooding"
+msgstr "No inundació"
+
+msgid "Backup water system"
+msgstr "Sistema d'aigua de reserva"
+
+msgid "Water filtration system"
+msgstr "Sistema de filtració d'aigua"
+
+msgid "Air filtration system"
+msgstr "Sistema de filtració d'aire"
+
+msgid "Fire alarm system"
+msgstr "Sistema d'alarma contra incendis"
+
+msgid "Commercial services"
+msgstr "Serveis comercials"
+
+msgid "Playground"
+msgstr "Parc infantil"
+
+msgid "Flyboard"
+msgstr "Flyboard"
+
+msgid "Amphibious car"
+msgstr "Cotxe amfibi"
+
+msgid "Beach games"
+msgstr "Jocs de platja"
+
+msgid "Bikes"
+msgstr "Bicicletes"
+
+msgid "Canoe"
+msgstr "Canoa"
+
+msgid "Diving"
+msgstr "Busseig"
+
+msgid "Fishing"
+msgstr "Pescar"
+
+msgid "Floating pool"
+msgstr "Piscina flotant"
+
+msgid "Hoverboard"
+msgstr "Hoverboard"
+
+msgid "Hovercraft"
+msgstr "Aerodeslizador"
+
+msgid "Inflatables"
+msgstr "Inflables"
+
+msgid "Water slide"
+msgstr "Tobogan"
+
+msgid "Waterpark"
+msgstr "Parc aquàtic"
+
+msgid "Jet ski"
+msgstr "Moto d'aigua"
+
+msgid "Kite surf"
+msgstr "Kite surf"
+
+msgid "Paddle"
+msgstr "Pàdel"
+
+msgid "Scooter"
+msgstr "Scooter"
+
+msgid "Seabob"
+msgstr "Seabob"
+
+msgid "Segway"
+msgstr "Segway"
+
+msgid "Wakeboard"
+msgstr "Wakeboard"
+
+msgid "Simple flow ventilation"
+msgstr "Ventilació de flux simple"
+
+msgid "Double flow ventilation"
+msgstr "Ventilació de doble flux"
+
+msgid "Business center"
+msgstr "Centre de negocis"
+
+msgid "Foodservice"
+msgstr "Servei de menjar"
+
+msgid "Condominium garden"
+msgstr "Jardí del condomini"
+
+msgid "Stabilizers"
+msgstr "Estabilitzadors"
+
+msgid "Hydraulic Platform"
+msgstr "Plataforma hidràulica"
+
+msgid "Freezer"
+msgstr "Congelador"
+
+msgid "Fitness"
+msgstr "Aptitud"
+
+msgid "Electric car terminal"
+msgstr "Terminal de cotxe elèctric"
+
+msgid "Solar panels"
+msgstr "Panells solars"
+
+msgid "Overhead crane"
+msgstr "Grua aèria"
+
+msgid "Tow-away zone"
+msgstr "Zona de remolc"
+
+msgid "Extraction air duct"
+msgstr "Conducte d'extracció d'aire"
+
+msgid "Access control"
+msgstr "Control d'accés"
+
+msgid "Berth"
+msgstr "Atracada"
+
+msgid "Listed historic building"
+msgstr "Edifici històric catalogat"
+
+msgid "Flyscreens"
+msgstr "Mosquiteres"
+
+msgid "Security service"
+msgstr "Servei de seguretat"
+
+msgid "Condominium pool"
+msgstr "Piscina de condomini"
+
+msgid "Civil defense bunker"
+msgstr "Búnquer de protecció civil"
+
+msgid "PVC window"
+msgstr "Finestra de PVC"
+
+msgid "Aluminum window"
+msgstr "Finestra d'alumini"
+
+msgid "Supplies"
+msgstr "Subministraments"
+
+msgid "Outdoor spaces"
+msgstr "Espais exteriors"
+
+msgid "Rental supplies"
+msgstr "Subministraments de lloguer"
+
+msgid "Security"
+msgstr "Seguretat"
+
+msgid "Professional supplies"
+msgstr "Subministraments professionals"
+
+msgid "Yacht supplies"
+msgstr "Subministraments de iots"
+
+msgid "High standard"
+msgstr "Alt nivell"
+
+msgid "Luxury"
+msgstr "De luxe"
+
+msgid "High luxury"
+msgstr "Alt luxe"
+
+msgid "Housing estate"
+msgstr "Polígon d'habitatges"
+
+msgid "Regular"
+msgstr "Regular"
+
+msgid "In progress"
+msgstr "En progrés"
+
+msgid "Standby"
+msgstr "En espera"
+
+msgid "Deleted"
+msgstr "S'ha suprimit"
+
+msgid "Waiting for agreement"
+msgstr "Esperant l'acord"
+
+msgid "Agreement ended"
+msgstr "Acord finalitzat"
+
+msgid "Offer"
+msgstr "Oferta"
+
+msgid "Processing sale"
+msgstr "Processament de venda"
+
+msgid "Waiting for contract"
+msgstr "Esperant contracte"
+
+msgid "Pending approval"
+msgstr "Pendent d'aprovació"
+
+msgid "Sell/Rent by agent"
+msgstr "Venda/lloguer per agent"
+
+msgid "Sell/Rent by owner"
+msgstr "Venda/lloguer pel propietari"
+
+msgid "Sell/Rent by other agent"
+msgstr "Venda / lloguer per un altre agent"
+
+msgid "Removed by agent"
+msgstr "Eliminat per l'agent"
+
+msgid "Removed by owner"
+msgstr "Eliminat pel propietari"
+
+msgid "Sale/Rental cancelled"
+msgstr "Venda/lloguer cancel·lat"
+
+msgid "Delete this property"
+msgstr "Suprimeix aquesta propietat"
+
+msgid "Business"
+msgstr "Negocis"
+
+msgid "Garage/Parking"
+msgstr "Garatge/Pàrquing"
+
+msgid "Office"
+msgstr "Oficina"
+
+msgid "Boat"
+msgstr "Vaixell"
+
+msgid "Cellar / Box"
+msgstr "Celler / Caixa"
+
+msgid "Triplex"
+msgstr "Triplex"
+
+msgid "Building land"
+msgstr "Terreny edificable"
+
+msgid "Not constructible land"
+msgstr "Terreny no edificable"
+
+msgid "Penthouse"
+msgstr "Àtic"
+
+msgid "Castle"
+msgstr "Castell"
+
+msgid "Duplex"
+msgstr "Dúplex"
+
+msgid "Manor house"
+msgstr "casa senyorial"
+
+msgid "Farm"
+msgstr "Granja"
+
+msgid "Villa"
+msgstr "Vila"
+
+msgid "Apartment villa"
+msgstr "Apartament vila"
+
+msgid "Ruin"
+msgstr "Ruïna"
+
+msgid "Mill"
+msgstr "Molí"
+
+msgid "Farmhouse"
+msgstr "Masia"
+
+msgid "Semi-detached house"
+msgstr "Casa adossada"
+
+msgid "Mobile home"
+msgstr "Autocaravana"
+
+msgid "Gîte"
+msgstr "Casa rural"
+
+msgid "Hangar"
+msgstr "Hangar"
+
+msgid "Mas"
+msgstr "Mas"
+
+msgid "Local"
+msgstr "Local"
+
+msgid "Detached house"
+msgstr "Xalet"
+
+msgid "Retail space"
+msgstr "Locals"
+
+msgid "Business assets"
+msgstr "Actius empresarials"
+
+msgid "Right to the lease"
+msgstr "Dret al lloguer"
+
+msgid "Mansion"
+msgstr "Mansió"
+
+msgid "Management"
+msgstr "Gestió"
+
+msgid "Agricultural exploitation"
+msgstr "Explotació agrícola"
+
+msgid "Woodshed"
+msgstr "Bossa de llenya"
+
+msgid "Stud farm"
+msgstr "Stud Farm"
+
+msgid "Plot of land"
+msgstr "Parcel · la de terra"
+
+msgid "Bastide"
+msgstr "Bastida"
+
+msgid "Bastidon"
+msgstr "Bastidó"
+
+msgid "Company"
+msgstr "Companyia"
+
+msgid "Vineyard property"
+msgstr "Propietat de vinya"
+
+msgid "Motor Yacht"
+msgstr "Iot de motor"
+
+msgid "Narrow boat"
+msgstr "Vaixell estret"
+
+msgid "Sailing Yacht"
+msgstr "Iot de vela"
+
+msgid "Catamaran"
+msgstr "Catamarà"
+
+msgid "Equestrian estate"
+msgstr "Finca eqüestre"
+
+msgid "Bed and breakfast"
+msgstr "Pensió"
+
+msgid "Riad"
+msgstr "Riad"
+
+msgid "Retail shop"
+msgstr "Botiga minorista"
+
+msgid "Shophouse"
+msgstr "Botiga"
+
+msgid "Borey"
+msgstr "Borey"
+
+msgid "Condo"
+msgstr "Condominio"
+
+msgid "Factory"
+msgstr "Fàbrica"
+
+msgid "Serviced apartment"
+msgstr "Apartament amb servei"
+
+msgid "Twin Villa"
+msgstr "Vila Doble"
+
+msgid "Flat House"
+msgstr "Casa Pis"
+
+msgid "Bungalow"
+msgstr "Bungalow"
+
+msgid "Beach house"
+msgstr "casa de platja"
+
+msgid "Ger district"
+msgstr "districte de Ger"
+
+msgid "Summer house"
+msgstr "Casa d'estiu"
+
+msgid "Private island"
+msgstr "Illa privada"
+
+msgid "Residential land"
+msgstr "Terreny residencial"
+
+msgid "Commercial land"
+msgstr "Terreny comercial"
+
+msgid "Subdivision"
+msgstr "Subdivisió"
+
+msgid "Game reserve"
+msgstr "Reserva de joc"
+
+msgid "Motorboat"
+msgstr "Llanxa motora"
+
+msgid "Ranch"
+msgstr "Ranxo"
+
+msgid "Waterside mansion"
+msgstr "Mansió vora l'aigua"
+
+msgid "Craft Workshop"
+msgstr "Taller de manualitats"
+
+msgid "Pavilion"
+msgstr "Pavelló"
+
+msgid "Cellar"
+msgstr "Celler d'arrel"
+
+msgid "Agricultural land"
+msgstr "Terres agrícoles"
+
+msgid "Mountains"
+msgstr "Muntanyes"
+
+msgid "Greenery"
+msgstr "Verdor"
+
+msgid "Monument"
+msgstr "Monument"
+
+msgid "Forest"
+msgstr "Bosc"
+
+msgid "River"
+msgstr "Riu"
+
+msgid "City"
+msgstr "ciutat"
+
+msgid "Sky"
+msgstr "Cel"
+
+msgid "Courtyard"
+msgstr "Pati"
+
+msgid "Main stem"
+msgstr "Tija principal"
+
+msgid "Harbor"
+msgstr "Port"
+
+msgid "Ski slopes"
+msgstr "Pistes d'esquí"
+
+msgid "Vines"
+msgstr "Vinyes"
+
+msgid "Obstructed"
+msgstr "Obstruït"
+
+msgid "Slight"
+msgstr "Lleuger"
+
+msgid "Unobstructed"
+msgstr "Sense obstacles"
+
+msgid "Panoramic"
+msgstr "Panoràmica"
+
+msgid "Exterior"
+msgstr "Exterior"
+
+msgid "Interior"
+msgstr "Interior"
+
+msgid "Septic tank"
+msgstr "Tanc sèptic"
+
+msgid "Main drainage"
+msgstr "Drenatge principal"
+
+msgid "Treatment plant"
+msgstr "Planta de tractament"
+
+msgid "Grey-water pit"
+msgstr "Pou d'aigües grises"
+
+msgid "Micro sewage treatment"
+msgstr "Micro tractament d'aigües residuals"
+
+msgid "Estate agent"
+msgstr "Agent immobiliari"
+
+msgid "Phoning"
+msgstr "Trucar per telèfon"
+
+msgid "Collaboration"
+msgstr "Col·laboració"
+
+msgid "Provider"
+msgstr "Proveïdor"
+
+msgid "Renown"
+msgstr "Reconeixement"
+
+msgid "Walk-in / Window"
+msgstr "Entrada / Finestra"
+
+msgid "Network"
+msgstr "Xarxa"
+
+msgid "Flyer"
+msgstr "Volant"
+
+msgid "Sign"
+msgstr "Signe"
+
+msgid "Magazine"
+msgstr "Revista"
+
+msgid "Mailing"
+msgstr "Correu"
+
+msgid "e-mailing"
+msgstr "correu electrònic"
+
+msgid "Old client"
+msgstr "Client antic"
+
+msgid "Selection / Favorite"
+msgstr "Selecció / Preferit"
+
+msgid "Main residence"
+msgstr "Residència principal"
+
+msgid "Secondary residence"
+msgstr "Residència secundària"
+
+msgid "Student residence"
+msgstr "Residència d'estudiants"
+
+msgid "Tourism residence"
+msgstr "Residència turística"
+
+msgid "Seniors residence"
+msgstr "Residència de gent gran"
+
+msgid "Duflot Legislation"
+msgstr "Legislació Duflot"
+
+msgid "Censi-Bouvard Legislation"
+msgstr "Legislació Censi-Bouvard"
+
+msgid "Reduced fees"
+msgstr "Tarifes reduïdes"
+
+msgid "EHPAD (Retirement homes)"
+msgstr "EHPAD (Residències de gent gran)"
+
+msgid "Act 1291"
+msgstr "Llei 1291"
+
+msgid "Act 887"
+msgstr "Llei 887"
+
+msgid "Mixed-use"
+msgstr "Ús mixt"
+
+msgid "Rental investment"
+msgstr "Inversió de lloguer"
+
+msgid "Act 1235"
+msgstr "Llei 1235"
+
+msgid "Pinel Legislation"
+msgstr "Legislació Pinel"
+
+msgid "Resale"
+msgstr "Revenda"
+
+msgid "Private leasing"
+msgstr "Arrendament privat"
+
+msgid "Bank leasing"
+msgstr "Arrendament bancari"
+
+msgid "IPOTEK"
+msgstr "IPOTEK"
+
+msgid "Exchangeable"
+msgstr "Canviable"
+
+msgid "No advance"
+msgstr "Sense avançament"
+
+msgid "First occupancy"
+msgstr "Primera ocupació"
+
+msgid "Liberal profession"
+msgstr "Professió liberal"
+
+msgid "Holiday"
+msgstr "Festa"
+
+msgid "3.57% incl. VAT from the purchase price"
+msgstr "3,57% incl. IVA des del preu de compra"
+
+msgid "7.14% incl. VAT from the purchase price"
+msgstr "7,14% incl. IVA des del preu de compra"
+
+msgid "3.48% incl. VAT from the purchase price"
+msgstr "3,48% inclòs. IVA des del preu de compra"
+
+msgid "6.96% incl. VAT from the purchase price"
+msgstr "6,96% incl. IVA des del preu de compra"
+
+msgid "m²"
+msgstr "m²"
+
+msgid "sq ft"
+msgstr "sq ft"
+
+msgid "kanal"
+msgstr "kanal"
+
+msgid "marla"
+msgstr "marla"
+
+msgid "sq yd"
+msgstr "sq yd"
+
+msgid "acre"
+msgstr "acre"
+
+msgid "ha"
+msgstr "ha"
+
+msgid "ares"
+msgstr "ares"
+
+msgid "toises"
+msgstr "toises"
+
+msgid "perches"
+msgstr "perches"
+
+msgid "arpents"
+msgstr "arpents"
+
+msgid "minute"
+msgstr "minut"
+
+msgid "metre"
+msgstr "metre"
+
+msgid "km"
+msgstr "km"
+
+msgid "Administrator"
+msgstr "Administrador"
+
+msgid "Company manager"
+msgstr "Responsable de l'empresa"
+
+msgid "Agency manager"
+msgstr "Responsable de l'agència"
+
+msgid "Secretariat"
+msgstr "Secretaria"
+
+msgid "Agent"
+msgstr "Agent"
+
+msgid "Intern"
+msgstr "Becari"
+
+msgid "User"
+msgstr "Usuari"
+
+msgid "Franchisor"
+msgstr "Franquiciador"
+
+msgid "Translator"
+msgstr "Traductor"
+
+msgid "Area manager"
+msgstr "Responsable d'àrea"
+
+msgid "Picture"
+msgstr "Imatge"
+
+msgid "Pet"
+msgstr "Mascota"
+
+msgid "Natural light"
+msgstr "Llum natural"
+
+msgid "Kitchen island"
+msgstr "Illa de cuina"
+
+msgid "Kitchen bar"
+msgstr "Barra de cuina"
+
+msgid "High ceiling"
+msgstr "Sostre alt"
+
+msgid "Skylight"
+msgstr "Lluernari"
+
+msgid "Exposed bricks"
+msgstr "Maons vists"
+
+msgid "Ceiling fan"
+msgstr "Ventilador del sostre"
+
+msgid "Chandelier"
+msgstr "Aranya"
+
+msgid "Stainless steel"
+msgstr "Acer inoxidable"
+
+msgid "Price on request"
+msgstr "Preu a petició"
+
+msgid "Currency"
+msgstr "Moneda"
+
+msgid "Price"
+msgstr "Preu"
+
+msgid "Type"
+msgstr "Tipus"
+
+msgid "Cities"
+msgstr "Ciutats"
+
+msgid "Bedrooms"
+msgstr "Dormitoris"
+
+msgid "Rooms"
+msgstr "Habitacions"
+
+msgid "Send"
+msgstr "Enviar"
+
+msgid "Lastname"
+msgstr "Cognom"
+
+msgid "Name"
+msgstr "Nom"
+
+msgid "Referral"
+msgstr "Referència"
+
+msgid "Ref."
+msgstr "Ref."
+
+msgid "%s bedroom"
+msgstr "dormitori de %s"
+
+msgid "%s rooms"
+msgstr "%s habitacions"
+
+msgid "%s room"
+msgstr "%s habitació"
+
+msgid "Folder"
+msgstr "Carpeta"
+
+msgid "No matches found"
+msgstr "No s'han trobat coincidències"
+
+msgid "Please enter one more character"
+msgstr "Introduïu un caràcter més"
+
+msgid "Duplicate"
+msgstr "Duplicar"
+
+msgid "Backup"
+msgstr "Còpia de seguretat"
+
+msgid "Rate"
+msgstr "Taxa"
+
+msgid "Sender"
+msgstr "Remitent"
+
+msgid "Recipient"
+msgstr "Destinatari"
+
+msgid "Subject"
+msgstr "Assignatura"
+
+msgid "Attachment"
+msgstr "Adjunt"
+
+msgid "Key"
+msgstr "clau"
+
+msgid "Documents"
+msgstr "Documents"
+
+msgid "Back"
+msgstr "esquena"
+
+msgid "Help?"
+msgstr "Ajuda?"
+
+msgid "Read more"
+msgstr "Llegeix més"
+
+msgid "Area"
+msgstr "Àrea"
+
+msgid "Areas"
+msgstr "Àrees"
+
+msgid "Length"
+msgstr "Llargada"
+
+msgid "Height"
+msgstr "Alçada"
+
+msgid "Width"
+msgstr "Amplada"
+
+msgid "Deposit"
+msgstr "Dipòsit"
+
+msgid "Agreement reference"
+msgstr "Referència de l'acord"
+
+msgid "Agreement start at"
+msgstr "L'acord comença a les"
+
+msgid "Agreement end at"
+msgstr "Final del conveni a les"
+
+msgid "Website"
+msgstr "Lloc web"
+
+msgid "Proximity"
+msgstr "Proximitat"
+
+msgid "Proximities"
+msgstr "Proximitats"
+
+msgid "Loading"
+msgstr "Carregant"
+
+msgid "Log out"
+msgstr "Tancar sessió"
+
+msgid "Availability"
+msgstr "Disponibilitat"
+
+msgid "Total area"
+msgstr "Àrea total"
+
+msgid "Living area"
+msgstr "Zona d'estar"
+
+msgid "Password forgotten"
+msgstr "Contrasenya oblidada"
+
+msgid "Password"
+msgstr "Contrasenya"
+
+msgid "Username"
+msgstr "Nom d'usuari"
+
+msgid "Welcome %s"
+msgstr "Benvingut %s"
+
+msgid "Add"
+msgstr "Afegeix"
+
+msgid "Show"
+msgstr "Espectacle"
+
+msgid "List"
+msgstr "Llista"
+
+msgid "Tools"
+msgstr "Eines"
+
+msgid "Market"
+msgstr "Mercat"
+
+msgid "Agency"
+msgstr "Agència"
+
+msgid "Calendar"
+msgstr "Calendari"
+
+msgid "Homepage"
+msgstr "Pàgina d'inici"
+
+msgid "Map"
+msgstr "Mapa"
+
+msgid "Value"
+msgstr "Valor"
+
+msgid "Users"
+msgstr "Usuaris"
+
+msgid "Sectors"
+msgstr "Sectors"
+
+msgid "Sector"
+msgstr "Sector"
+
+msgid "Contacts"
+msgstr "Contactes"
+
+msgid "%s contact"
+msgstr "%s contacte"
+
+msgid "%s contacts"
+msgstr "%s contactes"
+
+msgid "Setup"
+msgstr "Configuració"
+
+msgid "General"
+msgstr "General"
+
+msgid "Waste water"
+msgstr "Aigües residuals"
+
+msgid "Country"
+msgstr "País"
+
+msgid "Escrow deposit"
+msgstr "Escrow"
+
+msgid "Orientation"
+msgstr "Orientació"
+
+msgid "View"
+msgstr "Veure"
+
+msgid "District"
+msgstr "Districte"
+
+msgid "Fields"
+msgstr "Camps"
+
+msgid "Hook"
+msgstr "Ganxo"
+
+msgid "Comment"
+msgstr "Comenta"
+
+msgid "Buy"
+msgstr "Comprar"
+
+msgid "Commercial"
+msgstr "Comercial"
+
+msgid "About us"
+msgstr "Sobre nosaltres"
+
+msgid "Services"
+msgstr "Serveis"
+
+msgid "News"
+msgstr "Notícies"
+
+msgid "Contact us"
+msgstr "Contacta amb nosaltres"
+
+msgid "Print"
+msgstr "Imprimir"
+
+msgid "Add to cart"
+msgstr "Afegeix a la cistella"
+
+msgid "Replace in cart"
+msgstr "Substituïu al carro"
+
+msgid "Category"
+msgstr "Categoria"
+
+msgid "History"
+msgstr "Història"
+
+msgid "Details"
+msgstr "Detalls"
+
+msgid "Date"
+msgstr "Data"
+
+msgid "Previous"
+msgstr "Anterior"
+
+msgid "Next"
+msgstr "Pròxim"
+
+msgid "Quick search"
+msgstr "Cerca ràpida"
+
+msgid "Zipcode"
+msgstr "Codi ZIP"
+
+msgid "The username and/or password is invalid."
+msgstr "El nom d'usuari i/o la contrasenya no són vàlids."
+
+msgid "Group"
+msgstr "Grup"
+
+msgid "Are you sure?"
+msgstr "Estàs segur?"
+
+msgid "Nationality"
+msgstr "Nacionalitat"
+
+msgid "Radius"
+msgstr "Radi"
+
+msgid "Summary"
+msgstr "Resum"
+
+msgid "Watermark"
+msgstr "Filigrana"
+
+msgid "Latitude"
+msgstr "Latitud"
+
+msgid "Longitude"
+msgstr "Longitud"
+
+msgid "Mortgage"
+msgstr "Hipoteca"
+
+msgid "Download"
+msgstr "descarregar"
+
+msgid "Dashboard"
+msgstr "panell"
+
+msgid "Matching"
+msgstr "Coincidència"
+
+msgid "Pay now by card"
+msgstr "Paga ara amb targeta"
+
+msgid "Pay by bank transfer"
+msgstr "Pagar per transferència bancària"
+
+msgid "Pay by check"
+msgstr "Pagar amb xec"
+
+msgid "Powered by"
+msgstr "Impulsat per"
+
+msgid "Accepted payment methods"
+msgstr "Formes de pagament acceptades"
+
+msgid "Terms and Conditions"
+msgstr "Termes i condicions"
+
+msgid ""
+"Your contact is already in database, please select it on the list below."
+msgstr ""
+"El vostre contacte ja es troba a la base de dades, seleccioneu-lo a la "
+"llista següent."
+
+msgid "Contracts"
+msgstr "Contractes"
+
+msgid "Seekers"
+msgstr "Cercadors"
+
+msgid "Active seekers"
+msgstr "Cercadors actius"
+
+msgid "Providers"
+msgstr "Proveïdors"
+
+msgid "Owners"
+msgstr "Propietaris"
+
+msgid "Active owners"
+msgstr "Propietaris actius"
+
+msgid "Monitoring"
+msgstr "Seguiment"
+
+msgid "Forward"
+msgstr "Endavant"
+
+msgid "Similar"
+msgstr "Similars"
+
+msgid "Condition"
+msgstr "Condició"
+
+msgid "Floor"
+msgstr "Pis"
+
+msgid "Description"
+msgstr "Descripció"
+
+msgid "Deductions"
+msgstr "Deduccions"
+
+msgid "Unavailable"
+msgstr "No disponible"
+
+msgid "Occupants"
+msgstr "Ocupants"
+
+msgid "Prospect"
+msgstr "Perspectiva"
+
+msgid "Actions"
+msgstr "Accions"
+
+msgid "Like"
+msgstr "M'agrada"
+
+msgid "Unlike"
+msgstr "A diferència"
+
+msgid "Portfolio"
+msgstr "Cartera"
+
+msgid "Characteristics"
+msgstr "Característiques"
+
+msgid "Contracted owner"
+msgstr "Propietari contractat"
+
+msgid "Contracted owners"
+msgstr "Propietaris contractats"
+
+msgid "Contracted customer"
+msgstr "Client contractat"
+
+msgid "Contracted customers"
+msgstr "Clients contractats"
+
+msgid "Transfer tax"
+msgstr "Impost sobre transmissions"
+
+msgid "Change to"
+msgstr "Canviar a"
+
+msgid "Until"
+msgstr "Fins que"
+
+msgid "Location reference"
+msgstr "Referència d'ubicació"
+
+msgid "Priority"
+msgstr "Prioritat"
+
+msgid "Full form"
+msgstr "Forma completa"
+
+msgid "Quick form"
+msgstr "Forma ràpida"
+
+msgid "%s char(s)"
+msgstr "%s caràcters"
+
+msgid "Price from"
+msgstr "Preu a partir de"
+
+msgid "Listing"
+msgstr "Llistat"
+
+msgid "Listings"
+msgstr "Llistats"
+
+msgid "Duration"
+msgstr "Durada"
+
+msgid "Request incomplete"
+msgstr "Sol·licitud incompleta"
+
+msgid "%s incomplete request(s)"
+msgstr "%s sol·licitud(s) incompleta(s)"
+
+msgid "Subscribe for"
+msgstr "Subscriu-te a"
+
+msgid "Subtotal"
+msgstr "Subtotal"
+
+msgid "Tax notice"
+msgstr "Avís fiscal"
+
+msgid "Events"
+msgstr "Esdeveniments"
+
+msgid "Present"
+msgstr "Present"
+
+msgid "Missing"
+msgstr "Falta"
+
+msgid "Planned"
+msgstr "Planificada"
+
+msgid "Full"
+msgstr "Complet"
+
+msgid "Organizer"
+msgstr "Organitzador"
+
+msgid "Already subscribed"
+msgstr "Ja està subscrit"
+
+msgid "Attendees"
+msgstr "Els assistents"
+
+msgid "Join"
+msgstr "Uneix-te"
+
+msgid "Training"
+msgstr "Formació"
+
+msgid "Require a change of password at next logon"
+msgstr "Sol·liciteu un canvi de contrasenya al proper inici de sessió"
+
+msgid "Gross revenue"
+msgstr "Ingressos bruts"
+
+msgid "Gross yield"
+msgstr "Rendiment brut"
+
+msgid "Net yield"
+msgstr "Rendiment net"
+
+msgid "Vacancy rate"
+msgstr "Taxa de vacants"
+
+msgid "Investment"
+msgstr "Inversió"
+
+msgid "Lock"
+msgstr "Bloqueig"
+
+msgid "Variables"
+msgstr "Les variables"
+
+msgid "Example"
+msgstr "Exemple"
+
+msgid "Increment"
+msgstr "Increment"
+
+msgid "Schema"
+msgstr "Esquema"
+
+msgid "Automation"
+msgstr "Automatització"
+
+msgid "Login"
+msgstr "iniciar Sessió"
+
+msgid "Renovation year"
+msgstr "Any de reforma"
+
+msgid "Curriculum vitae"
+msgstr "Currículum vitae"
+
+msgid "Resellers"
+msgstr "Revenedors"
+
+msgid "Select"
+msgstr "Seleccioneu"
+
+msgid "The balance of your account is %s"
+msgstr "El saldo del vostre compte és %s"
+
+msgid "Ceiling"
+msgstr "Sostre"
+
+msgid "Weighted area"
+msgstr "Zona ponderada"
+
+msgid "Collected"
+msgstr "Recollida"
+
+msgid "Unlimited"
+msgstr "Il·limitat"
+
+msgid "Quantity"
+msgstr "Quantitat"
+
+msgid "Subscribe"
+msgstr "Subscriu-te"
+
+msgid "Active owner"
+msgstr "Propietari actiu"
+
+msgid "Matching at"
+msgstr "Coincidint a"
+
+msgid "Price by area"
+msgstr "Preu per zona"
+
+msgid "Default list"
+msgstr "Llista per defecte"
+
+msgid "Subtype"
+msgstr "Subtipus"
+
+msgid "Add a custom document"
+msgstr "Afegeix un document personalitzat"
+
+msgid "Line spacing"
+msgstr "Espai entre línies"
+
+msgid "Font"
+msgstr "Font"
+
+msgid "Portrait"
+msgstr "Retrat"
+
+msgid "Landscape"
+msgstr "Paisatge"
+
+msgid "Accounts"
+msgstr "Comptes"
+
+msgid "Optional"
+msgstr "Opcional"
+
+msgid "File"
+msgstr "Dossier"
+
+msgid "Collected at"
+msgstr "Recollida a"
+
+msgid "Linked"
+msgstr "Enllaçat"
+
+msgid "Discover our offers"
+msgstr "Descobreix les nostres ofertes"
+
+msgid "Blank"
+msgstr "En blanc"
+
+msgid "Portal"
+msgstr "Portal"
+
+msgid "Software Documentation"
+msgstr "Documentació del programari"
+
+msgid "Time"
+msgstr "Temps"
+
+msgid "Dedicated website"
+msgstr "Lloc web dedicat"
+
+msgid "Subcategory"
+msgstr "Subcategoria"
+
+msgid "No IP control"
+msgstr "Sense control IP"
+
+msgid "Auto publish"
+msgstr "Publicació automàtica"
+
+msgid "Link to property"
+msgstr "Enllaç a la propietat"
+
+msgid "Happy birthday!"
+msgstr "Feliç aniversari!"
+
+msgid "Birthdays"
+msgstr "Aniversaris"
+
+msgid "Last login"
+msgstr "Últim inici de sessió"
+
+msgid "This property is a part of:"
+msgstr "Aquesta propietat forma part de:"
+
+msgid "IP addresses"
+msgstr "adreces IP"
+
+msgid "Prospecting"
+msgstr "Prospecció"
+
+msgid "Access code"
+msgstr "Codi d'accés"
+
+msgid "Access code at"
+msgstr "Codi d'accés a"
+
+msgid "Number of shares"
+msgstr "Nombre d'accions"
+
+msgid "Leads"
+msgstr "Condueix"
+
+msgid "Cancelled"
+msgstr "Cancel·lat"
+
+msgid "Link"
+msgstr "Enllaç"
+
+msgid "Advanced"
+msgstr "Avançat"
+
+msgid "Publish on homepage"
+msgstr "Publicar a la pàgina d'inici"
+
+msgid "Suggested"
+msgstr "Suggerit"
+
+msgid "Welcome on %s"
+msgstr "Benvingut a %s"
+
+msgid "Content"
+msgstr "Contingut"
+
+msgid "Extranet access"
+msgstr "Accés a l'extranet"
+
+msgid "Publish address"
+msgstr "Publicar adreça"
+
+msgid "Opening hours"
+msgstr "Horari d'obertura"
+
+msgid "Backoffice"
+msgstr "Backoffice"
+
+msgid "Member since %s"
+msgstr "Membre des de %s"
+
+msgid "Lock menu bar"
+msgstr "Bloqueja la barra de menús"
+
+msgid "Updates"
+msgstr "Actualitzacions"
+
+msgid "Reservations"
+msgstr "Reserves"
+
+msgid "Forward to contact"
+msgstr "Reenviar al contacte"
+
+msgid "Responder"
+msgstr "Contestador"
+
+msgid ""
+"You can search our Frequently Asked Questions (FAQs) database by keyword(s):"
+msgstr ""
+"Podeu cercar a la nostra base de dades de Preguntes més freqüents (FAQ) per "
+"paraules clau:"
+
+msgid "Registrar"
+msgstr "Registrador"
+
+msgid "Expiration at"
+msgstr "Caducitat a les"
+
+msgid "Mailbox"
+msgstr "Bústia de correu"
+
+msgid "Domain name"
+msgstr "Nom de domini"
+
+msgid "Filling"
+msgstr "Farciment"
+
+msgid "Condition precedent"
+msgstr "Condició prèvia"
+
+msgid "Size"
+msgstr "Mida"
+
+msgid "Deal fees"
+msgstr "Comissions de negoci"
+
+msgid "Fees charged"
+msgstr "Comissions cobrades"
+
+msgid "Customer"
+msgstr "Client"
+
+msgid "Booked"
+msgstr "Reservat"
+
+msgid "Available"
+msgstr "Disponible"
+
+msgid "Associate"
+msgstr "Associat"
+
+msgid "Ceiling height"
+msgstr "Alçada del sostre"
+
+msgid "Translations"
+msgstr "Traduccions"
+
+msgid "Unsold"
+msgstr "Sense vendre"
+
+msgid "Sold"
+msgstr "Vengut"
+
+msgid "Last action"
+msgstr "Última acció"
+
+msgid "Our agency"
+msgstr "La nostra agència"
+
+msgid "Locate us"
+msgstr "Localitza'ns"
+
+msgid "Your main contact"
+msgstr "El teu contacte principal"
+
+msgid "Send me a message"
+msgstr "Envia'm un missatge"
+
+msgid "Leave us a message"
+msgstr "Deixa'ns un missatge"
+
+msgid "Price with fees"
+msgstr "Preu amb comissions"
+
+msgid "Owner access"
+msgstr "Accés propietari"
+
+msgid "Added"
+msgstr "Afegit"
+
+msgid "Available for matching"
+msgstr "Disponible per fer coincidir"
+
+msgid "Available on"
+msgstr "Disponible a"
+
+msgid "Tenant"
+msgstr "Llogater"
+
+msgid "Add to list"
+msgstr "Afegir a la llista"
+
+msgid "Custom tags"
+msgstr "Etiquetes personalitzades"
+
+msgid "%s pending approval properties"
+msgstr "%s propietats pendents d'aprovació"
+
+msgid "Negotiable price"
+msgstr "Preu negociable"
+
+msgid "Price updated"
+msgstr "Preu actualitzat"
+
+msgid "Less equal"
+msgstr "Menys iguals"
+
+msgid "Equal"
+msgstr "Igual"
+
+msgid "Greater equal"
+msgstr "Major igual"
+
+msgid "Preferences"
+msgstr "Preferències"
+
+msgid "Contact means"
+msgstr "Mitjans de contacte"
+
+msgid "Agency commission"
+msgstr "Comissió de l'agència"
+
+msgid "Scheduled at"
+msgstr "Programat a les"
+
+msgid "Contract at"
+msgstr "Contracte a"
+
+msgid "Commitment"
+msgstr "Compromís"
+
+msgid "Commitment at"
+msgstr "Compromís a"
+
+msgid "Offer at"
+msgstr "Oferta a"
+
+msgid "No action"
+msgstr "Sense acció"
+
+msgid "Others"
+msgstr "Altres"
+
+msgid "Received contact information"
+msgstr "S'ha rebut informació de contacte"
+
+msgid "Linked contact"
+msgstr "Contacte enllaçat"
+
+msgid "Related contacts"
+msgstr "Contactes relacionats"
+
+msgid "Assigned to"
+msgstr "Assignat a"
+
+msgid "Assign to"
+msgstr "Assigna a"
+
+msgid "Assign by"
+msgstr "Assigna per"
+
+msgid "Opened by"
+msgstr "Obert per"
+
+msgid "Closed by"
+msgstr "Tancat per"
+
+msgid "Time zone"
+msgstr "Fus horari"
+
+msgid "Customers"
+msgstr "Clients"
+
+msgid "Invert selection"
+msgstr "Inverteix la selecció"
+
+msgid "Select all"
+msgstr "Seleccionar tot"
+
+msgid "Unselect all"
+msgstr "Desmarca-ho tot"
+
+msgid "%s awaiting lead(s)"
+msgstr "%s esperant contactes"
+
+msgid "%s lead(s) to assign"
+msgstr "%s clients potencials per assignar"
+
+msgid "%s pending properties"
+msgstr "%s propietats pendents"
+
+msgid "%s pending matching(s)"
+msgstr "%s pendent(s) de concordança"
+
+msgid "%s expired agreement(s)"
+msgstr "%s acord(s) caducat(s)"
+
+msgid "%s expired soon agreement(s)"
+msgstr "%s ha caducat aviat acord(s)"
+
+msgid "Legal notice"
+msgstr "Avís legal"
+
+msgid "Tags"
+msgstr "Etiquetes"
+
+msgid "Allowed"
+msgstr "Permès"
+
+msgid "Min stay"
+msgstr "Estada mínima"
+
+msgid "Over"
+msgstr "Acabat"
+
+msgid "Update"
+msgstr "Actualització"
+
+msgid "Free text"
+msgstr "Text lliure"
+
+msgid "Generate comment"
+msgstr "Genera comentari"
+
+msgid "Building name"
+msgstr "Nom de l'edifici"
+
+msgid "VAT"
+msgstr "IVA"
+
+msgid "VAT included"
+msgstr "IVA inclòs"
+
+msgid "VAT excluded"
+msgstr "IVA exclòs"
+
+msgid "Recurrence"
+msgstr "La recurrència"
+
+msgid "Calculate"
+msgstr "Calcular"
+
+msgid "Contribution"
+msgstr "Contribució"
+
+msgid "Maximum debt"
+msgstr "Màxim deute"
+
+msgid "Purchase amount"
+msgstr "Import de la compra"
+
+msgid "Borrowing calculator"
+msgstr "Calculadora de préstecs"
+
+msgid "Monthly payment calculator"
+msgstr "Calculadora de pagaments mensuals"
+
+msgid "You don't have broadcasting rights"
+msgstr "No tens drets d'emissió"
+
+msgid "Pending"
+msgstr "Pendents"
+
+msgid "Suggestions"
+msgstr "Suggeriments"
+
+msgid "To show"
+msgstr "Mostrar"
+
+msgid "Automatic"
+msgstr "Automàtic"
+
+msgid "Manual"
+msgstr "Manual"
+
+msgid "In collaboration with a %name% professional"
+msgstr "En col·laboració amb un professional de %name%."
+
+msgid "Partners"
+msgstr "Socis"
+
+msgid "Cost"
+msgstr "Cost"
+
+msgid "My search"
+msgstr "La meva recerca"
+
+msgid "Units"
+msgstr "Unitats"
+
+msgid "Spouse"
+msgstr "Cònjuge"
+
+msgid "Manager"
+msgstr "Gerent"
+
+msgid "Category reference"
+msgstr "Referència de categoria"
+
+msgid "Cadastre reference"
+msgstr "Referència del cadastre"
+
+msgid "Lot reference"
+msgstr "Referència del lot"
+
+msgid "Block reference"
+msgstr "Referència de bloc"
+
+msgid "Stairs reference"
+msgstr "Referència escales"
+
+msgid "Mortgage end at"
+msgstr "La hipoteca acaba a les"
+
+msgid "Review"
+msgstr "Revisió"
+
+msgid "Medias"
+msgstr "Mitjans de comunicació"
+
+msgid "Last access"
+msgstr "Últim accés"
+
+msgid "First access"
+msgstr "Primer accés"
+
+msgid "Access count"
+msgstr "Recompte d'accés"
+
+msgid "Default"
+msgstr "Per defecte"
+
+msgid "Please do not enter any name or contact"
+msgstr "Si us plau, no introduïu cap nom ni contacte"
+
+msgid "QR-Code"
+msgstr "Codi QR"
+
+msgid "Show price"
+msgstr "Mostra preu"
+
+msgid "Done"
+msgstr "Fet"
+
+msgid "Not applicable"
+msgstr "No aplicable"
+
+msgid "Fill in the table"
+msgstr "Ompliu la taula"
+
+msgid "Choice"
+msgstr "elecció"
+
+msgid "copy"
+msgstr "còpia"
+
+msgid "Automatic matching"
+msgstr "Coincidència automàtica"
+
+msgid "Authorization"
+msgstr "Autorització"
+
+msgid "Last connection the %s"
+msgstr "Última connexió la %s"
+
+msgid "All"
+msgstr "Tots"
+
+msgid "Wiki"
+msgstr "Viqui"
+
+msgid "Latest"
+msgstr "Última"
+
+msgid "Reset"
+msgstr "Restableix"
+
+msgid "Show/hide fields"
+msgstr "Mostra/amaga camps"
+
+msgid "Recent searches"
+msgstr "Recerques recents"
+
+msgid "Association"
+msgstr "Associació"
+
+msgid "Meta crawler"
+msgstr "Meta crawler"
+
+msgid "Alerts"
+msgstr "Alertes"
+
+msgid "Prescribers"
+msgstr "Prescriptors"
+
+msgid "Personal"
+msgstr "Personal"
+
+msgid "Standing"
+msgstr "Dempeus"
+
+msgid "Receive a copy"
+msgstr "Rebeu una còpia"
+
+msgid "Latest views"
+msgstr "Últimes vistes"
+
+msgid "Quality"
+msgstr "Qualitat"
+
+msgid "Waiting for partner"
+msgstr "Esperant la parella"
+
+msgid "Viewing agreement"
+msgstr "Acord de visualització"
+
+msgid "Decline"
+msgstr "Declinar"
+
+msgid "Declined"
+msgstr "Declinat"
+
+msgid "Accept"
+msgstr "Acceptar"
+
+msgid "Accepted"
+msgstr "Acceptat"
+
+msgid "Zones"
+msgstr "Zones"
+
+msgid "Zone"
+msgstr "Zona"
+
+msgid "Matrimonial regime"
+msgstr "Règim matrimonial"
+
+msgid "Marital status"
+msgstr "Estat civil"
+
+msgid "Thumbnail"
+msgstr "Miniatura"
+
+msgid "Unread"
+msgstr "Sense llegir"
+
+msgid "Reply"
+msgstr "Respon"
+
+msgid "Pension"
+msgstr "Pensió"
+
+msgid "Beam"
+msgstr "Feix"
+
+msgid "Draft"
+msgstr "Esborrany"
+
+msgid "Guests"
+msgstr "Convidats"
+
+msgid "Crew"
+msgstr "Tripulació"
+
+msgid "Cruising speed"
+msgstr "Velocitat de creuer"
+
+msgid "Builder"
+msgstr "Constructor"
+
+msgid "Administration"
+msgstr "Administració"
+
+msgid "Civil law notary"
+msgstr "Notari de dret civil"
+
+msgid "Max price"
+msgstr "Preu màxim"
+
+msgid "Messages"
+msgstr "Missatges"
+
+msgid "Reminders"
+msgstr "Recordatoris"
+
+msgid "Credit"
+msgstr "Crèdit"
+
+msgid "Signatures"
+msgstr "Signatures"
+
+msgid "Signature"
+msgstr "Signatura"
+
+msgid "Title (politeness)"
+msgstr "Títol (cortesa)"
+
+msgid "Amount"
+msgstr "Import"
+
+msgid "Amounts"
+msgstr "Imports"
+
+msgid "Updated at"
+msgstr "Actualitzat a les"
+
+msgid "Created at"
+msgstr "Creat a"
+
+msgid "First published at"
+msgstr "Publicat per primera vegada a"
+
+msgid "Insurance"
+msgstr "Assegurança"
+
+msgid "Provision"
+msgstr "Provisió"
+
+msgid "Entries"
+msgstr "Entrades"
+
+msgid "Number"
+msgstr "Número"
+
+msgid "Plot of land area"
+msgstr "Superfície de parcel·la"
+
+msgid "Deposit account"
+msgstr "Compte de dipòsit"
+
+msgid "Owner's price"
+msgstr "Preu del propietari"
+
+msgid "Starting price"
+msgstr "Preu inicial"
+
+msgid "Mobile"
+msgstr "Mòbil"
+
+msgid "Tel."
+msgstr "Tel."
+
+msgid "Leasehold"
+msgstr "Arrendament"
+
+msgid "Leases"
+msgstr "Arrendaments"
+
+msgid "Address"
+msgstr "adreça"
+
+msgid "Searches"
+msgstr "Recerques"
+
+msgid "Tips"
+msgstr "Consells"
+
+msgid "Delete"
+msgstr "Suprimeix"
+
+msgid "Maps"
+msgstr "Mapes"
+
+msgid "Days"
+msgstr "Dies"
+
+msgid "Catalog"
+msgstr "Catàleg"
+
+msgid "contact"
+msgstr "contacte"
+
+msgid "contacts"
+msgstr "contactes"
+
+msgid "Statistics"
+msgstr "Estadístiques"
+
+msgid "Built in"
+msgstr "Integrat"
+
+msgid "Mark"
+msgstr "senyal"
+
+msgid "Percentage"
+msgstr "Percentatge"
+
+msgid "Visits"
+msgstr "Visites"
+
+msgid "Visit comment"
+msgstr "Visita comentari"
+
+msgid "Key number"
+msgstr "Número de clau"
+
+msgid "Key's place"
+msgstr "El lloc de la clau"
+
+msgid "Displayed city (optional)"
+msgstr "Ciutat mostrada (opcional)"
+
+msgid "Displayed district (optional)"
+msgstr "Districte mostrat (opcional)"
+
+msgid "Clauses"
+msgstr "Clàusules"
+
+msgid "Postal code"
+msgstr "Codi Postal"
+
+msgid "Bathrooms"
+msgstr "Banys"
+
+msgid "Seller"
+msgstr "Venedor"
+
+msgid "Adjacency"
+msgstr "Adjacència"
+
+msgid "Step"
+msgstr "Pas"
+
+msgid "Long comment"
+msgstr "Comentari llarg"
+
+msgid "Subtitle"
+msgstr "Subtítol"
+
+msgid "Title"
+msgstr "Títol"
+
+msgid "Last published at"
+msgstr "Darrera publicació a"
+
+msgid "floor"
+msgstr "pis"
+
+msgid "Inactive"
+msgstr "Inactiu"
+
+msgid "Position"
+msgstr "Posició"
+
+msgid "Please fill in a name and a phone or an e-mail."
+msgstr "Si us plau, ompliu un nom i un telèfon o un correu electrònic."
+
+msgid "Passwords do not match, please retype"
+msgstr "Les contrasenyes no coincideixen, torneu a escriure"
+
+msgid "Please change your password"
+msgstr "Si us plau, canvieu la vostra contrasenya"
+
+msgid "New password should not be same as old password"
+msgstr ""
+"La contrasenya nova no hauria de ser la mateixa que la contrasenya antiga"
+
+msgid "year"
+msgstr "curs"
+
+msgid "Subscriptions"
+msgstr "Subscripcions"
+
+msgid "Tour comment"
+msgstr "Comentari de la gira"
+
+msgid "Ad"
+msgstr "Anunci"
+
+msgid "Add opening hours"
+msgstr "Afegeix l'horari d'obertura"
+
+msgid "Ref"
+msgstr "Ref"
+
+msgid "price"
+msgstr "preu"
+
+msgid ""
+"Please note that there are dependencies, please select a contact for "
+"completing the data transfer."
+msgstr ""
+"Tingueu en compte que hi ha dependències, seleccioneu un contacte per "
+"completar la transferència de dades."
+
+msgid "The installation can take several minutes, please come back later."
+msgstr "La instal·lació pot trigar uns quants minuts, torneu més tard."
+
+msgid "Your contact speaks %s, would you like to change the language?"
+msgstr "El vostre contacte parla %s, voleu canviar l'idioma?"
+
+msgid "Would you like to publish on the homepage?"
+msgstr "Vols publicar a la pàgina d'inici?"
+
+msgid "plus VAT"
+msgstr "més IVA"
+
+msgid "<b>Warning :</b> there is an error, please check each fields."
+msgstr "<b>Avís:</b> hi ha un error, comproveu cada camp."
+
+msgid "Price/sq m"
+msgstr "Preu/m²"
+
+msgid "today"
+msgstr "avui"
+
+msgid "week"
+msgstr "setmana"
+
+msgid "day"
+msgstr "dia"
+
+msgid "from %from_value% to %to_value%"
+msgstr "de %from_value% a %to_value%"
+
+msgid "message"
+msgstr "missatge"
+
+msgid "Page"
+msgstr "Pàgina"
+
+msgid "Action"
+msgstr "Acció"
+
+msgid "Status"
+msgstr "Estat"
+
+msgid "Agencies"
+msgstr "Agències"
+
+msgid "agencies"
+msgstr "agències"
+
+msgid "Context"
+msgstr "Context"
+
+msgid "More criteria"
+msgstr "Més criteris"
+
+msgid "Criteria"
+msgstr "Criteris"
+
+msgid "Rank"
+msgstr "Classificació"
+
+msgid "metres"
+msgstr "metres"
+
+msgid "Window"
+msgstr "Finestra"
+
+msgid "Stock area"
+msgstr "Zona d'estoc"
+
+msgid "Sales area"
+msgstr "Zona de vendes"
+
+msgid "Sale price"
+msgstr "Preu de venta"
+
+msgid "Broadcast to"
+msgstr "Transmet a"
+
+msgid "The property will not be published because it is in step « %s »"
+msgstr "La propietat no es publicarà perquè es troba al pas « %s »"
+
+msgid "Last agencies"
+msgstr "Últimes agències"
+
+msgid "I confirm my subscription to %s and I accept the general conditions"
+msgstr "Confirmo la meva subscripció a %s i accepto les condicions generals"
+
+msgid "from %from_date% to %to_date%"
+msgstr "de %from_date% a %to_date%"
+
+msgid "sq m"
+msgstr "metres quadrats"
+
+msgid "days"
+msgstr "dies"
+
+msgid "bedrooms"
+msgstr "dormitoris"
+
+msgid "bedroom"
+msgstr "dormitori"
+
+msgid "rooms"
+msgstr "habitacions"
+
+msgid "room"
+msgstr "habitació"
+
+msgid "Comments"
+msgstr "Comentaris"
+
+msgid "comment"
+msgstr "comentar"
+
+msgid "comments"
+msgstr "comentaris"
+
+msgid "Private comment"
+msgstr "Comentari privat"
+
+msgid "Private"
+msgstr "Privat"
+
+msgid "Levels"
+msgstr "Nivells"
+
+msgid "Level"
+msgstr "Nivell"
+
+msgid "Exchanges"
+msgstr "Intercanvis"
+
+msgid "Exchange"
+msgstr "Intercanvi"
+
+msgid "by"
+msgstr "per"
+
+msgid "n.a"
+msgstr "n.a"
+
+msgid "Elevator"
+msgstr "Ascensor"
+
+msgid "no"
+msgstr "no"
+
+msgid "yes"
+msgstr "sí"
+
+msgid "Printed with care"
+msgstr "Imprès amb cura"
+
+msgid "Please do not litter on public way"
+msgstr "Si us plau, no llenceu deixalles a la via pública"
+
+msgid "Non-contractual information"
+msgstr "Informació no contractual"
+
+msgid "Agency fees"
+msgstr "Comissions d'agència"
+
+msgid "Agency fees included"
+msgstr "Comissions d'agència incloses"
+
+msgid "Agency fees not included"
+msgstr "Comissions d'agència no incloses"
+
+msgid "Fees"
+msgstr "Comissions"
+
+msgid "Personal property tax"
+msgstr "Impost sobre béns personals"
+
+msgid "Style"
+msgstr "Estil"
+
+msgid "Parkings"
+msgstr "Aparcaments"
+
+msgid "Pictures"
+msgstr "Imatges"
+
+msgid "Window card"
+msgstr "Targeta finestra"
+
+msgid "Private sheet"
+msgstr "Fulla privada"
+
+msgid "Public sheet"
+msgstr "Fitxa pública"
+
+msgid "Service"
+msgstr "Servei"
+
+msgid "Language"
+msgstr "Llenguatge"
+
+msgid "Cart"
+msgstr "Carro"
+
+msgid "Land type"
+msgstr "Tipus de terreny"
+
+msgid "Property agent"
+msgstr "Agent immobiliari"
+
+msgid "Account"
+msgstr "Compte"
+
+msgid "End at"
+msgstr "Final a les"
+
+msgid "Close at"
+msgstr "Tanca a"
+
+msgid "Start at"
+msgstr "Comença a les"
+
+msgid "Guarantees"
+msgstr "Garanties"
+
+msgid "Inter-agencies"
+msgstr "Interagències"
+
+msgid "Number of floors"
+msgstr "Nombre de plantes"
+
+msgid "Evaluated price"
+msgstr "Preu avaluat"
+
+msgid "Seller's commission"
+msgstr "Comissió del venedor"
+
+msgid "Buyer's commission"
+msgstr "Comissió del comprador"
+
+msgid "Commission"
+msgstr "Comissió"
+
+msgid "Origin"
+msgstr "Origen"
+
+msgid "Specific origin"
+msgstr "Origen específic"
+
+msgid "Flooring"
+msgstr "Paviment"
+
+msgid "Calls"
+msgstr "Trucades"
+
+msgid "Phone call"
+msgstr "Anomenada"
+
+msgid "Publications"
+msgstr "Publicacions"
+
+msgid "Send to contact"
+msgstr "Enviar al contacte"
+
+msgid "No results found"
+msgstr "Sense resultats"
+
+msgid "Results"
+msgstr "Resultats"
+
+msgid "Result"
+msgstr "Resultat"
+
+msgid "results"
+msgstr "resultats"
+
+msgid "result"
+msgstr "resultat"
+
+msgid "Advertiser"
+msgstr "Anunciant"
+
+msgid "Active"
+msgstr "Actiu"
+
+msgid "Confidential"
+msgstr "Confidencial"
+
+msgid "Activity"
+msgstr "Activitat"
+
+msgid "Companies"
+msgstr "Empreses"
+
+msgid "Edit"
+msgstr "Edita"
+
+msgid "Save"
+msgstr "Desa"
+
+msgid "Succession"
+msgstr "Successió"
+
+msgid "Please fill in a city."
+msgstr "Si us plau, empleneu una ciutat."
+
+msgid "Guarantee"
+msgstr "Garantia"
+
+msgid "Please fill"
+msgstr "Si us plau, omple"
+
+msgid "The email address is invalid."
+msgstr "L'adreça de correu electrònic no és vàlida."
+
+msgid "Rights"
+msgstr "Drets"
+
+msgid "Display"
+msgstr "Mostra"
+
+msgid "Since"
+msgstr "Des de"
+
+msgid "Filter"
+msgstr "Filtre"
+
+msgid "Min"
+msgstr "Min"
+
+msgid "Max"
+msgstr "Màx"
+
+msgid "Lessor"
+msgstr "Arrendador"
+
+msgid "Lessee"
+msgstr "Arrendatari"
+
+msgid "Booking"
+msgstr "Reserva"
+
+msgid "Sleeps"
+msgstr "Llits"
+
+msgid "Cleaning price"
+msgstr "Preu de neteja"
+
+msgid "Availabilities"
+msgstr "Disponibilitats"
+
+msgid "Sent"
+msgstr "Enviat"
+
+msgid "Year"
+msgstr "Curs"
+
+msgid "years"
+msgstr "anys"
+
+msgid "months"
+msgstr "mesos"
+
+msgid "month"
+msgstr "mes"
+
+msgid "Seasons"
+msgstr "Temporades"
+
+msgid "Season"
+msgstr "Temporada"
+
+msgid "Rates"
+msgstr "Tarifes"
+
+msgid "Todo"
+msgstr "Fer"
+
+msgid "Brands"
+msgstr "Marques"
+
+msgid "Brand"
+msgstr "Marca"
+
+msgid "Published at"
+msgstr "Publicat a"
+
+msgid "Bank"
+msgstr "Banc"
+
+msgid "Brief comment"
+msgstr "Breu comentari"
+
+msgid "Delivery at"
+msgstr "Lliurament a"
+
+msgid "Reason"
+msgstr "Raó"
+
+msgid "What's new"
+msgstr "Que hi ha de nou"
+
+msgid "Requests"
+msgstr "Sol·licituds"
+
+msgid "Request"
+msgstr "Sol·licitud"
+
+msgid "requests"
+msgstr "peticions"
+
+msgid "request"
+msgstr "petició"
+
+msgid "Current rent"
+msgstr "Lloguer actual"
+
+msgid "Properties"
+msgstr "Propietats"
+
+msgid "properties"
+msgstr "propietats"
+
+msgid "property"
+msgstr "propietat"
+
+msgid "Bill"
+msgstr "Bill"
+
+msgid "Calculator"
+msgstr "Calculadora"
+
+msgid "Birthplace"
+msgstr "Lloc de naixement"
+
+msgid "Birthday"
+msgstr "Aniversari"
+
+msgid "Income"
+msgstr "Ingressos"
+
+msgid "Costs"
+msgstr "Costos"
+
+msgid "Margin"
+msgstr "Marge"
+
+msgid "Required."
+msgstr "Obligatori."
+
+msgid "Seasonal"
+msgstr "Temporal"
+
+msgid "Spoken language"
+msgstr "Llenguatge parlat"
+
+msgid "Number of children"
+msgstr "Nombre de fills"
+
+msgid "Hotline"
+msgstr "Línia directa"
+
+msgid "Re-type password"
+msgstr "Reescriu la contrasenya"
+
+msgid "Public longitude"
+msgstr "Longitud pública"
+
+msgid "Public latitude"
+msgstr "Latitud pública"
+
+msgid "Access denied"
+msgstr "Accés denegat"
+
+msgid "Access"
+msgstr "Accés"
+
+msgid "Launch"
+msgstr "Llançament"
+
+msgid "Shortcuts"
+msgstr "Dreceres"
+
+msgid "Subscription"
+msgstr "Subscripció"
+
+msgid "SEO"
+msgstr "SEO"
+
+msgid "Life annuity length"
+msgstr "Durada de la renda vitalícia"
+
+msgid "Market value"
+msgstr "Valor comercial"
+
+msgid "Price contribution"
+msgstr "Aportació de preus"
+
+msgid "Sharing"
+msgstr "Compartint"
+
+msgid "Show more results"
+msgstr "Mostra més resultats"
+
+msgid "Close"
+msgstr "Tanca"
+
+msgid "Hide"
+msgstr "Amaga"
+
+msgid "Keywords"
+msgstr "Paraules clau"
+
+msgid "Corporate register"
+msgstr "Registre corporatiu"
+
+msgid "Expired soon"
+msgstr "Ha caducat aviat"
+
+msgid "Expired"
+msgstr "Caducat"
+
+msgid "Agreements"
+msgstr "Acords"
+
+msgid "Agreement number"
+msgstr "Número de conveni"
+
+msgid "VAT identification number"
+msgstr "Número d'identificació amb IVA"
+
+msgid "What's on your mind?"
+msgstr "En què penses?"
+
+msgid "Buyer"
+msgstr "Comprador"
+
+msgid "Prescriber"
+msgstr "Prescriptor"
+
+msgid "Message sent"
+msgstr "Missatge enviat"
+
+msgid "Limit"
+msgstr "Límit"
+
+msgid "Publish"
+msgstr "Publicar"
+
+msgid "Do not publish"
+msgstr "No publiqueu"
+
+msgid "Cancel"
+msgstr "Cancel · lar"
+
+msgid "Already suggested"
+msgstr "Ja s'ha suggerit"
+
+msgid "To suggest"
+msgstr "Suggerir"
+
+msgid "Suggest"
+msgstr "Suggereix"
+
+msgid "Footer"
+msgstr "Peu de pàgina"
+
+msgid "Header"
+msgstr "Capçalera"
+
+msgid "Serviced plot"
+msgstr "Parcel·la amb servei"
+
+msgid "Net floor area"
+msgstr "Superfície neta"
+
+msgid "Sold price"
+msgstr "Preu venut"
+
+msgid "Sold at"
+msgstr "Venut a"
+
+msgid "Preview"
+msgstr "Vista prèvia"
+
+msgid "Garden area"
+msgstr "Zona enjardinada"
+
+msgid "Payment"
+msgstr "Pagament"
+
+msgid "Reopen"
+msgstr "Torna a obrir"
+
+msgid "Completed"
+msgstr "Completat"
+
+msgid "Complete"
+msgstr "Completa"
+
+msgid "Callback"
+msgstr "Devolució de trucada"
+
+msgid "Callbacks"
+msgstr "Devolució de trucades"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Coagent"
+msgstr "Coagent"
+
+msgid "Residences"
+msgstr "Residències"
+
+msgid "%s properties"
+msgstr "%s propietats"
+
+msgid "%s property"
+msgstr "propietat %s"
+
+msgid "%s request"
+msgstr "sol·licitud de %s"
+
+msgid "%s requests"
+msgstr "%s sol·licituds"
+
+msgid "Activities"
+msgstr "Activitats"
+
+msgid "Sorry, this property is no longer available."
+msgstr "Ho sentim, aquesta propietat ja no està disponible."
+
+msgid "Processed"
+msgstr "Processat"
+
+msgid "remaining tickets"
+msgstr "entrades restants"
+
+msgid "Congratulations ! No more support tickets."
+msgstr "Felicitats! No hi ha més bitllets de suport."
+
+msgid "unassigned tickets"
+msgstr "bitllets no assignats"
+
+msgid "All tickets are assigned."
+msgstr "Totes les entrades estan assignades."
+
+msgid "task in progress"
+msgstr "tasca en curs"
+
+msgid "Database"
+msgstr "Base de dades"
+
+msgid "Used"
+msgstr "Usat"
+
+msgid "%s results"
+msgstr "%s resultats"
+
+msgid "Redirects"
+msgstr "Redireccions"
+
+msgid "Subscribe to the newsletter"
+msgstr "Subscriu-te al butlletí"
+
+msgid "Purge"
+msgstr "Purga"
+
+msgid "Valuation methods"
+msgstr "Mètodes de valoració"
+
+msgid "Rebuild cost"
+msgstr "Cost de reconstrucció"
+
+msgid "Capitalization"
+msgstr "Capitalització"
+
+msgid "Comparative market analysis"
+msgstr "Anàlisi comparativa del mercat"
+
+msgid "An average of"
+msgstr "Una mitjana de"
+
+msgid "Your own valuation"
+msgstr "La teva pròpia valoració"
+
+msgid "Desired profitability"
+msgstr "Rendibilitat desitjada"
+
+msgid "Taxes and/or fees"
+msgstr "Impostos i/o taxes"
+
+msgid "Year of purchase"
+msgstr "Any de compra"
+
+msgid "Rental income"
+msgstr "Ingressos de lloguer"
+
+msgid "Price of purchase"
+msgstr "Preu de compra"
+
+msgid "Land price"
+msgstr "Preu del terreny"
+
+msgid "Cost of construction"
+msgstr "Cost de construcció"
+
+msgid "Interior fittings"
+msgstr "Equipaments interiors"
+
+msgid "Landscaping"
+msgstr "Paisatgisme"
+
+msgid "Decrepitude"
+msgstr "Decrepitud"
+
+msgid "Capital losses"
+msgstr "Pèrdues de capital"
+
+msgid "Capital gains"
+msgstr "Guanys sobre el capital"
+
+msgid "Your mailbox has exceeded the storage limit (%s)"
+msgstr "La vostra bústia ha superat el límit d'emmagatzematge (%s)"
+
+msgid "Your mailbox will reach the storage limit"
+msgstr "La vostra bústia de correu arribarà al límit d'emmagatzematge"
+
+msgid "Sort by"
+msgstr "Ordenar per"
+
+msgid "Condominium in difficulty"
+msgstr "Condomini en dificultat"
+
+msgid "Back to the list"
+msgstr "Torna a la llista"
+
+msgid "Previous listing"
+msgstr "Llistat anterior"
+
+msgid "Next listing"
+msgstr "Següent llistat"
+
+msgid "empty"
+msgstr "buit"
+
+msgid "Filename"
+msgstr "Nom de l'arxiu"
+
+msgid "Keyword"
+msgstr "Paraula clau"
+
+msgid "Values"
+msgstr "Valors"
+
+msgid "New feed"
+msgstr "Nova alimentació"
+
+msgid "Errors"
+msgstr "Errors"
+
+msgid "Error"
+msgstr "Error"
+
+msgid "Erase"
+msgstr "Esborrar"
+
+msgid "Erase all"
+msgstr "Esborra-ho tot"
+
+msgid "Try"
+msgstr "Prova"
+
+msgid "Query"
+msgstr "Consulta"
+
+msgid "Agency fees payable by vendor"
+msgstr "Comissions del venedor"
+
+msgid "Agency fees payable by buyer"
+msgstr "Comissions del comprador"
+
+msgid "Condominium fees"
+msgstr "Despeses de condomini"
+
+msgid "Bed"
+msgstr "Llit"
+
+msgid "An error occurred"
+msgstr "Hi ha hagut un error"
+
+msgid "Successful subscription"
+msgstr "Subscripció satisfactòria"
+
+msgid "Created date"
+msgstr "Data de creació"
+
+msgid "Updated date"
+msgstr "Data actualitzada"
+
+msgid "Back to homepage"
+msgstr "Torna a la pàgina d'inici"
+
+msgid "Price min"
+msgstr "Preu mín"
+
+msgid "Price max"
+msgstr "Preu màx"
+
+msgid "Bedroom min"
+msgstr "Dormitori min"
+
+msgid "Bedroom max"
+msgstr "Dormitori màx"
+
+msgid "Room min"
+msgstr "Sala min"
+
+msgid "Room max"
+msgstr "Habitació màx"
+
+msgid "Project at"
+msgstr "Projecte a"
+
+msgid "Agency rate"
+msgstr "Tarifa de l'agència"
+
+msgid "Tenant's commission"
+msgstr "Comissió de llogaters"
+
+msgid "Inventory tenant charge"
+msgstr "Càrrec de llogater d'inventari"
+
+msgid "Fees included"
+msgstr "Tarifes incloses"
+
+msgid "Provision on recoverable fees"
+msgstr "Disposició sobre comissions recuperables"
+
+msgid "Never"
+msgstr "Mai"
+
+msgid "Remaining credits"
+msgstr "Crèdits restants"
+
+msgid "Buy credits"
+msgstr "Comprar crèdits"
+
+msgid "%s credits"
+msgstr "%s crèdits"
+
+msgid "Transaction fees"
+msgstr "Comissions de transacció"
+
+msgid "View property"
+msgstr "Veure propietat"
+
+msgid "lot available"
+msgstr "lot disponible"
+
+msgid "lots available"
+msgstr "lots disponibles"
+
+msgid "Area min"
+msgstr "Superfície min"
+
+msgid "Search a property"
+msgstr "Cerca una propietat"
+
+msgid "International"
+msgstr "Internacional"
+
+msgid "Unsubscribe"
+msgstr "Cancel·la la subscripció"
+
+msgid "The property will not be published because it is in group « %s »"
+msgstr "La propietat no es publicarà perquè és al grup « %s »"
+
+msgid "%s month"
+msgstr "%s mes"
+
+msgid "%s months"
+msgstr "%s mesos"
+
+msgid "No action after"
+msgstr "Cap acció després"
+
+msgid "%s pending delete"
+msgstr "%s pendent de supressió"
+
+msgid "Pending delete"
+msgstr "Pendent de supressió"
+
+msgid "%s to delete"
+msgstr "%s per eliminar"
+
+msgid "Unsubscribed"
+msgstr "S'ha cancel·lat la subscripció"
+
+msgid "Edit my search"
+msgstr "Edita la meva cerca"
+
+msgid "Activate my search"
+msgstr "Activa la meva cerca"
+
+msgid "Cancel my search"
+msgstr "Cancel·la la meva cerca"
+
+msgid "Only authorized properties"
+msgstr "Només propietats autoritzades"
+
+msgid "Another currency"
+msgstr "Una altra moneda"
+
+msgid "Enter the first 6 digits"
+msgstr "Introduïu els 6 primers dígits"
+
+msgid ""
+"Without action on your part, your contact will be deleted before the %s."
+msgstr ""
+"Sense cap acció per part vostra, el vostre contacte s'eliminarà abans del "
+"%s."
+
+msgid "No procedure in progress"
+msgstr "No hi ha cap tràmit en curs"
+
+msgid "Procedure in progress"
+msgstr "Procediment en curs"
+
+msgid "Number of lots in the condominium"
+msgstr "Nombre de lots al condomini"
+
+msgid "Network authorized"
+msgstr "Xarxa autoritzada"
+
+msgid "Renew the lease"
+msgstr "Renovar el contracte de lloguer"
+
+msgid "Remove at"
+msgstr "Eliminar a les"
+
+msgid "External action"
+msgstr "Acció exterior"
+
+msgid ""
+"The migration of your prospect into a request will allow you to make "
+"matching and proposals with a better tracking."
+msgstr ""
+"La migració del vostre client potencial a una sol·licitud us permetrà fer "
+"coincidències i propostes amb un millor seguiment."
+
+msgid "floors"
+msgstr "pisos"
+
+msgid "Job"
+msgstr "Treball"
+
+msgid "Unsuscribe from this list"
+msgstr "Doneu-vos de baixa d'aquesta llista"
+
+msgid "Entry"
+msgstr "Entrada"
+
+msgid "Exit"
+msgstr "Sortida"
+
+msgid "Networks"
+msgstr "Xarxes"
+
+msgid "Secured"
+msgstr "Assegurat"
+
+msgid "Opacity"
+msgstr "Opacitat"
+
+msgid "Left"
+msgstr "Esquerra"
+
+msgid "Top"
+msgstr "Superior"
+
+msgid "Relative to the last element"
+msgstr "Relatiu a l'últim element"
+
+msgid "Alignment"
+msgstr "Alineació"
+
+msgid "Border size"
+msgstr "Mida de la vora"
+
+msgid "Border color"
+msgstr "Color de la vora"
+
+msgid "Size of the internal margin"
+msgstr "Mida del marge intern"
+
+msgid "Font color"
+msgstr "Color de la lletra"
+
+msgid "Font size"
+msgstr "Mida de la font"
+
+msgid "Background color"
+msgstr "Color de fons"
+
+msgid "Custom image"
+msgstr "Imatge personalitzada"
+
+msgid "custom"
+msgstr "costum"
+
+msgid "Right"
+msgstr "Dret"
+
+msgid "Center"
+msgstr "Centre"
+
+msgid "Justified"
+msgstr "Justificada"
+
+msgid "Transparency"
+msgstr "Transparència"
+
+msgid "Line height"
+msgstr "Alçada de la línia"
+
+msgid "Uppercase"
+msgstr "majúscula"
+
+msgid "Price proposal"
+msgstr "Proposta de preu"
+
+msgid "Template"
+msgstr "Plantilla"
+
+msgid "Publication date"
+msgstr "Data de publicació"
+
+msgid "Recovered at"
+msgstr "Recuperat a les"
+
+msgid "Allow all"
+msgstr "Permet-ho tot"
+
+msgid "Private position is not set, click here to update."
+msgstr "La posició privada no està definida, feu clic aquí per actualitzar."
+
+msgid "Public position is not set, click here to update."
+msgstr "La posició pública no està definida, feu clic aquí per actualitzar."
+
+msgid ""
+"Please use this link to subscribe to your calendar from a software or a "
+"device:"
+msgstr ""
+"Utilitzeu aquest enllaç per subscriure's al vostre calendari des d'un "
+"programari o un dispositiu:"
+
+msgid "Activate"
+msgstr "Activar"
+
+msgid "Disable"
+msgstr "Inhabilitar"
+
+msgid "Block"
+msgstr "Bloc"
+
+msgid "Unblock"
+msgstr "Desbloqueja"
+
+msgid "Area max"
+msgstr "Àrea màx"
+
+msgid "Plot of land area min"
+msgstr "Superfície de parcel·la min"
+
+msgid "Plot of land area max"
+msgstr "Superfície de parcel·la màx"
+
+msgid "Date descending"
+msgstr "Data descendent"
+
+msgid "Date ascending"
+msgstr "Data ascendent"
+
+msgid "Price descending"
+msgstr "Preu descendent"
+
+msgid "Price ascending"
+msgstr "Preu ascendent"
+
+msgid "Balance"
+msgstr "Balanç"
+
+msgid "Construction method"
+msgstr "Mètode de construcció"
+
+msgid "Tax code"
+msgstr "Codi fiscal"
+
+msgid "Downsides"
+msgstr "Desavantatges"
+
+msgid "Assets"
+msgstr "Actius"
+
+msgid "Please select a district from the list:"
+msgstr "Seleccioneu un districte de la llista:"
+
+msgid "Non-flood zone"
+msgstr "Zona no inundable"
+
+msgid "Potential flood zone"
+msgstr "Zona d'inundació potencial"
+
+msgid "Recognized flood zone"
+msgstr "Zona inundable reconeguda"
+
+msgid "Delimited flood zone"
+msgstr "Zona inundable delimitada"
+
+msgid "Cadastre"
+msgstr "Cadastre"
+
+msgid "Delimited waterside zone"
+msgstr "Zona ribera delimitada"
+
+msgid "Potential flood zone in a delimited waterside zone"
+msgstr "Zona d'inundació potencial en una zona riberenca delimitada"
+
+msgid "Potential flood zone in a delimited flood zone"
+msgstr "Zona d'inundació potencial en una zona inundable delimitada"
+
+msgid "Recognized flood zone in a delimited waterside zone"
+msgstr "Zona d'inundació reconeguda en una zona de ribera delimitada"
+
+msgid "Recognized flood zone in a delimited flood zone"
+msgstr "Zona inundable reconeguda en una zona inundable delimitada"
+
+msgid "Profile"
+msgstr "Perfil"
+
+msgid "Export"
+msgstr "Exporta"
+
+msgid "Quota"
+msgstr "Quota"
+
+msgid "Records"
+msgstr "Registres"
+
+msgid "Document"
+msgstr "Document"
+
+msgid "Partner"
+msgstr "Soci"
+
+msgid "Signages"
+msgstr "Senyalització"
+
+msgid "Set up at"
+msgstr "Configurar a"
+
+msgid "Forecast"
+msgstr "Previsió"
+
+msgid "Area ascending"
+msgstr "Zona ascendent"
+
+msgid "Area descending"
+msgstr "Zona descendent"
+
+msgid "%s awaiting review(s)"
+msgstr "%s esperant ressenyes"
+
+msgid "To review"
+msgstr "A opinar"
+
+msgid "Copy"
+msgstr "Còpia"
+
+msgid "Net seller"
+msgstr "Venedor net"
+
+msgid "Price displayed"
+msgstr "Preu mostrat"
+
+msgid "Rental price"
+msgstr "Preu de lloguer"
+
+msgid "Listed price: %s, exchange rates are indicative."
+msgstr "Preu de llista: %s, els tipus de canvi són orientatius."
+
+msgid "%s units"
+msgstr "%s unitats"
+
+msgid "%s unit"
+msgstr "%s unitat"
+
+msgid "IP address"
+msgstr "adreça IP"
+
+msgid "Method"
+msgstr "Mètode"
+
+msgid "Path"
+msgstr "Camí"
+
+msgid "Pagebreak"
+msgstr "Salt de pàgina"
+
+msgid "Paragraph"
+msgstr "Paràgraf"
+
+msgid "Spacing"
+msgstr "Espaiat"
+
+msgid "Align"
+msgstr "Alinear"
+
+msgid "Scale"
+msgstr "Escala"
+
+msgid "Color"
+msgstr "Color"
+
+msgid "lines"
+msgstr "línies"
+
+msgid "Positioning"
+msgstr "Posicionament"
+
+msgid "Border"
+msgstr "Frontera"
+
+msgid "Social networks"
+msgstr "Xarxes socials"
+
+msgid "Save settings"
+msgstr "Desa la configuració"
+
+msgid "Delete settings"
+msgstr "Suprimeix la configuració"
+
+msgid "never"
+msgstr "mai"
+
+msgid "Facades"
+msgstr "Façanes"
+
+msgid ""
+"Please select the page where you would like to publish your properties."
+msgstr "Seleccioneu la pàgina on voleu publicar les vostres propietats."
+
+msgid "Unique publication identifier"
+msgstr "Identificador únic de publicació"
+
+msgid "No active transfer"
+msgstr "No hi ha transferència activa"
+
+msgid "Publication report"
+msgstr "Informe de publicació"
+
+msgid "Click here to view the publication."
+msgstr "Feu clic aquí per veure la publicació."
+
+msgid "Your listing is now online."
+msgstr "La teva fitxa ja està en línia."
+
+msgid "Share on …"
+msgstr "Comparteix a…"
+
+msgid "Add the feature for:"
+msgstr "Afegiu la funció per a:"
+
+msgid "The agency"
+msgstr "L'agència"
+
+msgid "The whole company"
+msgstr "Tota l'empresa"
+
+msgid "The whole brand"
+msgstr "Tota la marca"
+
+msgid "Wrong number"
+msgstr "Número incorrecte"
+
+msgid "Padding"
+msgstr "Encoixinat"
+
+msgid "Wrong e-mail or e-mail too heavy"
+msgstr "Correu electrònic incorrecte o massa pesat"
+
+msgid "Empty e-mail"
+msgstr "Correu electrònic buit"
+
+msgid "Wrong e-mail"
+msgstr "Correu electrònic incorrecte"
+
+msgid "Wrong spouse's e-mail"
+msgstr "Correu electrònic del cònjuge equivocat"
+
+msgid "Starting from floor"
+msgstr "A partir del pis"
+
+msgid "Please report to our documentation."
+msgstr "Informeu-vos a la nostra documentació."
+
+msgid "Your email server does not authorize us to send an email."
+msgstr ""
+"El vostre servidor de correu electrònic no ens autoritza a enviar un correu "
+"electrònic."
+
+msgid "Not suggested"
+msgstr "No suggerit"
+
+msgid "Quick view"
+msgstr "Vista ràpida"
+
+msgid ""
+"This feature need the software WhatsApp Web. Before using this feature be "
+"sure to download and link your smartphone."
+msgstr ""
+"Aquesta funció necessita el programari WhatsApp Web. Abans d'utilitzar "
+"aquesta funció, assegureu-vos de descarregar i enllaçar el vostre telèfon "
+"intel·ligent."
+
+msgid "Add a lead"
+msgstr "Afegeix un plom"
+
+msgid "Configure"
+msgstr "Configura"
+
+msgid "Display the address"
+msgstr "Mostra l'adreça"
+
+msgid "Display the contact"
+msgstr "Mostra el contacte"
+
+msgid "Display the contact details"
+msgstr "Mostra les dades de contacte"
+
+msgid "Display the contact name"
+msgstr "Mostra el nom del contacte"
+
+msgid "Read"
+msgstr "Llegeix"
+
+msgid "Write"
+msgstr "Escriu"
+
+msgid "Private details"
+msgstr "Detalls privats"
+
+msgid "Private documents"
+msgstr "Documents privats"
+
+msgid "Public documents"
+msgstr "Documents públics"
+
+msgid "Order"
+msgstr "Ordre"
+
+msgid "National"
+msgstr "Nacional"
+
+msgid "Period"
+msgstr "Període"
+
+msgid "Repair"
+msgstr "Reparació"
+
+msgid "Complain"
+msgstr "Queixar-se"
+
+msgid "Reporting"
+msgstr "Informes"
+
+msgid "Moderator"
+msgstr "Moderador"
+
+msgid "%s guests"
+msgstr "%s convidats"
+
+msgid "%s guest"
+msgstr "%s convidat"
+
+msgid "Referrals"
+msgstr "Referències"
+
+msgid "%s beds"
+msgstr "%s llits"
+
+msgid "%s bed"
+msgstr "%s llit"
+
+msgid "Old user"
+msgstr "Usuari antic"
+
+msgid "New user"
+msgstr "Nou usuari"
+
+msgid "Apply on requests"
+msgstr "Aplicar a les peticions"
+
+msgid "Apply on properties"
+msgstr "Aplicar en propietats"
+
+msgid "Forthcoming"
+msgstr "Properament"
+
+msgid "Past"
+msgstr "Passat"
+
+msgid "Click here to join the webinar."
+msgstr "Feu clic aquí per unir-vos al seminari web."
+
+msgid "You have an appointment in %hours% hour(s) and %minutes% minute(s)"
+msgstr "Tens una cita d'aquí a %hours% hora(s) i %minutes% minut(s)"
+
+msgid "Your training of %s"
+msgstr "La teva formació de %s"
+
+msgid "(or)"
+msgstr "(o)"
+
+msgid "Grant access to the user or the contact"
+msgstr "Concedeix accés a l'usuari o al contacte"
+
+msgid "Improve the quality of some photos."
+msgstr "Millora la qualitat d'algunes fotos."
+
+msgid "Click here to highlight them."
+msgstr "Feu clic aquí per destacar-los."
+
+msgid "Documentation"
+msgstr "Documentació"
+
+msgid "Payments"
+msgstr "Pagaments"
+
+msgid "Store"
+msgstr "Botiga"
+
+msgid "Cooling-off end at"
+msgstr "Final del refredament a les"
+
+msgid "Accuracy of appraisal"
+msgstr "Exactitud de la valoració"
+
+msgid "Fees details"
+msgstr "Detalls de tarifes"
+
+msgid "Funding"
+msgstr "Finançament"
+
+msgid "Personal contribution"
+msgstr "Aportació personal"
+
+msgid "Mortgage amount"
+msgstr "Import de la hipoteca"
+
+msgid "Accepted at"
+msgstr "Acceptat a"
+
+msgid "Pre-fill"
+msgstr "Omplir prèviament"
+
+msgid "Register"
+msgstr "Registra't"
+
+msgid "Contracted at"
+msgstr "Contractat a"
+
+msgid "Property valuation"
+msgstr "Valoració de la propietat"
+
+msgid "Selected properties"
+msgstr "Propietats seleccionades"
+
+msgid "Conclusion"
+msgstr "Conclusió"
+
+msgid "Final opinion between"
+msgstr "Opinió final entre"
+
+msgid "Net annual rental"
+msgstr "Lloguer anual net"
+
+msgid "Average"
+msgstr "Mitjana"
+
+msgid "Selected year"
+msgstr "Any seleccionat"
+
+msgid "Subscribers"
+msgstr "Subscriptors"
+
+msgid "Keys"
+msgstr "Claus"
+
+msgid "Member of your network"
+msgstr "Membre de la vostra xarxa"
+
+msgid "Member of %s"
+msgstr "Membre de %s"
+
+msgid "Requests validated"
+msgstr "Sol·licituds validades"
+
+msgid "Incomplete requests"
+msgstr "Sol·licituds incompletes"
+
+msgid "You blocked this agency"
+msgstr "Has bloquejat aquesta agència"
+
+msgid "Updated"
+msgstr "Actualitzat"
+
+msgid "Updated by"
+msgstr "Actualitzat per"
+
+msgid "Created by"
+msgstr "Creat per"
+
+msgid "Session has expired"
+msgstr "La sessió ha caducat"
+
+msgid "You have reached the quota"
+msgstr "Heu arribat a la quota"
+
+msgid "%s bathroom"
+msgstr "bany de %s"
+
+msgid "%s bathrooms"
+msgstr "%s banys"
+
+msgid "Force recording"
+msgstr "Força la gravació"
+
+msgid ""
+"You are using the quick form, to access all the fields please click on full "
+"form."
+msgstr ""
+"Esteu utilitzant el formulari ràpid, per accedir a tots els camps feu clic "
+"al formulari complet."
+
+msgid "Delete the contact"
+msgstr "Suprimeix el contacte"
+
+msgid "Update my search criteria or unsubscribe me."
+msgstr "Actualitzeu els meus criteris de cerca o doneu-me de baixa."
+
+msgid "All day"
+msgstr "Tot el dia"
+
+msgid "Synchronized with %s"
+msgstr "Sincronitzat amb %s"
+
+msgid "Your time zone appears to be « %s », click here to update."
+msgstr ""
+"Sembla que la vostra zona horària és « %s », feu clic aquí per actualitzar."
+
+msgid "Freehold"
+msgstr "Lliure propietat"
+
+msgid "Commonhold"
+msgstr "Commonhold"
+
+msgid "Share of freehold"
+msgstr "Quota de propietat lliure"
+
+msgid "Please click here"
+msgstr "Feu clic aquí"
+
+msgid "Please complete the configuration"
+msgstr "Completeu la configuració"
+
+msgid "Choose a calendar"
+msgstr "Trieu un calendari"
+
+msgid "Synchronize your calendar."
+msgstr "Sincronitza el teu calendari."
+
+msgid "Send messages within your email account."
+msgstr "Envieu missatges des del vostre compte de correu electrònic."
+
+msgid "Manage your contacts."
+msgstr "Gestiona els teus contactes."
+
+msgid "Synchronized account"
+msgstr "Compte sincronitzat"
+
+msgid "Unlink"
+msgstr "Desenllaça"
+
+msgid "To modify this appointment, you must first unlink it."
+msgstr "Per modificar aquesta cita, primer heu de desenllaçar-la."
+
+msgid "Appointment shared with:"
+msgstr "Cita compartida amb:"
+
+msgid "Old value"
+msgstr "Antic valor"
+
+msgid "New value"
+msgstr "Nou valor"
+
+msgid "Subscribed"
+msgstr "Subscrit"
+
+msgid "Display my properties"
+msgstr "Mostra les meves propietats"
+
+msgid "Interface language"
+msgstr "Llenguatge de la interfície"
+
+msgid "Spoken languages"
+msgstr "Idiomes parlats"
+
+msgid "Canceled at"
+msgstr "Cancel·lat a les"
+
+msgid "Please fill in a canceled date."
+msgstr "Si us plau, empleneu una data cancel·lada."
+
+msgid "This username is already in use."
+msgstr "Aquest usuari ja existeix."
+
+msgid "Ordered at"
+msgstr "Encàrrec a"
+
+msgid "Projects"
+msgstr "Projectes"
+
+msgid "Renovation cost"
+msgstr "Cost de la renovació"
+
+msgid "Inflation"
+msgstr "Inflació"
+
+msgid "Reviews"
+msgstr "Ressenyes"
+
+msgid "Option"
+msgstr "Opció"
+
+msgid "Check to accept"
+msgstr "Marqueu per acceptar"
+
+msgid "Account creation"
+msgstr "Creació de comptes"
+
+msgid ""
+"Access to the %s solution requires the transmission of your information and "
+"the acceptance of the general conditions"
+msgstr ""
+"L'accés a la solució %s requereix la transmissió de la seva informació i "
+"l'acceptació de les condicions generals"
+
+msgid "Read the personal data conditions"
+msgstr "Llegeix les condicions de dades personals"
+
+msgid "Read the terms and conditions"
+msgstr "Llegeix els termes i condicions"
+
+msgid "Waiting for your confirmation"
+msgstr "Esperant la teva confirmació"
+
+msgid "Suspended"
+msgstr "Suspès"
+
+msgid "Validations"
+msgstr "Validacions"
+
+msgid "Privacy policy"
+msgstr "Política de privacitat"
+
+msgid "Latest posts"
+msgstr "Últimes publicacions"
+
+msgid "Renew"
+msgstr "Renovar"
+
+msgid "Download the app"
+msgstr "Descarrega l'aplicació"
+
+msgid ""
+"Setup the application on your smartphone and enjoy an optimized navigation "
+"for your mobile device."
+msgstr ""
+"Configura l'aplicació al teu telèfon intel·ligent i gaudeix d'una navegació "
+"optimitzada per al teu dispositiu mòbil."
+
+msgid ""
+"Take advantage now of your software by using the credentials below. Be sure "
+"to keep this login details confidential and don't to change your password "
+"regularly."
+msgstr ""
+"Aprofiteu ara el vostre programari utilitzant les credencials següents. "
+"Assegureu-vos de mantenir la confidencialitat d'aquestes dades d'inici de "
+"sessió i de no canviar la contrasenya amb regularitat."
+
+msgid "Watch our channel"
+msgstr "Mira el nostre canal"
+
+msgid "Discover the training videos on our Youtube channel."
+msgstr "Descobreix els vídeos de formació al nostre canal de Youtube."
+
+msgid "Take part in our training"
+msgstr "Participa en la nostra formació"
+
+msgid ""
+"We regularly organize online or face-to-face training, register directly "
+"from the software (Menu Tools > Training)."
+msgstr ""
+"Organitzem regularment formació en línia o presencial, registreu-vos "
+"directament des del programari (Menú Eines > Formació)."
+
+msgid "Please kindly fill out your agency profile."
+msgstr "Si us plau, ompliu el vostre perfil d'agència."
+
+msgid "Tripod"
+msgstr "Trípode"
+
+msgid "Square"
+msgstr "Quadrat"
+
+msgid "Round"
+msgstr "Ronda"
+
+msgid "Floors"
+msgstr "Pisos"
+
+msgid "You do not have enough credits to send the message."
+msgstr "No teniu prou crèdits per enviar el missatge."
+
+msgid ""
+"Please do not remove « {LINK} » value. We need this for the link to the "
+"property website."
+msgstr ""
+"Si us plau, no elimineu el valor «{LINK}». Necessitem això per a l'enllaç al"
+" lloc web de la propietat."
+
+msgid "Minimum bid"
+msgstr "Oferta mínima"
+
+msgid "Published"
+msgstr "Publicat"
+
+msgid "Archived"
+msgstr "Arxivat"
+
+msgid "Sent for signature"
+msgstr "Enviat per signar"
+
+msgid "Camera position"
+msgstr "Posició de la càmera"
+
+msgid "Capture"
+msgstr "Captura"
+
+msgid "Professional"
+msgstr "Professional"
+
+msgid "Professionals"
+msgstr "Professionals"
+
+msgid "Add a new entry"
+msgstr "Afegeix una nova entrada"
+
+msgid "Monthly payment"
+msgstr "Pagament mensual"
+
+msgid "Archives"
+msgstr "Arxius"
+
+msgid "Inbox"
+msgstr "Safata d'entrada"
+
+msgid "%value% is too long (%max_length% characters max)."
+msgstr "%value% és massa llarg (%max_length% caràcters com a màxim)."
+
+msgid "My details"
+msgstr "Els meus detalls"
+
+msgid "Software"
+msgstr "Programari"
+
+msgid "Personal data deleted after a removal request form received."
+msgstr ""
+"Les dades personals s'eliminen després d'haver rebut un formulari de "
+"sol·licitud d'eliminació."
+
+msgid "Received at %s"
+msgstr "Rebut a %s"
+
+msgid "Lease assignments"
+msgstr "Cessions de lloguer"
+
+msgid "Occupant"
+msgstr "Ocupant"
+
+msgid "Frequency"
+msgstr "Freqüència"
+
+msgid "Time slot"
+msgstr "Interval de temps"
+
+msgid "Rules"
+msgstr "Normes"
+
+msgid "Hourly"
+msgstr "Cada hora"
+
+msgid "Daily"
+msgstr "Diàriament"
+
+msgid "Weekly"
+msgstr "Setmanalment"
+
+msgid "Monthly"
+msgstr "Mensual"
+
+msgid "In order to duplicate the property, please type the security code %s"
+msgstr "Per duplicar la propietat, escriviu el codi de seguretat %s"
+
+msgid ""
+"Please do not use the duplication to refresh your ad on the web portals."
+msgstr ""
+"No utilitzeu la duplicació per actualitzar el vostre anunci als portals web."
+
+msgid ""
+"You can refresh an ad on the portals by using the incrementing system, "
+"available from the tab Exchange > Settings."
+msgstr ""
+"Podeu actualitzar un anunci als portals mitjançant el sistema d'increment, "
+"disponible a la pestanya Intercanvi > Configuració."
+
+msgid "Legal"
+msgstr "Legal"
+
+msgid "Auction start at"
+msgstr "La subhasta comença a les"
+
+msgid "Auction end at"
+msgstr "Final de la subhasta a les"
+
+msgid "My preferences"
+msgstr "Les meves preferències"
+
+msgid "Preference"
+msgstr "Preferència"
+
+msgid "Public"
+msgstr "Públic"
+
+msgid "Classic"
+msgstr "Clàssic"
+
+msgid "Modern"
+msgstr "Modern"
+
+msgid "Design"
+msgstr "Disseny"
+
+msgid "Server"
+msgstr "Servidor"
+
+msgid "We are closed"
+msgstr "Estem tancats"
+
+msgid "Appliance"
+msgstr "Electrodomèstic"
+
+msgid "Energy"
+msgstr "Energia"
+
+msgid "Automatic selection"
+msgstr "Selecció automàtica"
+
+msgid "Non-holding of funds"
+msgstr "No retenció de fons"
+
+msgid "Sales agent"
+msgstr "Agent de vendes"
+
+msgid ""
+"Do you want to use Cityscan on this property? This will consume a credit "
+"from your quota."
+msgstr ""
+"Voleu utilitzar Cityscan en aquesta propietat? Això consumirà un crèdit de "
+"la vostra quota."
+
+msgid "Would you like to copy the owner's address into the property?"
+msgstr "Voleu copiar l'adreça del propietari a la propietat?"
+
+msgid "Pattern"
+msgstr "Patró"
+
+msgid "Comment pattern"
+msgstr "Patró de comentaris"
+
+msgid "View all news"
+msgstr "Veure totes les notícies"
+
+msgid ""
+"In order to verify your e-mail address, please specify this validation code "
+"valid for 15 minutes:"
+msgstr ""
+"Per verificar la vostra adreça de correu electrònic, especifiqueu aquest "
+"codi de validació vàlid durant 15 minuts:"
+
+msgid "Account validation for %s"
+msgstr "Validació del compte per a %s"
+
+msgid ""
+"We have just sent you an e-mail with a code valid for 15 minutes, please "
+"specify it to authenticate your account."
+msgstr ""
+"Us acabem d'enviar un correu electrònic amb un codi vàlid durant 15 minuts, "
+"especifiqueu-lo per autenticar el vostre compte."
+
+msgid ""
+"Other accounts use your e-mail %s, you should use your own e-mail address."
+msgstr ""
+"Altres comptes utilitzen el vostre correu electrònic %s, haureu d'utilitzar "
+"la vostra pròpia adreça de correu electrònic."
+
+msgid ""
+"Your e-mail address %s is already used by another account, please choose a "
+"different address."
+msgstr ""
+"La vostra adreça de correu electrònic %s ja l'utilitza un altre compte, si "
+"us plau, trieu una adreça diferent."
+
+msgid "Please kindly confirm your e-mail address %s."
+msgstr "Si us plau, confirmeu la vostra adreça de correu electrònic %s."
+
+msgid "Altitude"
+msgstr "Altitud"
+
+msgid "For security reasons, we need to confirm your details below."
+msgstr ""
+"Per motius de seguretat, hem de confirmar les teves dades a continuació."
+
+msgid "Toilet"
+msgstr "Lavabo"
+
+msgid "Help"
+msgstr "Ajuda"
+
+msgid "Show pagination"
+msgstr "Mostrar paginació"
+
+msgid "Mandatory fields"
+msgstr "Camps obligatoris"
+
+msgid "Available soon"
+msgstr "Disponible aviat"
+
+msgid "HD Photo"
+msgstr "HD Photo"
+
+#, fuzzy
+msgid "Contract end at"
+msgstr ""
+"#-#-#-#-#  apimo-ca_ES.po  #-#-#-#-#\n"
+"Contracte finalitzat el\n"
+"#-#-#-#-#  apimo-ca_ES.po  #-#-#-#-#\n"
+"Fi del contracte a"
+
+msgid "Incomplete"
+msgstr "Incomplet"
+
+msgid "Location Map"
+msgstr "Mapa de la ubicació"
+
+msgid "User Detail"
+msgstr "Detall de l'usuari"
+
+msgid "File size"
+msgstr "Mida del fitxer"
+
+msgid "File title"
+msgstr "Títol del fitxer"
+
+msgid "Region"
+msgstr "Regió"
+
+msgid "Bath"
+msgstr "Bany"
+
+msgid "Private Negotiation"
+msgstr "Negociació privada"
+
+msgid "Property specifications"
+msgstr "Especificacions de la propietat"
+
+msgid "Energy performance"
+msgstr "Rendiment energètic"
+
+msgid "Media Details"
+msgstr "Detalls dels mitjans"
+
+msgid "View Video"
+msgstr "Veure vídeo"
+
+msgid "Start Date"
+msgstr "Data d'inici"
+
+msgid "End Date"
+msgstr "Data de finalització"
+
+msgid "Welcome"
+msgstr "Benvingut"
+
+msgid "See What’s happening with Apimo Plugin."
+msgstr "Veure què està passant amb el complement Apimo."
+
+msgid "PROVIDERS"
+msgstr "PROVEÏDORS"
+
+msgid "AGENCIES"
+msgstr "AGÈNCIES"
+
+msgid "PROPERTIES"
+msgstr "PROPIETATS"
+
+msgid "BOOKMARK"
+msgstr "MARCA PÀGINA"
+
+msgid "Remove all"
+msgstr "Elimina tot"
+
+msgid "Apply filter"
+msgstr "Aplica el filtre"
+
+msgid "Select Subtype"
+msgstr "Seleccionar subtipo"
+
+msgid "Enchère"
+msgstr "Subhasta"
+
+msgid "Location"
+msgstr "Lloguer"
+
+msgid "Location saisonnière"
+msgstr "Lloguer de temporada"
+
+msgid "From"
+msgstr "De"
+
+msgid "To"
+msgstr "A"
+
+msgid "Dates"
+msgstr "Fechas"
+
+msgid "Select country"
+msgstr "Seleccionar país"
+
+msgid "Select region"
+msgstr "Seleccionar región"
+
+msgid "Select district"
+msgstr "Seleccionar distrito"
+
+msgid "Select city"
+msgstr "Seleccionar ciudad"
+
+msgid "Good"
+msgstr "Bé"
+
+msgid "Bad"
+msgstr "Dolent"
+
+msgid "hello"
+msgstr "hola"
+
+msgid "Available Integrations"
+msgstr "Integracions disponibles"
+
+msgid "reCAPTCHA Detected"
+msgstr "Recaptcha detectat"
+
+msgid "reCAPTCHA Not Detected"
+msgstr "Recaptcha no detectat"
+
+msgid "Google reCAPTCHA Integration"
+msgstr "Integració de Google Recaptcha"
+
+msgid ""
+"Protect your forms from spam and abuse with Google reCAPTCHA integration."
+msgstr ""
+"Protegiu els vostres formularis del correu brossa i del maltractament amb la"
+" integració de Google Recaptcha."
+
+msgid "Activate Integration"
+msgstr "Activa la integració"
+
+msgid "Deactivate Integration"
+msgstr "Desactivar la integració"
+
+msgid "reCAPTCHA Configuration"
+msgstr "Configuració de Recaptcha"
+
+msgid "Please configure your reCAPTCHA keys below to complete the setup."
+msgstr ""
+"Configureu les tecles Recaptcha a continuació per completar la configuració."
+
+msgid "To complete the reCAPTCHA setup:"
+msgstr "Per completar la configuració de Recaptcha:"
+
+msgid "Go to the"
+msgstr "Anar al"
+
+msgid "Google reCAPTCHA Admin Console"
+msgstr "Consola d'administració de Google Recaptcha"
+
+msgid "Register your site and get your Site Key and Secret Key"
+msgstr "Registreu el vostre lloc i obteniu la clau i la clau secreta del lloc"
+
+msgid "Enter the keys below to activate reCAPTCHA"
+msgstr "Introduïu les tecles següents per activar Recaptcha"
+
+msgid "reCAPTCHA is configured properly."
+msgstr "Recaptcha es configura correctament."
+
+msgid "Site Key"
+msgstr "Clau del lloc"
+
+msgid "Secret Key"
+msgstr "Clau secreta"
+
+msgid "Save Configuration"
+msgstr "Desa la configuració"
+
+msgid "Contact Form"
+msgstr "Formulari de contacte"
+
+msgid "Invalid format"
+msgstr "Format no vàlid"
+
+msgid "This field is required"
+msgstr "Aquest camp és necessari"
+
+msgid "Invalid email format"
+msgstr "Format de correu electrònic no vàlid"
+
+msgid "Please use reCAPTCHA version 3"
+msgstr "Utilitzeu la versió 3 de Recaptcha"

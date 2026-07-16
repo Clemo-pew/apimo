@@ -1,0 +1,4991 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.1\n"
+
+msgid "Reminder"
+msgstr "Hatırlatma"
+
+msgid "Suggestion"
+msgstr "Öneri"
+
+#, fuzzy
+msgid "Report"
+msgstr ""
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Rapor\n"
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Raporu"
+
+#, fuzzy
+msgid "Other"
+msgstr ""
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Digeri\n"
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Diğer\n"
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Başka bir\n"
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Diger\n"
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Diğer"
+
+#, fuzzy
+msgid "Valuation"
+msgstr ""
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Tahmin\n"
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Tahmin\n"
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Periziare"
+
+#, fuzzy
+msgid "Canvassing"
+msgstr ""
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Reklam\n"
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Prospeksiyon"
+
+msgid "Open House"
+msgstr "Acik ev"
+
+msgid "Message"
+msgstr "Mesaj"
+
+msgid "After-sales"
+msgstr "Müsteri Hizmetleri"
+
+msgid "Visit"
+msgstr "Ziyaret"
+
+msgid "Appointment"
+msgstr "Randevu"
+
+msgid "Phone"
+msgstr "Telefon"
+
+#, fuzzy
+msgid "e-mail"
+msgstr ""
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"E-mail\n"
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"e-posta"
+
+msgid "Fax"
+msgstr "Fax"
+
+msgid "Mail"
+msgstr "Mail"
+
+msgid "SMS"
+msgstr "SMS"
+
+msgid "Walk-in"
+msgstr "Gecit"
+
+msgid "Extranet"
+msgstr "Ekstranet"
+
+msgid "Project"
+msgstr "Proje"
+
+msgid "Under construction"
+msgstr "Insaat Durumunda"
+
+msgid "Delivered"
+msgstr "Gönderildi"
+
+msgid "Ended"
+msgstr "Bitti"
+
+msgid "Canceled"
+msgstr "Iptal"
+
+msgid "Mr."
+msgstr "Bey"
+
+msgid "Ms."
+msgstr "Bayan"
+
+msgid "Mr. & Mrs."
+msgstr "Bey & Bayan"
+
+msgid "Sheik"
+msgstr "Sheik"
+
+msgid "Duke"
+msgstr "Duke"
+
+msgid "Duchess"
+msgstr "Duchess"
+
+msgid "Lord"
+msgstr "Lord"
+
+msgid "Maître"
+msgstr "Maître"
+
+msgid "Professor"
+msgstr "Professor"
+
+msgid "Sir"
+msgstr "Beyefendi"
+
+msgid "Regulations"
+msgstr "Yönetmelik"
+
+msgid "AML/KYC Vendor"
+msgstr "AML/KYC Vendor"
+
+msgid "AML/KYC Buyer"
+msgstr "AML/KYC Buyer"
+
+msgid "Concierge"
+msgstr "Kapici"
+
+msgid "Contact"
+msgstr "Kontak"
+
+msgid "Search"
+msgstr "Alici iletisim"
+
+msgid "Owner"
+msgstr "Satmak"
+
+#, fuzzy
+msgid "e-mail alert"
+msgstr ""
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"E Mail uyarisi\n"
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"E-posta uyarısı"
+
+msgid "Send to a friend"
+msgstr "Bir arkadaşa gönder"
+
+msgid "Newsletter"
+msgstr "Bülten"
+
+#, fuzzy
+msgid "Selection"
+msgstr ""
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Secenek\n"
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Seçim"
+
+#, fuzzy
+msgid "New"
+msgstr ""
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Yeni\n"
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Yeni yapi"
+
+msgid "Opened"
+msgstr "Acik"
+
+msgid "Processing"
+msgstr "Islemde"
+
+#, fuzzy
+msgid "Closed"
+msgstr ""
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Kapandi\n"
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Bitti\n"
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Bitti"
+
+msgid "Self-employed"
+msgstr "Serbets calisan"
+
+msgid "Bakery"
+msgstr "Fırın"
+
+msgid "Restaurant"
+msgstr "Restoran"
+
+msgid "Press"
+msgstr "Basin"
+
+msgid "Bar"
+msgstr "Bar"
+
+msgid "Florist"
+msgstr "Çiçekçi"
+
+msgid "Tobacconist"
+msgstr "Büfe"
+
+msgid "Clothes"
+msgstr "Giyim"
+
+msgid "Drugstore"
+msgstr "Eczane"
+
+msgid "Shopping centre"
+msgstr "Alışveriş merkezi"
+
+msgid "Travel agency"
+msgstr "Seyahat acentası"
+
+msgid "Real estate agent"
+msgstr "Emlak ajansı"
+
+msgid "Gallery"
+msgstr "Galeri"
+
+#, fuzzy
+msgid "Garage"
+msgstr ""
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Mekanik\n"
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Garaj"
+
+msgid "Insurer"
+msgstr "Sigortacı"
+
+msgid "Optician"
+msgstr "Optik"
+
+msgid "Perfumery"
+msgstr "Parfümeri"
+
+msgid "Hotel"
+msgstr "Otel"
+
+msgid "Antique dealer"
+msgstr "Antikaci"
+
+msgid "Laundry"
+msgstr "Çamaşırhane"
+
+msgid "Pressing"
+msgstr "Kuru temizleyici"
+
+msgid "Jeweller"
+msgstr "Kuyumcu"
+
+msgid "Grocer"
+msgstr "Gıda"
+
+msgid "Pork butcher"
+msgstr "Kasap"
+
+msgid "Caterer"
+msgstr "Şarküteri"
+
+msgid "Brewery"
+msgstr "Bira fabrikasi"
+
+msgid "Snack"
+msgstr "Paket servisi"
+
+msgid "Confectioner"
+msgstr "Pastahane"
+
+msgid "Grocery"
+msgstr "Bakkal"
+
+msgid "Cheesemonger"
+msgstr "Peynirci"
+
+msgid "Fruit and vegetables"
+msgstr "Manav"
+
+msgid "Sex shop"
+msgstr "Sex shop"
+
+msgid "Video game"
+msgstr "Video oyunları"
+
+msgid "Computer"
+msgstr "Bilgisayar Ticareti"
+
+msgid "Hairdresser"
+msgstr "Kuaför"
+
+msgid "Cosmetician"
+msgstr "Güzellik Uzmani"
+
+msgid "Household electrical"
+msgstr "Ev Aletleri"
+
+msgid "Shoes"
+msgstr "Ayakkabici"
+
+msgid "Haberdasher"
+msgstr "Tuhafiye"
+
+msgid "Groomer"
+msgstr "Hayvan Kuaförü"
+
+msgid "Tea room"
+msgstr "Çayevi"
+
+msgid "Beach"
+msgstr "Plaj"
+
+msgid "Bookshop"
+msgstr "Kütüphane"
+
+msgid "Offices"
+msgstr "Ofisler"
+
+msgid "Gas station"
+msgstr "Benzinci"
+
+msgid "Camping"
+msgstr "Kamp"
+
+msgid "Nightclub"
+msgstr "Gece Kulübü - Disko"
+
+msgid "Pet store"
+msgstr "Pet shop"
+
+msgid "Video arcade"
+msgstr "Oyun Salonu"
+
+msgid "Office supplies"
+msgstr "Kırtasiye"
+
+msgid "Furniture"
+msgstr "Mobilyaci"
+
+msgid "Decoration"
+msgstr "Dekorasyon"
+
+msgid "Agriculture"
+msgstr "Tarım"
+
+msgid "Photo"
+msgstr "Fotoğraf"
+
+msgid "Locksmith"
+msgstr "Anahtarci"
+
+msgid "Health club"
+msgstr "Spor salonu"
+
+msgid "Taxi"
+msgstr "Taksi"
+
+#, fuzzy
+msgid "Cinema"
+msgstr ""
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Sinema\n"
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Ev sineması"
+
+msgid "Theater"
+msgstr "Tiyatro"
+
+msgid "Café"
+msgstr "Kafe"
+
+msgid "Garden centre"
+msgstr "Bahcivanlik"
+
+msgid "Hardware shop"
+msgstr "Tamirhane"
+
+msgid "Fishmongers"
+msgstr "Balikçi"
+
+msgid "Sport supplies"
+msgstr "Spor tesisleri"
+
+#, fuzzy
+msgid "Bedroom"
+msgstr ""
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Yatak odalari\n"
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Oda\n"
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Yatak odalari"
+
+msgid "Living-room"
+msgstr "Salon"
+
+msgid "Kitchen"
+msgstr "Mutfak"
+
+msgid "Parking"
+msgstr "Otopark"
+
+#, fuzzy
+msgid "Cellar"
+msgstr ""
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Kiler\n"
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Bodrum Kati"
+
+msgid "Garden shelter"
+msgstr "Pergola"
+
+msgid "Bathroom"
+msgstr "Küvetli banyo"
+
+msgid "Laundry room"
+msgstr "Çamaşırhane"
+
+msgid "Study"
+msgstr "Büro"
+
+msgid "Corridor"
+msgstr "Koridor"
+
+msgid "Shower room"
+msgstr "Duşlu banyo"
+
+msgid "Cupboard"
+msgstr "Gömme dolap"
+
+msgid "Entrance"
+msgstr "Giriş"
+
+msgid "Lavatory"
+msgstr "WC"
+
+msgid "Veranda"
+msgstr "Veranda"
+
+msgid "Terrace"
+msgstr "Teras"
+
+msgid "Solarium"
+msgstr "Solaryum"
+
+msgid "Living room/dining area"
+msgstr "Oturma odası"
+
+msgid "Play room"
+msgstr "Oyun salonu"
+
+msgid "Dining room"
+msgstr "Yemek odası"
+
+msgid "Pool house"
+msgstr "Havuz evi"
+
+msgid "Not used"
+msgstr "Kullanılmayan"
+
+msgid "Loggia"
+msgstr "Loca"
+
+msgid "Attic"
+msgstr "Cati Kati"
+
+msgid "Mezzanine"
+msgstr "Asma kat"
+
+msgid "Pantry"
+msgstr "Bodrum Kati"
+
+msgid "Maintenance room"
+msgstr "Teknik Oda"
+
+msgid "Workshop"
+msgstr "Atölye"
+
+#, fuzzy
+msgid "Studio"
+msgstr ""
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Studio\n"
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Stüdyo"
+
+msgid "Loft"
+msgstr "Loft"
+
+msgid "Library"
+msgstr "Kütüphane"
+
+msgid "Closet"
+msgstr "Dolap"
+
+#, fuzzy
+msgid "Arcade"
+msgstr ""
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Avlu\n"
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Carsi"
+
+msgid "Landing"
+msgstr "Galeri"
+
+msgid "Linen room"
+msgstr "Kurutma"
+
+#, fuzzy
+msgid "Basement"
+msgstr ""
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Giris Kati\n"
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Bodrum"
+
+msgid "Bathroom / Lavatory"
+msgstr "Banyo / WC"
+
+msgid "Shower room / Lavatory"
+msgstr "Duş / WC"
+
+msgid "Balcony"
+msgstr "Balkon"
+
+msgid "Exercise room"
+msgstr "Spor salonu"
+
+msgid "Discothèque"
+msgstr "Disko"
+
+msgid "Home cinema"
+msgstr "Ev sineması"
+
+msgid "Reception room"
+msgstr "Resepsiyon / Giris"
+
+msgid "Warehouse"
+msgstr "Depo"
+
+msgid "Garden"
+msgstr "Bahçe"
+
+msgid "Park"
+msgstr "Park"
+
+#, fuzzy
+msgid "Land"
+msgstr ""
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Arsa\n"
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Zemin"
+
+msgid "Patio"
+msgstr "Avlu ici"
+
+msgid "Principal bedroom"
+msgstr "Ana yatak odası"
+
+msgid "Suite"
+msgstr "Süit"
+
+msgid "Apartment"
+msgstr "Daire"
+
+msgid "Cabin"
+msgstr "Kulübe"
+
+#, fuzzy
+msgid "Barn"
+msgstr ""
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Ahir / Tahil Ambari\n"
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Ambar / Ahir"
+
+msgid "Outbuilding"
+msgstr "Ek Bina"
+
+msgid "Bike storage room"
+msgstr "Bisiklet park yeri"
+
+msgid "Ski storage room"
+msgstr "Kayak odasi"
+
+msgid "Garbage room"
+msgstr "Çöp odasi"
+
+msgid "Steam room"
+msgstr "Hamam"
+
+msgid "Indoor swimming pool"
+msgstr "Kapalı yüzme havuzu"
+
+msgid "Prayer room"
+msgstr "Dua odasi"
+
+msgid "Sauna"
+msgstr "Sauna"
+
+msgid "Watchtower"
+msgstr "Gözetleme kulesi"
+
+msgid "Room"
+msgstr "Oda"
+
+msgid "Meeting room"
+msgstr "Toplantı Odası"
+
+msgid "Maid's room"
+msgstr "Oda Servisi"
+
+msgid "Maid's studio"
+msgstr "Hizmet Odasi"
+
+msgid "Double reception room"
+msgstr "Cifte Resepsiyon"
+
+msgid "Triple reception room"
+msgstr "Üclü Resepsiyon"
+
+msgid "Indoor parking"
+msgstr "Kapali Garaj"
+
+msgid "Outdoor parking"
+msgstr "Acik Parkyeri"
+
+msgid "Shop"
+msgstr "Isyeri"
+
+msgid "Cafeteria"
+msgstr "Kafeterya"
+
+#, fuzzy
+msgid "Unit"
+msgstr ""
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Bölüm\n"
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Birçok"
+
+msgid "Accommodation"
+msgstr "Konaklama"
+
+msgid "House"
+msgstr "Ev"
+
+msgid "Stair"
+msgstr "Merdivenler"
+
+msgid "Box"
+msgstr "Kutu"
+
+msgid "Single"
+msgstr "Tek"
+
+msgid "Twin"
+msgstr "Cift"
+
+msgid "Twin by garage"
+msgstr "Garaj Yani"
+
+msgid "Village house"
+msgstr "Köyevi"
+
+msgid "Twin by angle"
+msgstr "Köse Yani"
+
+msgid "Ranged"
+msgstr "Yan Yana"
+
+msgid "Standard"
+msgstr "Standart"
+
+msgid "Co-exclusive"
+msgstr "Ortak Exklusive"
+
+msgid "Exclusive"
+msgstr "Exclusive"
+
+msgid "Delegation"
+msgstr "Yetkilendirme"
+
+msgid "Exclusive agent"
+msgstr "Exclusive ajans"
+
+msgid "Colleague"
+msgstr "Meslektas"
+
+#, fuzzy
+msgid "Free"
+msgstr ""
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Serbest\n"
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Bedava"
+
+msgid "Rented"
+msgstr "Kiralanmış"
+
+msgid "Occupied"
+msgstr "Meşgul"
+
+msgid "To be agreed"
+msgstr "Karar verilmemis"
+
+#, fuzzy
+msgid "Building"
+msgstr ""
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Bina\n"
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Bina\n"
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Yapı Bina\n"
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Bina"
+
+#, fuzzy
+msgid "Residence"
+msgstr ""
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Konut\n"
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Rezidans"
+
+msgid "Housing scheme"
+msgstr "Toplu Yerlesim Alani"
+
+msgid "Hamlet"
+msgstr "Kücük Köy"
+
+msgid "Domain"
+msgstr "Domain"
+
+#, fuzzy
+msgid "Property"
+msgstr ""
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Mülk\n"
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Mülkiyet\n"
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Ürün"
+
+#, fuzzy
+msgid "Street"
+msgstr ""
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Cadde\n"
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Yol"
+
+msgid "Sale"
+msgstr "Satış"
+
+msgid "Rental"
+msgstr "Kira"
+
+msgid "Seasonal rental"
+msgstr "Sezonluk kira"
+
+msgid "Development"
+msgstr "Yeni inşaat"
+
+#, fuzzy
+msgid "Life annuity"
+msgstr ""
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Yaşam rant\n"
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Yasamboyu gelir\n"
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Life annuity"
+
+msgid "Auction"
+msgstr "Müzayede"
+
+msgid "Unit sale"
+msgstr "Tek satis"
+
+msgid "Bulk sale"
+msgstr "Toplu satis"
+
+msgid "Unfurnished"
+msgstr "Eşyasız"
+
+#, fuzzy
+msgid "Furnished"
+msgstr ""
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Eşyalı\n"
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Eşyalı\n"
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"mobilyali"
+
+msgid "Roommate"
+msgstr "Ev paylasim"
+
+msgid "Student"
+msgstr "ogrenci"
+
+msgid "Holidays"
+msgstr "Tatil evleri"
+
+#, fuzzy
+msgid "Event"
+msgstr ""
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"toplanti salonu\n"
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Salon"
+
+msgid "New construction"
+msgstr "Yeni proje"
+
+msgid "Life annuity occupied"
+msgstr "Yasamboyu isgal"
+
+msgid "Bare Ownership"
+msgstr "Çıplak Mülkiyet"
+
+msgid "Forward sale"
+msgstr "Ileri Satis"
+
+msgid "Life annuity semi-occupied"
+msgstr "Yaşam boyu yari gelir"
+
+msgid "Forward sale available"
+msgstr "Ileri satis bose"
+
+msgid "Forward sale semi-occupied"
+msgstr "Ileri satis yari bos"
+
+msgid "Forward sale occupied"
+msgstr "Ileri satis dolu"
+
+msgid "Life annuity without income"
+msgstr "Emeklilik olmadan gelir"
+
+msgid "Requires updating"
+msgstr "Yenileme Gerekli"
+
+msgid "Good condition"
+msgstr "Iyi durumda"
+
+msgid "Requires renovation"
+msgstr "Restore edilmesi gerekli"
+
+msgid "Excellent condition"
+msgstr "Mükemmel bir durumda"
+
+msgid "Ground floor"
+msgstr "Zemin kat"
+
+msgid "Top floor"
+msgstr "En üst kat"
+
+msgid "1st"
+msgstr "1"
+
+msgid "2nd"
+msgstr "2."
+
+msgid "3rd"
+msgstr "3."
+
+msgid "4th"
+msgstr "4."
+
+msgid "5th"
+msgstr "5."
+
+msgid "6th"
+msgstr "6."
+
+msgid "7th"
+msgstr "7."
+
+msgid "8th"
+msgstr "8."
+
+msgid "9th"
+msgstr "9."
+
+msgid "10th"
+msgstr "10."
+
+msgid "11th"
+msgstr "11."
+
+msgid "12th"
+msgstr "12."
+
+msgid "13th"
+msgstr "13."
+
+msgid "14th"
+msgstr "14."
+
+msgid "15th"
+msgstr "15."
+
+msgid "16th"
+msgstr "16."
+
+msgid "17th"
+msgstr "17."
+
+msgid "18th"
+msgstr "18."
+
+msgid "19th"
+msgstr "19."
+
+msgid "20th"
+msgstr "20."
+
+msgid "Garden level"
+msgstr "Bahçe kati"
+
+msgid "Split-level"
+msgstr "Yarı bodrum"
+
+msgid "-1"
+msgstr "-1"
+
+msgid "-2"
+msgstr "-2"
+
+msgid "-3"
+msgstr "-3"
+
+msgid "-4"
+msgstr "-4"
+
+msgid "Single-storey"
+msgstr "Tek seviye"
+
+msgid "21st"
+msgstr "21."
+
+msgid "22nd"
+msgstr "22."
+
+msgid "23rd"
+msgstr "23."
+
+msgid "24th"
+msgstr "24."
+
+msgid "25th"
+msgstr "25."
+
+msgid "26th"
+msgstr "26."
+
+msgid "27th"
+msgstr "27."
+
+msgid "28th"
+msgstr "28."
+
+msgid "29th"
+msgstr "29."
+
+msgid "30th"
+msgstr "30."
+
+msgid "31st"
+msgstr "31."
+
+msgid "32nd"
+msgstr "32."
+
+msgid "33rd"
+msgstr "33."
+
+msgid "34th"
+msgstr "34."
+
+msgid "35th"
+msgstr "35."
+
+msgid "36th"
+msgstr "36."
+
+msgid "37th"
+msgstr "37."
+
+msgid "38th"
+msgstr "38."
+
+msgid "39th"
+msgstr "39."
+
+msgid "40th"
+msgstr "40."
+
+msgid "-5"
+msgstr "-5"
+
+msgid "-6"
+msgstr "-6"
+
+msgid "-7"
+msgstr "-7"
+
+msgid "-8"
+msgstr "-8"
+
+msgid "-9"
+msgstr "-9"
+
+msgid "-10"
+msgstr "-10"
+
+msgid "41st"
+msgstr "41"
+
+msgid "42nd"
+msgstr "42"
+
+msgid "43rd"
+msgstr "43"
+
+msgid "44th"
+msgstr "44"
+
+msgid "45th"
+msgstr "45"
+
+msgid "46th"
+msgstr "46"
+
+msgid "47th"
+msgstr "47"
+
+msgid "48th"
+msgstr "48"
+
+msgid "49th"
+msgstr "49"
+
+msgid "50th"
+msgstr "50"
+
+msgid "51st"
+msgstr "51"
+
+msgid "52nd"
+msgstr "52"
+
+msgid "53rd"
+msgstr "53"
+
+msgid "54th"
+msgstr "54"
+
+msgid "55th"
+msgstr "55"
+
+msgid "56th"
+msgstr "56"
+
+msgid "57th"
+msgstr "57"
+
+msgid "58th"
+msgstr "58"
+
+msgid "59th"
+msgstr "59"
+
+msgid "60th"
+msgstr "60"
+
+msgid "Wooden floor"
+msgstr "Parke"
+
+msgid "Tile"
+msgstr "Seramik"
+
+msgid "Carpet"
+msgstr "Halı kaplama"
+
+msgid "Concrete"
+msgstr "Çimento"
+
+msgid "Natural fiber"
+msgstr "Fiber"
+
+msgid "Coco"
+msgstr "Hindistan cevizi"
+
+msgid "Travertine"
+msgstr "Traverten"
+
+msgid "Marble"
+msgstr "Mermer"
+
+msgid "Granite"
+msgstr "Granit"
+
+msgid "Terracotta tile"
+msgstr "Terra kotta"
+
+msgid "Teak"
+msgstr "Teck"
+
+msgid "Mosaïc"
+msgstr "Mozaik"
+
+msgid "Clay"
+msgstr "Kil"
+
+msgid "Stone"
+msgstr "Taş"
+
+msgid "Laminate"
+msgstr "Laminat parke"
+
+msgid "Vinyl composition tile"
+msgstr "Vnil PVC"
+
+msgid "Convector"
+msgstr "Konvektör"
+
+msgid "Underfloor"
+msgstr "Yerde"
+
+msgid "Radiator"
+msgstr "Kalorifer"
+
+#, fuzzy
+msgid "Stove"
+msgstr ""
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Soba\n"
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Firin soba"
+
+msgid "Air-conditioning"
+msgstr "Klima"
+
+msgid "Central"
+msgstr "Merkezi"
+
+msgid "Without"
+msgstr "Isıtmasız"
+
+msgid "Fireplace"
+msgstr "Şömine"
+
+#, fuzzy
+msgid "Individual"
+msgstr ""
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Özerk\n"
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Özel"
+
+msgid "Common"
+msgstr "Toplu"
+
+msgid "Mixed"
+msgstr "Karışık"
+
+msgid "District heating"
+msgstr "Bölgesel ısıtma sistemi"
+
+msgid "Gas"
+msgstr "Gaz"
+
+msgid "Fuel oil"
+msgstr "Fuel oil"
+
+msgid "Electric"
+msgstr "Elektrik"
+
+msgid "Wood"
+msgstr "Ahşap"
+
+msgid "Solar"
+msgstr "Güneş"
+
+msgid "Charcoal"
+msgstr "Kömür"
+
+msgid "Heat pump"
+msgstr "Isı pompası"
+
+msgid "Geothermal"
+msgstr "Jeotermal"
+
+msgid "Wood pellet"
+msgstr "Peletler"
+
+#, fuzzy
+msgid "Hot water"
+msgstr ""
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Sicak su\n"
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Sıcak su"
+
+msgid "Hot water tank"
+msgstr "Su ısıtıcı"
+
+msgid "Boiler"
+msgstr "Kazan"
+
+msgid "Collective"
+msgstr "Kolektif"
+
+msgid "Flat"
+msgstr "Düz"
+
+msgid "Dry-stone wall terraces"
+msgstr "Teras manzara"
+
+msgid "Steep"
+msgstr "Dik"
+
+msgid "Wooded"
+msgstr "Agaclik"
+
+msgid "Meadow"
+msgstr "Cimen"
+
+msgid "Term lease"
+msgstr "Vadeli kira"
+
+msgid "Long-Term"
+msgstr "Uzun vadede"
+
+msgid "Long-Term - Single activity"
+msgstr "Uzun vadede - Spesifik aktivite"
+
+msgid "Long-Term - All activities"
+msgstr "Uzun vadede - Herhangi bir faaliyet"
+
+msgid "Seaside"
+msgstr "Sahil"
+
+msgid "Village"
+msgstr "Köy"
+
+msgid "Old town"
+msgstr "Eski sehir"
+
+msgid "Precinct"
+msgstr "Yaya bölgesi"
+
+#, fuzzy
+msgid "Ski slope"
+msgstr ""
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Kayak pisti\n"
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Kayak"
+
+msgid "Town center"
+msgstr "Şehir merkezi"
+
+msgid "Industrial estate"
+msgstr "Sanayi bölgesi"
+
+msgid "Shopping center"
+msgstr "Alışveriş merkezi"
+
+msgid "Business park"
+msgstr "Ticari Bölge"
+
+msgid "Airport area"
+msgstr "Havaalani"
+
+msgid "Science park"
+msgstr "Teknoloji Parkı"
+
+msgid "Waterfront"
+msgstr "Liman bölgesi"
+
+msgid "Outskirts"
+msgstr "Çevre"
+
+#, fuzzy
+msgid "Hills"
+msgstr ""
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Tepe\n"
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Tepeler"
+
+#, fuzzy
+msgid "Countryside"
+msgstr ""
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Kırsal bölge\n"
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Country köy"
+
+msgid "Suburb"
+msgstr "Banliyö"
+
+msgid "East"
+msgstr "Doğu"
+
+msgid "North"
+msgstr "Kuzey"
+
+msgid "West"
+msgstr "Batı"
+
+msgid "South"
+msgstr "Güney"
+
+msgid "Day"
+msgstr "Gün"
+
+msgid "Week"
+msgstr "Hafta"
+
+msgid "Fortnight"
+msgstr "Iki hafta"
+
+msgid "Month"
+msgstr "Ay"
+
+msgid "Quarterly"
+msgstr "Üç aylık"
+
+msgid "Bimonthly"
+msgstr "Ayda 2 defa"
+
+msgid "Half-yearly"
+msgstr "Alti aylik"
+
+msgid "Yearly"
+msgstr "Yillik"
+
+msgid "Bus"
+msgstr "Otobüs"
+
+msgid "Bus hub"
+msgstr "Otobüs durağı"
+
+msgid "Metro"
+msgstr "Metro"
+
+msgid "Shops"
+msgstr "Mağazalar"
+
+msgid "Primary school"
+msgstr "Ilkokul"
+
+msgid "Town centre"
+msgstr "Merkezi"
+
+msgid "Hospital/clinic"
+msgstr "Hastane/Klinik"
+
+msgid "Doctor"
+msgstr "Doktor"
+
+msgid "Tram"
+msgstr "Tramvay"
+
+msgid "Train station"
+msgstr "Istasyon"
+
+msgid "Public parking"
+msgstr "Park yeri"
+
+msgid "Supermarket"
+msgstr "Süpermarket"
+
+msgid "Sea port"
+msgstr "Liman"
+
+msgid "Nursery"
+msgstr "Cocuk Yuvasi"
+
+msgid "Public pool"
+msgstr "Yüzme havuzu"
+
+msgid "Tennis"
+msgstr "Tenis"
+
+msgid "Golf"
+msgstr "Golf"
+
+msgid "Movies"
+msgstr "Sinema"
+
+msgid "Secondary school"
+msgstr "Ortaokul"
+
+msgid "Sport center"
+msgstr "Spor Merkezi"
+
+msgid "Airport"
+msgstr "Havaalanı"
+
+msgid "Sea"
+msgstr "Deniz"
+
+msgid "TGV station"
+msgstr "TGV istasyonu"
+
+msgid "Highway"
+msgstr "Otoban"
+
+msgid "University"
+msgstr "Üniversite"
+
+msgid "Convention center"
+msgstr "Kongre Merkezi"
+
+msgid "Lake"
+msgstr "Göl"
+
+msgid "Energy - Conventional consumption"
+msgstr "Enerji - Konvansiyonel tüketimi"
+
+msgid "Energy - Emissions estimate"
+msgstr "Enerji - Tahmini emisyonları"
+
+msgid "« Carrez » act"
+msgstr "Kanun « Carrez »"
+
+msgid "ERP"
+msgstr "ERP"
+
+msgid "Termites"
+msgstr "Termitler"
+
+msgid "Asbestos"
+msgstr "Asbest amyant"
+
+#, fuzzy
+msgid "Lead"
+msgstr ""
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Kursun\n"
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Kursun\n"
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Potansiyeli yüksek temas"
+
+msgid "Electricity"
+msgstr "Elektrik"
+
+msgid "Boutin act"
+msgstr "Kanun Boutin"
+
+msgid "Sanitation"
+msgstr "Hijiyen"
+
+msgid "EPI (Non renewable)"
+msgstr "Enerji Performans Endeksi (EPI)"
+
+msgid "APE"
+msgstr "Enerji Sertifika Belgesi (ACE)"
+
+msgid "Request for nomination of an ad hoc agent"
+msgstr "Özel bir temsilci tayin talep"
+
+msgid "Request for nomination of a temporary administrator"
+msgstr "İstek randevu geçici yönetici"
+
+msgid "Request for expert nomination"
+msgstr "Uzman atama talebi (ler)"
+
+msgid "Fire safety regulations"
+msgstr "Yangın emniyeti için standartlar"
+
+msgid "Accessibility standards for people with disabilities"
+msgstr "Engelli erişimi Standartlar"
+
+msgid "Sanitary authorization"
+msgstr "Sihhi onay"
+
+msgid "Energy consumption"
+msgstr "Enerji Tüketimi"
+
+msgid "Housing tax"
+msgstr "Yerel vergi"
+
+msgid "Land charges"
+msgstr "Temel maliyetler"
+
+msgid "Residents only"
+msgstr "Sakinleri için rezerve"
+
+msgid "Minergie"
+msgstr "Minergie"
+
+msgid "Volume"
+msgstr "Kullanilabilir alan"
+
+msgid "Useful surface"
+msgstr "Hacim"
+
+msgid "Co-Ownership property"
+msgstr "Kat daire sayisi"
+
+msgid "Communal tax rate"
+msgstr "Belediye vergi oranı"
+
+msgid "Land register extract number"
+msgstr "Tapu Kayıt"
+
+msgid "Droit de superficie"
+msgstr "Hasılat kirası"
+
+msgid "Millièmes"
+msgstr "Binde"
+
+msgid "Current renovation fund"
+msgstr "Güncel Yenileme Fonu"
+
+msgid "Plot division / Demarcation"
+msgstr "parsel bölümü"
+
+msgid "Board of directors / supervisory deliberation"
+msgstr "Yönetim kurulu / denetim kurulu"
+
+msgid "Certificate of compliance"
+msgstr "Uygunluk belgesi"
+
+msgid "Energy class"
+msgstr "Enerji Performansı Teşhisi"
+
+msgid "Thermal insulation class"
+msgstr "Isı yalıtım sınıfı"
+
+msgid "Energy passport"
+msgstr "ecopass"
+
+msgid "Energy certificate"
+msgstr "Enerji sertifikası"
+
+msgid "Energy consumption / Final energy requirement"
+msgstr "Enerji tüketimi / Endenergiebedarf"
+
+msgid "Energy efficiency class"
+msgstr "Enerji performans sınıfı"
+
+msgid "Year of construction according to certificate"
+msgstr "Sertifikaya göre yapım yılı"
+
+msgid "Energy consumption : Hot water included"
+msgstr "Sıcak su dahil"
+
+msgid "Emissions estimate"
+msgstr "Tahmini emisyonları"
+
+msgid "Rental value"
+msgstr "kira değeri"
+
+#, fuzzy
+msgid "Turnover"
+msgstr ""
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Ciro\n"
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Iş cirosu"
+
+msgid "Net income"
+msgstr "Net gelir"
+
+msgid "Gross operating profit"
+msgstr "Vergi öncesi gelir"
+
+msgid "Personnel costs"
+msgstr "Maaslar"
+
+msgid "Cash flow"
+msgstr "Gelir akisi"
+
+msgid "Shareholders’equity"
+msgstr "Öz kaynak"
+
+msgid "Net debt"
+msgstr "Net borc"
+
+msgid "Internet"
+msgstr "Internet"
+
+msgid "Disabled access"
+msgstr "Engelli erişimi"
+
+msgid "Alarm system"
+msgstr "Alarm"
+
+msgid "Lift"
+msgstr "Asansör"
+
+msgid "Double glazing"
+msgstr "Çift cam"
+
+msgid "Intercom"
+msgstr "Interkom"
+
+msgid "TV distribution"
+msgstr "Kablo TV"
+
+#, fuzzy
+msgid "Swimming pool"
+msgstr ""
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Yüzme havuzu\n"
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Havuz\n"
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Yüzme havuzu"
+
+msgid "Security door"
+msgstr "Celik kapı"
+
+msgid "Tennis court"
+msgstr "Tenis"
+
+msgid "Irrigation sprinkler"
+msgstr "Otomatik sulama"
+
+msgid "Barbecue"
+msgstr "Barbekü"
+
+msgid "Electric gate"
+msgstr "Elektrik geçidi"
+
+msgid "Crawl space"
+msgstr "Tarama"
+
+msgid "Car port"
+msgstr "Açık otopark"
+
+msgid "Caretaker house"
+msgstr "Bekçi Evi"
+
+msgid "Sliding windows"
+msgstr "Pencere"
+
+msgid "Central vacuum system"
+msgstr "Merkez vakum"
+
+msgid "Electric shutters"
+msgstr "Elektrikli panjur"
+
+msgid "Window shade"
+msgstr "Mağazalar"
+
+msgid "Electric awnings"
+msgstr "Elektrikli jaluzi"
+
+msgid "Washing machine"
+msgstr "Çamaşır makinası"
+
+msgid "Jacuzzi"
+msgstr "Jakuzi"
+
+msgid "Whirlpool tub"
+msgstr "Balneoterapi küvet"
+
+msgid "Well"
+msgstr "Pozzi"
+
+msgid "Spring"
+msgstr "Kaynak"
+
+msgid "Engine generator"
+msgstr "Jeneratör"
+
+msgid "Dishwasher"
+msgstr "Bulaşık makinesi"
+
+msgid "Hob"
+msgstr "Set üstü ocak"
+
+msgid "Safe"
+msgstr "Güvenlik kasasi"
+
+msgid "Helipad"
+msgstr "Heliport"
+
+msgid "Videophone"
+msgstr "Görüntülü Diafon"
+
+msgid "Video security"
+msgstr "Video gözetimi"
+
+msgid "Iron"
+msgstr "Ütü"
+
+msgid "Hair dryer"
+msgstr "Saç kurutma makinesi"
+
+msgid "Television"
+msgstr "Televizyon"
+
+msgid "DVD Player"
+msgstr "DVD oynatıcı"
+
+msgid "CD Player"
+msgstr "CD çalar"
+
+msgid "Outdoor lighting"
+msgstr "Dış Aydınlatma"
+
+msgid "Spa"
+msgstr "Spa"
+
+msgid "Home automation"
+msgstr "Ev otomasyonu"
+
+msgid "Linens"
+msgstr "Çamaşır"
+
+msgid "Tableware"
+msgstr "Bulasik"
+
+msgid "Clothes dryer"
+msgstr "Kurutucu"
+
+msgid "Refrigerator"
+msgstr "Buzdolabi"
+
+msgid "Oven"
+msgstr "Firin"
+
+msgid "Reception 24/7"
+msgstr "Resepsiyon 7/24"
+
+msgid "Coffeemaker"
+msgstr "Kafe makinasi"
+
+msgid "Microwave oven"
+msgstr "Mikrodalga"
+
+msgid "Shabbat elevator"
+msgstr "Şabat Lift"
+
+msgid "Sukkah"
+msgstr "Çardak"
+
+msgid "Synagogue"
+msgstr "Sinagog"
+
+msgid "Digicode"
+msgstr "Dijtal Kod"
+
+msgid "Common laundry"
+msgstr "Ortak Camasir Odasi"
+
+msgid "Pets allowed"
+msgstr "Evcil hayvan kabul"
+
+msgid "Metal shutters"
+msgstr "Metal panjurlar"
+
+msgid "Wiring closet"
+msgstr "Kablolama dolabi"
+
+msgid "Computer network"
+msgstr "Bilgisayar Agi"
+
+msgid "Dropped ceiling"
+msgstr "Asma tavan"
+
+msgid "Fire hose cabinets"
+msgstr "Yangın hortumu"
+
+msgid "Fire sprinkler system"
+msgstr "Yağmurlama sistemi"
+
+msgid "Wharf"
+msgstr "Rıhtım"
+
+msgid "Connected thermostat"
+msgstr "Bağlı termostat"
+
+msgid "Bowling game"
+msgstr "Çim topu"
+
+msgid "Water softener"
+msgstr "Su yumuşatma"
+
+msgid "Optical fiber"
+msgstr "Fiberoptik"
+
+msgid "Playground"
+msgstr "Oyun alanı"
+
+msgid "Solar panels"
+msgstr "Güneş paneli"
+
+msgid "Berth"
+msgstr "Liman"
+
+msgid "Supplies"
+msgstr "Ekipman"
+
+msgid "Outdoor spaces"
+msgstr "Acik alanlar"
+
+msgid "Rental supplies"
+msgstr "Sezonluk donanim"
+
+msgid "Security"
+msgstr "Güvenlik"
+
+msgid "Professional supplies"
+msgstr "Profesyonel tesisler"
+
+msgid "High standard"
+msgstr "Prestige"
+
+msgid "Luxury"
+msgstr "Lüks"
+
+msgid "High luxury"
+msgstr "Süper lüks"
+
+#, fuzzy
+msgid "Housing estate"
+msgstr ""
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Konut Kompleksi\n"
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Kat mülkiyeti"
+
+msgid "Regular"
+msgstr "Normal"
+
+#, fuzzy
+msgid "In progress"
+msgstr ""
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Yayinda\n"
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Yayinda\n"
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Devam"
+
+msgid "Standby"
+msgstr "Beklemede"
+
+msgid "Deleted"
+msgstr "Silindi"
+
+msgid "Waiting for agreement"
+msgstr "Anlaşma belgesi bekleniyor"
+
+msgid "Agreement ended"
+msgstr "Anlaşma sona erdi"
+
+msgid "Offer"
+msgstr "Teklif"
+
+msgid "Processing sale"
+msgstr "Isleme satisi"
+
+msgid "Waiting for contract"
+msgstr "Tapuda imza bekleniyor"
+
+msgid "Pending approval"
+msgstr "Tasdik beklemek"
+
+msgid "Sell/Rent by agent"
+msgstr "Satılmış/ajansı tarafından kiralanan"
+
+msgid "Sell/Rent by owner"
+msgstr "Satılmış/Sahibi tarafından kiralanmış"
+
+msgid "Sell/Rent by other agent"
+msgstr "Satılmış/Bir meslektaşım kiralamış"
+
+msgid "Removed by agent"
+msgstr "Ajans tarafından geri çekilmiştir"
+
+msgid "Removed by owner"
+msgstr "Sahibinden geri çekildi"
+
+msgid "Sale/Rental cancelled"
+msgstr "Satış/Kira iptal"
+
+msgid "Delete this property"
+msgstr "Bu kart yok et sil"
+
+#, fuzzy
+msgid "Business"
+msgstr ""
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Dükkan\n"
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Isyeri\n"
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"İş"
+
+msgid "Garage/Parking"
+msgstr "Garaj / Otopark"
+
+msgid "Office"
+msgstr "Ofis"
+
+msgid "Boat"
+msgstr "Tekne"
+
+msgid "Cellar / Box"
+msgstr "Kiler / Kutu"
+
+msgid "Triplex"
+msgstr "Tripleks"
+
+msgid "Building land"
+msgstr "Arazi"
+
+msgid "Not constructible land"
+msgstr "Insaata yasak arazi"
+
+msgid "Penthouse"
+msgstr "Penthouse"
+
+msgid "Castle"
+msgstr "Saray"
+
+msgid "Duplex"
+msgstr "Dubleks"
+
+msgid "Manor house"
+msgstr "Malikane"
+
+msgid "Agricultural exploitation"
+msgstr "Çiftlik"
+
+msgid "Farmhouse"
+msgstr "Köy evi"
+
+msgid "Villa"
+msgstr "Villa"
+
+msgid "Apartment villa"
+msgstr "Daire villa"
+
+msgid "Ruin"
+msgstr "Harabe"
+
+msgid "Mill"
+msgstr "Değirmen"
+
+msgid "Carpark"
+msgstr "Garaj"
+
+msgid "Townhouse"
+msgstr "Şehir evi"
+
+msgid "Mobile home"
+msgstr "Mobil ev"
+
+msgid "Cottage"
+msgstr "Kulübe"
+
+msgid "Hangar"
+msgstr "Hangar"
+
+msgid "Local"
+msgstr "Yerel"
+
+msgid "Chalet"
+msgstr "Dağ evi"
+
+msgid "Retail space"
+msgstr "Tesisler"
+
+msgid "Business assets"
+msgstr "İş varlıkları"
+
+msgid "Right to the lease"
+msgstr "Kira hakları"
+
+msgid "Mansion"
+msgstr "Konak"
+
+msgid "Management"
+msgstr "Yönetim"
+
+msgid "Woodshed"
+msgstr "Odunluk"
+
+msgid "Stud farm"
+msgstr "Atlar için ciftlik"
+
+msgid "Plot of land"
+msgstr "Arsa"
+
+msgid "Bastide"
+msgstr "Kirevi"
+
+msgid "Bastidon"
+msgstr "Kücük Kirevi"
+
+msgid "Company"
+msgstr "Şirket"
+
+msgid "Vineyard property"
+msgstr "Şarap baği"
+
+msgid "Motor Yacht"
+msgstr "Yat"
+
+msgid "Narrow boat"
+msgstr "Kanal teknesi"
+
+msgid "Sailing Yacht"
+msgstr "Yelkenli yat"
+
+msgid "Catamaran"
+msgstr "Katamaran"
+
+msgid "Equestrian estate"
+msgstr "Ata binme"
+
+msgid "Bed and breakfast"
+msgstr "Pansiyon"
+
+msgid "Gîte"
+msgstr "Gîte"
+
+msgid "Riad"
+msgstr "Riad"
+
+msgid "Retail shop"
+msgstr "Perakende"
+
+msgid "Serviced apartment"
+msgstr "Apart otel"
+
+msgid "Twin Villa"
+msgstr "ikiz villa"
+
+msgid "Flat House"
+msgstr "Bir katta ev"
+
+msgid "Semi-detached house"
+msgstr "Yarı müstakil ev"
+
+msgid "Bungalow"
+msgstr "Bungalo"
+
+msgid "Beach house"
+msgstr "plaj üstü ev"
+
+msgid "Ger district"
+msgstr "Genel merkez"
+
+msgid "Summer house"
+msgstr "Yazlik ev"
+
+msgid "Private island"
+msgstr "özel ada"
+
+msgid "Residential land"
+msgstr "Konut arsası"
+
+msgid "Commercial land"
+msgstr "ticari arazi"
+
+msgid "Subdivision"
+msgstr "lotissement"
+
+msgid "Waterside mansion"
+msgstr "Yalı"
+
+msgid "Mountains"
+msgstr "Dağlar"
+
+msgid "Greenery"
+msgstr "Yeşillik"
+
+msgid "Monument"
+msgstr "monumente"
+
+msgid "Forest"
+msgstr "Orman"
+
+msgid "River"
+msgstr "Nehir"
+
+msgid "City"
+msgstr "Şehir"
+
+msgid "Sky"
+msgstr "Gökyüzü"
+
+msgid "Courtyard"
+msgstr "Avlu"
+
+msgid "Harbor"
+msgstr "Liman"
+
+msgid "Ski slopes"
+msgstr "Kayak pisti"
+
+msgid "Obstructed"
+msgstr "Önü kapalı"
+
+msgid "Slight"
+msgstr "Az manzarali"
+
+msgid "Unobstructed"
+msgstr "Açık sehir"
+
+msgid "Panoramic"
+msgstr "Manzarali"
+
+msgid "Septic tank"
+msgstr "Foseptik"
+
+msgid "Main drainage"
+msgstr "Kanalizasyon"
+
+msgid "Treatment plant"
+msgstr "Atık Su Arıtma Tesisi"
+
+msgid "Estate agent"
+msgstr "Emlakci"
+
+msgid "Phoning"
+msgstr "Arama"
+
+msgid "Collaboration"
+msgstr "Isbirligi"
+
+#, fuzzy
+msgid "Advertising"
+msgstr ""
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Gazete\n"
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Reklam"
+
+#, fuzzy
+msgid "Provider"
+msgstr ""
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Is saglayan\n"
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Tedarikçi"
+
+msgid "Renown"
+msgstr "Bilinirlik"
+
+msgid "Walk-in / Window"
+msgstr "Vitrin"
+
+#, fuzzy
+msgid "Network"
+msgstr ""
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Iliski\n"
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Grup"
+
+msgid "Flyer"
+msgstr "Brosur"
+
+msgid "Sign"
+msgstr "Levha"
+
+msgid "Magazine"
+msgstr "Dergi"
+
+#, fuzzy
+msgid "Mailing"
+msgstr ""
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Mail gönderimi\n"
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Posta"
+
+#, fuzzy
+msgid "e-mailing"
+msgstr ""
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"E-mail gönderimi\n"
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"E-posta"
+
+msgid "Old client"
+msgstr "Eski müsteri"
+
+msgid "Appraisal"
+msgstr "Tahmini"
+
+msgid "Selection / Favorite"
+msgstr "Seçim/kalp çalan"
+
+msgid "Main residence"
+msgstr "Ana konut"
+
+msgid "Secondary residence"
+msgstr "Ikinci hane"
+
+msgid "Student residence"
+msgstr "Ögrenci yeri"
+
+msgid "Tourism residence"
+msgstr "Yazlık ev"
+
+msgid "Seniors residence"
+msgstr "Yaşlı evi"
+
+msgid "Reduced fees"
+msgstr "Azaltılmış noter ücretleri"
+
+msgid "Rental investment"
+msgstr "Kiralık yatırım"
+
+msgid "m²"
+msgstr "m²"
+
+msgid "sq ft"
+msgstr "ft²"
+
+msgid "sq yd"
+msgstr "yd²"
+
+msgid "ha"
+msgstr "ha"
+
+msgid "minute"
+msgstr "dakika"
+
+msgid "metre"
+msgstr "metre"
+
+msgid "km"
+msgstr "km"
+
+msgid "Administrator"
+msgstr "Yönetici"
+
+msgid "Company manager"
+msgstr "Genel Müdür"
+
+msgid "Agency manager"
+msgstr "Müdür"
+
+msgid "Secretariat"
+msgstr "Sekreter"
+
+#, fuzzy
+msgid "Agent"
+msgstr ""
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Satis Temsilcisi\n"
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Ajan"
+
+msgid "Intern"
+msgstr "Stajyer"
+
+#, fuzzy
+msgid "User"
+msgstr ""
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Kullanici\n"
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Kullanıcı"
+
+msgid "Franchisor"
+msgstr "Franchise Sahibi"
+
+msgid "Translator"
+msgstr "Tercüman"
+
+msgid "Plan"
+msgstr "Planimetri"
+
+msgid "Picture"
+msgstr "Resim"
+
+msgid "Pet"
+msgstr "Hayvan"
+
+msgid "Natural light"
+msgstr "Dogal isik"
+
+msgid "Kitchen island"
+msgstr "Adali mutfak"
+
+msgid "Kitchen bar"
+msgstr "Bar"
+
+msgid "High ceiling"
+msgstr "Yüksek tavanli"
+
+msgid "Skylight"
+msgstr "Velux"
+
+msgid "Exposed bricks"
+msgstr "Tugla duvar"
+
+msgid "Ceiling fan"
+msgstr "Tavan fani"
+
+msgid "Chandelier"
+msgstr "Avize"
+
+msgid "Stainless steel"
+msgstr "Paslanmaz çelik"
+
+msgid "Price on request"
+msgstr "Talep üzerine fiyat"
+
+msgid "Currency"
+msgstr "Değer"
+
+msgid "Price"
+msgstr "Fiyat"
+
+msgid "Type"
+msgstr "Tip"
+
+msgid "Cities"
+msgstr "Ortak kullanilan bölgeler"
+
+msgid "Rooms"
+msgstr "Odalar"
+
+msgid "Send"
+msgstr "Gönder"
+
+msgid "Messages"
+msgstr "Mesaj"
+
+msgid "Lastname"
+msgstr "Soyadi"
+
+msgid "Firstname"
+msgstr "Isim"
+
+msgid "Reference"
+msgstr "Referans"
+
+msgid "Ref"
+msgstr "Ref"
+
+msgid "%s room"
+msgstr "%s oda"
+
+msgid "%s rooms"
+msgstr "%s odalar"
+
+msgid "Folder"
+msgstr "Dossier"
+
+msgid "No matches found"
+msgstr "Sonuc yok"
+
+msgid "Please enter one more character"
+msgstr "Bir karakter girin ek"
+
+msgid "Duplicate"
+msgstr "Kopyala"
+
+msgid "Backup"
+msgstr "Yedekleme"
+
+msgid "Rate"
+msgstr "Taksit"
+
+msgid "Sender"
+msgstr "Gönderen"
+
+msgid "Buyer"
+msgstr "Alici"
+
+msgid "Subject"
+msgstr "Konu"
+
+msgid "Attachment"
+msgstr "Ek"
+
+msgid "Key"
+msgstr "Anahtar"
+
+msgid "Document"
+msgstr "Belgeler"
+
+msgid "Name"
+msgstr "Ad"
+
+msgid "Back"
+msgstr "Geri"
+
+msgid "Help"
+msgstr "Yardim"
+
+msgid "Read more"
+msgstr "Okunacak devami var"
+
+msgid "Area"
+msgstr "Alan"
+
+msgid "Areas"
+msgstr "Yüzeyler"
+
+msgid "Length"
+msgstr "Uzunluk"
+
+msgid "Height"
+msgstr "Yükseklik"
+
+msgid "Width"
+msgstr "Genişlik"
+
+msgid "Deposit"
+msgstr "Deposit"
+
+msgid "Agreement reference"
+msgstr "Referans yetki"
+
+msgid "Agreement start at"
+msgstr "Sözleşmesinin başlama tarihi"
+
+msgid "Agreement end at"
+msgstr "Sözleşmesinin bitiş tarihi"
+
+msgid "Website"
+msgstr "Web sitesi"
+
+msgid "Proximity"
+msgstr "Yakınlık"
+
+msgid "Proximities"
+msgstr "Yakınlarında"
+
+msgid "Loading"
+msgstr "Yükleme"
+
+msgid "Log out"
+msgstr "Çıkış yap"
+
+msgid "Availability"
+msgstr "Kullanılabilirlik durumu"
+
+msgid "Total area"
+msgstr "Toplam alan"
+
+msgid "Living area"
+msgstr "Oturma Alanı"
+
+msgid "Password forgotten"
+msgstr "Şifre unutuldu"
+
+msgid "Password"
+msgstr "Şifre"
+
+msgid "Username"
+msgstr "Kullanıcı Adı"
+
+msgid "Welcome %s"
+msgstr "Hoşgeldiniz %s"
+
+msgid "Phone call"
+msgstr "Arama"
+
+msgid "Add"
+msgstr "Ekle"
+
+msgid "Show"
+msgstr "Göster"
+
+msgid "List"
+msgstr "Liste"
+
+msgid "Tools"
+msgstr "Araçlar"
+
+msgid "Market"
+msgstr "Pazar"
+
+msgid "Agency"
+msgstr "Ajans"
+
+msgid "Calendar"
+msgstr "Takvim"
+
+msgid "Homepage"
+msgstr "Anasayfa"
+
+msgid "Map"
+msgstr "Harita"
+
+msgid "Value"
+msgstr "Deger"
+
+msgid "Users"
+msgstr "Kullanıcılar"
+
+msgid "Sectors"
+msgstr "Sektörler"
+
+msgid "Sector"
+msgstr "Sektör"
+
+msgid "Contacts"
+msgstr "Kontaklar"
+
+msgid "%s contact"
+msgstr "%s iletisim"
+
+msgid "%s contacts"
+msgstr "%s iletisimler"
+
+msgid "Settings"
+msgstr "Ayarlar"
+
+msgid "General"
+msgstr "Genel"
+
+msgid "Heating"
+msgstr "Isıtma"
+
+msgid "Waste water"
+msgstr "Atık su"
+
+msgid "Latest"
+msgstr "Yeni"
+
+msgid "Country"
+msgstr "Ülke"
+
+msgid "Escrow deposit"
+msgstr "Depo"
+
+msgid "Lessor"
+msgstr "Sahibi"
+
+msgid "Orientation"
+msgstr "Yönü"
+
+msgid "View"
+msgstr "Görünüm"
+
+msgid "District"
+msgstr "Semt"
+
+msgid "Fields"
+msgstr "Alanlar"
+
+msgid "Hook"
+msgstr "Kanca"
+
+msgid "Comment"
+msgstr "Yorum"
+
+msgid "Buy"
+msgstr "Satin almak"
+
+msgid "Rent"
+msgstr "Kiralamak"
+
+msgid "Commercial"
+msgstr "Is yeri"
+
+msgid "About us"
+msgstr "Daha fazla bilgi"
+
+msgid "Services"
+msgstr "Hizmetler"
+
+msgid "News"
+msgstr "Haberler"
+
+msgid "Contact us"
+msgstr "Bizimle baglantiya gecin"
+
+msgid "Print"
+msgstr "Yazdır"
+
+msgid "Add to cart"
+msgstr "Sepete ekle"
+
+msgid "Replace in cart"
+msgstr "Sepetimi  değiştir"
+
+msgid "Category"
+msgstr "Kategori"
+
+msgid "History"
+msgstr "Geçmiş"
+
+msgid "Details"
+msgstr "Detaylar"
+
+msgid "Date"
+msgstr "Tarih"
+
+msgid "Previous"
+msgstr "Önceki"
+
+msgid "Next"
+msgstr "Sonraki"
+
+msgid "Quick search"
+msgstr "Hızlı Arama"
+
+msgid "Postal code"
+msgstr "Posta Kodu"
+
+msgid "The username and/or password is invalid."
+msgstr "Kullanıcı adı ve / veya şifre geçersiz."
+
+msgid "Are you sure?"
+msgstr "Eminmisiniz?"
+
+msgid "Nationality"
+msgstr "Milliyet"
+
+msgid "Radius"
+msgstr "Radius"
+
+msgid "Dashboard"
+msgstr "Özet"
+
+msgid "Watermark"
+msgstr "Kupon"
+
+msgid "Latitude"
+msgstr "Enlem"
+
+msgid "Longitude"
+msgstr "Boylam"
+
+msgid "Mortgage"
+msgstr "Ipotek etmek"
+
+msgid "Download"
+msgstr "Yükle"
+
+msgid "Matching"
+msgstr "Araştırmanın kesişimi"
+
+msgid "Pay now by card"
+msgstr "Kredi Kart ile Ödeme"
+
+msgid "Pay by bank transfer"
+msgstr "Banka Havalesi"
+
+msgid "Pay by check"
+msgstr "Çekle ödeme"
+
+msgid "Powered by"
+msgstr "Ile ortaklaşa olarak"
+
+msgid "Accepted payment methods"
+msgstr "Kabul edilen ödeme yöntemleri"
+
+msgid "Terms and Conditions"
+msgstr "Şartlar ve koşullar"
+
+msgid ""
+"Your contact is already in database, please select it on the list below."
+msgstr "Bilgileriniz veritabanında var, aşağıdaki listeden seçin lütfen."
+
+msgid "Contract"
+msgstr "Anlasma"
+
+msgid "Contracts"
+msgstr "Sözleşmeler"
+
+msgid "Seekers"
+msgstr "Arayanlar"
+
+msgid "Active seekers"
+msgstr "Aktif arayanlar"
+
+msgid "Providers"
+msgstr "Sağlayıcıları"
+
+msgid "Owners"
+msgstr "Sahipleri"
+
+msgid "Active owners"
+msgstr "Aktif sahipler"
+
+msgid "Monitoring"
+msgstr "Istatistik ve Takip"
+
+msgid "Forward"
+msgstr "İleri"
+
+msgid "Similar"
+msgstr "Benzer"
+
+msgid "Rank"
+msgstr "Konum"
+
+msgid "Status"
+msgstr "Durum"
+
+msgid "floor"
+msgstr "Kat"
+
+msgid "Water"
+msgstr "Su"
+
+msgid "Description"
+msgstr "Tanıtım"
+
+msgid "Deductions"
+msgstr "kesintiler"
+
+msgid "Not available"
+msgstr "Mevcut degil"
+
+msgid "Occupant"
+msgstr "Kiraci"
+
+msgid "Prospect"
+msgstr "Prospektüs"
+
+msgid "Shares"
+msgstr "Paylaşılan"
+
+msgid "Like"
+msgstr "Beğenilenler"
+
+msgid "Unlike"
+msgstr "Begenmedim"
+
+msgid "Portfolio"
+msgstr "Portföy"
+
+msgid "Features"
+msgstr "islevselligi"
+
+msgid "Contracted owner"
+msgstr "Sahibi imzaladi"
+
+msgid "Contracted owners"
+msgstr "Sahipleri imzaladı"
+
+msgid "Contracted customer"
+msgstr "Musteri imzaladi"
+
+msgid "Contracted customers"
+msgstr "Müşteri imzaladı"
+
+msgid "Transfer tax"
+msgstr "Kayit ücretleri"
+
+msgid "Change to"
+msgstr "Degistirmek"
+
+msgid "Until"
+msgstr "Kadar"
+
+msgid "Location reference"
+msgstr "Referans pozisyonu"
+
+msgid "Priority"
+msgstr "öncelik"
+
+msgid "Full form"
+msgstr "Tüm form dolmuş"
+
+msgid "Quick form"
+msgstr "Kisa form"
+
+msgid "%s char(s)"
+msgstr "%s karakter/i"
+
+msgid "Price from"
+msgstr "dan baslayarak"
+
+msgid "Listings"
+msgstr "Listeleme"
+
+msgid "Duration"
+msgstr "süre"
+
+msgid "Request incomplete"
+msgstr "Eksik talep"
+
+msgid "%s incomplete request(s)"
+msgstr "%s talep/e tamamlanmamis/e"
+
+msgid "Subscribe for"
+msgstr "Kaydolmak"
+
+msgid "Configuration"
+msgstr "Yapilandirma"
+
+msgid "Subtotal"
+msgstr "Kismi toplam"
+
+msgid "Tax notice"
+msgstr "Vergi beyannamesi"
+
+msgid "Events"
+msgstr "Olaylar"
+
+msgid "Present"
+msgstr "Burda"
+
+msgid "Missing"
+msgstr "Yok"
+
+msgid "Planned"
+msgstr "Programlanmis"
+
+msgid "Full"
+msgstr "Tamamlanmis"
+
+msgid "Organizer"
+msgstr "Organizatör"
+
+msgid "Already subscribed"
+msgstr "Abone olmus üye"
+
+msgid "Attendees"
+msgstr "Katilimcilar"
+
+msgid "Join"
+msgstr "Katilmak"
+
+msgid "Training"
+msgstr "Egitim"
+
+msgid "Require a change of password at next logon"
+msgstr "Bir sonraki bağlantıda şifre değişikliği isteyin"
+
+msgid "Gross revenue"
+msgstr "Brüt gelir"
+
+msgid "Gross yield"
+msgstr "Brüt verim"
+
+msgid "Net yield"
+msgstr "Net verim"
+
+msgid "Vacancy rate"
+msgstr "Bosluk oranlari"
+
+msgid "Investment"
+msgstr "Yatirim"
+
+msgid "Lock"
+msgstr "Bloke etmek"
+
+msgid "Variables"
+msgstr "Degiskenler"
+
+msgid "Example"
+msgstr "örnek"
+
+msgid "Increment"
+msgstr "Artirmak"
+
+msgid "Schema"
+msgstr "Plan"
+
+msgid "Automation"
+msgstr "Otomatizm"
+
+msgid "Link"
+msgstr "Baglanti"
+
+msgid "Renovation year"
+msgstr "Yenilendigi sene"
+
+msgid "Curriculum vitae"
+msgstr "Özgeçmiş"
+
+msgid "Resellers"
+msgstr "Bayiler"
+
+msgid "Select"
+msgstr "Seçiniz"
+
+msgid "Bill"
+msgstr "Fatura"
+
+msgid "The balance of your account is %s"
+msgstr "Hesabınızın bakiyesi %s"
+
+msgid "Ceiling"
+msgstr "Tavan"
+
+msgid "Weighted area"
+msgstr "Net yaşam alanı"
+
+msgid "Collected"
+msgstr "Ödeme alındı"
+
+msgid "Unlimited"
+msgstr "Sınırsız"
+
+msgid "Quantity"
+msgstr "Miktar"
+
+msgid "Subscription"
+msgstr "Abone"
+
+msgid "Setup"
+msgstr "Setup"
+
+msgid "Active owner"
+msgstr "Active owner"
+
+msgid "Matching at"
+msgstr "Karsilastirma arama gerçekleştirdi"
+
+msgid "Price by area"
+msgstr "Fiat ve bölge"
+
+msgid "Default list"
+msgstr "Varsayilan liste"
+
+msgid "Subcategory"
+msgstr "Altkategori"
+
+msgid "Inventory"
+msgstr "Rapor"
+
+msgid "Add a custom document"
+msgstr "Bir belgeyi özelleştirmek"
+
+msgid "Line spacing"
+msgstr "Satir araligi"
+
+msgid "Font"
+msgstr "Karakter"
+
+msgid "Portrait"
+msgstr "Portrait"
+
+msgid "Landscape"
+msgstr "Peyzaj"
+
+msgid "Accounts"
+msgstr "Profiller"
+
+msgid "Optional"
+msgstr "Isteğe bağlı"
+
+msgid "File"
+msgstr "File"
+
+msgid "Collected at"
+msgstr "Alindi, temin edildi"
+
+msgid "Linked"
+msgstr "Ekli"
+
+msgid "Discover our offers"
+msgstr "Tekliflerimizi keşfet"
+
+msgid "Blank"
+msgstr "El değmemiş"
+
+msgid "Portal"
+msgstr "Portale"
+
+msgid "Software Documentation"
+msgstr "Software dokümantasyon"
+
+msgid "Time"
+msgstr "Zaman"
+
+msgid "Dedicated website"
+msgstr "Adanmış web sitesi"
+
+msgid "No IP control"
+msgstr "IP kontrolsüz"
+
+msgid "Auto publish"
+msgstr "Otomatik yayın"
+
+msgid "Link to property"
+msgstr "Ürüne bağlamak"
+
+msgid "Happy birthday!"
+msgstr "Dogum gününüz kutlu olsun!"
+
+msgid "Birthdays"
+msgstr "Dogum günleri"
+
+msgid "Last login"
+msgstr "Son erişim"
+
+msgid "This property is a part of:"
+msgstr "Bu ürün parçasıdir:"
+
+msgid "IP address"
+msgstr "IP adresi"
+
+msgid "Prospecting"
+msgstr "Prospeksiyon"
+
+msgid "Access code"
+msgstr "Giris kodu"
+
+msgid "Access code at"
+msgstr "Erişim kodunun girildigi zaman:"
+
+msgid "Number of shares"
+msgstr "Hisseci / parça sayısı"
+
+msgid "Leads"
+msgstr "Potansiyeli yüksek temaslar"
+
+msgid "Cancelled"
+msgstr "Iptal edildi"
+
+msgid "Advanced"
+msgstr "Detayli rapor"
+
+msgid "Publish on homepage"
+msgstr "Ana sayfada yayınla"
+
+msgid "Suggested"
+msgstr "önerilen"
+
+msgid "Welcome on %s"
+msgstr "%s e Hosgeldiniz"
+
+msgid "Content"
+msgstr "Icerik"
+
+msgid "Extranet access"
+msgstr "Extranet erisimi"
+
+msgid "Publish address"
+msgstr "Adresi yayınla"
+
+msgid "Opening hours"
+msgstr "Açılış saatleri"
+
+msgid "Backoffice"
+msgstr "Backoffice"
+
+msgid "Member since %s"
+msgstr "%s den beri üyesi"
+
+msgid "Lock menu bar"
+msgstr "Yan menüyü kilitle"
+
+msgid "Updates"
+msgstr "Güncellemeler"
+
+msgid "Reservations"
+msgstr "Rezervasyonlar"
+
+msgid "Forward to contact"
+msgstr "Kişiye ilet"
+
+msgid "Responder"
+msgstr "Otomatik cevap"
+
+msgid ""
+"You can search our Frequently Asked Questions (FAQs) database by keyword(s):"
+msgstr "Sik Sorulan Sorular soru/cevap (S.S.S) içinde arama yapabilirsiniz"
+
+msgid "Registrar"
+msgstr "Kaydet"
+
+msgid "Expiration at"
+msgstr "Sona erme tarihi"
+
+msgid "Mailbox"
+msgstr "Posta kutusu"
+
+msgid "Domain name"
+msgstr "Alanin domain adi"
+
+msgid "Filling"
+msgstr "Doldurmak"
+
+msgid "Condition precedent"
+msgstr "Askıya alma şartları"
+
+msgid "Size"
+msgstr "Boyutlar"
+
+msgid "Deal fees"
+msgstr "Işlem ücretleri"
+
+msgid "Fees charged"
+msgstr "Komisyon alindi"
+
+msgid "Customer"
+msgstr "Müşteri"
+
+msgid "Booked"
+msgstr "Ayrılmış rezerve edilmis"
+
+msgid "Available"
+msgstr "Müsait"
+
+msgid "Associate"
+msgstr "Associate"
+
+msgid "Ceiling height"
+msgstr "Tavan yüksekligi"
+
+msgid "Translations"
+msgstr "Çeviriler"
+
+msgid "Unsold"
+msgstr "Satilmayan"
+
+msgid "Sold at"
+msgstr "Satildi"
+
+msgid "Last action"
+msgstr "Son aksiyon"
+
+msgid "Our agency"
+msgstr "Bizim Ajans"
+
+msgid "Locate us"
+msgstr "Bizi bul"
+
+msgid "Your main contact"
+msgstr "Ana iletişim"
+
+msgid "Send me a message"
+msgstr "Bana mesaj gönder"
+
+msgid "Leave us a message"
+msgstr "Bize bir mesaj bırakın"
+
+msgid "Price with fees"
+msgstr "Fiyat ve artı masraflar"
+
+msgid "Owner access"
+msgstr "Mal sahibi girişi"
+
+msgid "Added"
+msgstr "Eklendi"
+
+msgid "Available for matching"
+msgstr "Yetkili gecis"
+
+msgid "Available at"
+msgstr "Müsait"
+
+msgid "Add to list"
+msgstr "Listeye ekle"
+
+msgid "Custom tags"
+msgstr "Kişiselleştirilmiş özellikler"
+
+msgid "%s pending approval properties"
+msgstr "%s onay bekleyen ürünler"
+
+msgid "Negotiable price"
+msgstr "Pazarlik payi"
+
+msgid "Price updated"
+msgstr "Guncellenmis fiat"
+
+msgid "Less equal"
+msgstr "Eşit ve alti"
+
+msgid "Equal"
+msgstr "Esit"
+
+msgid "Greater equal"
+msgstr "eşit ve üstü"
+
+msgid "Preferences"
+msgstr "Tercihler"
+
+msgid "Contact means"
+msgstr "İrtibat seçenekleri"
+
+msgid "Agency commission"
+msgstr "Ajansın komisyonu"
+
+msgid "Scheduled at"
+msgstr "Programlandigi tarih"
+
+msgid "Contract at"
+msgstr "Anlaşma"
+
+msgid "Commitment"
+msgstr "imzalanacak uzlaşma"
+
+msgid "Commitment at"
+msgstr "Ön anlaşma tarihi"
+
+msgid "Offer at"
+msgstr "Teklif verildigi tarih"
+
+msgid "No action"
+msgstr "Hicbir aksiyon yok"
+
+msgid "Received contact information"
+msgstr "Iletişim bilgisi alındı"
+
+msgid "Linked contact"
+msgstr "Bağlantılı iletişim"
+
+msgid "Related contacts"
+msgstr "Ilgili kişiler"
+
+msgid "Others"
+msgstr "Başkaları"
+
+msgid "Assigned to"
+msgstr "Atamak"
+
+msgid "Assign to"
+msgstr "Assign to"
+
+msgid "Assign by"
+msgstr "Assign by"
+
+msgid "Opened by"
+msgstr "Açıldigi zaman"
+
+msgid "Closed by"
+msgstr "Kapandigi zaman"
+
+msgid "Time zone"
+msgstr "Zaman Dilimi"
+
+msgid "Customers"
+msgstr "Müşteriler"
+
+msgid "Invert selection"
+msgstr "Haricindekileri seçin"
+
+msgid "Select all"
+msgstr "Tümünü seç"
+
+msgid "Unselect all"
+msgstr "Işaretleri kaldırın"
+
+msgid "%s awaiting lead(s)"
+msgstr "%s müsteri beklemede"
+
+msgid "%s lead(s) to assign"
+msgstr "%s lead(s) to assign"
+
+msgid "%s pending matching(s)"
+msgstr "%s ürün(ler) bekleyen"
+
+msgid "%s expired agreement(s)"
+msgstr "%s anlaşması(lar) sona erdi"
+
+msgid "%s expired soon agreement(s)"
+msgstr "%s anlaşması(lar) süresi bitmek üzere"
+
+msgid "Legal notice"
+msgstr "Yasal bildirim"
+
+msgid "Tags"
+msgstr "Etiketler"
+
+msgid "Authorization"
+msgstr "İzin"
+
+msgid "Min stay"
+msgstr "En az konaklama siniri"
+
+msgid "Over"
+msgstr "Fazla"
+
+msgid "Refresh"
+msgstr "Yenile"
+
+msgid "Free text"
+msgstr "Serbest metin"
+
+msgid "Generate comment"
+msgstr "Yorumunuzu oluşturun"
+
+msgid "Building name"
+msgstr "Binanın adı"
+
+msgid "VAT identification number"
+msgstr "KDV"
+
+msgid "VAT included"
+msgstr "KDV dahildir"
+
+msgid "VAT excluded"
+msgstr "Vergiler hariç"
+
+msgid "Recurrence"
+msgstr "Nüks"
+
+msgid "Calculate"
+msgstr "Hesapla"
+
+msgid "Contribution"
+msgstr "Katkı"
+
+msgid "Maximum debt"
+msgstr "Maksimum borç"
+
+msgid "Purchase amount"
+msgstr "Alım Tutarı"
+
+msgid "Borrowing calculator"
+msgstr "Borçlanma miktarının hesaplanması"
+
+msgid "Monthly payment calculator"
+msgstr "Aylık ödeme hesabi"
+
+msgid "You don't have broadcasting rights"
+msgstr "Yayın haklarına sahip değilsiniz"
+
+msgid "Pending"
+msgstr "Beklemede"
+
+msgid "Suggestions"
+msgstr "Öneriler"
+
+msgid "To show"
+msgstr "Göstermek için"
+
+msgid "Automatic"
+msgstr "Otomatik"
+
+msgid "Manual"
+msgstr "Manuel"
+
+msgid "In collaboration with a %name% professional"
+msgstr "Bir profesyonel %name% ile işbirliği içinde"
+
+msgid "Partners"
+msgstr "Ortaklar"
+
+msgid "Amount"
+msgstr "Maliyet"
+
+msgid "My search"
+msgstr "Benim aradığım"
+
+msgid "Spouse"
+msgstr "Eşi"
+
+msgid "Manager"
+msgstr "Yöneticisi"
+
+msgid "Category reference"
+msgstr "Kategorilere göre referans"
+
+msgid "Cadastre reference"
+msgstr "Kadastro verileri"
+
+msgid "Lot reference"
+msgstr "Referans birçok"
+
+msgid "Block reference"
+msgstr "Blok referans"
+
+msgid "Stairs reference"
+msgstr "Merdiven referansi"
+
+msgid "Mortgage end at"
+msgstr "Son ipotek tarihi"
+
+msgid "Review"
+msgstr "Değerlendirme"
+
+msgid "An average of"
+msgstr "Ortalama"
+
+msgid "Medias"
+msgstr "Media"
+
+msgid "Last access"
+msgstr "Son Erişim"
+
+msgid "First access"
+msgstr "İlk Erişim"
+
+msgid "Access count"
+msgstr "Erişim sayımı"
+
+msgid "Default"
+msgstr "Standart"
+
+msgid "Please do not enter any name or contact"
+msgstr "Herhangi bir isim ya da kişiyi girmeyiniz"
+
+msgid "QR-Code"
+msgstr "QR-Code"
+
+msgid "Show price"
+msgstr "Fiyat göster"
+
+msgid "Done"
+msgstr "Tamamlandı"
+
+msgid "Not applicable"
+msgstr "Uygulanabilir değil"
+
+msgid "Fill in the table"
+msgstr "Aşağıda ki tabloyu"
+
+msgid "copy"
+msgstr "copya"
+
+msgid "Automatic matching"
+msgstr "Otomatik karşılaşma"
+
+msgid "Last connection the %s"
+msgstr "Son bağlantı %s"
+
+msgid "All"
+msgstr "Tüm"
+
+msgid "Wiki"
+msgstr "Wiki"
+
+msgid "Reset"
+msgstr "Sıfırlamak"
+
+msgid "Show/hide fields"
+msgstr "Göster/gizle"
+
+msgid "Recent searches"
+msgstr "Son aramalar"
+
+msgid "Association"
+msgstr "Dernek"
+
+msgid "Meta crawler"
+msgstr "Meta crawler"
+
+msgid "Alerts"
+msgstr "Uyarılar"
+
+msgid "Prescriber"
+msgstr "Reçete yazanlar"
+
+msgid "Staff"
+msgstr "Personel"
+
+msgid "Standing"
+msgstr "Daimi"
+
+msgid "Receive a copy"
+msgstr "Bir kopyasını alın"
+
+msgid "Latest views"
+msgstr "Son görüntülenme"
+
+msgid "Quality"
+msgstr "Kalite"
+
+msgid "Waiting for partner"
+msgstr "Ortak gerekli"
+
+msgid "Viewing agreement"
+msgstr "Ziyaret onayi"
+
+msgid "Decline"
+msgstr "Reddet"
+
+msgid "Declined"
+msgstr "Reddedildi"
+
+msgid "Accept"
+msgstr "Kabul"
+
+msgid "Accepted"
+msgstr "Kabul edildi"
+
+msgid "Zones"
+msgstr "Bölgeler"
+
+msgid "Zone"
+msgstr "Bölge"
+
+msgid "Matrimonial regime"
+msgstr "Evlilik rejimi"
+
+msgid "Marital status"
+msgstr "Medeni durumu"
+
+msgid "Thumbnail"
+msgstr "Minyatür"
+
+msgid "Unread"
+msgstr "Okunmadi"
+
+msgid "Reply"
+msgstr "Cevap"
+
+msgid "Pension"
+msgstr "Aylık"
+
+msgid "Beam"
+msgstr "Genislik"
+
+msgid "Draft"
+msgstr "Derinlik"
+
+msgid "Guests"
+msgstr "Misafir"
+
+msgid "Crew"
+msgstr "Ekip"
+
+msgid "Cruising speed"
+msgstr "Normal sürat"
+
+msgid "Builder"
+msgstr "İnşaat eden"
+
+msgid "Administration"
+msgstr "İdare"
+
+msgid "Civil law notary"
+msgstr "Noter"
+
+msgid "Max price"
+msgstr "Son fiat"
+
+msgid "Reminders"
+msgstr "Hatırlatmalar"
+
+msgid "Credit"
+msgstr "Kredi"
+
+msgid "Signature"
+msgstr "Imzalar/ Satış"
+
+msgid "Header"
+msgstr "Başlık"
+
+msgid "Amounts"
+msgstr "Maliyetler"
+
+msgid "Created at"
+msgstr "Güncellenmiş"
+
+msgid "First published at"
+msgstr "Ilk yayinlandigi tarih"
+
+msgid "Insurance"
+msgstr "Sigorta"
+
+msgid "Commission"
+msgstr "Komisyon"
+
+msgid "Entries"
+msgstr "Yazılar"
+
+msgid "Number"
+msgstr "Sayi"
+
+msgid "Plot of land area"
+msgstr "Arazi Arsa"
+
+msgid "Deposit account"
+msgstr "Deposit account"
+
+msgid "Owner's price"
+msgstr "Sahibinin fiyatı"
+
+msgid "Starting price"
+msgstr "Başlangıç ​​Fiyatı"
+
+msgid "Mobile"
+msgstr "Mobil"
+
+msgid "Tel."
+msgstr "Tel."
+
+msgid "Lease"
+msgstr "Yönetim"
+
+msgid "Leases"
+msgstr "Yönetimler"
+
+msgid "Address"
+msgstr "Adres"
+
+msgid "Calls"
+msgstr "Aramalar"
+
+msgid "Tips"
+msgstr "Tavsiyeler"
+
+msgid "Erase"
+msgstr "Sil"
+
+msgid "Maps"
+msgstr "Haritalar"
+
+msgid "Days"
+msgstr "Günler"
+
+msgid "Catalog"
+msgstr "Katalog"
+
+msgid "contact"
+msgstr "kontak"
+
+msgid "contacts"
+msgstr "kontaklar"
+
+msgid "Statistics"
+msgstr "İstatistikler"
+
+msgid "Built in"
+msgstr "İnşa yılı"
+
+msgid "Mark"
+msgstr "Oylaması"
+
+msgid "Percentage"
+msgstr "Yüzde"
+
+msgid "Visits"
+msgstr "Ziyaretler"
+
+msgid "Visit comment"
+msgstr "Ziyaret hakkinda yorum"
+
+msgid "Key number"
+msgstr "Anahtar numarası"
+
+msgid "Key's place"
+msgstr "Anahtarın yeri"
+
+msgid "Displayed city (optional)"
+msgstr "Displayed city (optional)"
+
+msgid "Displayed district (optional)"
+msgstr "Displayed district (optional)"
+
+msgid "Clauses"
+msgstr "Cümleleri"
+
+msgid "Bathrooms"
+msgstr "Banyolar"
+
+msgid "Seller"
+msgstr "Satıcı"
+
+msgid "Adjacency"
+msgstr "Civar"
+
+msgid "Step"
+msgstr "Etap"
+
+msgid "Long comment"
+msgstr "Uzun yorum"
+
+msgid "Subtitle"
+msgstr "Altyazı"
+
+msgid "Last published at"
+msgstr "En son yayinlanan"
+
+msgid "Inactive"
+msgstr "Etkisiz"
+
+msgid "Position"
+msgstr "Position"
+
+msgid "Please fill in a name and a phone or an e-mail."
+msgstr "Lutfen isim soyadi ve telefon yada email adresi giriniz"
+
+msgid "Passwords do not match, please retype"
+msgstr "Farklı şifre,lütfen tekrar deneyin"
+
+msgid "Please change your password"
+msgstr "Lütfen şifreyi değiştiriniz"
+
+msgid "New password should not be same as old password"
+msgstr "Yeni şifre eskisinden değişik olmalidir."
+
+msgid "years"
+msgstr "yil"
+
+msgid "Subscriptions"
+msgstr "Abonelikler"
+
+msgid "Tour comment"
+msgstr "Ziyaret Yorumu"
+
+msgid "Actions"
+msgstr "Eylem"
+
+msgid "Ad"
+msgstr "Ilan"
+
+msgid "Add opening hours"
+msgstr "Bir saat ekleyiniz"
+
+msgid "price"
+msgstr "fiyat"
+
+msgid "Personal"
+msgstr "Çalışanlar"
+
+msgid ""
+"Please note that there are dependencies, please select a contact for "
+"completing the data transfer."
+msgstr "Dikkat, bağımlılıklar var, veri aktarımı yapacak bir kişi seç"
+
+msgid "The installation can take several minutes, please come back later."
+msgstr "Kurulum birkaç dakika sürebilir lütfen bekleyin yada tekrar dönün."
+
+msgid "Your contact speaks %s, would you like to change the language?"
+msgstr "Kişileriniz %s konuşuyor, dili değiştirmek ister misiniz?"
+
+msgid "Would you like to publish on the homepage?"
+msgstr "Ana sayfada yayınlamak istiyor musunuz?"
+
+msgid "plus VAT"
+msgstr "artı KDV"
+
+msgid "<b>Warning :</b> there is an error, please check each fields."
+msgstr "<b>Uyarı :</b> bir hata var, her alanı kontrol et"
+
+msgid "Price/sq m"
+msgstr "Fiyat/m²"
+
+msgid "today"
+msgstr "bugün"
+
+msgid "week"
+msgstr "hafta"
+
+msgid "day"
+msgstr "gün"
+
+msgid "from %from_value% to %to_value%"
+msgstr "da %from_value% a %to_value%"
+
+msgid "message"
+msgstr "mesaj"
+
+msgid "Page"
+msgstr "Sayfa"
+
+msgid "Action"
+msgstr "Aksiyon"
+
+msgid "Agencies"
+msgstr "Ajanslar"
+
+msgid "agencies"
+msgstr "ajanslar"
+
+msgid "Context"
+msgstr "Içerik"
+
+msgid "More criteria"
+msgstr "Ilave kriterler"
+
+msgid "Criteria"
+msgstr "Kriterler"
+
+msgid "Classification"
+msgstr "Sınıflandırma"
+
+msgid "metres"
+msgstr "metre"
+
+msgid "Window"
+msgstr "Pencere"
+
+msgid "Stock area"
+msgstr "Mekanin büyüklüğü"
+
+msgid "Sales area"
+msgstr "Satış alanı"
+
+msgid "Sale price"
+msgstr "Satis fiati"
+
+msgid "Broadcast to"
+msgstr "Yayinlamak"
+
+msgid "The property will not be published because it is in step « %s »"
+msgstr "Ürün,  %s  adımında olduğu için dağıtılamayacak"
+
+msgid "Last agencies"
+msgstr "Son ajanslar"
+
+msgid "I confirm my subscription to %s and I accept the general conditions"
+msgstr ""
+"Aboneliğimi %s olarak onaylıyorum ve şartları ve koşulları kabul ediyorum"
+
+msgid "from %from_date% to %to_date%"
+msgstr "da %from_date% da %to_date%"
+
+msgid "sq m"
+msgstr "m²"
+
+msgid "days"
+msgstr "günler"
+
+msgid "bedroom"
+msgstr "yatak odalari"
+
+msgid "rooms"
+msgstr "odalar"
+
+msgid "room"
+msgstr "oda"
+
+msgid "Comments"
+msgstr "Yorumlar"
+
+msgid "comment"
+msgstr "yorum"
+
+msgid "comments"
+msgstr "yorumlar"
+
+msgid "Private comment"
+msgstr "Özel yorum"
+
+msgid "Private"
+msgstr "Özel"
+
+msgid "Levels"
+msgstr "Seviyeler"
+
+msgid "Level"
+msgstr "Seviye"
+
+msgid "Exchanges"
+msgstr "Alım Satımlar"
+
+msgid "Exchange"
+msgstr "Alım Satım"
+
+msgid "by"
+msgstr ""
+
+msgid "n.a"
+msgstr "n.a."
+
+msgid "Elevator"
+msgstr "Asansör"
+
+msgid "no"
+msgstr "hayir"
+
+msgid "yes"
+msgstr "evet"
+
+msgid "Printed with care"
+msgstr "Bizim tarafımızdan basılmıştır"
+
+msgid "Please do not litter on public way"
+msgstr "Lütfen yerlere atmayın"
+
+msgid "Non-contractual information"
+msgstr "Sözleşmeye bağlı olmayan bilgiler"
+
+msgid "Agency fees"
+msgstr "Ajans ücretleri"
+
+msgid "Agency fees included"
+msgstr "Ajans ücretleri dahil"
+
+msgid "Agency fees not included"
+msgstr "Ajans ücretleri dahil değildir"
+
+msgid "Fees"
+msgstr "Apartman giderleri"
+
+msgid "Personal property tax"
+msgstr "Konut Vergisi"
+
+msgid "Property tax"
+msgstr "Emlak vergisi"
+
+msgid "Style"
+msgstr "Stil"
+
+msgid "Parkings"
+msgstr "Otoparklar"
+
+msgid "Pictures"
+msgstr "Resimler"
+
+msgid "Window card"
+msgstr "Vitrin levhasi"
+
+msgid "Private sheet"
+msgstr "Özel Modül"
+
+msgid "Public sheet"
+msgstr "Kamu modülü"
+
+msgid "Service"
+msgstr "Hizmet"
+
+msgid "Spoken languages"
+msgstr "Dil"
+
+msgid "Cart"
+msgstr "Sepet"
+
+msgid "Land type"
+msgstr "Arazi tipi"
+
+msgid "Property agent"
+msgstr "Bina yöneticisi"
+
+msgid "Account"
+msgstr "Hesap"
+
+msgid "End at"
+msgstr "Bitmek üzere"
+
+msgid "Close"
+msgstr "Kapat"
+
+msgid "Launch"
+msgstr "Başlangıç"
+
+msgid "Guarantees"
+msgstr "Garantiler"
+
+msgid "Update"
+msgstr "Güncelleme"
+
+msgid "Inter-agencies"
+msgstr "Inter-ajansları"
+
+msgid "Number of floors"
+msgstr "Kat Sayısı"
+
+msgid "Evaluated price"
+msgstr "Değerlendirilen fiyat"
+
+msgid "Seller's commission"
+msgstr "Satıcının danışman komisyonu"
+
+msgid "Buyer's commission"
+msgstr "Alıcının ajan komisyonu"
+
+msgid "Origin"
+msgstr "Kaynak"
+
+msgid "Specific origin"
+msgstr "Özel kökenli"
+
+msgid "Flooring"
+msgstr "Döşeme"
+
+msgid "Publications"
+msgstr "Yayınlar"
+
+msgid "Send to contact"
+msgstr "Inviare al contatto"
+
+msgid "No results found"
+msgstr "Hiçbir sonuç bulunamadı"
+
+msgid "Results"
+msgstr "Sonuçlari"
+
+msgid "Result"
+msgstr "Sonuç"
+
+msgid "results"
+msgstr "sonuçlari"
+
+msgid "result"
+msgstr "sonuc"
+
+msgid "Advertiser"
+msgstr "Reklam veren"
+
+msgid "Active"
+msgstr "Aktif"
+
+msgid "Confidential"
+msgstr "Gizli"
+
+msgid "Activity"
+msgstr "Etkinlikler"
+
+msgid "Companies"
+msgstr "Şirketler"
+
+msgid "Edit"
+msgstr "Düzenleme"
+
+msgid "Save"
+msgstr "Kayıt"
+
+msgid "Succession"
+msgstr "Veraset"
+
+msgid "Please fill in a city."
+msgstr "Lütfen  bir şehir ismi giriniz"
+
+msgid "Guarantee"
+msgstr "Garanti"
+
+msgid "Please fill"
+msgstr "Lütfen doldurunuz"
+
+msgid "The email address is invalid."
+msgstr "e-posta adresi geçersiz."
+
+msgid "Rights"
+msgstr "Haklar"
+
+msgid "Display"
+msgstr "Ekran"
+
+msgid "Since"
+msgstr "Beri"
+
+msgid "Filter"
+msgstr "Filtre"
+
+msgid "Min"
+msgstr "Minimum"
+
+msgid "Max"
+msgstr "Maksimum"
+
+msgid "Lessee"
+msgstr "Kiracı"
+
+msgid "Booking"
+msgstr "Rezervasyon"
+
+msgid "Bed"
+msgstr "Yataklar"
+
+msgid "Cleaning price"
+msgstr "Temizleme fiati"
+
+msgid "Availabilities"
+msgstr "Kullanılabilirlik"
+
+msgid "Sent"
+msgstr "Yollandi"
+
+msgid "Year"
+msgstr "Yil"
+
+msgid "month"
+msgstr "ay"
+
+msgid "Seasons"
+msgstr "Mevsimler"
+
+msgid "Season"
+msgstr "Mevsim"
+
+msgid "Rates"
+msgstr "Tarif"
+
+msgid "Todo"
+msgstr "Yapılacak"
+
+msgid "Brand"
+msgstr "Franchising"
+
+msgid "Publicated at"
+msgstr "Yayınlanma tarihi"
+
+msgid "Bank"
+msgstr "Banka"
+
+msgid "Brief comment"
+msgstr "Kısa açıklama"
+
+msgid "Delivery at"
+msgstr "Teslim"
+
+msgid "Reason"
+msgstr "Sebep"
+
+msgid "What's new"
+msgstr "Haber"
+
+msgid "Requests"
+msgstr "Talepler"
+
+msgid "Request"
+msgstr "Talep"
+
+msgid "requests"
+msgstr "talepler"
+
+msgid "request"
+msgstr "talep"
+
+msgid "Current rent"
+msgstr "Mevcut kira"
+
+msgid "Properties"
+msgstr "Ürünler"
+
+msgid "properties"
+msgstr "ürünler"
+
+msgid "property"
+msgstr "ürün"
+
+msgid "Calculator"
+msgstr "Hesap makinesi"
+
+msgid "Birthplace"
+msgstr "Doğum yeri"
+
+msgid "Birthday"
+msgstr "Doğum tarihi"
+
+msgid "Income"
+msgstr "Gelir"
+
+msgid "Costs"
+msgstr "Ücretler"
+
+msgid "Margin"
+msgstr "Marj"
+
+msgid "Required."
+msgstr "Zorunlu"
+
+msgid "Seasonal"
+msgstr "Günlük"
+
+msgid "Number of children"
+msgstr "Çocuk sayısı"
+
+msgid "Hotline"
+msgstr "Yardım hizmeti"
+
+msgid "Re-type password"
+msgstr "Şifreyi tekrar girin"
+
+msgid "Public longitude"
+msgstr "Boylam kamusal"
+
+msgid "Public latitude"
+msgstr "Enlem kamusal"
+
+msgid "Access denied"
+msgstr "Erişim engellendi"
+
+msgid "Access"
+msgstr "Erişim"
+
+msgid "Shortcuts"
+msgstr "Kısayollar"
+
+msgid "SEO"
+msgstr "SEO"
+
+msgid "Life annuity length"
+msgstr "Life annuity length"
+
+msgid "Market value"
+msgstr "Piyasa değeri"
+
+msgid "Price contribution"
+msgstr "Ilk katkı"
+
+msgid "Sharing"
+msgstr "Paylaş"
+
+msgid "Show more results"
+msgstr "Daha fazla sonuç göster"
+
+msgid "Hide"
+msgstr "Gizle"
+
+msgid "Keywords"
+msgstr "Anahtar Kelimeler"
+
+msgid "Corporate register"
+msgstr "Kurumsal kayıt"
+
+msgid "Expired soon"
+msgstr "Biten"
+
+msgid "Expired"
+msgstr "Süresi geçmiş"
+
+msgid "Agreements"
+msgstr "Mandasi"
+
+msgid "Agreement"
+msgstr "Yetki"
+
+msgid "Agreement number"
+msgstr "Sözleşme numarası"
+
+msgid "What's on your mind?"
+msgstr "Kendinizi ifade edin…"
+
+msgid "Message sent"
+msgstr "Mesaj gönderildi"
+
+msgid "Limit"
+msgstr "Limit"
+
+msgid "Publish"
+msgstr "Yayınlamak"
+
+msgid "Do not publish"
+msgstr "Yayinlamayiniz"
+
+msgid "Cancel"
+msgstr "İptal"
+
+msgid "Already suggested"
+msgstr "Önerilmiştir"
+
+msgid "To suggest"
+msgstr "Yeni teklif"
+
+msgid "Suggest"
+msgstr "Önerme"
+
+msgid "Diagnostics"
+msgstr "Sertifikalar"
+
+msgid "Footer"
+msgstr "Altbilgi"
+
+msgid "Serviced plot"
+msgstr "Mevcut bağlantıları"
+
+msgid "Net floor area"
+msgstr "Yapınin net yüzey"
+
+msgid "Sold price"
+msgstr "Satış fiati"
+
+msgid "Preview"
+msgstr "Önizleme"
+
+msgid "Garden area"
+msgstr "Bahçe bölgesi"
+
+msgid "Payments"
+msgstr "Ödeme"
+
+msgid "Reopen"
+msgstr "Yeniden açın"
+
+msgid "Completed"
+msgstr "Doldu"
+
+msgid "Complete"
+msgstr "Komple"
+
+msgid "Callback"
+msgstr "Aktivite"
+
+msgid "Callbacks"
+msgstr "Hatırlatma"
+
+msgid "Total"
+msgstr "Toplam"
+
+msgid "Coagent"
+msgstr "Co-ajanslar"
+
+msgid "Residences"
+msgstr "Rezidanslar"
+
+msgid "%s property"
+msgstr "%s emlak"
+
+msgid "%s request"
+msgstr "%s talep"
+
+msgid "%s requests"
+msgstr "%s talepler"
+
+msgid "Characteristics"
+msgstr "Özellikleri"
+
+msgid "Activities"
+msgstr "aktivite"
+
+msgid "Sorry, this property is no longer available."
+msgstr "Üzgünüz, bu mal artık mevcut değil."
+
+msgid "Processed"
+msgstr "Anlasma fazinda"
+
+msgid "remaining tickets"
+msgstr "kalan biletler"
+
+msgid "Congratulations ! No more support tickets."
+msgstr "Tebrikler! Daha fazla destek bileti yok."
+
+msgid "unassigned tickets"
+msgstr "Atanmamış biletler"
+
+msgid "All tickets are assigned."
+msgstr "Tüm biletler etkilenir."
+
+msgid "task in progress"
+msgstr "görev devam ediyor"
+
+msgid "Database"
+msgstr "veritabanı"
+
+msgid "Used"
+msgstr "Kullanılmış"
+
+msgid "%s results"
+msgstr "%s sonuçlar"
+
+msgid "Redirects"
+msgstr "otomatik yönlendirme"
+
+msgid "Subscribe to the newsletter"
+msgstr "Bültene abone ol"
+
+msgid "Purge"
+msgstr "Boşaltmak"
+
+msgid "Valuation methods"
+msgstr "Deger bicme yöntemleri"
+
+msgid "Rebuild cost"
+msgstr "Yenileme maliyeti"
+
+msgid "Capitalization"
+msgstr "Sermayelendirme"
+
+msgid "Comparative market analysis"
+msgstr "Karşılaştırmalı Piyasa Çalışması"
+
+msgid "Your own valuation"
+msgstr "Sizin tahmin"
+
+msgid "Desired profitability"
+msgstr "istenen karlılık"
+
+msgid "Taxes and/or fees"
+msgstr "vergiler ve/yada harcamalar"
+
+msgid "Year of purchase"
+msgstr "Satin alindigi yil"
+
+msgid "Rental income"
+msgstr "Kiralar"
+
+msgid "Price of purchase"
+msgstr "Satin alma fiati"
+
+msgid "Land price"
+msgstr "arazi fiyatı"
+
+msgid "Cost of construction"
+msgstr "inşaat maliyeti"
+
+msgid "Interior fittings"
+msgstr "Iç dekorasyon"
+
+msgid "Landscaping"
+msgstr "dış mekan dekorasyonu"
+
+msgid "Decrepitude"
+msgstr "modası geçmiş"
+
+msgid "Capital losses"
+msgstr "değer kaybı"
+
+msgid "Capital gains"
+msgstr "Katma degerler"
+
+msgid "Your mailbox has exceeded the storage limit (%s)"
+msgstr "Posta kutunuz maksimum kapasiteyi aştı (% s)"
+
+msgid "Your mailbox will reach the storage limit"
+msgstr "Posta kutunuz neredeyse dolu"
+
+msgid "Sort by"
+msgstr "filtrelemek"
+
+msgid "Condominium in difficulty"
+msgstr "finansal zorlukta kat mülkiyeti"
+
+msgid "Back to the list"
+msgstr "Listeye geri dön"
+
+msgid "Previous listing"
+msgstr "önceki reklam"
+
+msgid "Next listing"
+msgstr "sonraki reklam"
+
+msgid "empty"
+msgstr "bosalt"
+
+msgid "Filename"
+msgstr "Dosye adi"
+
+msgid "Keyword"
+msgstr "Anahtar kelime"
+
+msgid "Values"
+msgstr "Değerler"
+
+msgid "New feed"
+msgstr "yeni akış"
+
+msgid "Errors"
+msgstr "hatalar"
+
+msgid "Error"
+msgstr "Hata"
+
+msgid "Erase all"
+msgstr "hepsini sil"
+
+msgid "Try"
+msgstr "Test"
+
+msgid "Query"
+msgstr "dilekçe"
+
+msgid "Agency fees payable by vendor"
+msgstr "komisyonu ödemek satan mülk sahibine ait"
+
+msgid "Agency fees payable by buyer"
+msgstr "komisyonu ödemek alana ait"
+
+msgid "Condominium fees"
+msgstr "Kat mülkiyeti ücretleri"
+
+msgid "An error occurred"
+msgstr "Bir hata meydana geldi"
+
+msgid "Successful subscription"
+msgstr "Abone oldunuz"
+
+msgid "Created date"
+msgstr "Yaratılış tarihi"
+
+msgid "Updated date"
+msgstr "Güncelleme tarihi"
+
+msgid "Back to homepage"
+msgstr "Baş menüye dönmek"
+
+msgid "Price min"
+msgstr "Minimum fiat"
+
+msgid "Price max"
+msgstr "Maximum fiat"
+
+msgid "Bedroom min"
+msgstr "En az oda sayisi"
+
+msgid "Bedroom max"
+msgstr "En fazla oda sayisi"
+
+msgid "Room min"
+msgstr "Minimum oda"
+
+msgid "Room max"
+msgstr "Maximum oda"
+
+msgid "Project at"
+msgstr "Projeyi"
+
+msgid "Agency rate"
+msgstr "Ajans oranı"
+
+msgid "Tenant's commission"
+msgstr "Komisyon ödenegi kiraciya ait"
+
+msgid "Inventory tenant charge"
+msgstr "Kiracının envanteri"
+
+msgid "Fees included"
+msgstr "ücretler dahil"
+
+msgid "Provision on recoverable fees"
+msgstr "Geri kazanılabilir ücretler hakkında hüküm"
+
+msgid "Never"
+msgstr "Hicbirzaman"
+
+msgid "Remaining credits"
+msgstr "Kalan kredi"
+
+msgid "Buy credits"
+msgstr "Kredi satın al"
+
+msgid "%s credits"
+msgstr "%s kredi"
+
+msgid "Transaction fees"
+msgstr "işlem ücretleri"
+
+msgid "View property"
+msgstr "Gayrimenkulü gör"
+
+msgid "lot available"
+msgstr "Mevcut bölüm"
+
+msgid "lots available"
+msgstr "Mevcut bölümler"
+
+msgid "Area min"
+msgstr "Minimum alan"
+
+msgid "Search a property"
+msgstr "Bir mülk arayiniz"
+
+msgid "International"
+msgstr "Internasyonel"
+
+msgid "Unsubscribe"
+msgstr "Aboneliklerden çık"
+
+msgid "The property will not be published because it is in group « %s »"
+msgstr "Ürün  %s  grubunda olduğu için yayınlanamayacak"
+
+msgid "%s months"
+msgstr "%s ay"
+
+msgid "No action after"
+msgstr "sonraki harekete geçmeden"
+
+msgid "%s pending delete"
+msgstr "%s silinmeyi bekliyorum"
+
+msgid "Pending delete"
+msgstr "Silinmeyi bekliyorum"
+
+msgid "%s to delete"
+msgstr "%s silinecek"
+
+msgid "Unsubscribed"
+msgstr "Abonelikten çık"
+
+msgid "Edit my search"
+msgstr "Aramamı değiştir"
+
+msgid "Activate my search"
+msgstr "Aramamı etkinleştir"
+
+msgid "Cancel my search"
+msgstr "Aramamı iptal et"
+
+msgid "Only authorized properties"
+msgstr "Sadece yetkisi olan ürünler"
+
+msgid "Another currency"
+msgstr "Diğer para birimi"
+
+msgid "Enter the first 6 digits"
+msgstr "İlk 6 haneyi giriniz"
+
+msgid ""
+"Without action on your part, your contact will be deleted before the %s."
+msgstr ""
+"Sizin tarafınızdan kullanilmayan,iletişimleriniz en son %s tarihinde "
+"silinecek."
+
+msgid "No procedure in progress"
+msgstr "Devam eden bir prosedür yok"
+
+msgid "Procedure in progress"
+msgstr "Prosedür devam ediyor"
+
+msgid "Number of lots in the condominium"
+msgstr "Binanin içindeki daire sayısi"
+
+msgid "Network authorized"
+msgstr "Grup yetkisi var"
+
+msgid "Renew the lease"
+msgstr "Kirayı yenilemek"
+
+msgid "Remove at"
+msgstr "Sil"
+
+msgid "External action"
+msgstr "Dış eylem"
+
+msgid ""
+"The migration of your prospect into a request will allow you to make "
+"matching and proposals with a better tracking."
+msgstr ""
+"Potansiyelinizi talebe dönüştürmek, musteri listenizi kolay takip edebilmek,"
+" cabuk sunumlar verebilm"
+
+msgid "floors"
+msgstr "katlar"
+
+msgid "Job"
+msgstr "Profesyonu"
+
+msgid "Unsuscribe from this list"
+msgstr "Bu listeden üyelikten çık"
+
+msgid "Entry"
+msgstr "Giriş"
+
+msgid "Exit"
+msgstr "çıkış"
+
+msgid "Networks"
+msgstr "Ağlar"
+
+msgid "Secured"
+msgstr "Güvenli"
+
+msgid "Opacity"
+msgstr "Opaklık"
+
+msgid "Left"
+msgstr "Sol taraf"
+
+msgid "Top"
+msgstr "Yüksek"
+
+msgid "Relative to the last element"
+msgstr "Son elemente göre"
+
+msgid "Alignment"
+msgstr "Hizalanma"
+
+msgid "Border size"
+msgstr "Sınır boyutu"
+
+msgid "Border color"
+msgstr "Sınırın rengi"
+
+msgid "Size of the internal margin"
+msgstr "İç kenar boşluğunun boyutu"
+
+msgid "Font color"
+msgstr "Yazı tipi rengi"
+
+msgid "Font size"
+msgstr "Yazı tipi boyutu"
+
+msgid "Background color"
+msgstr "Arka plan rengi"
+
+msgid "Custom image"
+msgstr "Özellestirilmis görüntü"
+
+msgid "custom"
+msgstr "Personalizze"
+
+msgid "Right"
+msgstr "Sağ"
+
+msgid "Center"
+msgstr "Orta"
+
+msgid "Justified"
+msgstr "Haklı"
+
+msgid "Transparency"
+msgstr "Transparan"
+
+msgid "Line height"
+msgstr "Çizginin yüksekliği"
+
+msgid "Uppercase"
+msgstr "Büyük harf"
+
+msgid "Price proposal"
+msgstr "Fiyat teklifi"
+
+msgid "Template"
+msgstr "Modeli"
+
+msgid "Publication date"
+msgstr "Yayinlandigi tarih"
+
+msgid "Recovered at"
+msgstr "Tekrar elde edildi"
+
+msgid "Available on"
+msgstr "Mevcut"
+
+msgid "Allow all"
+msgstr "Herşeyi yetkilendir"
+
+msgid "Private position is not set, click here to update."
+msgstr "Özel pozisyon belirtilmemiş, belirtmek için buraya tıklayın."
+
+msgid "Public position is not set, click here to update."
+msgstr "Kamu pozisyonu belirtilmemiş, belirtmek için buraya tıklayın."
+
+msgid ""
+"Please use this link to subscribe to your calendar from a software or a "
+"device:"
+msgstr ""
+"Yazılımınızdan veya cihazınızdan takviminize abone olmak için lütfen bu "
+"bağlantıyı kullanın:"
+
+msgid "Activate"
+msgstr "Etkinleştir"
+
+msgid "Disable"
+msgstr "Devre dışı bırak"
+
+msgid "%s unit"
+msgstr "%s birçok"
+
+msgid "Not suggested"
+msgstr "Teklif edilmedi"
+
+msgid "%s guest"
+msgstr "%s misafir"
+
+msgid "%s bed"
+msgstr "%s yataklar"
+
+msgid "Documentation"
+msgstr "Dokümantasyon"
+
+msgid "%s bathroom"
+msgstr "%s küvetli banyo"
+
+msgid "%s bathrooms"
+msgstr "%s banyolar"
+
+msgid "Floors"
+msgstr "Katlar"
+
+msgid "Professionals"
+msgstr "Uzman"
+
+msgid "Toilet"
+msgstr "WC"
+
+msgid "Show pagination"
+msgstr "Sayfalama göster"
+
+msgid "Mandatory fields"
+msgstr "Zorunlu alanlar"
+
+msgid "Available soon"
+msgstr "Yakinda mevcut"
+
+msgid "HD Photo"
+msgstr "HD Photo"
+
+#, fuzzy
+msgid "Contract end at"
+msgstr ""
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Sözleşme sona eriyor\n"
+"#-#-#-#-#  apimo-tr_TR.po  #-#-#-#-#\n"
+"Sözleşmenin sonu"
+
+msgid "Incomplete"
+msgstr "Eksik"
+
+msgid "Location Map"
+msgstr "Konum Haritası"
+
+msgid "User Detail"
+msgstr "Kullanıcı Detayı"
+
+msgid "File size"
+msgstr "Dosya boyutu"
+
+msgid "File title"
+msgstr "Dosya başlığı"
+
+msgid "Region"
+msgstr "Bölge"
+
+msgid "Bath"
+msgstr "Banyo"
+
+msgid "Private Negotiation"
+msgstr "Özel Müzakere"
+
+msgid "Property specifications"
+msgstr "Mülk özellikleri"
+
+msgid "Energy performance"
+msgstr "Enerji performansı"
+
+msgid "Media Details"
+msgstr "Medya Detayları"
+
+msgid "View Video"
+msgstr "Videoyu Görüntüle"
+
+msgid "Start Date"
+msgstr "Başlangıç Tarihi"
+
+msgid "End Date"
+msgstr "Bitiş Tarihi"
+
+msgid "Welcome"
+msgstr "Hoş geldiniz"
+
+msgid "See What’s happening with Apimo Plugin."
+msgstr "Apimo Eklentisi ile neler oluyor görün."
+
+msgid "PROVIDERS"
+msgstr "SAĞLAYICILAR"
+
+msgid "AGENCIES"
+msgstr "AJANSLAR"
+
+msgid "PROPERTIES"
+msgstr "MÜLKLER"
+
+msgid "BOOKMARK"
+msgstr "YER İŞARETİ"
+
+msgid "Remove all"
+msgstr "Hepsini Kaldır"
+
+msgid "Apply filter"
+msgstr "Filtreyi Uygula"
+
+msgid "Select Subtype"
+msgstr "Alt tür seç"
+
+msgid "Enchère"
+msgstr "Açık artırma"
+
+msgid "Location"
+msgstr "Kiralama"
+
+msgid "Location saisonnière"
+msgstr "Sezonluk kiralama"
+
+msgid "From"
+msgstr "-den"
+
+msgid "To"
+msgstr "-e"
+
+msgid "Dates"
+msgstr "Tarih"
+
+msgid "Select country"
+msgstr "Ülke seçin"
+
+msgid "Select region"
+msgstr "Bölge seçin"
+
+msgid "Select district"
+msgstr "İlçe seçin"
+
+msgid "Select city"
+msgstr "Şehir seçin"
+
+msgid "Good"
+msgstr "İyi"
+
+msgid "Bad"
+msgstr "Kötü"
+
+msgid "hello"
+msgstr "Merhaba"
+
+msgid "Available Integrations"
+msgstr "Mevcut entegrasyonlar"
+
+msgid "reCAPTCHA Detected"
+msgstr "Recaptcha tespit edildi"
+
+msgid "reCAPTCHA Not Detected"
+msgstr "Recaptcha tespit edilmedi"
+
+msgid "Google reCAPTCHA Integration"
+msgstr "Google Recaptcha Entegrasyonu"
+
+msgid ""
+"Protect your forms from spam and abuse with Google reCAPTCHA integration."
+msgstr ""
+"Formlarınızı Spam ve Kötüye Kullanımdan Koruyun Google Recaptcha "
+"Entegrasyonu ile."
+
+msgid "Activate Integration"
+msgstr "Entegrasyonu etkinleştir"
+
+msgid "Deactivate Integration"
+msgstr "Entegrasyonu devre dışı bırak"
+
+msgid "reCAPTCHA Configuration"
+msgstr "Recaptcha yapılandırması"
+
+msgid "Please configure your reCAPTCHA keys below to complete the setup."
+msgstr ""
+"Lütfen kurulumu tamamlamak için aşağıdaki Recaptcha anahtarlarınızı "
+"yapılandırın."
+
+msgid "To complete the reCAPTCHA setup:"
+msgstr "Recaptcha kurulumunu tamamlamak için:"
+
+msgid "Go to the"
+msgstr "Git"
+
+msgid "Google reCAPTCHA Admin Console"
+msgstr "Google Recaptcha Yönetici Konsolu"
+
+msgid "Register your site and get your Site Key and Secret Key"
+msgstr "Sitenizi kaydedin ve Site Anahtarınızı ve Gizli Anahtarınızı Alın"
+
+msgid "Enter the keys below to activate reCAPTCHA"
+msgstr "Recaptcha'yı etkinleştirmek için aşağıdaki tuşları girin"
+
+msgid "reCAPTCHA is configured properly."
+msgstr "Recaptcha düzgün yapılandırılır."
+
+msgid "Site Key"
+msgstr "Site anahtarı"
+
+msgid "Secret Key"
+msgstr "Gizli anahtar"
+
+msgid "Save Configuration"
+msgstr "Yapılandırmayı Kaydet"
+
+msgid "Contact Form"
+msgstr "İletişim formu"
+
+msgid "Invalid format"
+msgstr "Geçersiz Biçim"
+
+msgid "This field is required"
+msgstr "Bu alan gerekli"
+
+msgid "Invalid email format"
+msgstr "Geçersiz e -posta biçimi"
+
+msgid "Please use reCAPTCHA version 3"
+msgstr "Lütfen Recaptcha Sürüm 3'ü kullanın"

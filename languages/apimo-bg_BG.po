@@ -1,0 +1,5365 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bg_BG\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.1\n"
+
+msgid "Reminder"
+msgstr "Напомняне"
+
+msgid "Suggestion"
+msgstr "Предложение"
+
+msgid "Report"
+msgstr "Отчет"
+
+#, fuzzy
+msgid "Other"
+msgstr ""
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Други\n"
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Друго\n"
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Друго\n"
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Друго"
+
+msgid "Valuation"
+msgstr "Оценка"
+
+msgid "Advertising"
+msgstr "Реклама"
+
+msgid "Open House"
+msgstr "Open House"
+
+#, fuzzy
+msgid "Canvassing"
+msgstr ""
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Сбор голосов\n"
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Проучване"
+
+msgid "Message"
+msgstr "Съобщение"
+
+msgid "After-sales"
+msgstr "След продажба"
+
+msgid "Visit"
+msgstr "Оглед"
+
+msgid "Appointment"
+msgstr "Среща"
+
+#, fuzzy
+msgid "Phone"
+msgstr ""
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Телефон\n"
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"телефон\n"
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Телефон"
+
+msgid "e-mail"
+msgstr "e-mail"
+
+msgid "Fax"
+msgstr "Факс"
+
+#, fuzzy
+msgid "Mail"
+msgstr ""
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Пощ. кутия\n"
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Пощта"
+
+#, fuzzy
+msgid "SMS"
+msgstr ""
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"SMS\n"
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"СМС"
+
+msgid "Walk-in"
+msgstr "Влез"
+
+msgid "Extranet"
+msgstr "Екстранет"
+
+msgid "Project"
+msgstr "Проект"
+
+msgid "Under construction"
+msgstr "В процес на строителство"
+
+msgid "Delivered"
+msgstr "Доставено"
+
+msgid "Ended"
+msgstr "Завършен"
+
+msgid "Canceled"
+msgstr "Недовършен"
+
+msgid "Mr."
+msgstr "Г-н"
+
+msgid "Ms."
+msgstr "Г-жа"
+
+msgid "Mr. & Mrs."
+msgstr "Г-н & Г-жа"
+
+msgid "Sheik"
+msgstr "Шейх"
+
+msgid "Duke"
+msgstr "Херцог"
+
+msgid "Duchess"
+msgstr "Херцогиня"
+
+msgid "Lord"
+msgstr "Лорд"
+
+msgid "Maître"
+msgstr "Нотариус/Адвокат"
+
+msgid "Professor"
+msgstr "Професор"
+
+msgid "Sir"
+msgstr "Сър"
+
+msgid "Regulations"
+msgstr "Правно урегулиране"
+
+msgid "AML/KYC Vendor"
+msgstr "AML/KYC Vendor"
+
+msgid "AML/KYC Buyer"
+msgstr "AML/KYC Buyer"
+
+msgid "Concierge"
+msgstr "Портиер"
+
+msgid "Contact"
+msgstr "Свържете се с нас"
+
+msgid "Search"
+msgstr "Повече информация"
+
+#, fuzzy
+msgid "Owner"
+msgstr ""
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Продава\n"
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Собственик"
+
+#, fuzzy
+msgid "e-mail alert"
+msgstr ""
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Известие по e-mail\n"
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"e-mail известяване"
+
+msgid "Send to a friend"
+msgstr "Изпрати на приятел"
+
+msgid "Newsletter"
+msgstr "Бюлетин"
+
+#, fuzzy
+msgid "Selection"
+msgstr ""
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Селекция\n"
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Избор"
+
+#, fuzzy
+msgid "New"
+msgstr ""
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Нов\n"
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Ново жилище\n"
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Нов"
+
+msgid "Opened"
+msgstr "Отворена"
+
+msgid "Processing"
+msgstr "В процес"
+
+#, fuzzy
+msgid "Closed"
+msgstr ""
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Сделката е приключена\n"
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Затворено/Приключено\n"
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Затворено"
+
+msgid "Self-employed"
+msgstr "Самоосигуряващ"
+
+msgid "Bakery"
+msgstr "Пекарна"
+
+msgid "Restaurant"
+msgstr "Ресторант"
+
+msgid "Press"
+msgstr "Преса"
+
+msgid "Bar"
+msgstr "Бар"
+
+msgid "Florist"
+msgstr "Цветарски магазин"
+
+msgid "Tobacconist"
+msgstr "Лавка"
+
+msgid "Clothes"
+msgstr "Дрехи"
+
+msgid "Chemist"
+msgstr "Химик"
+
+msgid "Shopping centre"
+msgstr "Търговски център"
+
+msgid "Travel agency"
+msgstr "Туристическа агенция"
+
+msgid "Real estate agent"
+msgstr "Консултант недвижими имоти"
+
+msgid "Gallery"
+msgstr "Галерия"
+
+msgid "Garage"
+msgstr "Гараж"
+
+msgid "Insurer"
+msgstr "Застраховател"
+
+msgid "Optician"
+msgstr "Оптика"
+
+msgid "Perfumery"
+msgstr "Парфюмерия"
+
+#, fuzzy
+msgid "Hotel"
+msgstr ""
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Хотел\n"
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Хотел\n"
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"хотел"
+
+msgid "Antique dealer"
+msgstr "Антиквар"
+
+msgid "Laundry"
+msgstr "Химическо чистене/Пералня"
+
+msgid "Pressing"
+msgstr "Гладене"
+
+msgid "Jeweller"
+msgstr "Бижутер"
+
+msgid "Grocer"
+msgstr "Продавач в хранителен магазин"
+
+msgid "Pork butcher"
+msgstr "Месар"
+
+msgid "Caterer"
+msgstr "Доставчик"
+
+msgid "Brewery"
+msgstr "Пивоварна"
+
+msgid "Snack"
+msgstr "Закуска"
+
+msgid "Confectioner"
+msgstr "Сладкар"
+
+msgid "Grocery"
+msgstr "Хранителен магазин"
+
+msgid "Cheesemonger"
+msgstr "Сиренар"
+
+msgid "Fruit and vegetables"
+msgstr "Плодове и зеленчуци"
+
+msgid "Sex shop"
+msgstr "Секс-шоп"
+
+msgid "Video game"
+msgstr "Видео игра"
+
+msgid "Computer"
+msgstr "Компютър"
+
+msgid "Hairdresser"
+msgstr "Фризьорски салон"
+
+msgid "Cosmetician"
+msgstr "Козметолог"
+
+msgid "Household electrical"
+msgstr "Битова електроника"
+
+msgid "Shoes"
+msgstr "Обувен магазин"
+
+msgid "Haberdasher"
+msgstr "Галантерия"
+
+msgid "Groomer"
+msgstr "Автомобильная заправочная станция"
+
+msgid "Tea room"
+msgstr "Чайна"
+
+#, fuzzy
+msgid "Beach"
+msgstr ""
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Плаж\n"
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"плаж"
+
+msgid "Bookshop"
+msgstr "Книжарница"
+
+msgid "Offices"
+msgstr "Офиси"
+
+msgid "Gas station"
+msgstr "Бензиностанция"
+
+msgid "Camping"
+msgstr "Къмпинг"
+
+msgid "Nightclub"
+msgstr "Нощен клуб"
+
+msgid "Pet store"
+msgstr "Зоомагазин"
+
+msgid "Video arcade"
+msgstr "Видео галерия"
+
+msgid "Office supplies"
+msgstr "Канцеларски стоки"
+
+msgid "Furniture"
+msgstr "Мебели"
+
+msgid "Decoration"
+msgstr "Декорации"
+
+msgid "Agriculture"
+msgstr "Селско стопанство"
+
+msgid "Photo"
+msgstr "Фотография"
+
+msgid "Drugstore"
+msgstr "Аптека"
+
+msgid "Locksmith"
+msgstr "Ключар"
+
+msgid "Health club"
+msgstr "Спортно-оздравителен център"
+
+#, fuzzy
+msgid "Taxi"
+msgstr ""
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Такси\n"
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"такси"
+
+#, fuzzy
+msgid "Cinema"
+msgstr ""
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Кино\n"
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Домашно кино"
+
+msgid "Theater"
+msgstr "Театър"
+
+msgid "Café"
+msgstr "Кафе"
+
+msgid "Garden centre"
+msgstr "Градински център"
+
+msgid "Hardware shop"
+msgstr "Стоки за бита"
+
+msgid "Fishmongers"
+msgstr "Търговец на риба"
+
+msgid "Recreation"
+msgstr "Отдих"
+
+msgid "Culture"
+msgstr "Култура"
+
+msgid "Sport supplies"
+msgstr "Спортни консумативи"
+
+msgid "Principal bedroom"
+msgstr "Спалня"
+
+msgid "Living-room"
+msgstr "Дневна"
+
+msgid "Kitchen"
+msgstr "Кухня"
+
+#, fuzzy
+msgid "Parking"
+msgstr ""
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Паркинг\n"
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"паркинг\n"
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Паркомясто"
+
+#, fuzzy
+msgid "Basement"
+msgstr ""
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Маза\n"
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Изба/Маза"
+
+msgid "Garden shelter"
+msgstr "Градинска беседка"
+
+msgid "Bathroom"
+msgstr "Баня"
+
+msgid "Laundry room"
+msgstr "Перално помещение"
+
+msgid "Study"
+msgstr "Кабинет"
+
+msgid "Hallway"
+msgstr "Коридор"
+
+msgid "Corridor"
+msgstr "Проход"
+
+msgid "Shower room"
+msgstr "Баня с душ"
+
+msgid "Closet"
+msgstr "Гардеробна"
+
+msgid "Entrance"
+msgstr "Антре"
+
+msgid "Lavatory"
+msgstr "Тоалетна"
+
+msgid "Veranda"
+msgstr "Веранда"
+
+#, fuzzy
+msgid "Terrace"
+msgstr ""
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Тераса\n"
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Терраса"
+
+msgid "Solarium"
+msgstr "Солариум"
+
+msgid "Living room/dining area"
+msgstr "Дневна/трапезария"
+
+msgid "Play room"
+msgstr "Стая за игри"
+
+msgid "Dining room"
+msgstr "Трапезария"
+
+msgid "Pool house"
+msgstr "Къща към басейна"
+
+msgid "Cupboard"
+msgstr "Шкаф"
+
+msgid "Not used"
+msgstr "Неизползван"
+
+msgid "Loggia"
+msgstr "Лоджия"
+
+msgid "Attic"
+msgstr "Таван"
+
+msgid "Mezzanine"
+msgstr "Мецанин"
+
+msgid "Pantry"
+msgstr "Изба"
+
+msgid "Maintenance room"
+msgstr "Сервизно помещение"
+
+#, fuzzy
+msgid "Workshop"
+msgstr ""
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Работилница\n"
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"цех"
+
+#, fuzzy
+msgid "Studio"
+msgstr ""
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Студио\n"
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"студио"
+
+msgid "Loft"
+msgstr "Лофт"
+
+msgid "Library"
+msgstr "Библиотека"
+
+#, fuzzy
+msgid "Courtyard"
+msgstr ""
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Вътрешен двор\n"
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"двор"
+
+msgid "Landing"
+msgstr "Стълбищна площадка"
+
+msgid "Linen room"
+msgstr "Стая за бельо"
+
+msgid "Bathroom / Lavatory"
+msgstr "Баня с вана/Тоалетна"
+
+msgid "Shower room / Lavatory"
+msgstr "Баня с душ/Тоалетна"
+
+msgid "Balcony"
+msgstr "Балкон"
+
+msgid "Exercise room"
+msgstr "Фитнес зала"
+
+msgid "Discothèque"
+msgstr "Нощен клуб"
+
+msgid "Home cinema"
+msgstr "Домашно кино"
+
+msgid "Reception room"
+msgstr "Приемна зала"
+
+msgid "Storage room"
+msgstr "Килер"
+
+#, fuzzy
+msgid "Garden"
+msgstr ""
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Градина\n"
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"градина\n"
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Градина"
+
+#, fuzzy
+msgid "Park"
+msgstr ""
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Парк\n"
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"парк\n"
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"парк"
+
+#, fuzzy
+msgid "Land"
+msgstr ""
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Парцел\n"
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Земя"
+
+msgid "Patio"
+msgstr "Патио"
+
+msgid "Suite"
+msgstr "Сюит"
+
+msgid "Shed"
+msgstr "Постройка за съхраняване на инструменти"
+
+#, fuzzy
+msgid "Apartment"
+msgstr ""
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Апартамент\n"
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"апартамент\n"
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"апартамент"
+
+msgid "Cabin"
+msgstr "Кабина"
+
+#, fuzzy
+msgid "Barn"
+msgstr ""
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Плевня\n"
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"обор"
+
+msgid "Outbuilding"
+msgstr "Външна постройка"
+
+msgid "Bike storage room"
+msgstr "Помещение за велосипеди"
+
+msgid "Ski storage room"
+msgstr "Помещение за ски"
+
+msgid "Garbage room"
+msgstr "Помещение за времено съхранение на смет и отпадъци"
+
+msgid "Steam room"
+msgstr "Турска баня"
+
+msgid "Indoor swimming pool"
+msgstr "Закрит басейн"
+
+msgid "Prayer room"
+msgstr "Стая за молитва"
+
+msgid "Sauna"
+msgstr "Сауна"
+
+msgid "Watchtower"
+msgstr "Наблюдателна кула"
+
+msgid "Room"
+msgstr "Стая"
+
+msgid "Meeting room"
+msgstr "Конферентна зала"
+
+msgid "Maid's room"
+msgstr "Помещение за обслужващ персонал"
+
+msgid "Maid's studio"
+msgstr "Студио за обслужващ персонал"
+
+msgid "Double reception room"
+msgstr "Двойна дневна/Приемна"
+
+msgid "Triple reception room"
+msgstr "Тройная дневна/Приемна"
+
+msgid "Indoor parking"
+msgstr "Закрит паркинг"
+
+msgid "Outdoor parking"
+msgstr "Открит паркинг"
+
+msgid "Stockroom"
+msgstr "Стая за съхранение"
+
+msgid "Shop"
+msgstr "Магазин"
+
+msgid "Cafeteria"
+msgstr "Кафе"
+
+#, fuzzy
+msgid "Unit"
+msgstr ""
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Имот\n"
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Lot"
+
+msgid "Warehouse"
+msgstr "Склад"
+
+msgid "Accommodation"
+msgstr "Жилище"
+
+#, fuzzy
+msgid "Arcade"
+msgstr ""
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Аркада\n"
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"арка"
+
+#, fuzzy
+msgid "House"
+msgstr ""
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Къща\n"
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"къща\n"
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"къща\n"
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"къща"
+
+msgid "Stair"
+msgstr "Стълбище"
+
+#, fuzzy
+msgid "Box"
+msgstr ""
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Отсек\n"
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Кутия"
+
+msgid "Carnotzet"
+msgstr "Помещение във винена изба за дегустация на вино"
+
+msgid "Panic room"
+msgstr "Паник стая"
+
+msgid "Single"
+msgstr "Индивидуален"
+
+msgid "Twin"
+msgstr "Двоен"
+
+msgid "Twin by garage"
+msgstr "Двоен гараж"
+
+msgid "Village house"
+msgstr "Селска къща"
+
+msgid "Twin by angle"
+msgstr "Къща-близнак"
+
+msgid "Ranged"
+msgstr "Разположен"
+
+msgid "Standard"
+msgstr "Стандартен"
+
+msgid "Co-exclusive"
+msgstr "Ко ексклузивен"
+
+#, fuzzy
+msgid "Exclusive"
+msgstr ""
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Екслузивен\n"
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Ексклузивен"
+
+msgid "Delegation"
+msgstr "Делегация"
+
+msgid "Exclusive agent"
+msgstr "Ексклузивен агент"
+
+msgid "Colleague"
+msgstr "Колега"
+
+msgid "Free"
+msgstr "Свободен"
+
+msgid "Rented"
+msgstr "Отдаден"
+
+msgid "Occupied"
+msgstr "Зает"
+
+msgid "To be agreed"
+msgstr "В процес на съгласуване"
+
+msgid "Building"
+msgstr "Сграда"
+
+msgid "Residence"
+msgstr "Местожителство"
+
+msgid "Housing scheme"
+msgstr "План-схема"
+
+msgid "Hamlet"
+msgstr "Село"
+
+msgid "Domain"
+msgstr "Област"
+
+#, fuzzy
+msgid "Property"
+msgstr ""
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Собственост\n"
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Имот\n"
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Имот"
+
+#, fuzzy
+msgid "Street"
+msgstr ""
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Улица\n"
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"улица"
+
+msgid "Sale"
+msgstr "Продажба"
+
+msgid "Rental"
+msgstr "Наем"
+
+msgid "Seasonal rental"
+msgstr "Сезонен наем"
+
+msgid "Development"
+msgstr "Ново строителство"
+
+#, fuzzy
+msgid "Life annuity"
+msgstr ""
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Пожизнена рента\n"
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Доживотна рента\n"
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Доживотна рента"
+
+msgid "Auction"
+msgstr "Аукцион"
+
+msgid "Unit sale"
+msgstr "Единична продажба"
+
+msgid "Bulk sale"
+msgstr "Продажби на едро"
+
+msgid "Unfurnished"
+msgstr "Необзаведен"
+
+#, fuzzy
+msgid "Furnished"
+msgstr ""
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Обзаведен\n"
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"обзаведен\n"
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Обзаведен/а"
+
+msgid "Roommate"
+msgstr "Съквартирант"
+
+msgid "Student"
+msgstr "Студент"
+
+msgid "Holidays"
+msgstr "Почивни дни"
+
+#, fuzzy
+msgid "Event"
+msgstr ""
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"събитие\n"
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Мероприятие"
+
+msgid "New construction"
+msgstr "Ново строителство"
+
+msgid "Life annuity occupied"
+msgstr "Доживотна рента заета"
+
+msgid "Bare Ownership"
+msgstr "собственост"
+
+msgid "Forward sale"
+msgstr "Предсрочна продажба"
+
+msgid "Life annuity semi-occupied"
+msgstr "Доживотна рента при полузаетост"
+
+msgid "Forward sale available"
+msgstr "Последваща продажба е налична"
+
+msgid "Forward sale semi-occupied"
+msgstr "Последваща продажба при полузаетост"
+
+msgid "Forward sale occupied"
+msgstr "Заета последваща продажба"
+
+msgid "Life annuity without income"
+msgstr "Жизнена рента без доход"
+
+msgid "Requires updating"
+msgstr "Нуждае се от освежаване"
+
+msgid "Good condition"
+msgstr "В добро състояние"
+
+msgid "Requires renovation"
+msgstr "Нуждае се от ремонт"
+
+msgid "Excellent condition"
+msgstr "В идеално състояние"
+
+msgid "Timber"
+msgstr "Дървен материал"
+
+msgid "Engineered wood"
+msgstr "Индустриална (Композитна) дървесина"
+
+msgid "Stone"
+msgstr "Камък"
+
+msgid "Brick"
+msgstr "Тухла"
+
+msgid "Concrete"
+msgstr "Бетон"
+
+msgid "Reinforced concrete"
+msgstr "Железобетон"
+
+msgid "Steel frame"
+msgstr "Стоманена конструкця"
+
+msgid "Reinforced concrete frame"
+msgstr "Железобетонна конструкция"
+
+msgid "Shear wall"
+msgstr "Стоманобетонна диафрагма (шайба)"
+
+msgid "Concrete block"
+msgstr "Бетонен блок"
+
+msgid "Ground floor"
+msgstr "Партер"
+
+msgid "Top floor"
+msgstr "Последен етаж"
+
+msgid "1st"
+msgstr "1-ви"
+
+msgid "2nd"
+msgstr "2-ри"
+
+msgid "3rd"
+msgstr "3-ти"
+
+msgid "4th"
+msgstr "4-ти"
+
+msgid "5th"
+msgstr "5-ти"
+
+msgid "6th"
+msgstr "6-ти"
+
+msgid "7th"
+msgstr "7-ми"
+
+msgid "8th"
+msgstr "8-ми"
+
+msgid "9th"
+msgstr "9-ти"
+
+msgid "10th"
+msgstr "10-ти"
+
+msgid "11th"
+msgstr "11-ти"
+
+msgid "12th"
+msgstr "12-ти"
+
+msgid "13th"
+msgstr "13-ти"
+
+msgid "14th"
+msgstr "14-ти"
+
+msgid "15th"
+msgstr "15-ти"
+
+msgid "16th"
+msgstr "16-ти"
+
+msgid "17th"
+msgstr "17-ти"
+
+msgid "18th"
+msgstr "18-ти"
+
+msgid "19th"
+msgstr "19-ти"
+
+msgid "20th"
+msgstr "20-ти"
+
+msgid "Garden level"
+msgstr "Нива на двор/градина"
+
+msgid "Split-level"
+msgstr "Полуетаж"
+
+msgid "-1"
+msgstr "-1"
+
+msgid "-2"
+msgstr "-2"
+
+msgid "-3"
+msgstr "-3"
+
+msgid "-4"
+msgstr "-4"
+
+msgid "Single-storey"
+msgstr "Едноетажна"
+
+msgid "21st"
+msgstr "21-ви"
+
+msgid "22nd"
+msgstr "22-ри"
+
+msgid "23rd"
+msgstr "23-ти"
+
+msgid "24th"
+msgstr "24-ти"
+
+msgid "25th"
+msgstr "25-ти"
+
+msgid "26th"
+msgstr "26-ти"
+
+msgid "27th"
+msgstr "27-ми"
+
+msgid "28th"
+msgstr "28-ми"
+
+msgid "29th"
+msgstr "29-ти"
+
+msgid "30th"
+msgstr "30-ти"
+
+msgid "31st"
+msgstr "31-ви"
+
+msgid "32nd"
+msgstr "32-ри"
+
+msgid "33rd"
+msgstr "33-ти"
+
+msgid "34th"
+msgstr "34-ти"
+
+msgid "35th"
+msgstr "35-ти"
+
+msgid "36th"
+msgstr "36-ти"
+
+msgid "37th"
+msgstr "37-ми"
+
+msgid "38th"
+msgstr "38-ти"
+
+msgid "39th"
+msgstr "39-ти"
+
+msgid "40th"
+msgstr "40-ти"
+
+msgid "-5"
+msgstr "-5"
+
+msgid "-6"
+msgstr "-6"
+
+msgid "-7"
+msgstr "-7"
+
+msgid "-8"
+msgstr "-8"
+
+msgid "-9"
+msgstr "-9"
+
+msgid "-10"
+msgstr "-10"
+
+msgid "41st"
+msgstr "41"
+
+msgid "42nd"
+msgstr "42"
+
+msgid "43rd"
+msgstr "43"
+
+msgid "44th"
+msgstr "44"
+
+msgid "45th"
+msgstr "45"
+
+msgid "46th"
+msgstr "46"
+
+msgid "47th"
+msgstr "47"
+
+msgid "48th"
+msgstr "48"
+
+msgid "49th"
+msgstr "49"
+
+msgid "50th"
+msgstr "50"
+
+msgid "51st"
+msgstr "51"
+
+msgid "52nd"
+msgstr "52"
+
+msgid "53rd"
+msgstr "53"
+
+msgid "54th"
+msgstr "54"
+
+msgid "55th"
+msgstr "55"
+
+msgid "56th"
+msgstr "56"
+
+msgid "57th"
+msgstr "57"
+
+msgid "58th"
+msgstr "58"
+
+msgid "59th"
+msgstr "59"
+
+msgid "60th"
+msgstr "60"
+
+msgid "Wooden floor"
+msgstr "Паркет"
+
+msgid "Tile"
+msgstr "Плочка"
+
+msgid "Carpet"
+msgstr "Килим/Мокет"
+
+msgid "Natural fiber"
+msgstr "Естествени влкана"
+
+msgid "Coco"
+msgstr "Кокос"
+
+msgid "Travertine"
+msgstr "Травертин"
+
+msgid "Marble"
+msgstr "Мрамор"
+
+msgid "Granite"
+msgstr "Гранит"
+
+msgid "Terracotta tile"
+msgstr "Теракот"
+
+msgid "Teak"
+msgstr "Тик"
+
+msgid "Mosaïc"
+msgstr "Мозайка"
+
+msgid "Clay"
+msgstr "Грундирано покритие"
+
+msgid "Laminate"
+msgstr "Ламинат"
+
+msgid "Vinyl composition tile"
+msgstr "Винилови плочки"
+
+msgid "Convector"
+msgstr "Конвектор"
+
+msgid "Underfloor"
+msgstr "Подово отопление"
+
+msgid "Radiator"
+msgstr "Радиатор"
+
+#, fuzzy
+msgid "Stove"
+msgstr ""
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Печка\n"
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Кухненски котлони"
+
+msgid "Air-conditioning"
+msgstr "Климатик"
+
+msgid "Central"
+msgstr "Централно отопление"
+
+msgid "Without"
+msgstr "Без"
+
+msgid "Fireplace"
+msgstr "Камина"
+
+msgid "Individual"
+msgstr "Индивидуална"
+
+msgid "Common"
+msgstr "Обща"
+
+msgid "Mixed"
+msgstr "Смесена"
+
+msgid "District heating"
+msgstr "Отопление"
+
+msgid "Gas"
+msgstr "Газ"
+
+msgid "Fuel oil"
+msgstr "Мазут"
+
+msgid "Electric"
+msgstr "Електричество"
+
+msgid "Wood"
+msgstr "Дърва"
+
+msgid "Solar"
+msgstr "Слънчева енергия"
+
+msgid "Charcoal"
+msgstr "Въглища"
+
+msgid "Heat pump"
+msgstr "Термо помпа"
+
+msgid "Geothermal"
+msgstr "Геотермална"
+
+msgid "Wood pellet"
+msgstr "Пелети"
+
+#, fuzzy
+msgid "Hot water"
+msgstr ""
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Гореща вода\n"
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Топла вода"
+
+msgid "Boiler"
+msgstr "Бойлер"
+
+msgid "Collective"
+msgstr "Централна"
+
+msgid "Flat"
+msgstr "Апартамент"
+
+msgid "Dry-stone wall terraces"
+msgstr "Каменна тераса"
+
+msgid "Steep"
+msgstr "Стръмно"
+
+msgid "Wooded"
+msgstr "Гористо"
+
+msgid "Meadow"
+msgstr "Поляна"
+
+msgid "Term lease"
+msgstr "Срок на наема"
+
+msgid "Long-Term"
+msgstr "Дългосрочен"
+
+msgid "Long-Term - Single activity"
+msgstr "Дългосрочен - Единична дейност"
+
+msgid "Long-Term - All activities"
+msgstr "Дългосрочни - Всички дейности"
+
+msgid "Seaside"
+msgstr "морски"
+
+#, fuzzy
+msgid "Village"
+msgstr ""
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Село\n"
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"село"
+
+msgid "Old town"
+msgstr "Старинен град"
+
+msgid "Precinct"
+msgstr "Пешеходна зона"
+
+#, fuzzy
+msgid "Ski slope"
+msgstr ""
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"До ски писта\n"
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Ски писта"
+
+msgid "Town center"
+msgstr "В центъра на града"
+
+msgid "Industrial estate"
+msgstr "В индустриална зона"
+
+msgid "Shopping center"
+msgstr "В търговска зона"
+
+msgid "Business park"
+msgstr "Бизнес парк"
+
+msgid "Airport area"
+msgstr "Летище"
+
+msgid "Science park"
+msgstr "До научно-изследователски център"
+
+msgid "Port area"
+msgstr "До пристанище"
+
+msgid "Outskirts"
+msgstr "Покрайнини"
+
+#, fuzzy
+msgid "Hills"
+msgstr ""
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"На хълм\n"
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Хълм"
+
+msgid "Waterfront"
+msgstr "Първа линия море/река/езеро"
+
+#, fuzzy
+msgid "Countryside"
+msgstr ""
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Селски район\n"
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"селски район"
+
+msgid "Suburb"
+msgstr "Предградие"
+
+msgid "East"
+msgstr "Изток"
+
+msgid "North"
+msgstr "Север"
+
+msgid "West"
+msgstr "Запад"
+
+msgid "South"
+msgstr "Юг"
+
+msgid "Day"
+msgstr "Ден"
+
+msgid "Week"
+msgstr "Седмица"
+
+msgid "Fortnight"
+msgstr "две седмици"
+
+#, fuzzy
+msgid "Month"
+msgstr ""
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"месец\n"
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Месец"
+
+msgid "Quarterly"
+msgstr "тримесечен"
+
+msgid "Bimonthly"
+msgstr "два пъти месечно"
+
+msgid "Half-yearly"
+msgstr "6 месеца"
+
+msgid "Yearly"
+msgstr "Годишно"
+
+msgid "Bus"
+msgstr "автобус"
+
+msgid "Bus hub"
+msgstr "Автобусен хъб"
+
+msgid "Metro"
+msgstr "метро"
+
+msgid "Shops"
+msgstr "Магазини"
+
+msgid "Primary school"
+msgstr "Начално училище"
+
+msgid "Town centre"
+msgstr "Градски център"
+
+msgid "Hospital/clinic"
+msgstr "Болница / клиника"
+
+msgid "Doctor"
+msgstr "Лекар"
+
+msgid "Tram"
+msgstr "трамвай"
+
+msgid "Train station"
+msgstr "ж.п. гара"
+
+msgid "Public parking"
+msgstr "Обществен паркинг"
+
+msgid "Supermarket"
+msgstr "супермаркет"
+
+msgid "Sea port"
+msgstr "Морско пристанище"
+
+msgid "Nursery"
+msgstr "Дневна грижа"
+
+msgid "Public pool"
+msgstr "Обществен басейн"
+
+msgid "Tennis"
+msgstr "Тенис"
+
+msgid "Golf"
+msgstr "голф"
+
+msgid "Movies"
+msgstr "кино"
+
+msgid "Secondary school"
+msgstr "Средно училище"
+
+msgid "Sport center"
+msgstr "Спортен център"
+
+msgid "Airport"
+msgstr "летище"
+
+msgid "Sea"
+msgstr "море"
+
+msgid "TGV station"
+msgstr "ж.п. гара (TGV)"
+
+msgid "Highway"
+msgstr "магистрала"
+
+msgid "University"
+msgstr "университет"
+
+msgid "Convention center"
+msgstr "Конгресен център"
+
+msgid "Lake"
+msgstr "езеро"
+
+msgid "On main road"
+msgstr "На главен път"
+
+msgid "Energy - Conventional consumption"
+msgstr "Енергия - конвенционална консумация"
+
+msgid "Energy - Emissions estimate"
+msgstr "Енергия - оценка на емисиите"
+
+msgid "« Carrez » act"
+msgstr "« Carrez » act"
+
+msgid "ERP"
+msgstr "ERP"
+
+msgid "Termites"
+msgstr "Термити"
+
+msgid "Asbestos"
+msgstr "азбест"
+
+#, fuzzy
+msgid "Lead"
+msgstr ""
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Водя\n"
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Водя\n"
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Lead"
+
+msgid "Electricity"
+msgstr "Електричество"
+
+msgid "Boutin act"
+msgstr "Boutin act"
+
+msgid "Sanitation"
+msgstr "канализация"
+
+msgid "EPI (Non renewable)"
+msgstr "Indice prestazione energyica (EPI)"
+
+msgid "APE"
+msgstr "APE"
+
+msgid "Request for nomination of an ad hoc agent"
+msgstr "Искане за назначаване на ad hoc агент"
+
+msgid "Request for nomination of a temporary administrator"
+msgstr "Искане за назначаване на временен администратор"
+
+msgid "Request for expert nomination"
+msgstr "Искане за назначаване на експерт"
+
+msgid "Sanitary authorization"
+msgstr "Agrément sanitaire"
+
+msgid "Energy consumption"
+msgstr "Консумация на енергия"
+
+msgid "Housing tax"
+msgstr "Жилищен данък"
+
+msgid "Land charges"
+msgstr "Charges foncières"
+
+msgid "Property tax (IPTU)"
+msgstr "IPTU"
+
+msgid "Minergie"
+msgstr "Minergie"
+
+msgid "Volume"
+msgstr "Сила на звука"
+
+msgid "Useful surface"
+msgstr "Полезна повърхност"
+
+msgid "Co-Ownership property"
+msgstr "Съсобственост"
+
+msgid "Communal tax rate"
+msgstr "Обща данъчна ставка"
+
+msgid "Droit de superficie"
+msgstr "Droit de superficie"
+
+msgid "Millièmes"
+msgstr "Millièmes"
+
+msgid "PPE budget"
+msgstr "Budget PPE"
+
+msgid "Current renovation fund"
+msgstr "Настоящ фонд ремонт"
+
+msgid "Plot ratio"
+msgstr "Coefficient d’utilisation du sol"
+
+msgid "Occupancy ratio"
+msgstr "Coefficient d’occupation au sol"
+
+msgid "Ground footprint coefficient"
+msgstr "Coefficient d’emprise au sol"
+
+msgid "Energy class"
+msgstr "Енергиен клас"
+
+msgid "Thermal insulation class"
+msgstr "Клас на топлоизолация"
+
+msgid "Greenhouse Gas"
+msgstr "Зелена енергия"
+
+msgid "Energy passport"
+msgstr "Енергиен паспорт"
+
+msgid "Energy certificate"
+msgstr "Енергиен сертификат"
+
+msgid "Energy consumption / Final energy requirement"
+msgstr "Консумация на енергия / Endenergiebedarf"
+
+msgid "Energy efficiency class"
+msgstr "Клас на енергийна ефективност"
+
+msgid "Year of construction according to certificate"
+msgstr "Година на строителство съгласно сертификат"
+
+msgid "Energy consumption : Hot water included"
+msgstr "Включена топла вода"
+
+msgid "Specific primary energy consumption"
+msgstr "Специфична първична консумация на енергия"
+
+msgid "PEB unique code"
+msgstr "PEB unique code"
+
+msgid "K level (Thermal Insulation)"
+msgstr "K ниво (топлоизолация)"
+
+msgid "Ew level (Energy performance)"
+msgstr "Ниво на Ew (енергийни характеристики)"
+
+msgid "CO2 emission"
+msgstr "Емисии CO2"
+
+msgid "Flood risks"
+msgstr "Рискове от наводнения"
+
+msgid "Certificate: Oil tank conformity"
+msgstr "Сертификат: Съответствие на резервоара за масло"
+
+msgid "Certificate : Electric installation conformity"
+msgstr "Сертификат: Съответствие на електрическата инсталация"
+
+msgid "« As Built » certificate"
+msgstr "« As Built » certificate"
+
+msgid "Total consumption of primary energy"
+msgstr "Total consumption of primary energy"
+
+msgid "Rental value"
+msgstr "Цена на наема"
+
+#, fuzzy
+msgid "Turnover"
+msgstr ""
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"оборот\n"
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Оборот"
+
+msgid "Net income"
+msgstr "Нетни приходи"
+
+msgid "Gross operating profit"
+msgstr "Брутна оперативна печалба"
+
+msgid "Personnel costs"
+msgstr "Разходи за персонал"
+
+msgid "Cash flow"
+msgstr "Паричен поток"
+
+msgid "Shareholders’equity"
+msgstr "Shareholders'equity"
+
+msgid "Net debt"
+msgstr "Нетно задължение"
+
+#, fuzzy
+msgid "Internet"
+msgstr ""
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"интернет\n"
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Интернет"
+
+msgid "Disabled access"
+msgstr "Отказан достъп"
+
+msgid "Alarm system"
+msgstr "Алармена система"
+
+msgid "Lift"
+msgstr "Асансьор"
+
+msgid "Caretaker"
+msgstr "Пазач/Портиер/Охрана"
+
+msgid "Double glazing"
+msgstr "Стклена дограма"
+
+msgid "Intercom"
+msgstr "домофон"
+
+msgid "TV distribution"
+msgstr "Параболична антена"
+
+msgid "Swimming pool"
+msgstr "Басейн"
+
+msgid "Security door"
+msgstr "Метална врата"
+
+msgid "Tennis court"
+msgstr "Тенис корт"
+
+msgid "Irrigation sprinkler"
+msgstr "Пръскачка за напояване"
+
+msgid "Barbecue"
+msgstr "Барбекю"
+
+msgid "Electric gate"
+msgstr "Електрическа врата"
+
+msgid "Crawl space"
+msgstr "Сервизно помещение"
+
+msgid "Car port"
+msgstr "Пристанище за коли"
+
+msgid "Caretaker house"
+msgstr "Къща за пазача"
+
+msgid "Sliding windows"
+msgstr "Плъзгащи се прозорци"
+
+msgid "Central vacuum system"
+msgstr "Централна вакуумна система"
+
+msgid "Electric shutters"
+msgstr "Електрически капаци на прозорци"
+
+msgid "Window shade"
+msgstr "Щори"
+
+msgid "Electric awnings"
+msgstr "Автоматична тента"
+
+msgid "Washing machine"
+msgstr "Пералня"
+
+msgid "Jacuzzi"
+msgstr "Джакузи"
+
+msgid "Whirlpool tub"
+msgstr "Хидромасажна вана"
+
+msgid "Well drilling"
+msgstr "Кладенец"
+
+msgid "Spring"
+msgstr "Извор"
+
+msgid "Engine generator"
+msgstr "Ел. Генератор"
+
+msgid "Dishwasher"
+msgstr "Съдомиялна"
+
+msgid "Hob"
+msgstr "Котлони ел./газ"
+
+msgid "Safe"
+msgstr "Сейф"
+
+msgid "Helipad"
+msgstr "Въртолетна площадка"
+
+msgid "Videophone"
+msgstr "Видеофон"
+
+msgid "Video security"
+msgstr "Видеонаблюдение"
+
+msgid "Iron"
+msgstr "Ютия"
+
+msgid "Hair dryer"
+msgstr "Сешоар"
+
+msgid "Television"
+msgstr "Сателитна телевизия"
+
+msgid "DVD Player"
+msgstr "DVD плейър"
+
+msgid "CD Player"
+msgstr "CD плейър"
+
+msgid "Outdoor lighting"
+msgstr "Външно осветление"
+
+msgid "Spa"
+msgstr "СПА"
+
+msgid "Home automation"
+msgstr "Домашна автоматизация"
+
+msgid "Linens"
+msgstr "Бельо"
+
+msgid "Tableware"
+msgstr "прибори за хранене"
+
+msgid "Clothes dryer"
+msgstr "Сушилня за дрехи"
+
+msgid "Refrigerator"
+msgstr "хладилник"
+
+msgid "Oven"
+msgstr "Фурна"
+
+msgid "Reception 24/7"
+msgstr "Рецепция 24/7"
+
+msgid "Coffeemaker"
+msgstr "Кафе машина"
+
+msgid "Microwave oven"
+msgstr "Микровълнова печка"
+
+msgid "Shabbat elevator"
+msgstr ""
+"Асансьор тип Шабат програмиран да спира автоматично на всеки етаж по време "
+"на Шабат"
+
+msgid "Sukkah"
+msgstr "Sukkah сукка (евр.)"
+
+msgid "Synagogue"
+msgstr "синагога"
+
+msgid "Digicode"
+msgstr "Digicode"
+
+msgid "Common laundry"
+msgstr "Обществена пералня"
+
+msgid "Pets allowed"
+msgstr "Разрешени са домашни любимци"
+
+msgid "Metal shutters"
+msgstr "Метални щори"
+
+msgid "Wiring closet"
+msgstr "Шкаф за окабеляване"
+
+msgid "Computer network"
+msgstr "Компютърна мрежа"
+
+msgid "Dropped ceiling"
+msgstr "Окачен таван"
+
+msgid "Fire hose cabinets"
+msgstr "Шкафове за пожарни маркучи"
+
+msgid "Fire sprinkler system"
+msgstr "Противопожарна спринклерна система"
+
+msgid "Wharf"
+msgstr "пристан"
+
+msgid "Connected thermostat"
+msgstr "Термостат"
+
+msgid "Bowling game"
+msgstr "Bowling game"
+
+msgid "Water softener"
+msgstr "Омекотител за вода"
+
+msgid "Triple glazing"
+msgstr "Троен стъклопакет"
+
+msgid "Optical fiber"
+msgstr "Оптични влакна"
+
+msgid "Non-flooding"
+msgstr "не се наводнява"
+
+msgid "Backup water system"
+msgstr "Резервна система водоснабдяване"
+
+msgid "Water filtration system"
+msgstr "Система за филтриране на водата"
+
+msgid "Air filtration system"
+msgstr "Система за филтриране на въздуха"
+
+msgid "Fire alarm system"
+msgstr "Пожароизвестителна система"
+
+msgid "Commercial services"
+msgstr "Търговски услуги"
+
+msgid "Playground"
+msgstr "Игрище"
+
+msgid "Berth"
+msgstr "Спално място"
+
+msgid "Supplies"
+msgstr "Консумативи"
+
+msgid "Outdoor spaces"
+msgstr "Открити пространства"
+
+msgid "Rental supplies"
+msgstr "Консумативи под наем"
+
+#, fuzzy
+msgid "Security"
+msgstr ""
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Сигурност\n"
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Безопасност"
+
+msgid "Professional supplies"
+msgstr "Професионални консумативи"
+
+msgid "High standard"
+msgstr "Висок клас"
+
+msgid "Luxury"
+msgstr "Луксозен"
+
+msgid "High luxury"
+msgstr "Супер Лукс"
+
+#, fuzzy
+msgid "Housing estate"
+msgstr ""
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Комплекс от къщи в затворен комплекс\n"
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"ж.к."
+
+msgid "Regular"
+msgstr "Регулярен"
+
+#, fuzzy
+msgid "In progress"
+msgstr ""
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"В процес\n"
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"В процес\n"
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"В процес на обработка"
+
+msgid "Standby"
+msgstr "Очакване"
+
+msgid "Deleted"
+msgstr "Изтрито"
+
+msgid "Waiting for contract"
+msgstr "Очаква се Договор"
+
+msgid "Agreement ended"
+msgstr "Приключено споразумение"
+
+#, fuzzy
+msgid "Offer"
+msgstr ""
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Предложение\n"
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Оферта"
+
+msgid "Processing sale"
+msgstr "В процес на сделка"
+
+msgid "Pending approval"
+msgstr "Очаква се потвърждение"
+
+msgid "Sell/Rent by agent"
+msgstr "Продажба/Наем консултант"
+
+msgid "Sell/Rent by owner"
+msgstr "Продажба/Наем собственик"
+
+msgid "Sell/Rent by other agent"
+msgstr "Продажба/Наем друг консултант"
+
+msgid "Removed by agent"
+msgstr "Премахнато от консултанта"
+
+msgid "Removed by owner"
+msgstr "Премахнато от собственика"
+
+msgid "Sale/Rental cancelled"
+msgstr "отказана Продажба/Наем"
+
+msgid "Delete this property"
+msgstr "За събаряне"
+
+msgid "Business"
+msgstr "Бизнес"
+
+msgid "Garage/Parking"
+msgstr "Гараж / Паркинг"
+
+#, fuzzy
+msgid "Office"
+msgstr ""
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"офис\n"
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Офис"
+
+msgid "Boat"
+msgstr "лодка"
+
+msgid "Cellar / Box"
+msgstr "Изба"
+
+msgid "Triplex"
+msgstr "Тризонет"
+
+msgid "Building land"
+msgstr "УПИ"
+
+msgid "Not constructible land"
+msgstr "Парцел без право на строеж"
+
+msgid "Penthouse"
+msgstr "Пентхаус"
+
+msgid "Castle"
+msgstr "замък"
+
+msgid "Duplex"
+msgstr "двоен"
+
+msgid "Mansion"
+msgstr "Имение"
+
+msgid "Farm"
+msgstr "ферма"
+
+msgid "Villa"
+msgstr "вила"
+
+msgid "Apartment villa"
+msgstr "Вила с апартаменти"
+
+msgid "Ruin"
+msgstr "Развалина"
+
+msgid "Mill"
+msgstr "мелница"
+
+msgid "Carpark"
+msgstr "Паркинг"
+
+msgid "Farmhouse"
+msgstr "Къща във ферма"
+
+msgid "Townhouse"
+msgstr "Градска къща"
+
+msgid "Mobile home"
+msgstr "Подвижен дом"
+
+msgid "Cottage"
+msgstr "селска къща"
+
+#, fuzzy
+msgid "Bedroom"
+msgstr ""
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"спалня\n"
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Спалня"
+
+msgid "Hangar"
+msgstr "хангар"
+
+msgid "Mas"
+msgstr "Mas"
+
+msgid "Local"
+msgstr "Помещение"
+
+msgid "Chalet"
+msgstr "Шале/Планинска хижа-вила"
+
+msgid "Retail space"
+msgstr "Търговско помещение"
+
+msgid "Business assets"
+msgstr "Търговско предприятие"
+
+msgid "Right to the lease"
+msgstr "Право на продължаване на наема"
+
+msgid "Management"
+msgstr "управление"
+
+msgid "Agricultural exploitation"
+msgstr "Селскостопанска експлоатация"
+
+msgid "Woodshed"
+msgstr "барака за дърва"
+
+msgid "Stud farm"
+msgstr "Производствена ферма"
+
+#, fuzzy
+msgid "Plot of land"
+msgstr ""
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Парцел земя\n"
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Парцел"
+
+msgid "Bastide"
+msgstr "Bastide"
+
+msgid "Bastidon"
+msgstr "Bastidon"
+
+msgid "Company"
+msgstr "Компания"
+
+msgid "Vineyard property"
+msgstr "Лозя"
+
+msgid "Motor Yacht"
+msgstr "Моторна яхта"
+
+msgid "Narrow boat"
+msgstr "Тясна лодка"
+
+msgid "Sailing Yacht"
+msgstr "Плавателна яхта"
+
+msgid "Catamaran"
+msgstr "катамаран"
+
+msgid "Equestrian estate"
+msgstr "Конюшня"
+
+msgid "Bed and breakfast"
+msgstr "Нощувка със закуска"
+
+msgid "Gîte"
+msgstr "Gîte"
+
+msgid "Riad"
+msgstr "Riad"
+
+msgid "Retail shop"
+msgstr "На дребно"
+
+msgid "Shophouse"
+msgstr "Shophouse"
+
+msgid "Borey"
+msgstr "Borey"
+
+msgid "Condo"
+msgstr "Апартамент"
+
+msgid "Factory"
+msgstr "Завод/Фабрика"
+
+msgid "Serviced apartment"
+msgstr "Апартамент с пълно обслужване"
+
+msgid "Twin Villa"
+msgstr "Къща-близнак"
+
+msgid "Ger district"
+msgstr ""
+
+msgid "Bungalow"
+msgstr "Бунгало"
+
+msgid "Beach house"
+msgstr "Къща на плажа"
+
+msgid "Summer house"
+msgstr "Лятна къща"
+
+msgid "Private island"
+msgstr "Частен остров"
+
+msgid "Residential land"
+msgstr "Парцел за жилищно застрояване"
+
+msgid "Commercial land"
+msgstr "Индустриален парцел"
+
+msgid "Subdivision"
+msgstr "Подразделение"
+
+msgid "Game reserve"
+msgstr "Резерват"
+
+msgid "Cellar"
+msgstr "Изба"
+
+msgid "Mountains"
+msgstr "Планини"
+
+msgid "Greenery"
+msgstr "зеленина"
+
+msgid "Monument"
+msgstr "Паметник"
+
+msgid "Forest"
+msgstr "гора"
+
+msgid "River"
+msgstr "река"
+
+#, fuzzy
+msgid "City"
+msgstr ""
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"град\n"
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Град"
+
+msgid "Sky"
+msgstr "небе"
+
+msgid "Main stem"
+msgstr "Главно стъбло"
+
+msgid "Harbor"
+msgstr "пристанище"
+
+msgid "Ski slopes"
+msgstr "Ски писти"
+
+msgid "Obstructed"
+msgstr "препречен"
+
+msgid "Slight"
+msgstr "лек"
+
+msgid "Unobstructed"
+msgstr "Безпрепятствена"
+
+msgid "Panoramic"
+msgstr "панорамен"
+
+msgid "Septic tank"
+msgstr "Септична яма"
+
+msgid "Main drainage"
+msgstr "Основен дренаж"
+
+msgid "Treatment plant"
+msgstr "Пречиствателна станция"
+
+msgid "Estate agent"
+msgstr "Консултант на имота"
+
+msgid "Phoning"
+msgstr "Обаждане по телефона"
+
+msgid "Collaboration"
+msgstr "Сътрудничество"
+
+msgid "Provider"
+msgstr "Доставчик"
+
+msgid "Renown"
+msgstr "Известно/популярно лице"
+
+msgid "Walk-in / Window"
+msgstr "Витрина"
+
+msgid "Network"
+msgstr "Мрежа"
+
+msgid "Flyer"
+msgstr "Листовка"
+
+msgid "Sign"
+msgstr "Знак"
+
+msgid "Magazine"
+msgstr "Списание"
+
+#, fuzzy
+msgid "Mailing"
+msgstr ""
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Изпращане на поща\n"
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Писма"
+
+#, fuzzy
+msgid "e-mailing"
+msgstr ""
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Изпращане на e-mail\n"
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"e-mailing"
+
+msgid "Old client"
+msgstr "Вече съществуващ клиент"
+
+msgid "Appraisal"
+msgstr "Оценка"
+
+msgid "Selection / Favorite"
+msgstr "Избор / Любим"
+
+msgid "Main residence"
+msgstr "Постоянно пребиваване"
+
+msgid "Secondary residence"
+msgstr "Вторично пребиваване"
+
+msgid "Student residence"
+msgstr "Пребиваване като студент"
+
+msgid "Tourism residence"
+msgstr "Пребиваване като турист"
+
+msgid "Seniors residence"
+msgstr "Пребиваване като пенсионер"
+
+msgid "Duflot Legislation"
+msgstr "Закон на Duflot"
+
+msgid "Censi-Bouvard Legislation"
+msgstr "Закон на Censsi-Bouvard"
+
+msgid "Reduced fees"
+msgstr "Намалени такси"
+
+msgid "EHPAD (Retirement homes)"
+msgstr "Домове за стари хора"
+
+msgid "Act 1291"
+msgstr "Акт 1291"
+
+msgid "Act 887"
+msgstr "Акт 887"
+
+msgid "Mixed-use"
+msgstr "Със смесено предназначение"
+
+msgid "Rental investment"
+msgstr "Инвестиция под наем"
+
+msgid "Act 1235"
+msgstr "Акт 1235"
+
+msgid "Pinel Legislation"
+msgstr "Закон на Pinel"
+
+msgid "Resale"
+msgstr "препродажба"
+
+msgid "Private leasing"
+msgstr "Частен лизинг"
+
+msgid "Bank leasing"
+msgstr "Банков лизинг"
+
+msgid "IPOTEK"
+msgstr "IPOTEK"
+
+msgid "Exchangeable"
+msgstr "сменяем"
+
+msgid "No advance"
+msgstr "Без аванс"
+
+msgid "m²"
+msgstr "m²"
+
+msgid "sq ft"
+msgstr "ft²"
+
+msgid "sq yd"
+msgstr "yd²"
+
+msgid "ha"
+msgstr "ha"
+
+msgid "minute"
+msgstr "минути"
+
+msgid "metre"
+msgstr "м"
+
+msgid "km"
+msgstr "km"
+
+msgid "Administrator"
+msgstr "администратор"
+
+msgid "Company manager"
+msgstr "Фирмен мениджър"
+
+msgid "Agency manager"
+msgstr "Мениджър на агенцията"
+
+msgid "Secretariat"
+msgstr "секретариат"
+
+#, fuzzy
+msgid "Agent"
+msgstr ""
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"посредник\n"
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Консултант"
+
+msgid "Intern"
+msgstr "Стажант"
+
+#, fuzzy
+msgid "User"
+msgstr ""
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"потребител\n"
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Ползвател"
+
+msgid "Franchisor"
+msgstr "франчайзодател"
+
+msgid "Translator"
+msgstr "Преводач"
+
+msgid "Plan"
+msgstr "План"
+
+msgid "Picture"
+msgstr "Снимка"
+
+msgid "Pet"
+msgstr "Домашно животно"
+
+msgid "Natural light"
+msgstr "Естествено осветление"
+
+msgid "Kitchen island"
+msgstr "Кухненски остров"
+
+msgid "Kitchen bar"
+msgstr "Кухненски бар"
+
+msgid "High ceiling"
+msgstr "Висок таван"
+
+msgid "Skylight"
+msgstr "Прозорец на покрива"
+
+msgid "Exposed bricks"
+msgstr "Декоративни външни/вътр. тухли"
+
+msgid "Ceiling fan"
+msgstr "Таванен вентилатор"
+
+msgid "Chandelier"
+msgstr "Полюлей"
+
+msgid "Stainless steel"
+msgstr "Неръждаема стомана"
+
+msgid "Price on request"
+msgstr "Цена по запитване"
+
+msgid "Currency"
+msgstr "Валута"
+
+msgid "Amount"
+msgstr "Цена"
+
+msgid "Type"
+msgstr "Тип"
+
+msgid "Cities"
+msgstr "Градове"
+
+msgid "Bedrooms"
+msgstr "Спални"
+
+msgid "Rooms"
+msgstr "Стаи"
+
+msgid "Send"
+msgstr "Изпращам"
+
+msgid "Messages"
+msgstr "Съобщение"
+
+msgid "Lastname"
+msgstr "Фамилия"
+
+msgid "Firstname"
+msgstr "Имe"
+
+msgid "Ref"
+msgstr "Номер"
+
+msgid ""
+"The migration of your prospect into a request will allow you to make "
+"matching and proposals with a better tracking."
+msgstr ""
+
+msgid "%s bedroom"
+msgstr "%s Спалня"
+
+msgid "%s bedrooms"
+msgstr "%s Спални"
+
+msgid "%s room"
+msgstr "%s Стая"
+
+msgid "%s rooms"
+msgstr "%s Стаи"
+
+msgid "Folder"
+msgstr "Папка"
+
+msgid "No matches found"
+msgstr "Не е намерено съвпадение"
+
+msgid "Please enter one more character"
+msgstr "Моля, въведете още един знак"
+
+msgid "Duplicate"
+msgstr "Копие"
+
+msgid "Backup"
+msgstr "Резервно копие"
+
+msgid "Rate"
+msgstr "Ставка"
+
+msgid "Sender"
+msgstr "Изпращач"
+
+msgid "Recipient"
+msgstr "Получател"
+
+msgid "Subject"
+msgstr "Тема"
+
+msgid "Attachment"
+msgstr "Прикачен файл"
+
+msgid "Key"
+msgstr "Ключ"
+
+msgid "Documentation"
+msgstr "Документация"
+
+msgid "Name"
+msgstr "Име"
+
+msgid "Back"
+msgstr "Назад"
+
+msgid "Help?"
+msgstr "Помощ?"
+
+msgid "Read more"
+msgstr "Виж повече"
+
+msgid "Area"
+msgstr "Площ"
+
+msgid "Areas"
+msgstr "Площи"
+
+msgid "Longitude"
+msgstr "Дължина"
+
+msgid "Height"
+msgstr "Височина"
+
+msgid "Latitude"
+msgstr "Ширина"
+
+msgid "Deposit"
+msgstr "Депозит"
+
+msgid "Agreement reference"
+msgstr "Споразумение референция"
+
+msgid "Agreement start at"
+msgstr "Споразумението влиза в сила на"
+
+msgid "Agreement end at"
+msgstr "Споразумението изтича на"
+
+msgid "Website"
+msgstr "Сайт"
+
+msgid "Proximity"
+msgstr "Близост"
+
+msgid "Proximities"
+msgstr "Близости"
+
+msgid "Loading"
+msgstr "Зареждане"
+
+msgid "Exit"
+msgstr "Изход"
+
+msgid "Availability"
+msgstr "Достъпност"
+
+msgid "Total area"
+msgstr "Обща площ"
+
+msgid "Living area"
+msgstr "Жилищна площ"
+
+msgid "Password forgotten"
+msgstr "Забравена парола?"
+
+msgid "Password"
+msgstr "Парола"
+
+msgid "Username"
+msgstr "Имя на ползвателя"
+
+msgid "Welcome %s"
+msgstr "Здравейте %s"
+
+msgid "Searches"
+msgstr "Търсене"
+
+msgid "Ad"
+msgstr "Добави"
+
+msgid "Show"
+msgstr "Покажи"
+
+msgid "Listing"
+msgstr "Списък"
+
+msgid "Tools"
+msgstr "Инструменти"
+
+msgid "Market"
+msgstr "Пазар"
+
+msgid "Agency"
+msgstr "Агенция"
+
+msgid "Calendar"
+msgstr "Календар"
+
+msgid "Homepage"
+msgstr "Начална страница"
+
+msgid "Map"
+msgstr "Карта"
+
+msgid "Value"
+msgstr "Значение"
+
+msgid "Users"
+msgstr "Ползватели"
+
+msgid "Sectors"
+msgstr "Сектори"
+
+msgid "Sector"
+msgstr "Сектор"
+
+msgid "contact"
+msgstr "Контакт"
+
+msgid "contacts"
+msgstr "Контакти"
+
+msgid "%s contact"
+msgstr "%s Контакт"
+
+msgid "%s contacts"
+msgstr "%s Контакти"
+
+msgid "Settings"
+msgstr "Настройки"
+
+msgid "General"
+msgstr "Генерална"
+
+msgid "Heating"
+msgstr "Отопление"
+
+msgid "Waste water"
+msgstr "Отпадни води"
+
+msgid "Country"
+msgstr "Страна"
+
+msgid "Escrow deposit"
+msgstr "Escrow"
+
+msgid "Orientation"
+msgstr "Изложение"
+
+msgid "View"
+msgstr "Гледка"
+
+msgid "District"
+msgstr "Район"
+
+msgid "Fields"
+msgstr "Област"
+
+msgid "Hook"
+msgstr "Hook"
+
+msgid "Comment"
+msgstr "Коментар"
+
+msgid "Buy"
+msgstr "Купува"
+
+msgid "Rent"
+msgstr "Наема"
+
+msgid "Commercial"
+msgstr "Търговски"
+
+msgid "About us"
+msgstr "За нас"
+
+msgid "Professionals"
+msgstr "Компания"
+
+msgid "Services"
+msgstr "Услуги"
+
+msgid "News"
+msgstr "Новини"
+
+msgid "Print"
+msgstr "Печат"
+
+msgid "Add to cart"
+msgstr "Добави в кошницата"
+
+msgid "Replace in cart"
+msgstr "Смени в кошницата"
+
+msgid "Category"
+msgstr "Категория"
+
+msgid "History"
+msgstr "История"
+
+msgid "Details"
+msgstr "Информация"
+
+msgid "Date"
+msgstr "Дата"
+
+msgid "Previous"
+msgstr "Предходен"
+
+msgid "Next"
+msgstr "Следващ"
+
+msgid "Quick search"
+msgstr "Бързо търсене"
+
+msgid "Postal code"
+msgstr "Пощенски код"
+
+msgid "The username and/or password is invalid."
+msgstr "Името на ползвателя и/или паролата са невалидни."
+
+msgid "Group"
+msgstr "Група"
+
+msgid "Are you sure?"
+msgstr "Сигурен ли си?"
+
+msgid "Nationality"
+msgstr "Гражданство"
+
+msgid "Regulation"
+msgstr "Правова система"
+
+msgid "Radius"
+msgstr "Радиус"
+
+msgid "Summary"
+msgstr "Резюме"
+
+msgid "Watermark"
+msgstr "Воден знак"
+
+msgid "Mortgage"
+msgstr "Ипотека"
+
+msgid "Download"
+msgstr "Изтегли"
+
+msgid "Dashboard"
+msgstr "Табло"
+
+msgid "Matching"
+msgstr "Съвпадение"
+
+msgid "Pay now by card"
+msgstr "Плащане с карта сега"
+
+msgid "Pay by bank transfer"
+msgstr "Плащане по банка"
+
+msgid "Pay by check"
+msgstr "Плащане с чек"
+
+msgid "Powered by"
+msgstr "Захранване от"
+
+msgid "Accepted payment methods"
+msgstr "Начини на плащане"
+
+msgid "Terms and Conditions"
+msgstr "Условия и срокове"
+
+msgid ""
+"Your contact is already in database, please select it on the list below."
+msgstr "Вашият контакт е вече в база данни, моля, изберете от списъка"
+
+msgid "Agreement"
+msgstr "Договор"
+
+msgid "Contracts"
+msgstr "Договори"
+
+msgid "Seekers"
+msgstr "Търсачи"
+
+msgid "Active seekers"
+msgstr "Активни търсачи"
+
+msgid "Owners"
+msgstr "Собственици"
+
+msgid "Active owners"
+msgstr "Настоящи собственици"
+
+msgid "Monitoring"
+msgstr "Мониторинг"
+
+msgid "Forward"
+msgstr "Препрати"
+
+msgid "Similar"
+msgstr "Подобно"
+
+msgid "Condition"
+msgstr "Общо състояние"
+
+msgid "Floor"
+msgstr "Етаж"
+
+msgid "Water"
+msgstr "Вода"
+
+msgid "Description"
+msgstr "Описание"
+
+msgid "Deductions"
+msgstr "Удръжки"
+
+msgid "Not available"
+msgstr "Не е актуално"
+
+msgid "Occupant"
+msgstr "Обитатели"
+
+msgid "Prospect"
+msgstr "Перспектива"
+
+msgid "Shares"
+msgstr "Дялове/акции"
+
+msgid "Likes"
+msgstr "Харесвания"
+
+msgid "Like"
+msgstr "Харесвам"
+
+msgid "Unlike"
+msgstr "Не харесвам"
+
+msgid "Portfolio"
+msgstr "Портфолио"
+
+msgid "Characteristics"
+msgstr "Характеристики"
+
+msgid "Contracted owner"
+msgstr "Собственик по договор"
+
+msgid "Contracted owners"
+msgstr "Собственици по договор"
+
+msgid "Contracted customer"
+msgstr "Клиент по договор"
+
+msgid "Contracted customers"
+msgstr "Клиенти по договор"
+
+msgid "Transfer tax"
+msgstr "Данък прехвърляне"
+
+msgid "Change to"
+msgstr "Смени на"
+
+msgid "Until"
+msgstr "До"
+
+msgid "Location reference"
+msgstr "Линк с местоположение"
+
+msgid "Priority"
+msgstr "Приоритет"
+
+msgid "Full form"
+msgstr "Пълна форма"
+
+msgid "Quick form"
+msgstr "Кратка форма"
+
+msgid "%s char(s)"
+msgstr "%s Чистачка"
+
+msgid "Price from"
+msgstr "Цена от"
+
+msgid "Listings"
+msgstr "Списъци"
+
+msgid "Duration"
+msgstr "Продължителност"
+
+msgid "Request incomplete"
+msgstr "Непълна заявка"
+
+msgid "%s incomplete request(s)"
+msgstr "%s Непълна/и заявка/и"
+
+msgid "Subscribe for"
+msgstr "Абонирай се за"
+
+msgid "Configuration"
+msgstr "Конфигурация"
+
+msgid "Subtotal"
+msgstr "Междинна сума"
+
+msgid "Tax notice"
+msgstr "Известие за данъци"
+
+msgid "Events"
+msgstr "Мероприятия/Събития"
+
+msgid "Present"
+msgstr "Присъства"
+
+msgid "Missing"
+msgstr "Отсъства"
+
+msgid "Planned"
+msgstr "Планиран"
+
+msgid "Full"
+msgstr "Пълен"
+
+msgid "Organizer"
+msgstr "Организатор"
+
+msgid "Already subscribed"
+msgstr "Вече абониран"
+
+msgid "Attendees"
+msgstr "Участници"
+
+msgid "Join"
+msgstr "Присъединявам"
+
+msgid "Training"
+msgstr "Тренинг"
+
+msgid "Require a change of password at next logon"
+msgstr "Изисква смяна на парола при следващо влизане"
+
+msgid "Gross revenue"
+msgstr "Брутен приход"
+
+msgid "Gross yield"
+msgstr "Брутна печалба"
+
+msgid "Net yield"
+msgstr "Чиста печалба"
+
+msgid "Vacancy rate"
+msgstr "Свободни работни места"
+
+msgid "Investment"
+msgstr "Инвестиция"
+
+msgid "Lock"
+msgstr "Затваряне"
+
+msgid "Variables"
+msgstr "Изменения"
+
+msgid "Example"
+msgstr "Пример"
+
+msgid "Increment"
+msgstr "Увеличение"
+
+msgid "Schema"
+msgstr "Схема"
+
+msgid "Automatic"
+msgstr "Автоматично"
+
+msgid "Entry"
+msgstr "Вход"
+
+msgid "Renovation year"
+msgstr "Година на ремонт"
+
+msgid "Curriculum vitae"
+msgstr "Характеристика/CV"
+
+msgid "Resellers"
+msgstr "Препродавачи"
+
+msgid "Select"
+msgstr "Отбележи"
+
+msgid "Billing"
+msgstr "Фактуриране"
+
+msgid "The balance of your account is %s"
+msgstr "Баланса по Вашата сметка е %s"
+
+msgid "Ceiling"
+msgstr "Таван"
+
+msgid "Weighted area"
+msgstr "Измерена площ"
+
+msgid "Collected"
+msgstr "Събрано"
+
+msgid "Unlimited"
+msgstr "Неограничен"
+
+msgid "Number"
+msgstr "Количество"
+
+msgid "Subscribe"
+msgstr "Абонирай се"
+
+msgid "Setup"
+msgstr "Настройка"
+
+msgid "Available"
+msgstr "Свободен"
+
+msgid "Active owner"
+msgstr "Активен собственик"
+
+msgid "Matching at"
+msgstr "Съвпада с"
+
+msgid "Price by area"
+msgstr "Цена  по район"
+
+msgid "Default list"
+msgstr "Списък по подразиране"
+
+msgid "Subtype"
+msgstr "Подтип"
+
+msgid "Inventory"
+msgstr "Оборудване"
+
+msgid "Add a custom document"
+msgstr "Добави документ на клиента"
+
+msgid "Line spacing"
+msgstr "Разстояние между линиите"
+
+msgid "Font"
+msgstr "Шрифт"
+
+msgid "Portrait"
+msgstr "Портрет"
+
+msgid "Landscape"
+msgstr "Landscape"
+
+msgid "Accounts"
+msgstr "Сметки"
+
+msgid "Optional"
+msgstr "Опция"
+
+msgid "File"
+msgstr "Файл"
+
+msgid "Collected at"
+msgstr "Събрани в"
+
+msgid "Linked"
+msgstr "Свързани с"
+
+msgid "Discover our offers"
+msgstr "Вижте нашите предложения"
+
+msgid "Blank"
+msgstr "Празно"
+
+msgid "Portal"
+msgstr "Portal"
+
+msgid "Software Documentation"
+msgstr "Software Документация"
+
+msgid "Time"
+msgstr "Време"
+
+msgid "Dedicated website"
+msgstr "Специализиран уебсайт"
+
+msgid "Subcategory"
+msgstr "Подкатегория"
+
+msgid "No IP control"
+msgstr "Без IP контрол"
+
+msgid "Auto publish"
+msgstr "Авто-публикуване"
+
+msgid "Link to property"
+msgstr "Линк на имота"
+
+msgid "Happy birthday!"
+msgstr "Честит Рожден Ден!"
+
+msgid "Birthdays"
+msgstr "Рожденни дни"
+
+msgid "Last access"
+msgstr "Последно влизане"
+
+msgid "This property is a part of:"
+msgstr "Този имот е част от"
+
+msgid "IP address"
+msgstr "IP адрес"
+
+msgid "Access code"
+msgstr "Код за достъп"
+
+msgid "Access code at"
+msgstr "Код за достъп на"
+
+msgid "Number of shares"
+msgstr "Брой дялове"
+
+msgid "Leads"
+msgstr "Leads"
+
+msgid "Cancelled"
+msgstr "Отказан"
+
+msgid "Link"
+msgstr "Линк"
+
+msgid "Advanced"
+msgstr "Предварително"
+
+msgid "Publish on homepage"
+msgstr "Публикуване на началната страница"
+
+msgid "Suggested"
+msgstr "Препоръчано"
+
+msgid "Welcome on %s"
+msgstr "Добре дошли на %s"
+
+msgid "Content"
+msgstr "Съдържание"
+
+msgid "Extranet access"
+msgstr "Extranet достъп"
+
+msgid "Publish address"
+msgstr "Адрес за публикуване"
+
+msgid "Opening hours"
+msgstr "Работно време"
+
+msgid "Backoffice"
+msgstr "Backoffice"
+
+msgid "Member since %s"
+msgstr "Член от %s"
+
+msgid "Lock menu bar"
+msgstr "Заключи лента на менюто"
+
+msgid "Updates"
+msgstr "Актуализации"
+
+msgid "Booking"
+msgstr "Резервации"
+
+msgid "Forward to contact"
+msgstr "Препрати на контакт"
+
+msgid "Responder"
+msgstr "Отговор"
+
+msgid ""
+"You can search our Frequently Asked Questions (FAQs) database by keyword(s):"
+msgstr "Потърси в нашите най-често задавани въпроси (FAQs) с ключова дума:"
+
+msgid "Registrar"
+msgstr "Регистратор"
+
+msgid "Expiration at"
+msgstr "Изтича в"
+
+msgid "Mailbox"
+msgstr "Mailbox"
+
+msgid "Domain name"
+msgstr "Име на домейн"
+
+msgid "Filling"
+msgstr "Попълване"
+
+msgid "Condition precedent"
+msgstr "Условия"
+
+msgid "Size"
+msgstr "Размер"
+
+msgid "Deal fees"
+msgstr "Такси на сделката"
+
+msgid "Fees charged"
+msgstr "Начислени такси"
+
+msgid "Customer"
+msgstr "Клиент"
+
+msgid "Booked"
+msgstr "Запазен"
+
+msgid "Associate"
+msgstr "Съдружник/Сътрудник/Колега"
+
+msgid "Ceiling height"
+msgstr "Височина на тавана"
+
+msgid "Translations"
+msgstr "Преводи"
+
+msgid "Unsold"
+msgstr "Не е продаден"
+
+msgid "Sold"
+msgstr "Продаден"
+
+msgid "Last action"
+msgstr "Последно действие"
+
+msgid "Our agency"
+msgstr "Наша агенция"
+
+msgid "Locate us"
+msgstr "Намерете ни"
+
+msgid "Your main contact"
+msgstr "Ваш основен контакт"
+
+msgid "Send me a message"
+msgstr "Изпрати ми съобщение"
+
+msgid "Leave us a message"
+msgstr "Оставете ни съобщение"
+
+msgid "Price with fees"
+msgstr "Цена с такси"
+
+msgid "Owner access"
+msgstr "Достъп на собственика"
+
+msgid "Added"
+msgstr "Добавено"
+
+msgid "Available for matching"
+msgstr "Актуални съвпадения"
+
+msgid "Available at"
+msgstr "Наличен в"
+
+msgid "Tenant"
+msgstr "Наемател"
+
+msgid "Add to list"
+msgstr "Добави в списъка"
+
+msgid "Custom tags"
+msgstr "Custom tags"
+
+msgid "%s pending approval properties"
+msgstr "%s Имотите очакват потвърждение"
+
+msgid "Negotiable price"
+msgstr "Цена по договаряне"
+
+msgid "Price updated"
+msgstr "Цената е актуализирана"
+
+msgid "Less equal"
+msgstr "Less equal"
+
+msgid "Equal"
+msgstr "Равно"
+
+msgid "Greater equal"
+msgstr "Greater equal"
+
+msgid "Preferences"
+msgstr "Предпочитания"
+
+msgid "Contact means"
+msgstr "Средства за контакт"
+
+msgid "Agency commission"
+msgstr "Комисиона за агенцията"
+
+msgid "Scheduled at"
+msgstr "Насрочено за"
+
+msgid "Contract at"
+msgstr "Договор на"
+
+msgid "Commitment"
+msgstr "Задължение"
+
+msgid "Commitment at"
+msgstr "Ангажимент в"
+
+msgid "Offer at"
+msgstr "Оферта в"
+
+msgid "No action"
+msgstr "Няма действие"
+
+msgid "Others"
+msgstr "Друго"
+
+msgid "Received contact information"
+msgstr "Получена информация за договор"
+
+msgid "Linked contact"
+msgstr "Контакт за връзка"
+
+msgid "Related contacts"
+msgstr "Свързан контакт"
+
+msgid "Assigned to"
+msgstr "Възложено на"
+
+msgid "Assign to"
+msgstr "Възлага се на"
+
+msgid "Assign by"
+msgstr "Възложено от"
+
+msgid "Opened by"
+msgstr "Отворено от"
+
+msgid "Closed by"
+msgstr "Затворено от"
+
+msgid "Time zone"
+msgstr "Часови пояс"
+
+msgid "Customers"
+msgstr "Клиенти"
+
+msgid "Invert selection"
+msgstr "Обратна селекция"
+
+msgid "Select all"
+msgstr "Избери всички"
+
+msgid "Unselect all"
+msgstr "Откажи всички"
+
+msgid "%s awaiting lead(s)"
+msgstr "%s lead(s) awaiting"
+
+msgid "%s lead(s) to assign"
+msgstr "%s lead(s) to assign"
+
+msgid "%s pending properties"
+msgstr "%s имотите се обработват"
+
+msgid "%s pending matching(s)"
+msgstr "%s съвпаденията се обработват"
+
+msgid "%s expired agreement(s)"
+msgstr "%s Изтекъл Договор"
+
+msgid "%s expired soon agreement(s)"
+msgstr "%s Договорът изтича скоро"
+
+msgid "Legal notice"
+msgstr "Официално уведомление"
+
+msgid "Tags"
+msgstr "Тагове"
+
+msgid "Allowed"
+msgstr "Позволен"
+
+msgid "Min stay"
+msgstr "Минимален престой"
+
+msgid "Over"
+msgstr "Над"
+
+msgid "Refresh"
+msgstr "Обнови"
+
+msgid "Free text"
+msgstr "Свободен текст"
+
+msgid "Generate comment"
+msgstr "Остави коментар"
+
+msgid "Building name"
+msgstr "Име на сградата"
+
+msgid "VAT"
+msgstr "ДДС"
+
+msgid "VAT included"
+msgstr "с ДДС"
+
+msgid "VAT excluded"
+msgstr "без ДДС"
+
+msgid "Recurrence"
+msgstr "Повтаряне"
+
+msgid "Calculate"
+msgstr "Изчисли"
+
+msgid "Contribution"
+msgstr "Принос/Съдействие"
+
+msgid "Maximum debt"
+msgstr "Максимален дълг"
+
+msgid "Purchase amount"
+msgstr "Покупна цена"
+
+msgid "Borrowing calculator"
+msgstr "Калкулатор за заеми"
+
+msgid "Monthly payment calculator"
+msgstr "Калкулатор за месечни вноски"
+
+msgid "You don't have broadcasting rights"
+msgstr "Нямате права на разпостраняване"
+
+msgid "Pending"
+msgstr "Обработва се"
+
+msgid "Suggestions"
+msgstr "Предложения"
+
+msgid "To show"
+msgstr "За показване"
+
+msgid "Manual"
+msgstr "Ръчно"
+
+msgid "In collaboration with a %name% professional"
+msgstr "В сътрудничество с професионален %name%"
+
+msgid "Partners"
+msgstr "Партньори"
+
+msgid "My search"
+msgstr "Моето търсене"
+
+msgid "Units"
+msgstr "Единици"
+
+msgid "Spouse"
+msgstr "Съпруг"
+
+msgid "Manager"
+msgstr "Мениджър"
+
+msgid "Category reference"
+msgstr "Reference категория"
+
+msgid "Cadastre reference"
+msgstr "Кадастрален номер"
+
+msgid "Lot reference"
+msgstr "Референтен номер"
+
+msgid "Block reference"
+msgstr "Блок номер"
+
+msgid "Stairs reference"
+msgstr "Stairs reference"
+
+msgid "Mortgage end at"
+msgstr "Ипотечен кредит изплащане на"
+
+msgid "Review"
+msgstr "Преглед"
+
+msgid "Media"
+msgstr "Средства за масова информация"
+
+msgid "First access"
+msgstr "Първо влизане"
+
+msgid "Access count"
+msgstr "Брой влизания"
+
+msgid "Default"
+msgstr "По подразбиране"
+
+msgid "Please do not enter any name or contact"
+msgstr "Моля, не въвеждайте име или контакт"
+
+msgid "QR-Code"
+msgstr "QR-Code"
+
+msgid "Show price"
+msgstr "Покажи цена"
+
+msgid "Done"
+msgstr "Изпълнено"
+
+msgid "Not applicable"
+msgstr "Не е приложимо"
+
+msgid "Fill in the table"
+msgstr "Попълнете таблицата"
+
+msgid "Copy"
+msgstr "Копирай"
+
+msgid "Automatic matching"
+msgstr "Автоматично съвпадение"
+
+msgid "Authorization"
+msgstr "Потвърждаване"
+
+msgid "Last connection the %s"
+msgstr "Последна връзка на %s"
+
+msgid "All"
+msgstr "Всички"
+
+msgid "Wiki"
+msgstr "Уикипедия"
+
+msgid "Latest"
+msgstr "Скорошни"
+
+msgid "Erase"
+msgstr "Изтрий"
+
+msgid "Show/hide fields"
+msgstr "Покажи / Скрий полета"
+
+msgid "Recent searches"
+msgstr "Последни търсения"
+
+msgid "Association"
+msgstr "Ассоциация"
+
+msgid "Meta crawler"
+msgstr "Meta crawler"
+
+msgid "Alerts"
+msgstr "Известия"
+
+msgid "Prescribers"
+msgstr "Предписания"
+
+msgid "Staff"
+msgstr "Персонал"
+
+msgid "Standing"
+msgstr "Стоящи"
+
+msgid "Receive a copy"
+msgstr "Изпрати копие"
+
+msgid "Latest views"
+msgstr "Последни преглеждания"
+
+msgid "Quality"
+msgstr "Качество"
+
+msgid "Waiting for partner"
+msgstr "В очакване на партньор"
+
+msgid "Viewing agreement"
+msgstr "Протокол за оглед"
+
+msgid "Decline"
+msgstr "Намаление"
+
+msgid "Declined"
+msgstr "Намален"
+
+msgid "Accept"
+msgstr "Приеми"
+
+msgid "Accepted"
+msgstr "Прието"
+
+msgid "Zones"
+msgstr "Зони"
+
+msgid "Zone"
+msgstr "Зона"
+
+msgid "Matrimonial regime"
+msgstr "Семейни начала"
+
+msgid "Marital status"
+msgstr "Семейно положение"
+
+msgid "Thumbnail"
+msgstr "Миниатюра"
+
+msgid "Unread"
+msgstr "Непрочетено"
+
+msgid "Reply"
+msgstr "Отговори"
+
+msgid "Pension"
+msgstr "Пенсия"
+
+msgid "Beam"
+msgstr "Излъчване"
+
+msgid "Draft"
+msgstr "Проект"
+
+msgid "Guests"
+msgstr "Гости"
+
+msgid "Crew"
+msgstr "Екипаж"
+
+msgid "Cruising speed"
+msgstr "Круизна скорост"
+
+msgid "Builder"
+msgstr "Строител"
+
+msgid "Administration"
+msgstr "Администрация"
+
+msgid "Civil law notary"
+msgstr "Нотариус"
+
+msgid "Max price"
+msgstr "Макимална цена"
+
+msgid "Reminders"
+msgstr "Напомняне"
+
+msgid "Credit"
+msgstr "Кредит"
+
+msgid "Signatures"
+msgstr "Подписи"
+
+msgid "Signature"
+msgstr "Подпис"
+
+msgid "Title (politeness)"
+msgstr "Обръщение (учтива форма)"
+
+msgid "Rates"
+msgstr "Цени"
+
+msgid "Updated at"
+msgstr "Обновено в"
+
+msgid "Created at"
+msgstr "Създадено в"
+
+msgid "First published at"
+msgstr "Първа публикация"
+
+msgid "Insurance"
+msgstr "Застраховка"
+
+msgid "Provision"
+msgstr "Доставка"
+
+msgid "Entries"
+msgstr "Вписвания"
+
+msgid "Plot of land area"
+msgstr "Поземлен имот/парцел"
+
+msgid "Deposit account"
+msgstr "Депозитна сметка"
+
+msgid "Owner's price"
+msgstr "Цена на собственика"
+
+msgid "Starting price"
+msgstr "Начална цена"
+
+msgid "Mobile"
+msgstr "Мобилен"
+
+msgid "Tel."
+msgstr "Тел."
+
+msgid "Lease"
+msgstr "Наем"
+
+msgid "Leases"
+msgstr "Наеми"
+
+msgid "Address"
+msgstr "Адрес"
+
+msgid "Tips"
+msgstr "Полезни съвети"
+
+msgid "Maps"
+msgstr "Карти"
+
+msgid "Days"
+msgstr "Дни"
+
+msgid "Catalog"
+msgstr "Каталог"
+
+msgid "Statistics"
+msgstr "Статистика"
+
+msgid "Built in"
+msgstr "Година на построяване"
+
+msgid "Mark"
+msgstr "Бележка"
+
+msgid "Percentage"
+msgstr "Процент"
+
+msgid "Visits"
+msgstr "Посещения"
+
+msgid "Comments"
+msgstr "Коментари"
+
+msgid "Key number"
+msgstr "Ключ номер"
+
+msgid "Key's place"
+msgstr "Място на ключа"
+
+msgid "Displayed city (optional)"
+msgstr "Показване на град (опционално)"
+
+msgid "Displayed district (optional)"
+msgstr "Показване на район (опционално)"
+
+msgid "Clauses"
+msgstr "Клаузи"
+
+msgid "Bathrooms"
+msgstr "Бани"
+
+msgid "Seller"
+msgstr "Продавач"
+
+msgid "Adjacency"
+msgstr "В близост"
+
+msgid "Step"
+msgstr "Стълби"
+
+msgid "Long comment"
+msgstr "Дълъг коментар"
+
+msgid "Subtitle"
+msgstr "Подзаглавие"
+
+msgid "Title"
+msgstr "Заглавие"
+
+msgid "Last published at"
+msgstr "Последна публикация в"
+
+msgid "floor"
+msgstr "етаж"
+
+msgid "Inactive"
+msgstr "неактивен"
+
+msgid "Position"
+msgstr "позиция"
+
+msgid "Please fill in a name and a phone or an e-mail."
+msgstr "Моля, попълнете име и телефон или e-mail"
+
+msgid "Passwords do not match, please retype"
+msgstr "Грешна парола, моля попълнете отново"
+
+msgid "Please change your password"
+msgstr "Моля, сменете Вашата парола"
+
+msgid "New password should not be same as old password"
+msgstr "Новата парола трябва да е различна от старата"
+
+msgid "Year"
+msgstr "Година"
+
+msgid "Subscriptions"
+msgstr "Абонаменти"
+
+msgid "Tour comment"
+msgstr "Коментари за огледа"
+
+msgid "Activities"
+msgstr "Действия"
+
+msgid "Add opening hours"
+msgstr "Добави работно време"
+
+msgid "price"
+msgstr "цена"
+
+msgid "Personal"
+msgstr "Личен"
+
+msgid ""
+"Please note that there are dependencies, please select a contact for "
+"completing the data transfer."
+msgstr ""
+"Please note that there are dependencies, please select a contact for "
+"completing the data transfer."
+
+msgid "The installation can take several minutes, please come back later."
+msgstr ""
+"Инсталирането може да отнеме няколко минути, моля проверете отново след "
+"малко"
+
+msgid "Your contact speaks %s, would you like to change the language?"
+msgstr "Вашият контакт говори %s, искате ли да смените езика?"
+
+msgid "Would you like to publish on the homepage?"
+msgstr "Желаете ли да публикувате на началната страница?"
+
+msgid "plus VAT"
+msgstr "плюс ДДС"
+
+msgid "<b>Warning :</b> there is an error, please check each fields."
+msgstr "<b>Внимание :</b> Грешка, моля проверете отново всички позиции."
+
+msgid "Price/sq m"
+msgstr "Цена/m²"
+
+msgid "today"
+msgstr "днес"
+
+msgid "week"
+msgstr "седмица"
+
+msgid "day"
+msgstr "ден"
+
+msgid "from %from_value% to %to_value%"
+msgstr "от %from_value% до %to_value%"
+
+msgid "message"
+msgstr "сообщение"
+
+msgid "Page"
+msgstr "Страница"
+
+msgid "Action"
+msgstr "Действие"
+
+msgid "Status"
+msgstr "Статус"
+
+msgid "Agencies"
+msgstr "Агенции"
+
+msgid "agencies"
+msgstr "агенции"
+
+msgid "Context"
+msgstr "Контекст"
+
+msgid "More criteria"
+msgstr "Повече характеристики"
+
+msgid "Classification"
+msgstr "Класификация"
+
+msgid "metres"
+msgstr "метри"
+
+msgid "Window"
+msgstr "Прозорец"
+
+msgid "Stock area"
+msgstr "Stock area"
+
+msgid "Sales area"
+msgstr "Sales area"
+
+msgid "Sold price"
+msgstr "Продажна цена"
+
+msgid "Broadcast to"
+msgstr "Разпространено в"
+
+msgid "The property will not be published because it is in step « %s »"
+msgstr "Офертата няма да бъде публикувана, защото е в « %s »"
+
+msgid "Last agencies"
+msgstr "Последни агенции"
+
+msgid "I confirm my subscription to %s and I accept the general conditions"
+msgstr "Потвърждавам абонирането си за %s и приемам Общите условия"
+
+msgid "from %from_date% to %to_date%"
+msgstr "от %from_date% до %to_date%"
+
+msgid "sq m"
+msgstr "м²"
+
+msgid "days"
+msgstr "дни"
+
+msgid "bedrooms"
+msgstr "спални"
+
+msgid "bedroom"
+msgstr "спалня"
+
+msgid "rooms"
+msgstr "стаи"
+
+msgid "room"
+msgstr "стая"
+
+msgid "comment"
+msgstr "коментар"
+
+msgid "comments"
+msgstr "коментари"
+
+msgid "Private comment"
+msgstr "Частен коментар"
+
+msgid "Private"
+msgstr "Частен"
+
+msgid "Levels"
+msgstr "Нива"
+
+msgid "Level"
+msgstr "Ниво"
+
+msgid "Exchanges"
+msgstr "Замени"
+
+msgid "Exchange"
+msgstr "Замяна"
+
+msgid "by"
+msgstr "от"
+
+msgid "n.a"
+msgstr "не е приложимо"
+
+msgid "Elevator"
+msgstr "Асансьор"
+
+msgid "no"
+msgstr "не"
+
+msgid "yes"
+msgstr "да"
+
+msgid "Printed with care"
+msgstr "Внимателно разпечатано"
+
+msgid "Please do not litter on public way"
+msgstr "Моля, не изхвърляйте на публично място"
+
+msgid "Non-contractual information"
+msgstr "Няма сведения за договор"
+
+msgid "Agency fees"
+msgstr "Комисиони"
+
+msgid "Agency fees included"
+msgstr "С включена комисиона за Агенцията"
+
+msgid "Agency fees not included"
+msgstr "Без включена комисиона за Агенцията"
+
+msgid "Fees"
+msgstr "Комунални услуги"
+
+msgid "Condominium fees"
+msgstr "Такса поддръжка"
+
+msgid "Property tax"
+msgstr "Годишен данък на имота"
+
+msgid "Style"
+msgstr "Стил"
+
+msgid "Parkings"
+msgstr "Паркинг"
+
+msgid "Pictures"
+msgstr "Снимки"
+
+msgid "Window card"
+msgstr "Картичка"
+
+msgid "Private sheet"
+msgstr "Частен списък"
+
+msgid "Public sheet"
+msgstr "Обществен списък"
+
+msgid "Service"
+msgstr "Поддръжка"
+
+msgid "Language"
+msgstr "Език"
+
+msgid "Cart"
+msgstr "Количка"
+
+msgid "Land type"
+msgstr "Поземлен имот"
+
+msgid "Property agent"
+msgstr "Консултант на имота"
+
+msgid "Account"
+msgstr "Сметка"
+
+msgid "End at"
+msgstr "Приключва в"
+
+msgid "Close at"
+msgstr "Затваря в"
+
+msgid "Start at"
+msgstr "Начало в"
+
+msgid "Guarantee"
+msgstr "Гаранция"
+
+msgid "Update"
+msgstr "Обновяване"
+
+msgid "Inter-agencies"
+msgstr "Агенции-посредник"
+
+msgid "Number of floors"
+msgstr "Брой етажи"
+
+msgid "Evaluated price"
+msgstr "Цена съгласно експертна оценка"
+
+msgid "Seller's commission"
+msgstr "Комисиона на агента на Продавача"
+
+msgid "Buyer's commission"
+msgstr "Комисиона на агента на Купувача"
+
+msgid "Commission"
+msgstr "Комисиона"
+
+msgid "Origin"
+msgstr "Произход"
+
+msgid "Specific origin"
+msgstr "Специфичен произход"
+
+msgid "Flooring"
+msgstr "Подова настилка"
+
+msgid "Rank"
+msgstr "Звание/Чин"
+
+msgid "Calls"
+msgstr "Позвънявания"
+
+msgid "Phone call"
+msgstr "Звънни"
+
+msgid "Publications"
+msgstr "Публикации"
+
+msgid "Send to contact"
+msgstr "Изпрати на контакта"
+
+msgid "No results found"
+msgstr "Няма намерени резултати"
+
+msgid "Results"
+msgstr "Резултати"
+
+msgid "Result"
+msgstr "Резултат"
+
+msgid "results"
+msgstr "резултати"
+
+msgid "result"
+msgstr "резултат"
+
+msgid "Advertiser"
+msgstr "Рекламодател"
+
+msgid "Active"
+msgstr "Активен"
+
+msgid "Confidential"
+msgstr "Конфеденциален"
+
+msgid "Activity"
+msgstr "Активност"
+
+msgid "Edit"
+msgstr "Редактирай"
+
+msgid "Save"
+msgstr "Запази"
+
+msgid "Succession"
+msgstr "Последователност"
+
+msgid "Please fill in a city."
+msgstr "Моля, попълнете название на град"
+
+msgid "Please fill"
+msgstr "Моля попълнете"
+
+msgid "The email address is invalid."
+msgstr "Грешен e-mail"
+
+msgid "Rights"
+msgstr "Права"
+
+msgid "Display"
+msgstr "Дисплей"
+
+msgid "Since"
+msgstr "От"
+
+msgid "Filter"
+msgstr "Филтър"
+
+msgid "Min"
+msgstr "Min"
+
+msgid "Max"
+msgstr "Max"
+
+msgid "Lessor"
+msgstr "Лизингодател"
+
+msgid "Lessee"
+msgstr "Лизингополучател"
+
+msgid "Bed"
+msgstr "Легла"
+
+msgid "Cleaning price"
+msgstr "Цена почистване"
+
+msgid "Availabilities"
+msgstr "Наличности"
+
+msgid "Sent"
+msgstr "Изпратено"
+
+msgid "years"
+msgstr "Години"
+
+msgid "months"
+msgstr "месеци"
+
+msgid "month"
+msgstr "месец"
+
+msgid "Seasons"
+msgstr "Сезонни"
+
+msgid "Seasonal"
+msgstr "Сезонно"
+
+msgid "Todo"
+msgstr "Списък със задачи"
+
+msgid "Brands"
+msgstr "Марки"
+
+msgid "Brand"
+msgstr "Марка"
+
+msgid "Publicated at"
+msgstr "Публикувано в"
+
+msgid "Networks"
+msgstr "Мрежа"
+
+msgid "Bank"
+msgstr "Банка"
+
+msgid "Brief comment"
+msgstr "Кратък коментар"
+
+msgid "Delivery at"
+msgstr "Доставено в"
+
+msgid "Reason"
+msgstr "Причина"
+
+msgid "What's new"
+msgstr "Какво ново"
+
+msgid "Requests"
+msgstr "Запитвания"
+
+msgid "Query"
+msgstr "Запитване"
+
+msgid "requests"
+msgstr "запитвания"
+
+msgid "request"
+msgstr "запитване"
+
+msgid "Current rent"
+msgstr "текущ наем"
+
+msgid "Properties"
+msgstr "Имоти"
+
+msgid "properties"
+msgstr "имоти"
+
+msgid "property"
+msgstr "имот"
+
+msgid "Bill"
+msgstr "фактура"
+
+msgid "Calculator"
+msgstr "Калкулатор"
+
+msgid "Birthplace"
+msgstr "Място на раждане"
+
+msgid "Birthday"
+msgstr "Дата на раждане"
+
+msgid "Income"
+msgstr "Приход"
+
+msgid "Costs"
+msgstr "Разходи"
+
+msgid "Margin"
+msgstr "Марж"
+
+msgid "Required."
+msgstr "Задължително"
+
+msgid "Spoken languages"
+msgstr "Говорим език"
+
+msgid "Number of children"
+msgstr "Брой деца"
+
+msgid "Hotline"
+msgstr "Гореща линия"
+
+msgid "Re-type password"
+msgstr "Повтори парола"
+
+msgid "Public longitude"
+msgstr "Географска дължина"
+
+msgid "Public latitude"
+msgstr "Географска ширина"
+
+msgid "Access denied"
+msgstr "Забранен достъп"
+
+msgid "Access"
+msgstr "Достъп"
+
+msgid "Launch"
+msgstr "Начало"
+
+msgid "Shortcuts"
+msgstr "Преки пътища"
+
+msgid "Subscription"
+msgstr "Абонамент"
+
+msgid "SEO"
+msgstr "Оптимизиране на търсенето"
+
+msgid "Life annuity length"
+msgstr "Продължителност на рентата"
+
+msgid "Market value"
+msgstr "Пазарна цена"
+
+msgid "Price contribution"
+msgstr "Price contribution"
+
+msgid "Sharing"
+msgstr "Споделяне"
+
+msgid "Show more results"
+msgstr "Покажи още резулати"
+
+msgid "Close"
+msgstr "Затвори"
+
+msgid "Hide"
+msgstr "Скрий"
+
+msgid "Keywords"
+msgstr "Ключови думи"
+
+msgid "Corporate register"
+msgstr "Фирмен/Търговски Регистър"
+
+msgid "Expired soon"
+msgstr "Изтича скоро"
+
+msgid "Expired"
+msgstr "Изтекъл срок"
+
+msgid "Agreements"
+msgstr "Споразумения"
+
+msgid "Agreement number"
+msgstr "Номер на договор"
+
+msgid "VAT identification number"
+msgstr "ЕИК"
+
+msgid "What's on your mind?"
+msgstr "Какво мислите?"
+
+msgid "Buyer"
+msgstr "Купувач"
+
+msgid "Prescriber"
+msgstr "Предписващ"
+
+msgid "Message sent"
+msgstr "Съобщението е изпратено"
+
+msgid "Border"
+msgstr "Граница"
+
+msgid "Publish"
+msgstr "Публикувай"
+
+msgid "Do not publish"
+msgstr "Не публикувай"
+
+msgid "Cancel"
+msgstr "Отмени"
+
+msgid "Already suggested"
+msgstr "Вече предложен"
+
+msgid "To suggest"
+msgstr "Да предложа"
+
+msgid "Suggest"
+msgstr "Предложение"
+
+msgid "Diagnostics"
+msgstr "Диагностика"
+
+msgid "Footer"
+msgstr "Долен колонтитул"
+
+msgid "Header"
+msgstr "Горен колонтитул"
+
+msgid "Serviced plot"
+msgstr "Обслужван парцел"
+
+msgid "Net floor area"
+msgstr "Чиста площ"
+
+msgid "Sold at"
+msgstr "Продадено за"
+
+msgid "Preview"
+msgstr "Предварителен оглед"
+
+msgid "Garden area"
+msgstr "Площ двор"
+
+msgid "Payments"
+msgstr "Плащане"
+
+msgid "Reopen"
+msgstr "Подновена"
+
+msgid "Complete"
+msgstr "Завършен"
+
+msgid "Callback"
+msgstr "Връщане на обаждане"
+
+msgid "Callbacks"
+msgstr "Връщане на обаждания"
+
+msgid "Total"
+msgstr "Всичко"
+
+msgid "Coagent"
+msgstr "Coagent"
+
+msgid "Residences"
+msgstr "Местожителства"
+
+msgid "%s properties"
+msgstr "%s Имоти"
+
+msgid "%s property"
+msgstr "%s имот"
+
+msgid "%s request"
+msgstr "%s запитване"
+
+msgid "%s requests"
+msgstr "%s запитвания"
+
+msgid "Sorry, this property is no longer available."
+msgstr "За съжаление този имот вече не е наличен."
+
+msgid "Processed"
+msgstr "В процес"
+
+msgid "remaining tickets"
+msgstr "Оставащи билети"
+
+msgid "Congratulations ! No more support tickets."
+msgstr "Честито! Няма повече билети за поддръжка."
+
+msgid "unassigned tickets"
+msgstr "неподписани билети"
+
+msgid "All tickets are assigned."
+msgstr "Всички билети са подписани."
+
+msgid "task in progress"
+msgstr "Задачата е в процес на изпълнение"
+
+msgid "Database"
+msgstr "База данни"
+
+msgid "Used"
+msgstr "Използван"
+
+msgid "%s results"
+msgstr "%s Резултати"
+
+msgid "Redirects"
+msgstr "Напред"
+
+msgid "Subscribe to the newsletter"
+msgstr "Абонирай се за бюлетина"
+
+msgid "Purge"
+msgstr "Прочистване"
+
+msgid "Valuation methods"
+msgstr "Методи на оценяване"
+
+msgid "Rebuild cost"
+msgstr "Възстановени разходи"
+
+msgid "Capitalization"
+msgstr "Капитализация"
+
+msgid "Rental price"
+msgstr "Цена на наема"
+
+msgid "Comparative market analysis"
+msgstr "Сравнителен пазарен анализ"
+
+msgid "An average of"
+msgstr "Средно на"
+
+msgid "Your own valuation"
+msgstr "Вашата собствена оценка"
+
+msgid "Desired profitability"
+msgstr "Желана доходност"
+
+msgid "Taxes and/or fees"
+msgstr "Данъци и/или такси"
+
+msgid "Year of purchase"
+msgstr "Година на придобиване"
+
+msgid "Rental income"
+msgstr "Доход от наем"
+
+msgid "Price of purchase"
+msgstr "Цена на покупката"
+
+msgid "Land price"
+msgstr "Цена на парцела"
+
+msgid "Cost of construction"
+msgstr "Цена на строителство"
+
+msgid "Interior fittings"
+msgstr "Вътрешни довършителни работи"
+
+msgid "Landscaping"
+msgstr "Ландшафтен дизайн"
+
+msgid "Decrepitude"
+msgstr "Амортизация"
+
+msgid "Capital losses"
+msgstr "Загуби капитал"
+
+msgid "Capital gains"
+msgstr "Капиталова печалба"
+
+msgid "Your mailbox has exceeded the storage limit (%s)"
+msgstr "Пощенската ви кутия е препълнена (%s)"
+
+msgid "Your mailbox will reach the storage limit"
+msgstr "Пощенската ви кутия е почти препълнена (%s)"
+
+msgid "Sort by"
+msgstr "Сортирай по"
+
+msgid "Condominium in difficulty"
+msgstr "Проблемна жилищна сграда"
+
+msgid "Back to the list"
+msgstr "Обратно към списъка"
+
+msgid "Previous listing"
+msgstr "Предходен списък"
+
+msgid "Next listing"
+msgstr "Следващ списък"
+
+msgid "empty"
+msgstr "Празен"
+
+msgid "Filename"
+msgstr "Име на файла"
+
+msgid "Keyword"
+msgstr "Ключова дума"
+
+msgid "Values"
+msgstr "Ценности"
+
+msgid "New feed"
+msgstr "Ново зареждане"
+
+msgid "Errors"
+msgstr "Грешки"
+
+msgid "An error occurred"
+msgstr "Грешка"
+
+msgid "Erase all"
+msgstr "Изтрий всичко"
+
+msgid "Try"
+msgstr "Опитай"
+
+msgid "Agency fees payable by vendor"
+msgstr "Комисиона от Продавача"
+
+msgid "Agency fees payable by buyer"
+msgstr "Комисиона от Купувача"
+
+msgid "Successful subscription"
+msgstr "Успешно абониране"
+
+msgid "Created date"
+msgstr "Дата на създаване"
+
+msgid "Updated date"
+msgstr "Обновена дата"
+
+msgid "Back to homepage"
+msgstr "Обратно на началната страница"
+
+msgid "Price min"
+msgstr "Минимална цена"
+
+msgid "Price max"
+msgstr "Максимална цена"
+
+msgid "Bedroom min"
+msgstr "Мин. количество спални"
+
+msgid "Room max"
+msgstr "Макс. количество спални"
+
+msgid "Room min"
+msgstr "Мин. количество стаи"
+
+msgid "Project at"
+msgstr "Проект в"
+
+msgid "Agency rate"
+msgstr "Ставка на агенцията"
+
+msgid "Tenant's commission"
+msgstr "Такси на наемателя"
+
+msgid "Inventory tenant charge"
+msgstr "Такси отн. имущество на  наемателя"
+
+msgid "Fees included"
+msgstr "Включени такси"
+
+msgid "Provision on recoverable fees"
+msgstr "Предоставяне на възстановими такси"
+
+msgid "Never"
+msgstr "Никога"
+
+msgid "Remaining credits"
+msgstr "Оставащи кредити"
+
+msgid "Buy credits"
+msgstr "Купи кредит"
+
+msgid "%s credits"
+msgstr "%s кредити"
+
+msgid "Transaction fees"
+msgstr "Разходи по трансакция"
+
+msgid "View property"
+msgstr "Виж имота"
+
+msgid "Area min"
+msgstr "Минимална площ"
+
+msgid "Search a property"
+msgstr "Търси имот"
+
+msgid "International"
+msgstr "Международен"
+
+msgid "Unsubscribe"
+msgstr "Отпиши се"
+
+msgid "The property will not be published because it is in group « %s »"
+msgstr "Този имот няма да бъде публикуван, защото е в група с « %s »"
+
+msgid "%s month"
+msgstr "%s Месец"
+
+msgid "%s months"
+msgstr "%s Месеци"
+
+msgid "No action after"
+msgstr "Няма последващи действия"
+
+msgid "%s pending delete"
+msgstr "%s В процес на изтриване"
+
+msgid "Pending delete"
+msgstr "В процес на изтриване"
+
+msgid "%s to delete"
+msgstr "%s изтрий"
+
+msgid "Unsubscribed"
+msgstr "Успешно отписване"
+
+msgid "Edit my search"
+msgstr "Редактирай моето търсене"
+
+msgid "Activate my search"
+msgstr "Възстанови моето търсене"
+
+msgid "Cancel my search"
+msgstr "Отмени моето търсене"
+
+msgid "Only authorized properties"
+msgstr "Само разрешени имоти"
+
+msgid "Another currency"
+msgstr "Друга валута"
+
+msgid "Enter the first 6 digits"
+msgstr "Въведете първите 6 цифри"
+
+msgid ""
+"Without action on your part, your contact will be deleted before the %s."
+msgstr "Без Ваши действия, Вашият контакт ще бъде изтрит до %s"
+
+msgid "No procedure in progress"
+msgstr "Действието не се изпълнява"
+
+msgid "Procedure in progress"
+msgstr "Действието се изпълнява"
+
+msgid "Number of lots in the condominium"
+msgstr "Брой апартаменти в жилищната сграда"
+
+msgid "Network authorized"
+msgstr "Мрежата е оторизирана"
+
+msgid "Renew the lease"
+msgstr "Поднови наема"
+
+msgid "Remove at"
+msgstr "Премести в"
+
+msgid "External action"
+msgstr "Външно действие"
+
+msgid "Floors"
+msgstr "Етажи"
+
+msgid "Job"
+msgstr "Работа"
+
+msgid "Unsuscribe from this list"
+msgstr "Отпиши се от списъка"
+
+msgid "Secured"
+msgstr "Подсигурен"
+
+msgid "Opacity"
+msgstr "Затъмнено"
+
+msgid "Left"
+msgstr "Наляво"
+
+msgid "Top"
+msgstr "Нагоре"
+
+msgid "Relative to the last element"
+msgstr "Отнася се до последният елемент"
+
+msgid "Alignment"
+msgstr "Изравняване"
+
+msgid "Border size"
+msgstr "Размер на граница"
+
+msgid "Border color"
+msgstr "Цвят на граница"
+
+msgid "Size of the internal margin"
+msgstr "Размер на вътрешно поле"
+
+msgid "Font color"
+msgstr "Цвят на шрифта"
+
+msgid "Font size"
+msgstr "Размер на шрифта"
+
+msgid "Background color"
+msgstr "Цвят на фона"
+
+msgid "Custom image"
+msgstr "Потребителско изображение"
+
+msgid "custom"
+msgstr "По поръчка"
+
+msgid "Right"
+msgstr "Надясно"
+
+msgid "Center"
+msgstr "Център"
+
+msgid "Justified"
+msgstr "Оправдан"
+
+msgid "Transparency"
+msgstr "Прозрачност"
+
+msgid "Line height"
+msgstr "Височина на линията"
+
+msgid "Uppercase"
+msgstr "Главни букви"
+
+msgid "Price proposal"
+msgstr "Предложена цена"
+
+msgid "Template"
+msgstr "Образец"
+
+msgid "Publication date"
+msgstr "Дата на публикация"
+
+msgid "Recovered at"
+msgstr "Възстановено в"
+
+msgid "Available on"
+msgstr "Достъпен на"
+
+msgid "Allow all"
+msgstr "Разреши на всички"
+
+msgid "Private position is not set, click here to update."
+msgstr "Не е зададена частна позиция, кликнете тук, за да актуализирате."
+
+msgid "Public position is not set, click here to update."
+msgstr "Не е зададена публична позиция, кликнете тук, за да актуализирате."
+
+msgid ""
+"Please use this link to subscribe to your calendar from a software or a "
+"device:"
+msgstr ""
+"Моля, използвайте този линк да абонирате календара си от софтуер или "
+"устройство"
+
+msgid "Activate"
+msgstr "Активиране"
+
+msgid "Disable"
+msgstr "Деактивиране"
+
+msgid "Block"
+msgstr "Блокирай"
+
+msgid "Unblock"
+msgstr "Разблокирай"
+
+msgid "Area max"
+msgstr "Максимална площ"
+
+msgid "Plot of land area min"
+msgstr "Парцел с площ мин."
+
+msgid "Plot of land area max"
+msgstr "Парцел с площ макс."
+
+msgid "Date descending"
+msgstr "Дата низходяща"
+
+msgid "Date ascending"
+msgstr "Дата възходяща"
+
+msgid "Price descending"
+msgstr "Намаляваща цена"
+
+msgid "Price ascending"
+msgstr "Нарастваща цена"
+
+msgid "Balance"
+msgstr "Баланс"
+
+msgid "Construction method"
+msgstr "Вид строителство"
+
+msgid "Tax code"
+msgstr "Данъчен код"
+
+msgid "Downsides"
+msgstr "Недостатък"
+
+msgid "Assets"
+msgstr "Предимства"
+
+msgid "Please select a district from the list:"
+msgstr "Моля, избереите район от списъка"
+
+msgid "Non-flood zone"
+msgstr "Зона без наводнения"
+
+msgid "Potential flood zone"
+msgstr "Потенциална зона на наводнение"
+
+msgid "Recognized flood zone"
+msgstr "Призната зона на наводнение"
+
+msgid "Delimited flood zone"
+msgstr "Разделена зона за наводнение"
+
+msgid "Cadastre"
+msgstr "Кадастър"
+
+msgid "Delimited waterside zone"
+msgstr "Разделена водна зона"
+
+msgid "Potential flood zone in a delimited waterside zone"
+msgstr "Зона с потенциална опасност от наводнение в ограничена водна зона"
+
+msgid "Potential flood zone in a delimited flood zone"
+msgstr ""
+"Зона с потенциална опасност от наводнение в ограничена зона от наводнение"
+
+msgid "Recognized flood zone in a delimited waterside zone"
+msgstr "Призната зона на наводнение в обособена водна зона"
+
+msgid "Recognized flood zone in a delimited flood zone"
+msgstr "Призната зона на наводнение в ограничена зона на наводнение"
+
+msgid "Profile"
+msgstr "Профил"
+
+msgid "Export"
+msgstr "Експорт"
+
+msgid "Quota"
+msgstr "Квота"
+
+msgid "Logs"
+msgstr "Регистър"
+
+msgid "Document"
+msgstr "Документ"
+
+msgid "Partner"
+msgstr "Партньор"
+
+msgid "Signage"
+msgstr "Обозначение"
+
+msgid "Set up at"
+msgstr "Настройка в"
+
+msgid "Forecast"
+msgstr "Прогноза"
+
+msgid "Area ascending"
+msgstr "Нарастваща площ"
+
+msgid "Area descending"
+msgstr "Намаляваща площ"
+
+msgid "%s awaiting review(s)"
+msgstr "%s очаквани прегледи"
+
+msgid "To review"
+msgstr "Оставете коментар"
+
+msgid "Net seller"
+msgstr "Net seller"
+
+msgid "Price displayed"
+msgstr "Цена на публикуване"
+
+msgid "Listed price: %s, exchange rates are indicative."
+msgstr "Публикувана цена : %s, обменният курс е ориентировъчен"
+
+msgid "%s units"
+msgstr "%s lots"
+
+msgid "%s unit"
+msgstr "%s lot"
+
+msgid "Method"
+msgstr "Метод"
+
+msgid "Path"
+msgstr "Пътека"
+
+msgid "Pagebreak"
+msgstr "Разделител на страница"
+
+msgid "Paragraph"
+msgstr "Параграф"
+
+msgid "Spacing"
+msgstr "Разстояние/Интервал"
+
+msgid "Align"
+msgstr "Изравни"
+
+msgid "Scale"
+msgstr "Мащаб"
+
+msgid "Color"
+msgstr "Цвят"
+
+msgid "lines"
+msgstr "Линии"
+
+msgid "Positioning"
+msgstr "Позициониране"
+
+msgid "Social networks"
+msgstr "Социални мрежи"
+
+msgid "%s guest"
+msgstr "%s Гости"
+
+msgid "%s bed"
+msgstr "%s Легла"
+
+msgid "%s bathroom"
+msgstr "%s Баня"
+
+msgid "%s bathrooms"
+msgstr "%s Бани"
+
+msgid "Toilet"
+msgstr "Тоалетна"
+
+msgid "Help"
+msgstr "Помощ"
+
+msgid "Show pagination"
+msgstr "Показване на пагинацията"
+
+msgid "Mandatory fields"
+msgstr "Задължителни полета"
+
+msgid "Available soon"
+msgstr "Очаквайте скоро"
+
+msgid "HD Photo"
+msgstr "HD Photo"
+
+#, fuzzy
+msgid "Contract end at"
+msgstr ""
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Край на договора\n"
+"#-#-#-#-#  apimo-bg_BG.po  #-#-#-#-#\n"
+"Край на договора на"
+
+msgid "Incomplete"
+msgstr "Непълен"
+
+msgid "Location Map"
+msgstr "Карта на местоположението"
+
+msgid "User Detail"
+msgstr "Детайли за потребителя"
+
+msgid "File size"
+msgstr "Размер на файла"
+
+msgid "File title"
+msgstr "Заглавие на файла"
+
+msgid "Region"
+msgstr "Регион"
+
+msgid "Bath"
+msgstr "Баня"
+
+msgid "Private Negotiation"
+msgstr "Частни преговори"
+
+msgid "Property specifications"
+msgstr "Спецификации на имота"
+
+msgid "Energy performance"
+msgstr "Енергийна ефективност"
+
+msgid "Media Details"
+msgstr "Детайли за медията"
+
+msgid "View Video"
+msgstr "Гледай видеото"
+
+msgid "Start Date"
+msgstr "Начална дата"
+
+msgid "End Date"
+msgstr "Крайна дата"
+
+msgid "Welcome"
+msgstr "Добре дошли"
+
+msgid "See What’s happening with Apimo Plugin."
+msgstr "Вижте какво се случва с Apimo Plugin."
+
+msgid "PROVIDERS"
+msgstr "ДОСТАВЧИЦИ"
+
+msgid "AGENCIES"
+msgstr "АГЕНЦИИ"
+
+msgid "PROPERTIES"
+msgstr "ИМОТИ"
+
+msgid "BOOKMARK"
+msgstr "Отметка"
+
+msgid "Remove all"
+msgstr "Премахни всички"
+
+msgid "Apply filter"
+msgstr "Приложи филтър"
+
+msgid "Select Subtype"
+msgstr "Изберете подтип"
+
+msgid "Enchère"
+msgstr "Търг"
+
+msgid "Location"
+msgstr "Наем"
+
+msgid "Location saisonnière"
+msgstr "Сезонен наем"
+
+msgid "From"
+msgstr "От"
+
+msgid "To"
+msgstr "До"
+
+msgid "Dates"
+msgstr "Дати"
+
+msgid "Select country"
+msgstr "Изберете държава"
+
+msgid "Select region"
+msgstr "Изберете регион"
+
+msgid "Select district"
+msgstr "Изберете област"
+
+msgid "Select city"
+msgstr "Изберете град"
+
+msgid "Good"
+msgstr "добре"
+
+msgid "Bad"
+msgstr "лошо"
+
+msgid "hello"
+msgstr "здравей"
+
+msgid "Available Integrations"
+msgstr "Налични интеграции"
+
+msgid "reCAPTCHA Detected"
+msgstr "recaptcha открита"
+
+msgid "reCAPTCHA Not Detected"
+msgstr "recaptcha не е открит"
+
+msgid "Google reCAPTCHA Integration"
+msgstr "Интеграция на Google RECAPTCHA"
+
+msgid ""
+"Protect your forms from spam and abuse with Google reCAPTCHA integration."
+msgstr ""
+"Защитете формулярите си от спам и злоупотреба с интеграция на Google "
+"recaptcha."
+
+msgid "Activate Integration"
+msgstr "Активирайте интеграцията"
+
+msgid "Deactivate Integration"
+msgstr "Деактивиране на интеграция"
+
+msgid "reCAPTCHA Configuration"
+msgstr "Конфигурация на recaptcha"
+
+msgid "Please configure your reCAPTCHA keys below to complete the setup."
+msgstr ""
+"Моля, конфигурирайте вашите клавиши за recaptCha по -долу, за да завършите "
+"настройката."
+
+msgid "To complete the reCAPTCHA setup:"
+msgstr "За да завършите настройката на recaptcha:"
+
+msgid "Go to the"
+msgstr "Отидете на"
+
+msgid "Google reCAPTCHA Admin Console"
+msgstr "Google recaptcha администраторска конзола"
+
+msgid "Register your site and get your Site Key and Secret Key"
+msgstr ""
+"Регистрирайте сайта си и вземете ключа и секретния си ключ на вашия сайт"
+
+msgid "Enter the keys below to activate reCAPTCHA"
+msgstr "Въведете клавишите по -долу, за да активирате recaptcha"
+
+msgid "reCAPTCHA is configured properly."
+msgstr "recaptcha е конфигуриран правилно."
+
+msgid "Site Key"
+msgstr "Ключ на сайта"
+
+msgid "Secret Key"
+msgstr "Таен ключ"
+
+msgid "Save Configuration"
+msgstr "Запазване на конфигурацията"
+
+msgid "Contact Form"
+msgstr "Формуляр за контакт"
+
+msgid "Invalid format"
+msgstr "Невалиден формат"
+
+msgid "This field is required"
+msgstr "Това поле е необходимо"
+
+msgid "Invalid email format"
+msgstr "Невалиден имейл формат"
+
+msgid "Please use reCAPTCHA version 3"
+msgstr "Моля, използвайте recaptcha версия 3"

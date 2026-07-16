@@ -1,0 +1,7979 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.1\n"
+
+msgid "Reminder"
+msgstr "Herinnering"
+
+#, fuzzy
+msgid "Suggestion"
+msgstr ""
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Suggestie\n"
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Voorstel"
+
+msgid "Report"
+msgstr "Verslag"
+
+#, fuzzy
+msgid "Other"
+msgstr ""
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Anders\n"
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Andere\n"
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Overige\n"
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Andere\n"
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Ander\n"
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Andere"
+
+#, fuzzy
+msgid "Valuation"
+msgstr ""
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Taxatie\n"
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Taxatie\n"
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Evaluatie"
+
+#, fuzzy
+msgid "Advertising"
+msgstr ""
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Advertentie\n"
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Adverteren"
+
+msgid "Open House"
+msgstr "Open huis"
+
+msgid "Holiday"
+msgstr "Vakantie"
+
+#, fuzzy
+msgid "Canvassing"
+msgstr ""
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Acquisitie\n"
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Koude prospectie"
+
+msgid "Message"
+msgstr "Bericht"
+
+#, fuzzy
+msgid "Personal"
+msgstr ""
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Personeel\n"
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Persoonlijk"
+
+msgid "After-sales"
+msgstr "Aftersales"
+
+#, fuzzy
+msgid "Virtual tour"
+msgstr ""
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Virtueel bezoek\n"
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Virtuele tour"
+
+msgid "Training"
+msgstr "Opleiding"
+
+msgid "Visit"
+msgstr "Bezoek"
+
+msgid "On duty"
+msgstr "In dienst"
+
+msgid "Administrative"
+msgstr "Administratief"
+
+msgid "Survey"
+msgstr "Vragenlijst"
+
+msgid "Appointment"
+msgstr "Afspraak"
+
+#, fuzzy
+msgid "Inventory"
+msgstr ""
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Inventaris\n"
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Inventaris\n"
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Plaatsbeschrijving"
+
+msgid "Commercial"
+msgstr "Commercieel"
+
+#, fuzzy
+msgid "Event"
+msgstr ""
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Event\n"
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Evenement\n"
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Evenement"
+
+msgid "Phone"
+msgstr "Telefoon"
+
+msgid "e-mail"
+msgstr "e-mail"
+
+msgid "Fax"
+msgstr "Fax"
+
+msgid "Mail"
+msgstr "Mail"
+
+msgid "SMS"
+msgstr "SMS"
+
+msgid "Walk-in"
+msgstr "Bezoek"
+
+msgid "Extranet"
+msgstr "Extranet"
+
+msgid "Reservation"
+msgstr "Reservering"
+
+msgid "Signed"
+msgstr "Getekend"
+
+msgid "Canceled"
+msgstr "Geannuleerd"
+
+#, fuzzy
+msgid "Closed"
+msgstr ""
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Gesloten\n"
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Gesloten\n"
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Gesloten\n"
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Afgesloten"
+
+msgid "Transaction"
+msgstr "Transactie"
+
+msgid "Rental management"
+msgstr "Huurbeheer"
+
+msgid "Search"
+msgstr "Zoeken"
+
+msgid "Caution"
+msgstr "Waarschuwing"
+
+msgid "Delegation"
+msgstr "Delegatie"
+
+msgid "Project"
+msgstr "Project"
+
+msgid "Under construction"
+msgstr "In aanbouw"
+
+msgid "Delivered"
+msgstr "Opgeleverd"
+
+msgid "Ended"
+msgstr "Beëindigd"
+
+msgid "Mr."
+msgstr "Dhr."
+
+msgid "Mrs."
+msgstr "Mevr."
+
+msgid "Ms."
+msgstr "Mevrouw"
+
+msgid "Mr. & Mrs."
+msgstr "De heer en mevrouw"
+
+msgid "Sheik"
+msgstr "Sjeik"
+
+msgid "Duke"
+msgstr "Hertog"
+
+msgid "Duchess"
+msgstr "Hertogin"
+
+msgid "Lord"
+msgstr "Lord"
+
+msgid "Maître"
+msgstr "Meester"
+
+msgid "Professor"
+msgstr "Professor"
+
+msgid "Sir"
+msgstr "Sir"
+
+msgid "Engineer"
+msgstr "Ingenieur"
+
+msgid "Notary"
+msgstr "Notaris"
+
+msgid "Lawyer"
+msgstr "Advocaat"
+
+msgid "Accountant"
+msgstr "Boekhouder"
+
+msgid "Colonel"
+msgstr "Kolonel"
+
+msgid "Architetto"
+msgstr "Architect"
+
+#, fuzzy
+msgid "Doctor"
+msgstr ""
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Dokter\n"
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Arts"
+
+#, fuzzy
+msgid "Plan"
+msgstr ""
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Plan\n"
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Architecturaal plan"
+
+msgid "Identity papers"
+msgstr "Identiteitsbewijzen"
+
+#, fuzzy
+msgid "Diagnostics"
+msgstr ""
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Diagnose\n"
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Technische rapporten"
+
+#, fuzzy
+msgid "Agreement"
+msgstr ""
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Akkoord\n"
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Mandaat/opdracht"
+
+msgid "Contract"
+msgstr "Contract"
+
+msgid "Condominium"
+msgstr "Vereniging van eigenaren"
+
+msgid "Maintenance"
+msgstr "Onderhoud"
+
+#, fuzzy
+msgid "Appraisal"
+msgstr ""
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Waardering\n"
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Taxatie\n"
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Taxatie"
+
+msgid "Brochure"
+msgstr "Brochure"
+
+msgid "Invoice"
+msgstr "Factuur"
+
+#, fuzzy
+msgid "Lease"
+msgstr ""
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Lease\n"
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Huurovereenkomst"
+
+msgid "Title deeds"
+msgstr "Eigendomstitel"
+
+msgid "Application"
+msgstr "Toepassing"
+
+msgid "Regulations"
+msgstr "Reglementering"
+
+msgid "AML/KYC Vendor"
+msgstr "AML/KYC Vendor"
+
+msgid "AML/KYC Buyer"
+msgstr "AML/KYC Buyer"
+
+msgid "Electricity"
+msgstr "Elektriciteit"
+
+msgid "Water"
+msgstr "Water"
+
+msgid "Maintenance of common areas"
+msgstr "Onderhoud van gemeenschappelijke ruimtes"
+
+msgid "Waste collection"
+msgstr "Afvalverzameling"
+
+msgid "Heating"
+msgstr "Verwarming"
+
+msgid "Hot water"
+msgstr "Warm water"
+
+msgid "Heating maintenance"
+msgstr "Onderhoud verwarming"
+
+#, fuzzy
+msgid "Property tax"
+msgstr ""
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Onroerende voorheffing\n"
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Onroerende voorheffing\n"
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Onroerende voorheffing\n"
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Onroerendgoedbelasting"
+
+msgid "Concierge"
+msgstr "Conciërge"
+
+msgid "Chimney-sweeping"
+msgstr "Schoorsteenvegerij"
+
+#, fuzzy
+msgid "Sanitation"
+msgstr ""
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Sanitaire voorzieningen\n"
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Riolering\n"
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Riolering"
+
+msgid "Household waste tax"
+msgstr "Afvalstoffenheffing"
+
+msgid "Contact"
+msgstr "Contact"
+
+msgid "Owner"
+msgstr "Eigenaar"
+
+msgid "e-mail alert"
+msgstr "e-mail waarschuwing"
+
+msgid "Send to a friend"
+msgstr "Stuur naar een vriend"
+
+msgid "Newsletter"
+msgstr "Nieuwsbrief"
+
+msgid "Selection"
+msgstr "Selectie"
+
+#, fuzzy
+msgid "New"
+msgstr ""
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Nieuw\n"
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Nieuwbouw\n"
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Nieuw"
+
+msgid "Opened"
+msgstr "Geopend"
+
+msgid "Processing"
+msgstr "Verwerken"
+
+msgid "Self-employed"
+msgstr "Vrij beroep"
+
+msgid "Bakery"
+msgstr "Bakker"
+
+msgid "Restaurant"
+msgstr "Restaurant"
+
+msgid "Press"
+msgstr "Tijdschriftenwinkel"
+
+msgid "Bar"
+msgstr "Bar"
+
+msgid "Florist"
+msgstr "Bloemenwinkel"
+
+msgid "Tobacconist"
+msgstr "Tabakzaak"
+
+msgid "Clothes"
+msgstr "Kledingzaak"
+
+msgid "Chemist"
+msgstr "Apotheek"
+
+msgid "Shopping centre"
+msgstr "Winkelcentrum"
+
+msgid "Travel agency"
+msgstr "Reisbureau"
+
+msgid "Real estate agent"
+msgstr "Makelaar"
+
+#, fuzzy
+msgid "Gallery"
+msgstr ""
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Galerie\n"
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Galerij"
+
+msgid "Garage"
+msgstr "Garage"
+
+msgid "Insurer"
+msgstr "Verzekeraar"
+
+msgid "Optician"
+msgstr "Opticien"
+
+msgid "Perfumery"
+msgstr "Parfumerie"
+
+msgid "Hotel"
+msgstr "Hotel"
+
+msgid "Antique dealer"
+msgstr "Antiekzaak"
+
+msgid "Laundry"
+msgstr "Wasserette"
+
+msgid "Pressing"
+msgstr "Stomerij"
+
+msgid "Jeweller"
+msgstr "Juwelier"
+
+msgid "Brewery"
+msgstr "Kruidenier"
+
+msgid "Pork butcher"
+msgstr "Slager"
+
+msgid "Caterer"
+msgstr "Traiteur"
+
+msgid "Snack"
+msgstr "Snackbar"
+
+msgid "Confectioner"
+msgstr "Patisserie"
+
+msgid "Grocery"
+msgstr "Kruidenierswinkel"
+
+msgid "Cheesemonger"
+msgstr "Kaaswinkel"
+
+msgid "Fruit and vegetables"
+msgstr "Groenten en fruitzaak"
+
+msgid "Sex shop"
+msgstr "Sexshop"
+
+msgid "Video game"
+msgstr "Videogames"
+
+msgid "Computer"
+msgstr "Computerwinkel"
+
+msgid "Hairdresser"
+msgstr "Kapper"
+
+msgid "Cosmetician"
+msgstr "Schoonheidsspecialist"
+
+msgid "Household electrical"
+msgstr "Huishoudelijk apparaten"
+
+msgid "Shoes"
+msgstr "Schoenen"
+
+msgid "Haberdasher"
+msgstr "Naaigerei"
+
+msgid "Groomer"
+msgstr "Trimmer"
+
+msgid "Tea room"
+msgstr "Tearoom"
+
+msgid "Beach"
+msgstr "Strand"
+
+msgid "Bookshop"
+msgstr "Boekwinkel"
+
+msgid "Offices"
+msgstr "Kantoren"
+
+msgid "Gas station"
+msgstr "Tankstation"
+
+msgid "Camping"
+msgstr "Camping"
+
+msgid "Nightclub"
+msgstr "Nachtclub"
+
+msgid "Pet store"
+msgstr "Dierenwinkel"
+
+msgid "Video arcade"
+msgstr "Speelhal"
+
+msgid "Office supplies"
+msgstr "Kantoor artikelen"
+
+msgid "Furniture"
+msgstr "Meubilair"
+
+msgid "Decoration"
+msgstr "Decoratie"
+
+msgid "Agriculture"
+msgstr "Landbouw"
+
+msgid "Photo"
+msgstr "Foto"
+
+msgid "Drugstore"
+msgstr "Drogisterij"
+
+msgid "Locksmith"
+msgstr "Slotenmaker"
+
+msgid "Health club"
+msgstr "Sportschool"
+
+msgid "Taxi"
+msgstr "Taxi"
+
+msgid "Cinema"
+msgstr "Bioscoop"
+
+msgid "Theater"
+msgstr "Theater"
+
+msgid "Café"
+msgstr "Cafe"
+
+msgid "Garden centre"
+msgstr "Tuincentrum"
+
+msgid "Hardware shop"
+msgstr "IJzerhandel"
+
+msgid "Fishmongers"
+msgstr "Viswinkel"
+
+msgid "Recreation"
+msgstr "Recreatie"
+
+msgid "Culture"
+msgstr "Cultuur"
+
+msgid "Funeral"
+msgstr "Begrafenisonderneming"
+
+msgid "Agritourism"
+msgstr "Plattelandstoerisme"
+
+#, fuzzy
+msgid "Golf"
+msgstr ""
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Golf\n"
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Golfterrein\n"
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Golfterrein\n"
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Golfbaan"
+
+msgid "Ice cream shop"
+msgstr "IJssalon"
+
+msgid "Sport supplies"
+msgstr "Sportbenodigdheden"
+
+msgid "Bedroom"
+msgstr "Slaapkamer"
+
+msgid "Living room/dining area"
+msgstr "Woonkamer"
+
+msgid "Kitchen"
+msgstr "Keuken"
+
+#, fuzzy
+msgid "Parking"
+msgstr ""
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Parkeerplaats\n"
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Parking\n"
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Parkeerplaats"
+
+msgid "Basement"
+msgstr "Kelder"
+
+msgid "Garden shelter"
+msgstr "Tuinhuisje"
+
+msgid "Bathroom"
+msgstr "Badkamer"
+
+msgid "Laundry room"
+msgstr "Wasruimte"
+
+msgid "Study"
+msgstr "Kantoorruimte"
+
+msgid "Corridor"
+msgstr "Gang"
+
+#, fuzzy
+msgid "Shower room"
+msgstr ""
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Doucheruimte\n"
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Douchekamer"
+
+msgid "Walk-in wardrobe"
+msgstr "Kleedkamer"
+
+msgid "Hall"
+msgstr "Hal"
+
+msgid "Lavatory"
+msgstr "Toilet"
+
+msgid "Veranda"
+msgstr "Serre"
+
+msgid "Terrace"
+msgstr "Terras"
+
+msgid "Solarium"
+msgstr "Zonnebank"
+
+msgid "Play room"
+msgstr "Speelkamer"
+
+msgid "Dining room"
+msgstr "Eetkamer"
+
+msgid "Pool house"
+msgstr "Pool house"
+
+msgid "Cupboard"
+msgstr "Kast"
+
+msgid "Not used"
+msgstr "Niet gebruikte ruimte"
+
+msgid "Attic"
+msgstr "Zolder"
+
+msgid "Mezzanine"
+msgstr "Mezzanine"
+
+#, fuzzy
+msgid "Pantry"
+msgstr ""
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Voorraadkelder\n"
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Voedselkamer"
+
+msgid "Maintenance room"
+msgstr "Technische ruimte"
+
+msgid "Workshop"
+msgstr "Atelier"
+
+msgid "Studio"
+msgstr "Studio"
+
+msgid "Loft"
+msgstr "Loft"
+
+msgid "Library"
+msgstr "Bibliotheek"
+
+msgid "Closet"
+msgstr "Hangkast"
+
+msgid "Courtyard"
+msgstr "Binnenplaats"
+
+msgid "Landing"
+msgstr "Overloop"
+
+msgid "Linen room"
+msgstr "Was en strijk kamer"
+
+msgid "Bathroom / Lavatory"
+msgstr "Badkamer met toilet"
+
+msgid "Shower room / Lavatory"
+msgstr "Doucheruimte met toilet"
+
+msgid "Balcony"
+msgstr "Balkon"
+
+msgid "Exercise room"
+msgstr "Sportruimte"
+
+msgid "Discothèque"
+msgstr "Nachtclub"
+
+msgid "Home cinema"
+msgstr "Bioscoop"
+
+msgid "Reception room"
+msgstr "Ontvangstruimte"
+
+msgid "Storage room"
+msgstr "Bergruimte"
+
+msgid "Garden"
+msgstr "Tuin"
+
+msgid "Park"
+msgstr "Park"
+
+msgid "Plot"
+msgstr "Terrein"
+
+msgid "Patio"
+msgstr "Patio"
+
+msgid "Principal bedroom"
+msgstr "Hoofdslaapkamer"
+
+msgid "Suite"
+msgstr "Suite"
+
+msgid "Barn"
+msgstr "Schuur"
+
+msgid "Apartment"
+msgstr "Appartement"
+
+msgid "Cabin"
+msgstr "Cabine"
+
+msgid "Outbuilding"
+msgstr "Bijgebouw"
+
+msgid "Bike storage room"
+msgstr "Fietsenstalling"
+
+msgid "Ski storage room"
+msgstr "Ski locker"
+
+msgid "Garbage room"
+msgstr "Vuilnisruimte"
+
+msgid "Steam room"
+msgstr "Hammam"
+
+msgid "Indoor swimming pool"
+msgstr "Binnenzwembad"
+
+msgid "Prayer room"
+msgstr "Gebedsruimte"
+
+msgid "Sauna"
+msgstr "Sauna"
+
+msgid "Watchtower"
+msgstr "Uitkijktoren"
+
+msgid "Room"
+msgstr "Kamer"
+
+msgid "Meeting room"
+msgstr "Vergaderzaal"
+
+msgid "Maid's room"
+msgstr "Kamer voor het personeel"
+
+msgid "Maid's studio"
+msgstr "Studio voor het personeel"
+
+msgid "Double reception room"
+msgstr "Dubbele ontvangstruimte"
+
+msgid "Triple reception room"
+msgstr "Driedubbele ontvangstruimte"
+
+msgid "Indoor parking"
+msgstr "Overdekte parking"
+
+msgid "Outdoor parking"
+msgstr "Buiten parking"
+
+msgid "Stockroom"
+msgstr "Voorraadkamer"
+
+msgid "Shop"
+msgstr "Winkel"
+
+msgid "Cafeteria"
+msgstr "Cafetaria"
+
+#, fuzzy
+msgid "Unit"
+msgstr ""
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Unit\n"
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Percelen"
+
+#, fuzzy
+msgid "Warehouse"
+msgstr ""
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Magazijn\n"
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Bedrijfsruimten/Opslagruimte\n"
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Entrepot"
+
+msgid "Accommodation"
+msgstr "Accommodatie"
+
+msgid "Arcade"
+msgstr "Speelruimte"
+
+msgid "House"
+msgstr "Huis"
+
+msgid "Stair"
+msgstr "Trap"
+
+msgid "Box"
+msgstr "Box"
+
+msgid "Wine cellar"
+msgstr "Wijnkelder"
+
+msgid "Panic room"
+msgstr "Paniekruimte"
+
+msgid "Open space"
+msgstr "Open ruimte"
+
+msgid "Living room/kitchen"
+msgstr "Open leefruimte/keuken"
+
+msgid "Summer kitchen"
+msgstr "Zomerkeuken"
+
+msgid "Spa"
+msgstr "Spa"
+
+msgid "Boathouse"
+msgstr "Boothuis"
+
+msgid "Eat-in kitchen"
+msgstr "Eetkamer / Keuken"
+
+msgid "Equipped kitchen"
+msgstr "Ingerichte keuken"
+
+msgid "Semi equipped kitchen"
+msgstr "Semi uitgeruste keuken"
+
+msgid "Corner kitchen"
+msgstr "Hoekkeuken"
+
+msgid "Kitchenette"
+msgstr "Kitchenette"
+
+msgid "Open kitchen"
+msgstr "Open keuken"
+
+msgid "Porch"
+msgstr "Veranda"
+
+msgid "Living/dining/kitchen area"
+msgstr "Woonkamer / Keuken"
+
+msgid "Children's room"
+msgstr "Kinderkamer"
+
+msgid "Locker"
+msgstr "Locker"
+
+msgid "Lobby"
+msgstr "Foyer"
+
+msgid "Accessible toilet"
+msgstr "Mindervalide Toilet"
+
+msgid "Craft workshop"
+msgstr "Ambachtelijke werkplaats"
+
+msgid "Plateau"
+msgstr "Plateau"
+
+msgid "Stable"
+msgstr "Stal"
+
+msgid "Winter garden"
+msgstr "Wintertuin"
+
+msgid "Cold room"
+msgstr "Koelruimte"
+
+msgid "Single"
+msgstr "Vrijstaand"
+
+msgid "Twin"
+msgstr "Twee-onder-één-kap"
+
+msgid "Twin by garage"
+msgstr "Twee-onder-één-kap met garage verbonden"
+
+#, fuzzy
+msgid "Village house"
+msgstr ""
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Stadswoning\n"
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Dorpswoning"
+
+msgid "Twin by angle"
+msgstr "Half vrijstaand hoekhuis"
+
+msgid "Ranged"
+msgstr "Gesloten bebouwing"
+
+msgid "Half open"
+msgstr "Half vrijstaand"
+
+msgid "Standard"
+msgstr "Standaard"
+
+msgid "Co-exclusive"
+msgstr "Co-exclusief"
+
+#, fuzzy
+msgid "Exclusive"
+msgstr ""
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Exclusief\n"
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Exclusiviteit"
+
+msgid "Exclusive agent"
+msgstr "Exclusieve agent"
+
+msgid "Colleague"
+msgstr "Collega"
+
+msgid "Verbal"
+msgstr "Mondeling"
+
+#, fuzzy
+msgid "Free"
+msgstr ""
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Vrij\n"
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Kosteloos"
+
+msgid "Rented"
+msgstr "Verhuurd"
+
+msgid "Occupied"
+msgstr "Bezet"
+
+msgid "To be agreed"
+msgstr "Overeen te komen"
+
+msgid "Building"
+msgstr "Gebouw"
+
+msgid "Residence"
+msgstr "Residentie"
+
+msgid "Housing scheme"
+msgstr "Verkaveling"
+
+msgid "Hamlet"
+msgstr "Dorp"
+
+msgid "Domain"
+msgstr "Domein"
+
+msgid "Property"
+msgstr "Eigendom"
+
+msgid "Street"
+msgstr "Straat"
+
+msgid "Sale"
+msgstr "Verkoop"
+
+msgid "Rental"
+msgstr "Verhuur"
+
+msgid "Seasonal rental"
+msgstr "Seizoenverhuur"
+
+msgid "Development"
+msgstr "Ontwikkeling"
+
+msgid "Life annuity"
+msgstr "Lijfrente"
+
+msgid "Auction"
+msgstr "Verkoop bij opbod"
+
+msgid "Unit sale"
+msgstr "Verkoop per eenheid"
+
+msgid "Bulk sale"
+msgstr "Bulkverkoop"
+
+msgid "Unfurnished"
+msgstr "Ongemeubileerd"
+
+msgid "Furnished"
+msgstr "Gemeubileerd"
+
+msgid "Roommate"
+msgstr "Huisgenoot"
+
+msgid "Student"
+msgstr "Student"
+
+msgid "Half furnished"
+msgstr "Half gemeubileerd"
+
+msgid "Coworking"
+msgstr "Coworking"
+
+msgid "Holidays"
+msgstr "Vakantie"
+
+msgid "New construction"
+msgstr "Nieuwbouw"
+
+msgid "Life annuity occupied"
+msgstr "Lijfrente bezet"
+
+msgid "Bare Ownership"
+msgstr "Bloot eigendom"
+
+msgid "Forward sale"
+msgstr "Termijnverkoop"
+
+msgid "Life annuity semi-occupied"
+msgstr "Lijfrente semi-bezet"
+
+msgid "Forward sale available"
+msgstr "Termijnverkoop vrij"
+
+msgid "Forward sale semi-occupied"
+msgstr "Termijn verkoop semi-bezet"
+
+msgid "Forward sale occupied"
+msgstr "Termijnverkoop bezet"
+
+msgid "Life annuity without income"
+msgstr "Lijfrente zonder inkomen"
+
+msgid "Requires updating"
+msgstr "Opknappen"
+
+msgid "Good condition"
+msgstr "Goede staat"
+
+msgid "Requires renovation"
+msgstr "Te renoveren"
+
+msgid "Excellent condition"
+msgstr "Uitstekende staat"
+
+msgid "Timber"
+msgstr "Hout"
+
+msgid "Engineered wood"
+msgstr "Parket"
+
+msgid "Stone"
+msgstr "Natuursteen"
+
+msgid "Brick"
+msgstr "Baksteen"
+
+msgid "Concrete"
+msgstr "Beton"
+
+msgid "Reinforced concrete"
+msgstr "Gewapend beton"
+
+msgid "Steel frame"
+msgstr "Staalskeletbouw"
+
+msgid "Reinforced concrete frame"
+msgstr "Skeletbouw in gewapend beton"
+
+msgid "Shear wall"
+msgstr "Schuifwand"
+
+msgid "Cinder block"
+msgstr "Betonblok"
+
+msgid "Dimension stone"
+msgstr "Pierre de taille"
+
+msgid "Monolith brick"
+msgstr "Monolithishce baksteen"
+
+msgid "Panel"
+msgstr "Paneel"
+
+msgid "Wood frame"
+msgstr "Houten kader"
+
+msgid "Metal frame"
+msgstr "Metalen kader"
+
+msgid "Mudbrick"
+msgstr "Modderbaksteen"
+
+msgid "Aerated concrete"
+msgstr "Celbeton"
+
+msgid "Clinker"
+msgstr "Zandsteen"
+
+msgid "Rammed earth"
+msgstr "Gips"
+
+msgid "Insulated shuttering block"
+msgstr "Geïsoleerd bekistingsblok"
+
+msgid "Ground floor"
+msgstr "Begane grond"
+
+msgid "Top floor"
+msgstr "Hoogste verdieping"
+
+msgid "1st"
+msgstr "1e"
+
+msgid "2nd"
+msgstr "2de"
+
+msgid "3rd"
+msgstr "3de"
+
+msgid "4th"
+msgstr "4de"
+
+msgid "5th"
+msgstr "5de"
+
+msgid "6th"
+msgstr "6de"
+
+msgid "7th"
+msgstr "7de"
+
+msgid "8th"
+msgstr "8ste"
+
+msgid "9th"
+msgstr "9de"
+
+msgid "10th"
+msgstr "10de"
+
+msgid "11th"
+msgstr "11de"
+
+msgid "12th"
+msgstr "12de"
+
+msgid "13th"
+msgstr "13de"
+
+msgid "14th"
+msgstr "14de"
+
+msgid "15th"
+msgstr "15de"
+
+msgid "16th"
+msgstr "16de"
+
+msgid "17th"
+msgstr "17de"
+
+msgid "18th"
+msgstr "18de"
+
+msgid "19th"
+msgstr "19de"
+
+msgid "20th"
+msgstr "20ste"
+
+msgid "Garden level"
+msgstr "Tuin niveau"
+
+msgid "Split-level"
+msgstr "Gedeeld niveau"
+
+msgid "-1"
+msgstr "-1"
+
+msgid "-2"
+msgstr "-2"
+
+msgid "-3"
+msgstr "-3"
+
+msgid "-4"
+msgstr "-4"
+
+msgid "Single-storey"
+msgstr "Gelijkvloers"
+
+msgid "21st"
+msgstr "21ste"
+
+msgid "22nd"
+msgstr "22ste"
+
+msgid "23rd"
+msgstr "23ste"
+
+msgid "24th"
+msgstr "24ste"
+
+msgid "25th"
+msgstr "25ste"
+
+msgid "26th"
+msgstr "26ste"
+
+msgid "27th"
+msgstr "27ste"
+
+msgid "28th"
+msgstr "28ste"
+
+msgid "29th"
+msgstr "29ste"
+
+msgid "30th"
+msgstr "30ste"
+
+msgid "31st"
+msgstr "31ste"
+
+msgid "32nd"
+msgstr "32ste"
+
+msgid "33rd"
+msgstr "33ste"
+
+msgid "34th"
+msgstr "34ste"
+
+msgid "35th"
+msgstr "35ste"
+
+msgid "36th"
+msgstr "36ste"
+
+msgid "37th"
+msgstr "37ste"
+
+msgid "38th"
+msgstr "38ste"
+
+msgid "39th"
+msgstr "39ste"
+
+msgid "40th"
+msgstr "40ste"
+
+msgid "-5"
+msgstr "-5"
+
+msgid "-6"
+msgstr "-6"
+
+msgid "-7"
+msgstr "-7"
+
+msgid "-8"
+msgstr "-8"
+
+msgid "-9"
+msgstr "-9"
+
+msgid "-10"
+msgstr "-10"
+
+msgid "41st"
+msgstr "41ste"
+
+msgid "42nd"
+msgstr "42ste"
+
+msgid "43rd"
+msgstr "43ste"
+
+msgid "44th"
+msgstr "44ste"
+
+msgid "45th"
+msgstr "45ste"
+
+msgid "46th"
+msgstr "46ste"
+
+msgid "47th"
+msgstr "47ste"
+
+msgid "48th"
+msgstr "48ste"
+
+msgid "49th"
+msgstr "NULLNULL"
+
+msgid "50th"
+msgstr "50ste"
+
+msgid "51st"
+msgstr "51ste"
+
+msgid "52nd"
+msgstr "52ste"
+
+msgid "53rd"
+msgstr "53ste"
+
+msgid "54th"
+msgstr "54ste"
+
+msgid "55th"
+msgstr "55ste"
+
+msgid "56th"
+msgstr "56ste"
+
+msgid "57th"
+msgstr "57ste"
+
+msgid "58th"
+msgstr "58ste"
+
+msgid "59th"
+msgstr "59ste"
+
+msgid "60th"
+msgstr "60ste"
+
+msgid "Raised"
+msgstr "Verhoogd"
+
+msgid "Wooden floor"
+msgstr "Parket"
+
+msgid "Tile"
+msgstr "Tegels"
+
+msgid "Carpet"
+msgstr "Tapijt"
+
+msgid "Natural fiber"
+msgstr "Natuurlijke vezels"
+
+msgid "Coco"
+msgstr "Cocos"
+
+msgid "Travertine"
+msgstr "Travertijn"
+
+msgid "Marble"
+msgstr "Marmer"
+
+msgid "Granite"
+msgstr "Graniet"
+
+msgid "Terracotta tile"
+msgstr "Terracotta"
+
+msgid "Teak"
+msgstr "Teck"
+
+msgid "Mosaïc"
+msgstr "Mosaïek"
+
+msgid "Clay"
+msgstr "Klei"
+
+msgid "Laminate"
+msgstr "Laminaat"
+
+msgid "Vinyl composition tile"
+msgstr "Vinyl/PVC"
+
+msgid "Porcelain stoneware"
+msgstr "Porselein"
+
+msgid "Cement tile"
+msgstr "Cementtegel"
+
+msgid "Convector"
+msgstr "Convectoren"
+
+msgid "Underfloor"
+msgstr "Vloerverwarming"
+
+msgid "Radiator"
+msgstr "Radiator"
+
+#, fuzzy
+msgid "Stove"
+msgstr ""
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Kachel\n"
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Kookplaat"
+
+msgid "Air-conditioning"
+msgstr "Airconditioning"
+
+msgid "Central"
+msgstr "Centraal"
+
+msgid "Without"
+msgstr "Zonder verwarming"
+
+msgid "Fireplace"
+msgstr "Open haard"
+
+msgid "Individual"
+msgstr "Individueel"
+
+msgid "Common"
+msgstr "Collectief"
+
+msgid "Mixed"
+msgstr "Gemengd"
+
+msgid "District heating"
+msgstr "Warmtedistributie"
+
+msgid "Gas"
+msgstr "Gas"
+
+msgid "Fuel oil"
+msgstr "Olie"
+
+msgid "Electric"
+msgstr "Elektrisch"
+
+msgid "Wood"
+msgstr "Hout"
+
+msgid "Solar"
+msgstr "Zonnepanelen"
+
+msgid "Charcoal"
+msgstr "Houtskool"
+
+msgid "Heat pump"
+msgstr "Warmtepomp"
+
+msgid "Geothermal"
+msgstr "Aardwarmte"
+
+msgid "Wood pellet"
+msgstr "Houtpellets"
+
+msgid "Aerothermy"
+msgstr "Aërothermie"
+
+msgid "Wood chips"
+msgstr "Houtsnippers"
+
+msgid "Hot water tank"
+msgstr "Ketel"
+
+msgid "Boiler"
+msgstr "Boiler"
+
+msgid "Collective"
+msgstr "Collectief"
+
+msgid "Flat"
+msgstr "Vlak"
+
+msgid "Dry-stone wall terraces"
+msgstr "Restanque"
+
+msgid "Steep"
+msgstr "Steil"
+
+msgid "Wooded"
+msgstr "Bebost"
+
+msgid "Meadow"
+msgstr "Weide"
+
+msgid "Vineyard"
+msgstr "Wijngaard"
+
+msgid "Orchard"
+msgstr "Boomgaard"
+
+msgid "Hilly"
+msgstr "Heuvelachtig"
+
+msgid "Term lease"
+msgstr "Korte termijn huur"
+
+msgid "Long-Term"
+msgstr "Lange termijn huur"
+
+msgid "Long-Term - Single activity"
+msgstr "Lange termijn huur - eenvoudige commerciële activiteiten"
+
+msgid "Long-Term - All activities"
+msgstr "Lange termijn huur - alle commerciële activiteiten"
+
+msgid "Regulated"
+msgstr "Gereguleerd"
+
+msgid "Seaside"
+msgstr "Kust"
+
+msgid "Village"
+msgstr "Dorp"
+
+msgid "Old town"
+msgstr "Oude stad"
+
+msgid "Precinct"
+msgstr "Voetgangersgebied"
+
+#, fuzzy
+msgid "Ski slope"
+msgstr ""
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Skipiste\n"
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Skipistes"
+
+msgid "Town center"
+msgstr "Stadscentrum"
+
+msgid "Industrial estate"
+msgstr "Industrieterrein"
+
+msgid "Shopping center"
+msgstr "Winkelcentrum"
+
+msgid "Business park"
+msgstr "Bedrijvenpark"
+
+msgid "Airport area"
+msgstr "Luchthavengebied"
+
+msgid "Science park"
+msgstr "Technologiepark"
+
+msgid "Port area"
+msgstr "Havengebied"
+
+msgid "Outskirts"
+msgstr "Buitenwijken"
+
+msgid "Hills"
+msgstr "Heuvels"
+
+msgid "Waterfront"
+msgstr "Aan het water"
+
+msgid "Countryside"
+msgstr "Platteland"
+
+msgid "Suburb"
+msgstr "Buitenwijk"
+
+msgid "East"
+msgstr "Oost"
+
+msgid "North"
+msgstr "Noord"
+
+msgid "West"
+msgstr "West"
+
+msgid "South"
+msgstr "Zuid"
+
+msgid "North-east"
+msgstr "Noordoost"
+
+msgid "South-east"
+msgstr "Zuidoost"
+
+msgid "South-west"
+msgstr "Zuid-west"
+
+msgid "North-west"
+msgstr "Noord-west"
+
+msgid "Day"
+msgstr "Dag"
+
+msgid "Week"
+msgstr "Week"
+
+msgid "Fortnight"
+msgstr "Twee weken"
+
+msgid "Month"
+msgstr "Maand"
+
+msgid "Quarterly"
+msgstr "Kwartaal"
+
+msgid "Bimonthly"
+msgstr "Tweemaandelijks"
+
+msgid "Half-yearly"
+msgstr "Semester"
+
+#, fuzzy
+msgid "Yearly"
+msgstr ""
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Jaar\n"
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Jaarlijks"
+
+msgid "Bus"
+msgstr "Bus"
+
+msgid "Bus hub"
+msgstr "Busstation"
+
+msgid "Metro"
+msgstr "Metro"
+
+msgid "Shops"
+msgstr "Winkels"
+
+msgid "Primary school"
+msgstr "Basisschool"
+
+msgid "Town centre"
+msgstr "Stadscentrum"
+
+msgid "Hospital/clinic"
+msgstr "Ziekenhuis"
+
+msgid "Tram"
+msgstr "Tram"
+
+msgid "Train station"
+msgstr "Station"
+
+msgid "Public parking"
+msgstr "Openbare parkeerplaats"
+
+msgid "Supermarket"
+msgstr "Supermarkt"
+
+msgid "Sea port"
+msgstr "Haven"
+
+msgid "Nursery"
+msgstr "Creche"
+
+msgid "Public pool"
+msgstr "Zwembad"
+
+msgid "Tennis"
+msgstr "Tennisbaan"
+
+msgid "Movies"
+msgstr "Bioscoop"
+
+msgid "Day care"
+msgstr "Dagopvang"
+
+msgid "Secondary school"
+msgstr "Middelbare school"
+
+msgid "Sport center"
+msgstr "Sportcentrum"
+
+msgid "Airport"
+msgstr "Vliegveld"
+
+msgid "Sea"
+msgstr "Zee"
+
+msgid "TGV station"
+msgstr "TGV station"
+
+msgid "Highway"
+msgstr "Autosnelweg"
+
+msgid "University"
+msgstr "Universiteit"
+
+msgid "Convention center"
+msgstr "Congrescentrum"
+
+msgid "Lake"
+msgstr "Meer"
+
+msgid "On main road"
+msgstr "Hoofdweg"
+
+msgid "Energy - Conventional consumption"
+msgstr "Energie - Verbruik"
+
+msgid "Energy - Emissions estimate"
+msgstr "Energie - Geraamd"
+
+msgid "« Carrez » act"
+msgstr "« Carrez » wet"
+
+msgid "ERP"
+msgstr "Staat van risico's en vervuiling"
+
+msgid "Termites"
+msgstr "Termieten"
+
+msgid "Asbestos"
+msgstr "Asbest"
+
+#, fuzzy
+msgid "Lead"
+msgstr ""
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Lood\n"
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Lood\n"
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Lead"
+
+msgid "Boutin act"
+msgstr "Boutin wet"
+
+msgid "EPI (Non renewable)"
+msgstr "Niet hernieuwbare energie"
+
+msgid "APE"
+msgstr "Energiepas (ACE)"
+
+msgid "Request for nomination of an ad hoc agent"
+msgstr "Verzoek tot aanstelling van een ad hocmandataris"
+
+msgid "Request for nomination of a temporary administrator"
+msgstr "Verzoek tot aanstelling van een tijdelijk bestuurder"
+
+msgid "Request for expert nomination"
+msgstr "Verzoek tot aanstelling van (een) expert(s)"
+
+msgid "Fire safety regulations"
+msgstr "Brandveiligheidsnormen"
+
+msgid "Accessibility standards for people with disabilities"
+msgstr "Toegankelijkheidsnormen voor personen met een handicap"
+
+msgid "Sanitary authorization"
+msgstr "Sanitaire toelating"
+
+msgid "Energy consumption / Final energy requirement"
+msgstr "Energieverbruik"
+
+msgid "Housing tax"
+msgstr "Woonbelasting"
+
+msgid "Land charges"
+msgstr "Grondlasten"
+
+msgid "Residents only"
+msgstr "Voorbehouden aan bewoners"
+
+msgid "Taxe Locale d’Equipement"
+msgstr "Toeristenbelasting"
+
+msgid "Minergie"
+msgstr "Minergie"
+
+msgid "Volume"
+msgstr "Volume"
+
+msgid "Useful surface"
+msgstr "Nuttige oppervlakte"
+
+msgid "Co-Ownership property"
+msgstr "Mede-eigendom"
+
+msgid "Communal tax rate"
+msgstr "Tarief gemeentebelasting"
+
+msgid "Land register extract number"
+msgstr "Uittreksel kadaster"
+
+msgid "Droit de superficie"
+msgstr "Recht van overpad"
+
+msgid "Millièmes"
+msgstr "Duizendsten"
+
+msgid "PPE budget"
+msgstr "PBM-budget"
+
+msgid "Current renovation fund"
+msgstr "Actueel renovatiefonds"
+
+msgid "Plot ratio"
+msgstr "Coëfficiënt bodemgebruik"
+
+msgid "Floor space coefficient"
+msgstr "Coëfficiënt bodembenutting"
+
+msgid "Ground footprint coefficient"
+msgstr "Coëfficiënt grondinname"
+
+msgid "Priority period CCH L443-11"
+msgstr "Prioriteitstermijn CCH L443-11"
+
+msgid "Plot division / Demarcation"
+msgstr "Kavelverdelinng / Afpaling"
+
+msgid "Board of directors / supervisory deliberation"
+msgstr "Beraadslaging raad van bestuur/toezichtsraad"
+
+msgid "Certificate of compliance"
+msgstr "Conformiteitsattest"
+
+msgid "Energy class"
+msgstr "Energieprestatiecertificaat (EPC)"
+
+msgid "Thermal insulation class"
+msgstr "Warmte-isolatieklasse"
+
+msgid "Greenhouse Gas"
+msgstr "BKG (Broeikasgas)"
+
+msgid "Energy passport"
+msgstr "EPB/EPC"
+
+msgid "Energy certificate"
+msgstr "Energiecertificaat"
+
+msgid "Energy efficiency class"
+msgstr "Energieprestatiecategorie"
+
+msgid "Year of construction according to certificate"
+msgstr "Bouwjaar volgens certificaat"
+
+msgid "Energy consumption : Hot water included"
+msgstr "Warm water inbegrepen"
+
+msgid "Specific primary energy consumption"
+msgstr "Energiescore"
+
+msgid "PEB unique code"
+msgstr "Unieke code"
+
+msgid "K level (Thermal Insulation)"
+msgstr "K-niveau (thermische isolatie)"
+
+msgid "Ew level (Energy performance)"
+msgstr "EW-niveau (energieprestaties)"
+
+msgid "CO2 emission"
+msgstr "CO2-uitstoot"
+
+msgid "Flood risks"
+msgstr "Overstromingsrisico's"
+
+msgid "Certificate: Oil tank conformity"
+msgstr "Attest Conformiteit van Mazoutreservoirs"
+
+msgid "Certificate : Electric installation conformity"
+msgstr "Attest Conformiteit van de elektrische installatie"
+
+msgid "« As Built » certificate"
+msgstr "Asbuilt attest"
+
+msgid "Total consumption of primary energy"
+msgstr "Berekende energiescore ((kWh/(m² jaar))"
+
+msgid "Registration number"
+msgstr "Registratienummer"
+
+msgid "Cadastral income"
+msgstr "Kadastraal inkomen"
+
+msgid "Planning permit obtained"
+msgstr "Stedenbouwkundige vergunning verkregen"
+
+msgid "Subdivision authorization"
+msgstr "Verkavelingsvergunning"
+
+msgid "Pre-emptive right possible"
+msgstr "Mogelijk voorkooprecht"
+
+msgid "Citation for urbanistic infraction"
+msgstr "Dagvaarding voor inbreuk op de stedenbouwkundige voorschriften"
+
+msgid "Last use designation"
+msgstr "Meest recente stedenbouwkundige bestemming"
+
+msgid "Cadastral annuity"
+msgstr "Kadastrale annuïteit"
+
+msgid "Energy certification number"
+msgstr "Energiecertificeringsnummer"
+
+msgid "VAT applicable"
+msgstr "BTW van toepassing"
+
+msgid "Energy certification"
+msgstr "Energiecertificering"
+
+msgid "Emissions estimate"
+msgstr "Vervuiling"
+
+msgid "Possibility of connecting : Water / Gas / Electricity"
+msgstr "Aansluiting mogelijk: Water / Gas / Elektriciteit"
+
+msgid "Real estate program"
+msgstr "Vastgoedprogramma"
+
+msgid "Accessible to foreigners"
+msgstr "Toegankelijk voor buitenlanders"
+
+msgid "Building type"
+msgstr "Type gebouw"
+
+msgid "Flat rate for charges"
+msgstr "Vast tarief voor kosten"
+
+msgid "Energy Efficiency Rating (Current)"
+msgstr "Energie-efficiëntiebeoordeling (huidig)"
+
+msgid "Energy Efficiency Rating (Potential)"
+msgstr "Energie-efficiëntiebeoordeling (potentieel)"
+
+msgid "Environmental Impact Rating (Current)"
+msgstr "Milieueffectbeoordeling (huidig)"
+
+msgid "Environmental Impact Rating (Potential)"
+msgstr "Milieueffectrapportage (potentieel)"
+
+msgid "Tenure type"
+msgstr "Type eigendom"
+
+msgid "Property tenure"
+msgstr "Eigendomsstructuur"
+
+msgid "Rental value"
+msgstr "Huurwaarde"
+
+msgid "Tax value"
+msgstr "Belastingwaarde"
+
+msgid "Insurance value"
+msgstr "Verzekeringswaarde"
+
+msgid "Building zone"
+msgstr "Bouwzone"
+
+msgid "Stratum"
+msgstr "Laagbouw"
+
+msgid "Rental reference index"
+msgstr "Referentie-index huurprijzen"
+
+msgid "Last rental price"
+msgstr "Laatste huurprijs"
+
+msgid "Building envelope efficiency"
+msgstr "Efficiëntie gebouwschil"
+
+msgid "Overall energy efficiency"
+msgstr "Totale energie-efficiëntie"
+
+msgid "Dry rot diagnosis"
+msgstr "Diagnose droogrot"
+
+msgid "Additional rent"
+msgstr "Extra huur"
+
+msgid "Indexed cadastral income"
+msgstr "Geïndexeerd kadastraal inkomen"
+
+msgid "EPI (Renewable)"
+msgstr "Hernieuwbare energie"
+
+msgid "Emission class"
+msgstr "Emissieklasse"
+
+msgid "Heating costs"
+msgstr "Verwarmingskosten"
+
+msgid "Performance level (summer season)"
+msgstr "Prestatieniveau (zomerseizoen)"
+
+msgid "Performance level (winter season)"
+msgstr "Prestatieniveau (winterseizoen)"
+
+msgid "Cadastral data - Section"
+msgstr "Kadastrale gegevens - Sectie"
+
+msgid "Cadastral data - Sheet"
+msgstr "Kadastrale gegevens - Blad"
+
+msgid "Cadastral data - Parcel"
+msgstr "Kadastrale gegevens - perceel"
+
+msgid "Cadastral data - Subparcel"
+msgstr "Kadastrale gegevens - Deelperceel"
+
+msgid "Cadastral data - Sub"
+msgstr "Kadastrale gegevens - Sub"
+
+msgid "Cadastral data - Sub 2"
+msgstr "Kadastrale gegevens - Sub 2"
+
+msgid "Energy - Low estimated annual expenditure for standard use"
+msgstr "Energie - Lage geschatte jaarlijkse uitgaven voor standaardgebruik"
+
+msgid "Energy - High estimated annual expenditure for standard use"
+msgstr "Energie - Hoge geschatte jaarlijkse uitgaven voor standaardgebruik"
+
+msgid "Energy - Energy Price Reference Year"
+msgstr "Energie - Referentiejaar voor de energieprijs"
+
+msgid "Licença de habitação - Número"
+msgstr "Huisvestingsvergunning - Nummer"
+
+msgid "Licença de habitação - Emitida em"
+msgstr "Huisvestingsvergunning - Afgegeven op"
+
+msgid "Regime de IVA"
+msgstr "BTW-regeling"
+
+msgid "Escritura - Número"
+msgstr "Akte - Nummer"
+
+msgid "Licença de construção - Número"
+msgstr "Bouwvergunning - Nummer"
+
+msgid "Licença de construção - Emitida em"
+msgstr "Bouwvergunning - Afgegeven in"
+
+msgid "Tenant charges conditions"
+msgstr "Voorwaarden huurderslasten"
+
+msgid "Land value tax"
+msgstr "Grondwaardebelasting"
+
+msgid "Maximum reference rent (base rent not to be exceeded)"
+msgstr "Maximale referentiehuur (basishuur mag niet worden overschreden)"
+
+msgid "Contratto di affitto"
+msgstr "Huurovereenkomst"
+
+msgid "Cadastral category"
+msgstr "Kadastrale categorie"
+
+msgid "Household waste collection tax"
+msgstr "Huisvuilheffing"
+
+msgid "Flood risks P-score"
+msgstr "Overstromingsrisico's P-score"
+
+msgid "Flood risks G-score"
+msgstr "Overstromingsrisico's G-score"
+
+msgid "Connectivity - Building connection"
+msgstr "Connectiviteit - Aansluiting gebouw"
+
+msgid "Connectivity - Vertical Wiring"
+msgstr "Connectiviteit - Verticale bedrading"
+
+msgid "Asbestos certificate"
+msgstr "Asbestattest"
+
+msgid "Building with main use other than residential"
+msgstr "Gebouw met ander hoofdgebruik dan wonen"
+
+msgid "Energy-efficient class"
+msgstr "Energie-efficiëntieklasse"
+
+msgid "Energy - Ademe Reference"
+msgstr "Energie - Ademe referentie"
+
+msgid "Certificate of conformity (rental)"
+msgstr "Conformiteitsattest (huur)woningen"
+
+msgid "Energy audit"
+msgstr "Energie-audits"
+
+msgid "Tax identifier of the property"
+msgstr "Huisvesting belasting identificator"
+
+msgid "Land price excluding taxes"
+msgstr "Grondprijs exclusief belasting"
+
+msgid "Taxes related to land"
+msgstr "Grondbelastingen"
+
+msgid "Turnover"
+msgstr "Omzet"
+
+msgid "Net income"
+msgstr "Nettoresultaat"
+
+msgid "Gross operating profit"
+msgstr "Brutobedrijfsoverschot"
+
+msgid "Personnel costs"
+msgstr "Personeelskosten"
+
+msgid "Cash flow"
+msgstr "Cash flow"
+
+msgid "Shareholders’equity"
+msgstr "Eigen vermogen"
+
+msgid "Net debt"
+msgstr "Netto financiële schulden"
+
+msgid "Internet"
+msgstr "Internet"
+
+msgid "Disabled access"
+msgstr "Toegang voor mindervaliden"
+
+msgid "Alarm system"
+msgstr "Alarm"
+
+msgid "Lift"
+msgstr "Lift"
+
+msgid "Caretaker"
+msgstr "Portier"
+
+msgid "Double glazing"
+msgstr "Dubbele beglazing"
+
+msgid "Intercom"
+msgstr "Intercom"
+
+msgid "TV distribution"
+msgstr "Kabel-TV"
+
+msgid "Swimming pool"
+msgstr "Zwembad"
+
+msgid "Security door"
+msgstr "Veiligheidsdeur"
+
+msgid "Tennis court"
+msgstr "Tennisbaan"
+
+msgid "Irrigation sprinkler"
+msgstr "Besproeiing"
+
+msgid "Barbecue"
+msgstr "BBQ"
+
+msgid "Electric gate"
+msgstr "Automatische poort"
+
+msgid "Crawl space"
+msgstr "Kruipruimte"
+
+msgid "Car port"
+msgstr "Carport"
+
+msgid "Caretaker house"
+msgstr "Conciërgewoning"
+
+msgid "Sliding windows"
+msgstr "Schuiframen"
+
+msgid "Central vacuum system"
+msgstr "Centraal stofzuigsysteem"
+
+msgid "Electric shutters"
+msgstr "Elektrische rolluiken"
+
+msgid "Window shade"
+msgstr "Zonnescherm"
+
+msgid "Electric awnings"
+msgstr "Elektrisch zonnescherm"
+
+msgid "Washing machine"
+msgstr "Wasmachine"
+
+msgid "Jacuzzi"
+msgstr "Jacuzzi"
+
+msgid "Whirlpool tub"
+msgstr "Whirlpool"
+
+msgid "Well"
+msgstr "Waterput"
+
+msgid "Spring"
+msgstr "Waterbron"
+
+msgid "Engine generator"
+msgstr "Generator"
+
+msgid "Dishwasher"
+msgstr "Afwasmachine"
+
+msgid "Safe"
+msgstr "Kluis"
+
+msgid "Helipad"
+msgstr "Helipad"
+
+msgid "Videophone"
+msgstr "Videophone"
+
+msgid "Video security"
+msgstr "Camera controle"
+
+msgid "Iron"
+msgstr "Strijkijzer"
+
+msgid "Hair dryer"
+msgstr "Haardroger"
+
+msgid "Television"
+msgstr "Televisie"
+
+msgid "DVD Player"
+msgstr "DVD speler"
+
+msgid "CD Player"
+msgstr "CD speler"
+
+msgid "Outdoor lighting"
+msgstr "Buitenverlichting"
+
+msgid "Home automation"
+msgstr "Domotica"
+
+msgid "Linens"
+msgstr "Huishoudlinnen"
+
+msgid "Tableware"
+msgstr "Tafelgerei"
+
+msgid "Clothes dryer"
+msgstr "Droogkast"
+
+msgid "Refrigerator"
+msgstr "Koelkast"
+
+msgid "Oven"
+msgstr "Oven"
+
+msgid "Reception 24/7"
+msgstr "Receptie 24/7"
+
+msgid "Coffeemaker"
+msgstr "Koffiezetapparaat"
+
+msgid "Microwave oven"
+msgstr "Magnetron"
+
+msgid "Shabbat elevator"
+msgstr "Shabbat lift"
+
+msgid "Sukkah"
+msgstr "Hut"
+
+msgid "Synagogue"
+msgstr "Synagoge"
+
+msgid "Digicode"
+msgstr "Elektronisch slot"
+
+msgid "Common laundry"
+msgstr "Gemeenschappelijke wasruimte"
+
+msgid "Pets allowed"
+msgstr "Huisdieren toegestaan"
+
+msgid "Metal shutters"
+msgstr "Metalen rolluiken"
+
+msgid "Wiring closet"
+msgstr "Bedrading kast"
+
+msgid "Computer network"
+msgstr "Computer netwerk"
+
+msgid "Dropped ceiling"
+msgstr "Systeemplafond"
+
+msgid "Fire hose cabinets"
+msgstr "Brandslang"
+
+msgid "Fire sprinkler system"
+msgstr "Sprinklerinstallatie"
+
+msgid "Wharf"
+msgstr "Steiger"
+
+msgid "Connected thermostat"
+msgstr "Verbonden thermostaat"
+
+msgid "Bowling game"
+msgstr "Petanqueterrein"
+
+msgid "Water softener"
+msgstr "Waterontharder"
+
+msgid "Triple glazing"
+msgstr "Drievoudige beglazing"
+
+msgid "Well drilling"
+msgstr "Boren naar grondwater"
+
+msgid "Optical fiber"
+msgstr "Optische vezel"
+
+msgid "Non-flooding"
+msgstr "Niet-overstromingsgevoelig"
+
+msgid "Backup water system"
+msgstr "Back-up watersysteem"
+
+msgid "Water filtration system"
+msgstr "Waterfiltersysteem"
+
+msgid "Air filtration system"
+msgstr "Luchtfiltersysteem"
+
+msgid "Fire alarm system"
+msgstr "Brandalarm"
+
+msgid "Commercial services"
+msgstr "Commerciële diensten"
+
+msgid "Playground"
+msgstr "Speelplaats"
+
+msgid "Flyboard"
+msgstr "Flyboard"
+
+msgid "Amphibious car"
+msgstr "Amfibiewagen"
+
+msgid "Beach games"
+msgstr "Strandspelen"
+
+msgid "Bikes"
+msgstr "Fietsen"
+
+msgid "Canoe"
+msgstr "Kano"
+
+msgid "Diving"
+msgstr "Duiken"
+
+msgid "Fishing"
+msgstr "Vissen"
+
+msgid "Floating pool"
+msgstr "Bovengronds zwembad"
+
+msgid "Hoverboard"
+msgstr "Hoverboard"
+
+msgid "Hovercraft"
+msgstr "Hovercraft"
+
+msgid "Inflatables"
+msgstr "Opblaasbaar"
+
+msgid "Water slide"
+msgstr "Waterglijbaan"
+
+msgid "Waterpark"
+msgstr "Waterpark"
+
+msgid "Jet ski"
+msgstr "Jetski"
+
+msgid "Kite surf"
+msgstr "Kitesurfen"
+
+msgid "Paddle"
+msgstr "Peddelen"
+
+msgid "Scooter"
+msgstr "Scooter"
+
+msgid "Seabob"
+msgstr "Seabob"
+
+msgid "Segway"
+msgstr "Segway"
+
+msgid "Wakeboard"
+msgstr "Wakeboard"
+
+msgid "Simple flow ventilation"
+msgstr "Simple flow ventilatie"
+
+msgid "Double flow ventilation"
+msgstr "Dubbele ventilatie"
+
+msgid "Business center"
+msgstr "Zakencentrum"
+
+msgid "Foodservice"
+msgstr "Foodservice"
+
+msgid "Condominium garden"
+msgstr "Condominium tuin"
+
+msgid "Stabilizers"
+msgstr "Stabilisatoren"
+
+msgid "Hydraulic Platform"
+msgstr "Hydraulisch platform"
+
+msgid "Freezer"
+msgstr "Vriezer"
+
+msgid "Fitness"
+msgstr "Fitness"
+
+msgid "Electric car terminal"
+msgstr "Oplaadstation elektrische auto"
+
+msgid "Solar panels"
+msgstr "Zonnepanelen"
+
+msgid "Overhead crane"
+msgstr "Bovenloopkraan"
+
+msgid "Tow-away zone"
+msgstr "Wegsleepzone"
+
+msgid "Extraction air duct"
+msgstr "Afzuigluchtkanaal"
+
+msgid "Access control"
+msgstr "Toegangscontrole"
+
+msgid "Berth"
+msgstr "Ligplaats"
+
+msgid "Listed historic building"
+msgstr "Historisch monument"
+
+msgid "Flyscreens"
+msgstr "Horren"
+
+msgid "Security service"
+msgstr "Beveiligingsdienst"
+
+msgid "Condominium pool"
+msgstr "Zwembad in mede-eigendom"
+
+msgid "Civil defense bunker"
+msgstr "Civiele verdedigingsbunker"
+
+msgid "PVC window"
+msgstr "PVC-kozijnen"
+
+msgid "Aluminum window"
+msgstr "Aluminium kozijnen"
+
+msgid "Photovoltaic panels"
+msgstr "Fotovoltaïsche panelen"
+
+msgid "Pillars"
+msgstr "Pilaren"
+
+msgid "Spans"
+msgstr "Spanten"
+
+msgid "Fence"
+msgstr "Hekwerken"
+
+msgid "Corner position"
+msgstr "Hoekpositie"
+
+msgid "Fire door"
+msgstr "Branddeur"
+
+msgid "Bathtub"
+msgstr "Badkuip"
+
+msgid "Window bars"
+msgstr "Raamstijlen"
+
+msgid "Supplies"
+msgstr "Benodigdheden"
+
+msgid "Outdoor spaces"
+msgstr "Buitenruimten"
+
+msgid "Rental supplies"
+msgstr "Verhuur benodigdheden"
+
+msgid "Security"
+msgstr "Beveiliging"
+
+msgid "Professional supplies"
+msgstr "Professionele benodigdheden"
+
+msgid "Yacht supplies"
+msgstr "Jacht benodigdheden"
+
+msgid "High standard"
+msgstr "Standing"
+
+msgid "Luxury"
+msgstr "Luxe"
+
+msgid "High luxury"
+msgstr "Heel luxueus"
+
+#, fuzzy
+msgid "Housing estate"
+msgstr ""
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Woonwijk\n"
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Wooncomplex"
+
+msgid "Regular"
+msgstr "Normaal"
+
+#, fuzzy
+msgid "In progress"
+msgstr ""
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"In uitvoering\n"
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"In verwerking\n"
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"In behandeling"
+
+msgid "Standby"
+msgstr "In afwachting"
+
+msgid "Deleted"
+msgstr "Verwijderd"
+
+msgid "Waiting for agreement"
+msgstr "In afwachting van mandaat/opdracht"
+
+msgid "Agreement ended"
+msgstr "Mandaat beëindigd"
+
+#, fuzzy
+msgid "Offer"
+msgstr ""
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Onder bod\n"
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Aanbod"
+
+msgid "Processing sale"
+msgstr "Huur-/verkoopcontract getekend"
+
+msgid "Waiting for contract"
+msgstr "In afwachting van contract"
+
+msgid "Pending approval"
+msgstr "In afwachting van goedkeuring"
+
+msgid "Sell/Rent by agent"
+msgstr "Verkocht/Verhuurd door makelaar"
+
+msgid "Sell/Rent by owner"
+msgstr "Verkocht/Verhuurd door eigenaar"
+
+msgid "Sell/Rent by other agent"
+msgstr "Verkocht/Verhuurd door andere makelaar"
+
+msgid "Removed by agent"
+msgstr "Verwijderd door makelaar"
+
+msgid "Removed by owner"
+msgstr "Verwijderd door eigenaar"
+
+msgid "Sale/Rental cancelled"
+msgstr "Verkoop/Verhuur geannuleerd"
+
+#, fuzzy
+msgid "Delete this property"
+msgstr ""
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Verwijder dit object\n"
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Dit product verwijderen"
+
+msgid "Land"
+msgstr "Terrein"
+
+#, fuzzy
+msgid "Business"
+msgstr ""
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Bedrijf\n"
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Business"
+
+msgid "Garage/Parking"
+msgstr "Garage/Parkeerplaats"
+
+msgid "Office"
+msgstr "Kantoor"
+
+msgid "Boat"
+msgstr "Boot"
+
+msgid "Cellar / Box"
+msgstr "Kelder"
+
+msgid "Triplex"
+msgstr "Triplex"
+
+msgid "Building land"
+msgstr "Bouwgrond"
+
+msgid "Not constructible land"
+msgstr "Recreatiegrond"
+
+msgid "Penthouse"
+msgstr "Penthouse"
+
+msgid "Castle"
+msgstr "Kasteel"
+
+msgid "Company"
+msgstr "Bedrijf"
+
+msgid "Duplex"
+msgstr "Duplex"
+
+msgid "Mansion"
+msgstr "Herenhuis"
+
+msgid "Farmhouse"
+msgstr "Boerderij"
+
+msgid "Villa"
+msgstr "Villa"
+
+msgid "Apartment villa"
+msgstr "Tussenwoning"
+
+msgid "Woodshed"
+msgstr "Schuur"
+
+msgid "Ruin"
+msgstr "Ruïne"
+
+msgid "Mill"
+msgstr "Molen"
+
+msgid "Carpark"
+msgstr "Garage"
+
+msgid "Townhouse"
+msgstr "Stadswoning"
+
+msgid "Mobile home"
+msgstr "Stacaravan"
+
+msgid "Cottage"
+msgstr "Vakantiehuis"
+
+msgid "Hangar"
+msgstr "Loods"
+
+msgid "Mas"
+msgstr "Mas"
+
+msgid "Local"
+msgstr "Lokaal"
+
+msgid "Chalet"
+msgstr "Chalet"
+
+msgid "Retail space"
+msgstr "Winkelruimte"
+
+msgid "Business assets"
+msgstr "Handelsfonds"
+
+msgid "Right to the lease"
+msgstr "Huurrecht"
+
+msgid "Management"
+msgstr "Beheer"
+
+msgid "Agricultural exploitation"
+msgstr "Boerenbedrijf"
+
+msgid "Cellar"
+msgstr "Kelder"
+
+msgid "Stud farm"
+msgstr "Stoeterij"
+
+#, fuzzy
+msgid "Plot of land"
+msgstr ""
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Grond\n"
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Terrein"
+
+msgid "Bastide"
+msgstr "Bastide"
+
+msgid "Bastidon"
+msgstr "Klein landhuis"
+
+msgid "Vineyard property"
+msgstr "Wijngaard"
+
+msgid "Motor Yacht"
+msgstr "Jacht"
+
+msgid "Narrow boat"
+msgstr "Woonboot"
+
+msgid "Sailing Yacht"
+msgstr "Zeilschip"
+
+msgid "Catamaran"
+msgstr "Catamaran"
+
+msgid "Equestrian estate"
+msgstr "Manage"
+
+msgid "Bed and breakfast"
+msgstr "Logies en ontbijt"
+
+msgid "Gîte"
+msgstr "Gîte"
+
+msgid "Riad"
+msgstr "Riad"
+
+msgid "Retail shop"
+msgstr "Boetiek"
+
+msgid "Shophouse"
+msgstr "Shophouse"
+
+msgid "Borey"
+msgstr "Borey"
+
+msgid "Condo"
+msgstr "Condo"
+
+msgid "Factory"
+msgstr "Fabriek"
+
+msgid "Serviced apartment"
+msgstr "Aparthotel"
+
+msgid "Twin Villa"
+msgstr "Dubbele villa"
+
+msgid "Bungalow"
+msgstr "Bungalow"
+
+msgid "Semi-detached house"
+msgstr "Half vrijstaand huis"
+
+msgid "Beach house"
+msgstr "Strandhuis"
+
+msgid "Ger district"
+msgstr "Ger wijk"
+
+msgid "Summer house"
+msgstr "Zomerhuis"
+
+msgid "Private island"
+msgstr "Privé-eiland"
+
+msgid "Residential land"
+msgstr "Grond voor woningbouw"
+
+msgid "Commercial land"
+msgstr "Grond voor handelsactiviteiten"
+
+msgid "Subdivision"
+msgstr "Verkaveling"
+
+msgid "Game reserve"
+msgstr "Jachtgebied"
+
+msgid "Motorboat"
+msgstr "Motorboot"
+
+msgid "Detached house"
+msgstr "Vrijstaand huis"
+
+msgid "Ranch"
+msgstr "Woonboerderij"
+
+msgid "Waterside mansion"
+msgstr "Woning aan het water"
+
+msgid "Craft Workshop"
+msgstr "Ambachtelijke werkplaats"
+
+msgid "Pavilion"
+msgstr "Paviljoen"
+
+msgid "Agricultural land"
+msgstr "Landbouwgrond"
+
+msgid "Local & Business assets"
+msgstr "Pand en Commercieel vastgoed"
+
+msgid "Conservation House"
+msgstr "Historisch gebouw"
+
+msgid "Cluster house"
+msgstr "Clusterwoning"
+
+msgid "Terraced house"
+msgstr "Rijtjeshuis"
+
+msgid "Corner terrace"
+msgstr "Hoekterras"
+
+msgid "Walk-up"
+msgstr "Inloopwoning"
+
+msgid "Mountains"
+msgstr "Bergen"
+
+msgid "Greenery"
+msgstr "Groene ruimte"
+
+msgid "Monument"
+msgstr "Monument"
+
+msgid "Forest"
+msgstr "Bos"
+
+msgid "Main stem"
+msgstr "Rivier"
+
+msgid "City"
+msgstr "Stad"
+
+msgid "Sky"
+msgstr "Hemel"
+
+msgid "Harbor"
+msgstr "Haven"
+
+msgid "Ski slopes"
+msgstr "Skipistes"
+
+msgid "Vines"
+msgstr "Wijngaarden"
+
+msgid "Square"
+msgstr "Vierkant"
+
+msgid "Obstructed"
+msgstr "Beperkt uitzicht"
+
+msgid "Slight"
+msgstr "Open uitzicht"
+
+msgid "Unobstructed"
+msgstr "Onbelemmerd"
+
+msgid "Panoramic"
+msgstr "Panoramisch"
+
+msgid "Exterior"
+msgstr "Buitenkant"
+
+msgid "Interior"
+msgstr "Interieur"
+
+msgid "Septic tank"
+msgstr "Septic tank"
+
+msgid "Main drainage"
+msgstr "Riolering"
+
+msgid "Treatment plant"
+msgstr "Waterzuiveringsinstallatie"
+
+msgid "Grey-water pit"
+msgstr "Waterreservoir"
+
+msgid "Micro sewage treatment"
+msgstr "Micro-station"
+
+msgid "Estate agent"
+msgstr "Vastgoedmakelaar"
+
+msgid "Phoning"
+msgstr "Telefoneren"
+
+msgid "Collaboration"
+msgstr "Samenwerking"
+
+msgid "Provider"
+msgstr "Aanbrenger"
+
+msgid "Renown"
+msgstr "Bekende"
+
+msgid "Walk-in / Window"
+msgstr "Etalage"
+
+msgid "Network"
+msgstr "Netwerk"
+
+msgid "Flyer"
+msgstr "Prospectus"
+
+msgid "Sign"
+msgstr "Paneel"
+
+#, fuzzy
+msgid "Magazine"
+msgstr ""
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Brochure\n"
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Tijdschrift"
+
+msgid "Mailing"
+msgstr "Mailing"
+
+msgid "e-mailing"
+msgstr "e-mailing"
+
+msgid "Old client"
+msgstr "Warme prospectie"
+
+msgid "Selection / Favorite"
+msgstr "Selectie/favorieten"
+
+msgid "Main residence"
+msgstr "Hoofdverblijf"
+
+msgid "Secondary residence"
+msgstr "Secundair verblijf"
+
+msgid "Student residence"
+msgstr "Studentenhuis"
+
+msgid "Tourism residence"
+msgstr "Toeristische residentie"
+
+msgid "Seniors residence"
+msgstr "Seniorenverblijf"
+
+msgid "Duflot Legislation"
+msgstr "Wet Duflot"
+
+msgid "Censi-Bouvard Legislation"
+msgstr "Wet Censi-Bouvard"
+
+msgid "Reduced fees"
+msgstr "Verminderde notariskosten"
+
+msgid "EHPAD (Retirement homes)"
+msgstr "RVT"
+
+msgid "Act 1291"
+msgstr "Wet 1291"
+
+msgid "Act 887"
+msgstr "Wet 887"
+
+msgid "Mixed-use"
+msgstr "Gemengd gebruik"
+
+msgid "Rental investment"
+msgstr "Huurinvestering"
+
+msgid "Act 1235"
+msgstr "Wet 1235"
+
+msgid "Pinel Legislation"
+msgstr "Wet Pinel"
+
+msgid "Resale"
+msgstr "Wederverkoop"
+
+msgid "Private leasing"
+msgstr "Private leasing"
+
+msgid "Bank leasing"
+msgstr "Bank leasing"
+
+msgid "IPOTEK"
+msgstr "Hypotheek"
+
+msgid "Exchangeable"
+msgstr "Uitwisselbaar"
+
+msgid "No advance"
+msgstr "Geen voorschot"
+
+msgid "First occupancy"
+msgstr "Eerste bezetting"
+
+msgid "Liberal profession"
+msgstr "Vrij beroep"
+
+msgid "3.57% incl. VAT from the purchase price"
+msgstr "3,57% incl. BTW van de aankoopprijs"
+
+msgid "7.14% incl. VAT from the purchase price"
+msgstr "7,14% incl. BTW van de aankoopprijs"
+
+msgid "3.48% incl. VAT from the purchase price"
+msgstr "3,48% incl. BTW van de aankoopprijs"
+
+msgid "6.96% incl. VAT from the purchase price"
+msgstr "6,96% incl. BTW van de aankoopprijs"
+
+msgid "Non-regulated sector"
+msgstr "Niet-gereglementeerde sector"
+
+msgid "Social housing CPAS (VAT 12%)"
+msgstr "Social housing CPAS (VAT 12%)"
+
+msgid "Social housing (VAT 6%)"
+msgstr "Social housing (VAT 6%)"
+
+msgid "m²"
+msgstr "m²"
+
+msgid "sq ft"
+msgstr "sq ft"
+
+msgid "sq yd"
+msgstr "sq yd"
+
+msgid "ha"
+msgstr "ha"
+
+msgid "ares"
+msgstr "ares"
+
+msgid "minute"
+msgstr "minuut"
+
+msgid "metre"
+msgstr "meter"
+
+msgid "km"
+msgstr "kilometer"
+
+msgid "Administrator"
+msgstr "Beheerder"
+
+msgid "Company manager"
+msgstr "Bedrijfsmanager"
+
+msgid "Agency manager"
+msgstr "Manager"
+
+msgid "Secretariat"
+msgstr "Secretariaat"
+
+#, fuzzy
+msgid "Agent"
+msgstr ""
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Verkoper\n"
+"#-#-#-#-#  apimo-nl_NL.po  #-#-#-#-#\n"
+"Agent"
+
+msgid "Intern"
+msgstr "Stagiair"
+
+msgid "User"
+msgstr "Gebruiker"
+
+msgid "Franchisor"
+msgstr "Franchisegever"
+
+msgid "Translator"
+msgstr "Vertaler"
+
+msgid "Area manager"
+msgstr "Locatie manager"
+
+msgid "Image"
+msgstr "Afbeelding"
+
+msgid "Pet"
+msgstr "Huisdier"
+
+msgid "Natural light"
+msgstr "Natuurlijk licht"
+
+msgid "Kitchen island"
+msgstr "Kookeiland"
+
+msgid "Kitchen bar"
+msgstr "Keukenbar"
+
+msgid "Ceiling height"
+msgstr "Plafondhoogte"
+
+msgid "Skylight"
+msgstr "Dakvenster"
+
+msgid "Exposed bricks"
+msgstr "Muur in baksteen"
+
+msgid "Ceiling fan"
+msgstr "Plafondventilator"
+
+msgid "Chandelier"
+msgstr "Kroonluchter"
+
+msgid "Stainless steel"
+msgstr "Roestvrij staal"
+
+msgid "Price on request"
+msgstr "Prijs op aanvraag"
+
+msgid "Currency"
+msgstr "Valuta"
+
+msgid "Price"
+msgstr "Prijs"
+
+msgid "Types"
+msgstr "Types"
+
+msgid "Cities"
+msgstr "Steden"
+
+msgid "Bedrooms"
+msgstr "Slaapkamers"
+
+msgid "Rooms"
+msgstr "Kamers"
+
+msgid "Send"
+msgstr "Versturen"
+
+msgid "Lastname"
+msgstr "Achternaam"
+
+msgid "Firstname"
+msgstr "Voornaam"
+
+msgid "Reference"
+msgstr "Referentie"
+
+msgid "Ref"
+msgstr "Ref."
+
+msgid "%s bedroom"
+msgstr "%s slaapkamer"
+
+msgid "%s bedrooms"
+msgstr "%s slaapkamers"
+
+msgid "%s room"
+msgstr "%s kamer"
+
+msgid "%s rooms"
+msgstr "%s kamers"
+
+msgid "Folder"
+msgstr "Dossier"
+
+msgid "No matches found"
+msgstr "Geen overeenstemmingen gevonden"
+
+msgid "Please enter one more character"
+msgstr "Voer een extra karakter in"
+
+msgid "Duplicate"
+msgstr "Duplicaat"
+
+msgid "Backup"
+msgstr "Back-up"
+
+msgid "Review"
+msgstr "Beoordeling"
+
+msgid "Sender"
+msgstr "Afzender"
+
+msgid "Recipient"
+msgstr "Ontvanger"
+
+msgid "Subject"
+msgstr "Onderwerp"
+
+msgid "Attachment"
+msgstr "Bijlage"
+
+msgid "Key"
+msgstr "Sleutel"
+
+msgid "Documents"
+msgstr "Documenten"
+
+msgid "Name"
+msgstr "Naam"
+
+msgid "Back"
+msgstr "Terug"
+
+msgid "Help?"
+msgstr "Help?"
+
+msgid "Read more"
+msgstr "Lees meer"
+
+msgid "Area"
+msgstr "Ruimte"
+
+msgid "Areas"
+msgstr "Oppervlaktes"
+
+msgid "Longitude"
+msgstr "Lengte"
+
+msgid "Altitude"
+msgstr "Hoogte"
+
+msgid "Latitude"
+msgstr "Breedte"
+
+msgid "Deposit"
+msgstr "Waarborg"
+
+msgid "Agreement reference"
+msgstr "Mandaat/Opdracht referenntie"
+
+msgid "Agreement start at"
+msgstr "Mandaat/Opdracht gestart op"
+
+msgid "Agreement end at"
+msgstr "Einde mandaat/opdracht"
+
+msgid "Website"
+msgstr "Website"
+
+msgid "Adjacency"
+msgstr "Nabijheid"
+
+msgid "Proximities"
+msgstr "Omgevingen"
+
+msgid "Loading"
+msgstr "Laden"
+
+msgid "Log out"
+msgstr "Uitloggen"
+
+msgid "Availability"
+msgstr "Beschikbaarheid"
+
+msgid "Total area"
+msgstr "Totale oppervlakte"
+
+msgid "Living area"
+msgstr "Woonoppervlakte"
+
+msgid "Password forgotten"
+msgstr "Wachtwoord vergeten"
+
+msgid "Password"
+msgstr "Wachtwoord"
+
+msgid "Username"
+msgstr "Gebruikersnaam"
+
+msgid "Welcome %s"
+msgstr "Welkom %s"
+
+msgid "Searches"
+msgstr "Zoeken"
+
+msgid "Add"
+msgstr "Toevoegen"
+
+msgid "Show"
+msgstr "Raadplegen"
+
+msgid "List"
+msgstr "Lijst"
+
+msgid "Tools"
+msgstr "Gereedschap"
+
+msgid "Market"
+msgstr "Markt"
+
+msgid "Agency"
+msgstr "Makelaar"
+
+msgid "Calendar"
+msgstr "Agenda"
+
+msgid "Homepage"
+msgstr "Startpagina"
+
+msgid "Map"
+msgstr "Map"
+
+msgid "Value"
+msgstr "Waarde"
+
+msgid "Users"
+msgstr "Gebruikers"
+
+msgid "Sectors"
+msgstr "Locaties"
+
+msgid "Contacts"
+msgstr "Contacten"
+
+msgid "%s contact"
+msgstr "%s contact"
+
+msgid "%s contacts"
+msgstr "%s contacten"
+
+msgid "Settings"
+msgstr "Instellingen"
+
+msgid "General"
+msgstr "Algemeen"
+
+msgid "Waste water"
+msgstr "Afvalwater"
+
+msgid "Country"
+msgstr "Land"
+
+msgid "Escrow deposit"
+msgstr "Borgsom"
+
+msgid "Orientation"
+msgstr "Oriëntatie"
+
+msgid "View"
+msgstr "Uitzicht"
+
+msgid "District"
+msgstr "Wijk"
+
+msgid "Fields"
+msgstr "Velden"
+
+msgid "Hook"
+msgstr "Stempel (Verkocht / Verhuurd / In optie)"
+
+msgid "Comment"
+msgstr "Opmerking"
+
+msgid "Buy"
+msgstr "Kopen"
+
+msgid "Rent"
+msgstr "Huren"
+
+msgid "About us"
+msgstr "Over ons"
+
+msgid "Professional"
+msgstr "Bedrijf"
+
+msgid "Services"
+msgstr "Diensten"
+
+msgid "News"
+msgstr "Actualiteit"
+
+msgid "Contact us"
+msgstr "Contacteer ons"
+
+msgid "Print"
+msgstr "Printen"
+
+msgid "Picture"
+msgstr "Foto"
+
+msgid "Add to cart"
+msgstr "Aan winkelwegen toevoegen"
+
+msgid "Replace in cart"
+msgstr "Vervangen in de winkelwagen"
+
+msgid "Category"
+msgstr "Categorie"
+
+msgid "Histories"
+msgstr "Geschiedenis"
+
+msgid "Details"
+msgstr "Details"
+
+msgid "Date"
+msgstr "Datum"
+
+msgid "Previous"
+msgstr "Vorige"
+
+msgid "Next"
+msgstr "Volgende"
+
+msgid "Quick search"
+msgstr "Snelzoeken"
+
+msgid "Postal code"
+msgstr "Postcode"
+
+msgid "The username and/or password is invalid."
+msgstr "Uw gebruikersnaam en/of wachtwoord is verkeerd."
+
+msgid "Group"
+msgstr "Groep"
+
+msgid "Are you sure?"
+msgstr "Weet U het zeker?"
+
+msgid "Nationality"
+msgstr "Nationaliteit"
+
+msgid "Regulation"
+msgstr "Regeling"
+
+msgid "Radius"
+msgstr "Radius"
+
+msgid "Summary"
+msgstr "Overzicht"
+
+msgid "Watermark"
+msgstr "Watermerk"
+
+msgid "Mortgage"
+msgstr "Hypotheek"
+
+msgid "Download"
+msgstr "Download"
+
+msgid "Dashboard"
+msgstr "Dashboard"
+
+msgid "Matching at"
+msgstr "Matching"
+
+msgid "Pay now by card"
+msgstr "Betaal met kaart"
+
+msgid "Pay by bank transfer"
+msgstr "Betalen via bankoverschrijving"
+
+msgid "Pay by check"
+msgstr "Betalen met cheque"
+
+msgid "Powered by"
+msgstr "In samenwerking met"
+
+msgid "Accepted payment methods"
+msgstr "Aanvaarde betalingsmiddelen"
+
+msgid "Terms and Conditions"
+msgstr "Algemene voorwaarden"
+
+msgid ""
+"Your contact is already in database, please select it on the list below."
+msgstr ""
+"Uw contract bevindt zich al in onze database, selecteer het uit de lijst."
+
+msgid "Contracts"
+msgstr "Contracten"
+
+msgid "Seekers"
+msgstr "Zoekers"
+
+msgid "Active seekers"
+msgstr "Actieve zoekers"
+
+msgid "Providers"
+msgstr "Aanbieders"
+
+msgid "Owners"
+msgstr "Eigenaars"
+
+msgid "Active owners"
+msgstr "Actieve eigenaars"
+
+msgid "Monitoring"
+msgstr "Monitoring"
+
+msgid "Exchanges"
+msgstr "Doorsturen"
+
+msgid "Similar"
+msgstr "Vergelijkbaar"
+
+msgid "Condition"
+msgstr "Staat"
+
+msgid "Floor"
+msgstr "Verdieping"
+
+msgid "comments"
+msgstr "Beschrijving"
+
+msgid "Deductions"
+msgstr "Verminderingen"
+
+msgid "Unavailable"
+msgstr "Niet beschikbaar"
+
+msgid "Occupants"
+msgstr "Bewoners"
+
+msgid "Prospect"
+msgstr "Prospect"
+
+msgid "Sharing"
+msgstr "Aandelen"
+
+msgid "Likes"
+msgstr "Likes"
+
+msgid "Like"
+msgstr "Like"
+
+msgid "Unlike"
+msgstr "Ongedaan maken"
+
+msgid "Portfolio"
+msgstr "Portefeuille"
+
+msgid "Features"
+msgstr "Kenmerken"
+
+msgid "Contracted owner"
+msgstr "Contractueel eigenaar"
+
+msgid "Contracted owners"
+msgstr "Contractuele eigenaars"
+
+msgid "Contracted customer"
+msgstr "Contractuele klant"
+
+msgid "Contracted customers"
+msgstr "Contractuele klanten"
+
+msgid "Transfer tax"
+msgstr "Registratierecht"
+
+msgid "Change to"
+msgstr "Verander in"
+
+msgid "Until"
+msgstr "Tot"
+
+msgid "Location reference"
+msgstr "Referentie locatie"
+
+msgid "Priority"
+msgstr "Prioriteit"
+
+msgid "Full form"
+msgstr "Volledig formulier"
+
+msgid "Quick form"
+msgstr "Verkort formulier"
+
+msgid "%s char(s)"
+msgstr "%s karakter(s)"
+
+msgid "Price from"
+msgstr "Prijs vanaf"
+
+msgid "Listing"
+msgstr "Listing"
+
+msgid "Listings"
+msgstr "Listings"
+
+msgid "Duration"
+msgstr "Duur"
+
+msgid "Request incomplete"
+msgstr "Onvolledige aanvraag"
+
+msgid "%s incomplete request(s)"
+msgstr "%s onvolledige aanvra(a)g(en)"
+
+msgid "Subscribe for"
+msgstr "Abonneer voor"
+
+msgid "Configuration"
+msgstr "Configuratie"
+
+msgid "Subtotal"
+msgstr "Subtotaal"
+
+msgid "Tax notice"
+msgstr "Belastingaangifte"
+
+msgid "Events"
+msgstr "Gebeurtenissen"
+
+msgid "Present"
+msgstr "Aanwezig"
+
+msgid "Missing"
+msgstr "Afwezig"
+
+msgid "Planned"
+msgstr "Gepland"
+
+msgid "Full"
+msgstr "Volledig"
+
+msgid "Organizer"
+msgstr "Organisator"
+
+msgid "Already subscribed"
+msgstr "Reeds geabonneerd"
+
+msgid "Attendees"
+msgstr "Deelnemers"
+
+msgid "Join"
+msgstr "Deelnemen"
+
+msgid "Require a change of password at next logon"
+msgstr "Eis een wijziging van het wachtwoord bij de volgende aanmelding"
+
+msgid "Gross revenue"
+msgstr "Bruto inkomsten"
+
+msgid "Gross yield"
+msgstr "Bruto rendement"
+
+msgid "Net yield"
+msgstr "Netto rendement"
+
+msgid "Vacancy rate"
+msgstr "Beschikbaarheidspercentage"
+
+msgid "Investment"
+msgstr "Investering"
+
+msgid "Lock"
+msgstr "Vergrendelen"
+
+msgid "Variables"
+msgstr "Variabelen"
+
+msgid "Example"
+msgstr "Voorbeeld"
+
+msgid "Increment"
+msgstr "Waardeverhoging"
+
+msgid "Schema"
+msgstr "Schema"
+
+msgid "Automation"
+msgstr "Automatisering"
+
+msgid "Login"
+msgstr "Inloggen"
+
+msgid "Renovation year"
+msgstr "Renovatie jaar"
+
+msgid "Curriculum vitae"
+msgstr "Curriculum vitae (CV)"
+
+msgid "Resellers"
+msgstr "Wederverkopers"
+
+msgid "Select"
+msgstr "Selecteren"
+
+msgid "Billing"
+msgstr "Facturatie"
+
+msgid "The balance of your account is %s"
+msgstr "Het saldo van uw rekening bedraagt %s"
+
+msgid "Ceiling"
+msgstr "Plafond"
+
+msgid "Weighted area"
+msgstr "Gewogen oppervlakte"
+
+msgid "Collected"
+msgstr "Geïnd"
+
+msgid "Unlimited"
+msgstr "Onbeperkt"
+
+msgid "Number of"
+msgstr "Aantal"
+
+msgid "Subscribe"
+msgstr "Inschrijven"
+
+msgid "Setup"
+msgstr "Uitvoering"
+
+msgid "Active owner"
+msgstr "Actieve eigenaar"
+
+msgid "Price by area"
+msgstr "Prijs/oppervlak"
+
+msgid "Default list"
+msgstr "Standaardlijst"
+
+msgid "Subtype"
+msgstr "Subtype"
+
+msgid "Add a custom document"
+msgstr "Een aangepast document toevoegen"
+
+msgid "Line spacing"
+msgstr "Regelafstand"
+
+msgid "Font"
+msgstr "Lettertype"
+
+msgid "Portrait"
+msgstr "Portret"
+
+msgid "Landscape"
+msgstr "Landschap"
+
+msgid "Accounts"
+msgstr "Accounts"
+
+msgid "Optional"
+msgstr "Optioneel"
+
+msgid "File"
+msgstr "Bestand"
+
+msgid "Collected at"
+msgstr "Geïnd op"
+
+msgid "Linked"
+msgstr "Verbonden"
+
+msgid "Discover our offers"
+msgstr "Ontdek onze aanbiedingen"
+
+msgid "Blank"
+msgstr "Blanco"
+
+msgid "Portal"
+msgstr "Portaalsite"
+
+msgid "Software Documentation"
+msgstr "Softwaredocumentatie"
+
+msgid "Time"
+msgstr "Tijd"
+
+msgid "Dedicated website"
+msgstr "Specifieke website"
+
+msgid "Subcategory"
+msgstr "Subcategorie"
+
+msgid "No IP control"
+msgstr "Geen IP controle"
+
+msgid "Auto publish"
+msgstr "Automatisch publiceren"
+
+msgid "Link to property"
+msgstr "Koppelen aan product"
+
+msgid "Happy birthday!"
+msgstr "Gelukkige verjaardag!"
+
+msgid "Birthdays"
+msgstr "Verjaardagen"
+
+msgid "Last login"
+msgstr "Voor het laatst aangemeld"
+
+msgid "This property is a part of:"
+msgstr "Dit product is gekoppeld aan"
+
+msgid "IP addresses"
+msgstr "IP-adressen"
+
+msgid "Prospecting"
+msgstr "Prospectie"
+
+msgid "Access code"
+msgstr "Toegangscode"
+
+msgid "Access code at"
+msgstr "Toegangscode voor"
+
+msgid "Number of shares"
+msgstr "Aantal deelbewijzen"
+
+msgid "Leads"
+msgstr "Leads"
+
+msgid "Cancelled"
+msgstr "Geannuleerd"
+
+msgid "Link"
+msgstr "Link"
+
+msgid "Advanced"
+msgstr "Gedetailleerd"
+
+msgid "Publish on homepage"
+msgstr "Publiceren op Startpagina"
+
+msgid "Suggested"
+msgstr "Voorgesteld"
+
+msgid "Welcome on %s"
+msgstr "Welkom op %s"
+
+msgid "Content"
+msgstr "Content"
+
+msgid "Extranet access"
+msgstr "Toegang tot het extranet"
+
+msgid "Publish address"
+msgstr "Publiceer adres"
+
+msgid "Opening hours"
+msgstr "Openingsuren"
+
+msgid "Backoffice"
+msgstr "Backoffice"
+
+msgid "Member since %s"
+msgstr "Aangesloten sinds %s"
+
+msgid "Lock menu bar"
+msgstr "Vetgrendel het menu aan de zijkant"
+
+msgid "Updates"
+msgstr "Updates"
+
+msgid "Bookings"
+msgstr "Reserveringen"
+
+msgid "Forward to contact"
+msgstr "Doorsturen naar contact"
+
+msgid "Responder"
+msgstr "Respondent"
+
+msgid ""
+"You can search our Frequently Asked Questions (FAQs) database by keyword(s):"
+msgstr ""
+"U kunt onze database met veelgestelde vragen (FAQ's) doorzoeken op "
+"trefwoord(en):"
+
+msgid "Register"
+msgstr "Register"
+
+msgid "Expiration at"
+msgstr "Verstrijkt op"
+
+msgid "Mailbox"
+msgstr "Mailbox"
+
+msgid "Domain name"
+msgstr "Domeinnaam"
+
+msgid "Filling"
+msgstr "Invullen"
+
+msgid "Condition precedent"
+msgstr "Opschortende voorwaarden"
+
+msgid "Size"
+msgstr "Omvang"
+
+msgid "Deal fees"
+msgstr "Zakelijke commissie"
+
+msgid "Fees charged"
+msgstr "Ontvangen commissie"
+
+msgid "Customer"
+msgstr "Klant"
+
+msgid "Booked"
+msgstr "Gereserveerd"
+
+msgid "Available"
+msgstr "Beschikbaar"
+
+msgid "Associate"
+msgstr "Vennoot"
+
+msgid "Translations"
+msgstr "Vertalingen"
+
+msgid "Unsold"
+msgstr "Niet-verkocht"
+
+msgid "Sold"
+msgstr "Verkocht"
+
+msgid "Last action"
+msgstr "Laatste actie"
+
+msgid "Our agency"
+msgstr "Ons kantoor"
+
+msgid "Locate us"
+msgstr "U vindt ons"
+
+msgid "Your main contact"
+msgstr "Uw vertrouwelijk contact"
+
+msgid "Send me a message"
+msgstr "Stuur me een bericht"
+
+msgid "Leave us a message"
+msgstr "Laat een bericht achter"
+
+msgid "Price with fees"
+msgstr "Prijs incl. vergoedingen"
+
+msgid "Owner access"
+msgstr "Toegang eigenaar"
+
+msgid "Added"
+msgstr "Toegevoegd"
+
+msgid "Available for matching"
+msgstr "Beschikbaar voor matching"
+
+msgid "Available on"
+msgstr "Beschikbaar op"
+
+msgid "Lessee"
+msgstr "Huurder"
+
+msgid "Add to list"
+msgstr "Voeg toe aan lijst"
+
+msgid "Custom tags"
+msgstr "Gepersonaliseerde tags"
+
+msgid "%s pending approval properties"
+msgstr "%s product(en) in afwachting"
+
+msgid "Negotiable price"
+msgstr "Onderhandelbaar bedrag"
+
+msgid "Price updated"
+msgstr "Aangepaste prijs"
+
+msgid "Less equal"
+msgstr "Minder dan gelijk aan"
+
+msgid "Equal"
+msgstr "Gelijk aan"
+
+msgid "Greater equal"
+msgstr "Meer dan gelijk aan"
+
+msgid "Preferences"
+msgstr "Voorkeuren"
+
+msgid "Contact means"
+msgstr "Contact opnemen"
+
+msgid "Agency commission"
+msgstr "Agency commissie"
+
+msgid "Scheduled at"
+msgstr "Gepland voor"
+
+msgid "Contract at"
+msgstr "Overeenkomst op"
+
+msgid "Commitment"
+msgstr "Compromis"
+
+msgid "Commitment at"
+msgstr "Compromis op"
+
+msgid "Offer at"
+msgstr "Aanbod op"
+
+msgid "No action"
+msgstr "Geen actie"
+
+msgid "Received contact information"
+msgstr "Contactgegevens ontvangen"
+
+msgid "Linked contact"
+msgstr "Gekoppelde contactpersoon"
+
+msgid "Related contacts"
+msgstr "Gerelateerde contacten"
+
+msgid "Others"
+msgstr "Overige"
+
+msgid "Assigned to"
+msgstr "Toegewezen aan"
+
+msgid "Assign to"
+msgstr "Wijs toe aan"
+
+msgid "Assign by"
+msgstr "Toegewezen door"
+
+msgid "Opened by"
+msgstr "Geopend door"
+
+msgid "Closed by"
+msgstr "Gesloten door"
+
+msgid "Time zone"
+msgstr "Tijdzone"
+
+msgid "Customers"
+msgstr "Klanten"
+
+msgid "Invert selection"
+msgstr "Keer selectie om"
+
+msgid "Select all"
+msgstr "Selecteer alles"
+
+msgid "Unselect all"
+msgstr "Deselecteer alles"
+
+msgid "%s awaiting lead(s)"
+msgstr "%s lead(s) in wacht"
+
+msgid "%s lead(s) to assign"
+msgstr "%s lead(s) toe te wijzen"
+
+msgid "%s pending properties"
+msgstr "%s eigendom(en) hangend"
+
+msgid "%s pending matching(s)"
+msgstr "%s matching hangend"
+
+msgid "%s expired agreement(s)"
+msgstr "%s overeenkomst(en) verstreken"
+
+msgid "%s expired soon agreement(s)"
+msgstr "%s overeenkomst(en) verstrijken binnenkort"
+
+msgid "Legal notice"
+msgstr "Juridische mededeling"
+
+msgid "Tags"
+msgstr "Tags"
+
+msgid "Allowed"
+msgstr "Toegestaan"
+
+msgid "Min stay"
+msgstr "Min. verblijf"
+
+msgid "Over"
+msgstr "Langer dan"
+
+msgid "Refresh"
+msgstr "Vernieuw"
+
+msgid "Free text"
+msgstr "Vrije tekst"
+
+msgid "Generate comment"
+msgstr "Maak opmerking aan"
+
+msgid "Building name"
+msgstr "Naam gebouw"
+
+msgid "VAT"
+msgstr "BTW"
+
+msgid "VAT included"
+msgstr "Incl. BTW"
+
+msgid "VAT excluded"
+msgstr "Excl. BTW"
+
+msgid "Recurrence"
+msgstr "Herhaling"
+
+msgid "Calculate"
+msgstr "Bereken"
+
+msgid "Contribution"
+msgstr "Bijdrage"
+
+msgid "Maximum debt"
+msgstr "Maximum schuld"
+
+msgid "Purchase amount"
+msgstr "Aankoopbedrag"
+
+msgid "Borrowing calculator"
+msgstr "Berekening van de leencapaciteit"
+
+msgid "Monthly payment calculator"
+msgstr "Berekening van de maandelijkse betaling"
+
+msgid "You don't have broadcasting rights"
+msgstr "U bezit geen rechten hiervoor"
+
+msgid "Pending"
+msgstr "Hangende"
+
+msgid "Suggest"
+msgstr "Suggesties"
+
+msgid "To show"
+msgstr "Weergeven"
+
+msgid "Automatic"
+msgstr "Automatisch"
+
+msgid "Manual"
+msgstr "Handmatig"
+
+msgid "In collaboration with a %name% professional"
+msgstr "In samenwerking met een collega-makelaar %name%"
+
+msgid "Partners"
+msgstr "Partners"
+
+msgid "Costs"
+msgstr "Kosten"
+
+msgid "My search"
+msgstr "Mijn zoekcriteria"
+
+msgid "Partner"
+msgstr "Partner"
+
+msgid "Manager"
+msgstr "Manager"
+
+msgid "Category reference"
+msgstr "Categorie referentie"
+
+msgid "Cadastre reference"
+msgstr "Kadastrale referentie"
+
+msgid "Lot reference"
+msgstr "Perceel referentie"
+
+msgid "Block reference"
+msgstr "Blok referentie"
+
+msgid "Stairs reference"
+msgstr "Trap referentie"
+
+msgid "Mortgage end at"
+msgstr "Hyphoteek eindigd op"
+
+msgid "Media"
+msgstr "Media"
+
+msgid "Medias"
+msgstr "Medias"
+
+msgid "Latest views"
+msgstr "Laatste raadpleging"
+
+msgid "First access"
+msgstr "Eerste raadpleging"
+
+msgid "Access count"
+msgstr "Aantal raadplegingen"
+
+msgid "Default"
+msgstr "Standaard"
+
+msgid "Please do not enter any name or contact"
+msgstr "Voer geen naam of contactpersoon in"
+
+msgid "QR-Code"
+msgstr "QR-Code"
+
+msgid "Show price"
+msgstr "Toon prijs"
+
+msgid "Done"
+msgstr "Gereed"
+
+msgid "Not applicable"
+msgstr "Niet van toepassing"
+
+msgid "Fill in the table"
+msgstr "Vul de tabel in"
+
+msgid "Choice"
+msgstr "Keuze"
+
+msgid "Copy"
+msgstr "Kopie"
+
+msgid "Automatic matching"
+msgstr "Automatische matching"
+
+msgid "Authorization"
+msgstr "Autorisatie"
+
+msgid "Last connection the %s"
+msgstr "Laatste verbinding op %s"
+
+msgid "All"
+msgstr "Allemaal"
+
+msgid "Wiki"
+msgstr "Wiki"
+
+msgid "Latest"
+msgstr "Recent"
+
+msgid "Reset"
+msgstr "Reset"
+
+msgid "Show/hide fields"
+msgstr "Toon/verberg velden"
+
+msgid "Recent searches"
+msgstr "Recente opzoekingen"
+
+msgid "Association"
+msgstr "Associatie"
+
+msgid "Meta crawler"
+msgstr "Meta crawler"
+
+msgid "Notifications"
+msgstr "Meldingen"
+
+msgid "Prescriber"
+msgstr "Pré-abonnee"
+
+msgid "Staff"
+msgstr "Personeel"
+
+msgid "Standing"
+msgstr "Permanent"
+
+msgid "Receive a copy"
+msgstr "Een kopie ontvangen"
+
+msgid "Quality"
+msgstr "Kwaliteit"
+
+msgid "Waiting for partner"
+msgstr "Wachten op partner"
+
+msgid "Viewing agreement"
+msgstr "Bekijk overeenkomst"
+
+msgid "Decline"
+msgstr "Weigeren"
+
+msgid "Declined"
+msgstr "Geweigerd"
+
+msgid "Accept"
+msgstr "Accepteren"
+
+msgid "Accepted"
+msgstr "Geaccepteerd"
+
+msgid "Zones"
+msgstr "Zones"
+
+msgid "Zone"
+msgstr "Zone"
+
+msgid "Matrimonial regime"
+msgstr "Huwelijksstelsel"
+
+msgid "Marital status"
+msgstr "Burgerlijke staat"
+
+msgid "Thumbnail"
+msgstr "Thumbnail"
+
+msgid "Unread"
+msgstr "Ongelezen"
+
+msgid "Reply"
+msgstr "Antwoorden"
+
+msgid "Assign to a project"
+msgstr "Link naar een programma"
+
+msgid "Pension"
+msgstr "Pensioen"
+
+msgid "Beam"
+msgstr "Balk"
+
+msgid "Draft"
+msgstr "Ontwerp"
+
+msgid "Guests"
+msgstr "Gasten"
+
+msgid "Crew"
+msgstr "Crew"
+
+msgid "Cruising speed"
+msgstr "Kruissnelheid"
+
+msgid "Builder"
+msgstr "Ontwikkelaar"
+
+msgid "Administration"
+msgstr "Administratie"
+
+msgid "This property has no history"
+msgstr "Dit product heeft geen geschiedenis"
+
+msgid "Civil law notary"
+msgstr "Notaris"
+
+msgid "Max price"
+msgstr "Max prijs"
+
+msgid "Messages"
+msgstr "Berichten"
+
+msgid "Ad"
+msgstr "Advertentie"
+
+msgid "Reminders"
+msgstr "Herinneringen"
+
+msgid "Credit"
+msgstr "Krediet"
+
+msgid "Signatures"
+msgstr "Handtekeningen"
+
+msgid "Signature"
+msgstr "Handtekening"
+
+msgid "Title (politeness)"
+msgstr "Aanspreking"
+
+msgid "Amount"
+msgstr "Bedrag"
+
+msgid "Amounts"
+msgstr "Bedragen"
+
+msgid "Updated on"
+msgstr "Bijgewerkt op"
+
+msgid "Created at"
+msgstr "Aangemaakt op"
+
+msgid "Published at"
+msgstr "Gepubliceerd op"
+
+msgid "Insurance"
+msgstr "Verzekering"
+
+msgid "Provision"
+msgstr "Provisie"
+
+msgid "Entries"
+msgstr "Gegevens"
+
+msgid "Number"
+msgstr "Nummer"
+
+msgid "Forgot safety code?"
+msgstr "Beveiligingscode vergeten?"
+
+msgid "Create a property"
+msgstr "Een product maken"
+
+msgid "Create a lead"
+msgstr "Een prospect aanmaken"
+
+msgid "Plot of land area"
+msgstr "Perceel oppervlak"
+
+msgid "Deposit account"
+msgstr "Waarborgrekening"
+
+msgid "Owner's price"
+msgstr "Prijs voor eigenaar"
+
+msgid "Starting price"
+msgstr "Startprijs"
+
+msgid "Mobile"
+msgstr "Mobiel"
+
+msgid "Tel."
+msgstr "Tel."
+
+msgid "Leases"
+msgstr "Huurovereenkomsten"
+
+msgid "Address"
+msgstr "Adres"
+
+msgid "Tips"
+msgstr "Tips"
+
+msgid "Delete"
+msgstr "Verwijderen"
+
+msgid "Maps"
+msgstr "Kaarten"
+
+msgid "Days"
+msgstr "Dagen"
+
+msgid "Catalog"
+msgstr "Catalogus"
+
+msgid "contact"
+msgstr "contact"
+
+msgid "contacts"
+msgstr "contactpersonen"
+
+msgid "Statistics"
+msgstr "Statistieken"
+
+msgid "Built in"
+msgstr "Bouwjaar"
+
+msgid "Mark"
+msgstr "Notitie"
+
+msgid "Percentage"
+msgstr "Percentage"
+
+msgid "Visits"
+msgstr "Bezoeken"
+
+msgid "Visit comment"
+msgstr "Opmerking bezoekers"
+
+msgid "Key number"
+msgstr "Sleutelnummer"
+
+msgid "Key's place"
+msgstr "Sleutel aanwezig"
+
+msgid "Displayed city (optional)"
+msgstr "Getoonde stad (optioneel)"
+
+msgid "Displayed district (optional)"
+msgstr "Getoonde wijk (optioneel)"
+
+msgid "Clauses"
+msgstr "Voorwaarden"
+
+msgid "Bathrooms"
+msgstr "Badkamers"
+
+msgid "Send an e-mail"
+msgstr "Een e-mail verzenden"
+
+msgid "Seller"
+msgstr "Verkoper"
+
+msgid "Step"
+msgstr "Stap"
+
+msgid "Long comment"
+msgstr "Lange opmerking"
+
+msgid "Subtitle"
+msgstr "Ondertitel"
+
+msgid "Title"
+msgstr "Titel"
+
+msgid "Last published at"
+msgstr "Laatst verschenen op"
+
+msgid "floor"
+msgstr "verdieping"
+
+msgid "Inactive"
+msgstr "Niet actief"
+
+msgid "Position"
+msgstr "Functie"
+
+msgid "Please fill in a name and a phone or an e-mail."
+msgstr "Vul hier een naam en een telefoonnr. of e-mailadres in."
+
+msgid "Passwords do not match, please retype"
+msgstr "Wachtwoorden verschillen, voer nogmaals in"
+
+msgid "Please change your password"
+msgstr "Wijzig uw wachtwoord, a.u.b."
+
+msgid "New password should not be same as old password"
+msgstr "Het nieuwe en oude wachtwoord mogen niet dezelfde zijn"
+
+msgid "year"
+msgstr "jaar"
+
+msgid "Subscriptions"
+msgstr "Abonnementen"
+
+msgid "Tour comment"
+msgstr "Opmerkingen na bezichtiging"
+
+msgid "Actions"
+msgstr "Acties"
+
+msgid "Add opening hours"
+msgstr "Voeg openingsuren toe"
+
+msgid "price"
+msgstr "prijs"
+
+msgid ""
+"Please note that there are dependencies, please select a contact for "
+"completing the data transfer."
+msgstr ""
+"Er zijn bijkomstigheden, selecteer een contact om de gegevens over te dragen"
+
+msgid "Your contact speaks %s, would you like to change the language?"
+msgstr "Het installeren kan even duren, probeer later nog eens."
+
+msgid "Would you like to publish on the homepage?"
+msgstr "Wil u publiceren op de startpagina?"
+
+msgid "plus VAT"
+msgstr "plus BTW"
+
+msgid "<b>Warning :</b> there is an error, please check each fields."
+msgstr ""
+"<b>Opgelet:</b> er heeft zich een fout voorgedaan, controleer alle velden."
+
+msgid "Price/sq m"
+msgstr "Prijs/m²"
+
+msgid "today"
+msgstr "vandaag"
+
+msgid "week"
+msgstr "week"
+
+msgid "day"
+msgstr "dag"
+
+msgid "from %from_value% to %to_value%"
+msgstr "van %from_value% tot %to_value%"
+
+msgid "message"
+msgstr "boodschap"
+
+msgid "Page"
+msgstr "Pagina"
+
+msgid "Action"
+msgstr "Actie"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Agencies"
+msgstr "Makelaars"
+
+msgid "agencies"
+msgstr "makelaars"
+
+msgid "Context"
+msgstr "Context"
+
+msgid "More criteria"
+msgstr "Meer criterias"
+
+msgid "Criteria"
+msgstr "Criterias"
+
+msgid "Classification"
+msgstr "Classificatie"
+
+msgid "metres"
+msgstr "meter"
+
+msgid "Window"
+msgstr "Ramen"
+
+msgid "Stock area"
+msgstr "Opslagruimte"
+
+msgid "Sales area"
+msgstr "Verkoop oppervlakte"
+
+msgid "Sale price"
+msgstr "Verkoopprijs"
+
+msgid "Broadcast to"
+msgstr "Verspreiden op"
+
+msgid "The property will not be published because it is in step « %s »"
+msgstr ""
+"Het onroerend goed kan niet worden verspreid, omdat het zich in stap « %s » "
+"bevindt"
+
+msgid "Last agencies"
+msgstr "Laatste makelaars"
+
+msgid "I confirm my subscription to %s and I accept the general conditions"
+msgstr ""
+"Ik bevestig mijn inschrijving voor %s en aanvaard de algemene voorwaarden"
+
+msgid "from %from_date% to %to_date%"
+msgstr "van %from_date% tot %to_date%"
+
+msgid "sq m"
+msgstr "m²"
+
+msgid "days"
+msgstr "dagen"
+
+msgid "bedrooms"
+msgstr "slaapkamers"
+
+msgid "bedroom"
+msgstr "slaapkamer"
+
+msgid "rooms"
+msgstr "kamers"
+
+msgid "room"
+msgstr "kamer"
+
+msgid "Private comment"
+msgstr "Persoonlijke opmerking"
+
+msgid "Private"
+msgstr "Privé"
+
+msgid "Levels"
+msgstr "Niveaus"
+
+msgid "Level"
+msgstr "Niveau"
+
+msgid "Exchange"
+msgstr "Overdracht"
+
+msgid "by"
+msgstr "door"
+
+msgid "n.a"
+msgstr "n.b."
+
+msgid "Elevator"
+msgstr "Lift"
+
+msgid "no"
+msgstr "nee"
+
+msgid "yes"
+msgstr "ja"
+
+msgid "Printed with care"
+msgstr "Door ons geprint"
+
+msgid "Please do not litter on public way"
+msgstr "Gelieve niet op de openbare weg te werpen"
+
+msgid "Non-contractual information"
+msgstr "Aan de informatie kunnen geen rechten worden ontleend"
+
+msgid "Agency fees"
+msgstr "Makelaarskosten"
+
+msgid "Agency fees included"
+msgstr "Makelaarskosten inbegrepen"
+
+msgid "Agency fees not included"
+msgstr "Makelaarskosten niet inbegrepen"
+
+msgid "Personal property tax"
+msgstr "Woonbelasting"
+
+msgid "Style"
+msgstr "Stijl"
+
+msgid "Parkings"
+msgstr "Parkeerplaatsen"
+
+msgid "Pictures"
+msgstr "Foto's"
+
+msgid "Window card"
+msgstr "Etalagefiche"
+
+msgid "Private sheet"
+msgstr "Prive gegevens"
+
+msgid "Public sheet"
+msgstr "Publieke gegvens"
+
+msgid "Service"
+msgstr "Service"
+
+msgid "Language"
+msgstr "Taal"
+
+msgid "Cart"
+msgstr "Winkelwagen"
+
+msgid "Land type"
+msgstr "Terrein type"
+
+msgid "Property agent"
+msgstr "Beheerder"
+
+msgid "Account"
+msgstr "Account"
+
+msgid "End at"
+msgstr "Beeindigd op"
+
+msgid "Close at"
+msgstr "Sluiten le"
+
+msgid "Start at"
+msgstr "Gestart op"
+
+msgid "Guarantee"
+msgstr "Garantie"
+
+msgid "Update"
+msgstr "Update"
+
+msgid "Type"
+msgstr "Type"
+
+msgid "Inter-agencies"
+msgstr "Tussen agencies"
+
+msgid "Number of floors"
+msgstr "Aantal verdiepingen"
+
+msgid "Evaluated price"
+msgstr "Taxatieprijs"
+
+msgid "Seller's commission"
+msgstr "Commissie eigenaar"
+
+msgid "Buyer's commission"
+msgstr "Commissie klant"
+
+msgid "Commission"
+msgstr "Commissie"
+
+msgid "Origin"
+msgstr "Herkomst"
+
+msgid "Specific origin"
+msgstr "Specifieke herkomst"
+
+msgid "Flooring"
+msgstr "Vloerbedekking"
+
+msgid "Rank"
+msgstr "Positie"
+
+msgid "Call"
+msgstr "Oproepen"
+
+msgid "Phone call"
+msgstr "Oproep"
+
+msgid "Publications"
+msgstr "Publicaties"
+
+msgid "Send to contact"
+msgstr "Verstuur naar contact"
+
+msgid "No results found"
+msgstr "Geen resultaat"
+
+msgid "Results"
+msgstr "Resultaten"
+
+msgid "Result"
+msgstr "Resultaat"
+
+msgid "results"
+msgstr "resultaten"
+
+msgid "result"
+msgstr "resultaat"
+
+msgid "Advertiser"
+msgstr "Adverteerder"
+
+msgid "Active"
+msgstr "Actief"
+
+msgid "Confidential"
+msgstr "Vertrouwelijk"
+
+msgid "Job"
+msgstr "Beroep"
+
+msgid "Company name"
+msgstr "Bedrijfsnaam"
+
+msgid "Professionals"
+msgstr "Bedrijven"
+
+msgid "Edit"
+msgstr "Bewerken"
+
+msgid "Save"
+msgstr "Opslaan"
+
+msgid "Succession"
+msgstr "Nalatenschap"
+
+msgid "Please fill in a city."
+msgstr "Vul plaatsnaam in a.u.b."
+
+msgid "Please fill"
+msgstr "Vul in a.u.b."
+
+msgid "The email address is invalid."
+msgstr "Het e-mailadres is verkeert"
+
+msgid "Rights"
+msgstr "Rechten"
+
+msgid "Display"
+msgstr "Display"
+
+msgid "Since"
+msgstr "Sinds"
+
+msgid "Filter"
+msgstr "Filter"
+
+msgid "Min"
+msgstr "Min."
+
+msgid "Max"
+msgstr "Max."
+
+msgid "Lessor"
+msgstr "Verhuurder"
+
+msgid "Reservations"
+msgstr "Boekingen"
+
+msgid "Booking"
+msgstr "Reserveren"
+
+msgid "Bed"
+msgstr "Slaapplaatsen"
+
+msgid "Cleaning price"
+msgstr "Schoonmaak tarief"
+
+msgid "Availabilities"
+msgstr "Beschikbaarheden"
+
+msgid "Sent"
+msgstr "Verstuurd"
+
+msgid "Year"
+msgstr "Jaar"
+
+msgid "years"
+msgstr "jaren"
+
+msgid "months"
+msgstr "maanden"
+
+msgid "month"
+msgstr "maand"
+
+msgid "Seasons"
+msgstr "Seizoenen"
+
+msgid "Seasonal"
+msgstr "Seizoen"
+
+msgid "Rates"
+msgstr "Tarieven"
+
+msgid "Todo"
+msgstr "Nog te doen"
+
+msgid "Brands"
+msgstr "Franchises"
+
+msgid "Brand"
+msgstr "Merk"
+
+msgid "Bank"
+msgstr "Bank"
+
+msgid "Brief comment"
+msgstr "Korte beschrijving"
+
+msgid "Delivery at"
+msgstr "Leveringsdatum"
+
+msgid "Reason"
+msgstr "Reden"
+
+msgid "What's new"
+msgstr "Wat is er nieuw"
+
+msgid "Requests"
+msgstr "Aanvragen"
+
+msgid "Request"
+msgstr "Aanvraag"
+
+msgid "requests"
+msgstr "aanvragen"
+
+msgid "request"
+msgstr "aanvraag"
+
+msgid "Current rent"
+msgstr "Huidige huur"
+
+msgid "properties"
+msgstr "Objecten"
+
+msgid "property"
+msgstr "Object"
+
+msgid "Bill"
+msgstr "Rekening"
+
+msgid "Calculator"
+msgstr "Rekenmachine"
+
+msgid "Birthplace"
+msgstr "Geboorteplaats"
+
+msgid "Birthday"
+msgstr "Geboortedatum"
+
+msgid "Income"
+msgstr "Inkomsten"
+
+msgid "Margin"
+msgstr "Marge"
+
+msgid "Required."
+msgstr "Verplicht"
+
+msgid "Spoken languages"
+msgstr "Gesproken taal"
+
+msgid "Number of children"
+msgstr "Aantal kinderen"
+
+msgid "Hotline"
+msgstr "Support"
+
+msgid "Re-type password"
+msgstr "Paswoord bevestigen"
+
+msgid "Public latitude"
+msgstr "Openbare lengte"
+
+msgid "Access denied"
+msgstr "Toegang geweigerd"
+
+msgid "Access"
+msgstr "Toegang"
+
+msgid "Launch"
+msgstr "Lanceren"
+
+msgid "Shortcuts"
+msgstr "Snelkoppelingen"
+
+msgid "Subscription"
+msgstr "Abonnement"
+
+msgid "SEO"
+msgstr "Referenties"
+
+msgid "Life annuity length"
+msgstr "Duur lijfrente"
+
+msgid "Market value"
+msgstr "Marktwaarde"
+
+msgid "Price contribution"
+msgstr "Eigen inbreng"
+
+msgid "Show more results"
+msgstr "Meer resultaten tonen"
+
+msgid "Close"
+msgstr "Sluiten"
+
+msgid "Hide"
+msgstr "Verbergen"
+
+msgid "Keywords"
+msgstr "Sleutelwoorden"
+
+msgid "Corporate register"
+msgstr "Bedrijfregister"
+
+msgid "Expired soon"
+msgstr "Verlopen snel"
+
+msgid "Expired"
+msgstr "Verlopen"
+
+msgid "Agreements"
+msgstr "Mandaten/opdrachten"
+
+msgid "Agreement number"
+msgstr "Mandaat-/opdrachtnummer"
+
+msgid "VAT identification number"
+msgstr "BTW-nummer"
+
+msgid "What's on your mind?"
+msgstr "Waar denk je aan?"
+
+msgid "Buyer"
+msgstr "Koper"
+
+msgid "Message sent"
+msgstr "Bericht verstuurd"
+
+msgid "Limit"
+msgstr "Limiet"
+
+msgid "Publish"
+msgstr "Publiceren"
+
+msgid "Do not publish"
+msgstr "Niet publiceren"
+
+msgid "Cancel"
+msgstr "Annuleren"
+
+msgid "Already suggested"
+msgstr "Reeds voorgesteld"
+
+msgid "To suggest"
+msgstr "Nieuwe suggestie"
+
+msgid "Footer"
+msgstr "Voettekst"
+
+msgid "Header"
+msgstr "Koptekst"
+
+msgid "Serviced plot"
+msgstr "Bouwrijp gemaakte grond"
+
+msgid "Net floor area"
+msgstr "Netto-vloeroppervlakte"
+
+msgid "Sold price"
+msgstr "Verkoop prijs"
+
+msgid "Sold at"
+msgstr "Verkocht tegen"
+
+msgid "Preview"
+msgstr "Preview"
+
+msgid "Garden area"
+msgstr "Tuin oppervlakte"
+
+msgid "Payments"
+msgstr "Betaling"
+
+msgid "Reopen"
+msgstr "Heropen"
+
+msgid "Completed"
+msgstr "Voltooid"
+
+msgid "Complete"
+msgstr "Voltooien"
+
+msgid "Callbacks"
+msgstr "Terugbellen"
+
+msgid "Total"
+msgstr "Totaal"
+
+msgid "Coagent"
+msgstr "Co-makelaar"
+
+msgid "Residences"
+msgstr "Residenties"
+
+msgid "%s properties"
+msgstr "%s onroerende goederen"
+
+msgid "%s property"
+msgstr "%s onroerend goed"
+
+msgid "%s request"
+msgstr "%s aanvraag"
+
+msgid "%s requests"
+msgstr "%s aanvragen"
+
+msgid "Characteristics"
+msgstr "Karakteristieken"
+
+msgid "Activities"
+msgstr "Activiteiten"
+
+msgid "Sorry, this property is no longer available."
+msgstr "Sorry dit object is niet langer beschikbaar"
+
+msgid "Processed"
+msgstr "Verwerkt"
+
+msgid "remaining tickets"
+msgstr "Resterende tickets"
+
+msgid "Congratulations ! No more support tickets."
+msgstr "Van harte gefeliciteerd! Geen support ticket meer."
+
+msgid "unassigned tickets"
+msgstr "niet-toegewezen tickets"
+
+msgid "All tickets are assigned."
+msgstr "Alle tickets zijn toegewezen"
+
+msgid "task in progress"
+msgstr "Taak in uitvoering"
+
+msgid "Database"
+msgstr "Databank"
+
+msgid "Used"
+msgstr "Gebruikt"
+
+msgid "%s results"
+msgstr "%s resultaten"
+
+msgid "Redirects"
+msgstr "Doorverwijzingen"
+
+msgid "Subscribe to the newsletter"
+msgstr "Zich inschrijven voor de nieuwsbrief"
+
+msgid "Purge"
+msgstr "Reinigen"
+
+msgid "Valuation methods"
+msgstr "Evaluatiemethodes"
+
+msgid "Rebuild cost"
+msgstr "Kostprijs nieuw"
+
+msgid "Capitalization"
+msgstr "Kapitalisatie"
+
+msgid "Comparative market analysis"
+msgstr "Vergelijkende marktstudie"
+
+msgid "An average of"
+msgstr "Een gemiddelde van"
+
+msgid "Your own valuation"
+msgstr "Uw eigen evaluatie"
+
+msgid "Desired profitability"
+msgstr "Gewenst rendement"
+
+msgid "Taxes and/or fees"
+msgstr "Taxen en/of kosten"
+
+msgid "Year of purchase"
+msgstr "Jaar van aankoop"
+
+msgid "Rental income"
+msgstr "Huurinkomsten"
+
+msgid "Price of purchase"
+msgstr "Aankoopprijs"
+
+msgid "Land price"
+msgstr "Grondprijs"
+
+msgid "Cost of construction"
+msgstr "Constructieprijs"
+
+msgid "Interior fittings"
+msgstr "Binnenhuisinrichting"
+
+msgid "Landscaping"
+msgstr "Aanleg buiten"
+
+msgid "Decrepitude"
+msgstr "Staat van verval"
+
+msgid "Capital losses"
+msgstr "Minwaarden"
+
+msgid "Capital gains"
+msgstr "Meerwaarden"
+
+msgid "Your mailbox has exceeded the storage limit (%s)"
+msgstr "De opslagcapaciteit van uw mailbox werd overschreden (%s)"
+
+msgid "Your mailbox will reach the storage limit"
+msgstr "Uw mailbox bereikt zijn opslagcapaciteit"
+
+msgid "Sort by"
+msgstr "Sorteren op"
+
+msgid "Condominium in difficulty"
+msgstr "Mede-eigendom in moeilijkheden"
+
+msgid "Back to the list"
+msgstr "Terug naar lijst"
+
+msgid "Previous listing"
+msgstr "Volgende advertentie"
+
+msgid "Next listing"
+msgstr "Vorige advertentie"
+
+msgid "empty"
+msgstr "blanco"
+
+msgid "Filename"
+msgstr "Bestandsnaam"
+
+msgid "Keyword"
+msgstr "Sleutelwoord"
+
+msgid "Values"
+msgstr "Waarden"
+
+msgid "New feed"
+msgstr "Nieuwe invoer"
+
+msgid "Errors"
+msgstr "Fouten"
+
+msgid "Error"
+msgstr "Fout"
+
+msgid "Erase"
+msgstr "Wissen"
+
+msgid "Erase all"
+msgstr "Alles wissen"
+
+msgid "Try"
+msgstr "Test"
+
+msgid "Query"
+msgstr "Verzoek"
+
+msgid "Agency fees payable by vendor"
+msgstr "Honoraria verkoper"
+
+msgid "Agency fees payable by buyer"
+msgstr "Honoraria koper"
+
+msgid "Condominium fees"
+msgstr "Lasten mede-eigendom"
+
+msgid "Add your account to start. You can add up to 6 user accounts."
+msgstr ""
+"Je account toevoegen om te beginnen je kunt maximaal 6 gebruikersaccounts "
+"toevoegen."
+
+msgid "An error occurred"
+msgstr "Er deed zich een fout voor"
+
+msgid "Successful subscription"
+msgstr "Abonneren geslaagd"
+
+msgid "Created date"
+msgstr "Aanmaakdatum"
+
+msgid "Updated date"
+msgstr "Datum update"
+
+msgid "Back to homepage"
+msgstr "Terug naar startpagina"
+
+msgid "Price min"
+msgstr "Min. prijs"
+
+msgid "Price max"
+msgstr "Max. prijs"
+
+msgid "Bedroom min"
+msgstr "Min. slaapkamers"
+
+msgid "Bedroom max"
+msgstr "Max. slaapkamers"
+
+msgid "Room min"
+msgstr "Min. kamers"
+
+msgid "Room max"
+msgstr "Max. kamers"
+
+msgid "Project at"
+msgstr "Ontwerp op"
+
+msgid "Agency rate"
+msgstr "Tarief makelaar"
+
+msgid "Tenant's commission"
+msgstr "Vergoedingen ten laste van huurder"
+
+msgid "Inventory tenant charge"
+msgstr "Plaatsbeschrijving ten laste van huurder"
+
+msgid "Fees included"
+msgstr "Vergoedingen inbegrepen"
+
+msgid "Provision on recoverable fees"
+msgstr "Terugvorderbare provisie"
+
+msgid "never"
+msgstr "Nooit"
+
+msgid "Remaining credits"
+msgstr "Resterende kredieten"
+
+msgid "Buy credits"
+msgstr "Koop kredieten"
+
+msgid "%s credits"
+msgstr "%s kredieten"
+
+msgid "Transaction fees"
+msgstr "Transactiekosten"
+
+msgid "View property"
+msgstr "Bekijk het goed"
+
+msgid "lot available"
+msgstr "beschikbaar perceel"
+
+msgid "lots available"
+msgstr "beschikbare percelen"
+
+msgid "Area min"
+msgstr "Min. oppervlakte"
+
+msgid "Search a property"
+msgstr "Zoek een eigendom"
+
+msgid "International"
+msgstr "Internationaal"
+
+msgid "Unsubscribe"
+msgstr "Uitschrijven"
+
+msgid "The property will not be published because it is in group « %s »"
+msgstr ""
+"Deze eigendom kan niet worden gesplitst, omdat het behoort tot groep “%s”"
+
+msgid "%s month"
+msgstr "%s maand"
+
+msgid "%s months"
+msgstr "%s maanden"
+
+msgid "No action after"
+msgstr "Geen verdere actie"
+
+msgid "%s pending delete"
+msgstr "%s in afwachting van verwijdering"
+
+msgid "Pending delete"
+msgstr "In afwachting van verwijdering"
+
+msgid "%s to delete"
+msgstr "%s te verwijderen"
+
+msgid "Unsubscribed"
+msgstr "Uitgeschreven"
+
+msgid "Edit my search"
+msgstr "Wijzig mijn zoekopdracht"
+
+msgid "Activate my search"
+msgstr "Activeer mijn zoekopdracht"
+
+msgid "Cancel my search"
+msgstr "Annuleer mijn zoekopdracht"
+
+msgid "Only authorized properties"
+msgstr "Alleen de toegelaten eigendommen"
+
+msgid "Another currency"
+msgstr "Andere valuta"
+
+msgid "Enter the first 6 digits"
+msgstr "Voer de eerste 6 cijfers in"
+
+msgid ""
+"Without action on your part, your contact will be deleted before the %s."
+msgstr "Onderneemt u geen actie, dan wordt uw contact uiterlijk  %s geschrapt"
+
+msgid "No procedure in progress"
+msgstr "Geen procedure bezig"
+
+msgid "Procedure in progress"
+msgstr "Lopende procedure"
+
+msgid "Number of lots in the condominium"
+msgstr "Aantal percelen in de mede-eigendom"
+
+msgid "Network authorized"
+msgstr "Samenvoegen toegestaan"
+
+msgid "Renew the lease"
+msgstr "Huurovereenkomst vernieuwen"
+
+msgid "Remove at"
+msgstr "Verwijder op"
+
+msgid "External action"
+msgstr "Externe actie"
+
+msgid ""
+"The migration of your prospect into a request will allow you to make "
+"matching and proposals with a better tracking."
+msgstr ""
+"Door uw prospect om te vormen tot aanvraag worden de matchings en "
+"voorstellen beter opgevolgd."
+
+msgid "floors"
+msgstr "verdiepingen"
+
+msgid "Unsuscribe from this list"
+msgstr "Uitschrijven van de lijst"
+
+msgid "Entry"
+msgstr "In"
+
+msgid "Exit"
+msgstr "Uit"
+
+msgid "Networks"
+msgstr "Netwerken"
+
+msgid "Secured"
+msgstr "Beveiligd"
+
+msgid "Opacity"
+msgstr "Dekking"
+
+msgid "Left"
+msgstr "Links"
+
+msgid "Top"
+msgstr "Top"
+
+msgid "Relative to the last element"
+msgstr "I.v.m. laatste element"
+
+msgid "Alignment"
+msgstr "Rooilijn"
+
+msgid "Border size"
+msgstr "Grootte van de rand"
+
+msgid "Border color"
+msgstr "Kleur van de rand"
+
+msgid "Size of the internal margin"
+msgstr "Grootte van de binnenmaat"
+
+msgid "Font color"
+msgstr "Kleur lettertype"
+
+msgid "Font size"
+msgstr "Grootte lettertype"
+
+msgid "Background color"
+msgstr "Achtergrondkleur"
+
+msgid "Custom image"
+msgstr "Gepersonaliseerde afbeelding"
+
+msgid "custom"
+msgstr "gepersonaliseerd"
+
+msgid "Right"
+msgstr "Recht"
+
+msgid "Center"
+msgstr "Midden"
+
+msgid "Justified"
+msgstr "Aangepast"
+
+msgid "Transparency"
+msgstr "Transparantie"
+
+msgid "Line height"
+msgstr "Hoogte regel"
+
+msgid "Uppercase"
+msgstr "Hoofdletter"
+
+msgid "Price proposal"
+msgstr "Prijsvoorstel"
+
+msgid "Template"
+msgstr "Model"
+
+msgid "Publication date"
+msgstr "Datum van publicatie"
+
+msgid "Recovered at"
+msgstr "Gerecupereerd op"
+
+msgid "Allow all"
+msgstr "Alles toestaan"
+
+msgid "Private position is not set, click here to update."
+msgstr "De privé-positie is niet vermeld, klik hier om te verduidelijken."
+
+msgid "Public position is not set, click here to update."
+msgstr "De openbare positie is niet vermeld, klik hier om te verduidelijken."
+
+msgid ""
+"Please use this link to subscribe to your calendar from a software or a "
+"device:"
+msgstr ""
+"Gebruik deze link om u te abonneren op uw agenda vanuit een software of een "
+"apparaat:"
+
+msgid "Activate"
+msgstr "Activeren"
+
+msgid "Disable"
+msgstr "Deactiveren"
+
+msgid "Block"
+msgstr "Blokkeren"
+
+msgid "Unblock"
+msgstr "Ontgrendelen"
+
+msgid "Area max"
+msgstr "Max. oppervlakte"
+
+msgid "Plot of land area min"
+msgstr "Min. oppervlakte terrein"
+
+msgid "Plot of land area max"
+msgstr "Max. oppervlakte van het terrein"
+
+msgid "Date descending"
+msgstr "Aflopende datum"
+
+msgid "Date ascending"
+msgstr "Oplopende datum"
+
+msgid "Price descending"
+msgstr "Aflopende prijs"
+
+msgid "Price ascending"
+msgstr "Oplopende prijs"
+
+msgid "Balance"
+msgstr "Saldo"
+
+msgid "Construction method"
+msgstr "Type bouwwerk"
+
+msgid "Tax code"
+msgstr "Rijksregisternummer"
+
+msgid "Downsides"
+msgstr "Nadelen"
+
+msgid "Assets"
+msgstr "Voordelen"
+
+msgid "Please select a district from the list:"
+msgstr "Kies een arrondissement uit de lijst:"
+
+msgid "Non-flood zone"
+msgstr "Niet-overstromingsgebied"
+
+msgid "Potential flood zone"
+msgstr "Potentiële overstromingszone"
+
+msgid "Recognized flood zone"
+msgstr "Erkende overstromingszone"
+
+msgid "Delimited flood zone"
+msgstr "Afgebakendende overstromingszone"
+
+msgid "Cadastre"
+msgstr "Kadaster"
+
+msgid "Delimited waterside zone"
+msgstr "Afgebakende oevergebied"
+
+msgid "Potential flood zone in a delimited waterside zone"
+msgstr ""
+"Potentiële overstromingszone in een afgebakende gebied aan de waterkant"
+
+msgid "Potential flood zone in a delimited flood zone"
+msgstr "Potentiële overstromingszone in een afgebakende overstromingszone"
+
+msgid "Recognized flood zone in a delimited waterside zone"
+msgstr "Erkende overstromingszone in een afgebakend gebied aan de waterkant"
+
+msgid "Recognized flood zone in a delimited flood zone"
+msgstr "Erkende overstromingszone in een afgebakende overstromingszone"
+
+msgid "Profile"
+msgstr "Profiel"
+
+msgid "Export"
+msgstr "Export"
+
+msgid "Quota"
+msgstr "Quota"
+
+msgid "Logs"
+msgstr "Logbestanden"
+
+msgid "Document"
+msgstr "Document"
+
+msgid "Signage"
+msgstr "Ondertekening"
+
+msgid "Set up at"
+msgstr "Gecreëerd op"
+
+msgid "Forecast"
+msgstr "Prognose"
+
+msgid "Area ascending"
+msgstr "Gebied oplopend"
+
+msgid "Area descending"
+msgstr "Gebied aflopend"
+
+msgid "%s awaiting review(s)"
+msgstr "%s beoordeling(en) in wacht"
+
+msgid "To review"
+msgstr "Te herzien"
+
+msgid "Net seller"
+msgstr "Netto verkoper"
+
+msgid "Price displayed"
+msgstr "Getoonde prijs"
+
+msgid "Rental price"
+msgstr "Huurprijs"
+
+msgid "Listed price: %s, exchange rates are indicative."
+msgstr "Tariefprijs: %s, wisselkoersen ter informatie."
+
+msgid "%s unit"
+msgstr "%s percelen"
+
+msgid "IP address"
+msgstr "IP-adres"
+
+msgid "Method"
+msgstr "Methode"
+
+msgid "Path"
+msgstr "Pad"
+
+msgid "Pagebreak"
+msgstr "Nieuwe pagina"
+
+msgid "Paragraph"
+msgstr "Paragraaf"
+
+msgid "Spacing"
+msgstr "Afstand"
+
+msgid "Align"
+msgstr "Uitlijnen"
+
+msgid "Scale"
+msgstr "Schaal"
+
+msgid "Color"
+msgstr "Kleur"
+
+msgid "lines"
+msgstr "regels"
+
+msgid "Positioning"
+msgstr "Plaatsing"
+
+msgid "Border"
+msgstr "Rand"
+
+msgid "Social networks"
+msgstr "Sociale netwerken"
+
+msgid "Save settings"
+msgstr "Instellingen opslaan"
+
+msgid "Delete settings"
+msgstr "Instellingen verwijderen"
+
+msgid "Facades"
+msgstr "Gevels"
+
+msgid ""
+"Please select the page where you would like to publish your properties."
+msgstr "Selecteer de pagina waarop u uw eigendommen wilt publiceren"
+
+msgid "Unique publication identifier"
+msgstr "Unieke identificatiecode voor de publicatie"
+
+msgid "No active transfer"
+msgstr "Geen actieve overdracht"
+
+msgid "Publication report"
+msgstr "Publicatie rapport"
+
+msgid "Click here to view the publication."
+msgstr "Click hier om de publicatie te zien."
+
+msgid "Your listing is now online."
+msgstr "Uw advertentie staat nu online."
+
+msgid "Share on …"
+msgstr "Delen op ..."
+
+msgid "Add the feature for:"
+msgstr "Functie toevoegen voor:"
+
+msgid "The agency"
+msgstr "Het agentschap"
+
+msgid "The whole company"
+msgstr "Het volledig bedrijf"
+
+msgid "The whole brand"
+msgstr "Het volledig merk"
+
+msgid "Wrong number"
+msgstr "Verkeerd nummer"
+
+msgid "Padding"
+msgstr "Opvulling"
+
+msgid "Wrong e-mail or e-mail too heavy"
+msgstr "Verkeerde e-mail of e-mail te zwaar"
+
+msgid "Empty e-mail"
+msgstr "Lege e-mail"
+
+msgid "Wrong e-mail"
+msgstr "Verkeerde e-mail"
+
+msgid "Wrong spouse's e-mail"
+msgstr "Verkeerde e-mail van echtgenoot"
+
+msgid ""
+"Push the wireless link button to switch to the LAN mode. #wifi# must be "
+"operational."
+msgstr ""
+"Druk op de draadloze link knop om over te schakelen naar de lokale "
+"netwerkfunctie. De #wifi# moet ingeschakeld zijn."
+
+msgid "Starting from floor"
+msgstr "Begint van verdieping"
+
+msgid "No document available"
+msgstr "Geen document beschikbaar"
+
+msgid "Please report to our documentation."
+msgstr "Meld je bij onze documentatie."
+
+msgid "Your email server does not authorize us to send an email."
+msgstr ""
+"Uw e-mail server geeft ons geen toestemming om een e-mail te versturen."
+
+msgid "Not suggested"
+msgstr "Niet voorgesteld"
+
+msgid "Quick view"
+msgstr "Snelle weergave"
+
+msgid ""
+"This feature need the software WhatsApp Web. Before using this feature be "
+"sure to download and link your smartphone."
+msgstr ""
+"Voor deze functie is de software WhatsApp Web nodig. Download en koppel je "
+"smartphone voordat je deze functie gebruikt."
+
+msgid "Add a lead"
+msgstr "Een lead toevoegen"
+
+msgid "Configure"
+msgstr "Configureren"
+
+msgid "No event today"
+msgstr "Geen evenementen vandaag"
+
+msgid "Display the address"
+msgstr "Geef het adres weer"
+
+msgid "Display the contact"
+msgstr "Geef de contactpersoon weer"
+
+msgid "Display the contact details"
+msgstr "Toon de contactgegevens"
+
+msgid "Display the contact name"
+msgstr "Geef de naam van het contact weer"
+
+msgid "Read"
+msgstr "Lezen"
+
+msgid "Write"
+msgstr "Schrijven"
+
+msgid "Private details"
+msgstr "Privégegevens"
+
+msgid "Private documents"
+msgstr "Privé documenten"
+
+msgid "Public documents"
+msgstr "Openbare documenten"
+
+msgid "Order"
+msgstr "Opdracht"
+
+msgid "National"
+msgstr "Nationaal"
+
+msgid "Period"
+msgstr "Periode"
+
+msgid "Repair"
+msgstr "Reparatie"
+
+msgid "Complain"
+msgstr "Klacht"
+
+msgid "Reporting"
+msgstr "Rapportage"
+
+msgid "Moderator"
+msgstr "Moderator"
+
+msgid "%s guests"
+msgstr "%s gasten"
+
+msgid "%s guest"
+msgstr "%s gast"
+
+msgid "Referral"
+msgstr "Verwijzing"
+
+msgid "Referrals"
+msgstr "Verwijzingen"
+
+msgid "%s beds"
+msgstr "%s slaapplaatsen"
+
+msgid "%s bed"
+msgstr "%s slaapplaats"
+
+msgid "Old user"
+msgstr "Oude gebruiker"
+
+msgid "New user"
+msgstr "Nieuwe gebruiker"
+
+msgid "Apply on requests"
+msgstr "Toepassen op aanvragen"
+
+msgid "Apply on properties"
+msgstr "Toepassen op product"
+
+msgid "Forthcoming"
+msgstr "Komende"
+
+msgid "Past"
+msgstr "Verleden"
+
+msgid "Click here to join the webinar."
+msgstr "Klik hier om deel te nemen"
+
+msgid "You have an appointment in %hours% hour(s) and %minutes% minute(s)"
+msgstr "U heeft een afspraak in %hours% uur(s) en %minutes% minuut(pen)"
+
+msgid "Your training of %s"
+msgstr "Uw training van %s"
+
+msgid "(or)"
+msgstr "(of)"
+
+msgid "Grant access to the user or the contact"
+msgstr "Toegang verlenen aan de gebruiker of de contactpersoon"
+
+msgid "Improve the quality of some photos."
+msgstr "Verbeter de kwaliteit van sommige foto's."
+
+msgid "Click here to highlight them."
+msgstr "Klik hier om ze te markeren."
+
+msgid "Documentation"
+msgstr "Documentatie"
+
+msgid "Store"
+msgstr "Winkel"
+
+msgid "Cooling-off end at"
+msgstr "Einde afkoeling bij"
+
+msgid "Accuracy of appraisal"
+msgstr "Nauwkeurigheid van taxatie"
+
+msgid "Fees details"
+msgstr "Tariefgegevens"
+
+msgid "Funding"
+msgstr "Financiering"
+
+msgid "Personal contribution"
+msgstr "Persoonlijke bijdrage"
+
+msgid "Mortgage amount"
+msgstr "Hypotheekbedrag"
+
+msgid "Accepted at"
+msgstr "Geaccepteerd bij"
+
+msgid "Pre-fill"
+msgstr "Pre-vervulling"
+
+msgid "Contracted at"
+msgstr "Gecontracteerd bij"
+
+msgid "Records"
+msgstr "Records"
+
+msgid "Property valuation"
+msgstr "Taxatie onroerend goed"
+
+msgid "Selected properties"
+msgstr "Geselecteerd object"
+
+msgid "Conclusion"
+msgstr "Conclusie"
+
+msgid "Final opinion between"
+msgstr "Definitief advies tussen"
+
+msgid "Net annual rental"
+msgstr "Netto jaarlijkse huur"
+
+msgid "Average"
+msgstr "Gemiddelde"
+
+msgid "Selected year"
+msgstr "Geselecteerd jaar"
+
+msgid "Subscribers"
+msgstr "Abonnees"
+
+msgid "Signages"
+msgstr "Signalisatie"
+
+msgid "Keys"
+msgstr "Sleutels"
+
+msgid "Member of your network"
+msgstr "Lid van uw netwerk"
+
+msgid "Member of %s"
+msgstr "Lid van %s"
+
+msgid "Requests validated"
+msgstr "Verzoeken gevalideerd"
+
+msgid "No extranet access available"
+msgstr "Geen extranet beschikbaar"
+
+msgid "Incomplete requests"
+msgstr "Onvolledige verzoeken"
+
+msgid "You blocked this agency"
+msgstr "U heeft dit agentschap geblokkeerd"
+
+msgid "Updated"
+msgstr "Bijgewerkt"
+
+msgid "Updated by"
+msgstr "Bijgewerkt door"
+
+msgid "Created by"
+msgstr "Aangemaakt door"
+
+msgid "Session has expired"
+msgstr "Sessie is verlopen"
+
+msgid "You have reached the quota"
+msgstr "U heeft het quotum bereikt"
+
+msgid "%s bathroom"
+msgstr "%s badkamer"
+
+msgid "%s bathrooms"
+msgstr "%s badkamers"
+
+msgid "Force recording"
+msgstr "Forceer opname"
+
+msgid ""
+"You are using the quick form, to access all the fields please click on full "
+"form."
+msgstr ""
+"U gebruikt het snelle formulier, voor toegang tot alle velden klikt u op het"
+" volledige formulier."
+
+msgid "Delete the contact"
+msgstr "Verwijder het contact"
+
+msgid "Update my search criteria or unsubscribe me."
+msgstr "Mijn zoekcriteria bijwerken"
+
+msgid "All day"
+msgstr "De hele dag"
+
+msgid "Synchronized with %s"
+msgstr "Gesynchroniseerd met %s"
+
+msgid "Your time zone appears to be « %s », click here to update."
+msgstr "Uw tijdzone lijkt « %s » te zijn, klik hier om deze te wijzigen."
+
+msgid "Leasehold"
+msgstr "Erfpacht"
+
+msgid "Commonhold"
+msgstr "Gemeenschappelijk bezit"
+
+msgid "Share of freehold"
+msgstr "Aandeel in eigendom"
+
+msgid "Please click here"
+msgstr "Klik hier"
+
+msgid "Please complete the configuration"
+msgstr "Gelieve de configuratie in te vullen"
+
+msgid "Choose a calendar"
+msgstr "Kies een agenda"
+
+msgid "Synchronize your calendar."
+msgstr "Synchroniseer uw agenda."
+
+msgid "Send messages within your email account."
+msgstr "Stuur berichten via uw e-mailaccount."
+
+msgid "Manage your contacts."
+msgstr "Beheer uw contacten."
+
+msgid "Synchronized account"
+msgstr "Gesynchroniseerd account"
+
+msgid "Unlink"
+msgstr "Ontkoppel"
+
+msgid "To modify this appointment, you must first unlink it."
+msgstr "Om deze datum te wijzigen, moet u eerst de link verwijderen."
+
+msgid "Appointment shared with:"
+msgstr "Afspraak gedeeld met:"
+
+msgid "Old value"
+msgstr "Oude waarde"
+
+msgid "New value"
+msgstr "Nieuwe waarde"
+
+msgid "Subscribed"
+msgstr "Ingeschreven"
+
+msgid "Display my properties"
+msgstr "Mijn eigenschappen weergeven"
+
+msgid "Interface language"
+msgstr "Taal van de interface"
+
+msgid "Canceled at"
+msgstr "Geannuleerd bij"
+
+msgid "Please fill in a canceled date."
+msgstr "Gelieve een geannuleerde datum in te vullen."
+
+msgid "This username is already in use."
+msgstr "Deze gebruikersnaam is al in gebruik."
+
+msgid "Ordered at"
+msgstr "Besteld bij"
+
+msgid "Projects"
+msgstr "Projecten"
+
+msgid "Renovation cost"
+msgstr "Renovatiekosten"
+
+msgid "Inflation"
+msgstr "Inflatie"
+
+msgid "Reviews"
+msgstr "Beoordelingen"
+
+msgid "Option"
+msgstr "Optie"
+
+msgid "Check to accept"
+msgstr "Controle op acceptatie"
+
+msgid "Account creation"
+msgstr "Account aanmaken"
+
+msgid ""
+"Access to the %s solution requires the transmission of your information and "
+"the acceptance of the general conditions"
+msgstr ""
+"Toegang tot de %s oplossing vereist de overdracht van uw gegevens en de "
+"aanvaarding van de algemene voorwaarden"
+
+msgid "Read the personal data conditions"
+msgstr "Lees de voorwaarden voor persoonsgegevens"
+
+msgid "Read the terms and conditions"
+msgstr "Lees de algemene voorwaarden"
+
+msgid "Waiting for your confirmation"
+msgstr "Wachten op uw bevestiging"
+
+msgid "Suspended"
+msgstr "Opgeschort"
+
+msgid "Validations"
+msgstr "Validaties"
+
+msgid "Privacy policy"
+msgstr "Privacybeleid"
+
+msgid "Latest posts"
+msgstr "Laatste berichten"
+
+msgid "Renew"
+msgstr "Vernieuwen"
+
+msgid "Download the app"
+msgstr "Download de app"
+
+msgid ""
+"Setup the application on your smartphone and enjoy an optimized navigation "
+"for your mobile device."
+msgstr ""
+"Stel de applicatie in op uw smartphone en geniet van een geoptimaliseerde "
+"navigatie voor uw mobiele apparaat."
+
+msgid ""
+"Take advantage now of your software by using the credentials below. Be sure "
+"to keep this login details confidential and don't to change your password "
+"regularly."
+msgstr ""
+"Profiteer nu van uw software door de onderstaande inloggegevens te "
+"gebruiken. Houd deze inloggegevens vertrouwelijk en verander uw wachtwoord "
+"niet regelmatig."
+
+msgid "Watch our channel"
+msgstr "Bekijk ons kanaal"
+
+msgid "Discover the training videos on our Youtube channel."
+msgstr "Ontdek de trainingsvideo's op ons Youtube kanaal."
+
+msgid "Take part in our training"
+msgstr "Neem deel aan onze opleidingen"
+
+msgid ""
+"We regularly organize online or face-to-face training, register directly "
+"from the software (Menu Tools > Training)."
+msgstr ""
+"Wij organiseren regelmatig online of face-to-face opleidingen, direct vanuit"
+" de software inschrijven (menu Extra > Opleiding)."
+
+msgid "Please kindly fill out your agency profile."
+msgstr "Gelieve uw agentschapsprofiel in te vullen."
+
+msgid "Tripod"
+msgstr "Tripod"
+
+msgid "Round"
+msgstr "Rond"
+
+msgid "Floors"
+msgstr "Verdiepingen"
+
+msgid "You do not have enough credits to send the message."
+msgstr "Je hebt niet genoeg credits om het bericht te versturen."
+
+msgid ""
+"Please do not remove « {LINK} » value. We need this for the link to the "
+"property website."
+msgstr ""
+"Gelieve de waarde « {LINK} » niet te verwijderen. We hebben dit nodig voor "
+"de link naar de website van het pand."
+
+msgid "Minimum bid"
+msgstr "Minimum bod"
+
+msgid "Published"
+msgstr "Gepubliceerd"
+
+msgid "Archived"
+msgstr "Gearchiveerd"
+
+msgid "Sent for signature"
+msgstr "Verzonden voor ondertekening"
+
+msgid "Camera position"
+msgstr "Camerapositie"
+
+msgid "Capture"
+msgstr "Vastleggen"
+
+msgid "Add a new entry"
+msgstr "Nieuw item toevoegen"
+
+msgid "Monthly payment"
+msgstr "Maandelijkse betaling"
+
+msgid "Archives"
+msgstr "Archieven"
+
+msgid "Inbox"
+msgstr "Inbox"
+
+msgid "%value% is too long (%max_length% characters max)."
+msgstr "%value% is te lang (%max_length% tekens max)."
+
+msgid "My details"
+msgstr "Mijn gegevens"
+
+msgid "Software"
+msgstr "Software"
+
+msgid "Personal data deleted after a removal request form received."
+msgstr "Persoonsgegevens verwijderen"
+
+msgid "Received at %s"
+msgstr "Ontvangen bij %s"
+
+msgid "Lease assignments"
+msgstr "Verhuur opdrachten"
+
+msgid "Occupant"
+msgstr "Bewoner"
+
+msgid "Frequency"
+msgstr "Frequentie"
+
+msgid "Time slot"
+msgstr "Tijdslot"
+
+msgid "Rules"
+msgstr "Regels"
+
+msgid "Hourly"
+msgstr "Per uur"
+
+msgid "Daily"
+msgstr "Dagelijks"
+
+msgid "Weekly"
+msgstr "Wekelijks"
+
+msgid "Monthly"
+msgstr "Maandelijks"
+
+msgid "In order to duplicate the property, please type the security code %s"
+msgstr "Om het eigendom te dupliceren, voer de beveiligingscode %s"
+
+msgid ""
+"Please do not use the duplication to refresh your ad on the web portals."
+msgstr ""
+"Gelieve de duplicatie niet te gebruiken om uw advertentie op de webportalen "
+"te verversen."
+
+msgid ""
+"You can refresh an ad on the portals by using the incrementing system, "
+"available from the tab Exchange > Settings."
+msgstr ""
+"U kunt een advertentie op de portalen vernieuwen door gebruik te maken van "
+"het verhogingssysteem, beschikbaar via het tabblad Uitwisseling > "
+"Instellingen."
+
+msgid "Legal"
+msgstr "Wettelijk"
+
+msgid "Auction start at"
+msgstr "Veiling start op"
+
+msgid "Auction end at"
+msgstr "Einde veiling"
+
+msgid "My preferences"
+msgstr "Mijn voorkeuren"
+
+msgid "Preference"
+msgstr "Voorkeur"
+
+msgid "Public"
+msgstr "Publiek"
+
+msgid "Classic"
+msgstr "Klassiek"
+
+msgid "Modern"
+msgstr "Modern"
+
+msgid "Design"
+msgstr "Design"
+
+msgid "Server"
+msgstr "Server"
+
+msgid "We are closed"
+msgstr "Wij zijn gesloten"
+
+msgid "Appliance"
+msgstr "Toestel"
+
+msgid "Energy"
+msgstr "Energie"
+
+msgid "Automatic selection"
+msgstr "Automatische selectie"
+
+msgid "Non-holding of funds"
+msgstr "Het niet aanhouden van middelen"
+
+msgid "Sales agent"
+msgstr "Verkoopmakelaar"
+
+msgid ""
+"Do you want to use Cityscan on this property? This will consume a credit "
+"from your quota."
+msgstr "Wilt u Cityscan gebruiken?"
+
+msgid "Would you like to copy the owner's address into the property?"
+msgstr "Wilt u het adres van de eigenaar kopiëren in het onroerend-goed?"
+
+msgid "Pattern"
+msgstr "Patroon"
+
+msgid "Comment pattern"
+msgstr "Voorkomende patroon"
+
+msgid "View all news"
+msgstr "Bekijk volledig het nieuws"
+
+msgid ""
+"In order to verify your e-mail address, please specify this validation code "
+"valid for 15 minutes:"
+msgstr ""
+"Om uw e-mailadres te verifiëren, gelieve deze validatiecode gedurende 15 "
+"minuten in te vullen:"
+
+msgid "Account validation for %s"
+msgstr "Account validatie voor %s"
+
+msgid ""
+"We have just sent you an e-mail with a code valid for 15 minutes, please "
+"specify it to authenticate your account."
+msgstr ""
+"We hebben u zojuist een e-mail gestuurd met een code die 15 minuten geldig "
+"is, geef deze code op om uw account te verifiëren."
+
+msgid ""
+"Other accounts use your e-mail %s, you should use your own e-mail address."
+msgstr ""
+"Andere accounts gebruiken uw e-mail %s, u moet uw eigen e-mailadres "
+"gebruiken."
+
+msgid ""
+"Your e-mail address %s is already used by another account, please choose a "
+"different address."
+msgstr ""
+"Uw e-mailadres %s wordt al gebruikt door een andere account, kies een ander "
+"adres."
+
+msgid "Please kindly confirm your e-mail address %s."
+msgstr "Gelieve uw e-mailadres %s te bevestigen."
+
+msgid "For security reasons, we need to confirm your details below."
+msgstr "Om veiligheidsredenen moeten wij uw gegevens hieronder bevestigen."
+
+msgid "Credits"
+msgstr "Kredieten"
+
+msgid "Opened at"
+msgstr "Geopend op"
+
+msgid "Yesterday"
+msgstr "Gisteren"
+
+msgid "Tomorrow"
+msgstr "Morgen"
+
+msgid "Icons"
+msgstr "Pictogrammen"
+
+msgid "Additional address"
+msgstr "Extra adres"
+
+msgid "Included"
+msgstr "Inbegrepen"
+
+msgid "Procedure"
+msgstr "Procedure"
+
+msgid "Procedure reference"
+msgstr "Referentie procedure"
+
+msgid "Procedure start at"
+msgstr "Procedure starten bij"
+
+msgid "Procedure end at"
+msgstr "Procedure einde om"
+
+msgid "Base rent"
+msgstr "Basishuur"
+
+msgid "Zone subject to rent control"
+msgstr "Zone onderworpen aan huurcontrole"
+
+msgid "Delete your appointments"
+msgstr "Verwijder uw afspraken"
+
+msgid "Would you like to transfer the data to an active user?"
+msgstr "Wilt u de gegevens overbrengen naar een actieve gebruiker?"
+
+msgid "No transfer active"
+msgstr "Geen actieve transfers"
+
+msgid "Broadcast report"
+msgstr "Broadcast report"
+
+msgid "Unit of measure"
+msgstr "Meeteenheid"
+
+msgid "Checkbox"
+msgstr "Checkbox"
+
+msgid "Numeric"
+msgstr "Numeriek"
+
+msgid "Electronic signature"
+msgstr "Elektronische handtekening"
+
+msgid "Signature with identity check"
+msgstr "Handtekening met identiteitscontrole"
+
+msgid "Signature with SMS check"
+msgstr "Handtekening met sms-controle"
+
+msgid "Start"
+msgstr "Start"
+
+msgid "Up"
+msgstr "Omhoog"
+
+msgid "Down"
+msgstr "Beneden"
+
+msgid "Toilet"
+msgstr "Toilet"
+
+msgid "Your account has a debit balance"
+msgstr "Uw rekening heeft een debetsaldo"
+
+msgid "We have received your request and will get back to you."
+msgstr "Wij hebben uw verzoek ontvangen en nemen contact met u op."
+
+msgid "%s new lead(s)"
+msgstr "%s nieuwe lead(s)"
+
+msgid "Trust this device and skip verification at each connection."
+msgstr "Vertrouw dit apparaat en sla de verificatie bij elke verbinding over."
+
+msgid ""
+"For security reasons, each time you log in on a new device, we will send a "
+"verification code to your phone or email address."
+msgstr ""
+"Om veiligheidsredenen sturen we elke keer dat u inlogt op een nieuw apparaat"
+" een verificatiecode naar uw telefoon of e-mailadres."
+
+msgid "Security check"
+msgstr "Veiligheidscontrole"
+
+msgid "Web browser"
+msgstr "Webbrowser"
+
+msgid "Trusted"
+msgstr "Vertrouwd"
+
+msgid "Devices"
+msgstr "Apparaten"
+
+msgid ""
+"The password is not enough complex, minimum 8 characters, at least one "
+"uppercase, one lowercase, one number and one special character."
+msgstr ""
+"Het wachtwoord is niet complex genoeg, minimaal 8 tekens, minstens één "
+"hoofdletter, één kleine letter, één cijfer en één speciaal teken."
+
+msgid "Rental period"
+msgstr "Huurperiode"
+
+msgid "Click here to reset your password."
+msgstr "Klik hier om uw wachtwoord opnieuw in te stellen."
+
+msgid "Duplicates"
+msgstr "Duplicaten"
+
+msgid "Cleaning"
+msgstr "Schoonmaak"
+
+msgid "Main"
+msgstr "Voornaamste"
+
+msgid "Merge"
+msgstr "Samenvoegen"
+
+msgid "Translation is not available for this language"
+msgstr "Deze vertaling is niet beschikbaar voor deze taal"
+
+msgid "Source comment is empty"
+msgstr "De bron is leeg"
+
+msgid "Target comment is not empty"
+msgstr "De titel is leeg"
+
+msgid "Source language"
+msgstr "Brontaal"
+
+msgid "You will consume %s characters"
+msgstr "U gebruikt %s tekens"
+
+msgid "Remaining monthly quota %s characters"
+msgstr "Resterende maandelijkse quota %s tekens"
+
+msgid "Translate"
+msgstr "Vertalen"
+
+msgid "Insufficient quota remaining"
+msgstr "Onvoldoende quotum over"
+
+msgid "Timeline"
+msgstr "Tijdlijn"
+
+msgid "Outgoing action"
+msgstr "Uitgaande actie"
+
+msgid "Help"
+msgstr "Help"
+
+msgid "Heating device"
+msgstr "Verwarmingstoestel"
+
+msgid "Heating access"
+msgstr "Toegang verwarming"
+
+msgid "Heating type"
+msgstr "Type verwarming"
+
+msgid "Hot water access"
+msgstr "Toegang warm water"
+
+msgid "Hot water device"
+msgstr "Warmwatertoestel"
+
+msgid "Message not sent"
+msgstr "Bericht niet verzonden"
+
+msgid "Payment proof"
+msgstr "Betalingsbewijs"
+
+msgid "Sorry, you do not have administrator rights!"
+msgstr "Sorry, u heeft geen beheerdersrechten!"
+
+msgid "Unauthorized access"
+msgstr "Ongeautoriseerde toegang"
+
+msgid ""
+"Information on the risks to which this property is exposed is available on "
+"the Georisques website: www.georisques.gouv.fr"
+msgstr ""
+"Informatie over de risico's waaraan dit object is blootgesteld, is "
+"beschikbaar op de website van Georisques: www.georisques.gouv.fr"
+
+msgid "The requested content cannot be loaded. Please try again later."
+msgstr ""
+"De opgevraagde inhoud kan niet worden geladen. Probeer het later nog eens"
+
+msgid "Your file is larger than the maximum allowed of %s."
+msgstr "Uw bestand is groter dan het toegestane maximum van %s."
+
+msgid "Show pagination"
+msgstr "Paginaweergave"
+
+msgid "Mandatory fields"
+msgstr "Verplichte velden"
+
+msgid "%s succesfully downloaded"
+msgstr "%s document is gedownload"
+
+msgid "%s document(s) couldn't be deleted"
+msgstr "%s document(en) zijn niet verwijderd"
+
+msgid "%s photo(s) uploaded"
+msgstr "%s foto('s) geïmporteerd"
+
+msgid "Access the gallery"
+msgstr "Ga naar de galerij"
+
+msgid "Activate biometric authentication?"
+msgstr "Biometrische verificatie activeren?"
+
+msgid "Activate the extranet access"
+msgstr "Extranet activeren"
+
+msgid "Activate Ricoh Theta's wireless connection"
+msgstr "De draadloze Ricoh Theta-koppeling activeren"
+
+msgid "Add a comment"
+msgstr "Commentaar toevoegen"
+
+msgid "Add an account"
+msgstr "Een account toevoegen"
+
+msgid "Add a contact"
+msgstr "Een contactpersoon toevoegen"
+
+msgid "Add a similar contact"
+msgstr "Een soortgelijk contact toevoegen"
+
+msgid "Add an event"
+msgstr "Een gebeurtenis toevoegen"
+
+msgid "Add a history"
+msgstr "Een geschiedenis toevoegen"
+
+msgid "Add a guest"
+msgstr "Een gast toevoegen"
+
+msgid "Add a property"
+msgstr "Een product toevoegen"
+
+msgid "Add an owner"
+msgstr "Een eigenaar toevoegen"
+
+msgid "Add another contact"
+msgstr "Een tweede contactpersoon toevoegen"
+
+msgid "Add an area"
+msgstr "Een oppervlak toevoegen"
+
+msgid "Turn the device on"
+msgstr "Schakel het apparaat in"
+
+msgid "Apimo"
+msgstr "Apimo"
+
+msgid "Appearance"
+msgstr "Verschijnen"
+
+msgid "Assigned on"
+msgstr "Wijs de"
+
+msgid "Associate a similar contact"
+msgstr "Een soortgelijk contact toewijzen"
+
+msgid "Please make sure that your phone's wifi connection is active"
+msgstr "Zorg ervoor dat het wifi-netwerk van je telefoon geactiveerd is"
+
+msgid "Please make sure to be connected on Theta's wifi network"
+msgstr "Zorg ervoor dat je verbonden bent met het wifi-netwerk van de Theta"
+
+msgid ""
+"Please note that by using this field, your message draft will be deleted."
+msgstr ""
+"Waarschuwing: als u dit veld gebruikt, gaan alle wijzigingen in uw bericht "
+"verloren."
+
+msgid "No browsed properties"
+msgstr "Geen product geraadpleegd"
+
+msgid "No property found"
+msgstr "Geen producten gevonden"
+
+msgid "More fields"
+msgstr "Andere velden"
+
+msgid "More filters"
+msgstr "Andere filters"
+
+msgid "More media"
+msgstr "Andere media"
+
+msgid "Recently browsed properties"
+msgstr "Recent bekeken eigendommen"
+
+msgid "Welcome to Apimo"
+msgstr "Welkom bij Apimo"
+
+msgid "No news today"
+msgstr "Geen nieuws vandaag"
+
+msgid "This account has already been saved"
+msgstr "Deze account is al geregistreerd"
+
+msgid "This is not my account"
+msgstr "Dit is niet mijn account"
+
+msgid "This Theta version is too old and not supported by the application"
+msgstr ""
+"Deze versie van Theta is te oud en wordt niet ondersteund door de applicatie"
+
+msgid "Load more images"
+msgstr "Meer afbeeldingen laden"
+
+msgid "Select the status"
+msgstr "Kies status"
+
+msgid "Select an origin"
+msgstr "Kies oorsprong"
+
+msgid "Select the category"
+msgstr "Kies categorie"
+
+msgid "Select the spoken language"
+msgstr "Kies de gesproken taal"
+
+msgid "Select the nationality"
+msgstr "Kies nationaliteit"
+
+msgid "Select the address"
+msgstr "Kies woonplaats"
+
+msgid "Select the agreement"
+msgstr "Kies mandaat"
+
+msgid "Select the country"
+msgstr "Kies land"
+
+msgid "Select the standing"
+msgstr "Kies de status"
+
+msgid "Select the type"
+msgstr "Kies type"
+
+msgid "Select a date type"
+msgstr "Kies type datum"
+
+msgid "Select the direction type"
+msgstr "Kies het type richting"
+
+msgid "Select the view type"
+msgstr "Kies het type weergave"
+
+msgid "Select activity(ies)"
+msgstr "Kies de activiteit(en)"
+
+msgid "Select tag(s)"
+msgstr "Kies de eigenschap(pen)"
+
+msgid "Select category(ies)"
+msgstr "Kies categorie(ën)"
+
+msgid "Select condition(s)"
+msgstr "Kies status(sen)"
+
+msgid "Select agreement(s)"
+msgstr "Kies mandaat (mandaten)"
+
+msgid "Select service(s)"
+msgstr "Kies de dienst(en)"
+
+msgid "Select proximity(ies)"
+msgstr "Kies nabijheid(en)"
+
+msgid "Select standing(s)"
+msgstr "Kies status(s)"
+
+msgid "Select status(es)"
+msgstr "Kies de status(sen)"
+
+msgid "Select type(s)"
+msgstr "Kies type(n)"
+
+msgid "Select property type(s)"
+msgstr "Kies het type woning"
+
+msgid "Select area type(s)"
+msgstr "Kies het type kamer(s)"
+
+msgid "Select a contact method"
+msgstr "Kies een contactpersoon"
+
+msgid "Select a country"
+msgstr "Kies een land"
+
+msgid "Select a type*"
+msgstr "Kies een type*"
+
+msgid "Select a user"
+msgstr "Kies een gebruiker"
+
+msgid "Select an address"
+msgstr "Kies een adres"
+
+msgid "Select an agency"
+msgstr "Kies een kantoor"
+
+msgid "Select a category"
+msgstr "Kies een categorie"
+
+msgid "Select a title"
+msgstr "Kies een titel"
+
+msgid "Select a language"
+msgstr "Kies een taal"
+
+msgid "Select a specific origin"
+msgstr "Kies een precieze herkomst"
+
+msgid "Select an area"
+msgstr "Kies een kamer"
+
+msgid "Select a subcategory"
+msgstr "Kies een subcategorie"
+
+msgid "Select a subtype"
+msgstr "Kies een subtype"
+
+msgid "Choose a date"
+msgstr "Kies een datum"
+
+msgid "Choose an hour"
+msgstr "Kies een tijd"
+
+msgid "Choose a starting hour"
+msgstr "Kies een begintijd"
+
+msgid "Choose an ending hour"
+msgstr "Kies een eindtijd"
+
+msgid "No reminders today"
+msgstr "Geen melding vandaag"
+
+msgid "Telephone code"
+msgstr "Telefoon code"
+
+msgid "Comment (owner)"
+msgstr "Opmerking (eigenaar)"
+
+msgid "Compare"
+msgstr "Vergelijk"
+
+msgid "Additional"
+msgstr "Aanvullende"
+
+msgid "Connect to the wifi entering the serial number"
+msgstr "Maak verbinding met wifi door het serienummer in te voeren"
+
+msgid "Theta connection failed"
+msgstr "Kan geen verbinding maken met Theta"
+
+msgid "Connecting..."
+msgstr "Verbinding wordt gemaakt ..."
+
+msgid "Wifi connection failed"
+msgstr "Kan geen verbinding maken met wifi"
+
+msgid "Successful connection"
+msgstr "Verbinding geslaagd"
+
+msgid "Keep"
+msgstr "Bewaren"
+
+msgid "Additional contact(s)"
+msgstr "extra contact(en)"
+
+msgid "Contacts (%s)"
+msgstr "Contacten (%s)"
+
+msgid "Contacts/Tenants"
+msgstr "Contacten/Bewoners"
+
+msgid "Contact details"
+msgstr "Contactgegevens"
+
+msgid "Copied to the clipboard!"
+msgstr "Gekopieerd naar het klembord!"
+
+msgid "Creator"
+msgstr "Maker"
+
+msgid "Create"
+msgstr "Maken"
+
+msgid "Create a contact"
+msgstr "Een contactpersoon maken"
+
+msgid "Create an event"
+msgstr "Een gebeurtenis maken"
+
+msgid "Create a history"
+msgstr "Een geschiedenis maken"
+
+msgid "Create a new contact"
+msgstr "Een nieuw contact maken"
+
+msgid "Create a reminder"
+msgstr "Een rappel aanmaken"
+
+msgid "Create an appointment"
+msgstr "Een afspraak maken"
+
+msgid "Create a virtual tour with panoramic photos"
+msgstr "Een virtueel bezoek met 360°-weergave creëren"
+
+msgid "Create a request"
+msgstr "Een aanvraag aanmaken"
+
+msgid "Received criteria"
+msgstr "Ontvangen criteria"
+
+msgid "Starting date"
+msgstr "Startdatum"
+
+msgid "Ending date"
+msgstr "Einddatum"
+
+msgid "Associated request"
+msgstr "Gekoppeld verzoek"
+
+msgid "Received request"
+msgstr "Ontvangen verzoek"
+
+msgid "Last update on"
+msgstr "Laatste synchronisatie op"
+
+msgid "Deactivate the extranet"
+msgstr "Extranet deactiveren"
+
+msgid "This contact has no history"
+msgstr "Dit contact heeft geen geschiedenis"
+
+msgid "Home"
+msgstr "Home"
+
+msgid "E-mailing"
+msgstr "E-mailing"
+
+msgid "Text editor"
+msgstr "Teksteditor"
+
+msgid "History editing"
+msgstr "Historiek bewerken"
+
+msgid "Media editing"
+msgstr "Media bewerken"
+
+msgid "Photo editing"
+msgstr "Foto bewerken"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "Invalid email address"
+msgstr "Ongeldige e-mail"
+
+msgid "This contact has no extranet access"
+msgstr "Dit contact heeft geen extranet toegang"
+
+msgid "Are you sure you want to delete this profile?"
+msgstr "Weet je zeker dat je dit profiel wilt verwijderen?"
+
+msgid "Are you sure you want to delete the document(s)?"
+msgstr "Weet je zeker dat je dit document wilt verwijderen?"
+
+msgid "Filter contacts"
+msgstr "Contacten filteren"
+
+msgid "Filter by"
+msgstr "Filter op"
+
+msgid "End"
+msgstr "Einde"
+
+msgid "Landline"
+msgstr "Vast"
+
+msgid "Manage profiles"
+msgstr "Profielen beheren"
+
+msgid "Property group"
+msgstr "Productgroep"
+
+msgid "Starting and ending hour"
+msgstr "Starttijd en eindtijd"
+
+msgid "Image is being transferred"
+msgstr "Afbeelding wordt overgezet"
+
+msgid "Import"
+msgstr "importeren"
+
+msgid "Joint ownership"
+msgstr "Onverdeeldheid / erfenis"
+
+msgid "Biometric authentication is disabled while sharing the device"
+msgstr "Biometrie is gedeactiveerd bij multi-accounts"
+
+msgid "Languages"
+msgstr "Talen"
+
+msgid ""
+"Ricoh Theta's serial number is under the device, either right or left of the"
+" attachment point."
+msgstr ""
+"Het serienummer van de Ricoh Theta bevindt zich aan de onderkant van de "
+"camera. Links of rechts van het bevestigingspunt."
+
+msgid "%s downloading failed!"
+msgstr "Downloaden van %s mislukt!"
+
+msgid "E-mail(s) successfully sent"
+msgstr "De e-mail(s) zijn verzonden."
+
+msgid "Media link"
+msgstr "Link naar media"
+
+msgid "Associate with another account"
+msgstr "Koppeling met een ander account"
+
+msgid "Link a contact"
+msgstr "Een contact koppelen"
+
+msgid "Put me in copy"
+msgstr "Voeg mij toe als kopie"
+
+msgid "Please enter your safety code"
+msgstr "Kies uw beveiligingscode"
+
+msgid "Memory full"
+msgstr "Geheugen vol"
+
+msgid "My favorites"
+msgstr "Mijn favorieten"
+
+msgid "My documents (%s)"
+msgstr "Mijn documenten (%s)"
+
+msgid "Measure"
+msgstr "Maatregel"
+
+msgid "Edit contact"
+msgstr "Contact wijzigen"
+
+msgid "Edit event"
+msgstr "Een gebeurtenis wijzigen"
+
+msgid "Less fields"
+msgstr "Minder velden"
+
+msgid "My selection"
+msgstr "Mijn portfolio"
+
+msgid "Ricoh Theta's password"
+msgstr "Ricoh Theta wachtwoord"
+
+msgid "Wrong username or password"
+msgstr "Onjuiste naam of wachtwoord"
+
+msgid "Please confirm your safety code"
+msgstr "Bevestig je beveiligingscode"
+
+msgid "No"
+msgstr "Geen"
+
+msgid "Not documented"
+msgstr "Niet ingevuld"
+
+msgid "We couldn't find any associated residence"
+msgstr "We hebben geen bijbehorende woning gevonden"
+
+msgid "New contact"
+msgstr "Nieuw contact"
+
+msgid "New attempt"
+msgstr "Nieuwe poging"
+
+msgid "Invalid mobile number"
+msgstr "Ongeldig mobiel nummer"
+
+msgid "Serial number"
+msgstr "Serienummer"
+
+msgid "Ok"
+msgstr "Ok"
+
+msgid "Connection options"
+msgstr "Verbindingsoptie"
+
+msgid "Property options"
+msgstr "Product optie"
+
+msgid "Yes"
+msgstr "Ja"
+
+msgid "Open my wifi settings"
+msgstr "Mijn wifi-instellingen openen"
+
+msgid "Cart (%s)"
+msgstr "Winkelmandje (%s)"
+
+msgid "Not now"
+msgstr "Nu niet"
+
+msgid "Please wait while the connection is being established"
+msgstr "Wacht even, de verbinding met het apparaat is bezig"
+
+msgid "photo(s)"
+msgstr "foto('s)"
+
+msgid "Photos and panoramic photos"
+msgstr "Foto's en 360°-weergave"
+
+msgid "Connect to a Ricoh Theta"
+msgstr "Verbinding maken met een Ricoh Theta"
+
+msgid "Settings and additional preferences"
+msgstr "Voorkeuren en aanvullende criteria"
+
+msgid "Take a photo"
+msgstr "Een foto maken"
+
+msgid "additional property(ies)"
+msgstr "extra product(en)"
+
+msgid "Publish on the homepage"
+msgstr "Publiceren op homepage"
+
+msgid "Who is this?"
+msgstr "Wie is deze persoon?"
+
+msgid "Advanced search"
+msgstr "Geavanceerd zoeken"
+
+msgid "Find an address"
+msgstr "Een adres zoeken"
+
+msgid "Find a contact"
+msgstr "En contact zoeken"
+
+msgid "Find a category"
+msgstr "Een categorie zoeken"
+
+msgid "Ref:"
+msgstr "Ref:"
+
+msgid "Ref: %s"
+msgstr "Ref: %s"
+
+msgid "Referrer"
+msgstr "Verwijzend"
+
+msgid "Reorder"
+msgstr "Opnieuw bestellen"
+
+msgid "Enter your safety code"
+msgstr "Voer uw beveiligingscode in"
+
+msgid "Add a recipient"
+msgstr "Een ontvanger toevoegen"
+
+msgid "Add the subject matter"
+msgstr "Onderwerp invoeren"
+
+msgid "Add the message subject matter"
+msgstr "Voer het onderwerp van het bericht in"
+
+msgid "Add your comment"
+msgstr "Voer uw commentaar in"
+
+msgid "Add your message"
+msgstr "Voer uw bericht in"
+
+msgid "Screenless"
+msgstr "Geen scherm"
+
+msgid "Connect"
+msgstr "Aanmelden"
+
+msgid "Connect to the extranet"
+msgstr "Log in op het extranet"
+
+msgid "Connect to the Ricoh Theta"
+msgstr "Verbinding maken met Ricoh Theta"
+
+msgid "Second contact"
+msgstr "Tweede contact"
+
+msgid "Choose photos"
+msgstr "Foto's selecteren"
+
+msgid ""
+"Choose your Ricoh Theta's connection from the wifi networks list and enter "
+"the password."
+msgstr ""
+"Selecteer het verbindingspunt van je Ricoh Theta in de lijst met wifi-"
+"netwerken en voer het wachtwoord in."
+
+msgid "Do you want to carry on shooting?"
+msgstr "Wilt u doorgaan met fotograferen"
+
+msgid "Do you want to delete this associated contact?"
+msgstr "Wilt u dit gekoppelde contact verwijderen?"
+
+msgid "You have made too many attempts"
+msgstr "Je hebt te veel pogingen gedaan"
+
+msgid "Delete the account(s) you want"
+msgstr "Verwijder de gewenste account(s)"
+
+msgid ""
+"Delete some from the account managing panel to be able to create new "
+"accounts"
+msgstr "Verwijder ze via profielbeheer om nieuwe toe te voegen"
+
+msgid "Touchscreen"
+msgstr "Touch screen"
+
+msgid "You've got no contacts"
+msgstr "Je hebt geen contacten"
+
+msgid "All properties"
+msgstr "Alle producten"
+
+msgid "All leads"
+msgstr "Alle prospects"
+
+msgid "Delete all"
+msgstr "Alles verwijderen"
+
+msgid "All requests"
+msgstr "Alle aanvragen"
+
+msgid "Property type"
+msgstr "Type woning"
+
+msgid "Area type"
+msgstr "Type kamer"
+
+msgid "View type"
+msgstr "Type uitzicht"
+
+msgid "You've got no properties"
+msgstr "Je hebt geen producten"
+
+msgid "An error occurred!"
+msgstr "Er is een fout opgetreden!"
+
+msgid "An error occurred while reopening/closing the reminder"
+msgstr "Er is een fout opgetreden bij het (de)sluiten van de rappel"
+
+msgid "An error occurred while adding the media"
+msgstr "Er is een fout opgetreden bij het toevoegen van media"
+
+msgid "An error occurred while updating the photo order"
+msgstr ""
+"Er is een fout opgetreden bij het bijwerken van de volgorde van de "
+"afbeeldingen"
+
+msgid "An error occurred while publishing the photo"
+msgstr "Er is een fout opgetreden bij het publiceren van de foto"
+
+msgid "An error occurred while deleting the photo"
+msgstr "Er is een fout opgetreden bij het verwijderen van de foto"
+
+msgid "An error occurred while deleting the media"
+msgstr "Er is een fout opgetreden bij het verwijderen van media"
+
+msgid "An error occurred while sending your email. Please try again later."
+msgstr ""
+"Er is een fout opgetreden bij het verzenden van uw e-mail. Probeer het later"
+" nog eens."
+
+msgid "An error occurred, no record could be added!"
+msgstr ""
+"Er is een fout opgetreden, de geschiedenis kon niet worden toegevoegd!"
+
+msgid "An error occurred, record couldn't be updated!"
+msgstr ""
+"Er is een fout opgetreden, de geschiedenis kon niet worden bijgewerkt!"
+
+msgid "An error occurred, record couldn't be deleted!"
+msgstr ""
+"Er is een fout opgetreden, de geschiedenis kon niet worden verwijderd!"
+
+msgid "An error occurred, the contact couldn't be updated!"
+msgstr "Er is een fout opgetreden, het contact kon niet worden bijgewerkt!"
+
+msgid "An error occurred, the property couldn't be updated!"
+msgstr "Er is een fout opgetreden, het product kon niet worden bijgewerkt!"
+
+msgid "An error occurred, the lead couldn't be updated!"
+msgstr "Er is een fout opgetreden, de prospect kon niet worden bijgewerkt!"
+
+msgid "An unknown error occurred, please contact the technical support."
+msgstr ""
+"Er is een onbekende fout opgetreden, neem contact op met de technische "
+"ondersteuning."
+
+msgid "Use the password"
+msgstr "Gebruik het wachtwoord"
+
+msgid "Version"
+msgstr "Versie"
+
+msgid "Theta's version is too old"
+msgstr "Theta-versie te oud"
+
+msgid "video(s)"
+msgstr "video('s)"
+
+msgid "Display the results"
+msgstr "Resultaten bekijken"
+
+msgid "Display everything"
+msgstr "Alles bekijken"
+
+msgid "Your room types"
+msgstr "Jouw type onderdelen"
+
+msgid "Your category"
+msgstr "Jouw categorie"
+
+msgid "Your status"
+msgstr "Jouw fase"
+
+msgid "Your type"
+msgstr "Jouw type"
+
+msgid "Maximum number of profiles reached"
+msgstr "Je hebt het maximum aantal profielen bereikt"
+
+msgid "Maximum number of failed connection attempts reached"
+msgstr "Je hebt het toegestane aantal mislukte pogingen overschreden."
+
+msgid "Direction view"
+msgstr "Richting bekijken"
+
+msgid "Panoramic view"
+msgstr "360°-weergave(s)"
+
+msgid "Linked project"
+msgstr "Gelinkd programma"
+
+msgid "We couldn't find any agencies"
+msgstr "We hebben geen agentschappen gevonden"
+
+msgid "We couldn't find any events"
+msgstr "We konden geen evenementen terugvinden"
+
+msgid "We couldn't find any users"
+msgstr "We hebben geen gebruikers gevonden"
+
+msgid "We couldn't find any similar contacts"
+msgstr "We hebben geen vergelijkbare contactpersonen gevonden"
+
+msgid "We couldn't find any contacts/tenants"
+msgstr "We hebben geen contactpersonen/bewoners gevonden"
+
+msgid "We couldn't find any matches"
+msgstr "We hebben geen match gevonden"
+
+msgid "We couldn't find any requests"
+msgstr "We hebben geen verzoeken gevonden"
+
+msgid "We couldn't find any documents"
+msgstr "We hebben geen documenten gevonden"
+
+msgid "We couldn't find any logs"
+msgstr "We hebben geen logs gevonden"
+
+msgid "We couldn't find any updates"
+msgstr "We hebben geen updates gevonden"
+
+msgid "We couldn't find any properties"
+msgstr "We hebben geen objecten gevonden"
+
+msgid "We couldn't find any leads"
+msgstr "We hebben geen leads gevonden"
+
+msgid "We couldn't find any reminders"
+msgstr "We hebben geen herinneringen gevonden"
+
+msgid "We couldn't find any residences"
+msgstr "We hebben geen residenties gevonden"
+
+msgid "Do you want to delete this media?"
+msgstr "Wilt u deze media verwijderen?"
+
+msgid "Do you want to delete this photo?"
+msgstr "Wilt u deze foto verwijderen?"
+
+msgid "Do you want to delete the cart content?"
+msgstr "Weet je zeker dat je de hele inhoud van het mandje wilt verwijderen?"
+
+msgid "Validate"
+msgstr "Bevestigen"
+
+msgid "Add a media"
+msgstr "Media toevoegen"
+
+msgid "Back to the old version"
+msgstr "Terug naar de oude versie"
+
+msgid "Stay connected"
+msgstr "In verbinding blijven"
+
+msgid "Your phone is not secure"
+msgstr "Je telefoon is niet beveiligd"
+
+msgid "Available soon"
+msgstr "Weldra beschikbaar"
+
+msgid "Connect to another account"
+msgstr "Verbinding maken met een ander account"
+
+msgid ""
+"You do not have a Facebook Professional Page, to create one please refer to "
+"this documentation."
+msgstr ""
+"Je hebt geen Facebook Professional Page, raadpleeg deze documentatie om er "
+"een te maken"
+
+msgid ""
+"Some images are not eligible, the requirement is a ratio between 1.91:1 and "
+"5:4 and also a size with a minimum of 640px."
+msgstr ""
+"Sommige afbeeldingen komen niet in aanmerking, de vereiste is een verhouding"
+" tussen 1,91:1 en 5:4 en ook een grootte met een minimum van 640px."
+
+msgid "Task"
+msgstr "Taak"
+
+msgid "Tasks"
+msgstr "Taken"
+
+msgid "HD Photo"
+msgstr "HD foto"
+
+msgid "Automatic mode"
+msgstr "Automatische modus"
+
+msgid "Light mode"
+msgstr "Lichtmodus"
+
+msgid "Dark mode"
+msgstr "Donkere modus"
+
+msgid "The application recovers your device's default appearance"
+msgstr "De applicatie herstelt het standaarduiterlijk van uw apparaat"
+
+msgid "More"
+msgstr "Meer"
+
+msgid "Add a note"
+msgstr "Een opmerking toevoegen"
+
+msgid "Add a regulation"
+msgstr "Een regelgeving toevoegen"
+
+msgid "Contract end at"
+msgstr "Contract eindigt op"
+
+msgid "Incomplete"
+msgstr "Onvolledig"
+
+msgid "Required application"
+msgstr "Verplichte toepassing"
+
+msgid "Export to my contacts"
+msgstr "Exporteren naar mijn contacten"
+
+msgid "Send by WhatsApp"
+msgstr "Verzenden via WhatsApp"
+
+msgid "The selected contact does not have a cell phone"
+msgstr "De geselecteerde contactpersoon heeft geen mobiele telefoon"
+
+msgid "None of the selected contacts has an email address"
+msgstr "Geen van de geselecteerde contactpersonen heeft een e-mailadres"
+
+msgid "Open"
+msgstr "Open"
+
+msgid "Sort"
+msgstr "Sorteren"
+
+msgid "Discover the new version of your real estate application"
+msgstr "Ontdek de nieuwe versie van uw vastgoedtoepassing"
+
+msgid "I already have an account"
+msgstr "Ik heb al een account"
+
+msgid "Update available"
+msgstr "Update beschikbaar"
+
+msgid "Update required"
+msgstr "Update vereist"
+
+msgid ""
+"A new version of the application is available. Please update to continue "
+"using all features. You can skip the update again %s times."
+msgstr ""
+"Er is een nieuwe versie van de applicatie beschikbaar. Werk bij om alle "
+"functies te kunnen blijven gebruiken. U kunt de update opnieuw %s keer "
+"overslaan."
+
+msgid ""
+"A new version of the application is required. Please update to continue "
+"using all features."
+msgstr ""
+"Een nieuwe versie van de toepassing is vereist. Werk bij om alle functies te"
+" kunnen blijven gebruiken."
+
+msgid "Skip"
+msgstr "Sla  over"
+
+msgid "Continue"
+msgstr "Ga verder"
+
+msgid "Sort and search"
+msgstr "Sorteren en zoeken"
+
+msgid ""
+"Quickly find the product that matches your criteria and optimize your "
+"property management."
+msgstr ""
+"Vind snel het product dat aan uw criteria voldoet en optimaliseer uw "
+"vastgoedbeheer."
+
+msgid "Offline mode"
+msgstr "Offline modus"
+
+msgid ""
+"Keep working, even without an Internet connection. Apimo is designed to be "
+"accessible wherever you are."
+msgstr ""
+"Blijf werken, zelfs zonder internetverbinding. Apimo is ontworpen om "
+"toegankelijk te zijn waar je ook bent."
+
+msgid "Activate notifications"
+msgstr "Activeer meldingen"
+
+msgid "Receive notifications of your listings and important property events."
+msgstr ""
+"Ontvang meldingen over uw aanbiedingen en belangrijke "
+"vastgoedgebeurtenissen."
+
+msgid "Manage notifications"
+msgstr "Beheer meldingen"
+
+msgid "Allow Apimo to send you notifications?"
+msgstr "Toestaan dat Apimo je meldingen stuurt?"
+
+msgid ""
+"Notifications can include alerts, sounds and icon icons. You can configure "
+"them in Settings."
+msgstr ""
+"Meldingen kunnen waarschuwingen, geluiden en pictogrammen bevatten. U kunt "
+"ze configureren in Instellingen."
+
+msgid "You are now ready to use Apimo"
+msgstr "Je bent nu klaar om Apimo te gebruiken"
+
+msgid ""
+"If you encounter any difficulties, please don't hesitate to contact us. Your"
+" feedback is essential to improve the application."
+msgstr ""
+"Als u problemen ondervindt, aarzel dan niet om contact met ons op te nemen. "
+"Uw feedback is essentieel om de applicatie te verbeteren."
+
+msgid "Retake"
+msgstr "Opnieuw nemen"
+
+msgid "Credit note"
+msgstr "Kredietnota"
+
+msgid "Unit price"
+msgstr "Prijs/eenheid"
+
+msgid "Total excl. taxes"
+msgstr "Totaal excl. BTW"
+
+msgid "Total incl. taxes"
+msgstr "Totaal incl. BTW"
+
+msgid "Payment by card"
+msgstr "Betaling per kaart"
+
+msgid "Payment by check"
+msgstr "Betaling per cheque"
+
+msgid "Payment by transfer"
+msgstr "Betaling via overschrijving"
+
+msgid "Share capital of %s"
+msgstr "Maatschappelijk kapitaal van %s"
+
+msgid "Invoices"
+msgstr "Facturen"
+
+msgid "Product"
+msgstr "Product"
+
+msgid "Location Map"
+msgstr "Locatiekaart"
+
+msgid "User Detail"
+msgstr "Gebruikersgegevens"
+
+msgid "File size"
+msgstr "Bestandsgrootte"
+
+msgid "File title"
+msgstr "Bestandstitel"
+
+msgid "Region"
+msgstr "Regio"
+
+msgid "Bath"
+msgstr "Bad"
+
+msgid "Private Negotiation"
+msgstr "Privéonderhandeling"
+
+msgid "Property specifications"
+msgstr "Specificaties van de eigendom"
+
+msgid "Energy performance"
+msgstr "Energieprestatie"
+
+msgid "Media Details"
+msgstr "Mediagegevens"
+
+msgid "View Video"
+msgstr "Bekijk video"
+
+msgid "Start Date"
+msgstr "Startdatum"
+
+msgid "End Date"
+msgstr "Einddatum"
+
+msgid "Welcome"
+msgstr "Welkom"
+
+msgid "See What’s happening with Apimo Plugin."
+msgstr "Bekijk wat er gebeurt met de Apimo Plugin."
+
+msgid "PROVIDERS"
+msgstr "AANBIEDERS"
+
+msgid "AGENCIES"
+msgstr "AGENTSCHAPPEN"
+
+msgid "PROPERTIES"
+msgstr "EIGENDOMMEN"
+
+msgid "BOOKMARK"
+msgstr "BLADWIJZER"
+
+msgid "Remove all"
+msgstr "Alles verwijderen"
+
+msgid "Apply filter"
+msgstr "Filter toepassen"
+
+msgid "Select Subtype"
+msgstr "Selecteer subtype"
+
+msgid "Enchère"
+msgstr "Veiling"
+
+msgid "Location"
+msgstr "Verhuur"
+
+msgid "Location saisonnière"
+msgstr "Seizoensverhuur"
+
+msgid "From"
+msgstr "Van"
+
+msgid "To"
+msgstr "Naar"
+
+msgid "Dates"
+msgstr "Data"
+
+msgid "Select country"
+msgstr "Land selecteren"
+
+msgid "Select region"
+msgstr "Regio selecteren"
+
+msgid "Select district"
+msgstr "District selecteren"
+
+msgid "Select city"
+msgstr "Stad selecteren"
+
+msgid "Good"
+msgstr "Goed"
+
+msgid "Bad"
+msgstr "Slecht"
+
+msgid "hello"
+msgstr "Hallo"
+
+msgid "Available Integrations"
+msgstr "Beschikbare integraties"
+
+msgid "reCAPTCHA Detected"
+msgstr "Recaptcha gedetecteerd"
+
+msgid "reCAPTCHA Not Detected"
+msgstr "Recaptcha niet gedetecteerd"
+
+msgid "Google reCAPTCHA Integration"
+msgstr "Google Recaptcha Integratie"
+
+msgid ""
+"Protect your forms from spam and abuse with Google reCAPTCHA integration."
+msgstr ""
+"Bescherm uw formulieren tegen spam en misbruik met Google Recaptcha "
+"-integratie."
+
+msgid "Activate Integration"
+msgstr "Activeer integratie"
+
+msgid "Deactivate Integration"
+msgstr "Integratie deactiveren"
+
+msgid "reCAPTCHA Configuration"
+msgstr "Recaptcha configuratie"
+
+msgid "Please configure your reCAPTCHA keys below to complete the setup."
+msgstr ""
+"Configureer hieronder uw RecaptCha -toetsen om de installatie te voltooien."
+
+msgid "To complete the reCAPTCHA setup:"
+msgstr "Om de opstelling van de recaptcha te voltooien:"
+
+msgid "Go to the"
+msgstr "Ga naar de"
+
+msgid "Google reCAPTCHA Admin Console"
+msgstr "Google Recaptcha admin -console"
+
+msgid "Register your site and get your Site Key and Secret Key"
+msgstr "Registreer uw site en ontvang uw site -sleutel en geheime sleutel"
+
+msgid "Enter the keys below to activate reCAPTCHA"
+msgstr "Voer de onderstaande sleutels in om Recaptcha te activeren"
+
+msgid "reCAPTCHA is configured properly."
+msgstr "Recaptcha is correct geconfigureerd."
+
+msgid "Site Key"
+msgstr "Site Key"
+
+msgid "Secret Key"
+msgstr "Geheime sleutel"
+
+msgid "Save Configuration"
+msgstr "Configuratie opslaan"
+
+msgid "Contact Form"
+msgstr "Contactformulier"
+
+msgid "Invalid format"
+msgstr "Ongeldig formaat"
+
+msgid "This field is required"
+msgstr "Dit veld is vereist"
+
+msgid "Invalid email format"
+msgstr "Ongeldig e -mailformaat"
+
+msgid "Please use reCAPTCHA version 3"
+msgstr "Gebruik Recaptcha versie 3"

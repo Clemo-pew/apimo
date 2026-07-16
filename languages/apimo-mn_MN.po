@@ -1,0 +1,4900 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: mn_MN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.1\n"
+
+msgid "Reminder"
+msgstr "Сануулагч"
+
+msgid "Suggestion"
+msgstr "Санал болгох"
+
+msgid "Report"
+msgstr "Тайлан"
+
+msgid "Other"
+msgstr "Бусад"
+
+#, fuzzy
+msgid "Valuation"
+msgstr ""
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"Тооцоолол\n"
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"Үнэлгээ\n"
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"Үнэлгээ"
+
+msgid "Advertising"
+msgstr "Сурталчилгаа"
+
+msgid "Open House"
+msgstr "Үзэх боломжтой"
+
+#, fuzzy
+msgid "Canvassing"
+msgstr ""
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"Лийд олох\n"
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"Шинээр холбогдох"
+
+msgid "Message"
+msgstr "Мессеж"
+
+msgid "After-sales"
+msgstr "Борлуулалтын дараах"
+
+msgid "Visit"
+msgstr "Зочлох"
+
+#, fuzzy
+msgid "Appointment"
+msgstr ""
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"Уулзалт\n"
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"Уулзалт товлох"
+
+msgid "Phone"
+msgstr "Утас"
+
+msgid "e-mail"
+msgstr "И-мэйл"
+
+msgid "Fax"
+msgstr "Факс"
+
+msgid "Mail"
+msgstr "Шуудан"
+
+msgid "SMS"
+msgstr "Мессеж"
+
+msgid "Walk-in"
+msgstr "Очих"
+
+msgid "Extranet"
+msgstr "Экстранет"
+
+msgid "Project"
+msgstr "Төсөл"
+
+msgid "Under construction"
+msgstr "Баригдаж байгаа"
+
+msgid "Delivered"
+msgstr "Баригдаж дууссан"
+
+msgid "Ended"
+msgstr "Дууссан"
+
+msgid "Canceled"
+msgstr "Цуцалсан"
+
+msgid "Mr."
+msgstr "Ноён"
+
+msgid "Ms."
+msgstr "Хатагтай"
+
+msgid "Mr. & Mrs."
+msgstr "Ноён, Хатагтай"
+
+msgid "Sheik"
+msgstr "Шах"
+
+msgid "Duke"
+msgstr "Гүн"
+
+msgid "Duchess"
+msgstr "Гүнгийн хатагтай"
+
+msgid "Lord"
+msgstr "Лорд"
+
+msgid "Maître"
+msgstr "Үйлчлэгчдийн ахлах"
+
+msgid "Professor"
+msgstr "Профессор"
+
+msgid "Sir"
+msgstr "Сэр"
+
+msgid "Regulations"
+msgstr "Эрхзүйн зохицуулалт"
+
+msgid "AML/KYC Vendor"
+msgstr "AML/KYC Vendor"
+
+msgid "AML/KYC Buyer"
+msgstr "AML/KYC Buyer"
+
+msgid "Concierge"
+msgstr "Угтагч"
+
+msgid "Contact"
+msgstr "Холбоо барих"
+
+#, fuzzy
+msgid "Search"
+msgstr ""
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"Нэмэлт мэдээлэл\n"
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"Хайх"
+
+#, fuzzy
+msgid "Owner"
+msgstr ""
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"Худалдах\n"
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"Эзэмшигч"
+
+#, fuzzy
+msgid "e-mail alert"
+msgstr ""
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"И-мэйл мэдэгдэл\n"
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"и-мэйл мэдэгдэл"
+
+msgid "Send to a friend"
+msgstr "Найздаа илгээх"
+
+msgid "Newsletter"
+msgstr "Мэдээ"
+
+msgid "Selection"
+msgstr "Сонголт"
+
+#, fuzzy
+msgid "New"
+msgstr ""
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"Шинэ\n"
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"Шинэ байр\n"
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"Шинэ"
+
+msgid "Opened"
+msgstr "Нээсэн"
+
+msgid "Processing"
+msgstr "Боловсруулж байгаа"
+
+#, fuzzy
+msgid "Closed"
+msgstr ""
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"Дууссан\n"
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"Хаагдсан\n"
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"Хаалттай"
+
+msgid "Self-employed"
+msgstr "Хувиараа"
+
+msgid "Bakery"
+msgstr "Бэйкэри"
+
+msgid "Restaurant"
+msgstr "Ресторан"
+
+msgid "Press"
+msgstr "Хэвлэл мэдээлэл"
+
+msgid "Bar"
+msgstr "Бар, клуб"
+
+msgid "Florist"
+msgstr "Цэцгийн худалдаа"
+
+msgid "Tobacconist"
+msgstr "Тамхины худалдаа"
+
+msgid "Clothes"
+msgstr "Бэлэн хувцас"
+
+msgid "Chemist"
+msgstr "Химич"
+
+msgid "Shopping centre"
+msgstr "Худалдааны төв"
+
+msgid "Travel agency"
+msgstr "Аялалын компани"
+
+msgid "Real estate agent"
+msgstr "Үл хөдлөхийн агент"
+
+msgid "Gallery"
+msgstr "Галлерей"
+
+#, fuzzy
+msgid "Garage"
+msgstr ""
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"Гараж\n"
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"Дулаан зогсоол"
+
+msgid "Insurer"
+msgstr "Даатгагч"
+
+msgid "Optician"
+msgstr "Хараа зүйч"
+
+msgid "Perfumery"
+msgstr "Үнэртэний худалдаа"
+
+msgid "Hotel"
+msgstr "Зочид буудал"
+
+msgid "Antique dealer"
+msgstr "Эртний эдлэл худалдаа"
+
+msgid "Laundry"
+msgstr "Хувцас угаалга"
+
+msgid "Pressing"
+msgstr "Прессинг"
+
+msgid "Jeweller"
+msgstr "Үнэт эдлэл худалдаа"
+
+msgid "Grocer"
+msgstr "Хүнсний худалдаачин"
+
+msgid "Butcher"
+msgstr "Махны худалдаачин"
+
+msgid "Caterer"
+msgstr "Хоолны үйлчилгээ үзүүлэгч"
+
+msgid "Brewery"
+msgstr "Согтууруулах ундаа үйлдвэрлэл"
+
+msgid "Snack"
+msgstr "Зууш"
+
+msgid "Confectioner"
+msgstr "Амттан худалдаалагч"
+
+msgid "Pork butcher"
+msgstr "Гахайн махны худалдаачин"
+
+msgid "Grocery"
+msgstr "Хүнсний ногоо"
+
+msgid "Cheesemonger"
+msgstr "Цагааны идээний худалдагч"
+
+msgid "Fruit and vegetables"
+msgstr "Жимсний худалдаа"
+
+msgid "Sex shop"
+msgstr "Секс шоп"
+
+msgid "Video game"
+msgstr "Видео тоглоом"
+
+msgid "Computer"
+msgstr "Компьютер"
+
+msgid "Hairdresser"
+msgstr "Үсчин"
+
+msgid "Cosmetician"
+msgstr "Гоо сайханч"
+
+msgid "Household electrical"
+msgstr "Цахилгаанчин"
+
+msgid "Shoes"
+msgstr "Гутлын худалдаа"
+
+msgid "Haberdasher"
+msgstr "Бөс бараа"
+
+msgid "Groomer"
+msgstr "Имиж бүрдүүлэгч, хувцаслагч"
+
+msgid "Tea room"
+msgstr "Цайны өрөө"
+
+#, fuzzy
+msgid "Beach"
+msgstr ""
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"Далайн эрэг\n"
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"Эрэг"
+
+msgid "Bookshop"
+msgstr "Номын дэлгүүр"
+
+msgid "Offices"
+msgstr "Оффис"
+
+msgid "Gas station"
+msgstr "Шатахуун түгээгүүр"
+
+msgid "Camping"
+msgstr "Хээрийн аялал"
+
+msgid "Nightclub"
+msgstr "Шөнийн цэнгээний газар"
+
+msgid "Pet store"
+msgstr "Амьтны дэлгүүр"
+
+msgid "Video arcade"
+msgstr "Автомат тоглоомын газар"
+
+msgid "Office supplies"
+msgstr "Оффисийн хэрэглэл"
+
+msgid "Furniture"
+msgstr "Тавилга"
+
+#, fuzzy
+msgid "Decoration"
+msgstr ""
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"Чимэглэл\n"
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"Тохижилт чимэглэл"
+
+msgid "Agriculture"
+msgstr "Хөдөө аж ахуй"
+
+msgid "Photo"
+msgstr "Фото зураг"
+
+msgid "Drugstore"
+msgstr "Эмийн сан"
+
+msgid "Locksmith"
+msgstr "Цоож, түгжээ засвар"
+
+msgid "Health club"
+msgstr "Эрүүл мэндийн клуб"
+
+msgid "Taxi"
+msgstr "Такси"
+
+#, fuzzy
+msgid "Cinema"
+msgstr ""
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"Кино театр\n"
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"Гэрийн кино театр"
+
+msgid "Theater"
+msgstr "Театр"
+
+msgid "Café"
+msgstr "Кафе"
+
+msgid "Garden centre"
+msgstr "Цэцэрлэгт хүрээлэн"
+
+msgid "Hardware shop"
+msgstr "Барилгын материалын дэлгүүр"
+
+msgid "Fishmongers"
+msgstr "Загасны худалдаа"
+
+msgid "Recreation"
+msgstr "Амралт, зугаалга"
+
+msgid "Culture"
+msgstr "Урлаг соёл"
+
+msgid "Funeral"
+msgstr "Оршуулгын газар"
+
+msgid "Sport supplies"
+msgstr "Спортын хэрэгсэл"
+
+msgid "Bedroom"
+msgstr "Унтлагын өрөө"
+
+msgid "Living room/dining area"
+msgstr "Зочны өрөө"
+
+msgid "Kitchen"
+msgstr "Гал тогоо"
+
+msgid "Parking"
+msgstr "Зогсоол"
+
+msgid "Basement"
+msgstr "Зоорийн давхар"
+
+#, fuzzy
+msgid "Garden"
+msgstr ""
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"Цэцэрлэг\n"
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"Цэцэрлэг\n"
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"Ногоон байгууламж"
+
+msgid "Bathroom"
+msgstr "Ванны өрөө"
+
+msgid "Laundry room"
+msgstr "Угаалгын өрөө"
+
+msgid "Study"
+msgstr "Ажлын өрөө"
+
+msgid "Hallway"
+msgstr "Үүдний өрөө"
+
+msgid "Corridor"
+msgstr "Корридор"
+
+msgid "Shower room"
+msgstr "Шүршүүрийн өрөө"
+
+msgid "Walk-in wardrobe"
+msgstr "Хувцасны өрөө"
+
+msgid "Entrance"
+msgstr "Хаалга"
+
+msgid "Lavatory"
+msgstr "Бие засах өрөө"
+
+msgid "Veranda"
+msgstr "Үүдний саравч"
+
+#, fuzzy
+msgid "Terrace"
+msgstr ""
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"Тагт\n"
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"Задгай тагт"
+
+msgid "Solarium"
+msgstr "Наран шарлагын өрөө"
+
+msgid "Play room"
+msgstr "Тоглоомын өрөө"
+
+msgid "Dining room"
+msgstr "Хоолны өрөө"
+
+msgid "Pool house"
+msgstr "Усан сангийн өрөө"
+
+msgid "Cupboard"
+msgstr "Ханын тавилга"
+
+msgid "Not used"
+msgstr "Ашиглаагүй"
+
+msgid "Loggia"
+msgstr "Ложжия"
+
+msgid "Attic"
+msgstr "Дээврийн хөндий"
+
+msgid "Mezzanine"
+msgstr "Хагас давхар"
+
+msgid "Pantry"
+msgstr "Зоорийн агуулах"
+
+msgid "Maintenance room"
+msgstr "Эд ангийн өрөө"
+
+#, fuzzy
+msgid "Workshop"
+msgstr ""
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"Засварын өрөө\n"
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"Цех"
+
+msgid "Studio"
+msgstr "Дан өрөө"
+
+msgid "Storage room"
+msgstr "Агуулахын өрөө"
+
+msgid "Library"
+msgstr "Номын өрөө"
+
+msgid "Closet"
+msgstr "Хувцасны шкаф"
+
+#, fuzzy
+msgid "Courtyard"
+msgstr ""
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"Урд талбай\n"
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"Дунд талбай"
+
+msgid "Landing"
+msgstr "2 давхарын корридор"
+
+msgid "Linen room"
+msgstr "Цагаан хэрэглэлийн өрөө"
+
+msgid "Bathroom / Lavatory"
+msgstr "Ванн, 00-ийн өрөө"
+
+msgid "Shower room / Lavatory"
+msgstr "Душ, 00-ийн өрөө"
+
+msgid "Balcony"
+msgstr "Балкон, тагт"
+
+msgid "Exercise room"
+msgstr "Дасгалын өрөө"
+
+msgid "Discothèque"
+msgstr "Бүжгийн өрөө"
+
+msgid "Home cinema"
+msgstr "Гэрийн кино театр"
+
+msgid "Reception room"
+msgstr "Хүлээлгийн өрөө"
+
+msgid "Park"
+msgstr "Парк"
+
+msgid "Land"
+msgstr "Газар"
+
+msgid "Patio"
+msgstr "Амрах талбай"
+
+msgid "Principal bedroom"
+msgstr "Мастер унтлагын өрөө"
+
+msgid "Suite"
+msgstr "Байр"
+
+msgid "Shed"
+msgstr "Контейнер байр"
+
+#, fuzzy
+msgid "Apartment"
+msgstr ""
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"Орон сууц\n"
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"Байр\n"
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"Орон сууц"
+
+msgid "Cabin"
+msgstr "Зуны байшин"
+
+#, fuzzy
+msgid "Barn"
+msgstr ""
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"Малын саравч\n"
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"Амбаар"
+
+msgid "Outbuilding"
+msgstr "Амбаар"
+
+msgid "Bike storage room"
+msgstr "Дугуй хадгалах өрөө"
+
+msgid "Ski storage room"
+msgstr "Цана хадгалах өрөө"
+
+msgid "Garbage room"
+msgstr "Хог хаягдлын өрөө"
+
+msgid "Steam room"
+msgstr "Турк ванн"
+
+msgid "Indoor swimming pool"
+msgstr "Дотор бассейн"
+
+msgid "Prayer room"
+msgstr "Залбиралын өрөө"
+
+msgid "Sauna"
+msgstr "Саун"
+
+msgid "Watchtower"
+msgstr "Ажиглалтын цамхаг"
+
+msgid "Room"
+msgstr "Өрөө"
+
+msgid "Meeting room"
+msgstr "Хурлын өрөө"
+
+msgid "Maid's room"
+msgstr "Үйлчлэгчийн өрөө"
+
+msgid "Maid's studio"
+msgstr "Үйлчлэгчийн талбай"
+
+msgid "Double reception room"
+msgstr "Зочдын хос өрөө"
+
+msgid "Triple reception room"
+msgstr "Зочдын 3 өрөө"
+
+msgid "Indoor parking"
+msgstr "Дотор зогсоол"
+
+msgid "Outdoor parking"
+msgstr "Гадна зогсоол"
+
+msgid "Stockroom"
+msgstr "Хүнсний өрөө"
+
+msgid "Shop"
+msgstr "Дэлгүүр"
+
+msgid "Cafeteria"
+msgstr "Кафе"
+
+#, fuzzy
+msgid "Unit"
+msgstr ""
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"Талбай\n"
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"Газрууд"
+
+msgid "Warehouse"
+msgstr "Агуулах"
+
+msgid "Accommodation"
+msgstr "Хангамж"
+
+msgid "Arcade"
+msgstr "Автомат тоглоом"
+
+msgid "House"
+msgstr "Хаус"
+
+msgid "Stair"
+msgstr "Шат"
+
+msgid "Box"
+msgstr "Жижиг агуулах"
+
+msgid "Panic room"
+msgstr "Panic room"
+
+msgid "Single"
+msgstr "Дан"
+
+msgid "Twin"
+msgstr "Хос"
+
+msgid "Twin by garage"
+msgstr "Дундаа гаражтай"
+
+#, fuzzy
+msgid "Village house"
+msgstr ""
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"Вилла хаус\n"
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"Тосгоны хаус"
+
+msgid "Twin by angle"
+msgstr "Нуруугаараа нийлмэл"
+
+msgid "Ranged"
+msgstr "Эзэмшлийн газартай"
+
+msgid "Standard"
+msgstr "Стандарт"
+
+msgid "Co-exclusive"
+msgstr "Онцгой"
+
+#, fuzzy
+msgid "Exclusive"
+msgstr ""
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"Тусгай\n"
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"Онцгой"
+
+msgid "Delegation"
+msgstr "Төлөөлсөн"
+
+msgid "Exclusive agent"
+msgstr "Тусгай агент"
+
+msgid "Colleague"
+msgstr "Хамтрагч"
+
+#, fuzzy
+msgid "Free"
+msgstr ""
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"Авах боломжтой\n"
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"Үнэгүй"
+
+msgid "Rented"
+msgstr "Түрээстэй"
+
+msgid "Occupied"
+msgstr "Ашиглаж байгаа"
+
+msgid "To be agreed"
+msgstr "Зөвшилцөх"
+
+msgid "Building"
+msgstr "Барилга"
+
+msgid "Residence"
+msgstr "Орон сууц"
+
+msgid "Housing scheme"
+msgstr "ЗГ-ийн орон сууц"
+
+msgid "Hamlet"
+msgstr "Тосгон"
+
+msgid "Domain"
+msgstr "Эзэмшил"
+
+#, fuzzy
+msgid "Property"
+msgstr ""
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"Үл хөдлөх\n"
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"Үл хөдлөх хөрөнгө\n"
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"Үл хөдлөх хөрөнгө"
+
+#, fuzzy
+msgid "Street"
+msgstr ""
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"Гудамж\n"
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"гудамж"
+
+msgid "Sale"
+msgstr "Худалдах"
+
+msgid "Rental"
+msgstr "Түрээс"
+
+msgid "Seasonal rental"
+msgstr "Улирлын чанартай түрээс"
+
+msgid "Development"
+msgstr "Барилгын төсөл"
+
+msgid "Life annuity"
+msgstr "Насны цалин"
+
+msgid "Auction"
+msgstr "Дуудлага худалдаа"
+
+msgid "Unit sale"
+msgstr "Нэгж хямдрал"
+
+msgid "Bulk sale"
+msgstr "Бөөний хямдрал"
+
+msgid "Unfurnished"
+msgstr "Тавилгагүй"
+
+msgid "Furnished"
+msgstr "Тавилгатай"
+
+msgid "Roommate"
+msgstr "Өрөөний хамтрагч"
+
+msgid "Student"
+msgstr "Оюутан"
+
+msgid "Holidays"
+msgstr "Амралтын өдрүүд"
+
+msgid "Event"
+msgstr "Арга хэмжээ"
+
+msgid "New construction"
+msgstr "Шинэ барилга"
+
+msgid "Life annuity occupied"
+msgstr "Насны цалин авсан"
+
+msgid "Bare Ownership"
+msgstr "Хямдралтай үнээр эзэмших"
+
+msgid "Forward sale"
+msgstr "Зарах хэлцэл"
+
+msgid "Life annuity semi-occupied"
+msgstr "Хэсэгчилсэн насны цалин"
+
+msgid "Forward sale available"
+msgstr "Зарах хэлцэл хийх боломжтой"
+
+msgid "Forward sale semi-occupied"
+msgstr "Зарах хэлцэл хэсэгчлэн хийсэн"
+
+msgid "Forward sale occupied"
+msgstr "Зарах хэлцэл хийсэн"
+
+msgid "Life annuity without income"
+msgstr "Орлогогүй насны цалин"
+
+msgid "Requires updating"
+msgstr "Хөнгөн засвар шаардлагатай"
+
+msgid "Good condition"
+msgstr "Цэвэрхэн"
+
+msgid "Requires renovation"
+msgstr "Бүтэн засвар шаардлагатай"
+
+msgid "Excellent condition"
+msgstr "Маш цэвэрхэн"
+
+msgid "Timber"
+msgstr "Модон"
+
+msgid "Engineered wood"
+msgstr "Шахмал хавтан"
+
+#, fuzzy
+msgid "Stone"
+msgstr ""
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"Чулуун\n"
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"Чулуу"
+
+msgid "Brick"
+msgstr "Тоосгон"
+
+#, fuzzy
+msgid "Concrete"
+msgstr ""
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"Цутгамал\n"
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"Бетон"
+
+msgid "Reinforced concrete"
+msgstr "Сайжруулсан цутгамал"
+
+msgid "Steel frame"
+msgstr "Төмөр карказ"
+
+msgid "Reinforced concrete frame"
+msgstr "Сайжруулсан төмөр карказ"
+
+msgid "Shear wall"
+msgstr "Угсармал"
+
+msgid "Concrete block"
+msgstr "Бетон блок"
+
+msgid "Ground floor"
+msgstr "Доод давхар"
+
+msgid "Top floor"
+msgstr "Дээд давхар"
+
+msgid "1st"
+msgstr "1-р"
+
+msgid "2nd"
+msgstr "2-р"
+
+msgid "3rd"
+msgstr "3-р"
+
+msgid "4th"
+msgstr "4-р"
+
+msgid "5th"
+msgstr "5-р"
+
+msgid "6th"
+msgstr "6-р"
+
+msgid "7th"
+msgstr "7-р"
+
+msgid "8th"
+msgstr "8-р"
+
+msgid "9th"
+msgstr "9-р"
+
+msgid "10th"
+msgstr "10-р"
+
+msgid "11th"
+msgstr "11-р"
+
+msgid "12th"
+msgstr "12-р"
+
+msgid "13th"
+msgstr "13-р"
+
+msgid "14th"
+msgstr "14-р"
+
+msgid "15th"
+msgstr "15-р"
+
+msgid "16th"
+msgstr "16-р"
+
+msgid "17th"
+msgstr "17-р"
+
+msgid "18th"
+msgstr "18-р"
+
+msgid "19th"
+msgstr "19-р"
+
+msgid "20th"
+msgstr "20-р"
+
+msgid "Garden level"
+msgstr "Цэцэрлэгийн давхар"
+
+msgid "Split-level"
+msgstr "Завсрын давхар"
+
+msgid "-1"
+msgstr "-1"
+
+msgid "-2"
+msgstr "-2"
+
+msgid "-3"
+msgstr "-3"
+
+msgid "-4"
+msgstr "-4"
+
+msgid "Single-storey"
+msgstr "Дан давхар"
+
+msgid "21st"
+msgstr "21-р"
+
+msgid "22nd"
+msgstr "22-р"
+
+msgid "23rd"
+msgstr "23-р"
+
+msgid "24th"
+msgstr "24-р"
+
+msgid "25th"
+msgstr "25-р"
+
+msgid "26th"
+msgstr "26-р"
+
+msgid "27th"
+msgstr "27-р"
+
+msgid "28th"
+msgstr "28-р"
+
+msgid "29th"
+msgstr "29-р"
+
+msgid "30th"
+msgstr "30-р"
+
+msgid "31st"
+msgstr "31-р"
+
+msgid "32nd"
+msgstr "32-р"
+
+msgid "33rd"
+msgstr "33-р"
+
+msgid "34th"
+msgstr "34-р"
+
+msgid "35th"
+msgstr "35-р"
+
+msgid "36th"
+msgstr "36-р"
+
+msgid "37th"
+msgstr "37-р"
+
+msgid "38th"
+msgstr "38-р"
+
+msgid "39th"
+msgstr "39-р"
+
+msgid "40th"
+msgstr "40-р"
+
+msgid "-5"
+msgstr "-5"
+
+msgid "-6"
+msgstr "-6"
+
+msgid "-7"
+msgstr "-7"
+
+msgid "-8"
+msgstr "-8"
+
+msgid "-9"
+msgstr "-9"
+
+msgid "-10"
+msgstr "-10"
+
+msgid "41st"
+msgstr "41-р"
+
+msgid "42nd"
+msgstr "42-р"
+
+msgid "43rd"
+msgstr "43-р"
+
+msgid "44th"
+msgstr "44-р"
+
+msgid "45th"
+msgstr "45-р"
+
+msgid "46th"
+msgstr "46-р"
+
+msgid "47th"
+msgstr "47-р"
+
+msgid "48th"
+msgstr "48-р"
+
+msgid "49th"
+msgstr "49-р"
+
+msgid "50th"
+msgstr "50-р"
+
+msgid "51st"
+msgstr "51-р"
+
+msgid "52nd"
+msgstr "52-р"
+
+msgid "53rd"
+msgstr "53-р"
+
+msgid "54th"
+msgstr "54-р"
+
+msgid "55th"
+msgstr "55-р"
+
+msgid "56th"
+msgstr "56-р"
+
+msgid "57th"
+msgstr "57-р"
+
+msgid "58th"
+msgstr "58-р"
+
+msgid "59th"
+msgstr "59-р"
+
+msgid "60th"
+msgstr "60-р"
+
+msgid "Wooden floor"
+msgstr "Паркетан шал"
+
+msgid "Tile"
+msgstr "Плита"
+
+msgid "Vinyl composition tile"
+msgstr "Винил холимог плита"
+
+msgid "Carpet"
+msgstr "Хивс"
+
+msgid "Natural fiber"
+msgstr "Байгалийн утас"
+
+msgid "Coco"
+msgstr "Наргил мод"
+
+msgid "Travertine"
+msgstr "Шохойн чулуу"
+
+msgid "Marble"
+msgstr "Гантиг"
+
+msgid "Granite"
+msgstr "Боржин"
+
+msgid "Terracotta tile"
+msgstr "Шаазан плита"
+
+msgid "Teak"
+msgstr "Тик мод"
+
+msgid "Mosaïc"
+msgstr "Мозайк"
+
+msgid "Clay"
+msgstr "Шавар"
+
+msgid "Laminate"
+msgstr "Ламинатан мод"
+
+msgid "Convector"
+msgstr "Үлээдэг пар"
+
+msgid "Underfloor"
+msgstr "Шалны халаалт"
+
+msgid "Radiator"
+msgstr "Энгийн пар"
+
+msgid "Stove"
+msgstr "Зуух"
+
+msgid "Air-conditioning"
+msgstr "Эйр кондэйшн"
+
+msgid "Central"
+msgstr "Төвийн халаалт"
+
+msgid "Without"
+msgstr "Халаалтгүй"
+
+msgid "Fireplace"
+msgstr "Камен зуух"
+
+msgid "Individual"
+msgstr "Тусдаа"
+
+msgid "Common"
+msgstr "Нийтийн"
+
+msgid "Mixed"
+msgstr "Холимог"
+
+msgid "District heating"
+msgstr "Нэгдсэн"
+
+#, fuzzy
+msgid "Gas"
+msgstr ""
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"Газан халаалт\n"
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"Түлш\n"
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"Түлш"
+
+msgid "Fuel oil"
+msgstr "Түлшээр"
+
+msgid "Electric"
+msgstr "Цахилгаан"
+
+msgid "Wood"
+msgstr "Модон түлш"
+
+#, fuzzy
+msgid "Solar"
+msgstr ""
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"Нарны халаалт\n"
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"Нараар халаадаг"
+
+msgid "Charcoal"
+msgstr "Нүүрс"
+
+msgid "Heat pump"
+msgstr "Нам даралтын зуух"
+
+msgid "Geothermal"
+msgstr "Газрын гүний"
+
+msgid "Wood pellet"
+msgstr "Шахмал мод"
+
+msgid "Hot water"
+msgstr "Халуун ус"
+
+msgid "Hot water tank"
+msgstr "Халуун усны бойлер"
+
+msgid "Boiler"
+msgstr "Бойлер"
+
+msgid "Collective"
+msgstr "Нийтийн"
+
+msgid "Flat"
+msgstr "Тэгш"
+
+msgid "Dry-stone wall terraces"
+msgstr "Чулуун суурь бүхий задгай тагттай"
+
+msgid "Steep"
+msgstr "Налуу"
+
+msgid "Wooded"
+msgstr "Модон дунд"
+
+msgid "Meadow"
+msgstr "Хээр задгай"
+
+msgid "Term lease"
+msgstr "Хугацаатай зээл"
+
+msgid "Long-Term"
+msgstr "Урт хугацаат"
+
+msgid "Long-Term - Single activity"
+msgstr "Урт хугацаат - 1 хэсэгт"
+
+msgid "Long-Term - All activities"
+msgstr "Урт хугацаат - бүх хэсэгт"
+
+msgid "Seaside"
+msgstr "Далайн эргийн"
+
+msgid "Village"
+msgstr "Тосгон"
+
+msgid "Old town"
+msgstr "Хуучин хот"
+
+msgid "Precinct"
+msgstr "Орон сууцны бүс"
+
+#, fuzzy
+msgid "Ski slope"
+msgstr ""
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"Цанын баазтай ойр\n"
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"Цанын бааз"
+
+msgid "Town center"
+msgstr "Хотын төв"
+
+msgid "Industrial estate"
+msgstr "Үйлдвэрийн бүс"
+
+msgid "Shopping center"
+msgstr "Худалдааны төв"
+
+msgid "Business park"
+msgstr "Бизнес бүс"
+
+msgid "Airport area"
+msgstr "Нисэх буудлын ойролцоо"
+
+msgid "Science park"
+msgstr "Шинжлэх ухааны парк"
+
+msgid "Port area"
+msgstr "Боомтын бүс"
+
+msgid "Outskirts"
+msgstr "Хотын зах"
+
+#, fuzzy
+msgid "Hills"
+msgstr ""
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"Ууланд\n"
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"Толгод"
+
+msgid "Waterfront"
+msgstr "Голын орчим"
+
+msgid "Countryside"
+msgstr "Хөдөө"
+
+msgid "Suburb"
+msgstr "Захын дүүрэг"
+
+msgid "East"
+msgstr "Зүүн"
+
+msgid "North"
+msgstr "Хойд"
+
+msgid "West"
+msgstr "Баруун"
+
+msgid "South"
+msgstr "Урд"
+
+msgid "Day"
+msgstr "Өдөр"
+
+msgid "Week"
+msgstr "7 хоног"
+
+msgid "Fortnight"
+msgstr "Хагас сар"
+
+msgid "Month"
+msgstr "Сар"
+
+msgid "Quarterly"
+msgstr "Улирал тутмын"
+
+msgid "Bimonthly"
+msgstr "2 сар тутмын"
+
+msgid "Half-yearly"
+msgstr "Хагас жил тутмын"
+
+msgid "Yearly"
+msgstr "Жил тутмын"
+
+msgid "Bus"
+msgstr "Автобус"
+
+msgid "Bus hub"
+msgstr "Автобусны төв буудал"
+
+msgid "Metro"
+msgstr "Метро"
+
+msgid "Shops"
+msgstr "Дэлгүүрүүд"
+
+msgid "Secondary school"
+msgstr "Дунд сургууль"
+
+msgid "Town centre"
+msgstr "Хотын төв"
+
+msgid "Hospital/clinic"
+msgstr "Эмнэлэг"
+
+msgid "Doctor"
+msgstr "Эмч"
+
+msgid "Tram"
+msgstr "Ил метро"
+
+msgid "Train station"
+msgstr "Галт тэрэгний буудал"
+
+msgid "Public parking"
+msgstr "Нийтийн зогсоол"
+
+msgid "Supermarket"
+msgstr "Супермаркет"
+
+msgid "Sea port"
+msgstr "Тэнгисийн боомт"
+
+msgid "Nursery"
+msgstr "Хүүхэд харах үйлчилгээ"
+
+msgid "Public pool"
+msgstr "Нийтийн бассейн"
+
+msgid "Tennis"
+msgstr "Теннис"
+
+msgid "Golf"
+msgstr "Гольф"
+
+msgid "Movies"
+msgstr "Кино театр"
+
+msgid "Sport center"
+msgstr "Спорт төв"
+
+msgid "Airport"
+msgstr "Нисэх онгоцны буудал"
+
+msgid "Sea"
+msgstr "Далай"
+
+msgid "TGV station"
+msgstr "Суман галт тэрэгний буудал"
+
+msgid "Highway"
+msgstr "Хурдны зам"
+
+msgid "University"
+msgstr "Их сургууль"
+
+msgid "Convention center"
+msgstr "Хурлын төв"
+
+msgid "Lake"
+msgstr "Нуур"
+
+msgid "On main road"
+msgstr "Төв зам дагуу"
+
+msgid "Energy - Conventional consumption"
+msgstr "Эрчим хүчний нийтлэг хэрэглээний түвшин"
+
+msgid "Energy - Emissions estimate"
+msgstr "Эрчим хүчний хүлэмжийн хийн ялгаралтын нийтлэг түвшин"
+
+msgid "« Carrez » act"
+msgstr "Carrez акт"
+
+msgid "ERP"
+msgstr "ERP"
+
+msgid "Termites"
+msgstr "Морин шоргоолж"
+
+msgid "Asbestos"
+msgstr "Галд тэсвэртэй минерал"
+
+#, fuzzy
+msgid "Lead"
+msgstr ""
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"Хар тугалга\n"
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"Хар тугалга\n"
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"Lead"
+
+msgid "Electricity"
+msgstr "Цахилгаан"
+
+msgid "Boutin act"
+msgstr "Boutin акт"
+
+msgid "Sanitation"
+msgstr "Эрүүл ахуй"
+
+msgid "EPI (Non renewable)"
+msgstr "Эрчим хүчний гүйцэтгэлийн индекс (EPI)"
+
+msgid "APE"
+msgstr "Эрчим хүчний гүйцэтгэлийн сертификат"
+
+msgid "Request for nomination of an ad hoc agent"
+msgstr "Гэнэтийн шаардлагаар ажиллах агент гаргах хүсэлт"
+
+msgid "Request for nomination of a temporary administrator"
+msgstr "Түр администратор дэвшүүлэх хүсэлт"
+
+msgid "Request for expert nomination"
+msgstr "Эксперт дэвшүүлэх хүсэлт"
+
+msgid "Energy consumption"
+msgstr "Эрчим хүчний хэрэглээ"
+
+msgid "Housing tax"
+msgstr "Барилгын татвар"
+
+msgid "Property tax (IPTU)"
+msgstr "IPTU"
+
+msgid "Minergie"
+msgstr "Minergie стандарт"
+
+msgid "Co-Ownership property"
+msgstr "Хамтын эзэмшилтэй ҮХХ"
+
+msgid "Communal tax rate"
+msgstr "Нийтийн татварын түвшин"
+
+msgid "Droit de superficie"
+msgstr "Барилгын зээл"
+
+msgid "Millièmes"
+msgstr "мянгаар"
+
+msgid "Current renovation fund"
+msgstr "Засвар шинэчлэлтийн сангийн үлдэгдэл"
+
+msgid "Energy class"
+msgstr "Эрчим хүчний зарцуулалтын ангилал"
+
+msgid "Thermal insulation class"
+msgstr "Дулаан хадгалах түвшний ангилал"
+
+msgid "Greenhouse Gas"
+msgstr "Хүлэмжийн хий"
+
+msgid "Energy passport"
+msgstr "Эрчим хүчний пасспорт"
+
+msgid "Energy certificate"
+msgstr "Эрчим хүчний гэрчилгээ"
+
+msgid "Energy consumption / Final energy requirement"
+msgstr "Эрчим хүчний хэрэглээ / Endenergiebedarf"
+
+msgid "Energy efficiency class"
+msgstr "Эрчим хүч хэмнэлтийн түвшин"
+
+msgid "Year of construction according to certificate"
+msgstr "Сертификатад харуулсан барилга барьсан хугацаа"
+
+msgid "Rental value"
+msgstr "Түрээсийн үнэ"
+
+#, fuzzy
+msgid "Turnover"
+msgstr ""
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"Эргэлтийн хөрөнгө\n"
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"Эргэлт"
+
+msgid "Net income"
+msgstr "Цэвэр орлого"
+
+msgid "Gross operating profit"
+msgstr "Үйл ажиллагааны нийт ашиг"
+
+msgid "Personnel costs"
+msgstr "Ажиллах хүчний зардал"
+
+msgid "Cash flow"
+msgstr "Мөнгөн гүйлгээ"
+
+msgid "Shareholders’equity"
+msgstr "Хувь нийлүүлэгчдийн хөрөнгө"
+
+msgid "Net debt"
+msgstr "Цэвэр өр"
+
+msgid "Internet"
+msgstr "Интернет"
+
+msgid "Disabled access"
+msgstr "Тахир дутуу иргэдэд зориулсан"
+
+msgid "Alarm system"
+msgstr "Анхааруулах систем"
+
+msgid "Lift"
+msgstr "Цахилгаан шат"
+
+msgid "Caretaker"
+msgstr "Асран халамжлагч"
+
+msgid "Double glazing"
+msgstr "Давхар шиллэгээ"
+
+msgid "Intercom"
+msgstr "Интерком"
+
+msgid "TV distribution"
+msgstr "кабелийн ТВ"
+
+msgid "Swimming pool"
+msgstr "Бассейн"
+
+msgid "Security door"
+msgstr "Хамгаалалтын хаалга"
+
+msgid "Tennis court"
+msgstr "Теннисний талбай"
+
+msgid "Irrigation sprinkler"
+msgstr "Усалгааны систем"
+
+msgid "Barbecue"
+msgstr "Барбекю"
+
+msgid "Electric gate"
+msgstr "Цахилгаан хаалга"
+
+msgid "Crawl space"
+msgstr "Суурийн давхар"
+
+msgid "Car port"
+msgstr "Машины асар"
+
+msgid "Caretaker house"
+msgstr "Үйлчлэгчийн байр"
+
+msgid "Sliding windows"
+msgstr "Гүйдэг цонх"
+
+msgid "Central vacuum system"
+msgstr "Нэгдсэн тоосны шүүлтүүр"
+
+msgid "Electric shutters"
+msgstr "Цахилгаан хаалт"
+
+msgid "Window shade"
+msgstr "Цонхны хөшиг"
+
+msgid "Electric awnings"
+msgstr "Цахилгаан саравч"
+
+msgid "Washing machine"
+msgstr "Угаалгын машин"
+
+msgid "Jacuzzi"
+msgstr "Жакузи"
+
+msgid "Whirlpool tub"
+msgstr "Эргэлттэй жакузи"
+
+msgid "Well"
+msgstr "Худаг"
+
+msgid "Spring"
+msgstr "Булаг"
+
+msgid "Engine generator"
+msgstr "Хөдөлгүүрт генератор"
+
+msgid "Dishwasher"
+msgstr "Аяга таваг угаагч"
+
+msgid "Hob"
+msgstr "Ширэм"
+
+msgid "Safe"
+msgstr "Сейф"
+
+msgid "Helipad"
+msgstr "Нисдэг тэрэгний зогсоол"
+
+msgid "Videophone"
+msgstr "Домофон"
+
+msgid "Video security"
+msgstr "Видео хяналт"
+
+msgid "Iron"
+msgstr "Индүү"
+
+msgid "Hair dryer"
+msgstr "Үс хатаагч"
+
+msgid "Television"
+msgstr "Телевиз"
+
+msgid "DVD Player"
+msgstr "DVD тоглуулагч"
+
+msgid "CD Player"
+msgstr "CD тоглуулагч"
+
+msgid "Outdoor lighting"
+msgstr "Гадна гэрэлтүүлэг"
+
+msgid "Spa"
+msgstr "Спа"
+
+msgid "Home automation"
+msgstr "Гэрийн автоматжуулалт"
+
+msgid "Linens"
+msgstr "Цагаан хэрэглэл"
+
+msgid "Tableware"
+msgstr "Ширээний хэрэгсэл"
+
+msgid "Clothes dryer"
+msgstr "Хувцас хатаагч"
+
+msgid "Refrigerator"
+msgstr "Хөргөгч"
+
+msgid "Oven"
+msgstr "Шарах шүүгээ"
+
+msgid "Reception 24/7"
+msgstr "Ресепшн 24/7"
+
+msgid "Coffeemaker"
+msgstr "Кофе чанагч"
+
+msgid "Microwave oven"
+msgstr "Богино долгионы зуух"
+
+msgid "Shabbat elevator"
+msgstr "Давхар болгонд зогсдог лифт"
+
+msgid "Sukkah"
+msgstr "Еврей урц"
+
+msgid "Synagogue"
+msgstr "Еврей сүм"
+
+msgid "Digicode"
+msgstr "Digicode"
+
+msgid "Common laundry"
+msgstr "Нийтийн угаалгын газар"
+
+msgid "Pets allowed"
+msgstr "Тэжээвэр амьтан зөвшөөрөгдсөн"
+
+msgid "Metal shutters"
+msgstr "Автомат төмөр хаалттай"
+
+msgid "Wiring closet"
+msgstr "Холболтын самбар"
+
+msgid "Computer network"
+msgstr "Компьютерийн сүлжээ"
+
+msgid "Dropped ceiling"
+msgstr "Дүүжин тааз"
+
+msgid "Fire hose cabinets"
+msgstr "Галын хоолойн самбар"
+
+msgid "Fire sprinkler system"
+msgstr "Галын ус цацах систем"
+
+msgid "Berth"
+msgstr "Усан зогсоол"
+
+msgid "Connected thermostat"
+msgstr "Нэгдсэн термостат"
+
+msgid "Bowling game"
+msgstr "Боулингийн зүлэг"
+
+msgid "Water softener"
+msgstr "Ус зөөлрүүлэгч"
+
+msgid "Triple glazing"
+msgstr "3 давхар шиллэгээтэй"
+
+msgid "Well drilling"
+msgstr "Худаг ухах"
+
+msgid "Optical fiber"
+msgstr "Шилэн кабель"
+
+msgid "Non-flooding"
+msgstr "Үерээс хамгаалсан"
+
+msgid "Playground"
+msgstr "тоглоомын талбай"
+
+msgid "Supplies"
+msgstr "Хэрэгслүүд"
+
+msgid "Outdoor spaces"
+msgstr "Гадна талбай"
+
+msgid "Rental supplies"
+msgstr "Түрээсийн хэрэгслүүд"
+
+msgid "Security"
+msgstr "Аюулгүй байдал"
+
+msgid "Professional supplies"
+msgstr "Мэргэжлийн хэрэгслүүд"
+
+msgid "High standard"
+msgstr "Өндөр стандартын"
+
+msgid "Luxury"
+msgstr "Тансаг зэрэглэлийн"
+
+msgid "High luxury"
+msgstr "Онцгой тансаг зэрэглэлийн"
+
+#, fuzzy
+msgid "Housing estate"
+msgstr ""
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"Нэгдсэн шийдэлтэй\n"
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"Нэг хийцтэй байрнууд"
+
+msgid "Regular"
+msgstr "Энгийн"
+
+#, fuzzy
+msgid "In progress"
+msgstr ""
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"Явц дундаа\n"
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"Одоо хийгдэж байгаа\n"
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"Үргэлжилж буй"
+
+msgid "Standby"
+msgstr "Хүлээгдэж буй"
+
+msgid "Deleted"
+msgstr "Устгасан"
+
+msgid "Waiting for contract"
+msgstr "Гэрээ хүлээгдэж байгаа"
+
+msgid "Agreement ended"
+msgstr "Гэрээ хийгдсэн"
+
+msgid "Offer"
+msgstr "Санал"
+
+msgid "Processing sale"
+msgstr "Худалдаа хийгдэж байгаа"
+
+msgid "Pending approval"
+msgstr "Зөвшөөрөл хүлээгдэж байгаа"
+
+msgid "Sell/Rent by agent"
+msgstr "Агентын зарах/түрээслэх зар"
+
+msgid "Sell/Rent by owner"
+msgstr "Эзэмшигчийн зарах/түрээслэх зар"
+
+msgid "Sell/Rent by other agent"
+msgstr "Бусад агентын зарах/түрээслэх зар"
+
+msgid "Removed by agent"
+msgstr "Агент устгасан"
+
+msgid "Removed by owner"
+msgstr "Эзэмшигч устгасан"
+
+msgid "Sale/Rental cancelled"
+msgstr "Цуцалсан зарах/түрээслэх зар"
+
+msgid "Delete this property"
+msgstr "Энэ үл хөдлөхийг устгах"
+
+msgid "Business"
+msgstr "Бизнес"
+
+msgid "Garage/Parking"
+msgstr "Гараж/зогсоол"
+
+msgid "Office"
+msgstr "Оффис"
+
+msgid "Boat"
+msgstr "Завь"
+
+msgid "Cellar / Box"
+msgstr "Зоорь/жижиг агуулах"
+
+msgid "Triplex"
+msgstr "3 нийлмэл"
+
+msgid "Building land"
+msgstr "Барилгын газар"
+
+msgid "Not constructible land"
+msgstr "Барилга барих боломжгүй газар"
+
+msgid "Penthouse"
+msgstr "Пентхаус"
+
+msgid "Castle"
+msgstr "Шилтгээн"
+
+msgid "Duplex"
+msgstr "2 нийлмэл"
+
+msgid "Manor house"
+msgstr "Өргөө"
+
+msgid "Farm"
+msgstr "Ферм"
+
+msgid "Villa"
+msgstr "Вилла"
+
+msgid "Apartment villa"
+msgstr "Орон сууцны вилла"
+
+msgid "Ruin"
+msgstr "Балгас"
+
+msgid "Mill"
+msgstr "Тээрэм"
+
+msgid "Carpark"
+msgstr "Авто зогсоол"
+
+msgid "Farmhouse"
+msgstr "Фермийн байшин"
+
+msgid "Townhouse"
+msgstr "Таунхаус"
+
+msgid "Mobile home"
+msgstr "Зөөврийн байр"
+
+msgid "Cottage"
+msgstr "Жижиг байшин"
+
+msgid "Hangar"
+msgstr "Ангар"
+
+msgid "Mas"
+msgstr "Карнивал"
+
+msgid "Local"
+msgstr "Бүсийн"
+
+msgid "Chalet"
+msgstr "Торхон байшин"
+
+msgid "Retail space"
+msgstr "Компаний байр"
+
+msgid "Business assets"
+msgstr "Бизнесийн өмчүүд"
+
+msgid "Right to the lease"
+msgstr "Түрээслэх эрх"
+
+msgid "Mansion"
+msgstr "Ордон"
+
+msgid "Management"
+msgstr "Менежмент"
+
+msgid "Agricultural exploitation"
+msgstr "Хөдөө аж ахуйн нөөцийн хэрэглээ"
+
+msgid "Woodshed"
+msgstr "Түлээний амбаар"
+
+msgid "Stud farm"
+msgstr "Үржүүлэг"
+
+#, fuzzy
+msgid "Plot of land"
+msgstr ""
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"Газар\n"
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"Газрын зураглал"
+
+msgid "Bastide"
+msgstr "Зуслангийн байшин (Франц маягийн)"
+
+msgid "Bastidon"
+msgstr "Зуслангийн байшин (Прованс орчмын)"
+
+msgid "Company"
+msgstr "Компани"
+
+msgid "Vineyard property"
+msgstr "Усан үзмийн байгууламж"
+
+msgid "Motor Yacht"
+msgstr "Моторт дарвуулт завь"
+
+msgid "Narrow boat"
+msgstr "Урт завь"
+
+msgid "Sailing Yacht"
+msgstr "Дарвуулт завь"
+
+msgid "Catamaran"
+msgstr "2 их биетэй завь"
+
+msgid "Equestrian estate"
+msgstr "Морь уналгын газар"
+
+msgid "Bed and breakfast"
+msgstr "Өглөөний цай дагалдах өрөө"
+
+msgid "Gîte"
+msgstr "Амралтын байшин"
+
+msgid "Riad"
+msgstr "Жижиг буудал"
+
+msgid "Retail shop"
+msgstr "Худалдааны"
+
+msgid "Shophouse"
+msgstr "Дэлгүүр"
+
+msgid "Borey"
+msgstr "Нэгдсэн хамгаалалт бүхий таунхаус"
+
+msgid "Condo"
+msgstr "Байр"
+
+msgid "Factory"
+msgstr "Үйлдвэр"
+
+msgid "Serviced apartment"
+msgstr "Үйлчилгээтэй байр"
+
+msgid "Twin Villa"
+msgstr "Твин Вилла"
+
+msgid "Bungalow"
+msgstr "1 давхар хаус"
+
+msgid "Semi-detached house"
+msgstr "Урт, нийлсэн хаус"
+
+msgid "Beach house"
+msgstr "Далайн эргийн хаус"
+
+msgid "Ger district"
+msgstr "Гэр хороолол"
+
+msgid "Summer house"
+msgstr "Зуны байшин"
+
+msgid "Private island"
+msgstr "Хувийн арал"
+
+msgid "Cellar"
+msgstr "Зоорийн агуулах"
+
+msgid "Mountains"
+msgstr "Уулс"
+
+msgid "Greenery"
+msgstr "Зүлэгжилт"
+
+msgid "Monument"
+msgstr "Хөшөө дурсгал"
+
+msgid "Forest"
+msgstr "Ой"
+
+msgid "River"
+msgstr "Гол горхи"
+
+msgid "City"
+msgstr "Хот"
+
+msgid "Sky"
+msgstr "Тэнгэр"
+
+msgid "Harbor"
+msgstr "Боомт"
+
+msgid "Ski slopes"
+msgstr "Цанын бааз"
+
+msgid "Obstructed"
+msgstr "Халхлагдсан"
+
+msgid "Slight"
+msgstr "Бага зэрэг халхлагдсан"
+
+msgid "Unobstructed"
+msgstr "Халхалсан зүйл байхгүй"
+
+msgid "Panoramic"
+msgstr "Эргэн тойрноо чөлөөтэй хардаг"
+
+msgid "Septic tank"
+msgstr "Бохирын танк"
+
+msgid "Main drainage"
+msgstr "Үндсэн хаялга"
+
+msgid "Treatment plant"
+msgstr "Ус цэвэрлэх байгууламж"
+
+msgid "Estate agent"
+msgstr "Үл хөдлөхийн агент"
+
+msgid "Phoning"
+msgstr "Утасдах"
+
+msgid "Collaboration"
+msgstr "Хамтрах"
+
+msgid "Provider"
+msgstr "Нийлүүлэгч"
+
+msgid "Renown"
+msgstr "Танигдсан"
+
+msgid "Walk-in / Window"
+msgstr "Зочлох"
+
+msgid "Network"
+msgstr "Сүлжээ"
+
+msgid "Flyer"
+msgstr "Тараах материал"
+
+msgid "Sign"
+msgstr "Гарын үсэг зурах"
+
+msgid "Magazine"
+msgstr "Сэтгүүл"
+
+#, fuzzy
+msgid "Mailing"
+msgstr ""
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"Шуудангаар явуулах\n"
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"Илгээх"
+
+#, fuzzy
+msgid "e-mailing"
+msgstr ""
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"И-мэйлээр илгээх\n"
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"И-мэйлдэх"
+
+msgid "Old client"
+msgstr "Давтан үйлчлүүлэгч"
+
+msgid "Appraisal"
+msgstr "Сайшаал"
+
+msgid "Selection / Favorite"
+msgstr "Сонгосон/Дуртай"
+
+msgid "Main residence"
+msgstr "Үндсэн сууц"
+
+msgid "Secondary residence"
+msgstr "Нэмэлт сууц"
+
+msgid "Student residence"
+msgstr "Оюутны байр"
+
+msgid "Tourism residence"
+msgstr "Аялал жуулчлалын байр"
+
+msgid "Seniors residence"
+msgstr "Ахмадын байр"
+
+msgid "Duflot Legislation"
+msgstr "Duflot-ийн эрхзүйн зохицуулалт"
+
+msgid "Censi-Bouvard Legislation"
+msgstr "Censi-Bouvard-ийн эрхзүйн зохицуулалт"
+
+msgid "Reduced fees"
+msgstr "Багасгасан шимтгэлүүд"
+
+msgid "EHPAD (Retirement homes)"
+msgstr "Ахмадуудын байр"
+
+msgid "Act 1291"
+msgstr "1291-р акт"
+
+msgid "Act 887"
+msgstr "887-р акт"
+
+msgid "Mixed-use"
+msgstr "Холимог"
+
+msgid "Rental investment"
+msgstr "Түрээсийн хөрөнгө оруулалт"
+
+msgid "Act 1235"
+msgstr "1235-р акт"
+
+msgid "Pinel Legislation"
+msgstr "Pinel-ийн эрхзүйн зохицуулалт"
+
+msgid "Resale"
+msgstr "дахин худалдаалах"
+
+msgid "Private leasing"
+msgstr "хувь лизинг"
+
+msgid "Bank leasing"
+msgstr "Банкны лизинг"
+
+msgid "IPOTEK"
+msgstr "ИПОТЕК"
+
+msgid "Exchangeable"
+msgstr "Бартердах боломжтой"
+
+msgid "No advance"
+msgstr "Урьдчилгаагүй"
+
+msgid "m²"
+msgstr "m²"
+
+msgid "sq ft"
+msgstr "ft²"
+
+msgid "sq yd"
+msgstr "yd²"
+
+msgid "ha"
+msgstr "ha"
+
+msgid "minute"
+msgstr "минут"
+
+msgid "metre"
+msgstr "метр"
+
+msgid "km"
+msgstr "км"
+
+msgid "Administrator"
+msgstr "Администратор"
+
+msgid "Company manager"
+msgstr "Компаний менежер"
+
+msgid "Agency manager"
+msgstr "Агентийн менежер"
+
+msgid "Secretariat"
+msgstr "Нарийн бичгийн оффис"
+
+#, fuzzy
+msgid "Agent"
+msgstr ""
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"Брокер\n"
+"#-#-#-#-#  apimo-mn_MN.po  #-#-#-#-#\n"
+"Агент"
+
+msgid "Intern"
+msgstr "Дадлагажигч"
+
+msgid "User"
+msgstr "Хэрэглэгч"
+
+msgid "Franchisor"
+msgstr "Франчайз эрх зээлдүүлэгч"
+
+msgid "Translator"
+msgstr "Орчуулагч"
+
+msgid "Plan"
+msgstr "План зураг"
+
+msgid "Picture"
+msgstr "Зураг"
+
+msgid "Pet"
+msgstr "Тэжээвэр амьтан"
+
+msgid "Natural light"
+msgstr "Байгалийн гэрэл"
+
+msgid "Kitchen island"
+msgstr "Гал тогооны гол тавцан"
+
+msgid "Kitchen bar"
+msgstr "Гал тогооны тек"
+
+msgid "High ceiling"
+msgstr "Өндөр тааз"
+
+msgid "Skylight"
+msgstr "Дээврийн цонх"
+
+msgid "Exposed bricks"
+msgstr "Тоосго цухуйсан"
+
+msgid "Ceiling fan"
+msgstr "Таазны сэнс"
+
+msgid "Chandelier"
+msgstr "Гэрлийн бүрхүүл"
+
+msgid "Stainless steel"
+msgstr "Зэвэрдэггүй ган"
+
+msgid "Price on request"
+msgstr "Хүсэлтээр үнэ харуулах"
+
+msgid "Currency"
+msgstr "Мөнгөний нэгж"
+
+msgid "price"
+msgstr "Үнэ"
+
+msgid "Types"
+msgstr "Төрлүүд"
+
+msgid "Cities"
+msgstr "Хотууд"
+
+msgid "Bedrooms"
+msgstr "Унтлагын өрөөнүүд"
+
+msgid "Rooms"
+msgstr "Өрөөнүүд"
+
+msgid "Tel."
+msgstr "Утас"
+
+msgid "Name"
+msgstr "Нэр"
+
+msgid "Firstname"
+msgstr "Овог"
+
+msgid "Description"
+msgstr "Тодорхойлолт"
+
+msgid "Ref"
+msgstr "Тод."
+
+msgid "%s bedroom"
+msgstr "%s унтлагын өрөө"
+
+msgid "%s bedrooms"
+msgstr "%s унтлагын өрөөнүүд"
+
+msgid "%s room"
+msgstr "%s өрөө"
+
+msgid "%s rooms"
+msgstr "%s өрөөнүүд"
+
+msgid "Folder"
+msgstr "Хавтас"
+
+msgid "No matches found"
+msgstr "Тохирох үр дүн олдсонгүй"
+
+msgid "Please enter one more character"
+msgstr "Дахин нэг тэмдэгт оруулна уу"
+
+msgid "Duplicate"
+msgstr "Давтагдсан"
+
+msgid "Backup"
+msgstr "Нөөц"
+
+msgid "Rate"
+msgstr "Ханш"
+
+msgid "Sender"
+msgstr "Илгээгч"
+
+msgid "Recipient"
+msgstr "Хүлээн авагч"
+
+msgid "Title"
+msgstr "Гарчиг"
+
+msgid "Attachment"
+msgstr "Хавсралт"
+
+msgid "Key"
+msgstr "Түлхүүр"
+
+msgid "Document"
+msgstr "Бичиг баримт"
+
+msgid "Back"
+msgstr "Буцах"
+
+msgid "Help"
+msgstr "Тусламж"
+
+msgid "Advanced"
+msgstr "Дэлгэрэнгүй"
+
+msgid "Area"
+msgstr "Талбай"
+
+msgid "Areas"
+msgstr "Дотоод зохион байгуулалт"
+
+msgid "Length"
+msgstr "Урт"
+
+msgid "Height"
+msgstr "Өндөр"
+
+msgid "Width"
+msgstr "Өргөн"
+
+msgid "Deposit"
+msgstr "Барьцаа"
+
+msgid "Agreement reference"
+msgstr "Гэрээний тодорхойлолт"
+
+msgid "Agreement start at"
+msgstr "Гэрээ эхлэх"
+
+msgid "Agreement end at"
+msgstr "Гэрээ дуусах"
+
+msgid "Website"
+msgstr "Вэбсайт"
+
+msgid "Proximity"
+msgstr "Ойр орчимд"
+
+msgid "Proximities"
+msgstr "Ойр орчмын"
+
+msgid "Loading"
+msgstr "Уншиж байна"
+
+msgid "Exit"
+msgstr "Гарах"
+
+msgid "Availability"
+msgstr "Боломжтой эсэх"
+
+msgid "Weighted area"
+msgstr "Нийт талбай"
+
+msgid "Living area"
+msgstr "Ашигтай талбай"
+
+msgid "Password forgotten"
+msgstr "Нууц үг мартсан"
+
+msgid "Password"
+msgstr "Нууц үг"
+
+msgid "Username"
+msgstr "Хэрэглэгчийн нэр"
+
+msgid "Welcome %s"
+msgstr "Тавтай Морил %s"
+
+msgid "Add"
+msgstr "Нэмэх"
+
+msgid "Display"
+msgstr "Харуулах"
+
+msgid "Listing"
+msgstr "Жагсаалт"
+
+msgid "Tools"
+msgstr "Хэрэгслүүд"
+
+msgid "Market"
+msgstr "Зах зээл"
+
+msgid "Agency"
+msgstr "Агентлаг"
+
+msgid "Calendar"
+msgstr "Календар"
+
+msgid "Homepage"
+msgstr "Нүүр хуудас"
+
+msgid "Maps"
+msgstr "Газрын зураг"
+
+msgid "Query"
+msgstr "Утга"
+
+msgid "Users"
+msgstr "Хэрэглэгчид"
+
+msgid "Zones"
+msgstr "Бүсүүд"
+
+msgid "Zone"
+msgstr "Бүс"
+
+msgid "Customer"
+msgstr "Харилцагч"
+
+msgid "Contacts"
+msgstr "Харилцагч нар"
+
+msgid "%s contact"
+msgstr "%s xарилцагч"
+
+msgid "%s contacts"
+msgstr "%s харилцагчид"
+
+msgid "Preferences"
+msgstr "Тохиргоо"
+
+msgid "General"
+msgstr "Үндсэн"
+
+msgid "Heating"
+msgstr "Халаалт"
+
+msgid "Waste water"
+msgstr "Бохир ус"
+
+msgid "Country"
+msgstr "Улс"
+
+msgid "Escrow deposit"
+msgstr "Эскроу"
+
+msgid "Orientation"
+msgstr "Чиглэл"
+
+msgid "View"
+msgstr "Харагдац"
+
+msgid "District"
+msgstr "Дүүрэг"
+
+msgid "Fields"
+msgstr "Талбарууд"
+
+msgid "Hook"
+msgstr "Өгөөш"
+
+msgid "Comment"
+msgstr "Тайлбар"
+
+msgid "Buy"
+msgstr "Худалдан авах"
+
+msgid "Rent"
+msgstr "Түрээслэх"
+
+msgid "Commercial"
+msgstr "Худалдааны"
+
+msgid "About us"
+msgstr "Бидний тухай"
+
+msgid "Service"
+msgstr "Үйлчилгээ"
+
+msgid "News"
+msgstr "Мэдээ"
+
+msgid "Contact us"
+msgstr "Бидэнтэй холбогдох"
+
+msgid "Print"
+msgstr "Хэвлэх"
+
+msgid "Add to cart"
+msgstr "Сагсанд нэмэх"
+
+msgid "Replace in cart"
+msgstr "Сагсан дахийг солих"
+
+msgid "Category"
+msgstr "Категори"
+
+msgid "History"
+msgstr "Хэрэглэгчийн түүх"
+
+msgid "Date"
+msgstr "Огноо"
+
+msgid "Previous"
+msgstr "Өмнөх"
+
+msgid "Next"
+msgstr "Дараах"
+
+msgid "Quick search"
+msgstr "Хялбар хайлт"
+
+msgid "Zipcode"
+msgstr "Бүсийн код"
+
+msgid "The username and/or password is invalid."
+msgstr "Хэрэглэгчийн нэр эсвэл нууц үг буруу байна."
+
+msgid "Group"
+msgstr "Групп"
+
+msgid "Are you sure?"
+msgstr "Итгэлтэй байна уу?"
+
+msgid "Nationality"
+msgstr "Иргэний харъяалал"
+
+msgid "Regulation"
+msgstr "Зохицуулалт"
+
+msgid "Radius"
+msgstr "Хамрах хүрээ"
+
+msgid "Summary"
+msgstr "Хураангуй"
+
+msgid "Watermark"
+msgstr "Нууцлалын тэмдэг"
+
+msgid "Public latitude"
+msgstr "Өргөрөг"
+
+msgid "Public longitude"
+msgstr "Уртраг"
+
+msgid "Mortgage"
+msgstr "Моргэйж"
+
+msgid "Download"
+msgstr "Татах"
+
+msgid "Dashboard"
+msgstr "Самбар"
+
+msgid "Matching"
+msgstr "Тохирох"
+
+msgid "Pay now by card"
+msgstr "Картаар төлөх"
+
+msgid "Pay by bank transfer"
+msgstr "Дансаар шилжүүлэх"
+
+msgid "Pay by check"
+msgstr "Чекээр төлөх"
+
+msgid "Powered by"
+msgstr "Powered by"
+
+msgid "Accepted payment methods"
+msgstr "Төлбөр хийх боломжууд"
+
+msgid "Terms and Conditions"
+msgstr "Үйлчилгээний нөхцөл"
+
+msgid ""
+"Your contact is already in database, please select it on the list below."
+msgstr "Таны мэдээлэл бүртгэгдсэн байна. Та доорхи жагсаалтаас сонгоно уу"
+
+msgid "Agreement"
+msgstr "Гэрээ"
+
+msgid "Agreements"
+msgstr "Гэрээнүүд"
+
+msgid "Seekers"
+msgstr "Хайгчид"
+
+msgid "Active seekers"
+msgstr "Идэвхитэй хайгчид"
+
+msgid "Providers"
+msgstr "Нийлүүлэгчид"
+
+msgid "Owners"
+msgstr "Эзэмшигчид"
+
+msgid "Active owners"
+msgstr "Идэвхитэй эзэмшигчид"
+
+msgid "Monitoring"
+msgstr "Мониторинг"
+
+msgid "Forward"
+msgstr "Форвард хийх"
+
+msgid "Similar"
+msgstr "Ижил төстэй"
+
+msgid "Position"
+msgstr "Байршил"
+
+msgid "Condition"
+msgstr "Нөхцөл"
+
+msgid "Floor"
+msgstr "Давхар"
+
+msgid "Water"
+msgstr "Ус"
+
+msgid "Deductions"
+msgstr "Хасалт"
+
+msgid "Not available"
+msgstr "Боломжгүй"
+
+msgid "Occupant"
+msgstr "Оршин суугчид"
+
+msgid "Prospect"
+msgstr "Проспект"
+
+msgid "Shares"
+msgstr "Хуваалцсан"
+
+msgid "Likes"
+msgstr "Таалагдсан"
+
+msgid "Like"
+msgstr "Таалагдлаа"
+
+msgid "Unlike"
+msgstr "Таалагдсангүй"
+
+msgid "Portfolio"
+msgstr "Бүтээгдэхүүн"
+
+msgid "Characteristics"
+msgstr "Онцлогууд"
+
+msgid "Contracted owner"
+msgstr "Гэрээт эзэмшигч"
+
+msgid "Contracted owners"
+msgstr "Гэрээт эзэмшигчид"
+
+msgid "Contracted customer"
+msgstr "Гэрээт харилцагч"
+
+msgid "Contracted customers"
+msgstr "Гэрээт харилцагчид"
+
+msgid "Transfer tax"
+msgstr "Гүйлгээний хураамж"
+
+msgid "Change to"
+msgstr "Өөрчлөх"
+
+msgid "Until"
+msgstr "Хүртэл"
+
+msgid "Location reference"
+msgstr "Байршлын тодорхойлолт"
+
+msgid "Priority"
+msgstr "Чухалчлал"
+
+msgid "Full form"
+msgstr "Бүтэн анкет"
+
+msgid "Quick form"
+msgstr "Хялбар анкет"
+
+msgid "%s char(s)"
+msgstr "%s үсэг"
+
+msgid "Starting price"
+msgstr "Эхлэх үнэ"
+
+msgid "Listings"
+msgstr "Жагсаалтууд"
+
+msgid "Duration"
+msgstr "Үргэлжлэх хугацаа"
+
+msgid "Request incomplete"
+msgstr "Хүсэлт бүрэн биш байна"
+
+msgid "%s incomplete request(s)"
+msgstr "%s хүсэлт дутуу байна."
+
+msgid "Subscribe"
+msgstr "Бүртгүүлэх"
+
+msgid "Subtotal"
+msgstr "Нийлбэр"
+
+msgid "Tax notice"
+msgstr "Татварын мэдэгдэл"
+
+msgid "Events"
+msgstr "Арга хэмжээн"
+
+msgid "Present"
+msgstr "Одоо"
+
+msgid "Missing"
+msgstr "Байхгүй"
+
+msgid "Planned"
+msgstr "Төлөвлөсөн"
+
+msgid "Full"
+msgstr "Бүрэн"
+
+msgid "Organizer"
+msgstr "Зохион байгуулагч"
+
+msgid "Already subscribed"
+msgstr "Бүртгэл хийгдсэн байна"
+
+msgid "Attendees"
+msgstr "Оролцогчид"
+
+msgid "Training"
+msgstr "Сургалт"
+
+msgid "Require a change of password at next logon"
+msgstr "Дараа нэвтрэхэд нууц үг өөрчлөхийг шаардах"
+
+msgid "Gross revenue"
+msgstr "Нийт ашиг"
+
+msgid "Gross yield"
+msgstr "Нийт өгөөж"
+
+msgid "Net yield"
+msgstr "Цэвэр өгөөж"
+
+msgid "Vacancy rate"
+msgstr "Дүүргэлтийн хувь"
+
+msgid "Investment"
+msgstr "Хөрөнгө оруулалт"
+
+msgid "Lock"
+msgstr "Түгжих"
+
+msgid "Variables"
+msgstr "Өгөгдлүүд"
+
+msgid "Example"
+msgstr "Жишээ"
+
+msgid "Increment"
+msgstr "Өсөлт"
+
+msgid "Schema"
+msgstr "Схем"
+
+msgid "Automation"
+msgstr "Автоматжуулалт"
+
+msgid "Access"
+msgstr "Нэвтрэх"
+
+msgid "Renovation year"
+msgstr "Шинэчлэн зассан огноо"
+
+msgid "Curriculum vitae"
+msgstr "CV танилцуулга"
+
+msgid "Resellers"
+msgstr "Дахин борлуулалгч"
+
+msgid "Select"
+msgstr "Сонгох"
+
+msgid "Billing"
+msgstr "Тооцоо, нэхэмжлэх"
+
+msgid "The balance of your account is %s"
+msgstr "Таны дансны үлдэгдэл %s байна"
+
+msgid "Ceiling"
+msgstr "Тааз"
+
+msgid "Collected"
+msgstr "Цуглуулсан"
+
+msgid "Unlimited"
+msgstr "Хязгааргүй"
+
+msgid "Quantity"
+msgstr "Тоо ширхэг"
+
+msgid "Setup"
+msgstr "Тохируулах"
+
+msgid "Active owner"
+msgstr "Идэвхитэй эзэмшигч"
+
+msgid "Matching at"
+msgstr "Тохирч буй"
+
+msgid "Price by area"
+msgstr "Бүсийн үнэ"
+
+msgid "Default list"
+msgstr "Үндсэн жагсаалт"
+
+msgid "Subtype"
+msgstr "Дэд төрөл"
+
+msgid "Inventory"
+msgstr "Данс"
+
+msgid "Add a custom document"
+msgstr "Дурын файл нэмэх"
+
+msgid "Line spacing"
+msgstr "Мөр хоорондын зай"
+
+msgid "Font"
+msgstr "Фонт"
+
+msgid "Portrait"
+msgstr "Босоо"
+
+msgid "Landscape"
+msgstr "Хэвтээ"
+
+msgid "Accounts"
+msgstr "Данснууд"
+
+msgid "Optional"
+msgstr "Нэмэлт"
+
+msgid "File"
+msgstr "Файл"
+
+msgid "Collected at"
+msgstr "Авсан огноо"
+
+msgid "Linked"
+msgstr "Холбосон"
+
+msgid "Discover our offers"
+msgstr "Манай саналуудтай танилцах"
+
+msgid "empty"
+msgstr "Хоосон"
+
+msgid "Portal"
+msgstr "Портал"
+
+msgid "Software Documentation"
+msgstr "Програм хангамжийн бичиг баримт"
+
+msgid "Time"
+msgstr "Цаг"
+
+msgid "Dedicated website"
+msgstr "Тусгайлан зориулсан вэбсайт"
+
+msgid "Subcategory"
+msgstr "Дэд категори"
+
+msgid "No IP control"
+msgstr "IP хаягийн хяналт байхгүй"
+
+msgid "Auto publish"
+msgstr "Автоматаар нийтлэх"
+
+msgid "Link to property"
+msgstr "Үл хөдлөхтэй холбох"
+
+msgid "Happy birthday!"
+msgstr "Төрсөн өдрийн мэнд хүргэе"
+
+msgid "Birthdays"
+msgstr "Төрсөн өдрүүд"
+
+msgid "Last access"
+msgstr "Сүүлд нэвтэрсэн"
+
+msgid "This property is a part of:"
+msgstr "Энэ барилга нь дараах байгууламжийн хэсэг байна."
+
+msgid "IP address"
+msgstr "IP хаягууд"
+
+msgid "Prospecting"
+msgstr "Харилцагч хайж байгаа"
+
+msgid "Access code at"
+msgstr "Нэвтрэх код"
+
+msgid "Number of shares"
+msgstr "Хувьцааны тоо"
+
+msgid "Leads"
+msgstr "Lead-үүд"
+
+msgid "Cancelled"
+msgstr "Цуцалсан"
+
+msgid "Link"
+msgstr "Линк"
+
+msgid "Publish on homepage"
+msgstr "Нүүр хуудсанд нийтлэх"
+
+msgid "Suggestions"
+msgstr "Санал болгосон"
+
+msgid "Welcome on %s"
+msgstr "Нээлтийн %s"
+
+msgid "Content"
+msgstr "Контент"
+
+msgid "Extranet access"
+msgstr "Экстранэтээр нэвтрэх"
+
+msgid "Publish address"
+msgstr "Хаяг нийтлэх"
+
+msgid "Opening hours"
+msgstr "Цагийн хуваарь"
+
+msgid "Backoffice"
+msgstr "Дэмжих оффис"
+
+msgid "Member since %s"
+msgstr "%s өдрөөс гишүүн болсон"
+
+msgid "Lock menu bar"
+msgstr "Цэсний мөрийг түгжих"
+
+msgid "Update"
+msgstr "Шинэчлэлт"
+
+msgid "Reservations"
+msgstr "Захиалгууд"
+
+msgid "Forward to contact"
+msgstr "Хаяг луу форвард хийх"
+
+msgid "Responder"
+msgstr "Хариулагч"
+
+msgid ""
+"You can search our Frequently Asked Questions (FAQs) database by keyword(s):"
+msgstr ""
+"Та манай Түгээмэл Асуулт Хариултын хэсгээс түлхүүр үг ашиглан хайлт хийж "
+"болно"
+
+msgid "Registrar"
+msgstr "Бүртгэгч"
+
+msgid "Expiration at"
+msgstr "Дуусах огноо"
+
+msgid "Mailbox"
+msgstr "Шуудангийн хайрцаг"
+
+msgid "Domain name"
+msgstr "Домэйн нэр"
+
+msgid "Filling"
+msgstr "Дүүргэлтийн материал"
+
+msgid "Condition precedent"
+msgstr "Угтвар нөхцөл"
+
+msgid "Size"
+msgstr "Хэмжээ"
+
+msgid "Deal fees"
+msgstr "Амжилттай хэлцлийн шимтгэл"
+
+msgid "Fees charged"
+msgstr "Суутгасан шимтгэлүүд"
+
+msgid "Booked"
+msgstr "Захиалсан"
+
+msgid "Available"
+msgstr "Авах боломжтой"
+
+msgid "Associate"
+msgstr "Туслах"
+
+msgid "Ceiling height"
+msgstr "Таазны өндөр"
+
+msgid "Translations"
+msgstr "Орчуулгууд"
+
+msgid "Unsold"
+msgstr "Борлуулагдаагүй"
+
+msgid "Sold"
+msgstr "Зарагдсан"
+
+msgid "Last action"
+msgstr "Сүүлчийн алхам"
+
+msgid "Our agency"
+msgstr "Манай агентууд"
+
+msgid "Locate us"
+msgstr "Биднийг олох"
+
+msgid "Your main contact"
+msgstr "Таны үндсэн харилцааны хэрэгсэл"
+
+msgid "Send me a message"
+msgstr "Мессеж илгээх"
+
+msgid "Leave us a message"
+msgstr "Бидэнд мессеж үлдээх"
+
+msgid "Price with fees"
+msgstr "Үнэ болон шимтгэлүүд"
+
+msgid "Owner access"
+msgstr "Эзэмшигчийн нэвтрэх эрх"
+
+msgid "Added"
+msgstr "Нэмсэн"
+
+msgid "Available for matching"
+msgstr "Хайлтад тохирох боломжтой"
+
+msgid "Available at"
+msgstr "боломжтой"
+
+msgid "Lessee"
+msgstr "Түрээслэгч"
+
+msgid "Add to list"
+msgstr "Жагсаалтад нэмэх"
+
+msgid "Custom tags"
+msgstr "Tag нэмэх"
+
+msgid "%s pending approval properties"
+msgstr "%s байршил баталгаажуулалт хүлээж байна"
+
+msgid "Negotiable price"
+msgstr "Үнэ тохирох боломжтой"
+
+msgid "Price updated"
+msgstr "Үнэ шинэчилсэн"
+
+msgid "Less equal"
+msgstr "Бага буюу тэнцүү"
+
+msgid "Equal"
+msgstr "Тэнцүү"
+
+msgid "Greater equal"
+msgstr "Их буюу тэнцүү"
+
+msgid "Contact means"
+msgstr "Холбоо барих боломжууд"
+
+msgid "Agency commission"
+msgstr "Агентын урамшуулал"
+
+msgid "Scheduled at"
+msgstr "Товлосон огноо"
+
+msgid "Contract at"
+msgstr "Гэрээлэх огноо"
+
+msgid "Commitment"
+msgstr "Гэрээ зөвшөөрсөн"
+
+msgid "Commitment at"
+msgstr "Гэрээ зөвшөөрсөн огноо"
+
+msgid "Offer at"
+msgstr "Саналын огноо"
+
+msgid "No action"
+msgstr "Үйлдэл хийхгүй"
+
+msgid "Others"
+msgstr "Бусад"
+
+msgid "Received contact information"
+msgstr "Гэрээний мэдээлэл хүлээн авсан"
+
+msgid "Linked contact"
+msgstr "Холбоотой профайлууд"
+
+msgid "Related contacts"
+msgstr "Хамааралтай профайлууд"
+
+msgid "Assigned to"
+msgstr "Даалгасан"
+
+msgid "Assign to"
+msgstr "Даалгах"
+
+msgid "Assign by"
+msgstr "Даалгавар өгсөн"
+
+msgid "Opened by"
+msgstr "Нээсэн"
+
+msgid "Closed by"
+msgstr "Хаасан"
+
+msgid "Time zone"
+msgstr "Цагийн бүс"
+
+msgid "Customers"
+msgstr "Харилцагчид"
+
+msgid "Invert selection"
+msgstr "Сонголтыг урвуулах"
+
+msgid "Select all"
+msgstr "Бүгдийг сонгох"
+
+msgid "Unselect all"
+msgstr "Бүгдийг сонгохоо болих"
+
+msgid "%s awaiting lead(s)"
+msgstr "%s таны хүлээгдэж буй lead-үүд"
+
+msgid "%s lead(s) to assign"
+msgstr "%s таны даалгаагүй lead"
+
+msgid "%s pending properties"
+msgstr "%s таны хүлээгдэж буй ҮХХ"
+
+msgid "%s pending matching(s)"
+msgstr "%s таны хайлтад тохирох ҮХХ"
+
+msgid "%s expired agreement(s)"
+msgstr "%s таны хугацаа дууссан гэрээнүүд"
+
+msgid "%s expired soon agreement(s)"
+msgstr "%s таны удахгүй хугацаа дуусах гэрээнүүд"
+
+msgid "Legal notice"
+msgstr "Хуулийн мэдэгдэл"
+
+msgid "Keyword"
+msgstr "Түлхүүр үг"
+
+msgid "Allowed"
+msgstr "Зөвшөөрөгдсөн"
+
+msgid "Min stay"
+msgstr "Зочилсон мин"
+
+msgid "Over"
+msgstr "Илүү"
+
+msgid "Refresh"
+msgstr "Шинэчлэх"
+
+msgid "Free text"
+msgstr "Текст бичих"
+
+msgid "Generate comment"
+msgstr "Коммент үүсгэх"
+
+msgid "Building name"
+msgstr "Барилгын нэр"
+
+msgid "VAT"
+msgstr "НӨАТ"
+
+msgid "VAT included"
+msgstr "НӨАТ орсон"
+
+msgid "VAT excluded"
+msgstr "НӨАТ ороогүй"
+
+msgid "Recurrence"
+msgstr "Давтамж"
+
+msgid "Calculate"
+msgstr "Тооцоолох"
+
+msgid "Contribution"
+msgstr "Нэмэрлэх"
+
+msgid "Maximum debt"
+msgstr "Зээлийн дээд хэмжээ"
+
+msgid "Purchase amount"
+msgstr "Худалдан авах дүн"
+
+msgid "Borrowing calculator"
+msgstr "Зээлийн тооцоолуур"
+
+msgid "Monthly payment calculator"
+msgstr "Сарын төлөлтийн тооцоолуур"
+
+msgid "You don't have broadcasting rights"
+msgstr "Таньд нийтлэх эрх байхгүй байна"
+
+msgid "Pending"
+msgstr "Хүлээгдэж буй"
+
+msgid "To show"
+msgstr "Үзүүлэх"
+
+msgid "Automatic"
+msgstr "Автомат"
+
+msgid "Manual"
+msgstr "Гараар тохируулах"
+
+msgid "In collaboration with a %name% professional"
+msgstr "%name% салбарын мэргэжилтэнтэй хамтран"
+
+msgid "Partners"
+msgstr "Түншүүд"
+
+msgid "Cost"
+msgstr "Зардал"
+
+msgid "My search"
+msgstr "Миний хайлт"
+
+msgid "Spouse"
+msgstr "Гэр бүлийн хүн"
+
+msgid "Manager"
+msgstr "Менежер"
+
+msgid "Category reference"
+msgstr "Категорийн тодорхойлолт"
+
+msgid "Cadastre reference"
+msgstr "Кадастрын тодорхойлолт"
+
+msgid "Lot reference"
+msgstr "Газрын тодорхойлолт"
+
+msgid "Block reference"
+msgstr "Барилгын тодорхойлолт"
+
+msgid "Stairs reference"
+msgstr "Шатны тодорхойлолт"
+
+msgid "Mortgage end at"
+msgstr "Моргэйж дуусах огноо"
+
+msgid "Media"
+msgstr "Хэвлэл мэдээлэл"
+
+msgid "Medias"
+msgstr "Хэвлэл мэдээллүүд"
+
+msgid "First access"
+msgstr "Анх нэвтэрсэн"
+
+msgid "Access count"
+msgstr "Нэвтэрсэн тоо"
+
+msgid "Default"
+msgstr "Default"
+
+msgid "Please do not enter any name or contact"
+msgstr "Та ямар нэгэн холбоо барих мэдээлэл бүү оруулаарай"
+
+msgid "QR-Code"
+msgstr "QR код"
+
+msgid "Show price"
+msgstr "Үнийг харуул"
+
+msgid "Completed"
+msgstr "Дууссан"
+
+msgid "Not applicable"
+msgstr "Хамаарахгүй"
+
+msgid "Fill in the table"
+msgstr "Хүснэгтийг бөглөнө үү"
+
+msgid "copy"
+msgstr "хуулах"
+
+msgid "Automatic matching"
+msgstr "Автоматаар тохируулах"
+
+msgid "Authorization"
+msgstr "Баталгаажуулалт"
+
+msgid "Last connection the %s"
+msgstr "%s сүүлд нэвтэрсэн"
+
+msgid "All"
+msgstr "Бүгд"
+
+msgid "Wiki"
+msgstr "Вики"
+
+msgid "Latest"
+msgstr "Сүүлд нэмэгдсэн"
+
+msgid "Reset"
+msgstr "Шинээр эхлэх"
+
+msgid "Show/hide fields"
+msgstr "Талбаруудыг нуух/харуулах"
+
+msgid "Recent searches"
+msgstr "Сүүлийн хайлтууд"
+
+msgid "Association"
+msgstr "Холбоо"
+
+msgid "Meta crawler"
+msgstr "Мета хайлтын робот"
+
+msgid "Alerts"
+msgstr "Мэдэгдлүүд"
+
+msgid "Prescriber"
+msgstr "Баталсан эрх бүхий албан тушаалтан"
+
+msgid "Staff"
+msgstr "Ажилтнууд"
+
+msgid "Rank"
+msgstr "Эрэмбэ"
+
+msgid "Receive a copy"
+msgstr "Хуулбар авах"
+
+msgid "Latest views"
+msgstr "Сүүлд зочилсон"
+
+msgid "Quality"
+msgstr "Чанар"
+
+msgid "Waiting for partner"
+msgstr "Түнш хүлээж байгаа"
+
+msgid "Viewing agreement"
+msgstr "Үзэх тохиролцоо"
+
+msgid "Decline"
+msgstr "Татгалзах"
+
+msgid "Declined"
+msgstr "Татгалзсан"
+
+msgid "Accept"
+msgstr "Зөвшөөрөх"
+
+msgid "Accepted"
+msgstr "Зөвшөөрсөн"
+
+msgid "Matrimonial regime"
+msgstr "Гэрлэлтийн хэлбэр"
+
+msgid "Marital status"
+msgstr "Гэр бүлийн байдал"
+
+msgid "Thumbnail"
+msgstr "Icon"
+
+msgid "Unread"
+msgstr "Нээгээгүй"
+
+msgid "Reply"
+msgstr "Хариу бичих"
+
+msgid "Pension"
+msgstr "Тэтгэвэр"
+
+msgid "Beam"
+msgstr "Тулгуур, багана"
+
+msgid "Draft"
+msgstr "Ноорог"
+
+msgid "Guests"
+msgstr "Зочид"
+
+msgid "Crew"
+msgstr "Баг"
+
+msgid "Cruising speed"
+msgstr "Зорчих хурд"
+
+msgid "Builder"
+msgstr "Барилгачин"
+
+msgid "Administration"
+msgstr "Захиргаа, удирдлага"
+
+msgid "Civil law notary"
+msgstr "Иргэний хуулийн нотариатч"
+
+msgid "Price max"
+msgstr "Дээд үнэ"
+
+msgid "Messages"
+msgstr "Мессежүүд"
+
+msgid "Reminders"
+msgstr "Сануулгууд"
+
+msgid "Credit"
+msgstr "Оноо"
+
+msgid "Signatures"
+msgstr "Гарын үсэгнүүд"
+
+msgid "Signature"
+msgstr "Гарын үсэг"
+
+msgid "Title (politeness)"
+msgstr "Албан тушаал"
+
+msgid "Amount"
+msgstr "Дүн"
+
+msgid "Amounts"
+msgstr "Дүнгүүд"
+
+msgid "Updated at"
+msgstr "Шинэчлэгдсэн огноо"
+
+msgid "Created date"
+msgstr "Үүсгэсэн огноо"
+
+msgid "Publicated at"
+msgstr "Нийтэлсэн огноо"
+
+msgid "Insurance"
+msgstr "Даатгал"
+
+msgid "Provision"
+msgstr "Зүйл заалт"
+
+msgid "Entry"
+msgstr "Бүртгэл"
+
+msgid "Number"
+msgstr "Дугаар"
+
+msgid "Plot of land area"
+msgstr "Газрын хэмжээ"
+
+msgid "Deposit account"
+msgstr "Орлогын данс"
+
+msgid "Owner's price"
+msgstr "Эзэмшигчийн үнэ"
+
+msgid "Mobile"
+msgstr "Гар утас"
+
+msgid "Lease"
+msgstr "Түрээс"
+
+msgid "Leases"
+msgstr "Түрээсүүд"
+
+msgid "Address"
+msgstr "Хаяг"
+
+msgid "Searches"
+msgstr "Хайлтууд"
+
+msgid "Tips"
+msgstr "Зөвлөгөө"
+
+msgid "Delete"
+msgstr "Устгах"
+
+msgid "Days"
+msgstr "Өдрүүд"
+
+msgid "Catalog"
+msgstr "Каталог"
+
+msgid "contact"
+msgstr "Профайл"
+
+msgid "contacts"
+msgstr "Профайлууд"
+
+msgid "Statistics"
+msgstr "Статистикууд"
+
+msgid "Built in"
+msgstr "Суулгагдсан"
+
+msgid "Mark"
+msgstr "Тэмдэглэгээ"
+
+msgid "Percentage"
+msgstr "Хувь"
+
+msgid "Visits"
+msgstr "Зочилсон тоо"
+
+msgid "Visit comment"
+msgstr "Зочдын сэтгэгдэл"
+
+msgid "Key number"
+msgstr "Түлхүүр тоо"
+
+msgid "Key's place"
+msgstr "Түлхүүрний байршил"
+
+msgid "Displayed city (optional)"
+msgstr "Хот харуулах (нэмэлтээр)"
+
+msgid "Displayed district (optional)"
+msgstr "Дүүрэг харуулах (нэмэлтээр)"
+
+msgid "Clauses"
+msgstr "Заалт"
+
+msgid "Postal code"
+msgstr "Шуудангийн код"
+
+msgid "Seller"
+msgstr "Борлуулагч"
+
+msgid "Adjacency"
+msgstr "Зэрэгцээ байдал"
+
+msgid "Step"
+msgstr "Алхам"
+
+msgid "Long comment"
+msgstr "Урт сэтгэгдэл"
+
+msgid "Subtitle"
+msgstr "Дэд гарчиг"
+
+msgid "Last published at"
+msgstr "Сүүлд нийтэлсэн огноо"
+
+msgid "floor"
+msgstr "Шал"
+
+msgid "Inactive"
+msgstr "Идэвхигүй"
+
+msgid "Please fill in a name and a phone or an e-mail."
+msgstr "Та нэр, холбогдох дугаар эсвэл и-мэйл хаягаа оруулна уу"
+
+msgid "Passwords do not match, please retype"
+msgstr "Нууц үг таарахгүй байна, та дахин оруулна уу"
+
+msgid "Please change your password"
+msgstr "Нууц үгээ солино уу"
+
+msgid "New password should not be same as old password"
+msgstr "Шинэ нууц үг хуучинтайгаа адил байж болохгүй"
+
+msgid "years"
+msgstr "жил"
+
+msgid "Subscriptions"
+msgstr "Бүртгэлүүд"
+
+msgid "Tour comment"
+msgstr "Зочилсон сэтгэгдэл"
+
+msgid "Action"
+msgstr "Үйлдэл"
+
+msgid "Ad"
+msgstr "Зар"
+
+msgid "Add opening hours"
+msgstr "Цагийн хуваарь оруулах"
+
+msgid "Private"
+msgstr "Хувийн"
+
+msgid ""
+"Please note that there are dependencies, please select a contact for "
+"completing the data transfer."
+msgstr ""
+"Зарим сонголтууд дутуу байна. Та жагсаалтаас гэрээг сонгож, гүйлгээгээ "
+"дуусгана уу"
+
+msgid "The installation can take several minutes, please come back later."
+msgstr "Суулгах явц хэдэн минут болж магадгүй тул та түр хүлээнэ үү"
+
+msgid "Your contact speaks %s, would you like to change the language?"
+msgstr "Таны харилцагч %s хэлээр ярьдаг. Та хэлээ солихыг хүсч байна уу?"
+
+msgid "Would you like to publish on the homepage?"
+msgstr "Та нүүр хуудсан дээр нийтэлмээр байна уу?"
+
+msgid "plus VAT"
+msgstr "+ НӨАТ"
+
+msgid "<b>Warning :</b> there is an error, please check each fields."
+msgstr "Анхаар: Зарим талбарын мэдээлэл алдаатай байна"
+
+msgid "Price/sq m"
+msgstr "м.кв-ийн үнэ"
+
+msgid "today"
+msgstr "өнөөдөр"
+
+msgid "week"
+msgstr "7 хоног"
+
+msgid "day"
+msgstr "өдөр"
+
+msgid "from %from_value% to %to_value%"
+msgstr "%from_value% утгаас %to_value% утга хүртэл"
+
+msgid "Page"
+msgstr "Хуудас"
+
+msgid "Status"
+msgstr "Статус"
+
+msgid "Agencies"
+msgstr "Агентууд"
+
+msgid "agencies"
+msgstr "агентууд"
+
+msgid "Context"
+msgstr "Сэдэв"
+
+msgid "More criteria"
+msgstr "Нэмэлт шүүлтүүд"
+
+msgid "Criteria"
+msgstr "Шүүлт"
+
+msgid "Classification"
+msgstr "Ангилал"
+
+msgid "metres"
+msgstr "метр"
+
+msgid "Window"
+msgstr "Цонх"
+
+msgid "Stock area"
+msgstr "Агуулахын талбай"
+
+msgid "Sales area"
+msgstr "Борлуулах талбай"
+
+msgid "Sale price"
+msgstr "Зарах үнэ"
+
+msgid "Broadcast to"
+msgstr "Цацах"
+
+msgid "The property will not be published because it is in step « %s »"
+msgstr "« %s » алхмыг дуусгаагүй байгаа тул нийтлэх боломжгүй"
+
+msgid "Last agencies"
+msgstr "Сүүлийн агентууд"
+
+msgid "I confirm my subscription to %s and I accept the general conditions"
+msgstr ""
+"Би %s хуудсанд бүртгүүлэхийг зөвшөөрч байгаа бөгөөд үйлчилгээний нөхцлийг "
+"хүлээн зөвшөөрч байна"
+
+msgid "from %from_date% to %to_date%"
+msgstr "%from_date% өдрөөс  %to_date% өдөр"
+
+msgid "sq m"
+msgstr "м.кв"
+
+msgid "days"
+msgstr "өдрүүд"
+
+msgid "bedrooms"
+msgstr "унтлагын өрөөнүүд"
+
+msgid "bedroom"
+msgstr "унтлагын өрөө"
+
+msgid "rooms"
+msgstr "өрөөнүүд"
+
+msgid "room"
+msgstr "өрөө"
+
+msgid "Comments"
+msgstr "Сэтгэгдлүүд"
+
+msgid "comment"
+msgstr "сэтгэгдэл"
+
+msgid "comments"
+msgstr "сэтгэгдлүүд"
+
+msgid "Private comment"
+msgstr "Хувийн сэтгэгдэл"
+
+msgid "Levels"
+msgstr "Түвшингүүд"
+
+msgid "Level"
+msgstr "Түвшин"
+
+msgid "Exchanges"
+msgstr "Солилцоонууд"
+
+msgid "Exchange"
+msgstr "Солилцоо"
+
+msgid "by"
+msgstr "-р"
+
+msgid "n.a"
+msgstr "-"
+
+msgid "Elevator"
+msgstr "Цахилгаан шат"
+
+msgid "no"
+msgstr "үгүй"
+
+msgid "yes"
+msgstr "тийм"
+
+msgid "Printed with care"
+msgstr "Сэтгэл гаргаж хэвлэсэн"
+
+msgid "Please do not litter on public way"
+msgstr "Нийтийн зам дээр бүү шүлсээ хаяарай"
+
+msgid "Non-contractual information"
+msgstr "Гэрээний мэдээлэл алга"
+
+msgid "Agency fees"
+msgstr "Агентын хураамж"
+
+msgid "Agency fees included"
+msgstr "Агентын хураамж багтсан"
+
+msgid "Agency fees not included"
+msgstr "Агентын хураамж багтаагүй"
+
+msgid "Fees"
+msgstr "Шимтгэл, хураамжууд"
+
+msgid "Personal property tax"
+msgstr "Өрхийн орон сууцны татвар"
+
+msgid "Property tax"
+msgstr "Үл хөдлөхийн татвар"
+
+msgid "Style"
+msgstr "Стил"
+
+msgid "Parkings"
+msgstr "Зогсоолууд"
+
+msgid "Pictures"
+msgstr "Зурагнууд"
+
+msgid "Window card"
+msgstr "Цонхны сурталчилгаа"
+
+msgid "Private sheet"
+msgstr "Хувийн бүртгэл"
+
+msgid "Public sheet"
+msgstr "Нийтийн бүртгэл"
+
+msgid "Spoken languages"
+msgstr "Хэл"
+
+msgid "Cart"
+msgstr "Карт"
+
+msgid "Land type"
+msgstr "Газрын төрөл"
+
+msgid "Property agent"
+msgstr "Хөрөнгийн агент"
+
+msgid "End at"
+msgstr "Дуусах"
+
+msgid "Close"
+msgstr "Хаах"
+
+msgid "Start at"
+msgstr "Эхлэх"
+
+msgid "Guarantees"
+msgstr "Батламж"
+
+msgid "Type"
+msgstr "Төрөл"
+
+msgid "Inter-agencies"
+msgstr "Агент хоорондын"
+
+msgid "Number of floors"
+msgstr "Давхарын тоо"
+
+msgid "Evaluated price"
+msgstr "Тооцоолсон үнэ"
+
+msgid "Seller's commission"
+msgstr "Борлуулагчийн агентын урамшуулал"
+
+msgid "Buyer's commission"
+msgstr "Худалдан авагчийн агентын урамшуулал"
+
+msgid "Commission"
+msgstr "Урамшуулал"
+
+msgid "Origin"
+msgstr "Гарал үүсэл"
+
+msgid "Specific origin"
+msgstr "Тодорхой гарал үүслийн"
+
+msgid "Flooring"
+msgstr "Шаллагаа"
+
+msgid "Calls"
+msgstr "Дуудлагууд"
+
+msgid "Phone call"
+msgstr "Дуудлага"
+
+msgid "Publications"
+msgstr "Нийтлэлүүд"
+
+msgid "Send to contact"
+msgstr "Профайл руу илгээх"
+
+msgid "No results found"
+msgstr "Үр дүн олдсонгүй"
+
+msgid "Results"
+msgstr "Үр дүнгүүд"
+
+msgid "Result"
+msgstr "Үр дүн"
+
+msgid "results"
+msgstr "үр дүнгүүд"
+
+msgid "result"
+msgstr "үр дүн"
+
+msgid "Advertiser"
+msgstr "Сурталчилгаа захиалагч"
+
+msgid "Active"
+msgstr "Идэвхитэй"
+
+msgid "Confidential"
+msgstr "Нууцлалтай"
+
+msgid "Activities"
+msgstr "Үйл ажиллагаа"
+
+msgid "Companies"
+msgstr "Компаниуд"
+
+msgid "Edit"
+msgstr "Засах"
+
+msgid "Save"
+msgstr "Хадгалах"
+
+msgid "Succession"
+msgstr "Үргэлжлүүлэх"
+
+msgid "Please fill in a city."
+msgstr "Хот сонгоно уу"
+
+msgid "Guarantee"
+msgstr "Баталгаа"
+
+msgid "Please fill"
+msgstr "Бөглөнө үү"
+
+msgid "The email address is invalid."
+msgstr "И-мэйл хаяг буруу байна"
+
+msgid "Rights"
+msgstr "Эрхүүд"
+
+msgid "Since"
+msgstr "-с хойш"
+
+msgid "Filter"
+msgstr "Шүүлтүүр"
+
+msgid "Min"
+msgstr "Бага"
+
+msgid "Max"
+msgstr "Их"
+
+msgid "Lessor"
+msgstr "Түрээслүүлэгч"
+
+msgid "Booking"
+msgstr "Захиалга"
+
+msgid "Bed"
+msgstr "Орны тоо"
+
+msgid "Cleaning price"
+msgstr "Цэвэрлэгээний үнэ"
+
+msgid "Availabilities"
+msgstr "Авах боломж"
+
+msgid "Sent"
+msgstr "Илгээсэн"
+
+msgid "Year"
+msgstr "Жил"
+
+msgid "month"
+msgstr "сар"
+
+msgid "Seasons"
+msgstr "Улирлууд"
+
+msgid "Season"
+msgstr "Улирал"
+
+msgid "Rates"
+msgstr "Ханшууд"
+
+msgid "Todo"
+msgstr "Хийх ажлын жагсаалт"
+
+msgid "Brands"
+msgstr "Брэндүүд"
+
+msgid "Brand"
+msgstr "Брэнд"
+
+msgid "Bank"
+msgstr "Банк"
+
+msgid "Brief comment"
+msgstr "Товч сэтгэгдэл"
+
+msgid "Delivery at"
+msgstr "Хүргэгдэх огноо"
+
+msgid "Reason"
+msgstr "Шалтгаан"
+
+msgid "What's new"
+msgstr "Шинэ содон"
+
+msgid "Requests"
+msgstr "Хүсэлтүүд"
+
+msgid "Request"
+msgstr "Хүсэлт"
+
+msgid "requests"
+msgstr "хүсэлтүүд"
+
+msgid "request"
+msgstr "хүсэлт"
+
+msgid "Current rent"
+msgstr "Одоогийн түрээс"
+
+msgid "Properties"
+msgstr "Үл хөдлөх хөрөнгүүд"
+
+msgid "properties"
+msgstr "үл хөдлөх хөрөнгүүд"
+
+msgid "property"
+msgstr "үл хөдлөх хөрөнгө"
+
+msgid "Bill"
+msgstr "Тооцоо"
+
+msgid "Calculator"
+msgstr "Тооцоолуур"
+
+msgid "Birthplace"
+msgstr "Төрсөн газар"
+
+msgid "Birthday"
+msgstr "Төрсөн огноо"
+
+msgid "Income"
+msgstr "Орлого"
+
+msgid "Costs"
+msgstr "Зардлууд"
+
+msgid "Margin"
+msgstr "Алдааны магдлал"
+
+msgid "Required."
+msgstr "Заавал оруулах"
+
+msgid "Seasonal"
+msgstr "Улирлын чанартай"
+
+msgid "Number of children"
+msgstr "Хүүхдийн тоо"
+
+msgid "Hotline"
+msgstr "Шууд холбогдох утас"
+
+msgid "Re-type password"
+msgstr "Нууц үгээ дахин бичнэ үү"
+
+msgid "Access denied"
+msgstr "Нэвтрэх эрхгүй байна"
+
+msgid "Launch"
+msgstr "Эхлүүлэх"
+
+msgid "Shortcuts"
+msgstr "Товчлол"
+
+msgid "SEO"
+msgstr "Хайлтын системийн тохиргоо"
+
+msgid "Life annuity length"
+msgstr "Насны цалингийн хугацаа"
+
+msgid "Market value"
+msgstr "Зах зээлийн үнэлгээ"
+
+msgid "Price contribution"
+msgstr "Үнийн нөлөөлөл"
+
+msgid "Sharing"
+msgstr "Хуваалцах"
+
+msgid "Show more results"
+msgstr "Илүү үр дүнг харуулах"
+
+msgid "Hide"
+msgstr "Нуух"
+
+msgid "Keywords"
+msgstr "Түлхүүр үгнүүд"
+
+msgid "Corporate register"
+msgstr "Байгууллагын регистрийн №"
+
+msgid "Expired soon"
+msgstr "Удахгүй хугацаа нь дуусах"
+
+msgid "Expired"
+msgstr "Хугацаа дууссан"
+
+msgid "Agreement number"
+msgstr "Гэрээний дугаар"
+
+msgid "VAT identification number"
+msgstr "НӨАТ-ын дансны дугаар"
+
+msgid "What's on your mind?"
+msgstr "Та юу бодож байна?"
+
+msgid "Buyer"
+msgstr "Худалдан авагч"
+
+msgid "Message sent"
+msgstr "Мессеж илгээсэн"
+
+msgid "Limit"
+msgstr "Хязгаар"
+
+msgid "Publish"
+msgstr "Нийтлэх"
+
+msgid "Do not publish"
+msgstr "Нийтлэхээ болих"
+
+msgid "Cancel"
+msgstr "Цуцлах"
+
+msgid "Already suggested"
+msgstr "Хэдийн санал болгосон"
+
+msgid "Suggest"
+msgstr "Санал болгох"
+
+msgid "Diagnostics"
+msgstr "Дүн шинжилгээ"
+
+msgid "Footer"
+msgstr "Хөл текст"
+
+msgid "Header"
+msgstr "Толгой текст"
+
+msgid "Serviced plot"
+msgstr "Үйлчилгээтэй газар"
+
+msgid "Net floor area"
+msgstr "Талбайн цэвэр хэмжээ"
+
+msgid "Sold price"
+msgstr "Зарагдсан үнэ"
+
+msgid "Sold at"
+msgstr "Зарагдсан огноо"
+
+msgid "Preview"
+msgstr "Урьдчилж харах"
+
+msgid "Garden area"
+msgstr "Ногоон байгууламжийн хэмжээ"
+
+msgid "Payments"
+msgstr "Төлбөр"
+
+msgid "Reopen"
+msgstr "Дахин нээх"
+
+msgid "Complete"
+msgstr "Дуусгах"
+
+msgid "Callback"
+msgstr "Эргэн залгах"
+
+msgid "Callbacks"
+msgstr "Эргэн залгасан"
+
+msgid "Total"
+msgstr "Нийт"
+
+msgid "Coagent"
+msgstr "Хамтарсан агент"
+
+msgid "Residences"
+msgstr "Орон сууцнууд"
+
+msgid "%s properties"
+msgstr "%s ҮХХ-үүд"
+
+msgid "%s property"
+msgstr "%s өмч"
+
+msgid "%s request"
+msgstr "%s хүсэлт"
+
+msgid "%s requests"
+msgstr "%s хүсэлтүүд"
+
+msgid "Sorry, this property is no longer available."
+msgstr "Уучлаарай, энэ бүтээгдэхүүн байхгүй байна"
+
+msgid "Processed"
+msgstr "Хянагдсан"
+
+msgid "remaining tickets"
+msgstr "үлдсэн тасалбарууд"
+
+msgid "Congratulations ! No more support tickets."
+msgstr "Баяр хүргэе. Ямар ч тасалбар үлдээгүй байна"
+
+msgid "unassigned tickets"
+msgstr "хуваарилаагүй тасалбарууд"
+
+msgid "All tickets are assigned."
+msgstr "Бүх тасалбар хуваарилагдсан байна"
+
+msgid "task in progress"
+msgstr "Хийгдэж буй ажлууд"
+
+msgid "Database"
+msgstr "Мэдээллийн бааз"
+
+msgid "Used"
+msgstr "Ашиглагдсан"
+
+msgid "%s results"
+msgstr "%s үр дүнгүүд"
+
+msgid "Redirects"
+msgstr "Форвардын тоо"
+
+msgid "Subscribe to the newsletter"
+msgstr "Тогтмол мэдээ авах"
+
+msgid "Purge"
+msgstr "Цэвэрлэх"
+
+msgid "Valuation methods"
+msgstr "Үнэлгээний аргачлалууд"
+
+msgid "Rebuild cost"
+msgstr "Дахин барих зардал"
+
+msgid "Capitalization"
+msgstr "Капиталд хувиргах"
+
+msgid "Comparative market analysis"
+msgstr "Зах зээлийн харьцуулсан судалгаа"
+
+msgid "An average of"
+msgstr "Дундаж"
+
+msgid "Your own valuation"
+msgstr "Таны үнэлсэн үнэлгээ"
+
+msgid "Desired profitability"
+msgstr "Хүссэн ашгийн хэмжээ"
+
+msgid "Taxes and/or fees"
+msgstr "Татвар болон бусад шимтгэлүүд"
+
+msgid "Year of purchase"
+msgstr "Худалдсан авсан огноо"
+
+msgid "Rental income"
+msgstr "Түрээсийн орлого"
+
+msgid "Price of purchase"
+msgstr "Худалдан авах үнэ"
+
+msgid "Land price"
+msgstr "Газрын үнэ"
+
+msgid "Cost of construction"
+msgstr "Барилга угсралтын үнэ"
+
+msgid "Interior fittings"
+msgstr "Дотор тохижилт"
+
+msgid "Landscaping"
+msgstr "Орчны тохижилт"
+
+msgid "Decrepitude"
+msgstr "Элэгдэл"
+
+msgid "Capital losses"
+msgstr "Капиталын алданги"
+
+msgid "Capital gains"
+msgstr "Капиталын ашиг"
+
+msgid "Your mailbox has exceeded the storage limit (%s)"
+msgstr "Таны и-мэйл дүүрсэн байна (%s)"
+
+msgid "Your mailbox will reach the storage limit"
+msgstr "Таны и-мэйл дүүрэх гэж байна"
+
+msgid "Sort by"
+msgstr "Ангилах"
+
+msgid "Condominium in difficulty"
+msgstr "Асуудалтай байрнууд"
+
+msgid "Back to the list"
+msgstr "Жагсаалт руу буцах"
+
+msgid "Previous listing"
+msgstr "Өмнөх жагсаалт"
+
+msgid "Next listing"
+msgstr "Дараах жагсаалт"
+
+msgid "Filename"
+msgstr "Файлын нэр"
+
+msgid "Values"
+msgstr "Утгууд"
+
+msgid "New feed"
+msgstr "Шинэ мэдээ"
+
+msgid "Errors"
+msgstr "Алдаанууд"
+
+msgid "Error"
+msgstr "Алдаа"
+
+msgid "Erase"
+msgstr "Арилгах"
+
+msgid "Erase all"
+msgstr "Бүгдийг арилгах"
+
+msgid "Try"
+msgstr "Оролдох"
+
+msgid "Agency fees payable by vendor"
+msgstr "Борлуулагчийн шимтгэл"
+
+msgid "Agency fees payable by buyer"
+msgstr "Худалдан авагчийн шимтгэл"
+
+msgid "Condominium fees"
+msgstr "Байрны шимтгэлүүд"
+
+msgid "An error occurred"
+msgstr "Алдаа гарлаа"
+
+msgid "Successful subscription"
+msgstr "Амжилттай бүртгүүллээ"
+
+msgid "Updated date"
+msgstr "Шинэчилсэн огноо"
+
+msgid "Back to homepage"
+msgstr "Нүүр хуудас руу буцах"
+
+msgid "Price min"
+msgstr "Доод үнэ"
+
+msgid "Bedroom min"
+msgstr "Унтлагын өрөөний тоо багадаа"
+
+msgid "Bedroom max"
+msgstr "Унтлагын өрөөний тоо ихдээ"
+
+msgid "Room min"
+msgstr "Өрөө багадаа"
+
+msgid "Room max"
+msgstr "Өрөө ихдээ"
+
+msgid "Project at"
+msgstr "Төслийн огноо"
+
+msgid "Agency rate"
+msgstr "Агентийн ханш"
+
+msgid "Tenant's commission"
+msgstr "Түрээслэгчийн төлөх шимтгэлүүд"
+
+msgid "Inventory tenant charge"
+msgstr "Дансны шимтгэл"
+
+msgid "Fees included"
+msgstr "Багтсан шимтгэлүүд"
+
+msgid "Provision on recoverable fees"
+msgstr "Буцаан авах боломжтой шимтгэлийн заалт"
+
+msgid "Never"
+msgstr "Хэзээ ч"
+
+msgid "Remaining credits"
+msgstr "Үлдсэн оноо"
+
+msgid "Buy credits"
+msgstr "Оноо авах"
+
+msgid "%s credits"
+msgstr "%s оноо"
+
+msgid "Transaction fees"
+msgstr "Гүйлгээний шимтгэл"
+
+msgid "View property"
+msgstr "ҮХХ-ийг харах"
+
+msgid "lot available"
+msgstr "боломжтой газар"
+
+msgid "lots available"
+msgstr "боломжтой газрууд"
+
+msgid "Area min"
+msgstr "Хамгийн бага талбайн хэмжээ"
+
+msgid "Search a property"
+msgstr "ҮХХ хайх"
+
+msgid "International"
+msgstr "Олон улсын"
+
+msgid "Unsubscribe"
+msgstr "Бүртгэлээ цуцлах"
+
+msgid "The property will not be published because it is in group « %s »"
+msgstr "« %s » группт байгаа тул нийтлэх боломжгүй"
+
+msgid "%s month"
+msgstr "%s сар"
+
+msgid "%s months"
+msgstr "%s сарууд"
+
+msgid "No action after"
+msgstr "Дараа нь үйлдэл байхгүй"
+
+msgid "%s pending delete"
+msgstr "%s устгахаар хүлээгдэж буй жагсаалт"
+
+msgid "Pending delete"
+msgstr "Устгахаар хүлээгдэж буй жагсаалт"
+
+msgid "%s to delete"
+msgstr "%s устгах"
+
+msgid "Unsubscribed"
+msgstr "Бүртгэлээ цуцаллаа"
+
+msgid "Edit my search"
+msgstr "Хайлтаа өөрчлөх"
+
+msgid "Activate my search"
+msgstr "Хайлтаа идэвхижүүлэх"
+
+msgid "Cancel my search"
+msgstr "Хайлтаа цуцлах"
+
+msgid "Only authorized properties"
+msgstr "Зөвхөн баталгаажсан ҮХХ-үүд"
+
+msgid "Another currency"
+msgstr "Өөр валют"
+
+msgid "Enter the first 6 digits"
+msgstr "Эхний 6-н тоог оруул"
+
+msgid ""
+"Without action on your part, your contact will be deleted before the %s."
+msgstr ""
+"Та үргэлжлүүлэн үйлдэл хийхгүй бол таны гэрээ %s хугацааны дараа устах болно"
+
+msgid "No procedure in progress"
+msgstr "Ямар ч процедур хийгдээгүй байна"
+
+msgid "Procedure in progress"
+msgstr "Процедур хийгдэж байна"
+
+msgid "Number of lots in the condominium"
+msgstr "Байранд байгаа бүх талбай"
+
+msgid "Network authorized"
+msgstr "Сүлжээгээр баталгаажсан"
+
+msgid "Renew the lease"
+msgstr "Түрээсээ сунгах"
+
+msgid "Remove at"
+msgstr "Устгах огноо"
+
+msgid "External action"
+msgstr "Бусад үйлдэл"
+
+msgid ""
+"The migration of your prospect into a request will allow you to make "
+"matching and proposals with a better tracking."
+msgstr ""
+"Та хайлтаа хүсэлт болгон хувиргаснаар хэрэглэгчийн хайлт, илэрцэд илүү сайн "
+"харагдах боломжтой."
+
+msgid "Floors"
+msgstr "давхарууд"
+
+msgid "Job"
+msgstr "Ажил"
+
+msgid "Unsuscribe from this list"
+msgstr "Энэ жагсаалтаас гарах"
+
+msgid "Networks"
+msgstr "Сүлжээнүүд"
+
+msgid "Secured"
+msgstr "Баталгаажуулсан"
+
+msgid "Opacity"
+msgstr "Нэвтрэлт"
+
+msgid "Left"
+msgstr "Зүүн"
+
+msgid "Top"
+msgstr "Дээшээ"
+
+msgid "Relative to the last element"
+msgstr "Өмнөх гэрээний дагуу"
+
+msgid "Alignment"
+msgstr "Зэрэгцүүлэлт"
+
+msgid "Border size"
+msgstr "Хүрээний хэмжээ"
+
+msgid "Border color"
+msgstr "Хүрээний өнгө"
+
+msgid "Size of the internal margin"
+msgstr "Дотор зай"
+
+msgid "Font color"
+msgstr "Фонтны өнгө"
+
+msgid "Font size"
+msgstr "Фонтны хэмжээ"
+
+msgid "Background color"
+msgstr "Суурь өнгө"
+
+msgid "Custom image"
+msgstr "Зураг оруулах"
+
+msgid "%s unit"
+msgstr "%s Газрууд"
+
+msgid "Not suggested"
+msgstr "Санал болгоогүй"
+
+msgid "%s guest"
+msgstr "%s Зочид"
+
+msgid "%s bed"
+msgstr "%s Орны тоо"
+
+msgid "%s bathrooms"
+msgstr "%s bанны өрөө"
+
+msgid "Professionals"
+msgstr "Байгууллага"
+
+msgid "Toilet"
+msgstr "Бие засах өрөө"
+
+msgid "Show pagination"
+msgstr "Хуудаслалыг харуулах"
+
+msgid "Mandatory fields"
+msgstr "Заавал шаардлагатай талбарууд"
+
+msgid "Available soon"
+msgstr "Удахгүй нээгдэнэ"
+
+msgid "HD Photo"
+msgstr "HD Photo"
+
+msgid "Contract end at"
+msgstr "Гэрээ дуусах огноо"
+
+msgid "Incomplete"
+msgstr "Бүрэн бус"
+
+msgid "Location Map"
+msgstr "Байршил зураг"
+
+msgid "User Detail"
+msgstr "Хэрэглэгчийн дэлгэрэнгүй"
+
+msgid "File size"
+msgstr "Файлын хэмжээ"
+
+msgid "File title"
+msgstr "Файлын гарчиг"
+
+msgid "Region"
+msgstr "Бүс нутаг"
+
+msgid "Bath"
+msgstr "Усан өрөө"
+
+msgid "Private Negotiation"
+msgstr "Хувийн хэлэлцээр"
+
+msgid "Property specifications"
+msgstr "Өмчийн тодорхойлолт"
+
+msgid "Energy performance"
+msgstr "Энергийн гүйцэтгэл"
+
+msgid "Media Details"
+msgstr "Медианы дэлгэрэнгүй"
+
+msgid "View Video"
+msgstr "Бичлэг үзэх"
+
+msgid "Start Date"
+msgstr "Эхлэх огноо"
+
+msgid "End Date"
+msgstr "Дуусах огноо"
+
+msgid "Welcome"
+msgstr "Тавтай морилно уу"
+
+msgid "See What’s happening with Apimo Plugin."
+msgstr "Apimo плагинтай юу болоод байгааг харцгаая."
+
+msgid "PROVIDERS"
+msgstr "ҮЙЛЧИЛГЭЭ ҮЗҮҮЛЭГЧИД"
+
+msgid "AGENCIES"
+msgstr "АГЕНТЛАГУУД"
+
+msgid "PROPERTIES"
+msgstr "ХӨРӨНГӨ ОРУУЛАЛТУУД"
+
+msgid "BOOKMARK"
+msgstr "ТЭМДЭГЛЭЛ"
+
+msgid "Remove all"
+msgstr "Бүгдийг устгах"
+
+msgid "Apply filter"
+msgstr "Шүүлтүүрийг хэрэглэх"
+
+msgid "Select Subtype"
+msgstr "Дэд төрлийг сонгоно уу"
+
+msgid "Enchère"
+msgstr "Дуудлага худалдаа"
+
+msgid "Location"
+msgstr "Түрээс"
+
+msgid "Location saisonnière"
+msgstr "Улирлын түрээс"
+
+msgid "From"
+msgstr ""
+
+msgid "To"
+msgstr ""
+
+msgid "Dates"
+msgstr ""
+
+msgid "Select country"
+msgstr ""
+
+msgid "Select region"
+msgstr ""
+
+msgid "Select district"
+msgstr ""
+
+msgid "Select city"
+msgstr ""
+
+msgid "Good"
+msgstr "Сайн байна"
+
+msgid "Bad"
+msgstr "Муу"
+
+msgid "hello"
+msgstr "сайн уу"
+
+msgid "Available Integrations"
+msgstr "Боломжтой интеграцууд"
+
+msgid "reCAPTCHA Detected"
+msgstr "reCAPTCHA илэрсэн"
+
+msgid "reCAPTCHA Not Detected"
+msgstr "reCAPTCHA илрээгүй байна"
+
+msgid "Google reCAPTCHA Integration"
+msgstr "Google recaptcha интеграци"
+
+msgid ""
+"Protect your forms from spam and abuse with Google reCAPTCHA integration."
+msgstr ""
+"Өөрийнхөө маягтыг спамаас хамгаалж, Google recaptcha интеграцийг дагаж "
+"мөрдөөрэй."
+
+msgid "Activate Integration"
+msgstr "Интеграцийг идэвхжүүлэх"
+
+msgid "Deactivate Integration"
+msgstr "Интеграцийг идэвхгүй болгох"
+
+msgid "reCAPTCHA Configuration"
+msgstr "reCAPTCHA тохиргоо"
+
+msgid "Please configure your reCAPTCHA keys below to complete the setup."
+msgstr ""
+"Тохируулгыг дуусгахын тулд доорх reCAPTCHA товчлуураа доор тохируулна уу."
+
+msgid "To complete the reCAPTCHA setup:"
+msgstr "ReCAPTCHA SETUP-ийг дуусгахын тулд:"
+
+msgid "Go to the"
+msgstr "Руу явах"
+
+msgid "Google reCAPTCHA Admin Console"
+msgstr "Google recaptcha админ консол"
+
+msgid "Register your site and get your Site Key and Secret Key"
+msgstr "Сайтаа бүртгүүлээд сайтаа түлхүүр, нууц түлхүүрээ аваарай"
+
+msgid "Enter the keys below to activate reCAPTCHA"
+msgstr "Recaptcha-г идэвхжүүлэхийн тулд доорх товчлууруудыг оруулна уу"
+
+msgid "reCAPTCHA is configured properly."
+msgstr "reCAPTCHA зөв тохируулагдсан байна."
+
+msgid "Site Key"
+msgstr "Сүлжээний түлхүүр"
+
+msgid "Secret Key"
+msgstr "Нууцыг нууц түлхүүр"
+
+msgid "Save Configuration"
+msgstr "Тохиргоог хадгалах"
+
+msgid "Contact Form"
+msgstr "Холбоо барих маягт"
+
+msgid "Invalid format"
+msgstr "Хүчингүй дүнгүй"
+
+msgid "This field is required"
+msgstr "Энэ талбар шаардлагатай байна"
+
+msgid "Invalid email format"
+msgstr "И-мэйл формат буруу байна"
+
+msgid "Send"
+msgstr "Явуулах"
+
+msgid "Please use reCAPTCHA version 3"
+msgstr "ReCAPTCHA хувилбарыг ашиглана уу"

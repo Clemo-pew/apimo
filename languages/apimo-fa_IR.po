@@ -1,0 +1,5110 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.1\n"
+
+msgid "Reminder"
+msgstr "یادآور"
+
+msgid "Suggestion"
+msgstr "پیشنهاد قیمت"
+
+msgid "Report"
+msgstr "گزارش"
+
+#, fuzzy
+msgid "Other"
+msgstr ""
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"دیگر\n"
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"سایر\n"
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"سایر\n"
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"دیگر"
+
+#, fuzzy
+msgid "Valuation"
+msgstr ""
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"برآورد قیمت\n"
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"ارزیابی\n"
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"ارزیابی"
+
+msgid "Advertising"
+msgstr "تبلیغات"
+
+msgid "Open House"
+msgstr "همایش"
+
+#, fuzzy
+msgid "Canvassing"
+msgstr ""
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"جمع بندی\n"
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"اکتشاف"
+
+msgid "Message"
+msgstr "پیام"
+
+msgid "After-sales"
+msgstr "خدمات پس از فروش"
+
+msgid "Visit"
+msgstr "بازدید"
+
+#, fuzzy
+msgid "Appointment"
+msgstr ""
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"قرار\n"
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"نشست"
+
+msgid "Phone"
+msgstr "تلفن"
+
+msgid "e-mail"
+msgstr "ایمیل"
+
+msgid "Fax"
+msgstr "فکس"
+
+msgid "Mail"
+msgstr "پست"
+
+msgid "SMS"
+msgstr "پیامک"
+
+msgid "Walk-in"
+msgstr "مشتری حضوری"
+
+#, fuzzy
+msgid "Extranet"
+msgstr ""
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"ارسال فعالیت به مالک\n"
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"ارسال به مالک"
+
+msgid "Project"
+msgstr "پروژه"
+
+msgid "Under construction"
+msgstr "در دست ساخت"
+
+msgid "Delivered"
+msgstr "تحویل داده شده"
+
+msgid "Ended"
+msgstr "اتمام"
+
+msgid "Canceled"
+msgstr "لغو شد"
+
+msgid "Mr."
+msgstr "آقای"
+
+msgid "Ms."
+msgstr "خانم"
+
+msgid "Mr. & Mrs."
+msgstr "آقا و خانم"
+
+msgid "Sheik"
+msgstr "حاجی"
+
+msgid "Duke"
+msgstr "اشراف زاده"
+
+msgid "Duchess"
+msgstr "همسر اشراف زاده"
+
+msgid "Lord"
+msgstr "لرد"
+
+msgid "Maître"
+msgstr "استاد"
+
+msgid "Professor"
+msgstr "مهندس"
+
+msgid "Sir"
+msgstr "سید"
+
+msgid "Regulations"
+msgstr "مقررات"
+
+msgid "AML/KYC Vendor"
+msgstr "AML/KYC Vendor"
+
+msgid "AML/KYC Buyer"
+msgstr "AML/KYC Buyer"
+
+msgid "Concierge"
+msgstr "سرایدار"
+
+msgid "Contact"
+msgstr "تماس"
+
+#, fuzzy
+msgid "Search"
+msgstr ""
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"اطلاعات بیشتر\n"
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"جستجو"
+
+#, fuzzy
+msgid "Owner"
+msgstr ""
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"فروشنده\n"
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"مالک"
+
+#, fuzzy
+msgid "e-mail alert"
+msgstr ""
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"اعلان ها\n"
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"اطلاع رسانی از طریق ایمیل"
+
+msgid "Send to a friend"
+msgstr "ارسال به یک دوست"
+
+msgid "Newsletter"
+msgstr "خبرنامه"
+
+msgid "Selection"
+msgstr "گزینش"
+
+#, fuzzy
+msgid "New"
+msgstr ""
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"جدید\n"
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"نوساز\n"
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"جدید"
+
+msgid "Opened"
+msgstr "باز شده"
+
+msgid "Processing"
+msgstr "در حال فعالیت"
+
+#, fuzzy
+msgid "Closed"
+msgstr ""
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"بسته شده\n"
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"فروخته شده\n"
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"بسته"
+
+msgid "Self-employed"
+msgstr "شغل آزاد"
+
+msgid "Bakery"
+msgstr "نانوایی"
+
+msgid "Restaurant"
+msgstr "رستوران"
+
+msgid "Press"
+msgstr "مطبوعات"
+
+msgid "Bar"
+msgstr "سفره خانه"
+
+msgid "Florist"
+msgstr "گلفروشی"
+
+msgid "Tobacconist"
+msgstr "دکه"
+
+msgid "Clothes"
+msgstr "البسه"
+
+msgid "Chemist"
+msgstr "داروساز"
+
+msgid "Shopping centre"
+msgstr "مرکز خرید"
+
+msgid "Travel agency"
+msgstr "آژانس مسافرتی"
+
+msgid "Real estate agent"
+msgstr "مشاور املاک"
+
+msgid "Gallery"
+msgstr "گالری"
+
+#, fuzzy
+msgid "Garage"
+msgstr ""
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"مکانیکی\n"
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"گاراژ"
+
+msgid "Insurer"
+msgstr "دفتر بیمه"
+
+msgid "Optician"
+msgstr "عینک ساز"
+
+msgid "Perfumery"
+msgstr "عطرفروشی"
+
+msgid "Hotel"
+msgstr "هتل"
+
+msgid "Antique dealer"
+msgstr "عتیقه فروش"
+
+msgid "Laundry"
+msgstr "خشکشویی"
+
+msgid "Pressing"
+msgstr "اتوشویی"
+
+msgid "Jeweller"
+msgstr "جواهرسازی"
+
+msgid "Grocer"
+msgstr "خوار و بار فروشی"
+
+msgid "Butcher"
+msgstr "قصابی"
+
+msgid "Caterer"
+msgstr "غذاخوری و پذیرایی مجالس"
+
+msgid "Brewery"
+msgstr "آبجوسازی"
+
+msgid "Snack"
+msgstr "اسنک فروشی"
+
+msgid "Confectioner"
+msgstr "قنادی"
+
+msgid "Pork butcher"
+msgstr "قصابی خوک"
+
+msgid "Grocery"
+msgstr "بقالی"
+
+msgid "Cheesemonger"
+msgstr "پنیر فروشی"
+
+msgid "Fruit and vegetables"
+msgstr "فروشگاه میوه و سبزیجات"
+
+msgid "Sex shop"
+msgstr "فروشگاه جنسی"
+
+msgid "Video game"
+msgstr "کلوپ بازی های رایانه ای"
+
+msgid "Computer"
+msgstr "کامپیوتر"
+
+msgid "Hairdresser"
+msgstr "آرایشگاه"
+
+msgid "Cosmetician"
+msgstr "لوازم آرایشی"
+
+msgid "Household electrical"
+msgstr "فروشگاه لوازم خانگی برقی"
+
+msgid "Shoes"
+msgstr "کفش فروشی"
+
+msgid "Haberdasher"
+msgstr "فروشگاه لباس مردانه"
+
+msgid "Groomer"
+msgstr "فروشگاه دامادی"
+
+msgid "Tea room"
+msgstr "چایخانه"
+
+msgid "Beach"
+msgstr "ساحل"
+
+msgid "Bookshop"
+msgstr "کتاب فروشی"
+
+msgid "Offices"
+msgstr "اداره"
+
+msgid "Gas station"
+msgstr "پمپ بنزین"
+
+msgid "Camping"
+msgstr "اردوگاه"
+
+msgid "Nightclub"
+msgstr "کلاب شبانه"
+
+msgid "Pet store"
+msgstr "فروشگاه حیوانات خانگی"
+
+msgid "Video arcade"
+msgstr "کلوپ بازی های ویدیویی"
+
+msgid "Office supplies"
+msgstr "ملزومات اداری"
+
+msgid "Furniture"
+msgstr "مبلمان"
+
+msgid "Decoration"
+msgstr "دکوراسیون"
+
+msgid "Agriculture"
+msgstr "کشاورزی"
+
+msgid "Photo"
+msgstr "عکاسی"
+
+msgid "Drugstore"
+msgstr "داروخانه"
+
+msgid "Locksmith"
+msgstr "کلیدسازی"
+
+msgid "Health club"
+msgstr "باشگاه سلامتی"
+
+#, fuzzy
+msgid "Taxi"
+msgstr ""
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"ایستگاه تاکسی\n"
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"تاکسی"
+
+#, fuzzy
+msgid "Cinema"
+msgstr ""
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"سینما\n"
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"سینمای خانگی"
+
+msgid "Theater"
+msgstr "تئاتر"
+
+msgid "Café"
+msgstr "کافه"
+
+msgid "Garden centre"
+msgstr "باغ آرایی"
+
+msgid "Hardware shop"
+msgstr "فروسگاه سخت افزار"
+
+msgid "Fishmongers"
+msgstr "ماهی فروشی"
+
+msgid "Recreation"
+msgstr "سرگرمی"
+
+msgid "Culture"
+msgstr "فرهنگی"
+
+msgid "Funeral"
+msgstr "مراسم ختم"
+
+msgid "Sport supplies"
+msgstr "زیرساخت های ورزشی"
+
+#, fuzzy
+msgid "Bedroom"
+msgstr ""
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"خواب\n"
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"اتاق\n"
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"خواب"
+
+msgid "Living-room"
+msgstr "اتاق نشیمن"
+
+msgid "Kitchen"
+msgstr "آشپزخانه"
+
+msgid "Parking"
+msgstr "پارکینگ"
+
+msgid "Storage room"
+msgstr "انباری"
+
+msgid "Garden shelter"
+msgstr "پناهگاه باغ"
+
+msgid "Shower room"
+msgstr "حمام"
+
+msgid "Linen room"
+msgstr "اتاق رختشویی"
+
+msgid "Study"
+msgstr "اتاق مطالعه"
+
+msgid "Hallway"
+msgstr "راهرو"
+
+msgid "Corridor"
+msgstr "کریدور"
+
+msgid "Walk-in wardrobe"
+msgstr "اتاقک لباس"
+
+msgid "Entrance"
+msgstr "ورودی"
+
+msgid "Bathroom / Lavatory"
+msgstr "دستشویی"
+
+msgid "Balcony"
+msgstr "بالکن"
+
+msgid "Terrace"
+msgstr "تراس"
+
+msgid "Solarium"
+msgstr "سولاریوم"
+
+msgid "Dining room"
+msgstr "سالن پذیرایی"
+
+#, fuzzy
+msgid "Arcade"
+msgstr ""
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"اتاق بازی\n"
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"گذرگاه طاقدار"
+
+msgid "Pool house"
+msgstr "اتاق بیلیارد"
+
+msgid "Cupboard"
+msgstr "کابینت"
+
+msgid "Not used"
+msgstr "بلا استفاده"
+
+msgid "Loggia"
+msgstr "ایوان"
+
+msgid "Attic"
+msgstr "اتاق زیر شیروانی"
+
+msgid "Mezzanine"
+msgstr "اشکوب کوتاه"
+
+msgid "Warehouse"
+msgstr "انبار"
+
+msgid "Maintenance room"
+msgstr "اتاق نگهداری"
+
+msgid "Workshop"
+msgstr "آتلیه"
+
+msgid "Studio"
+msgstr "استودیو"
+
+#, fuzzy
+msgid "Loft"
+msgstr ""
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"سقف شیروانی\n"
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"پنت هاوس"
+
+msgid "Library"
+msgstr "کتابخانه"
+
+msgid "Closet"
+msgstr "کمد دیواری"
+
+msgid "Courtyard"
+msgstr "حیاط"
+
+msgid "Landing"
+msgstr "راه پله"
+
+msgid "Basement"
+msgstr "زیرزمین"
+
+msgid "Shower room / Lavatory"
+msgstr "دوش"
+
+msgid "Exercise room"
+msgstr "سالن ورزشی"
+
+msgid "Discothèque"
+msgstr "کاباره"
+
+msgid "Home cinema"
+msgstr "سینمای خانگی"
+
+msgid "Reception room"
+msgstr "اتاق پذیرش"
+
+msgid "Garden"
+msgstr "باغ"
+
+#, fuzzy
+msgid "Park"
+msgstr ""
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"پارک\n"
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"پارکینگ عمومی\n"
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"پارک"
+
+msgid "Land"
+msgstr "زمین"
+
+msgid "Patio"
+msgstr "پاسیو"
+
+msgid "Principal bedroom"
+msgstr "خواب مستر"
+
+msgid "Suite"
+msgstr "سوئیت"
+
+msgid "Shed"
+msgstr "خانه قابل حمل"
+
+msgid "Apartment"
+msgstr "آپارتمان"
+
+msgid "Cabin"
+msgstr "خوابگاه"
+
+#, fuzzy
+msgid "Barn"
+msgstr ""
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"اسطبل\n"
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"طویله"
+
+msgid "Outbuilding"
+msgstr "خانه سرایداری"
+
+msgid "Bike storage room"
+msgstr "اتاق نگهداری دوچرخه"
+
+msgid "Ski storage room"
+msgstr "اتاق نگهداری اسکی"
+
+msgid "Garbage room"
+msgstr "اتاق زباله"
+
+msgid "Steam room"
+msgstr "حمام ترکی"
+
+msgid "Indoor swimming pool"
+msgstr "استخر سرپوشیده"
+
+msgid "Prayer room"
+msgstr "نمازخانه"
+
+msgid "Sauna"
+msgstr "سونا"
+
+msgid "Watchtower"
+msgstr "برج مراقبت"
+
+msgid "Room"
+msgstr "اتاق"
+
+msgid "Meeting room"
+msgstr "اتاق کنفرانس"
+
+msgid "Maid's room"
+msgstr "اتاق خدمتکار"
+
+msgid "Maid's studio"
+msgstr "استودیوی خدمتکار"
+
+msgid "Double reception room"
+msgstr "اتاق پذیرایی دوتایی"
+
+msgid "Triple reception room"
+msgstr "اتاق پذیرایی سه تایی"
+
+msgid "Indoor parking"
+msgstr "پارکینگ داخلی"
+
+msgid "Outdoor parking"
+msgstr "پارکینگ خارجی"
+
+msgid "Shop"
+msgstr "فروشگاه"
+
+msgid "Cafeteria"
+msgstr "کافه تریا"
+
+#, fuzzy
+msgid "Unit"
+msgstr ""
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"واحد\n"
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"واحدها"
+
+msgid "Accommodation"
+msgstr "محله"
+
+#, fuzzy
+msgid "House"
+msgstr ""
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"خانه\n"
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"باغ و باغچه\n"
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"خانه\n"
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"باغ و باغچه"
+
+msgid "Stair"
+msgstr "پله"
+
+#, fuzzy
+msgid "Box"
+msgstr ""
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"جعبه\n"
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"اطاقک"
+
+msgid "Carnotzet"
+msgstr "Carnotzet"
+
+msgid "Panic room"
+msgstr "اتاق وحشت"
+
+msgid "Single"
+msgstr "تک"
+
+msgid "Twin"
+msgstr "دوقلو"
+
+msgid "Twin by garage"
+msgstr "در کنار گاراژ"
+
+msgid "Village house"
+msgstr "خانه روستایی"
+
+msgid "Twin by angle"
+msgstr "کنار هم با زاویه"
+
+msgid "Ranged"
+msgstr "در یک راستا"
+
+msgid "Standard"
+msgstr "عادی"
+
+msgid "Co-exclusive"
+msgstr "انحصاری شراکتی"
+
+msgid "Exclusive"
+msgstr "انحصاری"
+
+msgid "Delegation"
+msgstr "نمایندگی"
+
+msgid "Exclusive agent"
+msgstr "نماینده انحصاری"
+
+msgid "Colleague"
+msgstr "همکار"
+
+#, fuzzy
+msgid "Free"
+msgstr ""
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"تخلیه\n"
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"رایگان"
+
+msgid "Rented"
+msgstr "تحت اجاره"
+
+msgid "Occupied"
+msgstr "مالک ساکن میباشد"
+
+msgid "To be agreed"
+msgstr "توافقی"
+
+#, fuzzy
+msgid "Building"
+msgstr ""
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"ساختمان\n"
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"ساختمان\n"
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"ساختمان کامل\n"
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"ساختمان"
+
+#, fuzzy
+msgid "Residence"
+msgstr ""
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"مجتمع\n"
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"محل اقامت"
+
+msgid "Housing scheme"
+msgstr "طرح مسکن"
+
+msgid "Hamlet"
+msgstr "دهکده"
+
+msgid "Domain"
+msgstr "دامنه"
+
+msgid "Property"
+msgstr "فایل"
+
+msgid "Street"
+msgstr "خیابان"
+
+msgid "Sale"
+msgstr "فروش"
+
+#, fuzzy
+msgid "Rental"
+msgstr ""
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"اجاره\n"
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"اجاره ای"
+
+msgid "Seasonal rental"
+msgstr "اجاره فصلی"
+
+msgid "Development"
+msgstr "پروژه"
+
+#, fuzzy
+msgid "Life annuity"
+msgstr ""
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"رهن کامل\n"
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"اقامت سالانه\n"
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"زندگی سالانه"
+
+msgid "Auction"
+msgstr "مزایده"
+
+msgid "Unit sale"
+msgstr "فروش واحد"
+
+msgid "Bulk sale"
+msgstr "فروش انبوه"
+
+msgid "Unfurnished"
+msgstr "غیرمبله"
+
+msgid "Furnished"
+msgstr "مبله"
+
+msgid "Roommate"
+msgstr "هم اتاقی"
+
+msgid "Student"
+msgstr "دانشجو"
+
+msgid "Holidays"
+msgstr "تعطیلات"
+
+msgid "Event"
+msgstr "رویداد"
+
+msgid "New construction"
+msgstr "نوساز"
+
+msgid "Life annuity occupied"
+msgstr "مشغول اقامت سالانه"
+
+msgid "Bare Ownership"
+msgstr "مالکیت محدود بدون حق تصرف"
+
+msgid "Forward sale"
+msgstr "پیش فروش"
+
+msgid "Life annuity semi-occupied"
+msgstr "سالیانه زندگی نیمه اشغال شده"
+
+msgid "Forward sale available"
+msgstr "موجود برای پیش فروش"
+
+msgid "Forward sale semi-occupied"
+msgstr "فروش آتی نیمه اشغال شده"
+
+msgid "Forward sale occupied"
+msgstr "مشغول پیش فروش"
+
+msgid "Life annuity without income"
+msgstr "اقامت سالانه بدون درآمد"
+
+msgid "Requires updating"
+msgstr "نیاز به رنگ"
+
+msgid "Good condition"
+msgstr "وضعیت مناسب"
+
+msgid "Requires renovation"
+msgstr "نیازمند نوسازی"
+
+msgid "Excellent condition"
+msgstr "وضعیت عالی"
+
+msgid "Timber"
+msgstr "چوب"
+
+msgid "Engineered wood"
+msgstr "چوب مهندسی شده"
+
+msgid "Stone"
+msgstr "سنگ"
+
+msgid "Brick"
+msgstr "آجر"
+
+msgid "Concrete"
+msgstr "بتن"
+
+msgid "Reinforced concrete"
+msgstr "بتن آرمه"
+
+msgid "Steel frame"
+msgstr "قاب فولادی"
+
+msgid "Reinforced concrete frame"
+msgstr "قاب بتن آرمه"
+
+msgid "Shear wall"
+msgstr "دیوار برشی"
+
+msgid "Concrete block"
+msgstr "بلوک بتنی"
+
+msgid "Ground floor"
+msgstr "طبقه همکف"
+
+msgid "Top floor"
+msgstr "طبقه آخر"
+
+msgid "1st"
+msgstr "اول"
+
+msgid "2nd"
+msgstr "دوم"
+
+msgid "3rd"
+msgstr "سوم"
+
+msgid "4th"
+msgstr "چهارم"
+
+msgid "5th"
+msgstr "پنجم"
+
+msgid "6th"
+msgstr "ششم"
+
+msgid "7th"
+msgstr "هفتم"
+
+msgid "8th"
+msgstr "هشتم"
+
+msgid "9th"
+msgstr "نهم"
+
+msgid "10th"
+msgstr "دهم"
+
+msgid "11th"
+msgstr "یازدهم"
+
+msgid "12th"
+msgstr "دوازدهم"
+
+msgid "13th"
+msgstr "سیزدهم"
+
+msgid "14th"
+msgstr "چهاردهم"
+
+msgid "15th"
+msgstr "پانزدهم"
+
+msgid "16th"
+msgstr "شانزدهم"
+
+msgid "17th"
+msgstr "هفدهم"
+
+msgid "18th"
+msgstr "هجدهم"
+
+msgid "19th"
+msgstr "نوزدهم"
+
+msgid "20th"
+msgstr "بیستم"
+
+msgid "Garden level"
+msgstr "همسطح باغ"
+
+msgid "Split-level"
+msgstr "سطح مجزا"
+
+msgid "-1"
+msgstr "منفی یک"
+
+msgid "-2"
+msgstr "منفی دو"
+
+msgid "-3"
+msgstr "منفی سه"
+
+msgid "-4"
+msgstr "منفی چهار"
+
+msgid "Single-storey"
+msgstr "یک طبقه"
+
+msgid "21st"
+msgstr "بیست و یکم"
+
+msgid "22nd"
+msgstr "بیست و دوم"
+
+msgid "23rd"
+msgstr "بیست و سوم"
+
+msgid "24th"
+msgstr "بیست و چهارم"
+
+msgid "25th"
+msgstr "بیست و پنجم"
+
+msgid "26th"
+msgstr "بیست و ششم"
+
+msgid "27th"
+msgstr "بیست و هفتم"
+
+msgid "28th"
+msgstr "بیست و هشتم"
+
+msgid "29th"
+msgstr "بیست و نهم"
+
+msgid "30th"
+msgstr "سی ام"
+
+msgid "31st"
+msgstr "سی و یکم"
+
+msgid "32nd"
+msgstr "سی و دوم"
+
+msgid "33rd"
+msgstr "سی و سوم"
+
+msgid "34th"
+msgstr "سی و چهارم"
+
+msgid "35th"
+msgstr "سی و پنجم"
+
+msgid "36th"
+msgstr "سی و ششم"
+
+msgid "37th"
+msgstr "سی و هفتم"
+
+msgid "38th"
+msgstr "سی و هشتم"
+
+msgid "39th"
+msgstr "سی و نهم"
+
+msgid "40th"
+msgstr "چهلم"
+
+msgid "-5"
+msgstr "منفی پنج"
+
+msgid "-6"
+msgstr "منفی شش"
+
+msgid "-7"
+msgstr "منفی هفتم"
+
+msgid "-8"
+msgstr "منفی هشتم"
+
+msgid "-9"
+msgstr "منفی نهم"
+
+msgid "-10"
+msgstr "منفی دهم"
+
+msgid "41st"
+msgstr "چهل و یکم"
+
+msgid "42nd"
+msgstr "چهل و دوم"
+
+msgid "44th"
+msgstr "چهل و سوم"
+
+msgid "45th"
+msgstr "چهل و پنجم"
+
+msgid "46th"
+msgstr "چهل و ششم"
+
+msgid "47th"
+msgstr "چهل و هفتم"
+
+msgid "48th"
+msgstr "چهل و هشتم"
+
+msgid "49th"
+msgstr "چهل و نهم"
+
+msgid "50th"
+msgstr "پنجاهم"
+
+msgid "51st"
+msgstr "پنجاه و یکم"
+
+msgid "52nd"
+msgstr "پنجاه و دوم"
+
+msgid "53rd"
+msgstr "پنجاه و سوم"
+
+msgid "54th"
+msgstr "پنجاه و چهارم"
+
+msgid "55th"
+msgstr "پنجاه و پنجم"
+
+msgid "56th"
+msgstr "پنجاه و ششم"
+
+msgid "57th"
+msgstr "پنجاه و هفتم"
+
+msgid "58th"
+msgstr "پنجاه و هشتم"
+
+msgid "59th"
+msgstr "پنجاه و نهم"
+
+msgid "60th"
+msgstr "شصتم"
+
+msgid "Wooden floor"
+msgstr "کف چوبی"
+
+msgid "Tile"
+msgstr "کاشی"
+
+msgid "Vinyl composition tile"
+msgstr "کاشی ترکیب وینیل"
+
+msgid "Carpet"
+msgstr "فرش"
+
+msgid "Natural fiber"
+msgstr "فیبر طبیعی"
+
+msgid "Coco"
+msgstr "چوب نارگیل"
+
+msgid "Travertine"
+msgstr "سنگ تراورتن"
+
+msgid "Marble"
+msgstr "مرمر"
+
+msgid "Granite"
+msgstr "گرانیت"
+
+msgid "Terracotta tile"
+msgstr "کاشی تراکوتا"
+
+msgid "Teak"
+msgstr "چوب درخت ساج"
+
+msgid "Mosaïc"
+msgstr "موزاییک"
+
+msgid "Clay"
+msgstr "خاک رس"
+
+msgid "Laminate"
+msgstr "لمینت"
+
+msgid "Convector"
+msgstr "پکیج"
+
+msgid "Underfloor"
+msgstr "گرمایش از کف"
+
+msgid "Radiator"
+msgstr "رادیاتور"
+
+#, fuzzy
+msgid "Stove"
+msgstr ""
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"داکت اسپلیت\n"
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"اجاق گاز"
+
+msgid "Air-conditioning"
+msgstr "تهویه مطبوع"
+
+msgid "Central"
+msgstr "مرکزی"
+
+msgid "Without"
+msgstr "بدون سیستم گرمایشی"
+
+msgid "Fireplace"
+msgstr "بخاری"
+
+#, fuzzy
+msgid "Individual"
+msgstr ""
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"مجزا\n"
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"اختصاصی"
+
+msgid "Common"
+msgstr "مشترک"
+
+msgid "Mixed"
+msgstr "مختلط"
+
+msgid "District heating"
+msgstr "گرمایش منطقه ای"
+
+msgid "Gas"
+msgstr "گاز"
+
+msgid "Fuel oil"
+msgstr "نفت"
+
+msgid "Electric"
+msgstr "برق"
+
+msgid "Wood"
+msgstr "چوب"
+
+msgid "Solar"
+msgstr "خورشیدی"
+
+msgid "Charcoal"
+msgstr "زغال"
+
+msgid "Heat pump"
+msgstr "پمپ حرارتی"
+
+msgid "Geothermal"
+msgstr "ژئوترمال"
+
+msgid "Wood pellet"
+msgstr "پلت چوبی"
+
+#, fuzzy
+msgid "Hot water"
+msgstr ""
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"آب داغ\n"
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"آب گرم"
+
+msgid "Hot water tank"
+msgstr "تانکر آب داغ"
+
+msgid "Boiler"
+msgstr "دیگ بخار"
+
+msgid "Collective"
+msgstr "اشتراکی"
+
+msgid "Flat"
+msgstr "مسطح"
+
+msgid "Dry-stone wall terraces"
+msgstr "تراس های با دیوار سنگی"
+
+msgid "Steep"
+msgstr "سراشیبی"
+
+msgid "Wooded"
+msgstr "پوشیده از درخت"
+
+msgid "Meadow"
+msgstr "چمنزار"
+
+msgid "Term lease"
+msgstr "اجاره مدت دار"
+
+msgid "Long-Term"
+msgstr "اجاره بلند مدت"
+
+msgid "Long-Term - Single activity"
+msgstr "فعالیت های بلندمدت تکی"
+
+msgid "Long-Term - All activities"
+msgstr "فعالیت های بلندمدت شمال همه موارد"
+
+msgid "Seaside"
+msgstr "کنار دریا"
+
+msgid "Village"
+msgstr "دهکده"
+
+msgid "Old town"
+msgstr "شهر قدیمی"
+
+msgid "Precinct"
+msgstr "بخش"
+
+#, fuzzy
+msgid "Ski slope"
+msgstr ""
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"سراشیبی اسکی\n"
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"پیست اسکی"
+
+msgid "Town center"
+msgstr "مرکز شهر"
+
+msgid "Industrial estate"
+msgstr "منظقه صنعتی"
+
+msgid "Shopping center"
+msgstr "مرکز خرید"
+
+msgid "Business park"
+msgstr "پارک تجاری"
+
+msgid "Airport area"
+msgstr "منطقه فرودگاهی"
+
+msgid "Science park"
+msgstr "پارک علمی"
+
+msgid "Port area"
+msgstr "منطقه بندری"
+
+msgid "Outskirts"
+msgstr "حومه"
+
+msgid "Hills"
+msgstr "تپه"
+
+msgid "Waterfront"
+msgstr "اسکله"
+
+#, fuzzy
+msgid "Countryside"
+msgstr ""
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"ییلاق\n"
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"حومه شهر"
+
+msgid "Suburb"
+msgstr "اطراف شهر"
+
+msgid "East"
+msgstr "شرق"
+
+msgid "North"
+msgstr "شمال"
+
+msgid "West"
+msgstr "غرب"
+
+msgid "South"
+msgstr "جنوب"
+
+msgid "Day"
+msgstr "روزانه"
+
+msgid "Week"
+msgstr "هفتگی"
+
+msgid "Fortnight"
+msgstr "چهارده روزه"
+
+msgid "Month"
+msgstr "ماهانه"
+
+msgid "Quarterly"
+msgstr "سه ماهه"
+
+msgid "Bimonthly"
+msgstr "دوماهه"
+
+msgid "Half-yearly"
+msgstr "6 ماهه"
+
+msgid "Yearly"
+msgstr "سالانه"
+
+msgid "Bus"
+msgstr "اتوبوس"
+
+msgid "Bus hub"
+msgstr "ترمینال اتوبوسرانی"
+
+msgid "Metro"
+msgstr "مترو"
+
+msgid "Shops"
+msgstr "فروشگاه"
+
+msgid "Primary school"
+msgstr "دبستان"
+
+msgid "Town centre"
+msgstr "مرکز شهر"
+
+msgid "Hospital/clinic"
+msgstr "بیمارستان/کلینیک"
+
+msgid "Doctor"
+msgstr "درمانگاه"
+
+msgid "Tram"
+msgstr "اتوبوس برقی"
+
+msgid "Train station"
+msgstr "ایستگاه قطار"
+
+msgid "Supermarket"
+msgstr "سوپرمارکت"
+
+msgid "Sea port"
+msgstr "بندر"
+
+msgid "Nursery"
+msgstr "مهدکودک"
+
+msgid "Public pool"
+msgstr "استخر عمومی"
+
+msgid "Tennis"
+msgstr "تنیس"
+
+msgid "Golf"
+msgstr "گلف"
+
+msgid "Movies"
+msgstr "سینما"
+
+msgid "Secondary school"
+msgstr "مدرسه راهنمایی"
+
+msgid "Sport center"
+msgstr "مجموعه ورزشی"
+
+msgid "Airport"
+msgstr "فرودگاه"
+
+msgid "Sea"
+msgstr "دریا"
+
+msgid "TGV station"
+msgstr "ایستگاه قطار سریع السیر"
+
+msgid "Highway"
+msgstr "بزرگراه"
+
+msgid "University"
+msgstr "دانشگاه"
+
+msgid "Convention center"
+msgstr "مرکز همایش"
+
+msgid "Lake"
+msgstr "دریاچه"
+
+msgid "On main road"
+msgstr "در جاده اصلی"
+
+msgid "Energy - Conventional consumption"
+msgstr "انرژی - مصرف متعارف"
+
+msgid "Energy - Emissions estimate"
+msgstr "انرژی - برآورد انتشار"
+
+msgid "« Carrez » act"
+msgstr "گواهی متراژ"
+
+msgid "ERP"
+msgstr "برنامه‌ریزی منابع سرمایه ای"
+
+msgid "Termites"
+msgstr "موریانه"
+
+msgid "Asbestos"
+msgstr "پنبه"
+
+#, fuzzy
+msgid "Lead"
+msgstr ""
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"سرب\n"
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"سرب\n"
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"زنگ خور"
+
+msgid "Electricity"
+msgstr "برق"
+
+msgid "Boutin act"
+msgstr "عمل جراحی"
+
+msgid "Sanitation"
+msgstr "بهداشت"
+
+msgid "EPI (Non renewable)"
+msgstr "شاخص عملکرد انرژی"
+
+msgid "APE"
+msgstr "گواهی عملکرد انرژی"
+
+msgid "Request for nomination of an ad hoc agent"
+msgstr "درخواست نامزدی نماینده ویژه"
+
+msgid "Request for nomination of a temporary administrator"
+msgstr "درخواست برای نامزدی یک مدیر موقت"
+
+msgid "Request for expert nomination"
+msgstr "درخواست نامزدی متخصص"
+
+msgid "Energy consumption / Final energy requirement"
+msgstr "مصرف انرژی"
+
+msgid "Housing tax"
+msgstr "مالیات مسکن"
+
+msgid "Residents only"
+msgstr "فقط ساکنین مجتمع"
+
+msgid "Volume"
+msgstr "حجم"
+
+msgid "Useful surface"
+msgstr "سطح مفید"
+
+msgid "Co-Ownership property"
+msgstr "اموال مالکیت مشترک"
+
+msgid "Communal tax rate"
+msgstr "نرخ مالیات عمومی"
+
+msgid "Millièmes"
+msgstr "هزارم"
+
+msgid "Current renovation fund"
+msgstr "سرمایه نوسازی فعلی"
+
+msgid "Energy class"
+msgstr "کلاس انرژی"
+
+msgid "Thermal insulation class"
+msgstr "کلاس عایق حرارتی"
+
+msgid "Greenhouse Gas"
+msgstr "گاز های گلخانه ای"
+
+msgid "Energy passport"
+msgstr "پاسپورت انرژی"
+
+msgid "Energy certificate"
+msgstr "گواهی انرژی"
+
+msgid "Energy efficiency class"
+msgstr "کلاس بهره وری انرژی"
+
+msgid "Year of construction according to certificate"
+msgstr "سال ساخت با توجه به گواهینامه"
+
+msgid "Energy consumption : Hot water included"
+msgstr "دارای آب داغ"
+
+msgid "Specific primary energy consumption"
+msgstr "مصرف انرژی اولیه خاص"
+
+msgid "PEB unique code"
+msgstr "PEB کد منحصر به فرد"
+
+msgid "K level (Thermal Insulation)"
+msgstr "سطح K (عایق حرارتی)"
+
+msgid "Ew level (Energy performance)"
+msgstr "سطح Ew (عملکرد انرژی)"
+
+msgid "CO2 emission"
+msgstr "انتشار CO2"
+
+msgid "Flood risks"
+msgstr "خطرات سیل"
+
+msgid "Certificate: Oil tank conformity"
+msgstr "گواهی: انطباق مخزن نفت"
+
+msgid "Certificate : Electric installation conformity"
+msgstr "گواهی: سازگاری الکتریکی"
+
+msgid "Emissions estimate"
+msgstr "برآورد انتشار"
+
+msgid "Rental value"
+msgstr "ارزش اجاره ای"
+
+msgid "Rental reference index"
+msgstr "شاخص مرجع اجاره"
+
+#, fuzzy
+msgid "Turnover"
+msgstr ""
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"بازگشت سرمایه\n"
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"حجم معاملات"
+
+msgid "Net income"
+msgstr "درآمد خالص"
+
+msgid "Gross operating profit"
+msgstr "سود عملیاتی ناخالص"
+
+msgid "Personnel costs"
+msgstr "هزینه های پرسنلی"
+
+msgid "Cash flow"
+msgstr "نقدینگی"
+
+msgid "Shareholders’equity"
+msgstr "حقوق صاحبان سهام"
+
+msgid "Net debt"
+msgstr "بدهی خالص"
+
+msgid "Internet"
+msgstr "اینترنت"
+
+msgid "Disabled access"
+msgstr "دسترسی معلولین"
+
+msgid "Alarm system"
+msgstr "سیستم دزدگیر"
+
+msgid "Shabbat elevator"
+msgstr "آسانسور"
+
+msgid "Caretaker"
+msgstr "نگهبان"
+
+msgid "Double glazing"
+msgstr "دو جداره"
+
+msgid "Digicode"
+msgstr "آیفون"
+
+msgid "TV distribution"
+msgstr "تلویزیون کابلی"
+
+#, fuzzy
+msgid "Swimming pool"
+msgstr ""
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"استخر\n"
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"استخر\n"
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"استخر شنا"
+
+msgid "Security door"
+msgstr "درب امنیتی"
+
+msgid "Tennis court"
+msgstr "زمین تنیس"
+
+msgid "Irrigation sprinkler"
+msgstr "آبیاری قطره ای"
+
+msgid "Barbecue"
+msgstr "باربیکیو"
+
+msgid "Electric shutters"
+msgstr "درب ریموتی"
+
+msgid "Crawl space"
+msgstr "فضای خالی"
+
+msgid "Car port"
+msgstr "پارکینگ"
+
+msgid "Caretaker house"
+msgstr "خانه سرایداری"
+
+msgid "Sliding windows"
+msgstr "پنجره های کشویی"
+
+msgid "Central vacuum system"
+msgstr "سیستم جاروبرقی مرکزی"
+
+msgid "Window shade"
+msgstr "کرکره های الکتریکی"
+
+msgid "Electric awnings"
+msgstr "سایبان های الکتریکی"
+
+msgid "Washing machine"
+msgstr "ماشین لباسشویی"
+
+msgid "Whirlpool tub"
+msgstr "جکوزی"
+
+msgid "Well"
+msgstr "چاه"
+
+msgid "Spring"
+msgstr "چشمه"
+
+msgid "Engine generator"
+msgstr "ژنراتور"
+
+msgid "Dishwasher"
+msgstr "ظرفشویی"
+
+msgid "Hob"
+msgstr "Hob"
+
+msgid "Safe"
+msgstr "گاوصندوق"
+
+msgid "Helipad"
+msgstr "باند هلی کوپتر"
+
+msgid "Videophone"
+msgstr "تماس ویدیویی"
+
+msgid "Video security"
+msgstr "دوربین امنیتی"
+
+msgid "Iron"
+msgstr "اتو"
+
+msgid "Hair dryer"
+msgstr "سشوار"
+
+msgid "Television"
+msgstr "تلویزیون"
+
+msgid "DVD Player"
+msgstr "اجراکننده دی وی دی"
+
+msgid "CD Player"
+msgstr "اجرا کننده سی دی"
+
+msgid "Outdoor lighting"
+msgstr "روشنایی بیرون ساختمان"
+
+msgid "Spa"
+msgstr "اسپا"
+
+msgid "Home automation"
+msgstr "اتوماسیون خانگی"
+
+msgid "Linens"
+msgstr "کتانی"
+
+msgid "Tableware"
+msgstr "لوازم میز وسفره"
+
+msgid "Clothes dryer"
+msgstr "خشک کن لباس"
+
+msgid "Refrigerator"
+msgstr "یخچال"
+
+msgid "Oven"
+msgstr "فر"
+
+msgid "Reception 24/7"
+msgstr "پذیرش 24 ساعته"
+
+msgid "Coffeemaker"
+msgstr "قهوه ساز"
+
+msgid "Microwave oven"
+msgstr "میکروویو"
+
+msgid "Sukkah"
+msgstr "سوکا"
+
+msgid "Synagogue"
+msgstr "کنیسه"
+
+msgid "Common laundry"
+msgstr "شست و شوی معمولی"
+
+msgid "Pets allowed"
+msgstr "اجازه ورود حیوانات خانگی"
+
+msgid "Metal shutters"
+msgstr "کرکره های فلزی"
+
+msgid "Wiring closet"
+msgstr "قفسه سیم کشی"
+
+msgid "Computer network"
+msgstr "شبکه کامپیوتری"
+
+msgid "Dropped ceiling"
+msgstr "سقف کاذب"
+
+msgid "Fire hose cabinets"
+msgstr "کابینت شلنگ آتش نشانی"
+
+msgid "Fire sprinkler system"
+msgstr "سیستم خاموش کردن آتش"
+
+msgid "Wharf"
+msgstr "اسکله"
+
+msgid "Connected thermostat"
+msgstr "ترموستات متصل"
+
+msgid "Bowling game"
+msgstr "زمین بولینگ"
+
+msgid "Water softener"
+msgstr "سختی گیر آب"
+
+msgid "Triple glazing"
+msgstr "شیشه سه جداره"
+
+msgid "Well drilling"
+msgstr "حفاری چاه"
+
+msgid "Optical fiber"
+msgstr "فیبر نوری"
+
+msgid "Non-flooding"
+msgstr "ضد سیل"
+
+msgid "Backup water system"
+msgstr "سیستم آبرسانی"
+
+msgid "Water filtration system"
+msgstr "تصفیه کننده آب"
+
+msgid "Air filtration system"
+msgstr "سیستم تصفیه هوا"
+
+msgid "Fire alarm system"
+msgstr "سیستم اعلام حریق"
+
+msgid "Commercial services"
+msgstr "خدمات تبلیغاتی"
+
+msgid "Playground"
+msgstr "زمین بازی"
+
+msgid "Simple flow ventilation"
+msgstr "تهویه مستقیم واحد"
+
+msgid "Double flow ventilation"
+msgstr "تهویه دو جریان"
+
+msgid "Berth"
+msgstr "اسکله قایق"
+
+msgid "Supplies"
+msgstr "تجهیزات"
+
+msgid "Outdoor spaces"
+msgstr "فضاهای بیرونی"
+
+msgid "Rental supplies"
+msgstr "تجهیزات فصلی"
+
+#, fuzzy
+msgid "Security"
+msgstr ""
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"امنیت\n"
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"امنیتی"
+
+msgid "Professional supplies"
+msgstr "تجهیزات حرفه ای"
+
+msgid "High standard"
+msgstr "استاندارد بالا"
+
+msgid "Luxury"
+msgstr "لوکس"
+
+msgid "High luxury"
+msgstr "بسیار لوکس"
+
+msgid "Housing estate"
+msgstr "مجتمع مسکونی"
+
+msgid "Regular"
+msgstr "عادی"
+
+#, fuzzy
+msgid "In progress"
+msgstr ""
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"در دست اقدام\n"
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"درحال پیشرفت\n"
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"در دست اقدام"
+
+msgid "Standby"
+msgstr "قفل شده"
+
+msgid "Deleted"
+msgstr "حذف شده"
+
+msgid "Waiting for agreement"
+msgstr "در انتظار توافق نامه"
+
+msgid "Agreement ended"
+msgstr "لغو شده"
+
+msgid "Offer"
+msgstr "حذف شده"
+
+msgid "Processing sale"
+msgstr "فروش در حال انجام"
+
+msgid "Waiting for contract"
+msgstr "در انتظارپیشنویس توافق نامه"
+
+msgid "Pending approval"
+msgstr "در انتظار تایید"
+
+msgid "Sell/Rent by agent"
+msgstr "فروخته / اجاره شده توسط یک آژانس"
+
+msgid "Sell/Rent by owner"
+msgstr "فروخته / اجاره شده توسط مالک"
+
+msgid "Sell/Rent by other agent"
+msgstr "فروخته شده / اجاره شده توسط یک مشاور"
+
+msgid "Removed by agent"
+msgstr "توسط مشاور حذف شد"
+
+msgid "Removed by owner"
+msgstr "توسط مالک حذف شده است"
+
+msgid "Sale/Rental cancelled"
+msgstr "فروش / اجاره لغو شده"
+
+msgid "Delete this property"
+msgstr "این فایل رو پاک کن"
+
+#, fuzzy
+msgid "Business"
+msgstr ""
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"تجاری\n"
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"تجاری\n"
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"کسب و کار"
+
+msgid "Garage/Parking"
+msgstr "مستغلات"
+
+#, fuzzy
+msgid "Office"
+msgstr ""
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"اداری\n"
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"دفتر"
+
+msgid "Boat"
+msgstr "کلنگی"
+
+msgid "Cellar / Box"
+msgstr "ویلا"
+
+msgid "Triplex"
+msgstr "تریپلکس"
+
+msgid "Building land"
+msgstr "طرح ساختمان"
+
+msgid "Not constructible land"
+msgstr "زمین بدون ساختمان"
+
+msgid "Chalet"
+msgstr "قصر"
+
+msgid "Duplex"
+msgstr "دوبلکس"
+
+msgid "Manor house"
+msgstr "عمارت"
+
+msgid "Agricultural exploitation"
+msgstr "مزرعه"
+
+msgid "Farmhouse"
+msgstr "خانه روستایی"
+
+msgid "Villa"
+msgstr "ویلا"
+
+msgid "Apartment villa"
+msgstr "آپارتمان ویلایی"
+
+msgid "Ruin"
+msgstr "کلنگی"
+
+msgid "Subdivision"
+msgstr "توسعه مسکن"
+
+msgid "Mill"
+msgstr "سوله"
+
+msgid "Carpark"
+msgstr "گاراژ"
+
+msgid "Townhouse"
+msgstr "خانه شهری"
+
+msgid "Mobile home"
+msgstr "خانه متحرک"
+
+msgid "Cottage"
+msgstr "کلبه"
+
+msgid "Hangar"
+msgstr "حیاط"
+
+msgid "Mas"
+msgstr "خانه رعیتی"
+
+msgid "Local"
+msgstr "محلی"
+
+msgid "Retail space"
+msgstr "محلی تجاری"
+
+msgid "Business assets"
+msgstr "دارایی های تجاری"
+
+msgid "Right to the lease"
+msgstr "ورودی خوب"
+
+msgid "Mansion"
+msgstr "پانسیون"
+
+msgid "Management"
+msgstr "مدیریت"
+
+msgid "Woodshed"
+msgstr "انباری"
+
+msgid "Stud farm"
+msgstr "مزرعه حیوانات"
+
+#, fuzzy
+msgid "Plot of land"
+msgstr ""
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"زمین\n"
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"طرح قطعه زمین"
+
+msgid "Company"
+msgstr "شرکت"
+
+msgid "Vineyard property"
+msgstr "تاکستان"
+
+msgid "Sailing Yacht"
+msgstr "قایق بادبانی"
+
+msgid "Narrow boat"
+msgstr "قایق رودخانه ای"
+
+msgid "Catamaran"
+msgstr "قایق"
+
+msgid "Equestrian estate"
+msgstr "مرکز اسب سواری"
+
+msgid "Bed and breakfast"
+msgstr "تختخواب و صبحانه"
+
+msgid "Gîte"
+msgstr "سفرهای زمینی"
+
+msgid "Riad"
+msgstr "ریاض"
+
+msgid "Retail shop"
+msgstr "فروشگاه"
+
+msgid "Condo"
+msgstr "مسکن"
+
+msgid "Factory"
+msgstr "کارخانه"
+
+msgid "Serviced apartment"
+msgstr "هتل آپارتمان"
+
+msgid "Twin Villa"
+msgstr "ویلای دوقلو"
+
+msgid "Flat House"
+msgstr "خانه در طقه همکف"
+
+msgid "Semi-detached house"
+msgstr "خانه دوقلو"
+
+msgid "Bungalow"
+msgstr "خانه ییلاقی"
+
+msgid "Beach house"
+msgstr "خانه ساحلی"
+
+msgid "Ger district"
+msgstr "منطقه جر"
+
+msgid "Summer house"
+msgstr "خانه تعطیلات"
+
+msgid "Private island"
+msgstr "جزیره خصوصی"
+
+msgid "Residential land"
+msgstr "منطقه مسکونی"
+
+msgid "Commercial land"
+msgstr "منطقه تجاری"
+
+msgid "Game reserve"
+msgstr "املاک شکار"
+
+msgid "Cellar"
+msgstr "انبار"
+
+msgid "Mountains"
+msgstr "کوه"
+
+msgid "Greenery"
+msgstr "سرسبزی"
+
+msgid "Monument"
+msgstr "مقبره"
+
+msgid "Forest"
+msgstr "جنگل"
+
+msgid "Main stem"
+msgstr "رودخانه"
+
+msgid "City"
+msgstr "شهر"
+
+msgid "Sky"
+msgstr "آسمان"
+
+msgid "Harbor"
+msgstr "بندرگاه"
+
+msgid "Ski slopes"
+msgstr "پیست اسکی"
+
+msgid "Obstructed"
+msgstr "مسدود"
+
+msgid "Slight"
+msgstr "کم"
+
+msgid "Unobstructed"
+msgstr "بدون محدودیت"
+
+msgid "Panoramic"
+msgstr "وسیع"
+
+msgid "Septic tank"
+msgstr "مخزن فاضلاب"
+
+msgid "Main drainage"
+msgstr "زهکشی اصلی"
+
+msgid "Treatment plant"
+msgstr "گیاه تصفیه فاضلاب"
+
+msgid "Estate agent"
+msgstr "مشاور املاک"
+
+msgid "Phoning"
+msgstr "مستقل"
+
+msgid "Collaboration"
+msgstr "همکاری"
+
+#, fuzzy
+msgid "Provider"
+msgstr ""
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"ارائه دهنده\n"
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"تامین کننده"
+
+msgid "Renown"
+msgstr "بد نامی"
+
+msgid "Walk-in / Window"
+msgstr "پیاده روی / پنجره"
+
+#, fuzzy
+msgid "Network"
+msgstr ""
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"رابطه\n"
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"شبکه"
+
+msgid "Flyer"
+msgstr "تراکت"
+
+msgid "Sign"
+msgstr "تابلو"
+
+msgid "Magazine"
+msgstr "مجله"
+
+#, fuzzy
+msgid "Mailing"
+msgstr ""
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"پست\n"
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"ارسال با پست"
+
+#, fuzzy
+msgid "e-mailing"
+msgstr ""
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"ارسال و دریافت ایمیل\n"
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"پست اکترونیکی"
+
+msgid "Old client"
+msgstr "مشتری قبلی"
+
+msgid "Appraisal"
+msgstr "ارزیابی"
+
+msgid "Selection / Favorite"
+msgstr "Selection / Favorite"
+
+msgid "Main residence"
+msgstr "Main residence"
+
+msgid "Secondary residence"
+msgstr "Secondary residence"
+
+msgid "Student residence"
+msgstr "Student residence"
+
+msgid "Tourism residence"
+msgstr "Tourism residence"
+
+msgid "Seniors residence"
+msgstr "Seniors residence"
+
+msgid "Duflot Legislation"
+msgstr "Duflot Legislation"
+
+msgid "Censi-Bouvard Legislation"
+msgstr "Censi-Bouvard Legislation"
+
+msgid "Reduced fees"
+msgstr "Reduced fees"
+
+msgid "EHPAD (Retirement homes)"
+msgstr "EHPAD (Retirement homes)"
+
+msgid "Act 1291"
+msgstr "Act 1291"
+
+msgid "Act 887"
+msgstr "Act 887"
+
+msgid "Mixed-use"
+msgstr "Mixed-use"
+
+msgid "Rental investment"
+msgstr "Rental investment"
+
+msgid "Act 1235"
+msgstr "Act 1235"
+
+msgid "Pinel Legislation"
+msgstr "Pinel Legislation"
+
+msgid "Resale"
+msgstr "Resale"
+
+msgid "Private leasing"
+msgstr "Private leasing"
+
+msgid "Bank leasing"
+msgstr "Bank leasing"
+
+msgid "IPOTEK"
+msgstr "IPOTEK"
+
+msgid "Exchangeable"
+msgstr "Exchangeable"
+
+msgid "No advance"
+msgstr "No advance"
+
+msgid "m²"
+msgstr "متر مربع"
+
+msgid "sq ft"
+msgstr "sq ft"
+
+msgid "sq yd"
+msgstr "sq yd"
+
+msgid "ha"
+msgstr "ha"
+
+msgid "minute"
+msgstr "دقیقه"
+
+msgid "metre"
+msgstr "متر"
+
+msgid "km"
+msgstr "کیلومتر"
+
+msgid "Administrator"
+msgstr "ادمین"
+
+msgid "Company manager"
+msgstr "مدیر فروش"
+
+msgid "Agency manager"
+msgstr "مدیر املاک"
+
+msgid "Secretariat"
+msgstr "تلسیلز"
+
+#, fuzzy
+msgid "Agent"
+msgstr ""
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"کارشناس\n"
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"نماینده"
+
+msgid "Intern"
+msgstr "کارآموز"
+
+#, fuzzy
+msgid "User"
+msgstr ""
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"کاربر\n"
+"#-#-#-#-#  apimo-fa_IR.po  #-#-#-#-#\n"
+"مشاور"
+
+msgid "Franchisor"
+msgstr "شعبه"
+
+msgid "Translator"
+msgstr "مترجم"
+
+msgid "Map"
+msgstr "نقشه"
+
+msgid "Portrait"
+msgstr "تصویر"
+
+msgid "Pet"
+msgstr "حیوان خانگی"
+
+msgid "Natural light"
+msgstr "نور طبیعی"
+
+msgid "Kitchen island"
+msgstr "آشپزخانه جزیره ای"
+
+msgid "Kitchen bar"
+msgstr "میز آشپزخانه"
+
+msgid "High ceiling"
+msgstr "سقف بلند"
+
+msgid "Skylight"
+msgstr "سقف کاذب"
+
+msgid "Exposed bricks"
+msgstr "نما آجر"
+
+msgid "Ceiling fan"
+msgstr "پنکه سقفی"
+
+msgid "Chandelier"
+msgstr "لوستر"
+
+msgid "Stainless steel"
+msgstr "فولاد ضد زنگ"
+
+msgid "Price on request"
+msgstr "قیمت توافقی"
+
+msgid "Currency"
+msgstr "واحد پول"
+
+msgid "Price"
+msgstr "قیمت ؟"
+
+msgid "Types"
+msgstr "انواع"
+
+msgid "Cities"
+msgstr "شهر ها"
+
+msgid "bedroom"
+msgstr "خواب ها"
+
+msgid "room"
+msgstr "اتاق"
+
+msgid "rooms"
+msgstr "اتاق ها"
+
+msgid "Send"
+msgstr "ثبت"
+
+msgid "message"
+msgstr "پیام"
+
+msgid "Tel."
+msgstr "تلفن"
+
+msgid "Lastname"
+msgstr "نام خانوادگی"
+
+msgid "Firstname"
+msgstr "نام "
+
+msgid "Ref"
+msgstr "شماره"
+
+msgid "%s bedroom"
+msgstr "%s اتاق خواب"
+
+msgid "%s bedrooms"
+msgstr "%s اتاق خواب ها"
+
+msgid "%s room"
+msgstr "%s اتاق"
+
+msgid "%s rooms"
+msgstr "%s اتاق ها"
+
+msgid "Folder"
+msgstr "زونکن"
+
+msgid "No matches found"
+msgstr "جستجو حاصلی دربرنداشت"
+
+msgid "Please enter one more character"
+msgstr "لطفا حداقل یک کاراکتر را وارد کنید"
+
+msgid "copy"
+msgstr "کپی"
+
+msgid "Backup"
+msgstr "پشتیبان"
+
+msgid "Rate"
+msgstr "نرخ"
+
+msgid "Sender"
+msgstr "فرستنده"
+
+msgid "Recipient"
+msgstr "گیرنده"
+
+msgid "Subject"
+msgstr "موضوع"
+
+msgid "Attachment"
+msgstr "پیوست"
+
+msgid "Key"
+msgstr "کلید"
+
+msgid "Documents"
+msgstr "مدارک"
+
+msgid "Name"
+msgstr "نام"
+
+msgid "Back"
+msgstr "بازگشت"
+
+msgid "Help?"
+msgstr "راهنمایی؟"
+
+msgid "Read more"
+msgstr "ادامه مطلب"
+
+msgid "Area"
+msgstr "مساحت"
+
+msgid "Areas"
+msgstr "مساحت ها"
+
+msgid "Length"
+msgstr "طول"
+
+msgid "Height"
+msgstr "ارتفاع"
+
+msgid "Width"
+msgstr "عرض"
+
+msgid "Deposit"
+msgstr "سپرده"
+
+msgid "Agreement number"
+msgstr "شماره توافق نامه"
+
+msgid "Agreement start at"
+msgstr "شروع توافقنامه"
+
+msgid "Agreement end at"
+msgstr "پایان توافقنامه"
+
+msgid "Website"
+msgstr "وبسایت"
+
+msgid "Access"
+msgstr "دسترسی"
+
+msgid "Proximities"
+msgstr "دسترسی ها"
+
+msgid "Loading"
+msgstr "بارگذاری"
+
+msgid "Exit"
+msgstr "خروج"
+
+msgid "Condition"
+msgstr "وضعیت"
+
+msgid "Total area"
+msgstr "مساحت کل"
+
+msgid "Living area"
+msgstr "منطقه مسکونی"
+
+msgid "Password forgotten"
+msgstr "رمز عبور فراموش شده"
+
+msgid "Password"
+msgstr "رمز عبور"
+
+msgid "Username"
+msgstr "نام کاربری"
+
+msgid "Welcome %s"
+msgstr "%s خوش آمدید"
+
+msgid "Add"
+msgstr "افزودن"
+
+msgid "Display"
+msgstr "نمایش"
+
+msgid "List"
+msgstr "لیست"
+
+msgid "Tools"
+msgstr "ابزارها"
+
+msgid "Market"
+msgstr "بازار"
+
+msgid "Agency"
+msgstr "آژانس"
+
+msgid "Calendar"
+msgstr "تقویم کاری من"
+
+msgid "Dashboard"
+msgstr "داشبورد"
+
+msgid "Values"
+msgstr "مقدار"
+
+msgid "Users"
+msgstr "مشاوران"
+
+msgid "Sector"
+msgstr "محله ها"
+
+msgid "contact"
+msgstr "مشتری"
+
+msgid "contacts"
+msgstr "مخاطبین"
+
+msgid "%s contact"
+msgstr "%s مخاطب"
+
+msgid "%s contacts"
+msgstr "%s مشتریان"
+
+msgid "Settings"
+msgstr "تنظیمات"
+
+msgid "General"
+msgstr "اطلاعات کلی"
+
+msgid "Heating"
+msgstr "گرمایش"
+
+msgid "Waste water"
+msgstr "فاضلاب"
+
+msgid "Country"
+msgstr "کشور"
+
+msgid "Escrow deposit"
+msgstr "امانه"
+
+msgid "Orientation"
+msgstr "جهت"
+
+msgid "Landscape"
+msgstr "چشم انداز"
+
+msgid "District"
+msgstr "ناحیه"
+
+msgid "Fields"
+msgstr "فرم ها"
+
+msgid "Hook"
+msgstr "قلاب"
+
+msgid "Comment"
+msgstr "نظر"
+
+msgid "Buy"
+msgstr "خرید"
+
+msgid "Rent"
+msgstr "اجاره"
+
+msgid "Commercial"
+msgstr "تجاری"
+
+msgid "About us"
+msgstr "دربار ما"
+
+msgid "Features"
+msgstr "امکانات"
+
+msgid "News"
+msgstr "آخرین بروزرسانی"
+
+msgid "Contact us"
+msgstr "تماس با ما"
+
+msgid "Print"
+msgstr "پرینت"
+
+msgid "Picture"
+msgstr "عکس"
+
+msgid "Add to cart"
+msgstr "افزودن به سبد من"
+
+msgid "Replace in cart"
+msgstr "در سبد من جایگزین شود"
+
+msgid "Category"
+msgstr "دسته بندی"
+
+msgid "History"
+msgstr "تاریخچه"
+
+msgid "Advanced"
+msgstr "جزئیات"
+
+msgid "Date"
+msgstr "تاریخ"
+
+msgid "Previous"
+msgstr "قبلی"
+
+msgid "Next"
+msgstr "بعدی"
+
+msgid "Quick search"
+msgstr "جستجوی سریع"
+
+msgid "Postal code"
+msgstr "کد پستی"
+
+msgid "The username and/or password is invalid."
+msgstr "نام کاربری یا رمز عبور اشتباه است"
+
+msgid "Group"
+msgstr "گروه بندی"
+
+msgid "Are you sure?"
+msgstr "مطمئن هستید؟"
+
+msgid "Nationality"
+msgstr "ملیت"
+
+msgid "Clauses"
+msgstr "مقررات"
+
+msgid "Radius"
+msgstr "شعاع"
+
+msgid "Summary"
+msgstr "خلاصه"
+
+msgid "Watermark"
+msgstr "علامت مشخصه"
+
+msgid "Latitude"
+msgstr "عرض جغرافیایی"
+
+msgid "Longitude"
+msgstr "طول جغرافیایی"
+
+msgid "Mortgage"
+msgstr "وام مسکن"
+
+msgid "Download"
+msgstr "دانلود راهنما"
+
+msgid "Matching"
+msgstr "تطابق"
+
+msgid "Pay now by card"
+msgstr "اکنون با کارت پرداخت کنید"
+
+msgid "Pay by bank transfer"
+msgstr "پرداخت با انتقال بانکی "
+
+msgid "Pay by check"
+msgstr "پرداخت از طریق چک"
+
+msgid "Powered by"
+msgstr "برگرفته از"
+
+msgid "Accepted payment methods"
+msgstr "روش های مورد قبول پرداخت"
+
+msgid "Terms and Conditions"
+msgstr "قوانین و مقررات"
+
+msgid ""
+"Your contact is already in database, please select it on the list below."
+msgstr ""
+"اطلاعات شما از قبل در سیستم موجود می باشد، لطفا از لیست زیر انتخاب نمایید"
+
+msgid "Contract"
+msgstr "قرارداد"
+
+msgid "Contracts"
+msgstr "قراردادها"
+
+msgid "Seekers"
+msgstr "متقاضیان"
+
+msgid "Active seekers"
+msgstr "متقاضیان فعال"
+
+msgid "Providers"
+msgstr "سرویس دهندگان"
+
+msgid "Owners"
+msgstr "مالکان"
+
+msgid "Active owners"
+msgstr "مالکان فعال"
+
+msgid "Monitoring"
+msgstr "مدیریت و گزارشات"
+
+msgid "Forward"
+msgstr "رو به جلو"
+
+msgid "Similar"
+msgstr "فایل های مشابه"
+
+msgid "floor"
+msgstr "طبقه"
+
+msgid "Water"
+msgstr "آب "
+
+msgid "Description"
+msgstr "شرح"
+
+msgid "Deductions"
+msgstr "کسر کردن"
+
+msgid "Missing"
+msgstr "ناموجود"
+
+msgid "Occupant"
+msgstr "مستاجرین"
+
+msgid "Prospect"
+msgstr "مشتری های احتمالی"
+
+msgid "Shares"
+msgstr "اشتراک گزاری ها"
+
+msgid "Likes"
+msgstr "علاقه مندی ها"
+
+msgid "Like"
+msgstr "پسندیدن"
+
+msgid "Unlike"
+msgstr "نپسندیدن"
+
+msgid "Portfolio"
+msgstr "نمونه کار"
+
+msgid "Contracted owner"
+msgstr "صاحب قرارداد"
+
+msgid "Contracted owners"
+msgstr "مالکان قرارداد بسته شده"
+
+msgid "Contracted customer"
+msgstr "مشتری قرارداد"
+
+msgid "Contracted customers"
+msgstr "مشتریان قرارداد بسته شده"
+
+msgid "Transfer tax"
+msgstr "مالیات"
+
+msgid "Change to"
+msgstr "تغییر به"
+
+msgid "Until"
+msgstr "تا"
+
+msgid "Location reference"
+msgstr "مرجع محل"
+
+msgid "Priority"
+msgstr "اولویت"
+
+msgid "Full form"
+msgstr "فرم کامل"
+
+msgid "Quick form"
+msgstr "فرم سریع"
+
+msgid "%s char(s)"
+msgstr "%s سوختگی"
+
+msgid "Price from"
+msgstr "قیمت از"
+
+msgid "Listing"
+msgstr "آگهی"
+
+msgid "Listings"
+msgstr "آگهی ها"
+
+msgid "Duration"
+msgstr "مدت"
+
+msgid "Request incomplete"
+msgstr "درخواست را کامل کنید"
+
+msgid "%s incomplete request(s)"
+msgstr "%s درخواست را کامل کنید"
+
+msgid "Subscribe for"
+msgstr "اشتراک برای"
+
+msgid "Configuration"
+msgstr "ترتیب بندی"
+
+msgid "Subtype"
+msgstr "زیرمجموعه"
+
+msgid "Tax notice"
+msgstr "اطلاعیه مالیاتی"
+
+msgid "Events"
+msgstr "مناسبت ها"
+
+msgid "Available"
+msgstr "موجود"
+
+msgid "Planned"
+msgstr "برنامه ریزی شده"
+
+msgid "Complete"
+msgstr "کامل"
+
+msgid "Organizer"
+msgstr "تنظیم کننده"
+
+msgid "Already subscribed"
+msgstr "قبلا مشترک شده اید"
+
+msgid "Attendees"
+msgstr "شرکت کنندگان"
+
+msgid "Join"
+msgstr "پیوستن"
+
+msgid "Training"
+msgstr "آموزش"
+
+msgid "Require a change of password at next logon"
+msgstr "نیازمند تغییر گسورد و سپس وارد شدن"
+
+msgid "Gross revenue"
+msgstr "درآمد ناخالص"
+
+msgid "Gross yield"
+msgstr "عملکرد ناخالص"
+
+msgid "Net yield"
+msgstr "عملکرد خالص"
+
+msgid "Vacancy rate"
+msgstr "نرخ واگذاری"
+
+msgid "Capitalization"
+msgstr "سرمایه گذاری"
+
+msgid "Lock"
+msgstr "قفل کردن"
+
+msgid "Variables"
+msgstr "متغیرها"
+
+msgid "Example"
+msgstr "نمونه"
+
+msgid "Increment"
+msgstr "سود"
+
+msgid "Schema"
+msgstr "طرح"
+
+msgid "Automation"
+msgstr "اتوماسیون"
+
+msgid "Login"
+msgstr "ورود"
+
+msgid "Renovation year"
+msgstr "سال نوسازی"
+
+msgid "Curriculum vitae"
+msgstr "اطلاعات تحصیلی"
+
+msgid "Resellers"
+msgstr "نمایندگان فروش"
+
+msgid "Choice"
+msgstr "انتخاب"
+
+msgid "Billing"
+msgstr "صورتحساب"
+
+msgid "The balance of your account is %s"
+msgstr "موجودی حساب شما s% است"
+
+msgid "Ceiling"
+msgstr "سقف"
+
+msgid "Weighted area"
+msgstr "زیر بنا"
+
+msgid "Collected"
+msgstr "جمع آوری شده"
+
+msgid "Unlimited"
+msgstr "نامحدود"
+
+msgid "Quantity"
+msgstr "تعداد"
+
+msgid "Subscribe"
+msgstr "ایمیل دارد"
+
+msgid "Setup"
+msgstr "پایه گذاری"
+
+msgid "Active owner"
+msgstr "مالک فعال"
+
+msgid "Matching at"
+msgstr "مطابق با"
+
+msgid "Price by area"
+msgstr "قیمت بر اساس منطقه"
+
+msgid "Default list"
+msgstr "لیست پیش فرض"
+
+msgid "Inventory"
+msgstr "موجودی"
+
+msgid "Add a custom document"
+msgstr "افزودن مدرک"
+
+msgid "Line spacing"
+msgstr "فاصله خطوط"
+
+msgid "Font"
+msgstr "فونت"
+
+msgid "Accounts"
+msgstr "حساب ها"
+
+msgid "Optional"
+msgstr "اختیاری"
+
+msgid "File"
+msgstr "پرونده"
+
+msgid "Collected at"
+msgstr "جمع آوری شده در"
+
+msgid "Linked"
+msgstr "مرتبط"
+
+msgid "Discover our offers"
+msgstr "پیشنهادات ما را پیدا کنید"
+
+msgid "Blank"
+msgstr "جای خالی"
+
+msgid "Portal"
+msgstr "پورتال"
+
+msgid "Software Documentation"
+msgstr "مستندات نرم افزاری "
+
+msgid "Time"
+msgstr "زمان"
+
+msgid "Dedicated website"
+msgstr "وب سایت اختصاصی "
+
+msgid "Subcategory"
+msgstr "زیرشاخه"
+
+msgid "No IP control"
+msgstr "بدون کنترل آی پی"
+
+msgid "Auto publish"
+msgstr "انتشار خودکار "
+
+msgid "Link to property"
+msgstr "لینک کردن به پروژه"
+
+msgid "Happy birthday!"
+msgstr "تولدت مبارک!"
+
+msgid "Birthdays"
+msgstr "تولدها"
+
+msgid "Last login"
+msgstr "آخرین ورود به سیستم"
+
+msgid "This property is a part of:"
+msgstr "این ملک بخشی از:"
+
+msgid "IP address"
+msgstr "آدرس های آی پی"
+
+msgid "Prospecting"
+msgstr "بازاریابی"
+
+msgid "Access code"
+msgstr "کد دسترسی"
+
+msgid "Access code at"
+msgstr "کد دسترسی در"
+
+msgid "Number of shares"
+msgstr "تعداد سهام"
+
+msgid "Leads"
+msgstr "زنگ خورها"
+
+msgid "Cancelled"
+msgstr "لغو شد"
+
+msgid "Link"
+msgstr "ارتباط دادن"
+
+msgid "Publish on homepage"
+msgstr "نمایش در داشبورد"
+
+msgid "Suggested"
+msgstr "پیشنهادی"
+
+msgid "Welcome on %s"
+msgstr "خوش آمدید در s%"
+
+msgid "Content"
+msgstr "محتوا"
+
+msgid "Extranet access"
+msgstr "دسترسی ارسال فعالیت به مالک"
+
+msgid "Publish address"
+msgstr "انتشار آدرس"
+
+msgid "Opening hours"
+msgstr "ساعات کاری"
+
+msgid "Backoffice"
+msgstr "دفتر پشتی"
+
+msgid "Member since %s"
+msgstr "عضو از s%"
+
+msgid "Lock menu bar"
+msgstr "نوار منو را ببندید"
+
+msgid "Updates"
+msgstr "بروزرسانی ها"
+
+msgid "Bookings"
+msgstr "رزرو"
+
+msgid "Forward to contact"
+msgstr "به جلو تماس بگیرید"
+
+msgid "Responder"
+msgstr "پاسخگو"
+
+msgid ""
+"You can search our Frequently Asked Questions (FAQs) database by keyword(s):"
+msgstr ""
+"شما میتوانید با استفاده از کلمات کلیدی درقسمت سوالات پر تکرار جست و جو کنید "
+
+msgid "Registrar"
+msgstr "ثبت کننده"
+
+msgid "Expiration at"
+msgstr "انقضا در"
+
+msgid "Mailbox"
+msgstr "صندوق پیام"
+
+msgid "Domain name"
+msgstr "نام دامنه"
+
+msgid "Filling"
+msgstr "پر کردن"
+
+msgid "Condition precedent"
+msgstr "وضعیت سابقه"
+
+msgid "Size"
+msgstr "اندازه"
+
+msgid "Deal fees"
+msgstr "هزینه معامله"
+
+msgid "Fees charged"
+msgstr "هزینه های پرداخت شده"
+
+msgid "Booked"
+msgstr "رزرو شده"
+
+msgid "Associate"
+msgstr "وابسته"
+
+msgid "Ceiling height"
+msgstr "ارتفاع سقف"
+
+msgid "Translations"
+msgstr "ترجمه"
+
+msgid "Unsold"
+msgstr "فروحته نشده"
+
+msgid "Sold"
+msgstr "فروخته شده"
+
+msgid "Last action"
+msgstr "آخرین فعالیت"
+
+msgid "Our agency"
+msgstr "نمایندگی ما"
+
+msgid "Locate us"
+msgstr "ما را پیدا کنید"
+
+msgid "Your main contact"
+msgstr "اطلاعات تماس اصلی شما"
+
+msgid "Send me a message"
+msgstr "یک پیام برای من بفرستید"
+
+msgid "Leave us a message"
+msgstr "برای ما پیام بفرستید"
+
+msgid "Price with fees"
+msgstr "قیمت با هزینه ها"
+
+msgid "Owner access"
+msgstr "دسترسی صاحب"
+
+msgid "Added"
+msgstr "اضافه شده"
+
+msgid "Available for matching"
+msgstr "موجود برای تطبیق"
+
+msgid "Available on"
+msgstr "موجود در"
+
+msgid "Lessee"
+msgstr "مستاجر"
+
+msgid "Add to list"
+msgstr "افزودن به لیست"
+
+msgid "Custom tags"
+msgstr "برچسب های انتخابی"
+
+msgid "%s pending approval properties"
+msgstr "%s فایل های در انتظار تایید"
+
+msgid "Negotiable price"
+msgstr "قیمت قابل مذاکره"
+
+msgid "Price updated"
+msgstr "قیمت بروز شده"
+
+msgid "Less equal"
+msgstr "کمتر از"
+
+msgid "Equal"
+msgstr "برابر"
+
+msgid "Greater equal"
+msgstr "بیشتر از"
+
+msgid "Preferences"
+msgstr "اولویت ها"
+
+msgid "Contact means"
+msgstr "ابزارهای ارتباطی"
+
+msgid "Agency commission"
+msgstr "کمیسیون آژانس"
+
+msgid "Scheduled at"
+msgstr "برنامه ریزی شده در"
+
+msgid "Contract at"
+msgstr "قرارداد در"
+
+msgid "Commitment"
+msgstr "تعهد"
+
+msgid "Commitment at"
+msgstr "تعهد در"
+
+msgid "Suggest"
+msgstr "پیشنهاد"
+
+msgid "Offer at"
+msgstr "پیشنهاد در"
+
+msgid "No action"
+msgstr "بدون اقدام"
+
+msgid "Others"
+msgstr "سایر"
+
+msgid "Received contact information"
+msgstr "اطلاعات تماس دریافت شده "
+
+msgid "Linked contact"
+msgstr "مخاطب پیوست شده"
+
+msgid "Related contacts"
+msgstr "مخاطب مربوطه"
+
+msgid "Assigned to"
+msgstr "اختصاص یافته به"
+
+msgid "Assign to"
+msgstr "اختصاص به"
+
+msgid "Assign by"
+msgstr "اختصاص دادن توسط"
+
+msgid "Opened by"
+msgstr "باز شده توسط"
+
+msgid "Closed by"
+msgstr "بسته شده توسط"
+
+msgid "Time zone"
+msgstr "منطقه زمانی"
+
+msgid "Customers"
+msgstr "مشتریان"
+
+msgid "Invert selection"
+msgstr "انتخاب معکوس"
+
+msgid "Select all"
+msgstr "انتخاب همه"
+
+msgid "Unselect all"
+msgstr "حذف همه انتخاب ها"
+
+msgid "%s awaiting lead(s)"
+msgstr "%s چشم انداز در انتظار"
+
+msgid "%s lead(s) to assign"
+msgstr "%s چشم انداز به اختصاص"
+
+msgid "%s pending properties"
+msgstr "%s فایل های در انتظار"
+
+msgid "%s pending matching(s)"
+msgstr "%s در انتظار تطبیق"
+
+msgid "%s expired agreement(s)"
+msgstr "%s توافق نامه منقضی شده است"
+
+msgid "%s expired soon agreement(s)"
+msgstr "%s توافق نامه به زودی پایان می یابد"
+
+msgid "Legal notice"
+msgstr "اطلاعیه قانونی"
+
+msgid "Tags"
+msgstr "برچسب ها"
+
+msgid "Allowed"
+msgstr "مجاز"
+
+msgid "Min stay"
+msgstr "حداقل اقامت"
+
+msgid "Over"
+msgstr "بالای"
+
+msgid "Refresh"
+msgstr "تازه کردن"
+
+msgid "Brief comment"
+msgstr "توضیحات"
+
+msgid "Generate comment"
+msgstr "ایجاد نظر"
+
+msgid "Building name"
+msgstr "نام ساختمان"
+
+msgid "VAT"
+msgstr "مالیات بر ارزش افزوده"
+
+msgid "VAT included"
+msgstr "شامل مالیات بر ارزش افزوده"
+
+msgid "VAT excluded"
+msgstr "بدون مالیات بر ارزش افزوده"
+
+msgid "Recurrence"
+msgstr "دوره تکرار"
+
+msgid "Calculate"
+msgstr "محاسبه"
+
+msgid "Contribution"
+msgstr "مشارکت"
+
+msgid "Maximum debt"
+msgstr "حداکثر بدهی"
+
+msgid "Price of purchase"
+msgstr "مبلغ خرید"
+
+msgid "Borrowing calculator"
+msgstr "حسابگر وام"
+
+msgid "Monthly payment calculator"
+msgstr "حسابگر پرداخت ماهانه"
+
+msgid "You don't have broadcasting rights"
+msgstr "شما حقوق پخش را ندارید "
+
+msgid "Pending"
+msgstr "در انتظار"
+
+msgid "Suggestions"
+msgstr "پیشنهادات"
+
+msgid "To show"
+msgstr "نمایش دادن"
+
+msgid "Automatic"
+msgstr "خودکار"
+
+msgid "Manual"
+msgstr "دستی"
+
+msgid "In collaboration with a %name% professional"
+msgstr "در همکاری با یک %name% حرفه ای"
+
+msgid "Partners"
+msgstr "همکاران"
+
+msgid "Cost"
+msgstr "هزینه"
+
+msgid "My search"
+msgstr "جست و جوی من"
+
+msgid "Spouse"
+msgstr "همسر"
+
+msgid "Manager"
+msgstr "مدیر"
+
+msgid "Category reference"
+msgstr "مرجع دسته بندی"
+
+msgid "Cadastre reference"
+msgstr "مرجع کاداستر"
+
+msgid "Lot reference"
+msgstr "مرجه بخشی"
+
+msgid "Block reference"
+msgstr "مرجع بلوکی"
+
+msgid "Stairs reference"
+msgstr "مرجع پله ای"
+
+msgid "Mortgage end at"
+msgstr "پایان وام مسکن"
+
+msgid "Review"
+msgstr "مرور"
+
+msgid "Media"
+msgstr "رسانه"
+
+msgid "Medias"
+msgstr "رسانه ها"
+
+msgid "Last access"
+msgstr "آخرین دسترسی"
+
+msgid "First access"
+msgstr "اولین دسترسی"
+
+msgid "Access count"
+msgstr "تعداد دسترسی"
+
+msgid "Default"
+msgstr "پیش فرض"
+
+msgid "Please do not enter any name or contact"
+msgstr "لطفا هیچ نام یا مشتری وارد نکنید"
+
+msgid "QR-Code"
+msgstr "QR کد"
+
+msgid "Show price"
+msgstr "نمایش قیمت"
+
+msgid "Done"
+msgstr "انجام شده"
+
+msgid "Not applicable"
+msgstr "غیر قابل اجرا"
+
+msgid "Fill in the table"
+msgstr "جدول را پر کنید"
+
+msgid "Automatic matching"
+msgstr "تطبیق خودکار"
+
+msgid "Authorization"
+msgstr "مجوز"
+
+msgid "Last connection the %s"
+msgstr "آخرین اتصال s%"
+
+msgid "Total"
+msgstr "همه"
+
+msgid "Wiki"
+msgstr "ویکی"
+
+msgid "Latest"
+msgstr "آخرین ها"
+
+msgid "Reset"
+msgstr "تنظیم مجدد"
+
+msgid "Show/hide fields"
+msgstr "نمایش دادن / عدم نمایش فرم ها"
+
+msgid "Recent searches"
+msgstr "جست وجوهای اخیر"
+
+msgid "Association"
+msgstr "اتحادیه"
+
+msgid "Meta crawler"
+msgstr "متا خزنده"
+
+msgid "Alerts"
+msgstr "اعلان ها"
+
+msgid "Prescribers"
+msgstr "تجویزکنندگان"
+
+msgid "Crew"
+msgstr "کارکنان"
+
+msgid "Standing"
+msgstr "شرایط"
+
+msgid "Receive a copy"
+msgstr "دریافت کپی"
+
+msgid "Latest views"
+msgstr "آخرین دیدگاه ها"
+
+msgid "Quality"
+msgstr "کیفیت"
+
+msgid "Waiting for partner"
+msgstr "منتظر پاسخ شریک"
+
+msgid "Viewing agreement"
+msgstr "مشاهده توافق نامه"
+
+msgid "Decline"
+msgstr "رد کردن"
+
+msgid "Declined"
+msgstr "رد شده"
+
+msgid "Accept"
+msgstr "پذیرفتن"
+
+msgid "Accepted"
+msgstr "پذیرفته شده"
+
+msgid "Zones"
+msgstr "مناطق"
+
+msgid "Zone"
+msgstr "منطقه"
+
+msgid "Matrimonial regime"
+msgstr "رژیم زناشویی"
+
+msgid "Marital status"
+msgstr "وضعیت تاهل"
+
+msgid "Thumbnail"
+msgstr "بند انگشتی"
+
+msgid "Unread"
+msgstr "خوانده نشده"
+
+msgid "Reply"
+msgstr "پاسخ دادن"
+
+msgid "Pension"
+msgstr "حقوق بازنشستگی"
+
+msgid "Beam"
+msgstr "پرتو"
+
+msgid "Draft"
+msgstr "پیش نویس"
+
+msgid "Guests"
+msgstr "مهمانان"
+
+msgid "Cruising speed"
+msgstr "سرعت گشت زنی"
+
+msgid "Builder"
+msgstr "سازنده"
+
+msgid "Administration"
+msgstr "مدیریت"
+
+msgid "Civil law notary"
+msgstr "دفتر اسناد رسمی"
+
+msgid "Price max"
+msgstr "حداکثر قیمت"
+
+msgid "Messages"
+msgstr "پیام ها"
+
+msgid "Exchange"
+msgstr "تبلیغات"
+
+msgid "Reminders"
+msgstr "یادآوری ها"
+
+msgid "Credit"
+msgstr "اعتبار"
+
+msgid "Signature"
+msgstr "امضا"
+
+msgid "Title"
+msgstr "عنوان"
+
+msgid "Amounts"
+msgstr "مقادیر"
+
+msgid "Updated at"
+msgstr "بروز شده در"
+
+msgid "Built in"
+msgstr "ساخته شده در"
+
+msgid "First published at"
+msgstr "اولین بار منتشر شده در"
+
+msgid "Insurance"
+msgstr "بیمه"
+
+msgid "Provision"
+msgstr "تدارک"
+
+msgid "Entries"
+msgstr "ورودی ها"
+
+msgid "Number"
+msgstr "عدد"
+
+msgid "Deposit account"
+msgstr "حساب سپرده"
+
+msgid "price"
+msgstr "قیمت مالک"
+
+msgid "Starting price"
+msgstr "شروع قیمت"
+
+msgid "Mobile"
+msgstr "موبایل"
+
+msgid "Lease"
+msgstr "اجاره نامه"
+
+msgid "Leases"
+msgstr "اجاره نامه ها"
+
+msgid "Address"
+msgstr "آدرس"
+
+msgid "Searches"
+msgstr "جست وجوها"
+
+msgid "Tips"
+msgstr "نکات"
+
+msgid "Erase"
+msgstr "پاک کردن"
+
+msgid "Maps"
+msgstr "نقشه ها"
+
+msgid "days"
+msgstr "روزها"
+
+msgid "day"
+msgstr "روز"
+
+msgid "Catalog"
+msgstr "کاتالوگ"
+
+msgid "Statistics"
+msgstr "آمار"
+
+msgid "Mark"
+msgstr "رتبه بندی"
+
+msgid "Percentage"
+msgstr "درصد"
+
+msgid "Visits"
+msgstr "بازدیدها"
+
+msgid "Visit comment"
+msgstr "مشاهده نظر"
+
+msgid "Key number"
+msgstr "عدد کلیدی"
+
+msgid "Key's place"
+msgstr "مکان کلید"
+
+msgid "Displayed city (optional)"
+msgstr "شهر نمایش داده شده (اختیاری)"
+
+msgid "Displayed district (optional)"
+msgstr "منطقه نمایش داده شده (اختیاری)"
+
+msgid "Bathrooms"
+msgstr "حمام ها"
+
+msgid "Seller"
+msgstr "فروشنده"
+
+msgid "Adjacency"
+msgstr "وابستگی"
+
+msgid "Level"
+msgstr "مرحله"
+
+msgid "Long comment"
+msgstr "نظر طولانی"
+
+msgid "Subtitle"
+msgstr "زیرنویس"
+
+msgid "Last published at"
+msgstr "آخرین انتشار در"
+
+msgid "Inactive"
+msgstr "غیرفعال"
+
+msgid "Position"
+msgstr "موقعیت"
+
+msgid "Please fill in a name and a phone or an e-mail."
+msgstr "لطفا یک نام و شماره تلفن یا ایمیل وارد کنید"
+
+msgid "Passwords do not match, please retype"
+msgstr "رمز عبور مطابقت ندارد،لطفا دوباره بنویسید"
+
+msgid "Please change your password"
+msgstr "لطفا رمز عبور خود را تغییر دهید"
+
+msgid "New password should not be same as old password"
+msgstr "رمز عبور جدید نباید مانند رمز عبور قبلی باشد"
+
+msgid "Year"
+msgstr "سال"
+
+msgid "Subscriptions"
+msgstr "اشتراک ها"
+
+msgid "Tour comment"
+msgstr "نظر در مورد تور"
+
+msgid "Activities"
+msgstr "فعالیت ها"
+
+msgid "Ad"
+msgstr "تبلیغ"
+
+msgid "Add opening hours"
+msgstr "افزودن ساعات کاری"
+
+msgid "Personal"
+msgstr "شخصی"
+
+msgid ""
+"Please note that there are dependencies, please select a contact for "
+"completing the data transfer."
+msgstr "لطفا یک مخاطب را برای تکمیل ارسال اطلاعات انتخاب کنید"
+
+msgid "The installation can take several minutes, please come back later."
+msgstr "نصب می تواند چندین دقیقه طول بکشد، لطفا بعدا بازگردید "
+
+msgid "Your contact speaks %s, would you like to change the language?"
+msgstr "صحبت مخاطب شما،می خواهید زبان را تغییر دهید"
+
+msgid "Would you like to publish on the homepage?"
+msgstr "آیا مایل به نمایش در داشبورد هستید؟"
+
+msgid "plus VAT"
+msgstr "به علاوه مالیات ارزش افزوده"
+
+msgid "<b>Warning :</b> there is an error, please check each fields."
+msgstr "یک خطا وجود دارد ، لطفا فرم ها را بررسی کنید"
+
+msgid "Price/sq m"
+msgstr "قیمت / مترمربع"
+
+msgid "today"
+msgstr "امروز"
+
+msgid "week"
+msgstr "هفته"
+
+msgid "from %from_value% to %to_value%"
+msgstr "از %from_value% به %to_value%"
+
+msgid "Page"
+msgstr "صفحه"
+
+msgid "Action"
+msgstr "اقدام"
+
+msgid "Status"
+msgstr "وضعیت "
+
+msgid "agencies"
+msgstr "نمایندگان"
+
+msgid "Context"
+msgstr "متن"
+
+msgid "More criteria"
+msgstr "معیارهای بیشتر"
+
+msgid "Criteria"
+msgstr "معیارها"
+
+msgid "Classification"
+msgstr "طبقه بندی"
+
+msgid "metres"
+msgstr "متر"
+
+msgid "Window"
+msgstr "پنجره"
+
+msgid "Stock area"
+msgstr "منطقه بورس"
+
+msgid "Sales area"
+msgstr "منطقه فروش"
+
+msgid "Sale price"
+msgstr "قیمت فروش"
+
+msgid "Broadcast to"
+msgstr "پخش به"
+
+msgid "The property will not be published because it is in step « %s »"
+msgstr "ملک منتشر نخواهد شد،چراکه در مرحله s% قرار دارد"
+
+msgid "Last agencies"
+msgstr "آخرین آژانس ها"
+
+msgid "I confirm my subscription to %s and I accept the general conditions"
+msgstr "من اشتراک خود در s% را تایید می کنم و شرایط عمومی را می پذیرم"
+
+msgid "from %from_date% to %to_date%"
+msgstr "از %from_date% تا %to_date%"
+
+msgid "sq m"
+msgstr "متر مربع"
+
+msgid "comment"
+msgstr "نطر"
+
+msgid "Private comment"
+msgstr "نظر خصوصی"
+
+msgid "Private"
+msgstr "خصوصی"
+
+msgid "Levels"
+msgstr "مراحل"
+
+msgid "Exchanges"
+msgstr "ابزار تبلیغات"
+
+msgid "by"
+msgstr "توسط"
+
+msgid "n.a"
+msgstr "ذکر نشده"
+
+msgid "Elevator"
+msgstr "آسانسور"
+
+msgid "no"
+msgstr "خیر"
+
+msgid "yes"
+msgstr "بله"
+
+msgid "Printed with care"
+msgstr "چاپ شده با احتیاط"
+
+msgid "Please do not litter on public way"
+msgstr "لطفا در معابر عمومی آشغال نریذید"
+
+msgid "Non-contractual information"
+msgstr "اطلاعات غیرقراردادی"
+
+msgid "Agency fees"
+msgstr "هزینه های آژانس"
+
+msgid "Agency fees included"
+msgstr "شامل هزینه های آژانس"
+
+msgid "Agency fees not included"
+msgstr "شامل هزینه های آژانس نمیشود"
+
+msgid "Costs"
+msgstr "هزینه ها"
+
+msgid "Personal property tax"
+msgstr "مالیات بر ملک شخصی"
+
+msgid "Property tax"
+msgstr "مالیات بر ملک"
+
+msgid "Style"
+msgstr "سبک"
+
+msgid "Parkings"
+msgstr "پارکینگ ها"
+
+msgid "Pictures"
+msgstr "تصاویر"
+
+msgid "Window card"
+msgstr "کارت پنجره"
+
+msgid "Private sheet"
+msgstr "ورق خصوصی"
+
+msgid "Public sheet"
+msgstr "ورق عمومی"
+
+msgid "Service"
+msgstr "خدمت"
+
+msgid "Spoken languages"
+msgstr "زبان"
+
+msgid "Cart"
+msgstr "سبد من"
+
+msgid "Type"
+msgstr "نوع ملک"
+
+msgid "Property agent"
+msgstr "نماینده ملک"
+
+msgid "Account"
+msgstr "حساب کاربری"
+
+msgid "End at"
+msgstr "پایان در "
+
+msgid "Close at"
+msgstr "بستن در"
+
+msgid "Start at"
+msgstr "شروع"
+
+msgid "Guarantees"
+msgstr "ضمانت ها"
+
+msgid "Update"
+msgstr "بروزرسانی"
+
+msgid "Inter-agencies"
+msgstr "درون آژانسی"
+
+msgid "Number of floors"
+msgstr "تعداد طبقات"
+
+msgid "Evaluated price"
+msgstr "ارزیابی قیمت"
+
+msgid "Seller's commission"
+msgstr "کمیسیون فروشنده"
+
+msgid "Buyer's commission"
+msgstr "کمیسیون خریدار"
+
+msgid "Commission"
+msgstr "کمیسیون"
+
+msgid "Origin"
+msgstr "منبع"
+
+msgid "Specific origin"
+msgstr "منبع خاص"
+
+msgid "Flooring"
+msgstr "کفپوش"
+
+msgid "Rank"
+msgstr "رتبه"
+
+msgid "Calls"
+msgstr "تماس ها"
+
+msgid "Phone call"
+msgstr "تماس"
+
+msgid "Publications"
+msgstr "انتشارات"
+
+msgid "Send to contact"
+msgstr "ارسال به مخاطب"
+
+msgid "No results found"
+msgstr "نتیجه ای یافت نشد"
+
+msgid "results"
+msgstr "نتایج"
+
+msgid "result"
+msgstr "نتیجه"
+
+msgid "Advertiser"
+msgstr "تبلیغ کننده"
+
+msgid "Active"
+msgstr "فعال"
+
+msgid "Confidential"
+msgstr "محرمانه"
+
+msgid "Activity"
+msgstr "فعالیت"
+
+msgid "Companies"
+msgstr "شرکت ها"
+
+msgid "Edit"
+msgstr "ویرایش"
+
+msgid "Save"
+msgstr "ذخیره"
+
+msgid "Succession"
+msgstr "موفقیت"
+
+msgid "Please fill in a city."
+msgstr "لطفا نام یک شهر وارد کنید"
+
+msgid "Guarantee"
+msgstr "ضمانت "
+
+msgid "Please fill"
+msgstr "لطفا وارد کنید"
+
+msgid "The email address is invalid."
+msgstr "آدرس ایمیل اشتباه است"
+
+msgid "Rights"
+msgstr "حقوق"
+
+msgid "Since"
+msgstr "از"
+
+msgid "Filter"
+msgstr "فیلتر"
+
+msgid "Min"
+msgstr "حداقل"
+
+msgid "Max"
+msgstr "حداکثر"
+
+msgid "Lessor"
+msgstr "اجاره دهنده"
+
+msgid "Booking"
+msgstr "رزرو کردن"
+
+msgid "Bed"
+msgstr "تخت خواب ها"
+
+msgid "Cleaning price"
+msgstr "قیمت تمیز کردن"
+
+msgid "Availabilities"
+msgstr "امکانات موجود"
+
+msgid "Sent"
+msgstr "ارسال شده"
+
+msgid "month"
+msgstr "ماه"
+
+msgid "years"
+msgstr "سال ها"
+
+msgid "months"
+msgstr "ماه ها"
+
+msgid "Seasons"
+msgstr "فصول"
+
+msgid "Season"
+msgstr "فصل"
+
+msgid "Rates"
+msgstr "نرخ ها"
+
+msgid "Todo"
+msgstr "انجام دادن"
+
+msgid "Brands"
+msgstr "برندها"
+
+msgid "Brand"
+msgstr "برند"
+
+msgid "Publicated at"
+msgstr "منتشر شده در"
+
+msgid "Bank"
+msgstr "بانک"
+
+msgid "Delivery at"
+msgstr "تحویل در"
+
+msgid "Reason"
+msgstr "دلیل"
+
+msgid "What's new"
+msgstr "چه خبر؟"
+
+msgid "requests"
+msgstr "درخواست ها"
+
+msgid "request"
+msgstr "درخواست"
+
+msgid "Current rent"
+msgstr "اجاره کنونی"
+
+msgid "properties"
+msgstr "فایل ها"
+
+msgid "property"
+msgstr "ملک"
+
+msgid "Bill"
+msgstr "قبض"
+
+msgid "Calculator"
+msgstr "ماشین حساب"
+
+msgid "Birthplace"
+msgstr "محل تولد"
+
+msgid "Birthday"
+msgstr "تاریخ تولد"
+
+msgid "Income"
+msgstr "درآمد"
+
+msgid "Margin"
+msgstr "حاشیه سود"
+
+msgid "Required."
+msgstr "ضروری"
+
+msgid "Seasonal"
+msgstr "فصلی"
+
+msgid "Number of children"
+msgstr "تعداد فرزندان"
+
+msgid "Hotline"
+msgstr "پشتیبانی"
+
+msgid "Re-type password"
+msgstr "تایپ مجدد رمز عبور"
+
+msgid "Public longitude"
+msgstr "طول جغرافیایی عمومی"
+
+msgid "Public latitude"
+msgstr "عرض جغرافیایی عمومی"
+
+msgid "Access denied"
+msgstr "دسترسی ممنوع است"
+
+msgid "Launch"
+msgstr "راه اندازی"
+
+msgid "Shortcuts"
+msgstr "میانبرها"
+
+msgid "Subscription"
+msgstr "اشتراک"
+
+msgid "SEO"
+msgstr "سئو"
+
+msgid "Life annuity length"
+msgstr "طول عمر سالانه"
+
+msgid "Market value"
+msgstr "ارزش بازار"
+
+msgid "Price contribution"
+msgstr "سهم قیمت"
+
+msgid "Sharing"
+msgstr "اشتراک گذاری"
+
+msgid "Show more results"
+msgstr "نمایش نتایج بیشتر"
+
+msgid "Close"
+msgstr "بستن"
+
+msgid "Hide"
+msgstr "پنهان کردن"
+
+msgid "Keywords"
+msgstr "کلمات کلیدی"
+
+msgid "Corporate register"
+msgstr "ثبت شرکت"
+
+msgid "Expired soon"
+msgstr "به زودی پایان می یابد"
+
+msgid "Expired"
+msgstr "پایان یافته"
+
+msgid "Agreements"
+msgstr "توافق نامه"
+
+msgid "Agreement"
+msgstr "توافق"
+
+msgid "VAT identification number"
+msgstr "شماره شناسایی مالیات بر ارزش افزوده"
+
+msgid "What's on your mind?"
+msgstr "به چه فکر می کنید؟"
+
+msgid "Buyer"
+msgstr "خریدار"
+
+msgid "Prescriber"
+msgstr "پیش داوری"
+
+msgid "Message sent"
+msgstr "پیغام فرستاده شد"
+
+msgid "Limit"
+msgstr "محدود"
+
+msgid "Publish"
+msgstr "انتشار"
+
+msgid "Do not publish"
+msgstr "انتشار ندهید"
+
+msgid "Cancel"
+msgstr "لغو"
+
+msgid "Already suggested"
+msgstr "قبلا پیشنهاد شده"
+
+msgid "To suggest"
+msgstr "پیشنهاد دادن"
+
+msgid "Diagnostics"
+msgstr "تشخیص"
+
+msgid "Footer"
+msgstr "پاورقی"
+
+msgid "Header"
+msgstr "سربرگ"
+
+msgid "Serviced plot"
+msgstr "طرح خدمات"
+
+msgid "Net floor area"
+msgstr "خالص سطح زمین"
+
+msgid "Sold price"
+msgstr "مبلغ فروخته شده"
+
+msgid "Sold at"
+msgstr "فروخته شده در"
+
+msgid "Preview"
+msgstr "پیش نمایش"
+
+msgid "Garden area"
+msgstr "منطقه باغ مانند"
+
+msgid "Payments"
+msgstr "پرداخت"
+
+msgid "Reopen"
+msgstr "بازگشایی مجدد"
+
+msgid "Completed"
+msgstr "کامل شده"
+
+msgid "Callback"
+msgstr "تماس مجدد"
+
+msgid "Callbacks"
+msgstr "تماس های مجدد"
+
+msgid "Coagent"
+msgstr "مشاور همکار"
+
+msgid "Residences"
+msgstr "مجتمع"
+
+msgid "%s properties"
+msgstr "%s فایل ها"
+
+msgid "%s property"
+msgstr "%s ملک"
+
+msgid "%s request"
+msgstr "%s درخواست"
+
+msgid "%s requests"
+msgstr "%s درخواست ها"
+
+msgid "Characteristics"
+msgstr "مشخصات"
+
+msgid "Sorry, this property is no longer available."
+msgstr "با عرض پوزش این ملک دیگر در موجود نیست. "
+
+msgid "Processed"
+msgstr "فرآوری شده"
+
+msgid "remaining tickets"
+msgstr "بلیط های باقیمانده"
+
+msgid "Congratulations ! No more support tickets."
+msgstr "تبریک ! دیگر بلیطی برای پشتیبانی وجود ندارد."
+
+msgid "unassigned tickets"
+msgstr "بلیط های اختصاص نیافته"
+
+msgid "All tickets are assigned."
+msgstr "تمایمی بلیط ها اختصاص یافته است"
+
+msgid "task in progress"
+msgstr "وظیفه در حال انجام است"
+
+msgid "Database"
+msgstr "پایگاه داده"
+
+msgid "Used"
+msgstr "استفاده شده"
+
+msgid "%s results"
+msgstr "%s نتایج"
+
+msgid "Redirects"
+msgstr "به پیش"
+
+msgid "Subscribe to the newsletter"
+msgstr "اشتراک در خبرنامه"
+
+msgid "Purge"
+msgstr "تمیز کردن"
+
+msgid "Valuation methods"
+msgstr "روش های ارزیابی"
+
+msgid "Rebuild cost"
+msgstr "هزینه بازسازی"
+
+msgid "Comparative market analysis"
+msgstr "تجزه و تحلیل بازار مقایسه ای"
+
+msgid "An average of"
+msgstr "یک میانگین از"
+
+msgid "Your own valuation"
+msgstr "ارزیابی شما"
+
+msgid "Desired profitability"
+msgstr "سودآوری موردنظر"
+
+msgid "Taxes and/or fees"
+msgstr "مالیات و / یا هزینه ها"
+
+msgid "Year of purchase"
+msgstr "سال خرید"
+
+msgid "Rental income"
+msgstr "درآمد اجاره ای"
+
+msgid "Land price"
+msgstr "مبلغ زمین"
+
+msgid "Cost of construction"
+msgstr "هزینه ساخت"
+
+msgid "Interior fittings"
+msgstr "اتصالات داخلی"
+
+msgid "Landscaping"
+msgstr "محوطه سازی"
+
+msgid "Decrepitude"
+msgstr "فساد"
+
+msgid "Capital losses"
+msgstr "تلفات سرمایه"
+
+msgid "Capital gains"
+msgstr "سود سرمایه"
+
+msgid "Your mailbox has exceeded the storage limit (%s)"
+msgstr "صندوق پیام شما از محدودیت ذخیره سازی فراتر رفته است (s%)"
+
+msgid "Your mailbox will reach the storage limit"
+msgstr "صندوق پیام شما به محدودیت ذخیره سازی خواهد رسید"
+
+msgid "Sort by"
+msgstr "مرتب اساسی بر اساس"
+
+msgid "Condominium in difficulty"
+msgstr "Spoluvlastnictví v obtížích"
+
+msgid "Back to the list"
+msgstr "بازگشت به لیست"
+
+msgid "Previous listing"
+msgstr "لیست قبلی"
+
+msgid "Next listing"
+msgstr "لیست بعدی"
+
+msgid "empty"
+msgstr "خالی"
+
+msgid "Filename"
+msgstr "نام فایل"
+
+msgid "Keyword"
+msgstr "کلمه کلیدی"
+
+msgid "New feed"
+msgstr "اخبار"
+
+msgid "Errors"
+msgstr "خطاها"
+
+msgid "Error"
+msgstr "خطا"
+
+msgid "Erase all"
+msgstr "پاک کردن همه"
+
+msgid "Try"
+msgstr "امتحان کردن"
+
+msgid "Query"
+msgstr "پرس و جو"
+
+msgid "Agency fees payable by vendor"
+msgstr "هزینه های فروشنده"
+
+msgid "Agency fees payable by buyer"
+msgstr "هزینه های خریدار"
+
+msgid "Condominium fees"
+msgstr "هزینه های مالکیت مشترک"
+
+msgid "An error occurred"
+msgstr "خطایی رخ داده است"
+
+msgid "Successful subscription"
+msgstr "اشراک موفق آمیز"
+
+msgid "Created date"
+msgstr "تاریخ ایجاد"
+
+msgid "Updated date"
+msgstr "تاریخ بروزرسانی"
+
+msgid "Back to homepage"
+msgstr "بازگشت به داشبورد"
+
+msgid "Price min"
+msgstr "حداقل قیمت"
+
+msgid "Bedroom min"
+msgstr "حداقل خواب"
+
+msgid "Bedroom max"
+msgstr "حداکثر خواب"
+
+msgid "Room min"
+msgstr "حداقل اتاق"
+
+msgid "Room max"
+msgstr "حداکثر اتاق"
+
+msgid "Project at"
+msgstr "پروژه در"
+
+msgid "Agency rate"
+msgstr "نرخ آژانس"
+
+msgid "Tenant's commission"
+msgstr "هزینه هایی که مستاجر می پردازد"
+
+msgid "Inventory tenant charge"
+msgstr "موجودی شارژ مستاجر"
+
+msgid "Fees included"
+msgstr "هزینه ها شامل شده"
+
+msgid "Provision on recoverable fees"
+msgstr "پیش بینی هزینه های بازپرداخت "
+
+msgid "never"
+msgstr "هرگز"
+
+msgid "Remaining credits"
+msgstr "اعتبار باقیمانده"
+
+msgid "Buy credits"
+msgstr "خرید اعتبار"
+
+msgid "%s credits"
+msgstr "%s اعتبار باقیمانده"
+
+msgid "Transaction fees"
+msgstr "هزینه های معاملات"
+
+msgid "View property"
+msgstr "مشاهده ملک"
+
+msgid "lot available"
+msgstr "فضای باقیمانده"
+
+msgid "lots available"
+msgstr "فضاهای باقیمانده"
+
+msgid "Area min"
+msgstr "حداقل مساحت"
+
+msgid "Search a property"
+msgstr "جست و جوی فایل"
+
+msgid "International"
+msgstr "بین المللی"
+
+msgid "Unsubscribed"
+msgstr "لغو اشتراک"
+
+msgid "The property will not be published because it is in group « %s »"
+msgstr "ملک منتشر نمیشود.چون در گروه « s% » قرار دارد"
+
+msgid "%s months"
+msgstr "%s ماه"
+
+msgid "No action after"
+msgstr "بدون اقدام بعدی"
+
+msgid "%s pending delete"
+msgstr "%s در انتظار پاک شدن"
+
+msgid "Pending delete"
+msgstr "در انتظار پاک شدن"
+
+msgid "%s to delete"
+msgstr "%s پاک کردن"
+
+msgid "Edit my search"
+msgstr "ویرایش جست و جو من"
+
+msgid "Activate my search"
+msgstr "فعالسازی جست و جوی من"
+
+msgid "Cancel my search"
+msgstr "لغو جست و جوی من"
+
+msgid "Only authorized properties"
+msgstr "فایل های تایید شده"
+
+msgid "Another currency"
+msgstr "واحد پولی دیگر"
+
+msgid "Enter the first 6 digits"
+msgstr "لطفا ۶ رقم اول رو وارد کنید"
+
+msgid ""
+"Without action on your part, your contact will be deleted before the %s."
+msgstr "بدون اقدام از جانب شما، مخاطب شما قبل از s% حذف خواهد شد"
+
+msgid "No procedure in progress"
+msgstr "هیچ روندی در حال انجام نیست"
+
+msgid "Procedure in progress"
+msgstr "روند در حال انجام است"
+
+msgid "Number of lots in the condominium"
+msgstr "تعداد اجناس موجود در آپارتمان"
+
+msgid "Network authorized"
+msgstr "شبکه مجاز است"
+
+msgid "Renew the lease"
+msgstr "تمدید اجاره"
+
+msgid "Remove at"
+msgstr "حذف در"
+
+msgid "External action"
+msgstr "اقدام خارجی"
+
+msgid ""
+"The migration of your prospect into a request will allow you to make "
+"matching and proposals with a better tracking."
+msgstr ""
+"تغییر یک مشتری احتمالی به یک درخواست ، به شما اجازه خواهد داد که تطبیق بهتری"
+" انجام دهید."
+
+msgid "Floors"
+msgstr "طبقات"
+
+msgid "Job"
+msgstr "شغل"
+
+msgid "Unsuscribe from this list"
+msgstr "لغو اشتراک از لیست"
+
+msgid "Entry"
+msgstr "ورودی"
+
+msgid "Networks"
+msgstr "ارتباطات"
+
+msgid "Secured"
+msgstr "امن شده"
+
+msgid "Transparency"
+msgstr "شفافیت"
+
+msgid "Left"
+msgstr "چپ"
+
+msgid "Top"
+msgstr "بالا"
+
+msgid "Relative to the last element"
+msgstr "نسبت به آخرین عنصر"
+
+msgid "Alignment"
+msgstr "هم ترازی"
+
+msgid "Border size"
+msgstr "اندازه خطوط اطراف"
+
+msgid "Border color"
+msgstr "رنگ خطوط اطراف"
+
+msgid "Size of the internal margin"
+msgstr "اندازه حاشیه داخلی"
+
+msgid "Font color"
+msgstr "رنگ فونت"
+
+msgid "Font size"
+msgstr "اندازه فونت"
+
+msgid "Background color"
+msgstr "رنگ پس زمینه"
+
+msgid "Custom image"
+msgstr "تصویر سفارشی"
+
+msgid "custom"
+msgstr "سفارشی"
+
+msgid "Right"
+msgstr "راست"
+
+msgid "Center"
+msgstr "مرکز"
+
+msgid "Justified"
+msgstr "تعدیل شده"
+
+msgid "Line height"
+msgstr "ارتفاع خط"
+
+msgid "Uppercase"
+msgstr "حروف بزرگ"
+
+msgid "Price proposal"
+msgstr "پیشنهاد قیمت"
+
+msgid "Template"
+msgstr "قالب"
+
+msgid "Publication date"
+msgstr "تاریخ انتشار"
+
+msgid "Recovered at"
+msgstr "بازسازی شده در"
+
+msgid "Allow all"
+msgstr "اجازه دادن به همه"
+
+msgid "Private position is not set, click here to update."
+msgstr "محل دقیق روی نقشه انتخاب نشده است، برای انتخاب کلیک کنید"
+
+msgid "Public position is not set, click here to update."
+msgstr "محدوده ملک روی نقشه انتخاب نشده است، برای انتخاب کلیک کنید"
+
+msgid ""
+"Please use this link to subscribe to your calendar from a software or a "
+"device:"
+msgstr ""
+"لطفا از این لینک برای اشتراک تقویم خود از یک نرم افزار یا یک دستگاه استفاده "
+"کنید:"
+
+msgid "Activate"
+msgstr "فعالسازی"
+
+msgid "Disable"
+msgstr "غیرفعال کردن"
+
+msgid "Block"
+msgstr "مسدود کردن"
+
+msgid "Unblock"
+msgstr "رفع مسدودی"
+
+msgid "Area max"
+msgstr "حداکثر مساحت"
+
+msgid "Plot of land area min"
+msgstr "حداقل مساحت طرح قطعه زمین"
+
+msgid "Plot of land area max"
+msgstr "حداکثر مساحت طرح قطعه زمین"
+
+msgid "Date descending"
+msgstr "تاریخ نزولی"
+
+msgid "Date ascending"
+msgstr "تاریخ صعودی"
+
+msgid "Price descending"
+msgstr "قیمت نزولی"
+
+msgid "Price ascending"
+msgstr "قیمت صعودی"
+
+msgid "Balance"
+msgstr "تعادل"
+
+msgid "Construction method"
+msgstr "روش ساخت"
+
+msgid "Tax code"
+msgstr "کد مالیاتی"
+
+msgid "Downsides"
+msgstr "اشکال"
+
+msgid "Assets"
+msgstr "مزیت"
+
+msgid "Please select a district from the list:"
+msgstr "لطفا یک ناحیه را از لیست انتخاب کنید"
+
+msgid "Non-flood zone"
+msgstr "ناحیه بدون سیل"
+
+msgid "Potential flood zone"
+msgstr "ناحیه سیل خیز"
+
+msgid "Recognized flood zone"
+msgstr "منطقه سیل خیز تشخیص داده شده"
+
+msgid "Delimited flood zone"
+msgstr "منطقه محدود سیل خیز"
+
+msgid "Cadastre"
+msgstr "تماس با ما "
+
+msgid "Delimited waterside zone"
+msgstr "منطقه خلیجی محدود شده"
+
+msgid "Potential flood zone in a delimited waterside zone"
+msgstr "منطقه سیل خیز در منطقه خلیجی محدود شده"
+
+msgid "Potential flood zone in a delimited flood zone"
+msgstr "منطقه سیل خیز در منطقه سیل خیز محدود شده"
+
+msgid "Recognized flood zone in a delimited waterside zone"
+msgstr "منطقه سیل خیز شناخته شده در منطقه خلیجی محدود شده"
+
+msgid "Recognized flood zone in a delimited flood zone"
+msgstr "منطقه سیل خیز شناخته شده در منطقه سیل خیز محدود شده"
+
+msgid "Profile"
+msgstr "پروفایل"
+
+msgid "Export"
+msgstr "صادرات"
+
+msgid "Quota"
+msgstr "سهمیه"
+
+msgid "Logs"
+msgstr "پرونده فایل"
+
+msgid "Document"
+msgstr "سند"
+
+msgid "Partner"
+msgstr "شریک"
+
+msgid "Net seller"
+msgstr "قیمت دریافتی فروشنده"
+
+msgid "Price displayed"
+msgstr "قیمت نمایش داده شده"
+
+msgid "%s unit"
+msgstr "واحدها s%"
+
+msgid "Not suggested"
+msgstr "پیشنهاد نشده است"
+
+msgid "%s guest"
+msgstr "مهمانان s%"
+
+msgid "%s bed"
+msgstr "%s تخت خواب ها"
+
+msgid "%s bathroom"
+msgstr "%s حمام"
+
+msgid "%s bathrooms"
+msgstr "%s حمام ها"
+
+msgid "Professionals"
+msgstr "حرفه ای"
+
+msgid "Toilet"
+msgstr "دستشویی"
+
+msgid "Help"
+msgstr "راهنمایی"
+
+msgid "Show pagination"
+msgstr "نمایش صفحه بندی"
+
+msgid "Mandatory fields"
+msgstr "فیلدهای اجباری"
+
+msgid "Available soon"
+msgstr "به زودی در دسترس خواهد بود"
+
+msgid "HD Photo"
+msgstr "HD Photo"
+
+msgid "Contract end at"
+msgstr "پایان قرارداد در"
+
+msgid "Incomplete"
+msgstr "ناقص"
+
+msgid "Location Map"
+msgstr "نقشه مکان"
+
+msgid "User Detail"
+msgstr "جزئیات کاربر"
+
+msgid "File size"
+msgstr "اندازه فایل"
+
+msgid "File title"
+msgstr "عنوان فایل"
+
+msgid "Region"
+msgstr "منطقه"
+
+msgid "Bath"
+msgstr "حمام"
+
+msgid "Private Negotiation"
+msgstr "مذاکره خصوصی"
+
+msgid "Property specifications"
+msgstr "مشخصات ملک"
+
+msgid "Energy performance"
+msgstr "عملکرد انرژی"
+
+msgid "Media Details"
+msgstr "جزئیات رسانه"
+
+msgid "View Video"
+msgstr "مشاهده ویدئو"
+
+msgid "Start Date"
+msgstr "تاریخ شروع"
+
+msgid "End Date"
+msgstr "تاریخ پایان"
+
+msgid "Welcome"
+msgstr "خوش آمدید"
+
+msgid "See What’s happening with Apimo Plugin."
+msgstr "ببینید چه اتفاقاتی در پلاگین Apimo رخ می‌دهد."
+
+msgid "PROVIDERS"
+msgstr "تأمین‌کنندگان"
+
+msgid "AGENCIES"
+msgstr "آژانس‌ها"
+
+msgid "PROPERTIES"
+msgstr "املاک"
+
+msgid "BOOKMARK"
+msgstr "نشانک"
+
+msgid "Remove all"
+msgstr "حذف همه"
+
+msgid "Apply filter"
+msgstr "اعمال فیلتر"
+
+msgid "Select Subtype"
+msgstr "نوع زیرگروه را انتخاب کنید"
+
+msgid "Enchère"
+msgstr "مزایده"
+
+msgid "Location"
+msgstr "اجاره"
+
+msgid "Location saisonnière"
+msgstr "اجاره فصلی"
+
+msgid "From"
+msgstr "از"
+
+msgid "To"
+msgstr "به"
+
+msgid "Dates"
+msgstr "تاریخ‌ها"
+
+msgid "Select country"
+msgstr "انتخاب کشور"
+
+msgid "Select region"
+msgstr "انتخاب منطقه"
+
+msgid "Select district"
+msgstr "انتخاب ناحیه"
+
+msgid "Select city"
+msgstr "انتخاب شهر"
+
+msgid "Good"
+msgstr "خوب"
+
+msgid "Bad"
+msgstr "بد"
+
+msgid "hello"
+msgstr "سلام"
+
+msgid "Available Integrations"
+msgstr "ادغام های موجود"
+
+msgid "reCAPTCHA Detected"
+msgstr "recaptcha شناسایی شد"
+
+msgid "reCAPTCHA Not Detected"
+msgstr "recaptcha تشخیص داده نشده است"
+
+msgid "Google reCAPTCHA Integration"
+msgstr "ادغام Google recaptcha"
+
+msgid ""
+"Protect your forms from spam and abuse with Google reCAPTCHA integration."
+msgstr ""
+"از فرم های خود در برابر هرزنامه و سوءاستفاده از ادغام Google Recaptcha "
+"محافظت کنید."
+
+msgid "Activate Integration"
+msgstr "ادغام را فعال کنید"
+
+msgid "Deactivate Integration"
+msgstr "ادغام غیرفعال"
+
+msgid "reCAPTCHA Configuration"
+msgstr "پیکربندی recaptcha"
+
+msgid "Please configure your reCAPTCHA keys below to complete the setup."
+msgstr ""
+"لطفاً برای تکمیل تنظیمات ، کلیدهای recaptcha خود را در زیر پیکربندی کنید."
+
+msgid "To complete the reCAPTCHA setup:"
+msgstr "برای تکمیل تنظیمات recaptcha:"
+
+msgid "Go to the"
+msgstr "رفتن به"
+
+msgid "Google reCAPTCHA Admin Console"
+msgstr "کنسول مدیر Google Recaptcha"
+
+msgid "Register your site and get your Site Key and Secret Key"
+msgstr "سایت خود را ثبت کنید و کلید و کلید مخفی سایت خود را دریافت کنید"
+
+msgid "Enter the keys below to activate reCAPTCHA"
+msgstr "برای فعال کردن Recaptcha ، کلیدهای زیر را وارد کنید"
+
+msgid "reCAPTCHA is configured properly."
+msgstr "Recaptcha به درستی پیکربندی شده است."
+
+msgid "Site Key"
+msgstr "کلید سایت"
+
+msgid "Secret Key"
+msgstr "کلید مخفی"
+
+msgid "Save Configuration"
+msgstr "پیکربندی را ذخیره کنید"
+
+msgid "Contact Form"
+msgstr "فرم تماس"
+
+msgid "Invalid format"
+msgstr "قالب نامعتبر"
+
+msgid "This field is required"
+msgstr "این قسمت مورد نیاز است"
+
+msgid "Invalid email format"
+msgstr "قالب ایمیل نامعتبر است"
+
+msgid "Please use reCAPTCHA version 3"
+msgstr "لطفا از نسخه 3 recaptcha استفاده کنید"

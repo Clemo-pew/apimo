@@ -1,0 +1,5146 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.1\n"
+
+msgid "Reminder"
+msgstr "Připomínka"
+
+msgid "Suggestion"
+msgstr "Podmět"
+
+#, fuzzy
+msgid "Report"
+msgstr ""
+"#-#-#-#-#  apimo-cs_CZ.po  #-#-#-#-#\n"
+"Report\n"
+"#-#-#-#-#  apimo-cs_CZ.po  #-#-#-#-#\n"
+"Zpráva"
+
+#, fuzzy
+msgid "Other"
+msgstr ""
+"#-#-#-#-#  apimo-cs_CZ.po  #-#-#-#-#\n"
+"Ostatní\n"
+"#-#-#-#-#  apimo-cs_CZ.po  #-#-#-#-#\n"
+"Jiný\n"
+"#-#-#-#-#  apimo-cs_CZ.po  #-#-#-#-#\n"
+"Jiné\n"
+"#-#-#-#-#  apimo-cs_CZ.po  #-#-#-#-#\n"
+"Ostatní\n"
+"#-#-#-#-#  apimo-cs_CZ.po  #-#-#-#-#\n"
+"Jiný"
+
+#, fuzzy
+msgid "Valuation"
+msgstr ""
+"#-#-#-#-#  apimo-cs_CZ.po  #-#-#-#-#\n"
+"Odhad\n"
+"#-#-#-#-#  apimo-cs_CZ.po  #-#-#-#-#\n"
+"Ocenění\n"
+"#-#-#-#-#  apimo-cs_CZ.po  #-#-#-#-#\n"
+"Ocenění"
+
+#, fuzzy
+msgid "Advertising"
+msgstr ""
+"#-#-#-#-#  apimo-cs_CZ.po  #-#-#-#-#\n"
+"Inzerce\n"
+"#-#-#-#-#  apimo-cs_CZ.po  #-#-#-#-#\n"
+"Reklama\n"
+"#-#-#-#-#  apimo-cs_CZ.po  #-#-#-#-#\n"
+"Reklama"
+
+msgid "Open House"
+msgstr "Open House"
+
+#, fuzzy
+msgid "Canvassing"
+msgstr ""
+"#-#-#-#-#  apimo-cs_CZ.po  #-#-#-#-#\n"
+"Průzkum\n"
+"#-#-#-#-#  apimo-cs_CZ.po  #-#-#-#-#\n"
+"Nábor"
+
+msgid "Message"
+msgstr "Zpráva"
+
+msgid "After-sales"
+msgstr "Po prodeji"
+
+msgid "Visit"
+msgstr "Prohlídka"
+
+msgid "Appointment"
+msgstr "Schůzka"
+
+msgid "Phone"
+msgstr "Telefon"
+
+#, fuzzy
+msgid "e-mail"
+msgstr ""
+"#-#-#-#-#  apimo-cs_CZ.po  #-#-#-#-#\n"
+"e-mail\n"
+"#-#-#-#-#  apimo-cs_CZ.po  #-#-#-#-#\n"
+"e-mailem"
+
+msgid "Fax"
+msgstr "Fax"
+
+msgid "Mail"
+msgstr "Pošta"
+
+msgid "SMS"
+msgstr "SMS"
+
+msgid "Walk-in"
+msgstr "Vejít"
+
+#, fuzzy
+msgid "Extranet"
+msgstr ""
+"#-#-#-#-#  apimo-cs_CZ.po  #-#-#-#-#\n"
+"Portály\n"
+"#-#-#-#-#  apimo-cs_CZ.po  #-#-#-#-#\n"
+"Extranet"
+
+msgid "Project"
+msgstr "Projekt"
+
+msgid "Under construction"
+msgstr "Ve výstavbě"
+
+msgid "Delivered"
+msgstr "Předáno"
+
+msgid "Ended"
+msgstr "Ukončeno"
+
+msgid "Canceled"
+msgstr "Zrušeno"
+
+msgid "Mr."
+msgstr "Pan."
+
+msgid "Mrs."
+msgstr "Paní."
+
+msgid "Ms."
+msgstr "Paní"
+
+msgid "Mr. & Mrs."
+msgstr "Pan a paní"
+
+msgid "Sheik"
+msgstr "Šejk"
+
+msgid "Duke"
+msgstr "Vévoda"
+
+msgid "Duchess"
+msgstr "Vévodkyně"
+
+msgid "Lord"
+msgstr "Lord"
+
+msgid "Maître"
+msgstr "Maître"
+
+msgid "Professor"
+msgstr "Profesor"
+
+msgid "Sir"
+msgstr "Sir"
+
+msgid "Regulations"
+msgstr "Předpisy"
+
+msgid "AML/KYC Vendor"
+msgstr "AML/KYC Vendor"
+
+msgid "AML/KYC Buyer"
+msgstr "AML/KYC Buyer"
+
+msgid "Concierge"
+msgstr "Vrátný"
+
+msgid "Contact"
+msgstr "Kontakt"
+
+#, fuzzy
+msgid "Search"
+msgstr ""
+"#-#-#-#-#  apimo-cs_CZ.po  #-#-#-#-#\n"
+"Více informací\n"
+"#-#-#-#-#  apimo-cs_CZ.po  #-#-#-#-#\n"
+"Hledat"
+
+#, fuzzy
+msgid "Owner"
+msgstr ""
+"#-#-#-#-#  apimo-cs_CZ.po  #-#-#-#-#\n"
+"Prodat\n"
+"#-#-#-#-#  apimo-cs_CZ.po  #-#-#-#-#\n"
+"Majitel"
+
+msgid "e-mail alert"
+msgstr "e-mailové upozornění"
+
+msgid "Send to a friend"
+msgstr "Odeslat příteli"
+
+msgid "Newsletter"
+msgstr "Zpravodaj"
+
+msgid "Selection"
+msgstr "Výběr"
+
+msgid "New"
+msgstr "Nový"
+
+msgid "Opened"
+msgstr "Otevřený"
+
+msgid "Processing"
+msgstr "Zpracování"
+
+msgid "Closed"
+msgstr "Uzavřený"
+
+msgid "Self-employed"
+msgstr "OSVČ"
+
+msgid "Bakery"
+msgstr "Pekárna"
+
+msgid "Restaurant"
+msgstr "Restaurace"
+
+msgid "Press"
+msgstr "Noviny/Média"
+
+msgid "Bar"
+msgstr "Bar"
+
+msgid "Florist"
+msgstr "Květinářství"
+
+msgid "Tobacconist"
+msgstr "Trafika"
+
+msgid "Clothes"
+msgstr "Obchod s oblečením"
+
+msgid "Drugstore"
+msgstr "Lékárna"
+
+msgid "Shopping centre"
+msgstr "Nákupní centrum"
+
+msgid "Travel agency"
+msgstr "Cestovní kancelář"
+
+msgid "Real estate agent"
+msgstr "Realitní makléř"
+
+msgid "Gallery"
+msgstr "Galerie"
+
+msgid "Garage"
+msgstr "Garáž"
+
+msgid "Insurer"
+msgstr "Pojišťovna"
+
+msgid "Optician"
+msgstr "Optik"
+
+msgid "Perfumery"
+msgstr "Parfumerie"
+
+msgid "Hotel"
+msgstr "Hotel"
+
+msgid "Antique dealer"
+msgstr "Starožitník"
+
+msgid "Laundry"
+msgstr "Prádelna"
+
+msgid "Pressing"
+msgstr "Žehlení"
+
+msgid "Jeweller"
+msgstr "Klenotník"
+
+msgid "Grocery"
+msgstr "Potraviny"
+
+msgid "Pork butcher"
+msgstr "Řezník"
+
+msgid "Caterer"
+msgstr "Jídelna"
+
+msgid "Brewery"
+msgstr "Pivovar"
+
+msgid "Snack"
+msgstr "Svačina"
+
+msgid "Confectioner"
+msgstr "Cukrář"
+
+msgid "Cheesemonger"
+msgstr "Sýrař"
+
+msgid "Fruit and vegetables"
+msgstr "Ovoce a zelenina"
+
+msgid "Sex shop"
+msgstr "Sex shop"
+
+msgid "Video game"
+msgstr "Video hry"
+
+msgid "Computer"
+msgstr "Počítač"
+
+msgid "Hairdresser"
+msgstr "Kadeřník"
+
+msgid "Cosmetician"
+msgstr "Kosmetička"
+
+msgid "Household electrical"
+msgstr "Elektro"
+
+msgid "Shoes"
+msgstr "Obuv"
+
+msgid "Haberdasher"
+msgstr "Galanterie"
+
+msgid "Groomer"
+msgstr "Holič"
+
+msgid "Tea room"
+msgstr "Čajovna"
+
+msgid "Beach"
+msgstr "Pláž"
+
+msgid "Bookshop"
+msgstr "Knihkupectví"
+
+msgid "Offices"
+msgstr "Kanceláře"
+
+msgid "Gas station"
+msgstr "Čerpací stanice"
+
+msgid "Camping"
+msgstr "Kemp"
+
+msgid "Nightclub"
+msgstr "Noční klub"
+
+msgid "Pet store"
+msgstr "Zverimex"
+
+msgid "Video arcade"
+msgstr "Herna"
+
+msgid "Office supplies"
+msgstr "Kancelářské potřeby"
+
+msgid "Furniture"
+msgstr "Nábytek"
+
+msgid "Decoration"
+msgstr "Dekorace"
+
+msgid "Agriculture"
+msgstr "Zemědělství"
+
+msgid "Photo"
+msgstr "Fotografie"
+
+msgid "Locksmith"
+msgstr "Zámečník"
+
+msgid "Health club"
+msgstr "Klub zdraví"
+
+msgid "Taxi"
+msgstr "Taxi"
+
+#, fuzzy
+msgid "Cinema"
+msgstr ""
+"#-#-#-#-#  apimo-cs_CZ.po  #-#-#-#-#\n"
+"Kino\n"
+"#-#-#-#-#  apimo-cs_CZ.po  #-#-#-#-#\n"
+"Domácí kino"
+
+msgid "Theater"
+msgstr "Divadlo"
+
+msgid "Café"
+msgstr "Kavárna"
+
+msgid "Garden centre"
+msgstr "Zahradnictví"
+
+msgid "Hardware shop"
+msgstr "Železářství"
+
+msgid "Fishmongers"
+msgstr "Rybáři"
+
+msgid "Recreation"
+msgstr "Rekreace"
+
+msgid "Culture"
+msgstr "Kultura"
+
+msgid "Sport supplies"
+msgstr "Sportovní potřeby"
+
+msgid "Bedroom"
+msgstr "Ložnice"
+
+msgid "Living-room"
+msgstr "Obývací pokoj"
+
+msgid "Kitchen"
+msgstr "Kuchyně"
+
+#, fuzzy
+msgid "Parking"
+msgstr ""
+"#-#-#-#-#  apimo-cs_CZ.po  #-#-#-#-#\n"
+"Parkoviště\n"
+"#-#-#-#-#  apimo-cs_CZ.po  #-#-#-#-#\n"
+"Parking\n"
+"#-#-#-#-#  apimo-cs_CZ.po  #-#-#-#-#\n"
+"Parkoviště"
+
+msgid "Pantry"
+msgstr "Sklep"
+
+msgid "Garden shelter"
+msgstr "Zahradní přístřešek"
+
+msgid "Bathroom"
+msgstr "Koupelna"
+
+msgid "Linen room"
+msgstr "Prádelna"
+
+msgid "Study"
+msgstr "Pracovna"
+
+msgid "Hallway"
+msgstr "Předsíň"
+
+msgid "Corridor"
+msgstr "Chodba"
+
+msgid "Shower room"
+msgstr "Sprcha"
+
+msgid "Walk-in wardrobe"
+msgstr "Šatna"
+
+msgid "Entrance"
+msgstr "Vchod"
+
+msgid "Lavatory"
+msgstr "Toaleta"
+
+msgid "Veranda"
+msgstr "Veranda"
+
+msgid "Terrace"
+msgstr "Terasa"
+
+msgid "Solarium"
+msgstr "Sluneční terasa"
+
+msgid "Living room/dining area"
+msgstr "Obývací pokoj / jídelní kout"
+
+msgid "Play room"
+msgstr "Dětský pokoj"
+
+msgid "Dining room"
+msgstr "Jídelna"
+
+msgid "Pool house"
+msgstr "Zahradní dům u bazénu"
+
+msgid "Cupboard"
+msgstr "Skříňka"
+
+msgid "Not used"
+msgstr "Nepoužívaný"
+
+msgid "Loggia"
+msgstr "Lodžie"
+
+msgid "Attic"
+msgstr "Podkroví"
+
+msgid "Mezzanine"
+msgstr "Mezipatro"
+
+msgid "Maintenance room"
+msgstr "Technická místnost"
+
+#, fuzzy
+msgid "Workshop"
+msgstr ""
+"#-#-#-#-#  apimo-cs_CZ.po  #-#-#-#-#\n"
+"Dílna\n"
+"#-#-#-#-#  apimo-cs_CZ.po  #-#-#-#-#\n"
+"Pracovna/Dílna"
+
+msgid "Studio"
+msgstr "Studio"
+
+msgid "Loft"
+msgstr "Loft"
+
+msgid "Library"
+msgstr "Knihovna"
+
+msgid "Closet"
+msgstr "Skříň"
+
+#, fuzzy
+msgid "Courtyard"
+msgstr ""
+"#-#-#-#-#  apimo-cs_CZ.po  #-#-#-#-#\n"
+"Dvůr\n"
+"#-#-#-#-#  apimo-cs_CZ.po  #-#-#-#-#\n"
+"Nádvoří"
+
+msgid "Landing"
+msgstr "Odpočívadlo"
+
+msgid "Basement"
+msgstr "Suterén"
+
+msgid "Bathroom / Lavatory"
+msgstr "Koupelna / Toaleta"
+
+msgid "Shower room / Lavatory"
+msgstr "Sprchový kout / Toaleta"
+
+msgid "Balcony"
+msgstr "Balkón"
+
+msgid "Exercise room"
+msgstr "Posilovna"
+
+msgid "Discothèque"
+msgstr "Diskotéka"
+
+msgid "Home cinema"
+msgstr "Domácí kino"
+
+msgid "Reception room"
+msgstr "Recepce"
+
+msgid "Storage room"
+msgstr "Komora"
+
+msgid "Garden"
+msgstr "Zahrada"
+
+msgid "Park"
+msgstr "Park"
+
+msgid "Land"
+msgstr "Pozemek"
+
+msgid "Patio"
+msgstr "Patio"
+
+msgid "Principal bedroom"
+msgstr "Hlavní ložnice"
+
+msgid "Suite"
+msgstr "Apartmá"
+
+msgid "Shed"
+msgstr "Kůlna"
+
+msgid "Apartment"
+msgstr "Byt"
+
+msgid "Cabin"
+msgstr "Chata"
+
+msgid "Barn"
+msgstr "Stodola"
+
+msgid "Outbuilding"
+msgstr "Přístavba"
+
+msgid "Bike storage room"
+msgstr "Úschovna kol"
+
+msgid "Ski storage room"
+msgstr "Lyžárna"
+
+msgid "Garbage room"
+msgstr "Místnost pro odpadky"
+
+msgid "Steam room"
+msgstr "Hammam"
+
+msgid "Indoor swimming pool"
+msgstr "Vnitřní bazén"
+
+msgid "Prayer room"
+msgstr "Modlitebna"
+
+msgid "Sauna"
+msgstr "Sauna"
+
+msgid "Watchtower"
+msgstr "Rozhledna"
+
+msgid "Room"
+msgstr "Pokoj"
+
+msgid "Meeting room"
+msgstr "Zasedací místnost"
+
+msgid "Maid's room"
+msgstr "Pokoj pro služebnou"
+
+msgid "Maid's studio"
+msgstr "Studio pro služebnou"
+
+msgid "Double reception room"
+msgstr "Dvojitý společenský pokoj"
+
+msgid "Triple reception room"
+msgstr "Trojitý společenský pokoj"
+
+msgid "Indoor parking"
+msgstr "Vnitřní parkování"
+
+msgid "Outdoor parking"
+msgstr "Vnější parkování"
+
+msgid "Warehouse"
+msgstr "Sklad"
+
+msgid "Shop"
+msgstr "Prodejna"
+
+msgid "Cafeteria"
+msgstr "Jídelna/Kafetérie"
+
+#, fuzzy
+msgid "Unit"
+msgstr ""
+"#-#-#-#-#  apimo-cs_CZ.po  #-#-#-#-#\n"
+"Jednotka\n"
+"#-#-#-#-#  apimo-cs_CZ.po  #-#-#-#-#\n"
+"Jednotky"
+
+msgid "Accommodation"
+msgstr "Ubytování"
+
+msgid "Arcade"
+msgstr "Pasáž"
+
+msgid "House"
+msgstr "Dům"
+
+msgid "Stair"
+msgstr "Schodiště"
+
+#, fuzzy
+msgid "Box"
+msgstr ""
+"#-#-#-#-#  apimo-cs_CZ.po  #-#-#-#-#\n"
+"Krabice\n"
+"#-#-#-#-#  apimo-cs_CZ.po  #-#-#-#-#\n"
+"Box"
+
+msgid "Carnotzet"
+msgstr "Vinárna"
+
+msgid "Panic room"
+msgstr "Skrýš"
+
+msgid "Single"
+msgstr "Jeden"
+
+msgid "Twin"
+msgstr "Dvojčata"
+
+msgid "Twin by garage"
+msgstr "Dvoulůžkový pokoj s garáží"
+
+msgid "Village house"
+msgstr "Vesnický dům"
+
+msgid "Twin by angle"
+msgstr "Dvojdomek"
+
+msgid "Ranged"
+msgstr "Řazení"
+
+msgid "Standard"
+msgstr "Standardní"
+
+msgid "Co-exclusive"
+msgstr "Ko-exkluzivní"
+
+#, fuzzy
+msgid "Exclusive"
+msgstr ""
+"#-#-#-#-#  apimo-cs_CZ.po  #-#-#-#-#\n"
+"výhradní\n"
+"#-#-#-#-#  apimo-cs_CZ.po  #-#-#-#-#\n"
+"Výhradní"
+
+msgid "Delegation"
+msgstr "delegace"
+
+msgid "Exclusive agent"
+msgstr "Výhradní zástupce"
+
+msgid "Colleague"
+msgstr "Kolega"
+
+msgid "Free"
+msgstr "Volný"
+
+msgid "Rented"
+msgstr "Pronajaté"
+
+msgid "Occupied"
+msgstr "Obsazený"
+
+msgid "To be agreed"
+msgstr "Bude dohodnuto"
+
+msgid "Building"
+msgstr "Budova"
+
+#, fuzzy
+msgid "Residence"
+msgstr ""
+"#-#-#-#-#  apimo-cs_CZ.po  #-#-#-#-#\n"
+"Rezidence/Sídlo\n"
+"#-#-#-#-#  apimo-cs_CZ.po  #-#-#-#-#\n"
+"Rezidence"
+
+msgid "Housing scheme"
+msgstr "Sídliště"
+
+msgid "Hamlet"
+msgstr "Osada/Vesnička"
+
+msgid "Domain"
+msgstr "Oblast"
+
+#, fuzzy
+msgid "Property"
+msgstr ""
+"#-#-#-#-#  apimo-cs_CZ.po  #-#-#-#-#\n"
+"Nemovitosti\n"
+"#-#-#-#-#  apimo-cs_CZ.po  #-#-#-#-#\n"
+"Nemovitost\n"
+"#-#-#-#-#  apimo-cs_CZ.po  #-#-#-#-#\n"
+"Nemovitost"
+
+msgid "Street"
+msgstr "Ulice"
+
+msgid "Sale"
+msgstr "Prodej"
+
+msgid "Rental"
+msgstr "Pronájem"
+
+msgid "Seasonal rental"
+msgstr "Sezónní pronájem"
+
+msgid "Development"
+msgstr "Development"
+
+#, fuzzy
+msgid "Life annuity"
+msgstr ""
+"#-#-#-#-#  apimo-cs_CZ.po  #-#-#-#-#\n"
+"Životní pojištění\n"
+"#-#-#-#-#  apimo-cs_CZ.po  #-#-#-#-#\n"
+"Životní anuita\n"
+"#-#-#-#-#  apimo-cs_CZ.po  #-#-#-#-#\n"
+"Životní anuita"
+
+msgid "Auction"
+msgstr "Aukce"
+
+msgid "Unit sale"
+msgstr "Prodej jednotky"
+
+msgid "Bulk sale"
+msgstr "Hromadný prodej"
+
+msgid "Unfurnished"
+msgstr "Nezařízený"
+
+#, fuzzy
+msgid "Furnished"
+msgstr ""
+"#-#-#-#-#  apimo-cs_CZ.po  #-#-#-#-#\n"
+"Zařízený\n"
+"#-#-#-#-#  apimo-cs_CZ.po  #-#-#-#-#\n"
+"Nábytek\n"
+"#-#-#-#-#  apimo-cs_CZ.po  #-#-#-#-#\n"
+"Vybavený"
+
+msgid "Roommate"
+msgstr "Spolubydlící"
+
+msgid "Student"
+msgstr "Student"
+
+msgid "Holidays"
+msgstr "Prázdniny"
+
+msgid "Event"
+msgstr "Event"
+
+msgid "New construction"
+msgstr "Nová výstavba"
+
+msgid "Life annuity occupied"
+msgstr "Životní renta obsazena"
+
+msgid "Bare Ownership"
+msgstr "Holé vlastnictví"
+
+msgid "Forward sale"
+msgstr "Prodej vpřed"
+
+msgid "Life annuity semi-occupied"
+msgstr "Doživotní anuita"
+
+msgid "Forward sale available"
+msgstr "Předprodej k dispozici"
+
+msgid "Forward sale semi-occupied"
+msgstr "Předprodejní polořadovka"
+
+msgid "Forward sale occupied"
+msgstr "Předaný prodej obsazen"
+
+msgid "Life annuity without income"
+msgstr "Životní anuita bez příjmu"
+
+msgid "Requires updating"
+msgstr "Vyžaduje úpravu"
+
+msgid "Good condition"
+msgstr "Dobrý stav"
+
+msgid "Requires renovation"
+msgstr "Vyžaduje renovaci"
+
+msgid "Excellent condition"
+msgstr "Výnorný stav"
+
+msgid "Timber"
+msgstr "Dříví"
+
+msgid "Engineered wood"
+msgstr "Upravené dřevo"
+
+msgid "Stone"
+msgstr "Kámen"
+
+msgid "Brick"
+msgstr "Cihlový"
+
+msgid "Concrete"
+msgstr "Beton"
+
+msgid "Reinforced concrete"
+msgstr "Železobeton"
+
+msgid "Steel frame"
+msgstr "Ocelový rám"
+
+msgid "Reinforced concrete frame"
+msgstr "Železobetonový rám"
+
+msgid "Shear wall"
+msgstr "Střižná stěna"
+
+msgid "Concrete block"
+msgstr "Betonový blok"
+
+msgid "Ground floor"
+msgstr "Přízemí"
+
+msgid "Top floor"
+msgstr "Horní patro"
+
+msgid "1st"
+msgstr "1."
+
+msgid "2nd"
+msgstr "2."
+
+msgid "3rd"
+msgstr "3."
+
+msgid "4th"
+msgstr "4."
+
+msgid "5th"
+msgstr "5."
+
+msgid "6th"
+msgstr "6."
+
+msgid "7th"
+msgstr "7."
+
+msgid "8th"
+msgstr "8."
+
+msgid "9th"
+msgstr "9."
+
+msgid "10th"
+msgstr "10."
+
+msgid "11th"
+msgstr "11."
+
+msgid "12th"
+msgstr "12."
+
+msgid "13th"
+msgstr "13."
+
+msgid "14th"
+msgstr "14."
+
+msgid "15th"
+msgstr "15."
+
+msgid "16th"
+msgstr "16."
+
+msgid "17th"
+msgstr "17."
+
+msgid "18th"
+msgstr "18."
+
+msgid "19th"
+msgstr "19."
+
+msgid "20th"
+msgstr "20."
+
+msgid "Garden level"
+msgstr "Úroveň zahrady"
+
+msgid "Split-level"
+msgstr "Mezipatro"
+
+msgid "-1"
+msgstr "-1"
+
+msgid "-2"
+msgstr "-2"
+
+msgid "-3"
+msgstr "-3"
+
+msgid "-4"
+msgstr "-4"
+
+msgid "Single-storey"
+msgstr "Jednopodlažní"
+
+msgid "21st"
+msgstr "21."
+
+msgid "22nd"
+msgstr "22."
+
+msgid "23rd"
+msgstr "23."
+
+msgid "24th"
+msgstr "24."
+
+msgid "25th"
+msgstr "25."
+
+msgid "26th"
+msgstr "26."
+
+msgid "27th"
+msgstr "27."
+
+msgid "28th"
+msgstr "28."
+
+msgid "29th"
+msgstr "29."
+
+msgid "30th"
+msgstr "30."
+
+msgid "31st"
+msgstr "31."
+
+msgid "32nd"
+msgstr "32."
+
+msgid "33rd"
+msgstr "33."
+
+msgid "34th"
+msgstr "34."
+
+msgid "35th"
+msgstr "35."
+
+msgid "36th"
+msgstr "36."
+
+msgid "37th"
+msgstr "37."
+
+msgid "38th"
+msgstr "38."
+
+msgid "39th"
+msgstr "39."
+
+msgid "40th"
+msgstr "40."
+
+msgid "-5"
+msgstr "-5"
+
+msgid "-6"
+msgstr "-6"
+
+msgid "-7"
+msgstr "-7"
+
+msgid "-8"
+msgstr "-8"
+
+msgid "-9"
+msgstr "-9"
+
+msgid "-10"
+msgstr "-10"
+
+msgid "41st"
+msgstr "41."
+
+msgid "42nd"
+msgstr "42."
+
+msgid "43rd"
+msgstr "43."
+
+msgid "44th"
+msgstr "44."
+
+msgid "45th"
+msgstr "45."
+
+msgid "46th"
+msgstr "46."
+
+msgid "47th"
+msgstr "47."
+
+msgid "48th"
+msgstr "48."
+
+msgid "49th"
+msgstr "49."
+
+msgid "50th"
+msgstr "50."
+
+msgid "51st"
+msgstr "51."
+
+msgid "52nd"
+msgstr "52."
+
+msgid "53rd"
+msgstr "53."
+
+msgid "54th"
+msgstr "54."
+
+msgid "55th"
+msgstr "55."
+
+msgid "56th"
+msgstr "56."
+
+msgid "57th"
+msgstr "57."
+
+msgid "58th"
+msgstr "58."
+
+msgid "59th"
+msgstr "59."
+
+msgid "60th"
+msgstr "60."
+
+msgid "Wooden floor"
+msgstr "Dřevěné podlahy"
+
+msgid "Tile"
+msgstr "Dlažba"
+
+msgid "Carpet"
+msgstr "Koberec"
+
+msgid "Natural fiber"
+msgstr "Přírodní vlákno"
+
+msgid "Coco"
+msgstr "Kokosový ořech"
+
+msgid "Travertine"
+msgstr "Travertin"
+
+msgid "Marble"
+msgstr "Mramor"
+
+msgid "Granite"
+msgstr "Granit/Žula"
+
+msgid "Terracotta tile"
+msgstr "Terakotová dlažba"
+
+msgid "Teak"
+msgstr "Teak"
+
+msgid "Mosaïc"
+msgstr "Mozaika"
+
+msgid "Clay"
+msgstr "Hliněný"
+
+msgid "Laminate"
+msgstr "Laminát"
+
+msgid "Vinyl composition tile"
+msgstr "Vinylové dlaždice"
+
+msgid "Convector"
+msgstr "Konvektor"
+
+msgid "Underfloor"
+msgstr "Podlaha"
+
+msgid "Radiator"
+msgstr "Chladič"
+
+msgid "Stove"
+msgstr "Kamna"
+
+msgid "Air-conditioning"
+msgstr "Klimatizace"
+
+msgid "Central"
+msgstr "Centrální"
+
+msgid "Without"
+msgstr "Bez"
+
+msgid "Fireplace"
+msgstr "Krb"
+
+msgid "Individual"
+msgstr "Individuální"
+
+msgid "Common"
+msgstr "Společný"
+
+msgid "Mixed"
+msgstr "Smíšený"
+
+msgid "District heating"
+msgstr "Dálkové vytápění"
+
+msgid "Gas"
+msgstr "Plyn"
+
+msgid "Fuel oil"
+msgstr "Topný olej"
+
+msgid "Electric"
+msgstr "Elektrický"
+
+msgid "Wood"
+msgstr "Dřevo"
+
+#, fuzzy
+msgid "Solar"
+msgstr ""
+"#-#-#-#-#  apimo-cs_CZ.po  #-#-#-#-#\n"
+"Sluneční\n"
+"#-#-#-#-#  apimo-cs_CZ.po  #-#-#-#-#\n"
+"Solární"
+
+msgid "Charcoal"
+msgstr "Dřevěné uhlí"
+
+msgid "Heat pump"
+msgstr "Tepelné čerpadlo"
+
+msgid "Geothermal"
+msgstr "Geotermální"
+
+msgid "Wood pellet"
+msgstr "Dřevěná peleta"
+
+#, fuzzy
+msgid "Hot water"
+msgstr ""
+"#-#-#-#-#  apimo-cs_CZ.po  #-#-#-#-#\n"
+"Horká voda\n"
+"#-#-#-#-#  apimo-cs_CZ.po  #-#-#-#-#\n"
+"Teplá voda"
+
+msgid "Hot water tank"
+msgstr "Zásobník teplé vody"
+
+msgid "Boiler"
+msgstr "Kotel"
+
+msgid "Collective"
+msgstr "Kolektivní"
+
+msgid "Flat"
+msgstr "Byt"
+
+msgid "Dry-stone wall terraces"
+msgstr "Kamenná skalka"
+
+msgid "Steep"
+msgstr "Příkrý"
+
+msgid "Wooded"
+msgstr "Zalesněný"
+
+msgid "Meadow"
+msgstr "Louka"
+
+msgid "Term lease"
+msgstr "Termín pronájmu"
+
+msgid "Long-Term"
+msgstr "Dlouhodobě"
+
+msgid "Long-Term - Single activity"
+msgstr "Dlouhodobě - jednorázové aktivity"
+
+msgid "Long-Term - All activities"
+msgstr "Všechny dlouhodobé aktivity"
+
+msgid "Seaside"
+msgstr "Pobřeží"
+
+msgid "Village"
+msgstr "Vesnice"
+
+msgid "Old town"
+msgstr "Staré Město"
+
+msgid "Precinct"
+msgstr "Okrsek"
+
+msgid "Ski slope"
+msgstr "Sjezdovka"
+
+msgid "Town center"
+msgstr "Centrum města"
+
+msgid "Industrial estate"
+msgstr "Průmyslová zóna"
+
+msgid "Shopping center"
+msgstr "Obchodní centrum"
+
+msgid "Business park"
+msgstr "Business park"
+
+msgid "Airport area"
+msgstr "Okolí letiště"
+
+msgid "Science park"
+msgstr "Vědecký park"
+
+msgid "Port area"
+msgstr "Okolí přístavu"
+
+msgid "Suburb"
+msgstr "Předměstí"
+
+msgid "Hills"
+msgstr "Kopce"
+
+msgid "Waterfront"
+msgstr "Nábřeží"
+
+msgid "Countryside"
+msgstr "Venkov"
+
+msgid "East"
+msgstr "Východní"
+
+msgid "North"
+msgstr "Severní"
+
+msgid "West"
+msgstr "Západ"
+
+msgid "South"
+msgstr "Jižní"
+
+msgid "Day"
+msgstr "Den"
+
+msgid "Week"
+msgstr "Týden"
+
+msgid "Fortnight"
+msgstr "Čtrnáct dní"
+
+msgid "Month"
+msgstr "Měsíc"
+
+msgid "Quarterly"
+msgstr "Čtvrtletní"
+
+msgid "Bimonthly"
+msgstr "Dvouměsíční"
+
+msgid "Half-yearly"
+msgstr "Pololetní"
+
+msgid "Yearly"
+msgstr "Ročně"
+
+msgid "Bus"
+msgstr "Autobus"
+
+msgid "Bus hub"
+msgstr "Autobusová zastávka"
+
+msgid "Metro"
+msgstr "Metro"
+
+msgid "Shops"
+msgstr "Obchody"
+
+msgid "Primary school"
+msgstr "Základní škola"
+
+msgid "Town centre"
+msgstr "Centrum města"
+
+msgid "Hospital/clinic"
+msgstr "Nemocnice/klinika"
+
+msgid "Doctor"
+msgstr "Doktor"
+
+msgid "Tram"
+msgstr "Tramvaj"
+
+msgid "Train station"
+msgstr "Vlakové nádraží"
+
+msgid "Public parking"
+msgstr "Veřejné parkoviště"
+
+msgid "Supermarket"
+msgstr "Supermarket"
+
+msgid "Sea port"
+msgstr "Námořní přístav"
+
+msgid "Nursery"
+msgstr "Denní péče"
+
+msgid "Public pool"
+msgstr "Veřejný bazén"
+
+msgid "Tennis"
+msgstr "Tenis"
+
+msgid "Golf"
+msgstr "Golf"
+
+msgid "Movies"
+msgstr "Cinema"
+
+msgid "Secondary school"
+msgstr "Střední škola"
+
+msgid "Sport center"
+msgstr "Sportovní centrum"
+
+msgid "Airport"
+msgstr "Letiště"
+
+msgid "Sea"
+msgstr "Moře"
+
+msgid "TGV station"
+msgstr "Stanice TGV"
+
+msgid "Highway"
+msgstr "Dálnice"
+
+msgid "University"
+msgstr "Univerzita"
+
+msgid "Convention center"
+msgstr "Kongresové centrum"
+
+msgid "Lake"
+msgstr "Jezero"
+
+msgid "On main road"
+msgstr "Na hlavní silnici"
+
+msgid "Energy - Conventional consumption"
+msgstr "Energie - Konvenční spotřeba"
+
+msgid "Energy - Emissions estimate"
+msgstr "Energetika - odhad emisí"
+
+msgid "« Carrez » act"
+msgstr "« Carrez »jednat"
+
+msgid "ERP"
+msgstr "ERP"
+
+msgid "Termites"
+msgstr "Termity"
+
+msgid "Asbestos"
+msgstr "Azbest"
+
+#, fuzzy
+msgid "Lead"
+msgstr ""
+"#-#-#-#-#  apimo-cs_CZ.po  #-#-#-#-#\n"
+"Olovo\n"
+"#-#-#-#-#  apimo-cs_CZ.po  #-#-#-#-#\n"
+"Olovo\n"
+"#-#-#-#-#  apimo-cs_CZ.po  #-#-#-#-#\n"
+"Vést"
+
+msgid "Electricity"
+msgstr "Elektřina"
+
+msgid "Boutin act"
+msgstr "Boutinův akt"
+
+msgid "Sanitation"
+msgstr "Kanalizace"
+
+msgid "EPI (Non renewable)"
+msgstr "Index energetické náročnosti (EPI)"
+
+msgid "APE"
+msgstr "Certifikát energetické náročnosti (APE)"
+
+msgid "Request for nomination of an ad hoc agent"
+msgstr "Žádost o jmenování agenta dle potřeby"
+
+msgid "Request for nomination of a temporary administrator"
+msgstr "Žádost o jmenování dočasného správce"
+
+msgid "Request for expert nomination"
+msgstr "Žádost o jmenování odborníka"
+
+msgid "Energy consumption"
+msgstr "Spotřeba energie"
+
+msgid "Housing tax"
+msgstr "Daň z nemovitosti"
+
+msgid "Property tax (IPTU)"
+msgstr "IPTU"
+
+msgid "Minergie"
+msgstr "Minergie"
+
+msgid "Volume"
+msgstr "Objem/Kapacita"
+
+msgid "Useful surface"
+msgstr "Užitá plocha"
+
+msgid "Co-Ownership property"
+msgstr "Spoluvlastnický podíl"
+
+msgid "Communal tax rate"
+msgstr "Komunální daňová sazba"
+
+msgid "Droit de superficie"
+msgstr "Droit de superficie"
+
+msgid "Millièmes"
+msgstr "Millièmes"
+
+msgid "Current renovation fund"
+msgstr "Současný fond oprav"
+
+msgid "Energy class"
+msgstr "Energetická třída"
+
+msgid "Thermal insulation class"
+msgstr "Třída tepelné izolace"
+
+msgid "Greenhouse Gas"
+msgstr "Skleníkový plyn"
+
+msgid "Energy passport"
+msgstr "Energetický pas"
+
+msgid "Energy certificate"
+msgstr "Energetický štítek"
+
+msgid "Energy consumption / Final energy requirement"
+msgstr "Spotřeba energie / Endenergiebedarf"
+
+msgid "Energy efficiency class"
+msgstr "Energetická třída - účinnost"
+
+msgid "Year of construction according to certificate"
+msgstr "Rok výstavby dle certifikátu"
+
+msgid "Energy consumption : Hot water included"
+msgstr "Včetně teplé vody"
+
+msgid "Specific primary energy consumption"
+msgstr "Specifická spotřeba primární energie"
+
+msgid "PEB unique code"
+msgstr "Jedinečný kód PEB"
+
+msgid "K level (Thermal Insulation)"
+msgstr "Úroveň K (tepelná izolace)"
+
+msgid "Ew level (Energy performance)"
+msgstr "Úroveň Ew (Energetická účinnost)"
+
+msgid "CO2 emission"
+msgstr "Emise CO2"
+
+msgid "Flood risks"
+msgstr "Povodňová rizika"
+
+msgid "Certificate: Oil tank conformity"
+msgstr "Certifikát: Shoda s olejovou nádrží"
+
+msgid "Certificate : Electric installation conformity"
+msgstr "Certifikát: shoda s elektrickou instalací"
+
+msgid "« As Built » certificate"
+msgstr "« Jako certifikát »"
+
+msgid "Emissions estimate"
+msgstr "odhad emisí"
+
+msgid "Rental value"
+msgstr "Hodnota pronájmu"
+
+msgid "Turnover"
+msgstr "Obrat"
+
+msgid "Net income"
+msgstr "Čistý příjem"
+
+msgid "Gross operating profit"
+msgstr "Hrubý provozní zisk"
+
+msgid "Personnel costs"
+msgstr "Osobní náklady"
+
+msgid "Cash flow"
+msgstr "Cash flow"
+
+msgid "Shareholders’equity"
+msgstr "Vlastní kapitál"
+
+msgid "Net debt"
+msgstr "Čistý dluh"
+
+msgid "Internet"
+msgstr "Internet"
+
+msgid "Disabled access"
+msgstr "Bezbariérový přístup"
+
+msgid "Alarm system"
+msgstr "Bezpečnostní systém"
+
+msgid "Lift"
+msgstr "Výtah"
+
+msgid "Caretaker"
+msgstr "Domovník"
+
+msgid "Double glazing"
+msgstr "Dvojité zasklení"
+
+msgid "Intercom"
+msgstr "Intercom"
+
+msgid "TV distribution"
+msgstr "Kabelová televize"
+
+#, fuzzy
+msgid "Swimming pool"
+msgstr ""
+"#-#-#-#-#  apimo-cs_CZ.po  #-#-#-#-#\n"
+"Bazén\n"
+"#-#-#-#-#  apimo-cs_CZ.po  #-#-#-#-#\n"
+"Bazén\n"
+"#-#-#-#-#  apimo-cs_CZ.po  #-#-#-#-#\n"
+"Plavecký bazén"
+
+msgid "Security door"
+msgstr "Bezpečnostní dveře"
+
+msgid "Tennis court"
+msgstr "Tenisový kurt"
+
+msgid "Irrigation sprinkler"
+msgstr "Zavlažovací postřikovač"
+
+msgid "Barbecue"
+msgstr "Barbecue"
+
+msgid "Electric gate"
+msgstr "Elektrická brána"
+
+msgid "Crawl space"
+msgstr "Průlez pod domem"
+
+msgid "Car port"
+msgstr "Kryté parkovací stání"
+
+msgid "Caretaker house"
+msgstr "Správce domu"
+
+msgid "Sliding windows"
+msgstr "Posuvná okna"
+
+msgid "Central vacuum system"
+msgstr "Centrální vysavač"
+
+msgid "Electric shutters"
+msgstr "Elektrické rolety"
+
+msgid "Window shade"
+msgstr "Rolety"
+
+msgid "Electric awnings"
+msgstr "Elektrické markýzy"
+
+msgid "Washing machine"
+msgstr "Pračka"
+
+msgid "Jacuzzi"
+msgstr "Jacuzzi"
+
+msgid "Whirlpool tub"
+msgstr "Vířivá vana"
+
+msgid "Well"
+msgstr "Studna"
+
+msgid "Spring"
+msgstr "Studánka"
+
+msgid "Engine generator"
+msgstr "Generátor"
+
+msgid "Dishwasher"
+msgstr "Myčka"
+
+msgid "Hob"
+msgstr "Sporák"
+
+msgid "Safe"
+msgstr "Trezor"
+
+msgid "Helipad"
+msgstr "Heliport"
+
+msgid "Videophone"
+msgstr "Videotelefon"
+
+msgid "Video security"
+msgstr "Bezpečnostní kamera"
+
+msgid "Iron"
+msgstr "Žehlička"
+
+msgid "Hair dryer"
+msgstr "Fén"
+
+msgid "Television"
+msgstr "Televize"
+
+msgid "DVD Player"
+msgstr "DVD Player"
+
+msgid "CD Player"
+msgstr "CD Player"
+
+msgid "Outdoor lighting"
+msgstr "Venkovní osvětlení"
+
+msgid "Spa"
+msgstr "Spa"
+
+msgid "Home automation"
+msgstr "Chytrá domácnost"
+
+msgid "Linens"
+msgstr "Povlečení"
+
+msgid "Tableware"
+msgstr "Nádobí"
+
+msgid "Clothes dryer"
+msgstr "Sušička prádla"
+
+msgid "Refrigerator"
+msgstr "Lednička"
+
+msgid "Oven"
+msgstr "Trouba"
+
+msgid "Reception 24/7"
+msgstr "Recepce 24/7"
+
+msgid "Coffeemaker"
+msgstr "Kávovar"
+
+msgid "Microwave oven"
+msgstr "Mikrovlnná trouba"
+
+msgid "Shabbat elevator"
+msgstr "Shabbat výtah"
+
+msgid "Sukkah"
+msgstr "Zahradní přístřešek"
+
+msgid "Synagogue"
+msgstr "Synagoga"
+
+msgid "Digicode"
+msgstr "Zámek na kód"
+
+msgid "Common laundry"
+msgstr "Společná prádelna"
+
+msgid "Pets allowed"
+msgstr "Zvířata povolena"
+
+msgid "Metal shutters"
+msgstr "Kovové žaluzie"
+
+msgid "Wiring closet"
+msgstr "Serverovna"
+
+msgid "Computer network"
+msgstr "Počítačová síť"
+
+msgid "Dropped ceiling"
+msgstr "Zřícený strop"
+
+msgid "Fire hose cabinets"
+msgstr "Požární hadice"
+
+msgid "Fire sprinkler system"
+msgstr "Protipožární systém"
+
+msgid "Berth"
+msgstr "Přístaviště"
+
+msgid "Connected thermostat"
+msgstr "Připojení k vodě"
+
+msgid "Bowling game"
+msgstr "Trávník"
+
+msgid "Water softener"
+msgstr "Změkčovač vody"
+
+msgid "Triple glazing"
+msgstr "Trojité zasklení"
+
+msgid "Well drilling"
+msgstr "Dobré vrtání"
+
+msgid "Optical fiber"
+msgstr "Optické vlákno"
+
+msgid "Non-flooding"
+msgstr "Nezaplavení"
+
+msgid "Backup water system"
+msgstr "Záložní vodní systém"
+
+msgid "Water filtration system"
+msgstr "Vodní filtrační systém"
+
+msgid "Air filtration system"
+msgstr "Systém filtrace vzduchu"
+
+msgid "Fire alarm system"
+msgstr "Požární alarm"
+
+msgid "Commercial services"
+msgstr "Komerční služby"
+
+msgid "Playground"
+msgstr "Hřiště"
+
+msgid "Supplies"
+msgstr "Dodávky"
+
+msgid "Outdoor spaces"
+msgstr "Velkovní prostory"
+
+msgid "Rental supplies"
+msgstr "Půjčovna"
+
+#, fuzzy
+msgid "Security"
+msgstr ""
+"#-#-#-#-#  apimo-cs_CZ.po  #-#-#-#-#\n"
+"Ostraha\n"
+"#-#-#-#-#  apimo-cs_CZ.po  #-#-#-#-#\n"
+"Zabezpečení"
+
+msgid "Professional supplies"
+msgstr "Profesionální dodávky"
+
+msgid "High standard"
+msgstr "Vysoký standard"
+
+msgid "Luxury"
+msgstr "Luxusní"
+
+msgid "High luxury"
+msgstr "Vysoký luxus"
+
+#, fuzzy
+msgid "Housing estate"
+msgstr ""
+"#-#-#-#-#  apimo-cs_CZ.po  #-#-#-#-#\n"
+"Síliště\n"
+"#-#-#-#-#  apimo-cs_CZ.po  #-#-#-#-#\n"
+"Sídliště"
+
+msgid "Regular"
+msgstr "Pravidelný"
+
+#, fuzzy
+msgid "In progress"
+msgstr ""
+"#-#-#-#-#  apimo-cs_CZ.po  #-#-#-#-#\n"
+"Probíhající\n"
+"#-#-#-#-#  apimo-cs_CZ.po  #-#-#-#-#\n"
+"V procesu\n"
+"#-#-#-#-#  apimo-cs_CZ.po  #-#-#-#-#\n"
+"Probíhající"
+
+msgid "Standby"
+msgstr "Pohotovostní režim"
+
+msgid "Deleted"
+msgstr "Smazáno"
+
+msgid "Waiting for contract"
+msgstr "Čekání na smlouvu"
+
+msgid "Agreement ended"
+msgstr "Ukončená smlouva"
+
+msgid "Offer"
+msgstr "Nabídka"
+
+msgid "Processing sale"
+msgstr "Stav prodeje"
+
+msgid "Pending approval"
+msgstr "Čekání na schválení"
+
+msgid "Sell/Rent by agent"
+msgstr "Prodáno/Pronajato agentem"
+
+msgid "Sell/Rent by owner"
+msgstr "Prodáno/Pronajato vlastníkem"
+
+msgid "Sell/Rent by other agent"
+msgstr "Prodáno/Pronajato jiným agentem"
+
+msgid "Removed by agent"
+msgstr "Odstraněno agentem"
+
+msgid "Removed by owner"
+msgstr "Odstraněno vlastníkem"
+
+msgid "Sale/Rental cancelled"
+msgstr "Prodej/Pronájem zrušen"
+
+msgid "Delete this property"
+msgstr "Nemovitos na bourání"
+
+msgid "Business"
+msgstr "Business"
+
+msgid "Garage/Parking"
+msgstr "Garáž/Parkovací místo"
+
+msgid "Office"
+msgstr "Kancelář"
+
+msgid "Boat"
+msgstr "Loď"
+
+msgid "Cellar / Box"
+msgstr "Sklep"
+
+msgid "Triplex"
+msgstr "Triplex"
+
+msgid "Building land"
+msgstr "Stavební pozemek"
+
+msgid "Not constructible land"
+msgstr "Nestavební pozemek"
+
+msgid "Penthouse"
+msgstr "Penthouse"
+
+msgid "Castle"
+msgstr "Hrad"
+
+msgid "Duplex"
+msgstr "Duplex"
+
+msgid "Mansion"
+msgstr "Zámek"
+
+msgid "Farm"
+msgstr "Farma"
+
+msgid "Villa"
+msgstr "Vila"
+
+msgid "Apartment villa"
+msgstr "Vícegenerační vila"
+
+msgid "Ruin"
+msgstr "Ruina"
+
+msgid "Mill"
+msgstr "Mlýn"
+
+msgid "Carpark"
+msgstr "Vozový park"
+
+msgid "Farmhouse"
+msgstr "Statek"
+
+msgid "Townhouse"
+msgstr "Townhouse"
+
+msgid "Mobile home"
+msgstr "Mobilní dům"
+
+msgid "Cottage"
+msgstr "Chalupa"
+
+msgid "Hangar"
+msgstr "Hangár"
+
+msgid "Mas"
+msgstr "Mas"
+
+msgid "Local"
+msgstr "Místní"
+
+msgid "Chalet"
+msgstr "Chalet"
+
+msgid "Retail space"
+msgstr "Komerčních prostor"
+
+msgid "Business assets"
+msgstr "Aktiva podniku"
+
+msgid "Right to the lease"
+msgstr "Právo pronájmu"
+
+msgid "Management"
+msgstr "Správa"
+
+msgid "Agricultural exploitation"
+msgstr "Zemědělské využití"
+
+msgid "Cellar"
+msgstr "Sklep"
+
+msgid "Woodshed"
+msgstr "Dřevěná chata"
+
+msgid "Stud farm"
+msgstr "Hřebčín"
+
+msgid "Plot of land"
+msgstr "Pozemek"
+
+msgid "Bastide"
+msgstr "Bastide"
+
+msgid "Bastidon"
+msgstr "Bastidon"
+
+msgid "Company"
+msgstr "Společnost"
+
+msgid "Vineyard property"
+msgstr "Vinařství"
+
+msgid "Motor Yacht"
+msgstr "Motorová jachta"
+
+msgid "Narrow boat"
+msgstr "Kocábka"
+
+msgid "Sailing Yacht"
+msgstr "Plachetnice"
+
+msgid "Catamaran"
+msgstr "Katamarán"
+
+msgid "Equestrian estate"
+msgstr "Panství"
+
+msgid "Bed and breakfast"
+msgstr "Bed and breakfast"
+
+msgid "Gîte"
+msgstr "Gîte"
+
+msgid "Riad"
+msgstr "Riad"
+
+msgid "Retail shop"
+msgstr "Retail"
+
+msgid "Shophouse"
+msgstr "Obchodní dům"
+
+msgid "Borey"
+msgstr "Borey"
+
+msgid "Condo"
+msgstr "Condo"
+
+msgid "Factory"
+msgstr "Továrna"
+
+msgid "Serviced apartment"
+msgstr "Apartmá"
+
+msgid "Twin Villa"
+msgstr "Dvojdomek"
+
+msgid "Flat House"
+msgstr "Činžovní dům"
+
+msgid "Semi-detached house"
+msgstr "Řadový dům"
+
+msgid "Bungalow"
+msgstr "Bungalow"
+
+msgid "Beach house"
+msgstr "Plážový dům"
+
+msgid "Ger district"
+msgstr "Ger okres"
+
+msgid "Summer house"
+msgstr "Letní rezidence"
+
+msgid "Private island"
+msgstr "Privátní ostrov"
+
+msgid "Residential land"
+msgstr "Pozemky pro rezidenční využití"
+
+msgid "Commercial land"
+msgstr "Komerční pozemky"
+
+msgid "Subdivision"
+msgstr "Pododdělení"
+
+msgid "Game reserve"
+msgstr "Hrací rezerva"
+
+msgid "Mountains"
+msgstr "Hory"
+
+msgid "Greenery"
+msgstr "Zeleň"
+
+msgid "Monument"
+msgstr "Památník"
+
+msgid "Forest"
+msgstr "Les"
+
+msgid "River"
+msgstr "Řeka"
+
+msgid "City"
+msgstr "Město"
+
+msgid "Sky"
+msgstr "Nebe"
+
+msgid "Main stem"
+msgstr "Hlavní kmen"
+
+msgid "Harbor"
+msgstr "Přístav"
+
+msgid "Ski slopes"
+msgstr "Sjezdovka"
+
+msgid "Obstructed"
+msgstr "Zastřený"
+
+msgid "Slight"
+msgstr "Nepatrný"
+
+msgid "Unobstructed"
+msgstr "Nezastřený"
+
+msgid "Panoramic"
+msgstr "Panorámatický"
+
+msgid "Septic tank"
+msgstr "Septik"
+
+msgid "Main drainage"
+msgstr "Hlavní vodovod"
+
+msgid "Treatment plant"
+msgstr "Úprava"
+
+msgid "Estate agent"
+msgstr "Realitní agent"
+
+msgid "Phoning"
+msgstr "Telefonování"
+
+msgid "Collaboration"
+msgstr "Spolupráce"
+
+msgid "Provider"
+msgstr "Poskytovatel"
+
+msgid "Renown"
+msgstr "Dobré jméno"
+
+msgid "Walk-in / Window"
+msgstr "Vstup / Okno"
+
+#, fuzzy
+msgid "Network"
+msgstr ""
+"#-#-#-#-#  apimo-cs_CZ.po  #-#-#-#-#\n"
+"Network\n"
+"#-#-#-#-#  apimo-cs_CZ.po  #-#-#-#-#\n"
+"Síť"
+
+msgid "Flyer"
+msgstr "Leták"
+
+msgid "Sign"
+msgstr "Cedule"
+
+msgid "Magazine"
+msgstr "Magazín"
+
+#, fuzzy
+msgid "Mailing"
+msgstr ""
+"#-#-#-#-#  apimo-cs_CZ.po  #-#-#-#-#\n"
+"Poštovní komunikace\n"
+"#-#-#-#-#  apimo-cs_CZ.po  #-#-#-#-#\n"
+"Pošta"
+
+#, fuzzy
+msgid "e-mailing"
+msgstr ""
+"#-#-#-#-#  apimo-cs_CZ.po  #-#-#-#-#\n"
+"Mailová komunikace\n"
+"#-#-#-#-#  apimo-cs_CZ.po  #-#-#-#-#\n"
+"Emailová korespondence"
+
+msgid "Old client"
+msgstr "Opakovat zákazníka"
+
+msgid "Appraisal"
+msgstr "Odhad"
+
+msgid "Selection / Favorite"
+msgstr "Výběr / Oblíbené"
+
+msgid "Main residence"
+msgstr "Hlavní rezidence"
+
+msgid "Secondary residence"
+msgstr "Druhá rezidence"
+
+msgid "Student residence"
+msgstr "Studentská kolej"
+
+msgid "Tourism residence"
+msgstr "Rezidence pro turisty"
+
+msgid "Seniors residence"
+msgstr "Bydlení pro seniory"
+
+msgid "Duflot Legislation"
+msgstr "Duflot Legislation"
+
+msgid "Censi-Bouvard Legislation"
+msgstr "Právní předpisy Censi-Bouvard"
+
+msgid "Reduced fees"
+msgstr "Snížené poplatky"
+
+msgid "EHPAD (Retirement homes)"
+msgstr "EHPAD (Domovy důchodců)"
+
+msgid "Act 1291"
+msgstr "Zákon 1291"
+
+msgid "Act 887"
+msgstr "Zákon 887"
+
+msgid "Mixed-use"
+msgstr "Smíšené použití"
+
+msgid "Rental investment"
+msgstr "Investice do pronájmu"
+
+msgid "Act 1235"
+msgstr "Zákon 1235"
+
+msgid "Pinel Legislation"
+msgstr "Pinel legislativa"
+
+msgid "Resale"
+msgstr "Další prodej"
+
+msgid "Private leasing"
+msgstr "Soukromý leasing"
+
+msgid "Bank leasing"
+msgstr "Bankovní leasing"
+
+msgid "IPOTEK"
+msgstr "IPOTEK"
+
+msgid "Exchangeable"
+msgstr "Vyměnitelné"
+
+msgid "No advance"
+msgstr "Žádná záloha"
+
+msgid "m²"
+msgstr "m²"
+
+msgid "sq ft"
+msgstr "sq ft"
+
+msgid "sq yd"
+msgstr "sq yd"
+
+msgid "ha"
+msgstr "ha"
+
+msgid "minute"
+msgstr "minuta"
+
+msgid "metre"
+msgstr "metry"
+
+msgid "km"
+msgstr "km"
+
+msgid "Administrator"
+msgstr "Správce"
+
+msgid "Company manager"
+msgstr "Manažer společnosti"
+
+msgid "Agency manager"
+msgstr "Manažer kanceláře"
+
+msgid "Secretariat"
+msgstr "Sekretariát"
+
+#, fuzzy
+msgid "Agent"
+msgstr ""
+"#-#-#-#-#  apimo-cs_CZ.po  #-#-#-#-#\n"
+"Broker\n"
+"#-#-#-#-#  apimo-cs_CZ.po  #-#-#-#-#\n"
+"Činidlo"
+
+msgid "Intern"
+msgstr "Stážista"
+
+msgid "User"
+msgstr "Uživatel"
+
+msgid "Franchisor"
+msgstr "Franchisor"
+
+msgid "Translator"
+msgstr "Překladatel"
+
+msgid "Plan"
+msgstr "Plán"
+
+msgid "Image"
+msgstr "Obraz"
+
+msgid "Pet"
+msgstr "Domácí zvíře"
+
+msgid "Natural light"
+msgstr "Přirozené světlo"
+
+msgid "Kitchen island"
+msgstr "Kuchyňský ostrov"
+
+msgid "Kitchen bar"
+msgstr "Kuchyňský bar"
+
+msgid "High ceiling"
+msgstr "Vysoký strop"
+
+msgid "Skylight"
+msgstr "Střešní okno"
+
+msgid "Exposed bricks"
+msgstr "Odkryté cihly"
+
+msgid "Ceiling fan"
+msgstr "Stropní ventilátor"
+
+msgid "Chandelier"
+msgstr "Lustr"
+
+msgid "Stainless steel"
+msgstr "Nerezová ocel"
+
+msgid "Price on request"
+msgstr "Cena na vyžádání"
+
+msgid "Currency"
+msgstr "Měna"
+
+msgid "Cost"
+msgstr "Cena"
+
+msgid "Types"
+msgstr "Typy"
+
+msgid "Cities"
+msgstr "Města"
+
+msgid "Rooms"
+msgstr "Pokoje"
+
+msgid "Send"
+msgstr "Poslat"
+
+msgid "Lastname"
+msgstr "Příjmení"
+
+msgid "Firstname"
+msgstr "Křestní jméno"
+
+msgid "Reference"
+msgstr "Referenční"
+
+msgid "Ref."
+msgstr "Ref."
+
+msgid "%s bedrooms"
+msgstr "%s ložnice"
+
+msgid "%s room"
+msgstr "%s pokoj"
+
+msgid "%s rooms"
+msgstr "%s pokoje"
+
+msgid "Folder"
+msgstr "Složka"
+
+msgid "No matches found"
+msgstr "Shoda nenalezena"
+
+msgid "Please enter one more character"
+msgstr "Prosím zadejte ještě jeden znak"
+
+msgid "Duplicate"
+msgstr "Duplikát"
+
+msgid "Deposit"
+msgstr "Záloha"
+
+msgid "Rate"
+msgstr "Sazba"
+
+msgid "Sender"
+msgstr "Odesílatel"
+
+msgid "Recipient"
+msgstr "Příjemce"
+
+msgid "Subject"
+msgstr "Předmět"
+
+msgid "Attachment"
+msgstr "Příloha"
+
+msgid "Key"
+msgstr "Klíčový"
+
+msgid "Documents"
+msgstr "Dokumenty"
+
+msgid "Name"
+msgstr "Jméno"
+
+msgid "Back"
+msgstr "Zpět"
+
+msgid "Help?"
+msgstr "Pomoc?"
+
+msgid "Read more"
+msgstr "Přečtěte si více"
+
+msgid "Area"
+msgstr "Podlahová Plocha"
+
+msgid "Areas"
+msgstr "Dispozice"
+
+msgid "Length"
+msgstr "Délka"
+
+msgid "Height"
+msgstr "Výška"
+
+msgid "Width"
+msgstr "Šířka"
+
+msgid "Agreement reference"
+msgstr "Smluvní reference"
+
+msgid "Agreement start at"
+msgstr "Smlouva začíná dne"
+
+msgid "Agreement end at"
+msgstr "Smlouva končí dnem"
+
+msgid "Website"
+msgstr "Webová stránka"
+
+msgid "Proximity"
+msgstr "Blízkost"
+
+msgid "Proximities"
+msgstr "Blízkosti"
+
+msgid "Loading"
+msgstr "Nahrává se"
+
+msgid "Log out"
+msgstr "Odhlásit se"
+
+msgid "Availabilities"
+msgstr "Dostupnost"
+
+msgid "Total area"
+msgstr "Celková rozloha"
+
+msgid "Living area"
+msgstr "Obývací prostor"
+
+msgid "Password forgotten"
+msgstr "Zapomenuté heslo"
+
+msgid "Password"
+msgstr "Heslo"
+
+msgid "Username"
+msgstr "Uživatelské jméno"
+
+msgid "Welcome %s"
+msgstr "Vítejte %s"
+
+msgid "Add"
+msgstr "Přidat"
+
+msgid "Show"
+msgstr "Ukázat"
+
+msgid "List"
+msgstr "Seznam"
+
+msgid "Tools"
+msgstr "Nástroje"
+
+msgid "Market"
+msgstr "Trh"
+
+msgid "Agency"
+msgstr "Kancelář"
+
+msgid "Calendar"
+msgstr "Kalendář"
+
+msgid "Homepage"
+msgstr "Domovská stránka"
+
+msgid "Map"
+msgstr "Mapa"
+
+msgid "Value"
+msgstr "Hodnota"
+
+msgid "Occupant"
+msgstr "Uživatelé"
+
+msgid "Sectors"
+msgstr "Sektory"
+
+msgid "Sector"
+msgstr "Sektor"
+
+msgid "contact"
+msgstr "Kontakt"
+
+msgid "Contacts"
+msgstr "Kontakty"
+
+msgid "%s contact"
+msgstr "%s kontakt"
+
+msgid "%s contacts"
+msgstr "%s kontaktů"
+
+msgid "Configuration"
+msgstr "Nastavení"
+
+msgid "General"
+msgstr "Obecný"
+
+msgid "Heating"
+msgstr "Topení"
+
+msgid "Waste water"
+msgstr "Odpadní voda"
+
+msgid "Country"
+msgstr "Venkovský"
+
+msgid "Escrow deposit"
+msgstr "Úschova"
+
+msgid "Orientation"
+msgstr "Orientace"
+
+msgid "View"
+msgstr "Výhled"
+
+msgid "District"
+msgstr "Čtvrť"
+
+msgid "Fields"
+msgstr "Pole"
+
+msgid "Hook"
+msgstr "Ulovit"
+
+msgid "Comment"
+msgstr "Komentář"
+
+msgid "Buy"
+msgstr "Koupit"
+
+msgid "Rent"
+msgstr "Pronajmout si"
+
+msgid "Commercial"
+msgstr "Komerční"
+
+msgid "About us"
+msgstr "O nás"
+
+msgid "Services"
+msgstr "Služby"
+
+msgid "News"
+msgstr "Novinky"
+
+msgid "Contact us"
+msgstr "Kontaktujte nás"
+
+msgid "Print"
+msgstr "Tisknout"
+
+msgid "Picture"
+msgstr "Zobrazení"
+
+msgid "Add to cart"
+msgstr "Přidat do košíku"
+
+msgid "Replace in cart"
+msgstr "Nahradit v košíku"
+
+msgid "Category"
+msgstr "Kategorie"
+
+msgid "History"
+msgstr "Historie"
+
+msgid "Details"
+msgstr "Podrobnosti"
+
+msgid "Date"
+msgstr "Datum"
+
+msgid "Previous"
+msgstr "Předchozí"
+
+msgid "Next"
+msgstr "Další"
+
+msgid "Quick search"
+msgstr "Rychlé hledání"
+
+msgid "Zipcode"
+msgstr "PSČ"
+
+msgid "The username and/or password is invalid."
+msgstr "Uživatelské jméno a / nebo heslo je neplatné."
+
+msgid "Group"
+msgstr "Skupina"
+
+msgid "Are you sure?"
+msgstr "Jste si jistí?"
+
+msgid "Nationality"
+msgstr "Národnost"
+
+msgid "Regulation"
+msgstr "Předpis"
+
+msgid "Radius"
+msgstr "Rádius"
+
+msgid "Content"
+msgstr "Obsah"
+
+msgid "Watermark"
+msgstr "Vodoznak"
+
+msgid "Latitude"
+msgstr "Zeměpisná šířka"
+
+msgid "Longitude"
+msgstr "Zeměpisná délka"
+
+msgid "Mortgage"
+msgstr "Hypotéka"
+
+msgid "Download"
+msgstr "Stáhnout"
+
+msgid "Dashboard"
+msgstr "Dashboard"
+
+msgid "Matching at"
+msgstr "Odpovídající"
+
+msgid "Pay now by card"
+msgstr "Platba kartou"
+
+msgid "Pay by bank transfer"
+msgstr "Platba bankovním převodem"
+
+msgid "Pay by check"
+msgstr "Platba šekem"
+
+msgid "Powered by"
+msgstr "Poháněno"
+
+msgid "Accepted payment methods"
+msgstr "Akceptovatelné platební metody"
+
+msgid "Terms and Conditions"
+msgstr "Pravidla a podmínky"
+
+msgid ""
+"Your contact is already in database, please select it on the list below."
+msgstr ""
+"Váš kontakt je již v databázi, vyberte jej prosím na níže uvedeném seznamu."
+
+msgid "Agreement"
+msgstr "Smlouva"
+
+msgid "Agreements"
+msgstr "Smlouvy"
+
+msgid "Seekers"
+msgstr "Hledači"
+
+msgid "Active seekers"
+msgstr "Aktivní hledač"
+
+msgid "Owners"
+msgstr "Vlastníci"
+
+msgid "Active owners"
+msgstr "Aktivní vlastníci"
+
+msgid "Monitoring"
+msgstr "Monitoring"
+
+msgid "Forward"
+msgstr "Přední"
+
+msgid "Similar"
+msgstr "Podobný"
+
+msgid "Condition"
+msgstr "Stav"
+
+msgid "Flooring"
+msgstr "Podlaha"
+
+msgid "Water"
+msgstr "Voda"
+
+msgid "Description"
+msgstr "Popis"
+
+msgid "Deductions"
+msgstr "Dedukce"
+
+msgid "Not available"
+msgstr "Nedostupné"
+
+msgid "Prospect"
+msgstr "Vyhlídka"
+
+msgid "Shares"
+msgstr "Podíly/Akcie"
+
+msgid "Likes"
+msgstr "Líbí se"
+
+msgid "Like"
+msgstr "Líbí se mi"
+
+msgid "Unlike"
+msgstr "Nelíbí se mi"
+
+msgid "Portfolio"
+msgstr "Portfolio"
+
+msgid "Features"
+msgstr "Vlastnosti"
+
+msgid "Contracted owner"
+msgstr "Smluvní vlastník"
+
+msgid "Contracted owners"
+msgstr "Smluvní vlastníci"
+
+msgid "Contracted customer"
+msgstr "Smluvní zákazník"
+
+msgid "Contracted customers"
+msgstr "Smluvní zákazníci"
+
+msgid "Transfer tax"
+msgstr "Daň z převodu"
+
+msgid "Change to"
+msgstr "Změnit na"
+
+msgid "Until"
+msgstr "Dokud"
+
+msgid "Location reference"
+msgstr "Odkaz na místo"
+
+msgid "Priority"
+msgstr "Priorita"
+
+msgid "Full form"
+msgstr "Úplný formulář"
+
+msgid "Quick form"
+msgstr "Rychlý formulář"
+
+msgid "%s char(s)"
+msgstr "%s znaky"
+
+msgid "Price from"
+msgstr "Cena od"
+
+msgid "Listing"
+msgstr "Listing"
+
+msgid "Listings"
+msgstr "Listings"
+
+msgid "Duration"
+msgstr "Doba trvání"
+
+msgid "Request incomplete"
+msgstr "Požadavek je neúplný"
+
+msgid "%s incomplete request(s)"
+msgstr "%s žádosti neúplné"
+
+msgid "Subscribe for"
+msgstr "Přihlásit se k odběru"
+
+msgid "Subtotal"
+msgstr "Mezisoučet"
+
+msgid "Tax notice"
+msgstr "Daňové oznámení"
+
+msgid "Events"
+msgstr "Eventy/Akce"
+
+msgid "Present"
+msgstr "Přítomný"
+
+msgid "Missing"
+msgstr "Chybějící"
+
+msgid "Planned"
+msgstr "Plánovaný"
+
+msgid "Full"
+msgstr "Úplný"
+
+msgid "Organizer"
+msgstr "Pořadatel"
+
+msgid "Already subscribed"
+msgstr "Již jste přihlášeni"
+
+msgid "Attendees"
+msgstr "Účastníci"
+
+msgid "Join"
+msgstr "Přidat se"
+
+msgid "Training"
+msgstr "Vzdělávání"
+
+msgid "Require a change of password at next logon"
+msgstr "Bude vyžadována změna hesla při příštím přihlášení"
+
+msgid "Gross revenue"
+msgstr "Hrubý příjem"
+
+msgid "Gross yield"
+msgstr "Hrubý výnos"
+
+msgid "Net yield"
+msgstr "Čistý výnos"
+
+msgid "Vacancy rate"
+msgstr "Míra neobsazenosti"
+
+msgid "Investment"
+msgstr "Investice"
+
+msgid "Lock"
+msgstr "Zámek"
+
+msgid "Variables"
+msgstr "Proměnné"
+
+msgid "Example"
+msgstr "Příklad"
+
+msgid "Increment"
+msgstr "Zvýšení"
+
+msgid "Schema"
+msgstr "Schéma"
+
+msgid "Automation"
+msgstr "Automatizace"
+
+msgid "Login"
+msgstr "Přihlásit se"
+
+msgid "Renovation year"
+msgstr "Rok renovace"
+
+msgid "Curriculum vitae"
+msgstr "Životopis"
+
+msgid "Resellers"
+msgstr "Dealer"
+
+msgid "Billing"
+msgstr "Fakturace"
+
+msgid "The balance of your account is %s"
+msgstr "Zůstatek na Vašem účtu je %s"
+
+msgid "Ceiling"
+msgstr "Strop"
+
+msgid "Weighted area"
+msgstr "Nakloněná plocha"
+
+msgid "Collected"
+msgstr "Shromážděné"
+
+msgid "Unlimited"
+msgstr "Neomezený"
+
+msgid "Amounts"
+msgstr "Množství"
+
+msgid "Subscribe"
+msgstr "Odebírat"
+
+msgid "Setup"
+msgstr "Založit"
+
+msgid "Available"
+msgstr "Volný"
+
+msgid "Active owner"
+msgstr "Aktivní vlastník"
+
+msgid "Price by area"
+msgstr "Cenové rozpětí"
+
+msgid "Default list"
+msgstr "Výchozí seznam"
+
+msgid "Subtype"
+msgstr "Podtyp"
+
+msgid "Inventory"
+msgstr "Inventář"
+
+msgid "Add a custom document"
+msgstr "Přidat zakázkový formulář"
+
+msgid "Line spacing"
+msgstr "Řádkování"
+
+msgid "Font"
+msgstr "Písmo"
+
+msgid "Portrait"
+msgstr "Portrét"
+
+msgid "Landscape"
+msgstr "Krajina"
+
+msgid "Accounts"
+msgstr "Účty"
+
+msgid "Optional"
+msgstr "Volitelný"
+
+msgid "File"
+msgstr "Soubor"
+
+msgid "Collected at"
+msgstr "Shromážděno"
+
+msgid "Linked"
+msgstr "Spojený"
+
+msgid "Discover our offers"
+msgstr "Objevte naše nabídky"
+
+msgid "Blank"
+msgstr "Prázdný"
+
+msgid "Portal"
+msgstr "Portál"
+
+msgid "Software Documentation"
+msgstr "Dokumentace k softwaru"
+
+msgid "Time"
+msgstr "Čas"
+
+msgid "Dedicated website"
+msgstr "Vyhrazená webová stránka"
+
+msgid "Subcategory"
+msgstr "Podkategorie"
+
+msgid "No IP control"
+msgstr "Bez kontroly IP"
+
+msgid "Auto publish"
+msgstr "Automatické publikování"
+
+msgid "Link to property"
+msgstr "Odkaz na vlastnost"
+
+msgid "Happy birthday!"
+msgstr "Všechno nejlepší k narozeninám!"
+
+msgid "Birthday"
+msgstr "Narozeniny"
+
+msgid "Last login"
+msgstr "Poslední přihlášení"
+
+msgid "This property is a part of:"
+msgstr "Tato vlastnost je součástí:"
+
+msgid "IP address"
+msgstr "IP adresy"
+
+msgid "Prospecting"
+msgstr "Průzkum"
+
+msgid "Access code"
+msgstr "Přístupový kód"
+
+msgid "Access code at"
+msgstr "Přístupový kód na"
+
+msgid "Number of shares"
+msgstr "Počet sdílení"
+
+msgid "Leads"
+msgstr "Vede"
+
+msgid "Cancelled"
+msgstr "Zrušeno"
+
+msgid "Link"
+msgstr "Odkaz"
+
+msgid "Advanced"
+msgstr "Pokročilý"
+
+msgid "Publish on homepage"
+msgstr "Publikovat na domovské stránce"
+
+msgid "Suggested"
+msgstr "Navrhovaný"
+
+msgid "Welcome on %s"
+msgstr "Vítejte v %s"
+
+msgid "Extranet access"
+msgstr "Přístup k extranetu"
+
+msgid "Publish address"
+msgstr "Zveřejnit adresu"
+
+msgid "Opening hours"
+msgstr "Otevírací doba"
+
+msgid "Backoffice"
+msgstr "Backoffice"
+
+msgid "Member since %s"
+msgstr "Členem od %s"
+
+msgid "Lock menu bar"
+msgstr "Zavřít panel nabídek"
+
+msgid "Update"
+msgstr "Aktualizace"
+
+msgid "Booking"
+msgstr "Rezervace"
+
+msgid "Forward to contact"
+msgstr "Předat kontakt"
+
+msgid "Responder"
+msgstr "Responder"
+
+msgid ""
+"You can search our Frequently Asked Questions (FAQs) database by keyword(s):"
+msgstr ""
+"V databázi často kladených dotazů (FAQ) můžete hledat podle klíčového "
+"slova/klíčových slov"
+
+msgid "Registrar"
+msgstr "Notář"
+
+msgid "Expiration at"
+msgstr "Konec platnosti"
+
+msgid "Mailbox"
+msgstr "Poštovní schránka"
+
+msgid "Domain name"
+msgstr "Název domény"
+
+msgid "Filling"
+msgstr "Vyplňit"
+
+msgid "Condition precedent"
+msgstr "Předsmluvní podmínka"
+
+msgid "Size"
+msgstr "Velikost"
+
+msgid "Fees"
+msgstr "Provize"
+
+msgid "Fees charged"
+msgstr "Účtované poplatky"
+
+msgid "Customer"
+msgstr "Zákazník"
+
+msgid "Booked"
+msgstr "Zarezervováno"
+
+msgid "Associate"
+msgstr "Kolega"
+
+msgid "Ceiling height"
+msgstr "Výška stropu"
+
+msgid "Translations"
+msgstr "Překlady"
+
+msgid "Unsold"
+msgstr "Neprodaný"
+
+msgid "Sold"
+msgstr "Prodáno"
+
+msgid "Last action"
+msgstr "Poslední akce"
+
+msgid "Our agency"
+msgstr "Naše kancelář"
+
+msgid "Locate us"
+msgstr "Najděte nás"
+
+msgid "Your main contact"
+msgstr "Váš hlavní kontakt"
+
+msgid "Send me a message"
+msgstr "Pošlete mi zprávu"
+
+msgid "Leave us a message"
+msgstr "Nechte nám zprávu"
+
+msgid "Price with fees"
+msgstr "Cena s poplatky"
+
+msgid "Owner access"
+msgstr "Přístup majitele"
+
+msgid "Added"
+msgstr "Přidaný"
+
+msgid "Available for matching"
+msgstr "K dispozici pro srovnání"
+
+msgid "Available at"
+msgstr "Dostupné na"
+
+msgid "Tenant"
+msgstr "Nájemník"
+
+msgid "Add to list"
+msgstr "Přidat do seznamu"
+
+msgid "Custom tags"
+msgstr "Zakázková cedule"
+
+msgid "%s pending approval properties"
+msgstr "%s nemovitosti před schválením"
+
+msgid "Negotiable price"
+msgstr "Cena k jednání"
+
+msgid "Price updated"
+msgstr "Aktualizována cena"
+
+msgid "Less equal"
+msgstr "Méně"
+
+msgid "Equal"
+msgstr "Rovná se"
+
+msgid "Greater equal"
+msgstr "Více"
+
+msgid "Preferences"
+msgstr "Preference"
+
+msgid "Contact means"
+msgstr "Možnosti kontaktu"
+
+msgid "Agency fees"
+msgstr "Provize kanceláře"
+
+msgid "Scheduled at"
+msgstr "Naplánováno na"
+
+msgid "Contract at"
+msgstr "Smlouva na"
+
+msgid "Commitment"
+msgstr "Závazek"
+
+msgid "Commitment at"
+msgstr "Závazek k"
+
+msgid "Offer at"
+msgstr "Nabídka na"
+
+msgid "No action"
+msgstr "Žádná akce"
+
+msgid "Received contact information"
+msgstr "Přijaté kontaktní informace"
+
+msgid "Linked contact"
+msgstr "Propojený kontakt"
+
+msgid "Related contacts"
+msgstr "Související kontakty"
+
+msgid "Others"
+msgstr "Ostatní"
+
+msgid "Assigned to"
+msgstr "Přiřazen k"
+
+msgid "Assign to"
+msgstr "Přiřadit k"
+
+msgid "Assign by"
+msgstr "Přiřazen kým"
+
+msgid "Opened by"
+msgstr "Otevřeno uživatelem"
+
+msgid "Closed by"
+msgstr "Uzavřeno uživatelem"
+
+msgid "Time zone"
+msgstr "Časové pásmo"
+
+msgid "Customers"
+msgstr "Klienti"
+
+msgid "Invert selection"
+msgstr "Obrátit výběr"
+
+msgid "Select all"
+msgstr "Vybrat vše"
+
+msgid "Unselect all"
+msgstr "Zrušit výběr"
+
+msgid "%s awaiting lead(s)"
+msgstr "%s čeká na lead"
+
+msgid "%s lead(s) to assign"
+msgstr "%s lead k přiřazení"
+
+msgid "%s pending properties"
+msgstr "%s čekající nemovitost"
+
+msgid "%s pending matching(s)"
+msgstr "%s čekající na shodu"
+
+msgid "%s expired agreement(s)"
+msgstr "%s vypršení mandátu"
+
+msgid "%s expired soon agreement(s)"
+msgstr "%s mandat brzy vyprší"
+
+msgid "Legal notice"
+msgstr "Soudní oznámení"
+
+msgid "Tags"
+msgstr "Označení"
+
+msgid "Prescribers"
+msgstr "Předpisy"
+
+msgid "Allowed"
+msgstr "Povoleno"
+
+msgid "Min stay"
+msgstr "Min pobyt"
+
+msgid "Over"
+msgstr "Přes"
+
+msgid "Refresh"
+msgstr "Obnovit"
+
+msgid "Free text"
+msgstr "Volný text"
+
+msgid "Generate comment"
+msgstr "Generovat komentář"
+
+msgid "Building name"
+msgstr "Název budovy"
+
+msgid "VAT"
+msgstr "DPH"
+
+msgid "VAT included"
+msgstr "Včetně DPH"
+
+msgid "VAT excluded"
+msgstr "Bez DPH"
+
+msgid "Recurrence"
+msgstr "Opakování"
+
+msgid "Calculate"
+msgstr "Vypočítat"
+
+msgid "Contribution"
+msgstr "Přínos"
+
+msgid "Maximum debt"
+msgstr "Maximální dluh"
+
+msgid "Purchase amount"
+msgstr "Výše nákupu"
+
+msgid "Borrowing calculator"
+msgstr "Kalkulačka půjček"
+
+msgid "Monthly payment calculator"
+msgstr "Kalkulačka měsíčních splátek"
+
+msgid "You don't have broadcasting rights"
+msgstr "Nemáte vysílací práva"
+
+msgid "Pending"
+msgstr "Čekající"
+
+msgid "Suggestions"
+msgstr "Návrhy"
+
+msgid "To show"
+msgstr "TV show"
+
+msgid "Automatic"
+msgstr "Automatický"
+
+msgid "Manual"
+msgstr "Manuál"
+
+msgid "In collaboration with a %name% professional"
+msgstr "Ve spolupráci s %name% odborník"
+
+msgid "Partners"
+msgstr "Partneři"
+
+msgid "My search"
+msgstr "Moje vyhledávání"
+
+msgid "Spouse"
+msgstr "Manžel/Manželka"
+
+msgid "Manager"
+msgstr "Manažer"
+
+msgid "Category reference"
+msgstr "Odkaz na kontakt"
+
+msgid "Cadastre reference"
+msgstr "Odkaz na katastr"
+
+msgid "Lot reference"
+msgstr "Odkaz na šarži"
+
+msgid "Block reference"
+msgstr "Odkaz na blok"
+
+msgid "Stairs reference"
+msgstr "Odkaz na schody"
+
+msgid "Mortgage end at"
+msgstr "Hypotéka končí dne"
+
+msgid "Review"
+msgstr "Posouzení"
+
+msgid "Medias"
+msgstr "Média"
+
+msgid "Last access"
+msgstr "Poslední přístup"
+
+msgid "First access"
+msgstr "První přístup"
+
+msgid "Access count"
+msgstr "Počet přístupů"
+
+msgid "Default"
+msgstr "Výchozí"
+
+msgid "Please do not enter any name or contact"
+msgstr "Prosím neuvádějte jméno ani kontakt"
+
+msgid "QR-Code"
+msgstr "QR kód"
+
+msgid "Show price"
+msgstr "Zobrazit cenu"
+
+msgid "Done"
+msgstr "Hotovo"
+
+msgid "Not applicable"
+msgstr "Nehodící se"
+
+msgid "Fill in the table"
+msgstr "Vyplnit tabulku"
+
+msgid "Choice"
+msgstr "Volba"
+
+msgid "copy"
+msgstr "Kopie"
+
+msgid "Automatic matching"
+msgstr "Automatické párování"
+
+msgid "Authorization"
+msgstr "Autorizace"
+
+msgid "Last connection the %s"
+msgstr "Poslední spojení ve %s"
+
+msgid "All"
+msgstr "Vše"
+
+msgid "Wiki"
+msgstr "Wiki"
+
+msgid "Latest"
+msgstr "Nedávný"
+
+msgid "Reset"
+msgstr "Vynulovat"
+
+msgid "Show/hide fields"
+msgstr "Zobrazit / skrýt pole"
+
+msgid "Recent searches"
+msgstr "Poslední vyhledávání"
+
+msgid "Association"
+msgstr "Sdružení"
+
+msgid "Meta crawler"
+msgstr "Meta crawler"
+
+msgid "Alerts"
+msgstr "Upozornění"
+
+msgid "Staff"
+msgstr "Personál"
+
+msgid "Standing"
+msgstr "Stálý"
+
+msgid "Receive a copy"
+msgstr "Přijmout kopii"
+
+msgid "Latest views"
+msgstr "Poslední zobrazení"
+
+msgid "Quality"
+msgstr "Kvalitní"
+
+msgid "Waiting for partner"
+msgstr "Čekání na partnery"
+
+msgid "Viewing agreement"
+msgstr "Formulář o prohlídce"
+
+msgid "Decline"
+msgstr "Pokles"
+
+msgid "Declined"
+msgstr "Odmítnuto"
+
+msgid "Accept"
+msgstr "Přijmout"
+
+msgid "Accepted"
+msgstr "Akceptováno"
+
+msgid "Zones"
+msgstr "Zóny"
+
+msgid "Zone"
+msgstr "Zóna"
+
+msgid "Matrimonial regime"
+msgstr "Režim manželství"
+
+msgid "Marital status"
+msgstr "Rodinný stav"
+
+msgid "Preview"
+msgstr "Náhled"
+
+msgid "Unread"
+msgstr "Nepřečtený"
+
+msgid "Reply"
+msgstr "Odpovědět"
+
+msgid "Pension"
+msgstr "Důchod"
+
+msgid "Beam"
+msgstr "Šířka lodě"
+
+msgid "Draft"
+msgstr "Draft"
+
+msgid "Guests"
+msgstr "Hosté"
+
+msgid "Crew"
+msgstr "Posádka"
+
+msgid "Cruising speed"
+msgstr "Cestovní rychlost"
+
+msgid "Builder"
+msgstr "Stavitel"
+
+msgid "Administration"
+msgstr "Správa"
+
+msgid "Civil law notary"
+msgstr "Notář - občanské právo"
+
+msgid "Max price"
+msgstr "Max. Cena"
+
+msgid "Messages"
+msgstr "Zprávy"
+
+msgid "Reminders"
+msgstr "Upomínky"
+
+msgid "Credit"
+msgstr "Kredit"
+
+msgid "Signatures"
+msgstr "Podpisy"
+
+msgid "Signature"
+msgstr "Podpis"
+
+msgid "Title (politeness)"
+msgstr "Titul"
+
+msgid "Updated at"
+msgstr "Aktualizováno v"
+
+msgid "Created at"
+msgstr "Vytvořeno v"
+
+msgid "First published at"
+msgstr "Poprvé publikováno v"
+
+msgid "Insurance"
+msgstr "Pojištění"
+
+msgid "Entries"
+msgstr "Vstupy"
+
+msgid "Number"
+msgstr "Číslo"
+
+msgid "Deposit account"
+msgstr "Depozitní účet"
+
+msgid "Owner's price"
+msgstr "Cena vlastníka"
+
+msgid "Starting price"
+msgstr "Počáteční cena"
+
+msgid "Mobile"
+msgstr "Mobilní (Číslo)"
+
+msgid "Tel."
+msgstr "Tel."
+
+msgid "Lease"
+msgstr "Pronájem"
+
+msgid "Leases"
+msgstr "Pronájmy"
+
+msgid "Address"
+msgstr "Adresa"
+
+msgid "Searches"
+msgstr "Vyhledávání"
+
+msgid "Tips"
+msgstr "Tipy"
+
+msgid "Delete"
+msgstr "Smazat"
+
+msgid "Maps"
+msgstr "Mapy"
+
+msgid "Days"
+msgstr "Dny"
+
+msgid "Catalog"
+msgstr "Katalog"
+
+msgid "contacts"
+msgstr "kontakty"
+
+msgid "Statistics"
+msgstr "Statistika"
+
+msgid "Built in"
+msgstr "Vestavěný"
+
+msgid "Mark"
+msgstr "Označit"
+
+msgid "Percentage"
+msgstr "Procento"
+
+msgid "Visits"
+msgstr "Návštěvy"
+
+msgid "Visit comment"
+msgstr "Komentář k návštěvě"
+
+msgid "Key number"
+msgstr "Číslo klíče"
+
+msgid "Key's place"
+msgstr "Klíčové místo"
+
+msgid "Displayed city (optional)"
+msgstr "Zobrazované město (volitelné)"
+
+msgid "Displayed district (optional)"
+msgstr "Zobrazená oblast (nepovinné)"
+
+msgid "Clauses"
+msgstr "Ustanovení"
+
+msgid "Postal code"
+msgstr "Poštovní směrovací číslo"
+
+msgid "Bathrooms"
+msgstr "Koupelny"
+
+msgid "Seller"
+msgstr "Prodávající"
+
+msgid "Adjacency"
+msgstr "Přizpůsobivost"
+
+msgid "Step"
+msgstr "Krok"
+
+msgid "Long comment"
+msgstr "Dlouhý komentář"
+
+msgid "Subtitle"
+msgstr "Podtitulek"
+
+msgid "Title"
+msgstr "Titulek"
+
+msgid "Last published at"
+msgstr "Naposledy publikováno v"
+
+msgid "floor"
+msgstr "podlaha"
+
+msgid "Inactive"
+msgstr "Neaktivní"
+
+msgid "Position"
+msgstr "Pozice"
+
+msgid "Please fill in a name and a phone or an e-mail."
+msgstr "Vyplňte prosím jméno a telefon či e-mail."
+
+msgid "Passwords do not match, please retype"
+msgstr "Hesla nesouhlasí, prosím zadejte znovu"
+
+msgid "Please change your password"
+msgstr "Prosím, změňte své heslo."
+
+msgid "New password should not be same as old password"
+msgstr "Nové heslo by nemělo být stejné jako staré heslo"
+
+msgid "year"
+msgstr "rok"
+
+msgid "Subscriptions"
+msgstr "Odběry"
+
+msgid "Tour comment"
+msgstr "Komentář komentáře"
+
+msgid "Action"
+msgstr "Akce"
+
+msgid "Ad"
+msgstr "Inzerát"
+
+msgid "Add opening hours"
+msgstr "Přidat otevírací dobu"
+
+msgid "Ref"
+msgstr "Ref"
+
+msgid "price"
+msgstr "cena"
+
+msgid "Personal"
+msgstr "Osobní"
+
+msgid ""
+"Please note that there are dependencies, please select a contact for "
+"completing the data transfer."
+msgstr ""
+"Všimněte si, že existují závislosti, děkujeme, že jste vybrali kontakt pro "
+"dokončení přenosu dat"
+
+msgid "The installation can take several minutes, please come back later."
+msgstr "Instalace může trvat několik minut, vraťte se prosím později."
+
+msgid "Your contact speaks %s, would you like to change the language?"
+msgstr "Váš kontakt mluví %s, chcete změnit jazyk?"
+
+msgid "Would you like to publish on the homepage?"
+msgstr "Chcete publikovat na domovské stránce?"
+
+msgid "plus VAT"
+msgstr "plus DPH"
+
+msgid "<b>Warning :</b> there is an error, please check each fields."
+msgstr "<b> Upozornění: </b> došlo k chybě, zkontrolujte prosím všechna pole."
+
+msgid "Price/sq m"
+msgstr "Cena / m2"
+
+msgid "today"
+msgstr "dnes"
+
+msgid "week"
+msgstr "týden"
+
+msgid "day"
+msgstr "den"
+
+msgid "from %from_value% to %to_value%"
+msgstr "od %from_value% do %to_value%"
+
+msgid "message"
+msgstr "zpráva"
+
+msgid "Page"
+msgstr "Stránka"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Agencies"
+msgstr "Kanceláře"
+
+msgid "agencies"
+msgstr "kanceláře"
+
+msgid "Context"
+msgstr "Kontext"
+
+msgid "More criteria"
+msgstr "Více kritérií"
+
+msgid "Criteria"
+msgstr "Kritéria"
+
+msgid "Classification"
+msgstr "Klasifikace"
+
+msgid "metres"
+msgstr "metry"
+
+msgid "Window"
+msgstr "Okno"
+
+msgid "Stock area"
+msgstr "Oblast skladů"
+
+msgid "Sales area"
+msgstr "Oblast prodeje"
+
+msgid "Price of purchase"
+msgstr "Prodejní cena"
+
+msgid "Broadcast to"
+msgstr "Vysílat do"
+
+msgid "The property will not be published because it is in step « %s »"
+msgstr "Nemovtiost nebude zveřejněna, protože je ve fázi « %s »"
+
+msgid "Last agencies"
+msgstr "Poslední kancelář"
+
+msgid "I confirm my subscription to %s and I accept the general conditions"
+msgstr "Potvrzuji své předplatné %s a přijímám všeobecné podmínky"
+
+msgid "from %from_date% to %to_date%"
+msgstr "od %from_date% do %to_date%"
+
+msgid "sq m"
+msgstr "m2"
+
+msgid "days"
+msgstr "dny"
+
+msgid "bedroom"
+msgstr "ložnice"
+
+msgid "rooms"
+msgstr "pokoje"
+
+msgid "room"
+msgstr "pokoj, místnost"
+
+msgid "Comments"
+msgstr "Komentáře"
+
+msgid "comment"
+msgstr "komentář"
+
+msgid "comments"
+msgstr "komentáře"
+
+msgid "Private comment"
+msgstr "Soukromý komentář"
+
+msgid "Private"
+msgstr "Soukromé"
+
+msgid "Levels"
+msgstr "Úrovně"
+
+msgid "Level"
+msgstr "Úroveň"
+
+msgid "Exchanges"
+msgstr "Výměny"
+
+msgid "Exchange"
+msgstr "Výměna"
+
+msgid "by"
+msgstr "podle"
+
+msgid "n.a"
+msgstr "n.a"
+
+msgid "Elevator"
+msgstr "Výtah"
+
+msgid "no"
+msgstr "Ne"
+
+msgid "yes"
+msgstr "Ano"
+
+msgid "Printed with care"
+msgstr "Vytištěno s péčí"
+
+msgid "Please do not litter on public way"
+msgstr "Prosím, nevrhejte na veřejnou cestu"
+
+msgid "Non-contractual information"
+msgstr "Není smluvená informace"
+
+msgid "Agency fees included"
+msgstr "Včetně provize realitní kanceláře"
+
+msgid "Agency fees not included"
+msgstr "Nezahrnuje provizi realitní kanceláře"
+
+msgid "Personal property tax"
+msgstr "Daň z nemovitosti (osobní)"
+
+msgid "Property tax"
+msgstr "Daň z nemovitosti"
+
+msgid "Style"
+msgstr "Styl"
+
+msgid "Pictures"
+msgstr "Obrázky"
+
+msgid "Window card"
+msgstr "Karta do okna"
+
+msgid "Private sheet"
+msgstr "Soukromý list"
+
+msgid "Public sheet"
+msgstr "Veřejný list"
+
+msgid "Service"
+msgstr "Služba"
+
+msgid "Language"
+msgstr "Jazyk"
+
+msgid "Cart"
+msgstr "Vozík"
+
+msgid "Land type"
+msgstr "Typ půdy"
+
+msgid "Property agent"
+msgstr "Makléř zastupující nemovitost"
+
+msgid "Account"
+msgstr "Účet"
+
+msgid "End at"
+msgstr "Konec v"
+
+msgid "Close at"
+msgstr "Zavřít na"
+
+msgid "Start at"
+msgstr "Začátek v"
+
+msgid "Guarantees"
+msgstr "Garance"
+
+msgid "Type"
+msgstr "Typ"
+
+msgid "Inter-agencies"
+msgstr "Meziresortní agentury"
+
+msgid "Number of floors"
+msgstr "Počet podlaží"
+
+msgid "Evaluated price"
+msgstr "Vyhodnocená cena"
+
+msgid "Seller's commission"
+msgstr "Provize makléře, který zastupuje prodávajícího"
+
+msgid "Buyer's commission"
+msgstr "Provize makléře, který zastupuje kupujícího"
+
+msgid "Commission"
+msgstr "Komise"
+
+msgid "Origin"
+msgstr "Původ"
+
+msgid "Specific origin"
+msgstr "Specifický zdroj"
+
+msgid "Rank"
+msgstr "Hodnocení"
+
+msgid "Calls"
+msgstr "Hovory"
+
+msgid "Phone call"
+msgstr "Volání"
+
+msgid "Publications"
+msgstr "Publikace"
+
+msgid "Send to contact"
+msgstr "Odeslat kontaktu"
+
+msgid "No results found"
+msgstr "Nebyly nalezeny žádné výsledky"
+
+msgid "Results"
+msgstr "Výsledky"
+
+msgid "Result"
+msgstr "Výsledek"
+
+msgid "results"
+msgstr "výsledky"
+
+msgid "result"
+msgstr "výsledek"
+
+msgid "Advertiser"
+msgstr "Inzerent"
+
+msgid "Active"
+msgstr "Aktivní"
+
+msgid "Confidential"
+msgstr "Důvěrné"
+
+msgid "Activity"
+msgstr "Aktivita"
+
+msgid "Companies"
+msgstr "Společnosti"
+
+msgid "Edit"
+msgstr "Upravit"
+
+msgid "Save"
+msgstr "Uložit"
+
+msgid "Succession"
+msgstr "Posloupnost"
+
+msgid "Please fill in a city."
+msgstr "Prosím vyplňte město."
+
+msgid "Guarantee"
+msgstr "Záruka"
+
+msgid "Please fill"
+msgstr "Prosím vyplňte"
+
+msgid "The email address is invalid."
+msgstr "E-mailová adresa je neplatná."
+
+msgid "Rights"
+msgstr "Práva"
+
+msgid "Display"
+msgstr "Zobrazit"
+
+msgid "Since"
+msgstr "Od té doby"
+
+msgid "Filter"
+msgstr "Filtr"
+
+msgid "Min"
+msgstr "Min"
+
+msgid "Max"
+msgstr "Max"
+
+msgid "Lessor"
+msgstr "Pronajímatel"
+
+msgid "Lessee"
+msgstr "Nájemce"
+
+msgid "Bed"
+msgstr "Lůžka"
+
+msgid "Cleaning price"
+msgstr "Cena za úklid"
+
+msgid "Sent"
+msgstr "Odeslané"
+
+msgid "Year"
+msgstr "Rok"
+
+msgid "month"
+msgstr "Měsíc"
+
+msgid "years"
+msgstr "let"
+
+msgid "months"
+msgstr "měsíce"
+
+msgid "Seasons"
+msgstr "Období"
+
+msgid "Season"
+msgstr "Sezóna"
+
+msgid "Rates"
+msgstr "Sazby"
+
+msgid "Todo"
+msgstr "Udělat"
+
+msgid "Brands"
+msgstr "Značky"
+
+msgid "Brand"
+msgstr "Značka"
+
+msgid "Publicated at"
+msgstr "Publikováno na"
+
+msgid "Bank"
+msgstr "Banka"
+
+msgid "Brief comment"
+msgstr "Stručný komentář"
+
+msgid "Delivery at"
+msgstr "Doručeno dne"
+
+msgid "Reason"
+msgstr "Důvod"
+
+msgid "What's new"
+msgstr "Co je nového"
+
+msgid "Requests"
+msgstr "Žádosti"
+
+msgid "Request"
+msgstr "Žádost"
+
+msgid "requests"
+msgstr "žádosti"
+
+msgid "request"
+msgstr "žádost"
+
+msgid "Current rent"
+msgstr "Aktuálně pronajmuto"
+
+msgid "Properties"
+msgstr "Nemovitosti"
+
+msgid "properties"
+msgstr "nemovitosti"
+
+msgid "property"
+msgstr "nemovitost"
+
+msgid "Bill"
+msgstr "Účet/faktura"
+
+msgid "Calculator"
+msgstr "Kalkulačka"
+
+msgid "Birthplace"
+msgstr "Místo narození"
+
+msgid "Income"
+msgstr "Příjem"
+
+msgid "Costs"
+msgstr "Náklady"
+
+msgid "Margin"
+msgstr "Zisk"
+
+msgid "Required."
+msgstr "Povinný."
+
+msgid "Seasonal"
+msgstr "Sezónní"
+
+msgid "Spoken languages"
+msgstr "Jazyky"
+
+msgid "Number of children"
+msgstr "Počet dětí"
+
+msgid "Hotline"
+msgstr "Horká linka"
+
+msgid "Re-type password"
+msgstr "Zadejte heslo znovu"
+
+msgid "Public longitude"
+msgstr "Veřejná délka"
+
+msgid "Public latitude"
+msgstr "Veřejná šířka"
+
+msgid "Access denied"
+msgstr "Přístup odepřen"
+
+msgid "Access"
+msgstr "Přístup"
+
+msgid "Launch"
+msgstr "Zahájení"
+
+msgid "Shortcuts"
+msgstr "Zkratky"
+
+msgid "Subscription"
+msgstr "Předplatné"
+
+msgid "SEO"
+msgstr "SEO"
+
+msgid "Life annuity length"
+msgstr "Délka doživotní renty"
+
+msgid "Market value"
+msgstr "Tržní hodnota"
+
+msgid "Price contribution"
+msgstr "Cena příspěvku"
+
+msgid "Sharing"
+msgstr "Sdílení"
+
+msgid "Show more results"
+msgstr "Zobrazit více výsledků"
+
+msgid "Close"
+msgstr "Zavřít"
+
+msgid "Hide"
+msgstr "Skrýt"
+
+msgid "Keywords"
+msgstr "Klíčová slova"
+
+msgid "Corporate register"
+msgstr "Firemní registr"
+
+msgid "Expired soon"
+msgstr "Brzy bude expirovat"
+
+msgid "Expired"
+msgstr "Expirovala"
+
+msgid "Agreement number"
+msgstr "Číslo dohody"
+
+msgid "VAT identification number"
+msgstr "DIČ"
+
+msgid "What's on your mind?"
+msgstr "Na co myslíš?"
+
+msgid "Buyer"
+msgstr "Kupující"
+
+msgid "Prescriber"
+msgstr "Prescriber"
+
+msgid "Message sent"
+msgstr "Zpráva odeslána"
+
+msgid "Limit"
+msgstr "Omezení"
+
+msgid "Publish"
+msgstr "Publikovat"
+
+msgid "Do not publish"
+msgstr "Nezveřejňovat"
+
+msgid "Cancel"
+msgstr "Zrušit"
+
+msgid "Already suggested"
+msgstr "Proběhl návrh"
+
+msgid "Suggest"
+msgstr "Navrhnout"
+
+msgid "Diagnostics"
+msgstr "Diagnostika"
+
+msgid "Footer"
+msgstr "Zápatí"
+
+msgid "Header"
+msgstr "Záhlaví"
+
+msgid "Serviced plot"
+msgstr "Servisní plot"
+
+msgid "Net floor area"
+msgstr "Čistá podlahová plocha"
+
+msgid "Sold price"
+msgstr "Prodaná cena"
+
+msgid "Sold at"
+msgstr "Prodáno za"
+
+msgid "Payments"
+msgstr "Platba"
+
+msgid "Reopen"
+msgstr "Znovu otevřít"
+
+msgid "Completed"
+msgstr "Dokončeno"
+
+msgid "Complete"
+msgstr "Kompletní"
+
+msgid "Callbacks"
+msgstr "Znovu zavolat"
+
+msgid "Total"
+msgstr "Celkový"
+
+msgid "Coagent"
+msgstr "Spolupracující agent"
+
+msgid "%s properties"
+msgstr "%s nemovitosti"
+
+msgid "%s property"
+msgstr "%s nemovitost"
+
+msgid "%s request"
+msgstr "%s žádost"
+
+msgid "%s requests"
+msgstr "%s žádostí"
+
+msgid "Characteristics"
+msgstr "Charakteristiky"
+
+msgid "Activities"
+msgstr "Aktivity"
+
+msgid "Sorry, this property is no longer available."
+msgstr "Je nám líto, ale tato nemovitost již není k dispozici"
+
+msgid "Processed"
+msgstr "Zpracováno"
+
+msgid "remaining tickets"
+msgstr "zbývající vstupenky"
+
+msgid "Congratulations ! No more support tickets."
+msgstr "Gratulujeme! Žádné další lístky na podporu."
+
+msgid "unassigned tickets"
+msgstr "nepřiřazené vstupenky"
+
+msgid "All tickets are assigned."
+msgstr "Všechny vstupenky jsou přiřazeny."
+
+msgid "task in progress"
+msgstr "probíhající úkol"
+
+msgid "Database"
+msgstr "Databáze"
+
+msgid "Used"
+msgstr "Použitý"
+
+msgid "%s results"
+msgstr "%s výsledků"
+
+msgid "Redirects"
+msgstr "Přeposlat"
+
+msgid "Subscribe to the newsletter"
+msgstr "Přihlásit se k odběru newsletteru"
+
+msgid "Purge"
+msgstr "Očistit"
+
+msgid "Valuation methods"
+msgstr "Metody oceňování"
+
+msgid "Rebuild cost"
+msgstr "Znovu vytvořit cenu"
+
+msgid "Capitalization"
+msgstr "Financování"
+
+msgid "Comparative market analysis"
+msgstr "Srovnávací analýza trhu"
+
+msgid "An average of"
+msgstr "Průměr z"
+
+msgid "Your own valuation"
+msgstr "Vaše vlastní ocenění"
+
+msgid "Desired profitability"
+msgstr "Požadovaný výnos"
+
+msgid "Taxes and/or fees"
+msgstr "Daně/poplatky"
+
+msgid "Year of purchase"
+msgstr "Rok zakoupení"
+
+msgid "Rental income"
+msgstr "Příjmy z pronájmu"
+
+msgid "Land price"
+msgstr "Cena pozemku"
+
+msgid "Cost of construction"
+msgstr "Náklady na výstavbu"
+
+msgid "Interior fittings"
+msgstr "Vnitřní vybavení"
+
+msgid "Landscaping"
+msgstr "Terénní úpravy"
+
+msgid "Decrepitude"
+msgstr "Decrepitude"
+
+msgid "Capital losses"
+msgstr "Kapitálové ztráty"
+
+msgid "Capital gains"
+msgstr "Kapitálové zisky"
+
+msgid "Your mailbox has exceeded the storage limit (%s)"
+msgstr "Poštovní schránka překročila limit úložiště (%s)"
+
+msgid "Your mailbox will reach the storage limit"
+msgstr "Vaše poštovní schránka dosáhne limitu úložiště"
+
+msgid "Sort by"
+msgstr "Seřazeno podle"
+
+msgid "Condominium in difficulty"
+msgstr "Kondominium v ​​obtížích"
+
+msgid "Back to the list"
+msgstr "Zpět na seznam"
+
+msgid "Previous listing"
+msgstr "Předchozí listing"
+
+msgid "Next listing"
+msgstr "Další listing"
+
+msgid "empty"
+msgstr "prázdný"
+
+msgid "Filename"
+msgstr "Název souboru"
+
+msgid "Keyword"
+msgstr "Klíčové slovo"
+
+msgid "Values"
+msgstr "Hodnoty"
+
+msgid "New feed"
+msgstr "Nový příspěvek"
+
+msgid "Errors"
+msgstr "Chyby"
+
+msgid "Error"
+msgstr "Chyba"
+
+msgid "Erase"
+msgstr "Vymazat"
+
+msgid "Erase all"
+msgstr "Smazat vše"
+
+msgid "Try"
+msgstr "Zkusit"
+
+msgid "Query"
+msgstr "Dotaz"
+
+msgid "Agency fees payable by vendor"
+msgstr "Provize prodávajícího"
+
+msgid "Agency fees payable by buyer"
+msgstr "Provize kupujícího"
+
+msgid "Condominium fees"
+msgstr "Poplatky za kondominium"
+
+msgid "An error occurred"
+msgstr "Vyskytla se chyba"
+
+msgid "Successful subscription"
+msgstr "Úspěšné přihlášení"
+
+msgid "Created date"
+msgstr "Datum vytvoření"
+
+msgid "Updated date"
+msgstr "Datum aktualizace"
+
+msgid "Back to homepage"
+msgstr "Zpět na domovskou stránku"
+
+msgid "Price min"
+msgstr "Min cena"
+
+msgid "Price max"
+msgstr "Max Cena"
+
+msgid "Bedroom min"
+msgstr "Min počet ložnic"
+
+msgid "Bedroom max"
+msgstr "Max počet ložnic"
+
+msgid "Room min"
+msgstr "Min počet pokojů"
+
+msgid "Room max"
+msgstr "Max počet pokojů"
+
+msgid "Project at"
+msgstr "Projekt na"
+
+msgid "Agency rate"
+msgstr "Agenturní sazba"
+
+msgid "Tenant's commission"
+msgstr "Poplatek nájemce poplatků"
+
+msgid "Inventory tenant charge"
+msgstr "Poplatek nájemce inventáře"
+
+msgid "Fees included"
+msgstr "Poplatky v ceně"
+
+msgid "Provision on recoverable fees"
+msgstr "Rezerva na vratné poplatky"
+
+msgid "Never"
+msgstr "Nikdy"
+
+msgid "Remaining credits"
+msgstr "Zbývající kredity"
+
+msgid "Buy credits"
+msgstr "Koupit kredity"
+
+msgid "%s credits"
+msgstr "%s kreditů"
+
+msgid "Transaction fees"
+msgstr "Transakční poplatky"
+
+msgid "View property"
+msgstr "Zobrazit nemovitost"
+
+msgid "lot available"
+msgstr "jednotka k dispozici"
+
+msgid "lots available"
+msgstr "jednotky k dispozici"
+
+msgid "Area min"
+msgstr "Plocha min"
+
+msgid "Search a property"
+msgstr "Hledat vlastnost"
+
+msgid "International"
+msgstr "Mezinárodní"
+
+msgid "Unsubscribe"
+msgstr "Odhlásit odběr"
+
+msgid "No action after"
+msgstr "Žádná akce po"
+
+msgid "%s pending delete"
+msgstr "%s čeká na výmaz"
+
+msgid "Pending delete"
+msgstr "Čeká se na smazání"
+
+msgid "%s to delete"
+msgstr "%s vymazat"
+
+msgid "Unsubscribed"
+msgstr "Neodebíraný"
+
+msgid "Edit my search"
+msgstr "Upravit mé vyhledávání"
+
+msgid "Activate my search"
+msgstr "Aktivuj své vyhledávání"
+
+msgid "Cancel my search"
+msgstr "Zrušit vyhledávání"
+
+msgid "Only authorized properties"
+msgstr "Pouze povolené vlastnosti"
+
+msgid "Another currency"
+msgstr "Další měna"
+
+msgid "Enter the first 6 digits"
+msgstr "Zadejte prvních 6 číslic"
+
+msgid ""
+"Without action on your part, your contact will be deleted before the %s."
+msgstr "Bez zásahu z vaší strany bude váš kontakt smazán před %s"
+
+msgid "No procedure in progress"
+msgstr "Neprobíhá žádny proces"
+
+msgid "Procedure in progress"
+msgstr "V procesu"
+
+msgid "Number of lots in the condominium"
+msgstr "Počet jednotek v kondominiu"
+
+msgid "Network authorized"
+msgstr "Síť je autorizována"
+
+msgid "Renew the lease"
+msgstr "Obnovte pronájem"
+
+msgid "Remove at"
+msgstr "Odstranit z"
+
+msgid "External action"
+msgstr "Externí akce"
+
+msgid ""
+"The migration of your prospect into a request will allow you to make "
+"matching and proposals with a better tracking."
+msgstr ""
+"Přenesení vaší vyhlídky do požadavku vám umožní provést párování a návrhy s "
+"lepším sledováním."
+
+msgid "floors"
+msgstr "patra"
+
+msgid "Job"
+msgstr "Práce"
+
+msgid "Unsuscribe from this list"
+msgstr "Odhlásit z tohoto seznamu"
+
+msgid "Entry"
+msgstr "Vstup"
+
+msgid "Exit"
+msgstr "Východ"
+
+msgid "Networks"
+msgstr "Sítě"
+
+msgid "Secured"
+msgstr "Zabezpečené"
+
+msgid "Opacity"
+msgstr "Neprůhlednost"
+
+msgid "Left"
+msgstr "Vlevo"
+
+msgid "Top"
+msgstr "Horní"
+
+msgid "Relative to the last element"
+msgstr "Relativní k poslednímu prvku"
+
+msgid "Alignment"
+msgstr "Zarovnání"
+
+msgid "Border size"
+msgstr "Velikost okraje"
+
+msgid "Border color"
+msgstr "Barva ohraničení"
+
+msgid "Size of the internal margin"
+msgstr "Velikost vnitřního okraje"
+
+msgid "Font color"
+msgstr "Barva fontu"
+
+msgid "Font size"
+msgstr "Velikost písma"
+
+msgid "Background color"
+msgstr "Barva pozadí"
+
+msgid "Custom image"
+msgstr "Vlastní obrázek"
+
+msgid "custom"
+msgstr "Zvyk"
+
+msgid "Right"
+msgstr "Vpravo"
+
+msgid "Center"
+msgstr "Centrum"
+
+msgid "Justified"
+msgstr "Zarovnáno"
+
+msgid "Transparency"
+msgstr "Transparentní"
+
+msgid "Line height"
+msgstr "Výška řádku"
+
+msgid "Uppercase"
+msgstr "Velká písmena"
+
+msgid "Price proposal"
+msgstr "Cenový návrh"
+
+msgid "Template"
+msgstr "Šablona"
+
+msgid "Publication date"
+msgstr "Datum publikace"
+
+msgid "Recovered at"
+msgstr "Obnoveno na"
+
+msgid "Available on"
+msgstr "K dispozici od"
+
+msgid "Allow all"
+msgstr "Povolit vše"
+
+msgid "Private position is not set, click here to update."
+msgstr "Soukromé zařazení není nastaveno, klikněte zde pro aktualizaci."
+
+msgid "Public position is not set, click here to update."
+msgstr "Veřejné zařazení není nastaveno, klikněte zde pro aktualizaci."
+
+msgid ""
+"Please use this link to subscribe to your calendar from a software or a "
+"device:"
+msgstr ""
+"Použijte prosím tento odkaz k odběru kalendáře ze softwaru nebo zařízení:"
+
+msgid "Activate"
+msgstr "Aktivovat"
+
+msgid "Disable"
+msgstr "Zakázat"
+
+msgid "Block"
+msgstr "Blok"
+
+msgid "Unblock"
+msgstr "Odblokovat"
+
+msgid "Area max"
+msgstr "Max. Oblast"
+
+msgid "Plot of land area min"
+msgstr "Pozemek o rozloze min"
+
+msgid "Plot of land area max"
+msgstr "Pozemek o max. výměře"
+
+msgid "Date descending"
+msgstr "Datum seřadit sestupně"
+
+msgid "Date ascending"
+msgstr "Datum seřadit vzestupně"
+
+msgid "Price descending"
+msgstr "Cenu seřadit sestupně"
+
+msgid "Price ascending"
+msgstr "Cena sařadit vzestupně"
+
+msgid "Balance"
+msgstr "Zůstatek"
+
+msgid "Construction method"
+msgstr "Konstrukční metoda"
+
+msgid "Tax code"
+msgstr "Daňový kód"
+
+msgid "Downsides"
+msgstr "Nevýhoda"
+
+msgid "Assets"
+msgstr "Výhoda"
+
+msgid "Please select a district from the list:"
+msgstr "Vyberte okres ze seznamu:"
+
+msgid "Non-flood zone"
+msgstr "Nezaplavená oblast"
+
+msgid "Potential flood zone"
+msgstr "Potenciální záplavová zóna"
+
+msgid "Recognized flood zone"
+msgstr "Uznaná povodňová oblast"
+
+msgid "Delimited flood zone"
+msgstr "Vymezená záplavová zóna"
+
+msgid "Cadastre"
+msgstr "Katastr"
+
+msgid "Delimited waterside zone"
+msgstr "Vymezené pásmo u vody"
+
+msgid "Potential flood zone in a delimited waterside zone"
+msgstr "Potenciální povodňová zóna v ohraničené vodní oblasti"
+
+msgid "Potential flood zone in a delimited flood zone"
+msgstr "Potenciální povodňová zóna ve vymezené záplavové oblasti"
+
+msgid "Recognized flood zone in a delimited waterside zone"
+msgstr "Uznávaná povodňová zóna v ohraničené vodní oblasti"
+
+msgid "Recognized flood zone in a delimited flood zone"
+msgstr "Uznané povodňové pásmo v ohraničené záplavové oblasti"
+
+msgid "Profile"
+msgstr "Profil"
+
+msgid "%s unit"
+msgstr "%s jednotky"
+
+msgid "Not suggested"
+msgstr "Bez návrhu"
+
+msgid "%s guest"
+msgstr "%s hosté"
+
+msgid "%s bed"
+msgstr "%s lůžka"
+
+msgid "Documentation"
+msgstr "Dokumentace"
+
+msgid "%s bathroom"
+msgstr "%s boupelna"
+
+msgid "%s bathrooms"
+msgstr "%s koupelny"
+
+msgid "Floors"
+msgstr "Patra"
+
+msgid "Professionals"
+msgstr "Kvalifikovaný"
+
+msgid "Toilet"
+msgstr "Toaleta"
+
+msgid "Help"
+msgstr "Pomoc"
+
+msgid "Show pagination"
+msgstr "Zobrazit stránkování"
+
+msgid "Mandatory fields"
+msgstr "Povinná pole"
+
+msgid "Available soon"
+msgstr "Brzy k dispozici"
+
+msgid "HD Photo"
+msgstr "HD Photo"
+
+#, fuzzy
+msgid "Contract end at"
+msgstr ""
+"#-#-#-#-#  apimo-cs_CZ.po  #-#-#-#-#\n"
+"Smlouva ukončena dne\n"
+"#-#-#-#-#  apimo-cs_CZ.po  #-#-#-#-#\n"
+"Konec smlouvy v"
+
+msgid "Incomplete"
+msgstr "Neúplný"
+
+msgid "Location Map"
+msgstr "Mapa umístění"
+
+msgid "User Detail"
+msgstr "Detail uživatele"
+
+msgid "File size"
+msgstr "Velikost souboru"
+
+msgid "File title"
+msgstr "Název souboru"
+
+msgid "Region"
+msgstr "Region"
+
+msgid "Bath"
+msgstr "Koupelna"
+
+msgid "Private Negotiation"
+msgstr "Soukromé jednání"
+
+msgid "Property specifications"
+msgstr "Specifikace nemovitosti"
+
+msgid "Energy performance"
+msgstr "Energetický výkon"
+
+msgid "Media Details"
+msgstr "Detaily médií"
+
+msgid "View Video"
+msgstr "Zobrazit video"
+
+msgid "Start Date"
+msgstr "Datum zahájení"
+
+msgid "End Date"
+msgstr "Datum ukončení"
+
+msgid "Welcome"
+msgstr "Vítejte"
+
+msgid "See What’s happening with Apimo Plugin."
+msgstr "Podívejte se, co se děje s pluginem Apimo."
+
+msgid "PROVIDERS"
+msgstr "POSKYTOVATELÉ"
+
+msgid "AGENCIES"
+msgstr "AGENTURY"
+
+msgid "PROPERTIES"
+msgstr "NEMOVITOSTI"
+
+msgid "BOOKMARK"
+msgstr "ZÁLOŽKA"
+
+msgid "Remove all"
+msgstr "Odstranit vše"
+
+msgid "Apply filter"
+msgstr "Použít filtr"
+
+msgid "Select Subtype"
+msgstr "Vyberte podtyp"
+
+msgid "Enchère"
+msgstr "Dražba"
+
+msgid "Location"
+msgstr "Pronájem"
+
+msgid "Location saisonnière"
+msgstr "Sezónní pronájem"
+
+msgid "From"
+msgstr "Od"
+
+msgid "To"
+msgstr "Do"
+
+msgid "Dates"
+msgstr "Datumy"
+
+msgid "Select country"
+msgstr "Vyberte zemi"
+
+msgid "Select region"
+msgstr "Vyberte region"
+
+msgid "Select district"
+msgstr "Vyberte okres"
+
+msgid "Select city"
+msgstr "Vyberte město"
+
+msgid "Good"
+msgstr "Dobrý"
+
+msgid "Bad"
+msgstr "Špatný"
+
+msgid "hello"
+msgstr "Ahoj"
+
+msgid "Available Integrations"
+msgstr "Dostupné integrace"
+
+msgid "reCAPTCHA Detected"
+msgstr "Znovu zjišťovala"
+
+msgid "reCAPTCHA Not Detected"
+msgstr "Recaptcha není detekována"
+
+msgid "Google reCAPTCHA Integration"
+msgstr "Integrace Google Recoptcha"
+
+msgid ""
+"Protect your forms from spam and abuse with Google reCAPTCHA integration."
+msgstr ""
+"Chraňte své formuláře před spamem a zneužíváním pomocí integrace Google "
+"Recaptcha."
+
+msgid "Activate Integration"
+msgstr "Aktivovat integraci"
+
+msgid "Deactivate Integration"
+msgstr "Deaktivace integrace"
+
+msgid "reCAPTCHA Configuration"
+msgstr "Konfigurace recaptcha"
+
+msgid "Please configure your reCAPTCHA keys below to complete the setup."
+msgstr "Nakonfigurujte své klávesy Recaptcha níže a dokončete nastavení."
+
+msgid "To complete the reCAPTCHA setup:"
+msgstr "Chcete -li dokončit nastavení RecaPtcha:"
+
+msgid "Go to the"
+msgstr "Jít na"
+
+msgid "Google reCAPTCHA Admin Console"
+msgstr "Konzola administrátora Google Recaptcha"
+
+msgid "Register your site and get your Site Key and Secret Key"
+msgstr "Zaregistrujte svůj web a získejte klíč a tajný klíč"
+
+msgid "Enter the keys below to activate reCAPTCHA"
+msgstr "Zadejte níže uvedené klávesy a aktivujte RecAptcha"
+
+msgid "reCAPTCHA is configured properly."
+msgstr "Recaptcha je správně nakonfigurována."
+
+msgid "Site Key"
+msgstr "Klíč webu"
+
+msgid "Secret Key"
+msgstr "Tajný klíč"
+
+msgid "Save Configuration"
+msgstr "Uložit konfiguraci"
+
+msgid "Contact Form"
+msgstr "Kontaktní formulář"
+
+msgid "Invalid format"
+msgstr "Neplatný formát"
+
+msgid "This field is required"
+msgstr "Toto pole je nutné"
+
+msgid "Invalid email format"
+msgstr "Neplatný formát e -mailu"
+
+msgid "Please use reCAPTCHA version 3"
+msgstr "Použijte prosím recaptcha verzi 3"

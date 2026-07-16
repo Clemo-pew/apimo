@@ -1,0 +1,3253 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.1\n"
+
+msgid "Regulations"
+msgstr "规"
+
+msgid "AML/KYC Vendor"
+msgstr "AML/KYC Vendor"
+
+msgid "AML/KYC Buyer"
+msgstr "AML/KYC Buyer"
+
+msgid "Valuation"
+msgstr "??"
+
+msgid "Newsletter"
+msgstr "时事通讯"
+
+msgid "Self-employed"
+msgstr "自由职业"
+
+msgid "Bakery"
+msgstr "面包店"
+
+msgid "Restaurant"
+msgstr "饭店"
+
+msgid "Press"
+msgstr "报刊杂志"
+
+msgid "Bar"
+msgstr "饮料零售店"
+
+msgid "Florist"
+msgstr "花店"
+
+msgid "Tobacconist"
+msgstr "烟店"
+
+msgid "Clothes"
+msgstr "成衣时装店"
+
+msgid "Chemist"
+msgstr "药店"
+
+msgid "Shopping centre"
+msgstr "商业中心"
+
+msgid "Travel agency"
+msgstr "旅行社"
+
+msgid "Real estate agent"
+msgstr "房屋中介"
+
+msgid "Gallery"
+msgstr "画廊"
+
+#, fuzzy
+msgid "Garage"
+msgstr ""
+"#-#-#-#-#  apimo-zh_CN.po  #-#-#-#-#\n"
+"汽车修理店\n"
+"#-#-#-#-#  apimo-zh_CN.po  #-#-#-#-#\n"
+"车库"
+
+msgid "Insurer"
+msgstr "保险公司"
+
+msgid "Optician"
+msgstr "眼镜店"
+
+msgid "Perfumery"
+msgstr "香水店"
+
+msgid "Hotel"
+msgstr "旅馆"
+
+msgid "Antique dealer"
+msgstr "古物店"
+
+msgid "Laundry"
+msgstr "洗衣店"
+
+msgid "Pressing"
+msgstr "熨衣店"
+
+msgid "Jeweller"
+msgstr "首饰店"
+
+msgid "Grocer"
+msgstr "食品店"
+
+msgid "Butcher"
+msgstr "肉店"
+
+msgid "Caterer"
+msgstr "熟食店"
+
+msgid "Brewery"
+msgstr "啤酒厂"
+
+msgid "Snack"
+msgstr "快餐馆"
+
+msgid "Confectioner"
+msgstr "蛋糕店"
+
+msgid "Pork butcher"
+msgstr "猪肉食品店"
+
+msgid "Grocery"
+msgstr "调料店"
+
+msgid "Cheesemonger"
+msgstr "奶酪店"
+
+msgid "Fruit and vegetables"
+msgstr "新鲜水果蔬菜店"
+
+msgid "Sex shop"
+msgstr "性用品店"
+
+msgid "Video game"
+msgstr "电子游戏"
+
+msgid "Computer"
+msgstr "电子用品店"
+
+msgid "Hairdresser"
+msgstr "美发店"
+
+msgid "Cosmetician"
+msgstr "美容店"
+
+msgid "Household electrical"
+msgstr "家用电器店"
+
+msgid "Shoes"
+msgstr "鞋店"
+
+msgid "Haberdasher"
+msgstr "缝纫用品店"
+
+msgid "Groomer"
+msgstr "家养动物梳理店"
+
+msgid "Tea room"
+msgstr "茶馆"
+
+#, fuzzy
+msgid "Beach"
+msgstr ""
+"#-#-#-#-#  apimo-zh_CN.po  #-#-#-#-#\n"
+"海滩\n"
+"#-#-#-#-#  apimo-zh_CN.po  #-#-#-#-#\n"
+"沙滩"
+
+msgid "Bookshop"
+msgstr "书店"
+
+msgid "Gas station"
+msgstr "加油站"
+
+msgid "Camping"
+msgstr "露营"
+
+msgid "Nightclub"
+msgstr "夜總會"
+
+msgid "Pet store"
+msgstr "寵物店"
+
+msgid "Agriculture"
+msgstr "农业"
+
+msgid "Health club"
+msgstr "肌力與體能訓練"
+
+#, fuzzy
+msgid "Taxi"
+msgstr ""
+"#-#-#-#-#  apimo-zh_CN.po  #-#-#-#-#\n"
+"出租車\n"
+"#-#-#-#-#  apimo-zh_CN.po  #-#-#-#-#\n"
+"出租车"
+
+#, fuzzy
+msgid "Cinema"
+msgstr ""
+"#-#-#-#-#  apimo-zh_CN.po  #-#-#-#-#\n"
+"電影院\n"
+"#-#-#-#-#  apimo-zh_CN.po  #-#-#-#-#\n"
+"电影院"
+
+msgid "Sport supplies"
+msgstr "Sport supplies"
+
+msgid "Bedroom"
+msgstr "房间"
+
+msgid "Living-room"
+msgstr "客厅"
+
+msgid "Kitchen"
+msgstr "厨房"
+
+msgid "Parking"
+msgstr "停车场"
+
+msgid "Basement"
+msgstr "地下室"
+
+msgid "Garden shelter"
+msgstr "院子里的小房子"
+
+msgid "Bathroom"
+msgstr "浴室"
+
+msgid "Laundry room"
+msgstr "洗衣间"
+
+msgid "Study"
+msgstr "办公室"
+
+msgid "Hallway"
+msgstr "走廊"
+
+msgid "Corridor"
+msgstr "过道"
+
+msgid "Shower room"
+msgstr "冲澡间"
+
+msgid "Walk-in wardrobe"
+msgstr "更衣室"
+
+msgid "Entrance"
+msgstr "入口"
+
+msgid "Lavatory"
+msgstr "厕所"
+
+msgid "Veranda"
+msgstr "阳台"
+
+#, fuzzy
+msgid "Terrace"
+msgstr ""
+"#-#-#-#-#  apimo-zh_CN.po  #-#-#-#-#\n"
+"平台\n"
+"#-#-#-#-#  apimo-zh_CN.po  #-#-#-#-#\n"
+"露台"
+
+msgid "Solarium"
+msgstr "日光浴室"
+
+msgid "Living room/dining area"
+msgstr "起居室"
+
+msgid "Play room"
+msgstr "游戏室"
+
+msgid "Dining room"
+msgstr "饭厅"
+
+msgid "Pool house"
+msgstr "游泳池旁的房子"
+
+msgid "Closet"
+msgstr "壁橱"
+
+msgid "Not used"
+msgstr "未开发"
+
+msgid "Loggia"
+msgstr "凉廊"
+
+msgid "Attic"
+msgstr "阁楼"
+
+msgid "Other"
+msgstr "其它"
+
+msgid "Mezzanine"
+msgstr "夹层露面"
+
+msgid "Pantry"
+msgstr "食物储藏室"
+
+msgid "Maintenance room"
+msgstr "技术间"
+
+msgid "Workshop"
+msgstr "作坊"
+
+#, fuzzy
+msgid "Studio"
+msgstr ""
+"#-#-#-#-#  apimo-zh_CN.po  #-#-#-#-#\n"
+"工作室\n"
+"#-#-#-#-#  apimo-zh_CN.po  #-#-#-#-#\n"
+"单身公寓"
+
+#, fuzzy
+msgid "Loft"
+msgstr ""
+"#-#-#-#-#  apimo-zh_CN.po  #-#-#-#-#\n"
+"（仓库、工厂等改造而成的）居室或画室\n"
+"#-#-#-#-#  apimo-zh_CN.po  #-#-#-#-#\n"
+"户型（指工厂或仓库改造成的房间）"
+
+msgid "Library"
+msgstr "书房"
+
+msgid "Courtyard"
+msgstr "庭院"
+
+msgid "Landing"
+msgstr "楼梯平台"
+
+msgid "Linen room"
+msgstr "内衣/床单存放室"
+
+msgid "Bathroom / Lavatory"
+msgstr "洗浴间/厕所"
+
+msgid "Shower room / Lavatory"
+msgstr "冲澡间/厕所"
+
+#, fuzzy
+msgid "Balcony"
+msgstr ""
+"#-#-#-#-#  apimo-zh_CN.po  #-#-#-#-#\n"
+"附件\n"
+"#-#-#-#-#  apimo-zh_CN.po  #-#-#-#-#\n"
+"阳台"
+
+msgid "Exercise room"
+msgstr "运动室"
+
+msgid "Discothèque"
+msgstr "夜店"
+
+msgid "Home cinema"
+msgstr "电影院"
+
+msgid "Reception room"
+msgstr "接待室"
+
+msgid "Storage room"
+msgstr "杂物间"
+
+msgid "Garden"
+msgstr "花园"
+
+msgid "Park"
+msgstr "公园"
+
+#, fuzzy
+msgid "Land"
+msgstr ""
+"#-#-#-#-#  apimo-zh_CN.po  #-#-#-#-#\n"
+"地皮/场所\n"
+"#-#-#-#-#  apimo-zh_CN.po  #-#-#-#-#\n"
+"地块"
+
+msgid "Patio"
+msgstr "天井"
+
+msgid "Apartment"
+msgstr "公寓"
+
+msgid "Barn"
+msgstr "仓房"
+
+msgid "Outbuilding"
+msgstr "附属建筑"
+
+#, fuzzy
+msgid "Sauna"
+msgstr ""
+"#-#-#-#-#  apimo-zh_CN.po  #-#-#-#-#\n"
+"桑拿\n"
+"#-#-#-#-#  apimo-zh_CN.po  #-#-#-#-#\n"
+"桑拿室"
+
+msgid "Cafeteria"
+msgstr "食堂"
+
+msgid "Warehouse"
+msgstr "仓库"
+
+msgid "Standard"
+msgstr "简单"
+
+msgid "Co-exclusive"
+msgstr "合专属的"
+
+msgid "Exclusive"
+msgstr "专属的"
+
+#, fuzzy
+msgid "Free"
+msgstr ""
+"#-#-#-#-#  apimo-zh_CN.po  #-#-#-#-#\n"
+"空闲\n"
+"#-#-#-#-#  apimo-zh_CN.po  #-#-#-#-#\n"
+"免费"
+
+msgid "Rented"
+msgstr "已出租"
+
+msgid "Occupied"
+msgstr "正在使用中"
+
+msgid "Sale"
+msgstr "出售"
+
+msgid "Rental"
+msgstr "出租"
+
+msgid "Seasonal rental"
+msgstr "季节性出租"
+
+msgid "Development"
+msgstr "新上市"
+
+#, fuzzy
+msgid "Life annuity"
+msgstr ""
+"#-#-#-#-#  apimo-zh_CN.po  #-#-#-#-#\n"
+"终身\n"
+"#-#-#-#-#  apimo-zh_CN.po  #-#-#-#-#\n"
+"养老金期限"
+
+msgid "Auction"
+msgstr "拍卖"
+
+msgid "Unfurnished"
+msgstr "空屋"
+
+#, fuzzy
+msgid "Furnished"
+msgstr ""
+"#-#-#-#-#  apimo-zh_CN.po  #-#-#-#-#\n"
+"布置\n"
+"#-#-#-#-#  apimo-zh_CN.po  #-#-#-#-#\n"
+"布置\n"
+"#-#-#-#-#  apimo-zh_CN.po  #-#-#-#-#\n"
+"配家具"
+
+msgid "Roommate"
+msgstr "室友"
+
+msgid "Requires updating"
+msgstr "翻新"
+
+msgid "Good condition"
+msgstr "状态良好"
+
+msgid "Requires renovation"
+msgstr "将整修"
+
+msgid "Excellent condition"
+msgstr "状态极好"
+
+#, fuzzy
+msgid "New"
+msgstr ""
+"#-#-#-#-#  apimo-zh_CN.po  #-#-#-#-#\n"
+"全新\n"
+"#-#-#-#-#  apimo-zh_CN.po  #-#-#-#-#\n"
+"新"
+
+msgid "Ground floor"
+msgstr "第一层"
+
+msgid "Top floor"
+msgstr "最后一层"
+
+msgid "1st"
+msgstr "1"
+
+msgid "2nd"
+msgstr "2"
+
+msgid "3rd"
+msgstr "3"
+
+msgid "4th"
+msgstr "4"
+
+msgid "5th"
+msgstr "5"
+
+msgid "6th"
+msgstr "6"
+
+msgid "7th"
+msgstr "7"
+
+msgid "8th"
+msgstr "8"
+
+msgid "9th"
+msgstr "9"
+
+msgid "10th"
+msgstr "10"
+
+msgid "11th"
+msgstr "11"
+
+msgid "12th"
+msgstr "12"
+
+msgid "13th"
+msgstr "13"
+
+msgid "14th"
+msgstr "14"
+
+msgid "15th"
+msgstr "15"
+
+msgid "16th"
+msgstr "16"
+
+msgid "17th"
+msgstr "17"
+
+msgid "18th"
+msgstr "18"
+
+msgid "19th"
+msgstr "19"
+
+msgid "20th"
+msgstr "20"
+
+msgid "Garden level"
+msgstr "带花园房屋的底层"
+
+msgid "Split-level"
+msgstr "半楼"
+
+msgid "-1"
+msgstr "负一层"
+
+msgid "-2"
+msgstr "负二层"
+
+msgid "-3"
+msgstr "负三层"
+
+msgid "-4"
+msgstr "负四层"
+
+msgid "Single-storey"
+msgstr "单层"
+
+msgid "21st"
+msgstr "21"
+
+msgid "22nd"
+msgstr "22"
+
+msgid "23rd"
+msgstr "23"
+
+msgid "24th"
+msgstr "24"
+
+msgid "25th"
+msgstr "25"
+
+msgid "26th"
+msgstr "26"
+
+msgid "27th"
+msgstr "27"
+
+msgid "28th"
+msgstr "28"
+
+msgid "29th"
+msgstr "29"
+
+msgid "30th"
+msgstr "30"
+
+msgid "31st"
+msgstr "31"
+
+msgid "32nd"
+msgstr "32"
+
+msgid "33rd"
+msgstr "33"
+
+msgid "34th"
+msgstr "34"
+
+msgid "35th"
+msgstr "35"
+
+msgid "36th"
+msgstr "36"
+
+msgid "37th"
+msgstr "37"
+
+msgid "38th"
+msgstr "38"
+
+msgid "39th"
+msgstr "39"
+
+msgid "40th"
+msgstr "40"
+
+msgid "-5"
+msgstr "-5"
+
+msgid "-6"
+msgstr "-6"
+
+msgid "-7"
+msgstr "-7"
+
+msgid "-8"
+msgstr "-8"
+
+msgid "-9"
+msgstr "-9"
+
+msgid "-10"
+msgstr "-10"
+
+msgid "41st"
+msgstr "41"
+
+msgid "42nd"
+msgstr "42"
+
+msgid "43rd"
+msgstr "43"
+
+msgid "44th"
+msgstr "44"
+
+msgid "45th"
+msgstr "45"
+
+msgid "46th"
+msgstr "46"
+
+msgid "47th"
+msgstr "47"
+
+msgid "48th"
+msgstr "48"
+
+msgid "49th"
+msgstr "49"
+
+msgid "50th"
+msgstr "50"
+
+msgid "51st"
+msgstr "51"
+
+msgid "52nd"
+msgstr "52"
+
+msgid "53rd"
+msgstr "53"
+
+msgid "54th"
+msgstr "54"
+
+msgid "55th"
+msgstr "55"
+
+msgid "56th"
+msgstr "56"
+
+msgid "57th"
+msgstr "57"
+
+msgid "58th"
+msgstr "58"
+
+msgid "59th"
+msgstr "59"
+
+msgid "60th"
+msgstr "60"
+
+msgid "Convector"
+msgstr "换流器"
+
+msgid "Underfloor"
+msgstr "地暖"
+
+msgid "Radiator"
+msgstr "散热器"
+
+#, fuzzy
+msgid "Stove"
+msgstr ""
+"#-#-#-#-#  apimo-zh_CN.po  #-#-#-#-#\n"
+"炉子\n"
+"#-#-#-#-#  apimo-zh_CN.po  #-#-#-#-#\n"
+"炉灶"
+
+#, fuzzy
+msgid "Air-conditioning"
+msgstr ""
+"#-#-#-#-#  apimo-zh_CN.po  #-#-#-#-#\n"
+"空调\n"
+"#-#-#-#-#  apimo-zh_CN.po  #-#-#-#-#\n"
+"通风口"
+
+msgid "Central"
+msgstr "中央供暖"
+
+msgid "Fireplace"
+msgstr "烟囱"
+
+#, fuzzy
+msgid "Individual"
+msgstr ""
+"#-#-#-#-#  apimo-zh_CN.po  #-#-#-#-#\n"
+"个人\n"
+"#-#-#-#-#  apimo-zh_CN.po  #-#-#-#-#\n"
+"独立的"
+
+msgid "Common"
+msgstr "集中"
+
+msgid "Mixed"
+msgstr "混合方式"
+
+msgid "Gas"
+msgstr "天然气"
+
+msgid "Fuel oil"
+msgstr "燃油"
+
+msgid "Electric"
+msgstr "电暖"
+
+msgid "Wood"
+msgstr "木头"
+
+msgid "Solar"
+msgstr "太阳能"
+
+msgid "Charcoal"
+msgstr "煤炭"
+
+msgid "Heat pump"
+msgstr "热气泵"
+
+msgid "Geothermal"
+msgstr "地熱能"
+
+msgid "Hot water tank"
+msgstr "热水箱"
+
+msgid "Boiler"
+msgstr "热水器"
+
+msgid "Collective"
+msgstr "集体的"
+
+msgid "Term lease"
+msgstr "不确定的"
+
+msgid "Long-Term"
+msgstr "3-6-9租约"
+
+msgid "Long-Term - Single activity"
+msgstr "3-6-9租约限定行业"
+
+msgid "Long-Term - All activities"
+msgstr "3-6-9租约所有行业"
+
+#, fuzzy
+msgid "Countryside"
+msgstr ""
+"#-#-#-#-#  apimo-zh_CN.po  #-#-#-#-#\n"
+"农村\n"
+"#-#-#-#-#  apimo-zh_CN.po  #-#-#-#-#\n"
+"乡下"
+
+msgid "East"
+msgstr "东"
+
+msgid "North"
+msgstr "北"
+
+msgid "West"
+msgstr "西"
+
+msgid "South"
+msgstr "南"
+
+msgid "Day"
+msgstr "天"
+
+msgid "Week"
+msgstr "周"
+
+msgid "Fortnight"
+msgstr "两星期"
+
+msgid "Month"
+msgstr "月"
+
+msgid "Bus"
+msgstr "公共汽车"
+
+msgid "Bus hub"
+msgstr "汽车中转站"
+
+msgid "Metro"
+msgstr "地铁"
+
+msgid "Shops"
+msgstr "商业中心"
+
+msgid "Primary school"
+msgstr "小学"
+
+msgid "Town centre"
+msgstr "市中心"
+
+msgid "Hospital/clinic"
+msgstr "医院/诊所"
+
+msgid "Doctor"
+msgstr "医生"
+
+msgid "Tram"
+msgstr "有轨电车"
+
+msgid "TGV station"
+msgstr "火车站"
+
+msgid "Public parking"
+msgstr "公共停车场"
+
+msgid "Supermarket"
+msgstr "大型超市"
+
+msgid "Sea port"
+msgstr "港口"
+
+msgid "Nursery"
+msgstr "托儿所"
+
+msgid "Public pool"
+msgstr "游泳池"
+
+msgid "Tennis"
+msgstr "网球场"
+
+msgid "Golf"
+msgstr "高尔夫球场"
+
+msgid "Movies"
+msgstr "电影院"
+
+msgid "Secondary school"
+msgstr "初中"
+
+msgid "Airport"
+msgstr "机场"
+
+msgid "Ski slope"
+msgstr "滑雪场"
+
+#, fuzzy
+msgid "Sea"
+msgstr ""
+"#-#-#-#-#  apimo-zh_CN.po  #-#-#-#-#\n"
+"大海\n"
+"#-#-#-#-#  apimo-zh_CN.po  #-#-#-#-#\n"
+"海洋"
+
+msgid "Highway"
+msgstr "高速公路"
+
+msgid "University"
+msgstr "大學"
+
+msgid "Convention center"
+msgstr "展覽館"
+
+msgid "Lake"
+msgstr "湖泊"
+
+msgid "Energy - Conventional consumption"
+msgstr "Energy - Conventional consumption"
+
+msgid "Energy - Emissions estimate"
+msgstr "Energy - Emissions estimate"
+
+msgid "« Carrez » act"
+msgstr "法則 « Carrez »"
+
+msgid "EPI (Non renewable)"
+msgstr "Indice prestazione energetica (EPI)"
+
+msgid "APE"
+msgstr "APE"
+
+msgid "Internet"
+msgstr "因特网"
+
+msgid "Disabled access"
+msgstr "残疾人入口"
+
+msgid "Alarm system"
+msgstr "警报器"
+
+msgid "Lift"
+msgstr "电梯"
+
+msgid "Caretaker"
+msgstr "门卫"
+
+msgid "Double glazing"
+msgstr "双层玻璃"
+
+msgid "Intercom"
+msgstr "对讲机"
+
+msgid "TV distribution"
+msgstr "有线电视"
+
+#, fuzzy
+msgid "Swimming pool"
+msgstr ""
+"#-#-#-#-#  apimo-zh_CN.po  #-#-#-#-#\n"
+"游泳池\n"
+"#-#-#-#-#  apimo-zh_CN.po  #-#-#-#-#\n"
+"泳池\n"
+"#-#-#-#-#  apimo-zh_CN.po  #-#-#-#-#\n"
+"游泳池"
+
+msgid "Security door"
+msgstr "防盗门"
+
+msgid "Tennis court"
+msgstr "网球场"
+
+msgid "Irrigation sprinkler"
+msgstr "洒水器"
+
+msgid "Barbecue"
+msgstr "烤肉架"
+
+msgid "Electric gate"
+msgstr "电子大门"
+
+msgid "Crawl space"
+msgstr "防潮层"
+
+msgid "Car port"
+msgstr "停车处"
+
+msgid "Caretaker house"
+msgstr "门卫房"
+
+msgid "Sliding windows"
+msgstr "玻璃窗"
+
+msgid "Central vacuum system"
+msgstr "中央通气孔"
+
+msgid "Electric shutters"
+msgstr "电动卷帘"
+
+msgid "Window shade"
+msgstr "遮帘"
+
+msgid "Electric awnings"
+msgstr "电动遮帘"
+
+msgid "Washing machine"
+msgstr "洗衣機"
+
+msgid "Jacuzzi"
+msgstr "按摩浴缸"
+
+msgid "Whirlpool tub"
+msgstr "浴疗池"
+
+msgid "Well"
+msgstr "井"
+
+msgid "Spring"
+msgstr "水源"
+
+msgid "Dishwasher"
+msgstr "洗碗機"
+
+msgid "Safe"
+msgstr "保险箱"
+
+msgid "Helipad"
+msgstr "直升机场"
+
+msgid "Videophone"
+msgstr "可视电话"
+
+msgid "Video security"
+msgstr "监视器"
+
+msgid "Iron"
+msgstr "熨斗"
+
+msgid "Hair dryer"
+msgstr "吹风机"
+
+msgid "Television"
+msgstr "电视"
+
+msgid "CD Player"
+msgstr "播放器"
+
+msgid "Outdoor lighting"
+msgstr "户外照明"
+
+msgid "Spa"
+msgstr "水疗"
+
+msgid "Sukkah"
+msgstr "苏克棚"
+
+msgid "Pets allowed"
+msgstr "可携带宠物"
+
+msgid "Wiring closet"
+msgstr "配線間"
+
+msgid "Fire hose cabinets"
+msgstr "消防水龙"
+
+msgid "Wharf"
+msgstr "碼頭"
+
+msgid "Well drilling"
+msgstr "钻井"
+
+msgid "Optical fiber"
+msgstr "光導纖維"
+
+msgid "Playground"
+msgstr "操场"
+
+msgid "Solar panels"
+msgstr "光伏模組"
+
+msgid "Overhead crane"
+msgstr "桥式起重机"
+
+msgid "Access control"
+msgstr "存取控制"
+
+msgid "Supplies"
+msgstr "供应"
+
+msgid "Outdoor spaces"
+msgstr "户外空间"
+
+msgid "Rental supplies"
+msgstr "Rental supplies"
+
+#, fuzzy
+msgid "Building"
+msgstr ""
+"#-#-#-#-#  apimo-zh_CN.po  #-#-#-#-#\n"
+"Building\n"
+"#-#-#-#-#  apimo-zh_CN.po  #-#-#-#-#\n"
+"建筑\n"
+"#-#-#-#-#  apimo-zh_CN.po  #-#-#-#-#\n"
+"建筑"
+
+#, fuzzy
+msgid "Security"
+msgstr ""
+"#-#-#-#-#  apimo-zh_CN.po  #-#-#-#-#\n"
+"Security\n"
+"#-#-#-#-#  apimo-zh_CN.po  #-#-#-#-#\n"
+"安全"
+
+msgid "Professional supplies"
+msgstr "Professional supplies"
+
+msgid "High standard"
+msgstr "舒适"
+
+msgid "Luxury"
+msgstr "豪华"
+
+msgid "High luxury"
+msgstr "非常豪华"
+
+#, fuzzy
+msgid "Housing estate"
+msgstr ""
+"#-#-#-#-#  apimo-zh_CN.po  #-#-#-#-#\n"
+"屋苑\n"
+"#-#-#-#-#  apimo-zh_CN.po  #-#-#-#-#\n"
+"建筑整体"
+
+#, fuzzy
+msgid "In progress"
+msgstr ""
+"#-#-#-#-#  apimo-zh_CN.po  #-#-#-#-#\n"
+"In progress\n"
+"#-#-#-#-#  apimo-zh_CN.po  #-#-#-#-#\n"
+"正在进行"
+
+msgid "Standby"
+msgstr "Standby"
+
+#, fuzzy
+msgid "Closed"
+msgstr ""
+"#-#-#-#-#  apimo-zh_CN.po  #-#-#-#-#\n"
+"Closed\n"
+"#-#-#-#-#  apimo-zh_CN.po  #-#-#-#-#\n"
+"已关闭"
+
+msgid "Deleted"
+msgstr "Deleted"
+
+#, fuzzy
+msgid "House"
+msgstr ""
+"#-#-#-#-#  apimo-zh_CN.po  #-#-#-#-#\n"
+"别墅\n"
+"#-#-#-#-#  apimo-zh_CN.po  #-#-#-#-#\n"
+"房屋\n"
+"#-#-#-#-#  apimo-zh_CN.po  #-#-#-#-#\n"
+"别墅"
+
+msgid "Business"
+msgstr "商业"
+
+msgid "Garage/Parking"
+msgstr "车库/车棚"
+
+msgid "Office"
+msgstr "办公室"
+
+msgid "Boat"
+msgstr "船"
+
+msgid "Cellar / Box"
+msgstr "地窖/小隔间"
+
+msgid "Triplex"
+msgstr "三层建筑"
+
+msgid "Building land"
+msgstr "可建筑场地"
+
+msgid "Not constructible land"
+msgstr "非建筑场地"
+
+msgid "Penthouse"
+msgstr "楼顶别墅房"
+
+msgid "Condo"
+msgstr "公寓"
+
+msgid "Castle"
+msgstr "城堡"
+
+msgid "Duplex"
+msgstr "复式建筑"
+
+msgid "Manor house"
+msgstr "莊園大屋"
+
+msgid "Farm"
+msgstr "农场"
+
+msgid "Village house"
+msgstr "小城镇房屋"
+
+msgid "Villa"
+msgstr "别墅"
+
+msgid "Apartment villa"
+msgstr "别墅型公寓"
+
+msgid "Ruin"
+msgstr "废墟"
+
+msgid "Property"
+msgstr "房产/产权"
+
+msgid "Mill"
+msgstr "磨坊"
+
+msgid "Carpark"
+msgstr "车库"
+
+msgid "Farmhouse"
+msgstr "小农场"
+
+msgid "Cottage"
+msgstr "平房"
+
+msgid "Hangar"
+msgstr "飞机库"
+
+msgid "Mas"
+msgstr "农舍"
+
+msgid "Local"
+msgstr "房间/处所"
+
+msgid "Chalet"
+msgstr "木屋/乡村房屋"
+
+msgid "Retail space"
+msgstr "商业场所"
+
+msgid "Business assets"
+msgstr "商业资产"
+
+msgid "Right to the lease"
+msgstr "租赁权"
+
+msgid "Mansion"
+msgstr "私人旅馆"
+
+msgid "Management"
+msgstr "管理/经营"
+
+msgid "Agricultural exploitation"
+msgstr "农业开发"
+
+msgid "Woodshed"
+msgstr "回扣"
+
+msgid "Plot of land"
+msgstr "土地情节"
+
+#, fuzzy
+msgid "Company"
+msgstr ""
+"#-#-#-#-#  apimo-zh_CN.po  #-#-#-#-#\n"
+"企业\n"
+"#-#-#-#-#  apimo-zh_CN.po  #-#-#-#-#\n"
+"公司"
+
+msgid "Sailing Yacht"
+msgstr "帆船"
+
+msgid "Catamaran"
+msgstr "雙體船"
+
+msgid "Equestrian estate"
+msgstr "马术财产"
+
+msgid "Bed and breakfast"
+msgstr "民宿"
+
+msgid "Gîte"
+msgstr "Gîte"
+
+msgid "Riad"
+msgstr "Riad"
+
+msgid "Arcade"
+msgstr "商场"
+
+msgid "Retail shop"
+msgstr "店"
+
+msgid "Twin Villa"
+msgstr "双床别墅"
+
+msgid "Flat House"
+msgstr "平房子"
+
+msgid "Residential land"
+msgstr "住宅用地"
+
+msgid "Commercial land"
+msgstr "商业用地"
+
+msgid "Pavilion"
+msgstr "亭樓"
+
+msgid "Cellar"
+msgstr "食物储藏室"
+
+msgid "Mountains"
+msgstr "山脉"
+
+msgid "Hills"
+msgstr "小山"
+
+msgid "Greenery"
+msgstr "绿色植物"
+
+msgid "Monument"
+msgstr "纪念碑"
+
+msgid "Forest"
+msgstr "森林"
+
+msgid "City"
+msgstr "城市"
+
+msgid "Village"
+msgstr "农村"
+
+msgid "Sky"
+msgstr "天空"
+
+msgid "Main stem"
+msgstr "幹流"
+
+msgid "Harbor"
+msgstr "海港"
+
+msgid "Street"
+msgstr "街道"
+
+msgid "Ski slopes"
+msgstr "滑雪斜坡"
+
+msgid "Slight"
+msgstr ""
+
+msgid "Unobstructed"
+msgstr "无遮挡"
+
+msgid "Panoramic"
+msgstr "全景"
+
+msgid "Septic tank"
+msgstr "化粪池"
+
+msgid "Main drainage"
+msgstr "污水管"
+
+msgid "Treatment plant"
+msgstr "污水處理廠"
+
+msgid "Walk-in / Window"
+msgstr "玻璃橱窗"
+
+msgid "Appraisal"
+msgstr "评价"
+
+msgid "Selection / Favorite"
+msgstr "选型"
+
+msgid "Reduced fees"
+msgstr "降低费用"
+
+msgid "Rental investment"
+msgstr "租赁投资"
+
+msgid "m²"
+msgstr "m²"
+
+msgid "sq ft"
+msgstr "ft²"
+
+msgid "sq yd"
+msgstr "平方码"
+
+msgid "ha"
+msgstr "公顷"
+
+msgid "minute"
+msgstr "分钟"
+
+msgid "metre"
+msgstr "米"
+
+msgid "km"
+msgstr "千米"
+
+msgid "Administrator"
+msgstr "管理人"
+
+msgid "Company manager"
+msgstr "公司经理"
+
+msgid "Agency manager"
+msgstr "中介经理"
+
+msgid "Secretariat"
+msgstr "秘书"
+
+#, fuzzy
+msgid "Agent"
+msgstr ""
+"#-#-#-#-#  apimo-zh_CN.po  #-#-#-#-#\n"
+"经纪人\n"
+"#-#-#-#-#  apimo-zh_CN.po  #-#-#-#-#\n"
+"中介"
+
+msgid "Intern"
+msgstr "实习生"
+
+msgid "User"
+msgstr "用户"
+
+msgid "Franchisor"
+msgstr "特许人"
+
+msgid "Translator"
+msgstr "译者"
+
+msgid "Plan"
+msgstr "计划"
+
+msgid "Image"
+msgstr "图片"
+
+msgid "Decoration"
+msgstr "装饰"
+
+msgid "Pet"
+msgstr "宠物"
+
+msgid "Natural light"
+msgstr "自然光"
+
+msgid "Kitchen island"
+msgstr "厨房岛"
+
+msgid "Kitchen bar"
+msgstr "厨房吧"
+
+msgid "High ceiling"
+msgstr "高天花板"
+
+msgid "Skylight"
+msgstr "天窗"
+
+msgid "Exposed bricks"
+msgstr "暴露的砖块"
+
+msgid "Ceiling fan"
+msgstr "吊扇"
+
+msgid "Chandelier"
+msgstr "吊灯"
+
+msgid "Stainless steel"
+msgstr "不锈钢"
+
+msgid "Price on request"
+msgstr "报价"
+
+msgid "Currency"
+msgstr "货币"
+
+msgid "price"
+msgstr "价格"
+
+msgid "Type"
+msgstr "型"
+
+msgid "bedroom"
+msgstr "卧房"
+
+msgid "Login"
+msgstr "登录"
+
+msgid "message"
+msgstr "讯息"
+
+msgid "Phone call"
+msgstr "电话"
+
+msgid "e-mail"
+msgstr "电子邮件"
+
+msgid "Lastname"
+msgstr "姓"
+
+msgid "Firstname"
+msgstr "名"
+
+msgid "Reference"
+msgstr "参考"
+
+msgid "Ref."
+msgstr "参考."
+
+msgid "%s bedrooms"
+msgstr "%s 卧室"
+
+msgid "%s rooms"
+msgstr "%s 房间"
+
+msgid "Folder"
+msgstr "夹"
+
+msgid "No matches found"
+msgstr "无匹配结果"
+
+msgid "Please enter one more character"
+msgstr "请输入一个或多个字符"
+
+msgid "copy"
+msgstr "复制"
+
+msgid "Backup"
+msgstr "备份"
+
+msgid "Costs"
+msgstr "费用"
+
+msgid "Sender"
+msgstr "发送人"
+
+msgid "Recipient"
+msgstr "收件人"
+
+msgid "Subject"
+msgstr "主题"
+
+msgid "Attachment"
+msgstr "附件"
+
+msgid "Key"
+msgstr "钥匙"
+
+msgid "Documents"
+msgstr "文件"
+
+msgid "Name"
+msgstr "姓名"
+
+msgid "Back"
+msgstr "返回"
+
+msgid "Help"
+msgstr "帮助"
+
+msgid "Read more"
+msgstr "阅读更多"
+
+msgid "Areas"
+msgstr "面积"
+
+msgid "Length"
+msgstr "长度"
+
+msgid "Height"
+msgstr "高度"
+
+msgid "Width"
+msgstr "宽度"
+
+msgid "Margin"
+msgstr "保证金"
+
+msgid "Agreement reference"
+msgstr "协议参考"
+
+msgid "Agreement start at"
+msgstr "协议生效时间"
+
+msgid "Agreement end at"
+msgstr "协议结束时间"
+
+msgid "Fax"
+msgstr "传真"
+
+msgid "Website"
+msgstr "网站"
+
+msgid "Proximities"
+msgstr "邻近"
+
+msgid "Loading"
+msgstr "装载"
+
+msgid "Log out"
+msgstr "断开连接"
+
+msgid "Availability"
+msgstr "可供使用"
+
+msgid "Total area"
+msgstr "总面积"
+
+msgid "Living area"
+msgstr "生活区"
+
+msgid "Password forgotten"
+msgstr "忘记密码"
+
+msgid "Password"
+msgstr "密码"
+
+msgid "Username"
+msgstr "用户名"
+
+msgid "Welcome %s"
+msgstr "欢迎 %s"
+
+msgid "Searches"
+msgstr "搜索"
+
+msgid "Add"
+msgstr "添加"
+
+msgid "Display"
+msgstr "显示"
+
+msgid "List"
+msgstr "列表"
+
+msgid "Tools"
+msgstr "工具"
+
+msgid "Market"
+msgstr "市场"
+
+msgid "agencies"
+msgstr "代理处"
+
+msgid "Calendar"
+msgstr "日历"
+
+msgid "Homepage"
+msgstr "主页"
+
+msgid "Maps"
+msgstr "地图"
+
+msgid "Sector"
+msgstr "部门"
+
+msgid "contacts"
+msgstr "往来"
+
+msgid "%s contacts"
+msgstr "%s 联系人"
+
+msgid "Settings"
+msgstr "设置"
+
+msgid "General"
+msgstr "概况"
+
+msgid "Heating"
+msgstr "暖气"
+
+msgid "Hot water"
+msgstr "热水"
+
+msgid "Waste water"
+msgstr "废水"
+
+msgid "Country"
+msgstr "国家"
+
+msgid "Escrow deposit"
+msgstr "第三方支付"
+
+msgid "Owners"
+msgstr "业主"
+
+msgid "Orientation"
+msgstr "朝向"
+
+msgid "View"
+msgstr "看到"
+
+msgid "Zone"
+msgstr "区"
+
+msgid "Fields"
+msgstr "字段"
+
+msgid "Hook"
+msgstr "锁定"
+
+msgid "comments"
+msgstr "评论"
+
+msgid "Buy"
+msgstr "买房"
+
+msgid "Rent"
+msgstr "租房"
+
+msgid "Commercial"
+msgstr "商办"
+
+msgid "About us"
+msgstr "关于我们"
+
+msgid "Service"
+msgstr "服务"
+
+msgid "News"
+msgstr "新闻"
+
+msgid "Locate us"
+msgstr "联系我们"
+
+msgid "Print"
+msgstr "印刷"
+
+msgid "Pictures"
+msgstr "照片"
+
+msgid "Add to cart"
+msgstr "加入购物车"
+
+msgid "Replace in cart"
+msgstr "清空购物车"
+
+msgid "Category"
+msgstr "种类"
+
+msgid "History"
+msgstr "纪事"
+
+msgid "Details"
+msgstr "咨询"
+
+msgid "Date"
+msgstr "日期"
+
+msgid "Previous"
+msgstr "上个"
+
+msgid "Next"
+msgstr "下个"
+
+msgid "Quick search"
+msgstr "快速搜索"
+
+msgid "Postal code"
+msgstr "邮政编码"
+
+msgid "The username and/or password is invalid."
+msgstr "用户名或密码错误"
+
+msgid "Group"
+msgstr "群组"
+
+msgid "Are you sure?"
+msgstr "是否确定？"
+
+msgid "Nationality"
+msgstr "国籍"
+
+msgid "Radius"
+msgstr "半径"
+
+msgid "Summary"
+msgstr "摘要"
+
+msgid "Watermark"
+msgstr "水印"
+
+msgid "Latitude"
+msgstr "纬度"
+
+msgid "Longitude"
+msgstr "经度"
+
+msgid "Mortgage"
+msgstr "抵押"
+
+msgid "Download"
+msgstr "下载"
+
+msgid "Dashboard"
+msgstr "仪表盘"
+
+msgid "Matching"
+msgstr "匹配"
+
+msgid "Pay now by card"
+msgstr "刷卡支付"
+
+msgid "Pay by bank transfer"
+msgstr "银行转账"
+
+msgid "Pay by check"
+msgstr "支票支付"
+
+msgid "Powered by"
+msgstr "技术支持"
+
+msgid "Accepted payment methods"
+msgstr "支付方式"
+
+msgid "Terms and Conditions"
+msgstr "条款与细则"
+
+msgid ""
+"Your contact is already in database, please select it on the list below."
+msgstr "您的联系方式已经存在数据库中，请在下拉列表中选择。"
+
+msgid "Contracts"
+msgstr "合同"
+
+msgid "Seekers"
+msgstr "访客"
+
+msgid "Active seekers"
+msgstr "活跃访客"
+
+msgid "Providers"
+msgstr "供应商"
+
+msgid "Active owners"
+msgstr "活跃业主"
+
+msgid "Monitoring"
+msgstr "监控"
+
+msgid "Forward"
+msgstr "转发"
+
+msgid "Similar"
+msgstr "类似"
+
+msgid "Rank"
+msgstr "位置"
+
+msgid "Status"
+msgstr "状态"
+
+msgid "Floor"
+msgstr "层"
+
+msgid "Water"
+msgstr "水"
+
+msgid "Description"
+msgstr "描述"
+
+msgid "Require a change of password at next logon"
+msgstr "下次登录需要修改密码"
+
+msgid "Gross revenue"
+msgstr "总收入"
+
+msgid "Gross yield"
+msgstr "总收益"
+
+msgid "Net yield"
+msgstr "净收益"
+
+msgid "Vacancy rate"
+msgstr "空置率"
+
+msgid "Investment"
+msgstr "投资"
+
+msgid "Lock"
+msgstr "锁"
+
+msgid "Variables"
+msgstr "变量"
+
+msgid "Example"
+msgstr "实例"
+
+msgid "Increment"
+msgstr "增量"
+
+msgid "Schema"
+msgstr "图表"
+
+msgid "Automation"
+msgstr "自动化"
+
+msgid "Renovation year"
+msgstr "翻新年代"
+
+msgid "Curriculum vitae"
+msgstr "履历表"
+
+msgid "Resellers"
+msgstr "经销商"
+
+msgid "Choice"
+msgstr "选择"
+
+msgid "Billing"
+msgstr "开发票"
+
+msgid "The balance of your account is %s"
+msgstr "您的账户余额为 %s"
+
+msgid "Ceiling"
+msgstr "天花板"
+
+msgid "Weighted area"
+msgstr "加权面积"
+
+msgid "Collected"
+msgstr "已收藏"
+
+msgid "Unlimited"
+msgstr "无限制"
+
+msgid "Quantity"
+msgstr "数量"
+
+msgid "Subscription"
+msgstr "订阅"
+
+msgid "Setup"
+msgstr "安装"
+
+msgid "Price by area"
+msgstr "单价"
+
+msgid "Default list"
+msgstr "默认列表"
+
+msgid "Add a custom document"
+msgstr "添加自定义文档"
+
+msgid "Line spacing"
+msgstr "行距"
+
+msgid "Font"
+msgstr "字体"
+
+msgid "Accounts"
+msgstr "账目"
+
+msgid "Number of shares"
+msgstr "引用次数"
+
+msgid "Leads"
+msgstr "潜在买家"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Link"
+msgstr "链接"
+
+msgid "Advanced"
+msgstr "精装修"
+
+msgid "Publish on homepage"
+msgstr "在主页发布"
+
+msgid "Suggest"
+msgstr "建议"
+
+msgid "Welcome on %s"
+msgstr "欢迎来到 %s"
+
+msgid "Extranet access"
+msgstr "外联网"
+
+msgid "Publish address"
+msgstr "发布地址"
+
+msgid "Opening hours"
+msgstr "开放时间"
+
+msgid "Lock menu bar"
+msgstr "锁定菜单栏"
+
+msgid "Forward to contact"
+msgstr "转发给联系人"
+
+msgid "Responder"
+msgstr "自动回复"
+
+msgid ""
+"You can search our Frequently Asked Questions (FAQs) database by keyword(s):"
+msgstr "您可以通过关键词搜索常见问答："
+
+msgid "Registrar"
+msgstr "注册"
+
+msgid "Expiration at"
+msgstr "过期截止"
+
+msgid "Mailbox"
+msgstr "邮箱"
+
+msgid "Domain name"
+msgstr "域名"
+
+msgid "Filling"
+msgstr "填充"
+
+msgid "Condition precedent"
+msgstr "前提条件"
+
+msgid "Size"
+msgstr "大小"
+
+msgid "Income"
+msgstr "收入"
+
+msgid "Deal fees"
+msgstr "交易费"
+
+msgid "Fees charged"
+msgstr "收费"
+
+msgid "Customers"
+msgstr "客户"
+
+msgid "Booked"
+msgstr "已预订"
+
+msgid "Available"
+msgstr "可售"
+
+msgid "Association"
+msgstr "相关链接"
+
+msgid "Ceiling height"
+msgstr "室内净高"
+
+msgid "Unsold"
+msgstr "未售出"
+
+msgid "Sold"
+msgstr "售出"
+
+msgid "Last action"
+msgstr "上一次操作"
+
+msgid "Our agency"
+msgstr "我们的中介"
+
+msgid "Your main contact"
+msgstr "您的主要联系人"
+
+msgid "Send me a message"
+msgstr "发送消息"
+
+msgid "Leave us a message"
+msgstr "给我留言"
+
+msgid "Price with fees"
+msgstr "价格包含相关费用"
+
+msgid "Owner access"
+msgstr "用户权限"
+
+msgid "Added"
+msgstr "已添加"
+
+msgid "Available for matching"
+msgstr "可以匹配"
+
+msgid "Available at"
+msgstr "入住时间"
+
+msgid "Add to list"
+msgstr "添加到列表"
+
+msgid "%s pending approval properties"
+msgstr "%s 产品等待审批"
+
+msgid "Negotiable price"
+msgstr "价格面议"
+
+msgid "Price updated"
+msgstr "最新价格"
+
+msgid "Less equal"
+msgstr "小于或等于"
+
+msgid "Equal"
+msgstr "等于"
+
+msgid "Greater equal"
+msgstr "大于或等于"
+
+msgid "Preferences"
+msgstr "首选项"
+
+msgid "No action"
+msgstr "无操作"
+
+msgid "Others"
+msgstr "其它"
+
+msgid "Received contact information"
+msgstr "获得的联系资料"
+
+msgid "Related contacts"
+msgstr "相关联系人"
+
+msgid "Assigned to"
+msgstr "被分配人"
+
+msgid "Assign to"
+msgstr "分配给"
+
+msgid "Assign by"
+msgstr "分配人"
+
+msgid "Opened by"
+msgstr "开始"
+
+msgid "Complete"
+msgstr "结束"
+
+msgid "Time zone"
+msgstr "时区"
+
+msgid "Invert selection"
+msgstr "反选"
+
+msgid "Select all"
+msgstr "选择全部"
+
+msgid "Unselect all"
+msgstr "取消选择"
+
+msgid "%s awaiting lead(s)"
+msgstr "%s 等待中"
+
+msgid "%s lead(s) to assign"
+msgstr "%s 待分配"
+
+msgid "%s pending properties"
+msgstr "%s 产品上传中"
+
+msgid "%s pending matching(s)"
+msgstr "%s 等待上传"
+
+msgid "%s expired agreement(s)"
+msgstr "%s 协议过期"
+
+msgid "%s expired soon agreement(s)"
+msgstr "%s 协议即将过期"
+
+msgid "Legal notice"
+msgstr "法律声明"
+
+msgid "Tags"
+msgstr "属性"
+
+msgid "Allowed"
+msgstr "已授权"
+
+msgid "Min stay"
+msgstr "最少住"
+
+msgid "Over"
+msgstr "超过"
+
+msgid "Refresh"
+msgstr "刷新"
+
+msgid "Free text"
+msgstr "自由文本"
+
+msgid "Generate comment"
+msgstr "发表评论"
+
+msgid "Building name"
+msgstr "建筑物名称"
+
+msgid "VAT identification number"
+msgstr "增值税"
+
+msgid "plus VAT"
+msgstr "包含增值税"
+
+msgid "Recurrence"
+msgstr "递推"
+
+msgid "Calculate"
+msgstr "计算"
+
+msgid "Contribution"
+msgstr "供款"
+
+msgid "Maximum debt"
+msgstr "最高债务"
+
+msgid "Purchase amount"
+msgstr "购价总额"
+
+msgid "Borrowing calculator"
+msgstr "房贷计算器"
+
+msgid "Monthly payment calculator"
+msgstr "月供计算器"
+
+msgid "You don't have broadcasting rights"
+msgstr "您没有转播权。"
+
+msgid "Pending"
+msgstr "待定"
+
+msgid "Automatic"
+msgstr "自动"
+
+msgid "Manual"
+msgstr "手动"
+
+msgid "In collaboration with a %name% professional"
+msgstr "合作与的一个 %name% 专业"
+
+msgid "Partners"
+msgstr "合作伙伴"
+
+msgid "Cost"
+msgstr "成本"
+
+msgid "My search"
+msgstr "我的搜索"
+
+msgid "Unit"
+msgstr "地块"
+
+msgid "Spouse"
+msgstr "配偶"
+
+msgid "Manager"
+msgstr "管理人"
+
+msgid "Category reference"
+msgstr "类别参考"
+
+msgid "Cadastre reference"
+msgstr "地籍参考"
+
+msgid "Lot reference"
+msgstr "地块参考"
+
+msgid "Block reference"
+msgstr "街区参考"
+
+msgid "Stairs reference"
+msgstr "楼层参考"
+
+msgid "Mortgage end at"
+msgstr "贷款截止于"
+
+msgid "Review"
+msgstr "评估"
+
+msgid "Medias"
+msgstr "媒体"
+
+msgid "Report"
+msgstr "报告"
+
+msgid "Last access"
+msgstr "上次访问"
+
+msgid "First access"
+msgstr "首次访问"
+
+msgid "Access count"
+msgstr "访问次数"
+
+msgid "Default"
+msgstr "默认"
+
+msgid "Please do not enter any name or contact"
+msgstr "请不要输入任何姓名或联系人"
+
+msgid "QR-Code"
+msgstr "二维码"
+
+msgid "Show price"
+msgstr "显示价格"
+
+msgid "Done"
+msgstr "完成"
+
+msgid "Not applicable"
+msgstr "不适用"
+
+msgid "Fill in the table"
+msgstr "在表中填"
+
+msgid "e-mail alert"
+msgstr "邮件提醒"
+
+msgid "Authorization"
+msgstr "授权"
+
+msgid "Last connection the %s"
+msgstr "上一次联系时间 %s"
+
+msgid "All"
+msgstr "所有"
+
+msgid "Wiki"
+msgstr "維基"
+
+msgid "Latest"
+msgstr "最近动态"
+
+msgid "Reset"
+msgstr "重置"
+
+msgid "Show/hide fields"
+msgstr "显示/隐藏字段"
+
+msgid "Recent searches"
+msgstr "搜索历史"
+
+msgid "Alerts"
+msgstr "消息提醒"
+
+msgid "Prescriber"
+msgstr "创建人"
+
+msgid "Staff"
+msgstr "员工"
+
+msgid "Standing"
+msgstr "长期"
+
+msgid "Receive a copy"
+msgstr "收到复印件"
+
+msgid "Latest views"
+msgstr "最新查看"
+
+msgid "Quality"
+msgstr "质量"
+
+msgid "Viewing agreement"
+msgstr "查看协议"
+
+msgid "Decline"
+msgstr "拒绝"
+
+msgid "Declined"
+msgstr "已拒绝"
+
+msgid "Accept"
+msgstr "接受"
+
+msgid "Accepted"
+msgstr "已接受"
+
+msgid "Matrimonial regime"
+msgstr "夫妻财产制"
+
+msgid "Marital status"
+msgstr "婚姻状况"
+
+msgid "Thumbnail"
+msgstr "缩图"
+
+msgid "Unread"
+msgstr "未读"
+
+msgid "Reply"
+msgstr "回复"
+
+msgid "Life annuity length"
+msgstr "养老金"
+
+msgid "Beam"
+msgstr "横梁"
+
+msgid "Draft"
+msgstr "草稿"
+
+msgid "Guests"
+msgstr "客人"
+
+msgid "Crew"
+msgstr "全体人员"
+
+msgid "Cruising speed"
+msgstr "巡航速度"
+
+msgid "Builder"
+msgstr "建筑商"
+
+msgid "Administration"
+msgstr "管理"
+
+msgid "Civil law notary"
+msgstr "公证"
+
+msgid "Max price"
+msgstr "价格最大"
+
+msgid "Advertising"
+msgstr "登广告"
+
+msgid "Reminders"
+msgstr "提醒"
+
+msgid "Credit"
+msgstr "贷款"
+
+msgid "Signature"
+msgstr "签署"
+
+msgid "Title (politeness)"
+msgstr "称谓"
+
+msgid "Amounts"
+msgstr "金额"
+
+msgid "Updated at"
+msgstr "日更新"
+
+msgid "Created at"
+msgstr "创建于"
+
+msgid "Insurance"
+msgstr "保險"
+
+msgid "Provision"
+msgstr "撥備"
+
+msgid "Provider"
+msgstr "供货商"
+
+msgid "Entries"
+msgstr "条目"
+
+msgid "Number"
+msgstr "数字"
+
+msgid "Deposit account"
+msgstr "定金"
+
+msgid "Owner's price"
+msgstr "业主价格"
+
+msgid "Starting price"
+msgstr "起始价"
+
+msgid "Mobile"
+msgstr "手机"
+
+msgid "Leases"
+msgstr "出租"
+
+msgid "Address"
+msgstr "地址"
+
+msgid "Delete"
+msgstr "删除"
+
+msgid "days"
+msgstr "天"
+
+msgid "Catalog"
+msgstr "目录"
+
+msgid "Statistics"
+msgstr "统计"
+
+msgid "Built in"
+msgstr "建于"
+
+msgid "Mark"
+msgstr "成绩"
+
+msgid "Percentage"
+msgstr "百分比"
+
+msgid "Visits"
+msgstr "游览"
+
+msgid "Visit comment"
+msgstr "游客评论"
+
+msgid "Key number"
+msgstr "关键编号"
+
+msgid "Key's place"
+msgstr "关键位置"
+
+msgid "Clauses"
+msgstr "条款"
+
+msgid "Seller"
+msgstr "卖家"
+
+msgid "Adjacency"
+msgstr "周边"
+
+msgid "Step"
+msgstr "步骤"
+
+msgid "Long comment"
+msgstr "长评"
+
+msgid "Subtitle"
+msgstr "副标题"
+
+msgid "Title"
+msgstr "标题"
+
+msgid "Please fill in a name and a phone or an e-mail."
+msgstr "请填写姓名、电话和邮箱"
+
+msgid "Passwords do not match, please retype"
+msgstr "密码不正确，请重新输入"
+
+msgid "Please change your password"
+msgstr "请更改密码"
+
+msgid "New password should not be same as old password"
+msgstr "新密码不能与前密码相同"
+
+msgid "Add opening hours"
+msgstr "添加开放时间"
+
+msgid "Ref"
+msgstr "房产参考"
+
+msgid "Personal"
+msgstr "个人"
+
+msgid ""
+"Please note that there are dependencies, please select a contact for "
+"completing the data transfer."
+msgstr "请注意，必须要选择一个联系人才能完成数据传送。"
+
+msgid "The installation can take several minutes, please come back later."
+msgstr "安装需要几分钟时间，请稍后回到这里。"
+
+msgid "Your contact speaks %s, would you like to change the language?"
+msgstr "您的联系人使用的是......，您是否要更改语言？"
+
+msgid "Would you like to publish on the homepage?"
+msgstr "你想发布在主页上？"
+
+msgid "<b>Warning :</b> there is an error, please check each fields."
+msgstr "<b>警告：</b> 发生错误，请检查每个字段。"
+
+msgid "Price/sq m"
+msgstr "价格/平方米"
+
+msgid "today"
+msgstr "今日"
+
+msgid "week"
+msgstr "周"
+
+msgid "from %from_value% to %to_value%"
+msgstr "从 %from_value% 到 %to_value%"
+
+msgid "Page"
+msgstr "页"
+
+msgid "Action"
+msgstr "行动"
+
+msgid "Agencies"
+msgstr ">代理处"
+
+msgid "Context"
+msgstr "背景"
+
+msgid "More criteria"
+msgstr "更多标准"
+
+msgid "Criteria"
+msgstr "标准"
+
+msgid "Classification"
+msgstr "分类"
+
+msgid "metres"
+msgstr "米"
+
+msgid "Window"
+msgstr "窗户"
+
+msgid "Stock area"
+msgstr "存货区"
+
+msgid "Sales area"
+msgstr "销售区"
+
+msgid "Sale price"
+msgstr "售价"
+
+msgid "from %from_date% to %to_date%"
+msgstr "从 %from_date% 到 %to_date%"
+
+msgid "sq m"
+msgstr "平方米"
+
+msgid "Private comment"
+msgstr "私人的 评论"
+
+msgid "Private"
+msgstr "私人的"
+
+msgid "Level"
+msgstr "楼层"
+
+msgid "Exchange"
+msgstr "转移"
+
+msgid "by"
+msgstr "通过"
+
+msgid "n.a"
+msgstr "n.a"
+
+msgid "Elevator"
+msgstr "电梯"
+
+msgid "no"
+msgstr "不"
+
+msgid "yes"
+msgstr "是"
+
+msgid "Printed with care"
+msgstr "小心印刷"
+
+msgid "Please do not litter on public way"
+msgstr "请勿在公共通道乱扔纸屑"
+
+msgid "Non-contractual information"
+msgstr "非合同信息"
+
+msgid "Agency fees"
+msgstr "中介费"
+
+msgid "Agency fees included"
+msgstr "包括中介费"
+
+msgid "Agency fees not included"
+msgstr "不包括中介费"
+
+msgid "Personal property tax"
+msgstr "个人房产税"
+
+msgid "Property tax"
+msgstr "房产税"
+
+msgid "Style"
+msgstr "风格"
+
+msgid "Window card"
+msgstr "展示列表"
+
+msgid "Private sheet"
+msgstr "私人列表"
+
+msgid "Public sheet"
+msgstr "公开列表"
+
+msgid "Language"
+msgstr "语言"
+
+msgid "Cart"
+msgstr "篮子"
+
+msgid "Land type"
+msgstr "土地类型"
+
+msgid "Property agent"
+msgstr "房产中介"
+
+msgid "Account"
+msgstr "账户"
+
+msgid "End at"
+msgstr "End at"
+
+msgid "Close at"
+msgstr "结束日期"
+
+msgid "Start at"
+msgstr "开始日期"
+
+msgid "Guarantee"
+msgstr "担保"
+
+msgid "Edit"
+msgstr "修改"
+
+msgid "Inter-agencies"
+msgstr "国际代理"
+
+msgid "Number of floors"
+msgstr "楼层数"
+
+msgid "Selection"
+msgstr "选型"
+
+msgid "Evaluated price"
+msgstr "估价"
+
+msgid "Seller's commission"
+msgstr "业主中介佣金"
+
+msgid "Buyer's commission"
+msgstr "客户中介佣金"
+
+msgid "Commission"
+msgstr "佣金"
+
+msgid "Origin"
+msgstr "来源"
+
+msgid "Specific origin"
+msgstr "具体来源"
+
+msgid "Flooring"
+msgstr "地板覆盖层"
+
+msgid "Publications"
+msgstr "公布"
+
+msgid "Send to contact"
+msgstr "发送给联系人"
+
+msgid "No results found"
+msgstr "未找到结果"
+
+msgid "result"
+msgstr "结果"
+
+msgid "Advertiser"
+msgstr "广告客户"
+
+msgid "Active"
+msgstr "活性"
+
+msgid "Confidential"
+msgstr "机密"
+
+msgid "Activity"
+msgstr "活动"
+
+msgid "Companies"
+msgstr "企业"
+
+msgid "Save"
+msgstr "登记"
+
+msgid "Succession"
+msgstr "遗产"
+
+msgid "Please fill in a city."
+msgstr "请填写城市"
+
+msgid "Please fill"
+msgstr "请填写"
+
+msgid "The email address is invalid."
+msgstr "邮箱地址无效。"
+
+msgid "Rights"
+msgstr "权限"
+
+msgid "Since"
+msgstr "自"
+
+msgid "Filter"
+msgstr "筛选"
+
+msgid "Min"
+msgstr "最低"
+
+msgid "Max"
+msgstr "最高"
+
+msgid "Lessor"
+msgstr "出租人"
+
+msgid "Lessee"
+msgstr "承租人"
+
+msgid "Booking"
+msgstr "订房"
+
+msgid "Bed"
+msgstr "床"
+
+msgid "Cleaning price"
+msgstr "清洁费"
+
+msgid "Availabilities"
+msgstr "可用资金"
+
+msgid "Sent"
+msgstr "送"
+
+msgid "years"
+msgstr "年"
+
+msgid "month"
+msgstr "月"
+
+msgid "Season"
+msgstr "季节"
+
+msgid "Todo"
+msgstr "备忘录"
+
+msgid "Brand"
+msgstr "品牌"
+
+msgid "Publicated at"
+msgstr "发布到"
+
+msgid "Network"
+msgstr "集合"
+
+msgid "Bank"
+msgstr "银行"
+
+msgid "Brief comment"
+msgstr "短评"
+
+msgid "Delivery at"
+msgstr "交付时间"
+
+msgid "Reason"
+msgstr "原因"
+
+msgid "What's new"
+msgstr "最新消息"
+
+msgid "request"
+msgstr "要求"
+
+msgid "Current rent"
+msgstr "当前租金"
+
+msgid "property"
+msgstr "产品"
+
+msgid "Bill"
+msgstr "发票"
+
+msgid "Calculator"
+msgstr "计算器"
+
+msgid "Birthplace"
+msgstr "出生地"
+
+msgid "Birthday"
+msgstr "生日"
+
+msgid "Required."
+msgstr "必填"
+
+msgid "Seasonal"
+msgstr "季节性的"
+
+msgid "Spoken languages"
+msgstr "口语"
+
+msgid "Number of children"
+msgstr "孩子数目"
+
+msgid "Hotline"
+msgstr "热线"
+
+msgid "Re-type password"
+msgstr "重新输入密码"
+
+msgid "Public longitude"
+msgstr "显示经度"
+
+msgid "Public latitude"
+msgstr "显示纬度"
+
+msgid "Access denied"
+msgstr "拒绝访问"
+
+msgid "Access"
+msgstr "访问"
+
+msgid "Launch"
+msgstr "发射"
+
+msgid "Shortcuts"
+msgstr "捷径"
+
+msgid "e-mailing"
+msgstr "发送邮件"
+
+msgid "SEO"
+msgstr "搜尋引擎最佳化"
+
+msgid "Market value"
+msgstr "市场价值"
+
+msgid "Price contribution"
+msgstr "初始价格"
+
+msgid "Sharing"
+msgstr "分享"
+
+msgid "Show more results"
+msgstr "显示更多结果"
+
+msgid "Close"
+msgstr "关"
+
+msgid "Hide"
+msgstr "隐藏"
+
+msgid "Keywords"
+msgstr "关键词"
+
+msgid "Corporate register"
+msgstr "公司註冊處"
+
+msgid "Expired soon"
+msgstr "快过期"
+
+msgid "Expired"
+msgstr "过期"
+
+msgid "Agreement"
+msgstr "委托"
+
+msgid "Agreement number"
+msgstr "数委托"
+
+msgid "What's on your mind?"
+msgstr "您的想法是什么？"
+
+msgid "Buyer"
+msgstr "顾客"
+
+msgid "Message sent"
+msgstr "发送讯息"
+
+msgid "Limit"
+msgstr "限度"
+
+msgid "Publish"
+msgstr "发表"
+
+msgid "Do not publish"
+msgstr "不发布"
+
+msgid "Already suggested"
+msgstr "已经建议"
+
+msgid "To suggest"
+msgstr "新建议"
+
+msgid "Diagnostics"
+msgstr "诊断"
+
+msgid "Footer"
+msgstr "页脚"
+
+msgid "Header"
+msgstr "页眉"
+
+msgid "Serviced plot"
+msgstr "已服务的地块（水电等）"
+
+msgid "Net floor area"
+msgstr "净面积"
+
+msgid "Sold price"
+msgstr "售出价格"
+
+msgid "Sold at"
+msgstr "售出时间"
+
+msgid "Preview"
+msgstr "预览"
+
+msgid "Payments"
+msgstr "付款"
+
+msgid "Reopen"
+msgstr "重新开放"
+
+msgid "Callback"
+msgstr "召回"
+
+msgid "Callbacks"
+msgstr "召回数"
+
+msgid "Total"
+msgstr "总数"
+
+msgid "Coagent"
+msgstr "合作中介"
+
+msgid "Residence"
+msgstr "住宅"
+
+msgid "Characteristics"
+msgstr "特点"
+
+msgid "Subscribe to the newsletter"
+msgstr "订阅时事通讯"
+
+msgid "Price min"
+msgstr "价格最低"
+
+msgid "Price max"
+msgstr "价格最高"
+
+msgid "SMS"
+msgstr "簡訊"
+
+msgid "%s unit"
+msgstr "%s 地块"
+
+msgid "Not suggested"
+msgstr "不建议"
+
+msgid "%s guest"
+msgstr "%s 客人"
+
+msgid "%s bed"
+msgstr "%s 床"
+
+msgid "%s bathrooms"
+msgstr "%s 浴室"
+
+msgid "Toilet"
+msgstr "厕所"
+
+msgid "Show pagination"
+msgstr "显示分页"
+
+msgid "Mandatory fields"
+msgstr "强制填写字段"
+
+msgid "HD Photo"
+msgstr "HD Photo"
+
+msgid "Contract end at"
+msgstr "合同结束于"
+
+msgid "Location Map"
+msgstr "位置地图"
+
+msgid "User Detail"
+msgstr "用户详情"
+
+msgid "File size"
+msgstr "文件大小"
+
+msgid "File title"
+msgstr "文件标题"
+
+msgid "Region"
+msgstr "地区"
+
+msgid "Bath"
+msgstr "浴室"
+
+msgid "Private Negotiation"
+msgstr "私下谈判"
+
+msgid "Property specifications"
+msgstr "物业规格"
+
+msgid "Energy performance"
+msgstr "能源性能"
+
+msgid "Media Details"
+msgstr "媒体详情"
+
+msgid "View Video"
+msgstr "观看视频"
+
+msgid "Start Date"
+msgstr "开始日期"
+
+msgid "End Date"
+msgstr "结束日期"
+
+msgid "Welcome"
+msgstr "欢迎"
+
+msgid "See What’s happening with Apimo Plugin."
+msgstr "查看Apimo插件的最新动态。"
+
+msgid "PROVIDERS"
+msgstr "供应商"
+
+msgid "AGENCIES"
+msgstr "机构"
+
+msgid "PROPERTIES"
+msgstr "属性"
+
+msgid "BOOKMARK"
+msgstr "书签"
+
+msgid "Remove all"
+msgstr "移除所有"
+
+msgid "Apply filter"
+msgstr "应用过滤器"
+
+msgid "Select Subtype"
+msgstr "选择子类型"
+
+msgid "Enchère"
+msgstr "拍卖"
+
+msgid "Location"
+msgstr "租赁"
+
+msgid "Location saisonnière"
+msgstr "季节性租赁"
+
+msgid "From"
+msgstr "从"
+
+msgid "To"
+msgstr "至"
+
+msgid "Dates"
+msgstr "日期"
+
+msgid "Select country"
+msgstr "选择国家"
+
+msgid "Select region"
+msgstr "选择地区"
+
+msgid "Select district"
+msgstr "选择区"
+
+msgid "Select city"
+msgstr "选择城市"
+
+msgid "Good"
+msgstr "好的"
+
+msgid "Bad"
+msgstr "坏的"
+
+msgid "hello"
+msgstr "你好"
+
+msgid "Available Integrations"
+msgstr "可用集成"
+
+msgid "reCAPTCHA Detected"
+msgstr "检测到了recaptcha"
+
+msgid "reCAPTCHA Not Detected"
+msgstr "未检测到recaptcha"
+
+msgid "Google reCAPTCHA Integration"
+msgstr "Google recaptcha集成"
+
+msgid ""
+"Protect your forms from spam and abuse with Google reCAPTCHA integration."
+msgstr "通过Google Recaptcha集成保护您的表格免受垃圾邮件的侵害和滥用。"
+
+msgid "Activate Integration"
+msgstr "激活集成"
+
+msgid "Deactivate Integration"
+msgstr "停用整合"
+
+msgid "reCAPTCHA Configuration"
+msgstr "recaptcha配置"
+
+msgid "Please configure your reCAPTCHA keys below to complete the setup."
+msgstr "请在下面配置您的recaptcha键以完成设置。"
+
+msgid "To complete the reCAPTCHA setup:"
+msgstr "要完成recaptcha设置："
+
+msgid "Go to the"
+msgstr "去"
+
+msgid "Google reCAPTCHA Admin Console"
+msgstr "Google Recaptcha管理员控制台"
+
+msgid "Register your site and get your Site Key and Secret Key"
+msgstr "注册您的网站并获取您的网站密钥和秘密密钥"
+
+msgid "Enter the keys below to activate reCAPTCHA"
+msgstr "输入下面的钥匙以激活recaptcha"
+
+msgid "reCAPTCHA is configured properly."
+msgstr "recaptcha配置正确。"
+
+msgid "Site Key"
+msgstr "站点密钥"
+
+msgid "Secret Key"
+msgstr "秘密钥匙"
+
+msgid "Save Configuration"
+msgstr "保存配置"
+
+msgid "Contact Form"
+msgstr "接触表格"
+
+msgid "Invalid format"
+msgstr "无效格式"
+
+msgid "This field is required"
+msgstr "此字段是必需的"
+
+msgid "Invalid email format"
+msgstr "无效的电子邮件格式"
+
+msgid "Send"
+msgstr "发送"
+
+msgid "Please use reCAPTCHA version 3"
+msgstr "请使用recaptcha版本3"

@@ -1,0 +1,4302 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: lo_LA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.1\n"
+
+msgid "Reminder"
+msgstr "ເຕືອນ"
+
+msgid "Suggestion"
+msgstr "ແນະນຳ"
+
+msgid "Report"
+msgstr "ລາຍງານ"
+
+msgid "Other"
+msgstr "ອື່ນໆ"
+
+#, fuzzy
+msgid "Valuation"
+msgstr ""
+"#-#-#-#-#  apimo-lo_LA.po  #-#-#-#-#\n"
+"ປະເມີນລາຄາ\n"
+"#-#-#-#-#  apimo-lo_LA.po  #-#-#-#-#\n"
+"ການປະເມີນ\n"
+"#-#-#-#-#  apimo-lo_LA.po  #-#-#-#-#\n"
+"ການປະເມີນ"
+
+#, fuzzy
+msgid "Advertising"
+msgstr ""
+"#-#-#-#-#  apimo-lo_LA.po  #-#-#-#-#\n"
+"ລົງໂຄສະນາ\n"
+"#-#-#-#-#  apimo-lo_LA.po  #-#-#-#-#\n"
+"ການໂຄສະນາ"
+
+msgid "Canvassing"
+msgstr "ການກວດສອບ"
+
+msgid "Message"
+msgstr "ຂໍ້ຄວາມ"
+
+msgid "After-sales"
+msgstr "ຫຼັງການຂາຍ"
+
+msgid "Visit"
+msgstr "ທ່ອງທ່ຽວ"
+
+msgid "Appointment"
+msgstr "ເວລານັດໝາຍ"
+
+#, fuzzy
+msgid "Phone"
+msgstr ""
+"#-#-#-#-#  apimo-lo_LA.po  #-#-#-#-#\n"
+"ເບີໂທ\n"
+"#-#-#-#-#  apimo-lo_LA.po  #-#-#-#-#\n"
+"ໂທລະສັບ\n"
+"#-#-#-#-#  apimo-lo_LA.po  #-#-#-#-#\n"
+"ໂທ"
+
+msgid "e-mail"
+msgstr "ອີເມວ"
+
+msgid "Fax"
+msgstr "ແຟັກ"
+
+msgid "Mail"
+msgstr "ເມວ"
+
+msgid "SMS"
+msgstr "ຂໍ້ຄວາມ"
+
+msgid "Project"
+msgstr "ໂຄງການ"
+
+msgid "Under construction"
+msgstr "ກໍາລັງກໍ່ສ້າງ"
+
+msgid "Delivered"
+msgstr "ຖືກໂອນກໍາມະສິດ"
+
+msgid "Ended"
+msgstr "ສໍາເລັດແລ້ວ"
+
+msgid "Canceled"
+msgstr "ຖືກຍົກເລີກ"
+
+msgid "Sir"
+msgstr "ທ່ານ"
+
+msgid "Mrs."
+msgstr "ທ່ານນາງ"
+
+msgid "Ms."
+msgstr "ນາງສາວ"
+
+msgid "Mr. & Mrs."
+msgstr "ທ່ານຊາຍ & ທ່ານຍິງ"
+
+msgid "Sheik"
+msgstr "ຊີກ"
+
+msgid "Duke"
+msgstr "ເຈົ້າຄອງເມືອງ"
+
+msgid "Duchess"
+msgstr "ເມຍຂອງທ່ານດີວຄ"
+
+msgid "Lord"
+msgstr "ພະເຈົ້າ"
+
+msgid "Professor"
+msgstr "ສາສະດາຈານ"
+
+msgid "Regulations"
+msgstr "ຂໍ້ກຳນົດ"
+
+msgid "AML/KYC Vendor"
+msgstr "AML/KYC Vendor"
+
+msgid "AML/KYC Buyer"
+msgstr "AML/KYC Buyer"
+
+msgid "Concierge"
+msgstr "ຄົນເຝົ້າປະຕູ"
+
+msgid "Contact"
+msgstr "ຕິດຕໍ່ເຮົາ"
+
+msgid "Search"
+msgstr "ຂໍ້້ມູນເພີ່ມເຕີມ"
+
+msgid "Owner"
+msgstr "ຂາຍ"
+
+msgid "e-mail alert"
+msgstr "ແຈ້ງເຕືອນທາງອີເມວ"
+
+msgid "Send to a friend"
+msgstr "ແບ່ງປັນກັບເພື່ອນ"
+
+msgid "Newsletter"
+msgstr "ຈົດໝາຍຂ່າວ"
+
+#, fuzzy
+msgid "Selection"
+msgstr ""
+"#-#-#-#-#  apimo-lo_LA.po  #-#-#-#-#\n"
+"ເລືອກ\n"
+"#-#-#-#-#  apimo-lo_LA.po  #-#-#-#-#\n"
+"ການຄັດເລືອກ"
+
+#, fuzzy
+msgid "New"
+msgstr ""
+"#-#-#-#-#  apimo-lo_LA.po  #-#-#-#-#\n"
+"ໃຫມ່\n"
+"#-#-#-#-#  apimo-lo_LA.po  #-#-#-#-#\n"
+"ໃໝ່\n"
+"#-#-#-#-#  apimo-lo_LA.po  #-#-#-#-#\n"
+"ໃໝ່"
+
+msgid "Opened"
+msgstr "ໄດ້ເປີດແລ້ວ"
+
+msgid "Processing"
+msgstr "ກໍາລັງດໍາເນີນການ"
+
+#, fuzzy
+msgid "Closed"
+msgstr ""
+"#-#-#-#-#  apimo-lo_LA.po  #-#-#-#-#\n"
+"ປິດແລ້ວ\n"
+"#-#-#-#-#  apimo-lo_LA.po  #-#-#-#-#\n"
+"ປິດແລ້ວ\n"
+"#-#-#-#-#  apimo-lo_LA.po  #-#-#-#-#\n"
+"ປີດ"
+
+msgid "Bakery"
+msgstr "ຮ້ານເຂົ້າໜົມປັງ"
+
+msgid "Restaurant"
+msgstr "ຮ້ານອາຫານ"
+
+msgid "Press"
+msgstr "ກົດປຸ່ມ"
+
+msgid "Florist"
+msgstr "ຮ້ານຂາຍດອກໄມ້"
+
+msgid "Tobacconist"
+msgstr "ຂາຍຢາສູບ"
+
+msgid "Clothes"
+msgstr "ເສື້ອຜ້າ"
+
+msgid "Drugstore"
+msgstr "ຮ້ານຂາຍຢາ"
+
+msgid "Shopping centre"
+msgstr "ສູນການຄ້າ"
+
+msgid "Travel agency"
+msgstr "ບໍລິສັດທ່ອງທ່ຽວ"
+
+msgid "Real estate agent"
+msgstr "ນາຍໜ້າອະສັງຫາ"
+
+msgid "Garage"
+msgstr "ບ່ອນໄວ້ລົດ"
+
+msgid "Insurer"
+msgstr "ຜູ້ຮັບປະກັນໄພ"
+
+msgid "Optician"
+msgstr "ຊ່າງເຮັດແວ່ນຕາ"
+
+msgid "Perfumery"
+msgstr "ຮ້ານຂາຍນ້ຳຫອມ"
+
+msgid "Hotel"
+msgstr "ໂຮງແຮມ"
+
+msgid "Antique dealer"
+msgstr "ຕົວແທນຈຳໜ່າຍເຄື່ອງບູຮານ"
+
+msgid "Laundry"
+msgstr "ຮ້ານຊັກລີດ"
+
+msgid "Pressing"
+msgstr "ດ່ວນ"
+
+msgid "Jeweller"
+msgstr "ເຄື່ອງປະດັບເພັດ"
+
+msgid "Grocery"
+msgstr "ຮ້ານຂາຍເຄື່ອງ"
+
+msgid "Butcher"
+msgstr "ຮ້ານຂາຍຊີ້ນ"
+
+msgid "Caterer"
+msgstr "ຄົນຂາຍອາຫານ"
+
+msgid "Brewery"
+msgstr "ຮ້ານຂາຍແບຍ"
+
+msgid "Snack"
+msgstr "ຮ້ານຂາຍເຂົ້າໜົມ"
+
+msgid "Confectioner"
+msgstr "ຮ້ານຂາຍເຂົ້າໜົມອົມ"
+
+msgid "Pork butcher"
+msgstr "ຮ້ານຂາຍຊີ້ນໝູ"
+
+msgid "Cheesemonger"
+msgstr "ຮ້ານຂາຍເນີຍ"
+
+msgid "Fruit and vegetables"
+msgstr "ຮ້ານຂາຍໝາກໄມ້ ແລະ ຜັກ"
+
+msgid "Video game"
+msgstr "ຮ້ານຂາຍເກມ"
+
+msgid "Computer"
+msgstr "ຄອມພິວເຕີ"
+
+msgid "Hairdresser"
+msgstr "ຊ່າງເຮັດຜົມ"
+
+msgid "Cosmetician"
+msgstr "ຄົນເຮັດເຄື່ອງສຳອາງ"
+
+msgid "Household electrical"
+msgstr "ເຄື່ອງໃຊ້ໄຟຟ້າ"
+
+msgid "Shoes"
+msgstr "ເກີບ"
+
+msgid "Haberdasher"
+msgstr "ຄົນຂາຍເຄື່ອງແຕ່ງໂຕຜູ້ຊາຍ"
+
+msgid "Groomer"
+msgstr "ຊ່າງຕັດຂົນ"
+
+msgid "Beach"
+msgstr "ຊາຍຫາດ"
+
+msgid "Bookshop"
+msgstr "ຮ້ານຂາຍໜັງສື"
+
+msgid "Offices"
+msgstr "ຫ້ອງການ"
+
+msgid "Gas station"
+msgstr "ປ້ຳນຳມັນ"
+
+msgid "Pet store"
+msgstr "ຮ້ານຂາຍສັດລ້ຽງ"
+
+msgid "Office supplies"
+msgstr "ເຄື່ອງໃຊ້ຫ້ອງການ"
+
+msgid "Furniture"
+msgstr "ເຄື່ອງເຮືອນ"
+
+#, fuzzy
+msgid "Decoration"
+msgstr ""
+"#-#-#-#-#  apimo-lo_LA.po  #-#-#-#-#\n"
+"ການຕົບແຕ່ງ\n"
+"#-#-#-#-#  apimo-lo_LA.po  #-#-#-#-#\n"
+"ຕົບແຕ່ງ"
+
+msgid "Agriculture"
+msgstr "ກະສິກຳ"
+
+msgid "Photo"
+msgstr "ຮູບພາບ"
+
+msgid "Locksmith"
+msgstr "ຊ່າງຊ່ຽນກຸນແຈ"
+
+msgid "Hardware shop"
+msgstr "ຮ້ານຂາຍວັດສະດຸກໍ່ສ້າງ"
+
+msgid "Fishmongers"
+msgstr "ຄົນຂາຍປາ"
+
+msgid "Sport supplies"
+msgstr "ອຸປະກອນກິລາ"
+
+msgid "Bedroom"
+msgstr "ຫ້ອງນອນ"
+
+msgid "Living-room"
+msgstr "ຫ້ອງນັ່ງຫຼິ້ນ"
+
+msgid "Kitchen"
+msgstr "ຫ້ອງຄົວ"
+
+#, fuzzy
+msgid "Parking"
+msgstr ""
+"#-#-#-#-#  apimo-lo_LA.po  #-#-#-#-#\n"
+"ບ່ອນຈອດລົດ\n"
+"#-#-#-#-#  apimo-lo_LA.po  #-#-#-#-#\n"
+"ບ່ອນ​ຈອດ​ລົດ\n"
+"#-#-#-#-#  apimo-lo_LA.po  #-#-#-#-#\n"
+"ບ່ອນ​ຈອດ​ລົດ"
+
+msgid "Cellar"
+msgstr "ຫ້ອງໃຕ້ດິນ"
+
+msgid "Bathroom / Lavatory"
+msgstr "ຫ້ອງນ້ຳ"
+
+msgid "Laundry room"
+msgstr "ຫ້ອງຊັກລີດ"
+
+msgid "Study"
+msgstr "ສຶກສາ"
+
+msgid "Hallway"
+msgstr "ຫ້ອງໂຖງ"
+
+msgid "Corridor"
+msgstr "ທາງຍ່າງ"
+
+msgid "Entrance"
+msgstr "ທາງເຂົ້າ"
+
+msgid "Balcony"
+msgstr "ລະບຽງ"
+
+msgid "Living room/dining area"
+msgstr "ຫ້ອງນັ່ງຫຼິ້ນ/ບ່ອນກິນເຂົ້າ"
+
+msgid "Play room"
+msgstr "ຫ້ອງຫຼິ້ນເດັກນ້ອຍ"
+
+msgid "Dining room"
+msgstr "ຫ້ອງຮັບປະທານອາຫານ"
+
+msgid "Pool house"
+msgstr "ສະລອຍນ້ຳ"
+
+msgid "Cupboard"
+msgstr "ຕູ້ຖ້ວຍຊາມ"
+
+msgid "Not used"
+msgstr "ບໍ່ໃຊ້ງານ"
+
+msgid "Attic"
+msgstr "ຫ້ອງເທິງເພດານ"
+
+msgid "Maintenance room"
+msgstr "ຫ້ອງບຳລຸງຮັກສາ"
+
+msgid "Workshop"
+msgstr "ຫ້ອງເຮັດວຽກ"
+
+msgid "Studio"
+msgstr "ສະຕູດິໂອ"
+
+msgid "Loft"
+msgstr "ຫ້ອງເພດານ"
+
+msgid "Library"
+msgstr "ຫ້ອງສະໝຸດ"
+
+msgid "Closet"
+msgstr "ຕູ້ໃສ່ເຄື່ອງ"
+
+msgid "Courtyard"
+msgstr "ເດີ່ນບ້ານ"
+
+msgid "Linen room"
+msgstr "ຫ້ອງຜ້າປູບ່ອນ"
+
+#, fuzzy
+msgid "Basement"
+msgstr ""
+"#-#-#-#-#  apimo-lo_LA.po  #-#-#-#-#\n"
+"ຊັ້ນໃຕ້ດິນ\n"
+"#-#-#-#-#  apimo-lo_LA.po  #-#-#-#-#\n"
+"ຫ້ອງໃຕ້ດີນ"
+
+msgid "Shower room / Lavatory"
+msgstr "ຫ້ອງອາບນ້ຳ"
+
+msgid "Exercise room"
+msgstr "ຫ້ອງອອກກຳລັງກາຍ"
+
+msgid "Double reception room"
+msgstr "ຫ້ອງຮັບແຂກ"
+
+msgid "Stockroom"
+msgstr "ຫ້ອງເກັບເຄື່ອງ"
+
+msgid "Garden"
+msgstr "ສວນ"
+
+msgid "Park"
+msgstr "ສວນສາທາລະນະ"
+
+msgid "Land"
+msgstr "ທີ່ດິນ"
+
+msgid "Principal bedroom"
+msgstr "ຫ້ອງນອນຂະໜາດໃຫຍ່"
+
+msgid "Suite"
+msgstr "ຫ້ອງສະຫວີດ"
+
+msgid "Shed"
+msgstr "ລົດບ້ານ"
+
+msgid "Apartment"
+msgstr "ອາພາດເມັນ"
+
+msgid "Cabin"
+msgstr "ຕູບ"
+
+msgid "Barn"
+msgstr "ເລົ້າເຂົ້າ"
+
+msgid "Bike storage room"
+msgstr "ບ່ອນໄວ້ລົດຈັກ"
+
+msgid "Ski storage room"
+msgstr "ບ່ອນໄວ້ສະກີ"
+
+msgid "Garbage room"
+msgstr "ບ່ອນໄວ້ລົດ"
+
+msgid "Indoor swimming pool"
+msgstr "ສະລອຍນ້ຳໃນຮົ່ມ"
+
+msgid "Prayer room"
+msgstr "ຫ້ອງສວດມົນ"
+
+#, fuzzy
+msgid "Sauna"
+msgstr ""
+"#-#-#-#-#  apimo-lo_LA.po  #-#-#-#-#\n"
+"ຮົມຢາ\n"
+"#-#-#-#-#  apimo-lo_LA.po  #-#-#-#-#\n"
+"ຫ້ອງອົບອາຍນໍ້າ"
+
+msgid "Watchtower"
+msgstr "ຫໍຄອຍ"
+
+msgid "Room"
+msgstr "ຫ້ອງ"
+
+msgid "Meeting room"
+msgstr "ຫ້ອງປະຊຸມ"
+
+msgid "Maid's room"
+msgstr "ຫ້ອງພັກແມ່ບ້ານ"
+
+msgid "Maid's studio"
+msgstr "ຫ້ອງເກັບອຸປະກອນທຳຄວາມສະອາດ"
+
+msgid "Triple reception room"
+msgstr "ຫ້ອງນອນລວມ"
+
+msgid "Indoor parking"
+msgstr "ບ່ອນຈອດລົດໃນຮົ່ມ"
+
+msgid "Outdoor parking"
+msgstr "ບ່ອນຈອດລົດກາງແຈ້ງ"
+
+msgid "Shop"
+msgstr "ຮ້ານຄ້າ"
+
+msgid "Cafeteria"
+msgstr "ໂຮງອາຫານ"
+
+#, fuzzy
+msgid "Unit"
+msgstr ""
+"#-#-#-#-#  apimo-lo_LA.po  #-#-#-#-#\n"
+"ສ່ວນ\n"
+"#-#-#-#-#  apimo-lo_LA.po  #-#-#-#-#\n"
+"ຫຼວງຫຼາຍ"
+
+msgid "Warehouse"
+msgstr "ໂກດັງສິນຄ້າ"
+
+msgid "Accommodation"
+msgstr "ສິ່ງອຳນວຍຄວາມສະດວກ"
+
+msgid "Arcade"
+msgstr "ອາເຂດ"
+
+msgid "House"
+msgstr "ບ້ານ"
+
+msgid "Stair"
+msgstr "ຂັ້ນໃດ"
+
+msgid "Box"
+msgstr "ກ່ອງ"
+
+msgid "Single"
+msgstr "ດ່ຽວ"
+
+msgid "Twin"
+msgstr "ແຝດ"
+
+msgid "Twin by garage"
+msgstr "ອູ່ລົດແຝດ"
+
+msgid "Village house"
+msgstr "ບ້ານຈັດສັນ"
+
+msgid "Twin by angle"
+msgstr "ມູມແຝດ"
+
+msgid "Ranged"
+msgstr "ຢູ່ໃນຊ່ວງ"
+
+msgid "Standard"
+msgstr "ມາດຕະຖານ"
+
+msgid "Co-exclusive"
+msgstr "ຮ່ວມມືກັນ"
+
+msgid "Exclusive"
+msgstr "ສະເພາະຕົວ"
+
+msgid "Delegation"
+msgstr "ກຸ່ມຕົວແທນ"
+
+msgid "Exclusive agent"
+msgstr "ນາຍໜ້າສະເພາະ"
+
+msgid "Colleague"
+msgstr "ເພື່ອນຮ່ວມງານ"
+
+msgid "Free"
+msgstr "ຟຣີ"
+
+msgid "Rented"
+msgstr "ເຊົ່າ"
+
+msgid "Occupied"
+msgstr "ເຂົ້າພັກ"
+
+msgid "Building"
+msgstr "ອາຄານ"
+
+#, fuzzy
+msgid "Residence"
+msgstr ""
+"#-#-#-#-#  apimo-lo_LA.po  #-#-#-#-#\n"
+"ບ່ອນຢູ່\n"
+"#-#-#-#-#  apimo-lo_LA.po  #-#-#-#-#\n"
+"ທີ່ຢູ່ອາໄສ"
+
+msgid "Housing scheme"
+msgstr "ບ້ານຈັດສັນ"
+
+msgid "Hamlet"
+msgstr "ຕູບນ້ອຍ"
+
+msgid "Domain"
+msgstr "ກຳມະສິດ"
+
+msgid "Property"
+msgstr "ອະສັງຫາ"
+
+msgid "Street"
+msgstr "ຖະໜົນ"
+
+msgid "Sale"
+msgstr "ຂາຍ"
+
+msgid "Rental"
+msgstr "ເຊົ່າ"
+
+msgid "Seasonal rental"
+msgstr "ເຊົ່າຕາມລະດູການ"
+
+msgid "Development"
+msgstr "ພັດທະນາ"
+
+#, fuzzy
+msgid "Life annuity"
+msgstr ""
+"#-#-#-#-#  apimo-lo_LA.po  #-#-#-#-#\n"
+"ເບ້ຍບຳນານ\n"
+"#-#-#-#-#  apimo-lo_LA.po  #-#-#-#-#\n"
+"ປະກັນຊີວິດ\n"
+"#-#-#-#-#  apimo-lo_LA.po  #-#-#-#-#\n"
+"ເງິນປະກັນຊີວິດ"
+
+msgid "Auction"
+msgstr "ຂາຍປະມູນ"
+
+msgid "Unit sale"
+msgstr "ຫົວໜ່ວຍການຂາຍ"
+
+msgid "Bulk sale"
+msgstr "ການຂາຍເປັນກຸ່ມ"
+
+msgid "Unfurnished"
+msgstr "ບໍ່ໄດ້ຕົບແຕ່ງ"
+
+msgid "Furnished"
+msgstr "ຕົບແຕ່ງແລ້ວ"
+
+msgid "Roommate"
+msgstr "ເພື່ອນຮ່ວມຫ້ອງ"
+
+msgid "Student"
+msgstr "ນັກສຶກສາ"
+
+msgid "Holidays"
+msgstr "ມື້ພັກ"
+
+#, fuzzy
+msgid "Event"
+msgstr ""
+"#-#-#-#-#  apimo-lo_LA.po  #-#-#-#-#\n"
+"ເຫດການ\n"
+"#-#-#-#-#  apimo-lo_LA.po  #-#-#-#-#\n"
+"ງານ"
+
+msgid "New construction"
+msgstr "ການກໍ່ສ້າງໃຫມ່"
+
+msgid "Life annuity occupied"
+msgstr "ເງິນປະກັນຊີວິດ"
+
+msgid "Bare Ownership"
+msgstr "ບໍ່ມີກຳມະສິດ"
+
+msgid "Forward sale"
+msgstr "ການຂາຍຕໍ່"
+
+msgid "Life annuity semi-occupied"
+msgstr "ເງິນປະກັນຊີວິດເຄິ່ງໜຶ່ງ"
+
+msgid "Forward sale available"
+msgstr "ສາມາດຂາຍຕໍ່ໄດ້"
+
+msgid "Forward sale semi-occupied"
+msgstr "ມີການຂາຍຕໍ່ເຄີ່ງໜຶ່ງ"
+
+msgid "Forward sale occupied"
+msgstr "ມີການຂາຍຕໍ່"
+
+msgid "Life annuity without income"
+msgstr "ເງິນປະກັນຊີວິດທີ່ບໍ່ມີລາຍໄດ້"
+
+msgid "Requires updating"
+msgstr "ລາຍການຕ້ອງອັບເດດ"
+
+msgid "Good condition"
+msgstr "ສະພາບດີ"
+
+msgid "Requires renovation"
+msgstr "ໃຫ້ຊ້ອມແຊມໃຫມ່"
+
+msgid "Excellent condition"
+msgstr "ສະພາບດີຫຼາຍ"
+
+msgid "Ground floor"
+msgstr "ຊັ້ນ​ໃຕ້​ດິນ"
+
+msgid "Top floor"
+msgstr "ຊັ້ນເທີງ"
+
+msgid "1st"
+msgstr "ຊັ້ນທີ່ 1"
+
+msgid "2nd"
+msgstr "ຊັ້ນທີ່ 2"
+
+msgid "3rd"
+msgstr "ຊັ້ນທີ່ 3"
+
+msgid "4th"
+msgstr "ຊັ້ນທີ່ 4"
+
+msgid "5th"
+msgstr "ຊັ້ນທີ່ 5"
+
+msgid "6th"
+msgstr "ຊັ້ນທີ່ 6"
+
+msgid "7th"
+msgstr "ຊັ້ນທີ່ 7"
+
+msgid "8th"
+msgstr "ຊັ້ນທີ່ 8"
+
+msgid "9th"
+msgstr "ຊັ້ນທີ່ 9"
+
+msgid "10th"
+msgstr "ຊັ້ນທີ່ 10"
+
+msgid "11th"
+msgstr "ຊັ້ນທີ່ 11"
+
+msgid "12th"
+msgstr "ຊັ້ນທີ່ 12"
+
+msgid "13th"
+msgstr "ຊັ້ນທີ່ 13"
+
+msgid "14th"
+msgstr "ຊັ້ນທີ່ 14"
+
+msgid "15th"
+msgstr "ຊັ້ນທີ່ 15"
+
+msgid "16th"
+msgstr "ຊັ້ນທີ່ 16"
+
+msgid "17th"
+msgstr "ຊັ້ນທີ່ 17"
+
+msgid "18th"
+msgstr "ຊັ້ນທີ່ 18"
+
+msgid "19th"
+msgstr "ຊັ້ນທີ່ 19"
+
+msgid "20th"
+msgstr "ຊັ້ນທີ່ 20"
+
+msgid "Garden level"
+msgstr "ຊັ້ນສວນ"
+
+msgid "Split-level"
+msgstr "ຊັ້ນແຍກ"
+
+msgid "Single-storey"
+msgstr "ຊັ້ນດ່ຽວ"
+
+msgid "21st"
+msgstr "ຊັ້ນທີ 21"
+
+msgid "22nd"
+msgstr "ຊັ້ນທີ 22"
+
+msgid "23rd"
+msgstr "ຊັ້ນທີ 23"
+
+msgid "24th"
+msgstr "ຊັ້ນທີ 24"
+
+msgid "25th"
+msgstr "ຊັ້ນທີ 25"
+
+msgid "26th"
+msgstr "ຊັ້ນທີ 26"
+
+msgid "27th"
+msgstr "ຊັ້ນທີ 27"
+
+msgid "28th"
+msgstr "ຊັ້ນທີ 28"
+
+msgid "29th"
+msgstr "ຊັ້ນທີ 29"
+
+msgid "30th"
+msgstr "ຊັ້ນທີ 30"
+
+msgid "31st"
+msgstr "ຊັ້ນທີ 31"
+
+msgid "32nd"
+msgstr "ຊັ້ນທີ 32"
+
+msgid "33rd"
+msgstr "ຊັ້ນທີ 33"
+
+msgid "34th"
+msgstr "ຊັ້ນທີ 34"
+
+msgid "35th"
+msgstr "ຊັ້ນທີ 35"
+
+msgid "36th"
+msgstr "ຊັ້ນທີ 36"
+
+msgid "37th"
+msgstr "ຊັ້ນທີ 37"
+
+msgid "38th"
+msgstr "ຊັ້ນທີ 38"
+
+msgid "39th"
+msgstr "ຊັ້ນທີ 39"
+
+msgid "40th"
+msgstr "ຊັ້ນທີ 40"
+
+msgid "41st"
+msgstr "ຊັ້ນທີ 41"
+
+msgid "42nd"
+msgstr "ຊັ້ນທີ 42"
+
+msgid "43rd"
+msgstr "ຊັ້ນທີ 43"
+
+msgid "44th"
+msgstr "ຊັ້ນທີ 44"
+
+msgid "45th"
+msgstr "ຊັ້ນທີ 45"
+
+msgid "46th"
+msgstr "ຊັ້ນທີ 46"
+
+msgid "47th"
+msgstr "ຊັ້ນທີ 47"
+
+msgid "48th"
+msgstr "ຊັ້ນທີ 48"
+
+msgid "49th"
+msgstr "ຊັ້ນທີ 49"
+
+msgid "50th"
+msgstr "ຊັ້ນທີ 50"
+
+msgid "51st"
+msgstr "ຊັ້ນທີ 51"
+
+msgid "52nd"
+msgstr "ຊັ້ນທີ 52"
+
+msgid "53rd"
+msgstr "ຊັ້ນທີ 53"
+
+msgid "54th"
+msgstr "ຊັ້ນທີ 54"
+
+msgid "55th"
+msgstr "ຊັ້ນທີ 55"
+
+msgid "56th"
+msgstr "ຊັ້ນທີ 56"
+
+msgid "57th"
+msgstr "ຊັ້ນທີ 57"
+
+msgid "58th"
+msgstr "ຊັ້ນທີ 58"
+
+msgid "59th"
+msgstr "ຊັ້ນທີ 59"
+
+msgid "60th"
+msgstr "ຊັ້ນທີ 60"
+
+msgid "Wooden floor"
+msgstr "ພື້ນໄມ້"
+
+msgid "Tile"
+msgstr "ກາໂລ່"
+
+msgid "Carpet"
+msgstr "ພົມ"
+
+msgid "Concrete"
+msgstr "ຊີເມນ"
+
+msgid "Natural fiber"
+msgstr "ເສັ້ນໄຍທໍາມະຊາດ"
+
+msgid "Coco"
+msgstr "ໂຄໂຄ້"
+
+msgid "Travertine"
+msgstr "Travertine"
+
+msgid "Marble"
+msgstr "ຫີນອ່ອນ"
+
+msgid "Granite"
+msgstr "ຫີນແກຣນນິດ"
+
+msgid "Terracotta tile"
+msgstr "ກາໂລ່ Terracotta"
+
+msgid "Teak"
+msgstr "ໄມ້ສັກ"
+
+msgid "Mosaïc"
+msgstr "ລວດລາຍ Mosaïc"
+
+msgid "Clay"
+msgstr "ດີນ"
+
+msgid "Stone"
+msgstr "ຫີນ"
+
+msgid "Laminate"
+msgstr "ວັດຖຸທີ່ເປັນຊັ້ນ"
+
+msgid "Vinyl composition tile"
+msgstr "ກາໂລ່ປະສົມ Vinyl"
+
+msgid "Convector"
+msgstr "ຄອນເວັກເຕີ້"
+
+msgid "Underfloor"
+msgstr "ໃຕ້ພື້ນ"
+
+msgid "Radiator"
+msgstr "ເຄື່ອງກະຈາຍຄວາມຮ້ອນ"
+
+#, fuzzy
+msgid "Stove"
+msgstr ""
+"#-#-#-#-#  apimo-lo_LA.po  #-#-#-#-#\n"
+"ເຕົາຜິງ\n"
+"#-#-#-#-#  apimo-lo_LA.po  #-#-#-#-#\n"
+"ເຕົາໄຟຄົວກິນ"
+
+msgid "Air-conditioning"
+msgstr "ແອ"
+
+msgid "Central"
+msgstr "ຈຸດໃຈກາງ"
+
+msgid "Without"
+msgstr "ປາສະຈາກ"
+
+msgid "Fireplace"
+msgstr "ເຕົາໄຟຝີງ"
+
+msgid "Individual"
+msgstr "ສ່ວນບຸກຄົນ"
+
+msgid "Common"
+msgstr "ທົ່ວໄປ"
+
+msgid "Mixed"
+msgstr "ປະສົມປະສານ"
+
+msgid "District heating"
+msgstr "ເຂດຮ້ອນ"
+
+#, fuzzy
+msgid "Gas"
+msgstr ""
+"#-#-#-#-#  apimo-lo_LA.po  #-#-#-#-#\n"
+"ແກສ\n"
+"#-#-#-#-#  apimo-lo_LA.po  #-#-#-#-#\n"
+"ແກ໊ສ\n"
+"#-#-#-#-#  apimo-lo_LA.po  #-#-#-#-#\n"
+"ແກ໊ສ"
+
+msgid "Fuel oil"
+msgstr "ນ້ຳມັນ"
+
+msgid "Electric"
+msgstr "ໄຟຟ້າ"
+
+msgid "Wood"
+msgstr "ໄມ້"
+
+msgid "Solar"
+msgstr "ໂຊລ້າ"
+
+msgid "Charcoal"
+msgstr "ຖ່ານຫີນ"
+
+msgid "Heat pump"
+msgstr "ປັ໊ມຄວາມຮ້ອນ"
+
+msgid "Geothermal"
+msgstr "ໃຕ້ດິນ"
+
+msgid "Wood pellet"
+msgstr "ໄມ້ນ້ອຍ"
+
+#, fuzzy
+msgid "Hot water"
+msgstr ""
+"#-#-#-#-#  apimo-lo_LA.po  #-#-#-#-#\n"
+"ນ້ຳຮ້ອນ\n"
+"#-#-#-#-#  apimo-lo_LA.po  #-#-#-#-#\n"
+"ນ້ຳອຸ່ນ"
+
+msgid "Hot water tank"
+msgstr "ຖັງນ້າຮ້ອນ"
+
+msgid "Boiler"
+msgstr "ໝໍ້ນ້ຳ"
+
+msgid "Collective"
+msgstr "ຮ່ວມກັນ"
+
+msgid "Flat"
+msgstr "ພຽງ"
+
+msgid "Dry-stone wall terraces"
+msgstr "ລະບຽງຫີນແຫ້ງ"
+
+msgid "Steep"
+msgstr "ຊັນ"
+
+msgid "Wooded"
+msgstr "ເປັນປ່າ"
+
+msgid "Meadow"
+msgstr "ທົ່ງຫຍ້າ"
+
+msgid "Term lease"
+msgstr "ສັນຍາເຊົ່າໄລຍະຍາວ"
+
+msgid "Long-Term"
+msgstr "ໄລ​ຍະ​ຍາວ"
+
+msgid "Long-Term - Single activity"
+msgstr "ໄລຍະຍາວ - ກິດຈະກໍາດ່ຽວ"
+
+msgid "Long-Term - All activities"
+msgstr "ໄລຍະຍາວ - ກິດຈະກໍາທັງຫມົດ"
+
+msgid "Seaside"
+msgstr "ຊາຍຫາດ"
+
+#, fuzzy
+msgid "Village"
+msgstr ""
+"#-#-#-#-#  apimo-lo_LA.po  #-#-#-#-#\n"
+"ໝູ່ບ້ານ\n"
+"#-#-#-#-#  apimo-lo_LA.po  #-#-#-#-#\n"
+"ບ້ານ"
+
+msgid "Old town"
+msgstr "ເມືອງເກົ່າ"
+
+msgid "Precinct"
+msgstr "ຂອບເຂດ"
+
+#, fuzzy
+msgid "Ski slope"
+msgstr ""
+"#-#-#-#-#  apimo-lo_LA.po  #-#-#-#-#\n"
+"ຂີ່ສະກີ\n"
+"#-#-#-#-#  apimo-lo_LA.po  #-#-#-#-#\n"
+"ເນີນສະກີ"
+
+msgid "Town center"
+msgstr "ໃຈກາງເມືອງ"
+
+msgid "Industrial estate"
+msgstr "ນິຄົມອຸດສາຫະກຳ"
+
+msgid "Shopping center"
+msgstr "ສູນ​ການ​ຄ້າ"
+
+msgid "Business park"
+msgstr "ສວນທຸລະກິດ"
+
+msgid "Airport area"
+msgstr "ພື້ນທີ່ສະໜາມບິນ"
+
+msgid "Science park"
+msgstr "ສວນວິທະຍາສາດ"
+
+msgid "Port area"
+msgstr "ພື້ນທີ່ທ່າເຮືອ"
+
+msgid "Suburb"
+msgstr "ຊົນນະບົດ"
+
+msgid "Hills"
+msgstr "ເນີນ​ພູ"
+
+msgid "Waterfront"
+msgstr "ທ່ານ້ຳ"
+
+msgid "East"
+msgstr "ທິດຕາເວັນອອກ"
+
+msgid "North"
+msgstr "ທິດເໜືອ"
+
+msgid "West"
+msgstr "ທິດຕາເວັນຕົກ"
+
+msgid "South"
+msgstr "ທິດໃຕ້"
+
+msgid "Day"
+msgstr "ວັນ"
+
+msgid "Week"
+msgstr "ອາທິດ"
+
+msgid "Fortnight"
+msgstr "2 ອາທິດ/ 14 ມື້"
+
+msgid "Month"
+msgstr "ເດືອນ"
+
+msgid "Quarterly"
+msgstr "ໄຕມາດ"
+
+msgid "Bimonthly"
+msgstr "ສອງເດືອນຕໍ່ຄັ້ງ"
+
+msgid "Half-yearly"
+msgstr "ເຄິ່ງປີ"
+
+msgid "Yearly"
+msgstr "ປະຈໍາປີ"
+
+msgid "Bus"
+msgstr "ລົດເມ"
+
+msgid "Bus hub"
+msgstr "ສະ​ຖາ​ນີ​ລົດ​ເມ"
+
+msgid "Metro"
+msgstr "ລົດໄຟຟ້າໃຕ້ດິນ"
+
+msgid "Shops"
+msgstr "ຮ້ານຄ້າ"
+
+msgid "Primary school"
+msgstr "ໂຮງ​ຮຽນ​ປະ​ຖົມ"
+
+msgid "Town centre"
+msgstr "ເມືອງສູນກາງ"
+
+msgid "Hospital/clinic"
+msgstr "ໂຮງໝໍ/ຄຣີນິກ"
+
+msgid "Doctor"
+msgstr "ທ່ານໝໍ"
+
+msgid "Tram"
+msgstr "ລົດລາງ"
+
+msgid "Train station"
+msgstr "ສະະຖານີລົດໄຟ"
+
+msgid "Taxi"
+msgstr "ລົດ Taxi"
+
+msgid "Public parking"
+msgstr "ສະຖານທີ່ຈອດລົດສາທາລະນະ"
+
+msgid "Supermarket"
+msgstr "ຊຸປເປີມາເກັດທ໌"
+
+msgid "Sea port"
+msgstr "ທ່າເຮືອ"
+
+msgid "Nursery"
+msgstr "ຮັບດູແລຕະຫຼອດມື້"
+
+msgid "Public pool"
+msgstr "ສະນໍ້າສາທາລະນະ"
+
+msgid "Tennis"
+msgstr "ກິລາເທັນນິສ"
+
+msgid "Golf"
+msgstr "ກິລາກັອຟ"
+
+msgid "Movies"
+msgstr "ຮູບເງົາ"
+
+msgid "Secondary school"
+msgstr "ໂຮງຮຽນມັດທະຍົມ"
+
+msgid "Sport center"
+msgstr "ສູນກາງກິລາ"
+
+msgid "Airport"
+msgstr "ສະໜາມບິນ"
+
+msgid "Sea"
+msgstr "ທະເລ"
+
+msgid "TGV station"
+msgstr "ສະຖານີລົດໄຟຄວາມໄວສູງ"
+
+msgid "Highway"
+msgstr "ທາງດ່ວນ"
+
+msgid "University"
+msgstr "ມະຫາວິທະຍາໄລ"
+
+msgid "Convention center"
+msgstr "ສະຖານທີ່ຊຸມນຸມ"
+
+#, fuzzy
+msgid "Lake"
+msgstr ""
+"#-#-#-#-#  apimo-lo_LA.po  #-#-#-#-#\n"
+"ທະເລຊາບ\n"
+"#-#-#-#-#  apimo-lo_LA.po  #-#-#-#-#\n"
+"ທະເລຊາບ\n"
+"#-#-#-#-#  apimo-lo_LA.po  #-#-#-#-#\n"
+"ທະເລສາບ"
+
+msgid "On main road"
+msgstr "ທາງໃຫຍ່"
+
+msgid "Energy - Conventional consumption"
+msgstr "ພະລັງງານ-ຊ່ອງທາງການບໍລິໂພກ"
+
+msgid "Energy - Emissions estimate"
+msgstr "ພະລັງງານ-ປະເມີນການປ່ອຍກາສ"
+
+msgid "Asbestos"
+msgstr "ແຮ່ທົນໄຟ"
+
+msgid "Lead"
+msgstr "ກົ່ວ"
+
+msgid "Electricity"
+msgstr "ໄຟຟ້າ"
+
+msgid "Sanitation"
+msgstr "ສຸຂາພິບານ"
+
+msgid "Request for expert nomination"
+msgstr "ຮ້ອງຂໍຜູ້ຊ່ຽວຊານແຕ່ງຕັ້ງ"
+
+msgid "Energy consumption"
+msgstr "ການບໍລິໂພກພະລັງງານ"
+
+msgid "Housing tax"
+msgstr "ພາສີທີ່ຢູ່ອາໄສ"
+
+msgid "Co-Ownership property"
+msgstr "ການເປັນເຈົ້າຂອງອະສັງຫາຮ່ວມກັນ"
+
+msgid "Communal tax rate"
+msgstr "ອັດຕາພາສີຊຸມຊົນ"
+
+msgid "Current renovation fund"
+msgstr "ທືນການປັບປຸງປັດຈຸບັນ"
+
+msgid "Energy class"
+msgstr "ຊັ້ນພະລັງງານ"
+
+msgid "Thermal insulation class"
+msgstr "ຊັ້ນປ້ອງກັນຄວາມຮ້ອນ"
+
+msgid "Greenhouse Gas"
+msgstr "ກາສເຮືອນກະຈົກ"
+
+msgid "Rental value"
+msgstr "ຄ່າເຊົ່າ"
+
+msgid "Turnover"
+msgstr "ລາຍໄດ້"
+
+msgid "Net income"
+msgstr "ລາຍໄດ້ສຸດທິ"
+
+msgid "Gross operating profit"
+msgstr "ກໍາໄລຈາກການດໍາເນີນງານເບື້ອງຕົ້ນ"
+
+msgid "Personnel costs"
+msgstr "ຄ່າໃຊ້ຈ່າຍບຸກຄະລາກອນ"
+
+msgid "Cash flow"
+msgstr "ກະແສເງິນສົດ"
+
+msgid "Shareholders’equity"
+msgstr "ສ່ວນໄດ້ເສຍຂອງຜູ້ຖືຫຸ້ນ"
+
+msgid "Net debt"
+msgstr "ໜີ້ສິນສຸດທິ"
+
+msgid "Internet"
+msgstr "ອິນເຕີເນັດ"
+
+msgid "Disabled access"
+msgstr "ບໍ່ສາມາດເຂົ້າເຖິງໄດ້"
+
+msgid "Alarm system"
+msgstr "ລະບົບເຕືອນໄພ"
+
+msgid "Lift"
+msgstr "ລິຟ"
+
+msgid "Caretaker"
+msgstr "ຜູ້ດູແລ"
+
+msgid "Double glazing"
+msgstr "ກະຈົກສອງຊັ້ນ"
+
+msgid "Intercom"
+msgstr "ໂທລະສັບພາຍໃນ"
+
+msgid "TV distribution"
+msgstr "ໂທລະພາບໃຊ້ສາຍ"
+
+#, fuzzy
+msgid "Swimming pool"
+msgstr ""
+"#-#-#-#-#  apimo-lo_LA.po  #-#-#-#-#\n"
+"ສະລອຍນໍ້າ\n"
+"#-#-#-#-#  apimo-lo_LA.po  #-#-#-#-#\n"
+"ສະລອຍນ້ຳ\n"
+"#-#-#-#-#  apimo-lo_LA.po  #-#-#-#-#\n"
+"ສະລອຍນ້ຳ"
+
+msgid "Security door"
+msgstr "ປະຕູນິລະໄພ"
+
+msgid "Tennis court"
+msgstr "ເດີ່ນເທັນນິສ"
+
+msgid "Barbecue"
+msgstr "ບາບິຄິວ"
+
+msgid "Electric gate"
+msgstr "ປະຕູໄຟຟ້າ"
+
+msgid "Crawl space"
+msgstr "ຊັ້ນໃຕ້ດິນ"
+
+msgid "Car port"
+msgstr "ບ່ອນໄວ້ລົດ"
+
+msgid "Caretaker house"
+msgstr "ຄົນດູແລບ້ານ"
+
+msgid "Sliding windows"
+msgstr "ປ່ອງຍ້ຽມແບບເລື່ອນ"
+
+msgid "Central vacuum system"
+msgstr "ລະບົບຈຸດດູດຝຸ່ນ"
+
+msgid "Electric shutters"
+msgstr "ບານປະຕູໄຟຟ້າ"
+
+msgid "Window shade"
+msgstr "ມູລີ່ປ່ອງຍ້ຽມ"
+
+msgid "Electric awnings"
+msgstr "ກັງສາດໄຟຟ້າ"
+
+msgid "Washing machine"
+msgstr "ເຄື່ອງຊັກຜ້າ"
+
+msgid "Jacuzzi"
+msgstr "ອ່າງອາບນໍ້າ ຈາກຸຊຊິ່"
+
+msgid "Whirlpool tub"
+msgstr "ອ່າງອາບນໍ້າ"
+
+msgid "Well"
+msgstr "ນໍ້າສ້າງ"
+
+msgid "Spring"
+msgstr "ໄສ້ເສືອ"
+
+msgid "Engine generator"
+msgstr "ເຄື່ອງຈັກໄດນາໂມ"
+
+msgid "Dishwasher"
+msgstr "ເຄື່ອງລ້າງຈານ"
+
+msgid "Hob"
+msgstr "ຮ໋ອບ"
+
+msgid "Safe"
+msgstr "ປອດໄພ"
+
+msgid "Helipad"
+msgstr "ລານຈອດເຮລິຄັອບເຕີ້"
+
+msgid "Videophone"
+msgstr "ວິດີໂອໂຟນ"
+
+msgid "Video security"
+msgstr "ຄວາມປອດໄພຂອງວິດີໂອ"
+
+msgid "Iron"
+msgstr "ເຕົາລີດ"
+
+msgid "Hair dryer"
+msgstr "ໄດ໋ເປົ່າຜົມ"
+
+msgid "Television"
+msgstr "ໂທລະທັດ"
+
+msgid "DVD Player"
+msgstr "ເຄື່ອງຫລີ້ນ ດີວີດີ"
+
+msgid "CD Player"
+msgstr "ເຄື່ອງຫລີ້ນ ຊີດີ"
+
+msgid "Outdoor lighting"
+msgstr "ດອກໄຟນອກບ້ານ"
+
+msgid "Spa"
+msgstr "ສະປາ"
+
+msgid "Home automation"
+msgstr "ລະບົບອັດຕະໂນມັດພາຍໃນບ້ານ"
+
+msgid "Linens"
+msgstr "ຜ້າປູບ່ອນນອນ"
+
+msgid "Tableware"
+msgstr "ໂຕະອາຫານ"
+
+msgid "Clothes dryer"
+msgstr "ຮາວຕາກເຄື່ອງ"
+
+msgid "Refrigerator"
+msgstr "ຕູ້ເຢັນ"
+
+msgid "Oven"
+msgstr "ເຕົາອົບ"
+
+msgid "Reception 24/7"
+msgstr "ພະນັກງານຕ້ອນຮັບຕະຫລອດ 24 ຊົ່ວໂມງ"
+
+msgid "Coffeemaker"
+msgstr "ເຄື່ອງເຮັດກາເຟ"
+
+msgid "Microwave oven"
+msgstr "ເຕົາອົບໄມໂຄຣເວບ"
+
+msgid "Shabbat elevator"
+msgstr "ລິຟ ແຊັບບັທ"
+
+msgid "Sukkah"
+msgstr "ຕູບ"
+
+msgid "Synagogue"
+msgstr "ໂບສ"
+
+msgid "Common laundry"
+msgstr "ຊັກລີດທົ່ວໄປ"
+
+msgid "Pets allowed"
+msgstr "ອະນຸຍາດໃຫ້ລ້ຽງສັດໄດ້"
+
+msgid "Metal shutters"
+msgstr "ບານປະຕູປ່ອງຍ້ຽມໂລຫະ"
+
+msgid "Wiring closet"
+msgstr "ຕູ້ລະບົບວົງຈອນໄຟຟ້າ"
+
+msgid "Computer network"
+msgstr "ເຄື່ອຂ່າຍຄອມພິວເຕີ"
+
+msgid "Fire hose cabinets"
+msgstr "ຕູ້ວາງທໍ່ດັບເພີງ"
+
+msgid "Fire sprinkler system"
+msgstr "ລະບົບດັບເພີງ"
+
+msgid "Wharf"
+msgstr "ທ່າເຮືອ"
+
+msgid "Connected thermostat"
+msgstr "ສາຍຄວບຄຸມຄວາມຮ້ອນໃຫ້ຄົງທີ່"
+
+msgid "Bowling game"
+msgstr "ສະໜາມໂບລິ້ງ"
+
+msgid "Water softener"
+msgstr "ເຄື່ອງກັ່ນນໍ້າ"
+
+msgid "Triple glazing"
+msgstr "ແວ່ນສາມຊັ້ນ"
+
+msgid "Well drilling"
+msgstr "ເຄື່ອງເຈາະນໍ້າສ້າງ"
+
+msgid "Optical fiber"
+msgstr "ເສັ້ນໃຍແກ້ວ"
+
+msgid "Non-flooding"
+msgstr "ນໍ້າບໍ່ຖ້ວມ"
+
+msgid "Playground"
+msgstr "ສະຫນາມເດັກຫຼິ້ນ"
+
+msgid "Supplies"
+msgstr "ອຸປະກອນ"
+
+msgid "Outdoor spaces"
+msgstr "ພື້ນທີ່ກາງແຈ້ງ"
+
+msgid "Rental supplies"
+msgstr "ອຸປະກອນໃຫ້ເຊົ່າ"
+
+#, fuzzy
+msgid "Security"
+msgstr ""
+"#-#-#-#-#  apimo-lo_LA.po  #-#-#-#-#\n"
+"ຄວາມປອດໄພ\n"
+"#-#-#-#-#  apimo-lo_LA.po  #-#-#-#-#\n"
+"ການຮັກສາຄວາມປອດໄພ"
+
+msgid "Professional supplies"
+msgstr "ອຸປະກອນສໍາລັບມືອາຊີບ"
+
+msgid "High standard"
+msgstr "ມາດຕະຖານສູງ"
+
+msgid "Luxury"
+msgstr "ຫຼູຫຼາ"
+
+msgid "High luxury"
+msgstr "ຫຼູຫຼາສູງ"
+
+msgid "Housing estate"
+msgstr "ບ້ານຈັດສັນ"
+
+msgid "Regular"
+msgstr "ທຳມະດາ"
+
+#, fuzzy
+msgid "In progress"
+msgstr ""
+"#-#-#-#-#  apimo-lo_LA.po  #-#-#-#-#\n"
+"ກໍາລັງດໍາເນີນ\n"
+"#-#-#-#-#  apimo-lo_LA.po  #-#-#-#-#\n"
+"ກໍາລັງດໍາເນີນການ"
+
+msgid "Standby"
+msgstr "ສໍາຮອງ"
+
+msgid "Deleted"
+msgstr "ລົບແລ້ວ"
+
+msgid "Waiting for agreement"
+msgstr "ກໍາລັງລໍຖ້າການຕອບຮັບ"
+
+msgid "Agreement ended"
+msgstr "ຂໍ້ຕົກລົງສີ້ນສຸດ"
+
+#, fuzzy
+msgid "Offer"
+msgstr ""
+"#-#-#-#-#  apimo-lo_LA.po  #-#-#-#-#\n"
+"ຜູ້ສະເໜີ\n"
+"#-#-#-#-#  apimo-lo_LA.po  #-#-#-#-#\n"
+"ຂໍສະເຫນີ"
+
+msgid "Processing sale"
+msgstr "ກໍາລັງຂາຍ"
+
+msgid "Waiting for contract"
+msgstr "ລໍຖ້າການຕິດຕໍ່"
+
+msgid "Pending approval"
+msgstr "ຢູ່ໃນລະຫວ່າງການພິສູດ"
+
+msgid "Sell/Rent by agent"
+msgstr "ຂາຍ/ເຊົ່າ ໂດຍຕົວແທນ"
+
+msgid "Sell/Rent by owner"
+msgstr "ຂາຍ/ເຊົ່າ ໂດຍ ເຈົ້າຂອງ"
+
+msgid "Sell/Rent by other agent"
+msgstr "ຂາຍ/ເຊົ່າ ໂດຍຕົວແທນອື່ນໆ"
+
+msgid "Removed by agent"
+msgstr "ຖືກລົບໂດຍຕົວແທນ"
+
+msgid "Removed by owner"
+msgstr "ຖືກລົບໂດຍເຈົ້າຂອງ"
+
+msgid "Sale/Rental cancelled"
+msgstr "ການຂາຍ/ການເຊົ່າ ຖືກຍົກເລີກ"
+
+msgid "Delete this property"
+msgstr "ທໍາລາຍຊັບສີນໂຕນີ້"
+
+msgid "Business"
+msgstr "ທຸລະກິດ"
+
+msgid "Garage/Parking"
+msgstr "ບ່ອນໄວ້ລົດ/ບ່ອນຈອດລົດ"
+
+msgid "Office"
+msgstr "ຫ້ອງການ"
+
+msgid "Boat"
+msgstr "ເຮືອ"
+
+msgid "Cellar / Box"
+msgstr "ຫ້ອງໃຕ້ດິນຕໍ່ກ່ອງ"
+
+msgid "Triplex"
+msgstr "ສາມເທົ່າ"
+
+msgid "Building land"
+msgstr "ທີ່ດິນອາຄານ"
+
+msgid "Not constructible land"
+msgstr "ດິນທີ່ບໍ່ສາມາດກໍ່ສ້າງໄດ້"
+
+msgid "Penthouse"
+msgstr "ເພນເຮົ້າ"
+
+msgid "Manor house"
+msgstr "ຫໍປະສາດ"
+
+msgid "Duplex"
+msgstr "ແຝດ"
+
+msgid "Farm"
+msgstr "ການກະສິກຳ"
+
+msgid "Villa"
+msgstr "ວິນລ້າ"
+
+msgid "Apartment villa"
+msgstr "ອາພາດເມັນວິນລ້າ"
+
+msgid "Ruin"
+msgstr "ລົ້ມລະລາຍ"
+
+msgid "Mill"
+msgstr "ໂຮງສີ"
+
+msgid "Farmhouse"
+msgstr "ຖຽງນາ"
+
+msgid "Townhouse"
+msgstr "ທາວເຮົ້າ"
+
+msgid "Mobile home"
+msgstr "ໂທລະສັບບ້ານ"
+
+msgid "Cottage"
+msgstr "ຕູບ"
+
+msgid "Hangar"
+msgstr "ບ່ອນໄວ້ລົດ"
+
+msgid "Chalet"
+msgstr "ບ້ານຕາກອາກາດ"
+
+msgid "Local"
+msgstr "ທ້ອງຖິ່ນ"
+
+msgid "Retail space"
+msgstr "ສະຖານທີ່"
+
+msgid "Business assets"
+msgstr "ສິນຊັບທຸລະກິດ"
+
+msgid "Right to the lease"
+msgstr "ສິດທິໃນການເຊົ່າ"
+
+msgid "Mansion"
+msgstr "ຕຶກໃຫຍ່"
+
+msgid "Management"
+msgstr "ການຈັດການ"
+
+msgid "Agricultural exploitation"
+msgstr "ການຂຸດຄົ້ນກະສິກໍາ"
+
+msgid "Woodshed"
+msgstr "ໂຮງເກັບຟືນ"
+
+msgid "Stud farm"
+msgstr "ດິນປູກຝັງ"
+
+msgid "Plot of land"
+msgstr "ທີ່ດິນ"
+
+msgid "Company"
+msgstr "ບໍລິສັດ"
+
+msgid "Vineyard property"
+msgstr "ສວນອາງຸ່ນ"
+
+msgid "Motor Yacht"
+msgstr "ຈັກຂອງເຮືອຢັອດຈ໌"
+
+msgid "Narrow boat"
+msgstr "ເຮືອລ່ອງຄອງ"
+
+msgid "Sailing Yacht"
+msgstr "ລ່ອງເຮືອຢັອດຈ໌"
+
+msgid "Catamaran"
+msgstr "ເຮືອຄາຕາມາຣັນ"
+
+msgid "Bed and breakfast"
+msgstr "ທີ່ພັກພ້ອມອາຫານເຊົ້າ"
+
+msgid "Retail shop"
+msgstr "ຂາຍຍ່ອຍ"
+
+msgid "Shophouse"
+msgstr "ອາຄານພານິດ"
+
+msgid "Borey"
+msgstr "ໂບເລ່"
+
+msgid "Condo"
+msgstr "ຄອນໂດ"
+
+msgid "Factory"
+msgstr "ໂຮງງານ"
+
+msgid "Serviced apartment"
+msgstr "ອາພາດເມັນໃຫ້ເຊົ່າ"
+
+msgid "Twin Villa"
+msgstr "ວິນລ້າແຝດ"
+
+msgid "Flat House"
+msgstr "ຫ້ອງແຖວ"
+
+msgid "Semi-detached house"
+msgstr "ລິ້ງເຮົ້າ"
+
+msgid "Bungalow"
+msgstr "ບັງກະໂລ"
+
+msgid "Beach house"
+msgstr "ບ້ານແຄມທະເລ"
+
+msgid "Mountains"
+msgstr "ພູເຂົາ"
+
+msgid "Greenery"
+msgstr "ພຶກສາຊາດ"
+
+msgid "Monument"
+msgstr "ອະນຸສາວະລີ"
+
+msgid "Forest"
+msgstr "ປ່າໄມ້"
+
+msgid "River"
+msgstr "ແມ່ນ້ໍາ"
+
+#, fuzzy
+msgid "City"
+msgstr ""
+"#-#-#-#-#  apimo-lo_LA.po  #-#-#-#-#\n"
+"ເມືອງ\n"
+"#-#-#-#-#  apimo-lo_LA.po  #-#-#-#-#\n"
+"ຕົວເມືອງ"
+
+msgid "Countryside"
+msgstr "ຊົນນະບົດ"
+
+msgid "Sky"
+msgstr "ຟ້າ"
+
+msgid "Harbor"
+msgstr "ທ່າເຮືອ"
+
+msgid "Ski slopes"
+msgstr "ລານສະກີ"
+
+msgid "Obstructed"
+msgstr "ກີດຂວາງ"
+
+msgid "Slight"
+msgstr "ແຄບ"
+
+msgid "Unobstructed"
+msgstr "ບໍ່ມີແນວກີດຂວາງ"
+
+msgid "Panoramic"
+msgstr "ພາໂນລາມິກ"
+
+msgid "Septic tank"
+msgstr "ຖັງບຳບັດນ້ຳເສຍ"
+
+msgid "Main drainage"
+msgstr "ການລະບາຍນ້ໍາຫຼັກ"
+
+msgid "Treatment plant"
+msgstr "ໂຮງງານບຳບັດ"
+
+msgid "Estate agent"
+msgstr "ນາຍໜ້າອະສັງຫາ"
+
+msgid "Phoning"
+msgstr "ການໂທລະສັບ"
+
+msgid "Collaboration"
+msgstr "ການຮ່ວມມື"
+
+msgid "Provider"
+msgstr "ຜູ້ຈັດຫາ"
+
+msgid "Renown"
+msgstr "ຊື່ສຽງ"
+
+msgid "Network"
+msgstr "ເຄືອຂ່າຍ"
+
+msgid "Sign"
+msgstr "ລົງລາຍເຊັນ"
+
+msgid "Magazine"
+msgstr "ວາລະສານ"
+
+msgid "Old client"
+msgstr "ກອງທຶນຮັບປະກັນ"
+
+msgid "Appraisal"
+msgstr "ການຕີລາຄາ"
+
+msgid "Selection / Favorite"
+msgstr "ຕົວເລືອກ/ສິ່ງທີ່ມັກ"
+
+msgid "Main residence"
+msgstr "ທີ່ພັກຫຼັກ"
+
+msgid "Secondary residence"
+msgstr "ທີຢູ່ທີ່ສອງ"
+
+msgid "Student residence"
+msgstr "ທີ່ພັກນັກສຶກສາ"
+
+msgid "Tourism residence"
+msgstr "ທີ່ພັກນັກທ່ອງທ່ຽວ"
+
+msgid "Seniors residence"
+msgstr "ທີ່ພັກຜູ້ສູງອາຍຸ"
+
+msgid "Reduced fees"
+msgstr "ຄ່າທໍານຽມຫຼຸດລົງ"
+
+msgid "EHPAD (Retirement homes)"
+msgstr "EHPAD (ບ້ານສຳລັບຜູ້ສູງອາຍຸ)"
+
+msgid "Act 1291"
+msgstr "ກົດໝາຍປີ 1291"
+
+msgid "Act 887"
+msgstr "ກົດໝາຍປີ 887"
+
+msgid "Mixed-use"
+msgstr "ໃຊ້ປົນກັນ"
+
+msgid "Rental investment"
+msgstr "ໃຫ້ເຊົ່າສໍາລັບລົງທຶນ"
+
+msgid "Act 1235"
+msgstr "ກົດໝາຍປີ 1235"
+
+msgid "m²"
+msgstr "m²"
+
+msgid "sq ft"
+msgstr "ft²"
+
+msgid "sq yd"
+msgstr "yd²"
+
+msgid "ha"
+msgstr "ha"
+
+msgid "minute"
+msgstr "ນາທີ"
+
+msgid "metre"
+msgstr "ແມັດ"
+
+msgid "km"
+msgstr "ກິໂລແມັດ"
+
+msgid "Administrator"
+msgstr "ຜູ້​ບໍ​ລິ​ຫານ"
+
+msgid "Company manager"
+msgstr "ຜູ້ຈັດການບໍລິສັດ"
+
+msgid "Agency manager"
+msgstr "ຜູ້ຈັດການຕົວແທນບໍລິສັດ"
+
+msgid "Secretariat"
+msgstr "ເລຂານຸການ"
+
+msgid "Agent"
+msgstr "ນາຍໜ້າ"
+
+msgid "Intern"
+msgstr "ພະນັກງານຝຶກງານ"
+
+msgid "User"
+msgstr "ຜູ້ໃຊ້"
+
+msgid "Franchisor"
+msgstr "ແຟນຊາຍ"
+
+msgid "Translator"
+msgstr "ນາຍແປພາສາ"
+
+msgid "Plan"
+msgstr "ແຜນການ"
+
+msgid "Pictures"
+msgstr "ຮູບພາບ"
+
+msgid "Pet"
+msgstr "ສັດລ້ຽງ"
+
+msgid "Natural light"
+msgstr "ແສງທໍາມະຊາດ"
+
+msgid "Kitchen island"
+msgstr "ເກາະຄົວ"
+
+msgid "Kitchen bar"
+msgstr "ຫ້ອງຄົວບາ"
+
+msgid "High ceiling"
+msgstr "ເພດານສູງ"
+
+msgid "Skylight"
+msgstr "ປ່ອງຍ້ຽມເທີງຫຼັງຄາ"
+
+msgid "Exposed bricks"
+msgstr "ດີນຂໍຊອດ"
+
+msgid "Ceiling fan"
+msgstr "ພັດລົມຕິດຝາ"
+
+msgid "Chandelier"
+msgstr "ໂຄມໄຟ"
+
+msgid "Stainless steel"
+msgstr "ເຫຼັກທີ່ບໍ່ເປັນໝ້ຽງ"
+
+msgid "Price on request"
+msgstr "ລາຄາຮຽກຮ້ອງ"
+
+msgid "Currency"
+msgstr "ສະກຸນເງີນ"
+
+msgid "Costs"
+msgstr "ລາຄາ"
+
+msgid "Type"
+msgstr "ປະເພດ"
+
+msgid "Cities"
+msgstr "ບັນດາເມືອງ"
+
+msgid "room"
+msgstr "ຫ້ອງ"
+
+msgid "Rooms"
+msgstr "ຈຳນວນຫ້ອງ"
+
+msgid "Sent"
+msgstr "ສົ່ງ"
+
+msgid "Message sent"
+msgstr "ສົ່ງຂໍ້ຄວາມ"
+
+msgid "Lastname"
+msgstr "ນາມສະກຸນ"
+
+msgid "Name"
+msgstr "ຊື່"
+
+msgid "Ref"
+msgstr "ອ້າງອີງ"
+
+msgid "Ref."
+msgstr "ແຫຼ່ງອ້າງອີງຈາກ"
+
+msgid "%s bedrooms"
+msgstr "%s ຫ້ອງນອນ"
+
+msgid "%s rooms"
+msgstr "%s ຫ້ອງ"
+
+msgid "Folder"
+msgstr "ໂຟນເດີ"
+
+msgid "No matches found"
+msgstr "ບໍ່ມີລາຍການທີ່ຄົ້ນຫາ"
+
+msgid "Please enter one more character"
+msgstr "ກະລຸນາປ້ອນຂໍ້ມູນໃສ່ອີກໜຶ່ງໂຕ"
+
+msgid "Duplicate"
+msgstr "ສໍາເນົາ"
+
+msgid "Backup"
+msgstr "ຕົວສໍາຮອງ"
+
+msgid "Rates"
+msgstr "ອັດຕາ"
+
+msgid "Sender"
+msgstr "ຜູ້ສົ່ງ"
+
+msgid "Recipient"
+msgstr "ຜູ້ຮັບ"
+
+msgid "Title"
+msgstr "ຫົວຂໍ້"
+
+msgid "Attachment"
+msgstr "ໄຟລ໌ແນບ"
+
+msgid "Key"
+msgstr "ຕົວສໍາຄັນ"
+
+msgid "Documents"
+msgstr "ເອກະສານ"
+
+msgid "Back"
+msgstr "ກັບ"
+
+msgid "Help?"
+msgstr "ຕ້ອງການຄວາມຊ່ວຍເຫຼືອບໍ່?"
+
+msgid "Read more"
+msgstr "ອ່ານເພີ່ມເຕີມ"
+
+msgid "Area"
+msgstr "ເນື້ອທີ່"
+
+msgid "Areas"
+msgstr "ພື້ນທີ່"
+
+msgid "Length"
+msgstr "ຄວາມຍາວ"
+
+msgid "Height"
+msgstr "ຄວາມສູງ"
+
+msgid "Width"
+msgstr "ຄວາມກວ້າງ"
+
+msgid "Deposit"
+msgstr "ຝາກ"
+
+msgid "Agreement reference"
+msgstr "ຂໍ້ຕົກອ້າງອີງ"
+
+msgid "Agreement start at"
+msgstr "ຂໍ້ຕົກລົງເລີ່ມທີ່"
+
+msgid "Agreement end at"
+msgstr "ຂໍ້ຕົກລົງສີ້ນສຸດໂດຍ"
+
+msgid "Website"
+msgstr "ເວັບໄຊ"
+
+msgid "Proximity"
+msgstr "ໃກ້ກັບ"
+
+msgid "Proximities"
+msgstr "ລະແວກທີ່ໃກ້"
+
+msgid "Loading"
+msgstr "ກໍາລັງໂລດ"
+
+msgid "Log out"
+msgstr "ອອກຈາກລະບົບ"
+
+msgid "Availability"
+msgstr "ຫວ່າງ"
+
+msgid "Total area"
+msgstr "ເນື້ອທີ່ທັງໝົດ"
+
+msgid "Living area"
+msgstr "ພື້ນທີ່ອາໄສ"
+
+msgid "Password forgotten"
+msgstr "ລືມລະຫັດຜ່ານ"
+
+msgid "Password"
+msgstr "ລະຫັດຜ່ານ"
+
+msgid "Username"
+msgstr "ຊື່ຜູ້ໃຊ້"
+
+msgid "Welcome %s"
+msgstr "ຍິນດີຕ້ອນຮັບ %s"
+
+msgid "Searches"
+msgstr "ຄົ້ນຫາ"
+
+msgid "Added"
+msgstr "ເພີ່ມ"
+
+msgid "To show"
+msgstr "ສະແດງ"
+
+msgid "Listings"
+msgstr "ລາຍການ"
+
+msgid "Tools"
+msgstr "ເຄື່ອງມື"
+
+msgid "Market"
+msgstr "ຕະຫຼາດ"
+
+msgid "Agency"
+msgstr "ຕົວແທນ"
+
+msgid "Calendar"
+msgstr "ປະຕິທີນ"
+
+msgid "Homepage"
+msgstr "ໜ້າຫຼັກ"
+
+msgid "Maps"
+msgstr "ແຜນທີ່"
+
+msgid "Value"
+msgstr "ຄຸນຄ່າ"
+
+msgid "Users"
+msgstr "ຈໍານວນຜູ້ໃຊ້"
+
+msgid "Sectors"
+msgstr "ຈໍານວນບໍລິສັດ"
+
+msgid "Companies"
+msgstr "ບໍລິສັດ"
+
+msgid "contacts"
+msgstr "ຕິດຕໍ່"
+
+msgid "%s contacts"
+msgstr "%s ຕິດຕໍ່"
+
+msgid "Settings"
+msgstr "ຕັ້ງຄ່າ"
+
+msgid "General"
+msgstr "ທົວໄປ"
+
+msgid "Heating"
+msgstr "ເຄື່ອງທຳຄວາມຮ້ອນ"
+
+msgid "Waste water"
+msgstr "ນ້ຳເສຍ"
+
+msgid "Country"
+msgstr "ຊົນນະບົດ"
+
+msgid "Owners"
+msgstr "ເຈົ້າຂອງ"
+
+msgid "Orientation"
+msgstr "ທິດທາງ"
+
+msgid "View"
+msgstr "ມຸມມອງ"
+
+msgid "District"
+msgstr "ເມືອງ"
+
+msgid "Hook"
+msgstr "ຂໍ"
+
+msgid "comments"
+msgstr "ຄຳຄິດເຫັນ"
+
+msgid "Buy"
+msgstr "ຊື້"
+
+msgid "Commercial"
+msgstr "ກິດຈະການ"
+
+msgid "About us"
+msgstr "ກ່ຽວກັບເຮົາ"
+
+msgid "Services"
+msgstr "ສິ່ງອຳນວຍຄວາມສະດວກ"
+
+msgid "News"
+msgstr "ຂ່າວ"
+
+msgid "Contact us"
+msgstr "ຕິດຕໍ່ພວກເຮົາ"
+
+msgid "Print"
+msgstr "ປິ້ນ"
+
+msgid "Add to cart"
+msgstr "ຂຽນໃສ່ບັດ"
+
+msgid "Replace in cart"
+msgstr "ແທນທີ່ໃນບັດ"
+
+msgid "History"
+msgstr "ປະຫວັດສາດ"
+
+msgid "Details"
+msgstr "ລາຍລະອຽດ"
+
+msgid "Date"
+msgstr "ວັນທີ່"
+
+msgid "Previous"
+msgstr "ກ່ອນ"
+
+msgid "Next"
+msgstr "ຖັດໄປ"
+
+msgid "Quick search"
+msgstr "ຄົ້ນຫາດ່ວນ"
+
+msgid "Postal code"
+msgstr "ລະຫັດໄປສະນີ"
+
+msgid "The username and/or password is invalid."
+msgstr "ຊື່ຜູ້ໃຊ້ຫຼືລະຫັດຜ່ານບໍ່ຖືກຕ້ອງ"
+
+msgid "Group"
+msgstr "ກຸ່ມ"
+
+msgid "Are you sure?"
+msgstr "ເຈົ້າໝັ້ນໃຈບໍ່"
+
+msgid "Nationality"
+msgstr "ສັນຊາດ"
+
+msgid "Regulation"
+msgstr "ການຄວບຄຸມ"
+
+msgid "Radius"
+msgstr "ລັດສະໝີ"
+
+msgid "Summary"
+msgstr "ສະຫຼຸບ"
+
+msgid "Latitude"
+msgstr "ເສັ້ນແວງ"
+
+msgid "Longitude"
+msgstr "ເສັ້ນຮຸ້ງ"
+
+msgid "Mortgage"
+msgstr "ຈຳນຳ"
+
+msgid "Download"
+msgstr "ດາວໂຫຼດ"
+
+msgid "Dashboard"
+msgstr "ແຜງຄວບຄຸມ"
+
+msgid "Matching"
+msgstr "ຈັບຄູ່"
+
+msgid "Pay now by card"
+msgstr "ຈ່າຍດຽວນີ້ດ້ວຍບັດ"
+
+msgid "Pay by bank transfer"
+msgstr "ຊຳລະໂດຍການໂອນເງິນ"
+
+msgid "Pay by check"
+msgstr "ຈ່າຍດ້ວຍບິນເງິນສົດ"
+
+msgid "Powered by"
+msgstr "ສະໜັບສະໜູນໂດຍ"
+
+msgid "Accepted payment methods"
+msgstr "ຍອມຮັບວິທີການຊຳລະເງິນ"
+
+msgid "Terms and Conditions"
+msgstr "ໄລຍະເວລາແລະເງື່ອນໄຂ"
+
+msgid ""
+"Your contact is already in database, please select it on the list below."
+msgstr "ຂໍ້ມູນຕິດຕໍ່ຂອງທ່ານແມ່ນຖືກບັນທຶກແລ້ວ, ກະລຸນາເລືອກໃນລາຍການດ້ານລຸ່ມນີ້"
+
+msgid "Contracts"
+msgstr "ສັນຍາ"
+
+msgid "Seekers"
+msgstr "ຜູ້ສະໝັກ"
+
+msgid "Active seekers"
+msgstr "ຜູ້ທີ່ກະຕືລືລົ້ນ"
+
+msgid "Providers"
+msgstr "ຜູ້ໃຫ້ບໍລິການ"
+
+msgid "Active owners"
+msgstr "ເຈົ້າຂອງທີ່ກະຕືລືລົ້ນ"
+
+msgid "Monitoring"
+msgstr "ການກວດສອບ"
+
+msgid "Redirects"
+msgstr "ສົ່ງຕໍ່"
+
+msgid "Similar"
+msgstr "ຄ້າຍຄື"
+
+msgid "Position"
+msgstr "ສະຖານທີ່"
+
+msgid "Condition"
+msgstr "ສະພາບ"
+
+msgid "Floors"
+msgstr "ຊັ້ນ"
+
+msgid "Water"
+msgstr "ນ້ຳປະປາ"
+
+msgid "Description"
+msgstr "ລັກສະນະ"
+
+msgid "Deductions"
+msgstr "ແຕກຫັກ"
+
+msgid "Not available"
+msgstr "ບໍ່ວ່າງ"
+
+msgid "Occupant"
+msgstr "ຜູ້ໂດຍສານ"
+
+msgid "Prospect"
+msgstr "ໂອກາດ"
+
+msgid "Shares"
+msgstr "ແບ່ງປັນ"
+
+msgid "Likes"
+msgstr "ມັກຫຼາຍ"
+
+msgid "Like"
+msgstr "ມັກ"
+
+msgid "Unlike"
+msgstr "ບໍ່ມັກ"
+
+msgid "Portfolio"
+msgstr "ພັອດຟໍລິໂອ"
+
+msgid "Features"
+msgstr "ຄຸນສົມບັດ"
+
+msgid "Contracted owners"
+msgstr "ເຈົ້າຂອງສັນຍາ"
+
+msgid "Contracted customer"
+msgstr "ລູກຄ້າເຈົ້າຂອງສັນຍາ"
+
+msgid "Contracted customers"
+msgstr "ສັນຍາຂອງລູກຄ້າ"
+
+msgid "Transfer tax"
+msgstr "ໂອນພາສີ"
+
+msgid "Change to"
+msgstr "ປ່ຽນເປັນ"
+
+msgid "Until"
+msgstr "ຈົນຮອດ"
+
+msgid "Location reference"
+msgstr "ສະຖານທີ່ອ້າງອີງ"
+
+msgid "Priority"
+msgstr "ໜ້າທີ່ຮັບຜິດຊອບ"
+
+msgid "Full form"
+msgstr "ແບບຟອມ"
+
+msgid "Quick form"
+msgstr "ແບບຟອມດ່ວນ"
+
+msgid "Price from"
+msgstr "ລາຄາຈາກ"
+
+msgid "Duration"
+msgstr "ໄລຍະເວລາ"
+
+msgid "Request incomplete"
+msgstr "ການຮ້ອງຂໍບໍ່ສຳເລັດ"
+
+msgid "Subscribe for"
+msgstr "Subscribe ສຳລັບ"
+
+msgid "Configuration"
+msgstr "ການກໍາຫນົດຄ່າ"
+
+msgid "Subtotal"
+msgstr "ທັງໝົດຂອງສ່ວນໜຶ່ງ"
+
+msgid "Tax notice"
+msgstr "ແຈ້ງການພາສີ"
+
+msgid "Events"
+msgstr "ເຫດການຕ່າງໆ"
+
+msgid "Present"
+msgstr "ຕອນນີ້"
+
+msgid "Missing"
+msgstr "ຂາດຫາຍໄປ"
+
+msgid "Planned"
+msgstr "ແຜນ"
+
+msgid "Full"
+msgstr "ເຕັມ"
+
+msgid "Organizer"
+msgstr "ຜູ້ກຳກັບ"
+
+msgid "Already subscribed"
+msgstr "subscribed ແລ້ວ"
+
+msgid "Attendees"
+msgstr "ຜູ້ເຂົ້າຮ່ວມ"
+
+msgid "Join"
+msgstr "ເຂົ້າຮ່ວມ"
+
+msgid "Training"
+msgstr "ການຝຶກອົບຮົມ"
+
+msgid "Require a change of password at next logon"
+msgstr "ຕ້ອງປ່ຽນລະຫັດຜ່ານເມື່ອເຂົ້າສູ່ລະບົບຄັ້ງຕໍ່ໄປ"
+
+msgid "Gross revenue"
+msgstr "ລາຍໄດ້ລວມ"
+
+msgid "Gross yield"
+msgstr "ຜົນຮັບໂດຍລວມ"
+
+msgid "Net yield"
+msgstr "ຜົນຜະລິດສຸດທິ"
+
+msgid "Vacancy rate"
+msgstr "ອັດຕາການຫວ່າງງານ"
+
+msgid "Investment"
+msgstr "ການລົງທຶນ"
+
+msgid "Lock"
+msgstr "ລັອກ"
+
+msgid "Variables"
+msgstr "ຈຳນວນທີ່ປ່ຽນແປງ"
+
+msgid "Example"
+msgstr "ຕົວຢ່າງ"
+
+msgid "Increment"
+msgstr "ເພີ່ມຂຶ້ນ"
+
+msgid "Automatic"
+msgstr "ອັດຕະໂນມັດ"
+
+msgid "Login"
+msgstr "ເຂົ້າສູ່ລະບົບ"
+
+msgid "Renovation year"
+msgstr "ປີການສ້ອມແປງ"
+
+msgid "Curriculum vitae"
+msgstr "ຊີ​ວະ​ປະ​ຫວັດ"
+
+msgid "Resellers"
+msgstr "ຕົວແທນຈຳໜ່າຍ"
+
+msgid "Select"
+msgstr "ເລືອກ"
+
+msgid "Billing"
+msgstr "ການເອີ້ນເກັບເງິນ"
+
+msgid "The balance of your account is %s"
+msgstr "ຍອດເງິນໃນບັນຊີຂອງທ່ານແມ່ນ %s"
+
+msgid "Ceiling"
+msgstr "ເພ​ດານ"
+
+msgid "Weighted area"
+msgstr "ພື້ນທີ່ທີ່ມີການຖ່ວງນ້ໍາຫນັກ"
+
+msgid "Collected"
+msgstr "ເກັບກໍາຂໍ້ມູນ"
+
+msgid "Unlimited"
+msgstr "ບໍ່ຈໍາກັດ"
+
+msgid "Quantity"
+msgstr "ປະລິມານ"
+
+msgid "Setup"
+msgstr "ຕັ້ງ​ຄ່າ"
+
+msgid "Active owner"
+msgstr "ເຈົ້າຂອງທີ່ໃຊ້ງານຢູ່"
+
+msgid "Matching at"
+msgstr "ກົງກັນທີ່"
+
+msgid "Price by area"
+msgstr "ລາຄາຕໍ່ພື້ນທີ່"
+
+msgid "Default list"
+msgstr "ລາຍການເລີ່ມຕົ້ນ"
+
+msgid "Subtype"
+msgstr "ປະເພດຍ່ອຍ"
+
+msgid "Inventory"
+msgstr "ບັນຊີສິນຄ້າ"
+
+msgid "Add a custom document"
+msgstr "ເພີ່ມເອກສານທີ່ກໍານົດໄວ້"
+
+msgid "Line spacing"
+msgstr "ໄລຍະຫ່າງລະຫວ່າງເສັ້ນ"
+
+msgid "Font"
+msgstr "ຕົວອັກສອນ"
+
+msgid "Portrait"
+msgstr "ຮູບເໝືອນ"
+
+msgid "Landscaping"
+msgstr "ພູມສັນຖານ"
+
+msgid "Account"
+msgstr "ບັນຊີ"
+
+msgid "Optional"
+msgstr "ທາງເລືອກ"
+
+msgid "File"
+msgstr "ໄຟລ໌"
+
+msgid "Collected at"
+msgstr "ເກັບຢູ່ທີ່"
+
+msgid "Link"
+msgstr "ເຊື່ອມຕໍ່"
+
+msgid "Discover our offers"
+msgstr "ຄົ້ນພົບຂໍ້ສະເຫນີຂອງພວກເຮົາ"
+
+msgid "Blank"
+msgstr "ເປົ່າຫວ່າງ"
+
+msgid "Portal"
+msgstr "ປະຕູ"
+
+msgid "Software Documentation"
+msgstr "ເອກກະສານຊ໋ອບແວ"
+
+msgid "Time"
+msgstr "ເວລາ"
+
+msgid "Dedicated website"
+msgstr "ເວັບໄຊທ໌ສະເພາະ"
+
+msgid "Subcategory"
+msgstr "ໝວດໝູ່ຍ່ອຍ"
+
+msgid "No IP control"
+msgstr "ບໍ່ມີການຄວບຄຸມ IP"
+
+msgid "Mailing"
+msgstr "ການສົ່ງເມວ"
+
+msgid "Auto publish"
+msgstr "ເຜີຍແຜ່ອັດຕະໂນມັດ"
+
+msgid "Link to property"
+msgstr "ເຊື່ອມຕໍ່ຫາອະສັງຫາ"
+
+msgid "Happy birthday!"
+msgstr "ສຸກ​ສັນ​ວັນ​ເກີດ!"
+
+msgid "Birthday"
+msgstr "ວັນເກີດ"
+
+msgid "Last login"
+msgstr "ເຂົ້າສູ່ລະບົບຄັ້ງຫຼ້າສຸດ"
+
+msgid "This property is a part of:"
+msgstr "ອະສັງຫານີ້ແມ່ນສ່ວນຫນຶ່ງຂອງ:"
+
+msgid "IP address"
+msgstr "ເລກ IP"
+
+msgid "Prospecting"
+msgstr "ການສຳຫຼວດ"
+
+msgid "Access code"
+msgstr "ລະ​ຫັດ​ການ​ເຂົ້າ​ເຖິງ"
+
+msgid "Access code at"
+msgstr "ລະ​ຫັດ​ການ​ເຂົ້າ​ເຖິງທີ່"
+
+msgid "Number of shares"
+msgstr "ຈໍານວນແຊຣ"
+
+msgid "Leads"
+msgstr "ນໍາພາ"
+
+msgid "Cancel"
+msgstr "ຍົກເລີກ"
+
+msgid "Advanced"
+msgstr "ຂັ້ນສູງ"
+
+msgid "Publish on homepage"
+msgstr "ເຜີຍແຜ່ຫນ້າທໍາອິດ"
+
+msgid "Suggested"
+msgstr "ແນະນໍາ"
+
+msgid "Welcome on %s"
+msgstr "ຍິນດີຕ້ອນຮັບສູ່ %s"
+
+msgid "Content"
+msgstr "ເນື້ອຫາ"
+
+msgid "Extranet access"
+msgstr "ການເຂົ້າເຖິງ Extranet"
+
+msgid "Publish address"
+msgstr "ເຜີຍແຜ່ທີ່ຢູ່"
+
+msgid "Opening hours"
+msgstr "ເວລາທີ່ເປີດ"
+
+msgid "Member since %s"
+msgstr "ສະມາຊິກຕັ້ງແຕ່ %s"
+
+msgid "Lock menu bar"
+msgstr "ແຖບເມນູລັອກ"
+
+msgid "Update"
+msgstr "ອັບເດດ"
+
+msgid "Booking"
+msgstr "ການຈອງ"
+
+msgid "Forward to contact"
+msgstr "ສົ່ງໄປຫາການຕິດຕໍ່"
+
+msgid "Responder"
+msgstr "ຜູ້ຕອບກັບ"
+
+msgid ""
+"You can search our Frequently Asked Questions (FAQs) database by keyword(s):"
+msgstr "ທ່ານສາມາດຊອກຫາຂໍ້ມູນທີ່ຖາມເລື້ອຍໆ (FAQs) ໄດ້ໂດຍໃຊ້ຄຳສະເພາະ:"
+
+msgid "Registrar"
+msgstr "ຄົນລົງທະບຽນ"
+
+msgid "Expiration at"
+msgstr "ໝົດອາຍຸວັນທີ"
+
+msgid "Mailbox"
+msgstr "ກ່ອງຂໍ້ຄວາມ"
+
+msgid "Domain name"
+msgstr "ຊື່ໂດເມນ"
+
+msgid "Filling"
+msgstr "ຕື່ມຂໍ້ມູນ"
+
+msgid "Condition precedent"
+msgstr "ເງື່ອນໄຂກ່ອນຫນ້ານີ້"
+
+msgid "Size"
+msgstr "ຂະຫນາດ"
+
+msgid "Deal fees"
+msgstr "ຈ່າຍຄ່າທໍານຽມ"
+
+msgid "Fees"
+msgstr "ຄ່າທໍານຽມ"
+
+msgid "Customers"
+msgstr "ລູກຄ້າ"
+
+msgid "Booked"
+msgstr "ຈອງແລ້ວ"
+
+msgid "Available"
+msgstr "ມີຢູ່"
+
+msgid "Associate"
+msgstr "ຮ່ວມມືກັນ"
+
+msgid "Ceiling height"
+msgstr "ຄວາມສູງຂອງເພດານ"
+
+msgid "Translations"
+msgstr "ການແປພາສາ"
+
+msgid "Unsold"
+msgstr "ຍັງບໍ່ໄດ້ຂາຍ"
+
+msgid "Sold"
+msgstr "ຂາຍແລ້ວ"
+
+msgid "Last action"
+msgstr "ການເຄື່ອນໄຫວຫຼ້າສຸດ"
+
+msgid "Our agency"
+msgstr "ຕົວແທນຂອງພວກເຮົາ"
+
+msgid "Locate us"
+msgstr "ຄົ້ນຫາພວກເຮົາ"
+
+msgid "Your main contact"
+msgstr "ຂໍ້ມູນຕິດຕໍ່ຫຼັກ"
+
+msgid "Send me a message"
+msgstr "ສົ່ງຂໍ້ຄວາມເຖິງຂ້ອຍ"
+
+msgid "Leave us a message"
+msgstr "ຝາກຂໍ້ຄວາມໄວ້"
+
+msgid "Price with fees"
+msgstr "ລາຄາກັບຄ່າທໍານຽມ"
+
+msgid "Owner access"
+msgstr "ການເຂົ້າເຖິງເຈົ້າຂອງ"
+
+msgid "Available for matching"
+msgstr "ສາມາດໃຊ້ການຈັບຄູ່ໄດ້"
+
+msgid "Available at"
+msgstr "ສາມາດເບິ່ງໄດ້ທີ່"
+
+msgid "Lessee"
+msgstr "ຜູ້ເຊົ່າ"
+
+msgid "Add to list"
+msgstr "ເພີ່ມໃນລາຍການ"
+
+msgid "Custom tags"
+msgstr "ແທັກທີ່ກຳນົດເອງ"
+
+msgid "%s pending approval properties"
+msgstr "%s ລາຍການທີ່ລໍຖ້າການອະນຸມັດ"
+
+msgid "Negotiable price"
+msgstr "ລາຄາທີ່ສາມາດຂາຍໄດ້"
+
+msgid "Price updated"
+msgstr "ອັບເດດລາຄາ"
+
+msgid "Less equal"
+msgstr "ໜ້ອຍກວ່າເທົ່າກັບ"
+
+msgid "Equal"
+msgstr "ເທົ່າກັບ"
+
+msgid "Greater equal"
+msgstr "ຫຼາຍກວ່າເທົ່າກັບ"
+
+msgid "Preferences"
+msgstr "ການຕັ້ງຄ່າ"
+
+msgid "Contact means"
+msgstr "ການຕິດຕໍ່ຫມາຍເຖິງ"
+
+msgid "Commission"
+msgstr "ຄ່ານາຍໜ້າ"
+
+msgid "Scheduled at"
+msgstr "ກໍານົດເວລາໄວ້ທີ່"
+
+msgid "Contract at"
+msgstr "ສັນຍາທີ່"
+
+msgid "Commitment"
+msgstr "ຂໍ້ຜູກມັດ"
+
+msgid "Commitment at"
+msgstr "ຂໍ້ຜູກມັດທີ່"
+
+msgid "Offer at"
+msgstr "ສະເຫນີທີ່"
+
+msgid "No action"
+msgstr "ບໍ່ມີການເຄື່ອນໄຫວ"
+
+msgid "Others"
+msgstr "ອື່ນໆ"
+
+msgid "Received contact information"
+msgstr "ໄດ້ຮັບຂໍ້ມູນການຕິດຕໍ່"
+
+msgid "Linked contact"
+msgstr "ລາຍຊື່ທີ່ເຊື່ອມຕໍ່ຫາ"
+
+msgid "Related contacts"
+msgstr "ລາຍຊື່ທີ່ກ່ຽວຂ້ອງ"
+
+msgid "Assigned to"
+msgstr "ມອບໝາຍ​ໃຫ້"
+
+msgid "Assign to"
+msgstr "​ມອບ​ໝາຍໃຫ້"
+
+msgid "Assign by"
+msgstr "ມອບໝາຍໂດຍ"
+
+msgid "Opened by"
+msgstr "ເປີດໂດຍ"
+
+msgid "Closed by"
+msgstr "ປິດໂດຍ"
+
+msgid "Time zone"
+msgstr "ເຂດ​ເວ​ລາ"
+
+msgid "Invert selection"
+msgstr "ກັບຄືນການເລືອກ"
+
+msgid "Select all"
+msgstr "ເລືອກທັງໝົດ"
+
+msgid "Unselect all"
+msgstr "ບໍ່ເລືອກທັງໝົດ"
+
+msgid "%s awaiting lead(s)"
+msgstr "%s ລໍຖ້າ"
+
+msgid "%s lead(s) to assign"
+msgstr "%s ມອບໝາຍ"
+
+msgid "%s pending properties"
+msgstr "%s ອະສັງຫາທີ່ຍັງຄ້າງຢູ່"
+
+msgid "%s pending matching(s)"
+msgstr "%s ການຈັບຄູ່ທີ່ຍັງຄ້າງຢູ່"
+
+msgid "%s expired agreement(s)"
+msgstr "%s ສັນຍາໝົດອາຍຸ"
+
+msgid "%s expired soon agreement(s)"
+msgstr "%s ສັນຍາຈະໝົດອາຍຸໃນໄວໆນີ້"
+
+msgid "Legal notice"
+msgstr "ແຈ້ງການທາງກົດຫມາຍ"
+
+msgid "Tags"
+msgstr "ແທັກ"
+
+msgid "Provision"
+msgstr "ຂໍ້ກຳນົດ"
+
+msgid "Allowed"
+msgstr "ອະນຸຍາດ"
+
+msgid "Min stay"
+msgstr "ຈຳນວນມື້ທີ່ພັກຕ່ຳສຸດ"
+
+msgid "Over"
+msgstr "ຫລາຍກວ່າ"
+
+msgid "Refresh"
+msgstr "ຣີເຟສ"
+
+msgid "Free text"
+msgstr "ສົ່ງຂໍ້ຄວາມຟຣີ"
+
+msgid "Generate comment"
+msgstr "ໃຫ້ຄວາມຄິດເຫັນ"
+
+msgid "Building name"
+msgstr "ຊື່ອາຄານ"
+
+msgid "VAT"
+msgstr "ພາສີມູນຄ່າເພີ່ມ"
+
+msgid "plus VAT"
+msgstr "ລວມ VAT ແລ້ວ"
+
+msgid "VAT excluded"
+msgstr "ບໍ່ລວມ VAT"
+
+msgid "Recurrence"
+msgstr "ການກັບມາອີກ"
+
+msgid "Calculator"
+msgstr "ຄຳນວນ"
+
+msgid "Contribution"
+msgstr "ສ່ວນປະກອບ"
+
+msgid "Maximum debt"
+msgstr "ຫນີ້ສິນສູງສຸດ"
+
+msgid "Purchase amount"
+msgstr "ຈໍານວນການຊື້"
+
+msgid "Borrowing calculator"
+msgstr "ຄຳນວນການກູ້ຢືມ"
+
+msgid "Monthly payment calculator"
+msgstr "ຄຳນວນລາຍຈ່າຍປະຈຳເດືອນ"
+
+msgid "You don't have broadcasting rights"
+msgstr "ທ່ານບໍ່ມີສິດເຜີຍແຜ່"
+
+msgid "Pending"
+msgstr "ລໍຖ້າ"
+
+msgid "Tips"
+msgstr "ຄໍາແນະນໍາ"
+
+msgid "Manual"
+msgstr "ຄວບຄຸມເອງ"
+
+msgid "In collaboration with a %name% professional"
+msgstr "ຮ່ວມກັບ %name% ຜູ້ຊ່ຽວຊານ"
+
+msgid "Partners"
+msgstr "ຮຸ້ນສ່ວນ"
+
+msgid "Cost"
+msgstr "ຄ່າໃຊ້ຈ່າຍ"
+
+msgid "My search"
+msgstr "ການຄົ້ນຫາຂອງຂ້ອຍ"
+
+msgid "Spouse"
+msgstr "ຄູ່ສົມຣົດ"
+
+msgid "Manager"
+msgstr "ຜູ້ຈັດການ"
+
+msgid "Category reference"
+msgstr "ອ້າງອິງໝວດໝູ່"
+
+msgid "Cadastre reference"
+msgstr "ການອ້າງອິງແຄດເຕີລີ່"
+
+msgid "Lot reference"
+msgstr "ການອ້າງອີງສ່ວນ"
+
+msgid "Block reference"
+msgstr "ການອ້າງອິງບລັອກ"
+
+msgid "Stairs reference"
+msgstr "ການອ້າງອີງຂັ້ນໄດ"
+
+msgid "Mortgage end at"
+msgstr "ສິ້ນສຸດການຈໍານອງຢູ່"
+
+msgid "Review"
+msgstr "ຣີວິວ"
+
+msgid "Medias"
+msgstr "ສື່ມວນຊົນ"
+
+msgid "Last access"
+msgstr "ເຂົ້າຄັ້ງຫຼ້າສຸດ"
+
+msgid "First access"
+msgstr "ເຂົ້າຄັ້ງທຳອິດ"
+
+msgid "Access count"
+msgstr "ຈໍານວນການເຂົ້າເຖິງ"
+
+msgid "Default"
+msgstr "ຄ່າເລີ່ມຕົ້ນ"
+
+msgid "Please do not enter any name or contact"
+msgstr "ກະລຸນາບໍ່ໃສ່ຊື່ ຫຼື ຂໍ້ມູນຕິດຕໍ່"
+
+msgid "Show price"
+msgstr "ສະແດງລາຄາ"
+
+msgid "Complete"
+msgstr "ສຳເລັດແລ້ວ"
+
+msgid "Procedure in progress"
+msgstr "ກຳລັງດຳເນີນການ"
+
+msgid "Not applicable"
+msgstr "ບໍ່ສາມາດໃຊ້ໄດ້"
+
+msgid "Fill in the table"
+msgstr "ຕື່ມຂໍ້ມູນໃສ່ຕາຕະລາງ"
+
+msgid "Choice"
+msgstr "ຕົວເລືອກ"
+
+msgid "copy"
+msgstr "ຄັດລອກ"
+
+msgid "Automatic matching"
+msgstr "ການຈັບຄູ່ອັດຕະໂນມັດ"
+
+msgid "Authorization"
+msgstr "ການອະນຸຍາດ"
+
+msgid "Last connection the %s"
+msgstr "ການເຊື່ອມຕໍ່ຫຼ້າສຸດ %s"
+
+msgid "Total"
+msgstr "ທັງໝົດ"
+
+msgid "Wiki"
+msgstr "ວິກິພີເດຍ"
+
+msgid "Latest"
+msgstr "ຫຼ້າສຸດ"
+
+msgid "Reset"
+msgstr "ຕັ້ງ​ຄ່າໃໝ່"
+
+msgid "Show/hide fields"
+msgstr "ສະແດງ / ເຊື່ອງຟີວ"
+
+msgid "Recent searches"
+msgstr "ການຄົ້ນຫາຫຼ້າສຸດ"
+
+msgid "Alerts"
+msgstr "ແຈ້ງເຕືອນ"
+
+msgid "Staff"
+msgstr "ພະນັກງານ"
+
+msgid "Standing"
+msgstr "ຄົງທີ່"
+
+msgid "Receive a copy"
+msgstr "ໄດ້ຮັບສໍາເນົາ"
+
+msgid "Latest views"
+msgstr "ເບິ່ງຄັ້ງຫຼ້າສຸດ"
+
+msgid "Quality"
+msgstr "ຄຸນນະພາບ"
+
+msgid "Waiting for partner"
+msgstr "ລໍຖ້າຮຸ້ນສ່ວນ"
+
+msgid "Viewing agreement"
+msgstr "ເບິ່ງຂໍ້ຕົກລົງ"
+
+msgid "Declined"
+msgstr "ຫຼຸດລົງ"
+
+msgid "Accept"
+msgstr "ຍອມ​ຮັບ"
+
+msgid "Accepted"
+msgstr "ຍອມຮັບ"
+
+msgid "Zone"
+msgstr "ເຂດ"
+
+msgid "Matrimonial regime"
+msgstr "ລະບົບການສົມຣົດ"
+
+msgid "Marital status"
+msgstr "ສະຖານະການສົມຣົດ"
+
+msgid "Unread"
+msgstr "ບໍ່ໄດ້ອ່ານ"
+
+msgid "Reply"
+msgstr "ຕອບກັບ"
+
+msgid "Pension"
+msgstr "ເບ້ຍບຳນານ"
+
+msgid "Beam"
+msgstr "ສະຫວ່າງ"
+
+msgid "Draft"
+msgstr "ຮ່າງ"
+
+msgid "Guests"
+msgstr "ຜູ້ເຂົ້າພັກ"
+
+msgid "Crew"
+msgstr "ບຸກຄົນ"
+
+msgid "Cruising speed"
+msgstr "ຄວາມໄວໃນການແລ່ນເຮືອ"
+
+msgid "Builder"
+msgstr "ຊ່າງກໍ່ສ້າງ"
+
+msgid "Administration"
+msgstr "ການບໍລິຫານ"
+
+msgid "Civil law notary"
+msgstr "ທະນາຍຄວາມກົດໝາຍແພ່ງ"
+
+msgid "Price max"
+msgstr "ລາຄາສູງສຸດ"
+
+msgid "Ad"
+msgstr "ການໂຄສະນາ"
+
+msgid "Reminders"
+msgstr "ການແຈ້ງເຕືອນ"
+
+msgid "Credit"
+msgstr "ເຄຣດິດ"
+
+msgid "Signature"
+msgstr "ລາຍເຊັນ"
+
+msgid "Title (politeness)"
+msgstr "ຊື່ (ສຸພາບ)"
+
+msgid "Amounts"
+msgstr "ຈໍາ​ນວນ"
+
+msgid "Updated at"
+msgstr "ອັບເດດທີ່"
+
+msgid "Created at"
+msgstr "ສ້າງທີ່"
+
+msgid "First published at"
+msgstr "ຄັ້ງທຳອິດທີ່ເຜີຍແຜ່ທີ່"
+
+msgid "Insurance"
+msgstr "ປະກັນໄພ"
+
+msgid "Entries"
+msgstr "ສິດທິໃນການເຂົ້າ"
+
+msgid "Number"
+msgstr "ຈໍານວນ"
+
+msgid "Terrace"
+msgstr "ລະບຽງ"
+
+msgid "Deposit account"
+msgstr "ບັນຊີເງິນຝາກ"
+
+msgid "Owner's price"
+msgstr "ລາຄາຂອງເຈົ້າຂອງ"
+
+msgid "Starting price"
+msgstr "ລາຄາເລີ່ມຕົ້ນ"
+
+msgid "Tel."
+msgstr "ເບີໂທ"
+
+msgid "Leases"
+msgstr "ໃຫ້ເຊົ່າ"
+
+msgid "Address"
+msgstr "ທີ່ຢູ່"
+
+msgid "Erase"
+msgstr "ລຶບ"
+
+msgid "days"
+msgstr "ວັນ"
+
+msgid "Catalog"
+msgstr "ແຄັດຕາລັອກ"
+
+msgid "Statistics"
+msgstr "ສະຖິຕິ"
+
+msgid "Built in"
+msgstr "ສ້າງຂຶ້ນໃນ"
+
+msgid "Mark"
+msgstr "ເຄື່ອງໝາຍ"
+
+msgid "Percentage"
+msgstr "ເປີເຊັນ"
+
+msgid "Visits"
+msgstr "ເຂົ້າຊົມ"
+
+msgid "Visit comment"
+msgstr "ເຂົ້າຊົມຄວາມຄິດເຫັນ"
+
+msgid "Key number"
+msgstr "ຈໍານວນທີ່ສໍາຄັນ"
+
+msgid "Key's place"
+msgstr "ສະຖານທີ່ສໍາຄັນ"
+
+msgid "Displayed city (optional)"
+msgstr "ສະແດງເມືອງ (ຕົວເລືອກ)"
+
+msgid "Displayed district (optional)"
+msgstr "ສະແດງຕົວເມືອງ (ຕົວເລືອກ)"
+
+msgid "Clauses"
+msgstr "ຂໍ້ກໍານົດ"
+
+msgid "Bathrooms"
+msgstr "ຫ້ອງນ້ໍາ"
+
+msgid "Seller"
+msgstr "ຄົນຂາຍ"
+
+msgid "Adjacency"
+msgstr "ຕິດກັບ"
+
+msgid "Step"
+msgstr "ຂັ້ນຕອນ"
+
+msgid "Long comment"
+msgstr "ໃຫ້ຄວາມຄິດເຫັນແບບຍາວໆ"
+
+msgid "Subtitle"
+msgstr "ຫົວຂໍ້ຍ່ອຍ"
+
+msgid "Last published at"
+msgstr "ເຜີຍແຜຄັ້ງຫຼ້າສຸດ"
+
+msgid "Inactive"
+msgstr "ບໍ່ໄດ້ດຳເນີນການ"
+
+msgid "Please fill in a name and a phone or an e-mail."
+msgstr "ກະລຸນາຕື່ມຊື່, ເບີໂທ ຫຼື ອີເມວ."
+
+msgid "Passwords do not match, please retype"
+msgstr "ລະຫັດຜ່ານບໍ່ກົງກັນ, ກະລຸນາພິມຄືນໃຫມ່"
+
+msgid "Please change your password"
+msgstr "ກະລຸນາປ່ຽນລະຫັດຜ່ານຂອງທ່ານ"
+
+msgid "New password should not be same as old password"
+msgstr "ລະຫັດຜ່ານໃໝ່ຕ້ອງບໍ່ຄືກັບໂຕເກົ່າ"
+
+msgid "years"
+msgstr "ປີ"
+
+msgid "Subscriptions"
+msgstr "ການສະໝັກເພື່ອຮັບຂໍ້ມູນ"
+
+msgid "Tour comment"
+msgstr "ຄຳຄິດເຫັນດ້ານການທ່ອງທ່ຽວ"
+
+msgid "Activities"
+msgstr "ການເຄື່ອນໄຫວ"
+
+msgid "Add opening hours"
+msgstr "ເພີ່ມຊົ່ວໂມງເປີດ"
+
+msgid "Personal"
+msgstr "ສ່ວນບຸກຄົນ"
+
+msgid ""
+"Please note that there are dependencies, please select a contact for "
+"completing the data transfer."
+msgstr ""
+"ຫວັງວ່າທ່ານຈະເພິ່ງພໍໃຈ ແລະ "
+"ຂໍຂອບໃຈທີ່ທ່ານເລືອກເອົາລາຍຊື່ໃນການສໍາເລັດການໂອນຂໍ້ມູນ"
+
+msgid "The installation can take several minutes, please come back later."
+msgstr "ການຕິດຕັ້ງອາດໃຊ້ເວລາຫຼາຍນາທີ, ກະລຸນາກັບມາໃນພາຍຫຼັງ."
+
+msgid "Your contact speaks %s, would you like to change the language?"
+msgstr "ລາຍຊື່ຂອງທ່ານແຈ້ງວ່າ %s, ທ່ານຕ້ອງການປ່ຽນພາສາ ຫຼື ບໍ່?"
+
+msgid "Would you like to publish on the homepage?"
+msgstr "ທ່ານຕ້ອງການເຜີຍແຜ່ໃນຫນ້າທໍາອິດບໍ່?"
+
+msgid "<b>Warning :</b> there is an error, please check each fields."
+msgstr "ຄໍາເຕືອນ: ມີຂໍ້ຜິດພາດ, ກະລຸນາກວດເບິ່ງແຕ່ລະຟິວ."
+
+msgid "Price/sq m"
+msgstr "ລາຄາ / ຕາລາງເມດ"
+
+msgid "today"
+msgstr "ວັນນີ້"
+
+msgid "week"
+msgstr "ອາທິດ"
+
+msgid "Page"
+msgstr "ໜ້າ"
+
+msgid "Status"
+msgstr "ສະຖານະ"
+
+msgid "agencies"
+msgstr "ຕົວແທນບໍລິສັດ"
+
+msgid "Context"
+msgstr "ຂົງເຂດ"
+
+msgid "More criteria"
+msgstr "ເງື່ອນໄຂເພີ່ມຕື່ມ"
+
+msgid "Criteria"
+msgstr "ເງື່ອນໄຂ"
+
+msgid "Classification"
+msgstr "ການຈັດປະເພດ"
+
+msgid "metres"
+msgstr "ແມັດ"
+
+msgid "Window"
+msgstr "ປ່ອງຍ້ຽມ"
+
+msgid "Stock area"
+msgstr "ພື້ນທີ່ສະຕັອກ"
+
+msgid "Sales area"
+msgstr "ພື້ນທີ່ຂາຍ"
+
+msgid "Sold price"
+msgstr "ລາຄາຂາຍ"
+
+msgid "Broadcast to"
+msgstr "ປະກາດເຖິງ"
+
+msgid "The property will not be published because it is in step « %s »"
+msgstr "ລາຍການດັ່ງກ່າວຈະບໍ່ມີການເຜີຍແຜ່ເພາະມັນຢູ່ໃນຂັ້ນຕອນ « %s »"
+
+msgid "Last agencies"
+msgstr "ຕົວແທນຫຼ້າສຸດ"
+
+msgid "I confirm my subscription to %s and I accept the general conditions"
+msgstr "ຂ້ອຍຢືນຢັນການສະຫມັກຂອງຂ້ອຍກັບ %s ແລະ ຂ້ອຍຍອມຮັບເງື່ອນໄຂທົ່ວໄປ"
+
+msgid "sq m"
+msgstr "ຕາລາງແມັດ"
+
+msgid "Private comment"
+msgstr "ຄຳຄິດເຫັນສ່ວນຕົວ"
+
+msgid "Private"
+msgstr "ສ່ວນຕົວ"
+
+msgid "Level"
+msgstr "ລະດັບ"
+
+msgid "Exchange"
+msgstr "ການແລກປ່ຽນ"
+
+msgid "by"
+msgstr "ໂດຍ"
+
+msgid "Elevator"
+msgstr "ລິຟ"
+
+msgid "no"
+msgstr "ບໍ່"
+
+msgid "yes"
+msgstr "ແມ່ນ"
+
+msgid "Printed with care"
+msgstr "ພິມດ້ວຍຄວາມລະມັດລະວັງ"
+
+msgid "Please do not litter on public way"
+msgstr "ກະລຸນາບໍ່ຖິ້ມຂີ້ເຫຍື້ອໃນທີ່ສາທາລະນະ"
+
+msgid "Non-contractual information"
+msgstr "ບໍ່ແມ່ນຂໍ້ມູນຕາມສັນຍາ"
+
+msgid "Agency fees"
+msgstr "ຄ່າທໍານຽມຂອງນາຍໜ້າ"
+
+msgid "Agency fees included"
+msgstr "ລວມຄ່າທຳນຽມນາຍໜ້າແລ້ວ"
+
+msgid "Agency fees not included"
+msgstr "ຍັງບໍ່ລວມຄ່າທຳນຽມນາຍໜ້າ"
+
+msgid "Personal property tax"
+msgstr "ພາສີຊັບສິນສ່ວນບຸກຄົນ"
+
+msgid "Property tax"
+msgstr "ພາສີຊັບສິນ"
+
+msgid "Style"
+msgstr "ແບບ"
+
+msgid "Parkings"
+msgstr "ບ່ອນຈອດລົດ"
+
+msgid "Private sheet"
+msgstr "ເອກະສານສ່ວນບຸກຄົນ"
+
+msgid "Public sheet"
+msgstr "ເອກະສານທົ່ວໄປ"
+
+msgid "Service"
+msgstr "ການບໍລິການ"
+
+msgid "Language"
+msgstr "ພາສາ"
+
+msgid "Cart"
+msgstr "ລົດເຂັນ"
+
+msgid "Land type"
+msgstr "ປະເພດທີ່ດິນ"
+
+msgid "Property agent"
+msgstr "ນາຍໜ້າອະສັງຫາ"
+
+msgid "End at"
+msgstr "ສິ້ນສຸດທີ່"
+
+msgid "Close at"
+msgstr "ປິດທີ່"
+
+msgid "Start at"
+msgstr "ເລີ່ມທີ່"
+
+msgid "Guarantee"
+msgstr "ຮັບປະກັນ"
+
+msgid "Inter-agencies"
+msgstr "ອົງການຈັດຕັ້ງສາກົນ"
+
+msgid "Number of floors"
+msgstr "ຈຳນວນຊັ້ນ"
+
+msgid "Evaluated price"
+msgstr "ລາຄາປະເມີນ"
+
+msgid "Seller's commission"
+msgstr "ຄ່ານາຍໜ້າຂອງນາຍໜ້າຜູ້ຂາຍ"
+
+msgid "Buyer's commission"
+msgstr "ຄ່ານາຍໜ້າຂອງນາຍໜ້າຜູ້ຊື້"
+
+msgid "Origin"
+msgstr "ທີ່ມາ"
+
+msgid "Specific origin"
+msgstr "ທີ່ມາສະເພາະ"
+
+msgid "Flooring"
+msgstr "ວັດສະດຸປູພື້ນ"
+
+msgid "Rank"
+msgstr "ຕຳແຫນ່ງ"
+
+msgid "Phone call"
+msgstr "ໂທຫາ"
+
+msgid "Publications"
+msgstr "ສິ່ງພິມຕ່າງໆ"
+
+msgid "Send to contact"
+msgstr "ສົ່ງຫາລາຍຊື່"
+
+msgid "No results found"
+msgstr "ບໍ່ພົບຜົນໄດ້ຮັບ"
+
+msgid "result"
+msgstr "ຜົນໄດ້ຮັບ"
+
+msgid "Advertiser"
+msgstr "ຜູ້ລົງໂຄສະນາ"
+
+msgid "Active"
+msgstr "ດໍາເນີນຢູ່"
+
+msgid "Confidential"
+msgstr "ຄວາມລັບ"
+
+msgid "Edit"
+msgstr "ແກ້ໄຂ"
+
+msgid "Save"
+msgstr "ບັນທຶກ"
+
+msgid "Succession"
+msgstr "ສໍາເລັດ"
+
+msgid "Please fill in a city."
+msgstr "ກະລຸນາຕື່ມຂໍ້ມູນເມືອງ."
+
+msgid "Please fill"
+msgstr "ກະລຸນາຕື່ມຂໍ້ມູນ"
+
+msgid "The email address is invalid."
+msgstr "ທີ່ຢູ່ອີເມວບໍ່ຖືກຕ້ອງ."
+
+msgid "Rights"
+msgstr "ສິດທິ"
+
+msgid "Display"
+msgstr "ສະແດງຜົນ"
+
+msgid "Since"
+msgstr "ຕັ້ງແຕ່"
+
+msgid "Filter"
+msgstr "ການກັ່ນຕອງ"
+
+msgid "Min"
+msgstr "ຈຳນວນຕ່ຳສຸດ"
+
+msgid "Max"
+msgstr "ຈຳນວນສູງສຸດ"
+
+msgid "Lessor"
+msgstr "ນັກລົງທຶນ"
+
+msgid "Reservations"
+msgstr "ການຈອງຫ້ອງພັກ"
+
+msgid "Bed"
+msgstr "ຕຽງ"
+
+msgid "Cleaning price"
+msgstr "ລາຄາທໍາຄວາມສະອາດ"
+
+msgid "Availabilities"
+msgstr "ວ່າງ"
+
+msgid "month"
+msgstr "ເດືອນ"
+
+msgid "Seasonal"
+msgstr "ລະດູການ"
+
+msgid "Todo"
+msgstr "ສິ່ງທີ່ຕ້ອງເຮັດ"
+
+msgid "Brand"
+msgstr "ຍີ່ຫໍ້"
+
+msgid "Publicated at"
+msgstr "ເຜີຍແຜ່ທີ່"
+
+msgid "Networks"
+msgstr "ເຄືອຂ່າຍ"
+
+msgid "Bank"
+msgstr "ທະນາຄານ"
+
+msgid "Brief comment"
+msgstr "ຄໍາເຫັນສັ້ນໆ"
+
+msgid "Delivery at"
+msgstr "ຈັດສົ່ງທີ່"
+
+msgid "Reason"
+msgstr "ເຫດ​ຜົນ"
+
+msgid "What's new"
+msgstr "ມີ​ຫຍັງ​ໃຫມ່"
+
+msgid "request"
+msgstr "ຄໍາຮ້ອງຂໍ"
+
+msgid "Current rent"
+msgstr "ຄ່າເຊົ່າໃນປະຈຸບັນ"
+
+msgid "property"
+msgstr "ອະສັງຫາ"
+
+msgid "Bill"
+msgstr "ໃບເກັບເງິນ"
+
+msgid "Birthplace"
+msgstr "ບ້ານເກີດ"
+
+msgid "Income"
+msgstr "ລາຍຮັບ"
+
+msgid "Margin"
+msgstr "ຂອບ"
+
+msgid "Required."
+msgstr "ຕ້ອງການ."
+
+msgid "Spoken languages"
+msgstr "ພາສາທີ່ໃຊ້"
+
+msgid "Number of children"
+msgstr "ຈໍານວນເດັກນ້ອຍ"
+
+msgid "Hotline"
+msgstr "ສາຍດ່ວນ"
+
+msgid "Re-type password"
+msgstr "ພິມລະຫັດຜ່ານອີກຄັ້ງ"
+
+msgid "Public longitude"
+msgstr "ເສັ້ນຮຸ້ງທົ່ວໄປ"
+
+msgid "Public latitude"
+msgstr "ເສັ້ນແວງທົ່ວໄປ"
+
+msgid "Access denied"
+msgstr "ປະ​ຕິ​ເສດ​ການ​ເຂົ້າ​ເຖິງ"
+
+msgid "Access"
+msgstr "ເຂົ້າເຖິງ"
+
+msgid "Launch"
+msgstr "ດຳເນີນການ"
+
+msgid "Life annuity length"
+msgstr "ໄລຍະເວລາຂອງເງິນປະກັນຊີວິດ"
+
+msgid "Market value"
+msgstr "ມູນ​ຄ່າໃນ​ຕະ​ຫຼາດ"
+
+msgid "Price contribution"
+msgstr "ສ່ວນປະກອບໃນລາຄາ"
+
+msgid "Sharing"
+msgstr "ການແບ່ງປັນ"
+
+msgid "Show more results"
+msgstr "ສະແດງຜົນໄດ້ຮັບເພີ່ມຕື່ມ"
+
+msgid "Close"
+msgstr "ປິດ"
+
+msgid "Hide"
+msgstr "ເຊື່ອງໄວ້"
+
+msgid "Keywords"
+msgstr "ຄໍາສໍາຄັນ"
+
+msgid "Corporate register"
+msgstr "ຈົດທະບຽນບໍລິສັດ"
+
+msgid "Expired soon"
+msgstr "ໝົົດອາຍຸການໃຊ້ງານໃນໄວໆນີ້"
+
+msgid "Expired"
+msgstr "ໝົົດອາຍຸການໃຊ້ງານ"
+
+msgid "Agreement"
+msgstr "ຂໍ້ຕົກລົງ"
+
+msgid "Agreement number"
+msgstr "ໝາຍເລກຂໍ້ຕົກລົງ"
+
+msgid "VAT identification number"
+msgstr "ຫມາຍເລກ VAT"
+
+msgid "What's on your mind?"
+msgstr "ເຈົ້າ​ກໍາ​ລັງ​ຄິດ​ຫຍັງ​ຢູ່?"
+
+msgid "Buyer"
+msgstr "ຜູ້ຊື້"
+
+msgid "Limit"
+msgstr "ຈຳກັດ"
+
+msgid "Publish"
+msgstr "ເຜີຍແຜ່"
+
+msgid "Do not publish"
+msgstr "ຫ້າມເຜີຍແຜ່"
+
+msgid "Already suggested"
+msgstr "ແນະນຳແລ້ວ"
+
+msgid "To suggest"
+msgstr "ແນະນຳ"
+
+msgid "Diagnostics"
+msgstr "ການວິນິດໄສ"
+
+msgid "Footer"
+msgstr "ສ່ວນທ້າຍ"
+
+msgid "Header"
+msgstr "ສ່ວນຫົວ"
+
+msgid "Serviced plot"
+msgstr "ດິນທີ່ໃຫ້ບໍລິການ"
+
+msgid "Net floor area"
+msgstr "ພື້ນທີ່ສຸດທິ"
+
+msgid "Sold at"
+msgstr "ຂາຍທີ່"
+
+msgid "Preview"
+msgstr "ເບິ່ງຕົວຢ່າງ"
+
+msgid "Garden area"
+msgstr "ພື້ນທີ່ສວນ"
+
+msgid "Payments"
+msgstr "ການຊໍາລະເງິນ"
+
+msgid "Reopen"
+msgstr "ເປີດໃໝ່"
+
+msgid "Callbacks"
+msgstr "ຮ້ອງຄືນ"
+
+msgid "%s property"
+msgstr "%s ອະສັງຫາ"
+
+msgid "%s requests"
+msgstr "%s ຄຳຮ້ອງຂໍ"
+
+msgid "Characteristics"
+msgstr "ຄຸນລັກສະນະ"
+
+msgid "Sorry, this property is no longer available."
+msgstr "ຂໍອະໄພລາຍການນີ້ແມ່ນບໍ່ມີແລ້ວ"
+
+msgid "Processed"
+msgstr "ປະມວນຜົນ"
+
+msgid "remaining tickets"
+msgstr "ປີ້ທີ່ເຫຼືອ"
+
+msgid "Congratulations ! No more support tickets."
+msgstr "ຂໍສະແດງຄວາມຍິນດີ !  ບໍ່ມີປີ້ສະໜັບສະໜຸນແລ້ວ."
+
+msgid "unassigned tickets"
+msgstr "ປີ້ທີ່ຍັງບໍ່ໄດ້ເຊັນ"
+
+msgid "All tickets are assigned."
+msgstr "ປີ້ທັງຫມົດຖືກມອບໝາຍແລ້ວ."
+
+msgid "task in progress"
+msgstr "ງານທີ່ກຳລັງດຳເນີນຢູ່"
+
+msgid "Database"
+msgstr "ຖານຂໍ້ມູນ"
+
+msgid "Used"
+msgstr "ນຳໃຊ້ແລ້ວ"
+
+msgid "%s results"
+msgstr "%s ຜົນໄດ້ຮັບ"
+
+msgid "Subscribe to the newsletter"
+msgstr "Subscribe ຂ່າວສານ"
+
+msgid "Purge"
+msgstr "ລ້າງ"
+
+msgid "Valuation methods"
+msgstr "ວິທີປະເມີນຄ່າ"
+
+msgid "Rebuild cost"
+msgstr "ສ້າງຄ່າໃຊ້ຈ່າຍໃໝ່"
+
+msgid "Capitalization"
+msgstr "ການໃຊ້ທຶນ"
+
+msgid "Comparative market analysis"
+msgstr "ການວິເຄາະຕະຫຼາດປຽບທຽບ"
+
+msgid "An average of"
+msgstr "ຄ່າສະເລ່ຍຂອງ"
+
+msgid "Your own valuation"
+msgstr "ມູນຄ່າຂອງທ່ານເອງ"
+
+msgid "Desired profitability"
+msgstr "ກໍາໄລທີ່ຕ້ອງການ"
+
+msgid "Taxes and/or fees"
+msgstr "ພາສີ / ຄ່າທໍານຽມ"
+
+msgid "Year of purchase"
+msgstr "ປີທີ່ຊື້"
+
+msgid "Rental income"
+msgstr "ລາຍໄດ້ຄ່າເຊົ່າ"
+
+msgid "Price of purchase"
+msgstr "ລາຄາທີ່ຊື້"
+
+msgid "Land price"
+msgstr "ລາຄາທີ່ດິນ"
+
+msgid "Cost of construction"
+msgstr "ຄ່າໃຊ້ຈ່າຍໃນການກໍ່ສ້າງ"
+
+msgid "Interior fittings"
+msgstr "ອຸປະກອນພາຍໃນ"
+
+msgid "Decrepitude"
+msgstr "ຊະຣາພາບ"
+
+msgid "Capital losses"
+msgstr "ການສູນເສຍທຶນ"
+
+msgid "Capital gains"
+msgstr "ທຶນເພີ່ມຂຶ້ນ"
+
+msgid "Your mailbox has exceeded the storage limit (%s)"
+msgstr "ກ່ອງຂໍ້ຄວາມຂອງທ່ານເກີນຂີດຈຳກັດຂອງພື້ນທີ່ຈັດເກັບຂໍ້ມູນ (%s)"
+
+msgid "Your mailbox will reach the storage limit"
+msgstr "ກ່ອງຂໍ້ຄວາມຂອງທ່ານຈະເຖິງຂີດຈຳກັດຂອງພື້ນທີ່ຈັດເກັບຂໍ້ມູນ"
+
+msgid "Sort by"
+msgstr "ຈັດຮຽງຕາມ"
+
+msgid "Condominium in difficulty"
+msgstr "ຄອນໂດມິນຽມທີ່ຢູ່ໃນສະພາບຫຍຸ້ງຍາກ"
+
+msgid "Back to the list"
+msgstr "ກັບຄືນສູ່ລາຍການ"
+
+msgid "Previous listing"
+msgstr "ລາຍການກ່ອນໜ້ານີ້"
+
+msgid "Next listing"
+msgstr "ລາຍການຕໍ່ໄປ"
+
+msgid "empty"
+msgstr "ເປົ່າວ່າງ"
+
+msgid "Filename"
+msgstr "ຊື່ໄຟລ໌"
+
+msgid "Keyword"
+msgstr "ຄໍາຫຼັກ"
+
+msgid "Values"
+msgstr "ມູນຄ່າ"
+
+msgid "New feed"
+msgstr "ໜ້າໃໝ່"
+
+msgid "Error"
+msgstr "ຂໍ້ຜິດພາດ"
+
+msgid "Erase all"
+msgstr "ລຶບທັງໝົດ"
+
+msgid "Try"
+msgstr "ລອງ"
+
+msgid "Query"
+msgstr "ສອບຖາມ"
+
+msgid "Agency fees payable by vendor"
+msgstr "ຄ່າທໍານຽມຂອງຜູ້ຂາຍ"
+
+msgid "Agency fees payable by buyer"
+msgstr "ຄ່າທໍານຽມຂອງຜູ້ຊື້"
+
+msgid "Condominium fees"
+msgstr "ຄ່າຄອນໂດມິນຽມ"
+
+msgid "An error occurred"
+msgstr "ເກີດຄວາມຜິດພາດ"
+
+msgid "Successful subscription"
+msgstr "ສະໝັກສະມາຊິກສຳເລັດ"
+
+msgid "Created date"
+msgstr "ວັນທີສ້າງ"
+
+msgid "Updated date"
+msgstr "ວັນທີ່ອັບເດດ"
+
+msgid "Back to homepage"
+msgstr "ກັບໄປຫນ້າຫຼັກ"
+
+msgid "Price min"
+msgstr "ລາຄາຕ່ຳສຸດ"
+
+msgid "Room min"
+msgstr "ຈຳນວນຫ້ອງຕ່ຳສຸດ"
+
+msgid "Room max"
+msgstr "ຈຳນວນຫ້ອງສູງສຸດ"
+
+msgid "Project at"
+msgstr "ໂຄງການຢູ່"
+
+msgid "Agency rate"
+msgstr "ອັດຕານາຍໜ້າ"
+
+msgid "Tenant's commission"
+msgstr "ຄ່າທໍານຽມຜູ້ເຊົ່າ"
+
+msgid "Inventory tenant charge"
+msgstr "ສິນຄ້າຄົງຄັງຜູ້ເຊົ່າ"
+
+msgid "Fees included"
+msgstr "ຄ່າທໍານຽມລວມ"
+
+msgid "Provision on recoverable fees"
+msgstr "ການຈ່າຍຄ່າທໍານຽມທີ່ສາມາດຄືນໄດ້"
+
+msgid "Never"
+msgstr "ບໍ່ເຄີຍ"
+
+msgid "Remaining credits"
+msgstr "ສິນເຊື່ອທີ່ຍັງເຫຼືອ"
+
+msgid "Buy credits"
+msgstr "ຊື້ເຄຣດິດ"
+
+msgid "%s credits"
+msgstr "%s ເຄຣດິດ"
+
+msgid "Transaction fees"
+msgstr "ຄ່າທໍານຽມການເຮັດທຸລະກໍາ"
+
+msgid "View property"
+msgstr "ເບິ່ງລາຍລະອຽດ"
+
+msgid "lots available"
+msgstr "ສ່ວນທີ່ສາມາດໃຊ້ໄດ້"
+
+msgid "Area min"
+msgstr "ເນື້ອທີ່ຕ່ຳສຸດ"
+
+msgid "Search a property"
+msgstr "ຄົ້ນຫາອະສັງຫາ"
+
+msgid "International"
+msgstr "ສາກົນ"
+
+msgid "The property will not be published because it is in group « %s »"
+msgstr "ລາຍການນີ້ຈະບໍ່ຖືກເຜີຍແຜ່ເພາະມັນຢູ່ໃນກຸ່ມ « %s »"
+
+msgid "%s months"
+msgstr "%s ເດືອນ"
+
+msgid "No action after"
+msgstr "ບໍ່ມີການດຳເນີນການຫຼັງຈາກນີ້"
+
+msgid "%s pending delete"
+msgstr "%s ລໍຖ້າການລຶບ"
+
+msgid "Pending delete"
+msgstr "ລໍຖ້າລຶບ"
+
+msgid "%s to delete"
+msgstr "%s ລຶບ"
+
+msgid "Edit my search"
+msgstr "ແກ້ໄຂການຄົ້ນຫາ"
+
+msgid "Activate my search"
+msgstr "ເປີດໃຊ້ງານການຄົ້ນຫາ"
+
+msgid "Cancel my search"
+msgstr "ຍົກເລີກການຄົ້ນຫາ"
+
+msgid "Only authorized properties"
+msgstr "ອະສັງຫາທີ່ໄດ້ຮັບອະນຸຍາດເທົ່ານັ້ນ"
+
+msgid "Another currency"
+msgstr "ສະກຸນເງິນອື່ນ"
+
+msgid "Enter the first 6 digits"
+msgstr "ເພີ່ມ 6 ຕົວເລກ"
+
+msgid ""
+"Without action on your part, your contact will be deleted before the %s."
+msgstr "ບໍ່ມີການເຄື່ອນໄຫວໃນສ່ວນຂອງທ່ານ, ຂໍ້ມູນຂອງທ່ານຈະຖືກລຶບກ່ອນທີ່ %s"
+
+msgid "No procedure in progress"
+msgstr "ບໍ່ມີການດຳເນີນການ"
+
+msgid "Number of lots in the condominium"
+msgstr "ຈຳນວນຫ້ອງໃນຄອນໂດ"
+
+msgid "Network authorized"
+msgstr "ໄດ້ຮັບອະນຸຍາດດ້ານເຄືອຂ່າຍແລ້ວ"
+
+msgid "Renew the lease"
+msgstr "ໃຫ້ເຊົ່າໃຫມ່"
+
+msgid "Remove at"
+msgstr "ເອົາອອກ"
+
+msgid "External action"
+msgstr "ການຈັດການດ້ານນອກ"
+
+msgid ""
+"The migration of your prospect into a request will allow you to make "
+"matching and proposals with a better tracking."
+msgstr "ການເຄື່ອນໄຫວເປັນປະຈຳຈະຊ່ວຍໃຫ້ທ່ານໄດ້ຮັບຂໍ້ມູນຫຼາຍຂຶ້ນ"
+
+msgid "Job"
+msgstr "ອາຊີບ"
+
+msgid "Unsuscribe from this list"
+msgstr "Unsuscribe ຈາກລາຍການນີ້"
+
+msgid "Entry"
+msgstr "ທາງເຂົ້າ"
+
+msgid "Exit"
+msgstr "ທາງອອກ"
+
+msgid "Secured"
+msgstr "ຄວາມປອດໄພ"
+
+msgid "Document"
+msgstr "ເອກກະສານ"
+
+msgid "%s unit"
+msgstr "%s ຫຼວງຫຼາຍ"
+
+msgid "Not suggested"
+msgstr "ບໍ່ແນະນຳ"
+
+msgid "%s guest"
+msgstr "%s ຜູ້ເຂົ້າພັກ"
+
+msgid "%s bed"
+msgstr "%s ຕຽງ"
+
+msgid "%s bathroom"
+msgstr "%s ຫ້ອງນ້ຳ"
+
+msgid "%s bathrooms"
+msgstr "%s ຫ້ອງນ້ໍາ"
+
+msgid "Professionals"
+msgstr "ຜູ້ຊ່ຽວຊານ"
+
+msgid "Shower room"
+msgstr "ຫ້ອງນ້ຳ"
+
+msgid "Help"
+msgstr "ຕ້ອງການຄວາມຊ່ວຍເຫຼືອບໍ່"
+
+msgid "Show pagination"
+msgstr "ສະແດງຫນ້າປອດ"
+
+msgid "Available soon"
+msgstr "ຈະມີໃນໄວໆນີ້"
+
+msgid "HD Photo"
+msgstr "HD Photo"
+
+#, fuzzy
+msgid "Contract end at"
+msgstr ""
+"#-#-#-#-#  apimo-lo_LA.po  #-#-#-#-#\n"
+"ຄິດໄລ່ທີ່ສະມັກພັກ\n"
+"#-#-#-#-#  apimo-lo_LA.po  #-#-#-#-#\n"
+"ສັນຍາສິ້ນສຸດທີ"
+
+msgid "Incomplete"
+msgstr "ຫ້ອງໄປບໍ່ສົບ"
+
+msgid "Location Map"
+msgstr "ແຜນທີ່ທີ່ຕັ້ງ"
+
+msgid "User Detail"
+msgstr "ລາຍລະອຽດຜູ້ໃຊ້"
+
+msgid "File size"
+msgstr "ຂະໜາດໄຟລ໌"
+
+msgid "File title"
+msgstr "ຊື່ໄຟລ໌"
+
+msgid "Region"
+msgstr "ພາກສ່ວນ"
+
+msgid "Bath"
+msgstr "ຫ້ອງນ້ຳ"
+
+msgid "Private Negotiation"
+msgstr "ການເຊື່ອມໂຍງສ່ວນຕົວ"
+
+msgid "Property specifications"
+msgstr "ຄຸນສົມບັດຂອງຊັບພະຍາກອນ"
+
+msgid "Energy performance"
+msgstr "ຄວາມສາມາດດ້ານພະລັງງານ"
+
+msgid "Media Details"
+msgstr "ລາຍລະອຽດສື່ສານ"
+
+msgid "View Video"
+msgstr "ເບິ່ງວິດີໂອ"
+
+msgid "Start Date"
+msgstr "ວັນທີ່ເລີ່ມ"
+
+msgid "End Date"
+msgstr "ວັນທີ່ສິ້ນສຸດ"
+
+msgid "Welcome"
+msgstr "ຍິນດີຕ້ອນຮັບ"
+
+msgid "See What’s happening with Apimo Plugin."
+msgstr "ເບິ່ງວ່າຫຍັງກຳລັງເກີດຂຶ້ນກັບ Apimo Plugin."
+
+msgid "PROVIDERS"
+msgstr "ຜູ້ສະໜອງ"
+
+msgid "AGENCIES"
+msgstr "ອົງກອນ"
+
+msgid "PROPERTIES"
+msgstr "ຄຸນນະສົມບັ"
+
+msgid "Remove all"
+msgstr "ເອົາອອກທັງໝົດ"
+
+msgid "Apply filter"
+msgstr "ນຳໃຊ້ການກັ່ນຕອງ"
+
+msgid "Select Subtype"
+msgstr "ເລືອກປະເພດຍ່ອຍ"
+
+msgid "Enchère"
+msgstr "ປະມູນ"
+
+msgid "Location"
+msgstr "ເຊົ່າ"
+
+msgid "Location saisonnière"
+msgstr "ເຊົ່າຕາມລະດູການ"
+
+msgid "From"
+msgstr ""
+
+msgid "To"
+msgstr ""
+
+msgid "Dates"
+msgstr ""
+
+msgid "Select country"
+msgstr ""
+
+msgid "Select region"
+msgstr ""
+
+msgid "Select district"
+msgstr ""
+
+msgid "Select city"
+msgstr ""
+
+msgid "Good"
+msgstr "ດີ"
+
+msgid "Bad"
+msgstr "ບໍ່ດີ"
+
+msgid "hello"
+msgstr "ສະບາຍດີ"
+
+msgid "Available Integrations"
+msgstr "ການເຊື່ອມໂຍງທີ່ມີຢູ່"
+
+msgid "reCAPTCHA Detected"
+msgstr "reCaptcha ກວດພົບ"
+
+msgid "reCAPTCHA Not Detected"
+msgstr "Recaptcha ບໍ່ໄດ້ກວດພົບ"
+
+msgid "Google reCAPTCHA Integration"
+msgstr "Google recaptcha ການເຊື່ອມໂຍງ"
+
+msgid ""
+"Protect your forms from spam and abuse with Google reCAPTCHA integration."
+msgstr ""
+"ປົກປ້ອງຮູບແບບຂອງທ່ານຈາກ spam ແລະການລ່ວງລະເມີດກັບ Google Recaptcha "
+"ການເຊື່ອມໂຍງເຂົ້າກັບ Google."
+
+msgid "Activate Integration"
+msgstr "ກະຕຸ້ນການເຊື່ອມໂຍງເຂົ້າ"
+
+msgid "Deactivate Integration"
+msgstr "ປິດການເຊື່ອມໂຍງ"
+
+msgid "reCAPTCHA Configuration"
+msgstr "ການຕັ້ງຄ່າ reCAPTCHA"
+
+msgid "Please configure your reCAPTCHA keys below to complete the setup."
+msgstr ""
+"ກະລຸນາຕັ້ງຄ່າຄີຫຼັງ reCAPTCHA ຂອງທ່ານໄວ້ທາງລຸ່ມເພື່ອສໍາເລັດການຕັ້ງຄ່າ."
+
+msgid "To complete the reCAPTCHA setup:"
+msgstr "ເພື່ອໃຫ້ສໍາເລັດການຕິດຕັ້ງ reCAPTCHA:"
+
+msgid "Go to the"
+msgstr "ໄປ"
+
+msgid "Google reCAPTCHA Admin Console"
+msgstr "Google Recaptcha Admin Console"
+
+msgid "Register your site and get your Site Key and Secret Key"
+msgstr "ລົງທະບຽນເວັບໄຊທ໌້ຂອງທ່ານແລະຮັບເອົາປຸ່ມສະຖານທີ່ຂອງທ່ານແລະສໍາຄັນຂອງທ່ານ"
+
+msgid "Enter the keys below to activate reCAPTCHA"
+msgstr "ໃສ່ກະແຈດ້ານລຸ່ມເພື່ອກະຕຸ້ນ Recaptcha"
+
+msgid "reCAPTCHA is configured properly."
+msgstr "reCaptcha ຖືກຕັ້ງຄ່າໃຫ້ຖືກຕ້ອງ."
+
+msgid "Site Key"
+msgstr "ປຸ່ມ Site"
+
+msgid "Secret Key"
+msgstr "ກຸນແຈລັບ"
+
+msgid "Save Configuration"
+msgstr "ບັນທຶກການຕັ້ງຄ່າ"
+
+msgid "Contact Form"
+msgstr "ແບບຟອມຕິດຕໍ່"
+
+msgid "Invalid format"
+msgstr "ຮູບແບບທີ່ບໍ່ຖືກຕ້ອງ"
+
+msgid "This field is required"
+msgstr "ສະຫນາມນີ້ແມ່ນຈໍາເປັນ"
+
+msgid "Invalid email format"
+msgstr "ຮູບແບບອີເມວບໍ່ຖືກຕ້ອງ"
+
+msgid "Send"
+msgstr "ສົ່ງ"
+
+msgid "Please use reCAPTCHA version 3"
+msgstr "ກະລຸນາໃຊ້ລຸ້ນ recaptcha 3"

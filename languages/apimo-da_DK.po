@@ -1,0 +1,5229 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: da_DK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.1\n"
+
+msgid "Reminder"
+msgstr "Påmindelse"
+
+msgid "Suggestion"
+msgstr "Forslag"
+
+msgid "Report"
+msgstr "Rapport"
+
+#, fuzzy
+msgid "Other"
+msgstr ""
+"#-#-#-#-#  apimo-da_DK.po  #-#-#-#-#\n"
+"Anden\n"
+"#-#-#-#-#  apimo-da_DK.po  #-#-#-#-#\n"
+"Andet\n"
+"#-#-#-#-#  apimo-da_DK.po  #-#-#-#-#\n"
+"Andet\n"
+"#-#-#-#-#  apimo-da_DK.po  #-#-#-#-#\n"
+"Anden\n"
+"#-#-#-#-#  apimo-da_DK.po  #-#-#-#-#\n"
+"Anden"
+
+#, fuzzy
+msgid "Valuation"
+msgstr ""
+"#-#-#-#-#  apimo-da_DK.po  #-#-#-#-#\n"
+"Estimering\n"
+"#-#-#-#-#  apimo-da_DK.po  #-#-#-#-#\n"
+"Bedømmelse\n"
+"#-#-#-#-#  apimo-da_DK.po  #-#-#-#-#\n"
+"Vurdering"
+
+#, fuzzy
+msgid "Advertising"
+msgstr ""
+"#-#-#-#-#  apimo-da_DK.po  #-#-#-#-#\n"
+"Reklame\n"
+"#-#-#-#-#  apimo-da_DK.po  #-#-#-#-#\n"
+"Annoncere"
+
+msgid "Open House"
+msgstr "Åbent hus"
+
+#, fuzzy
+msgid "Canvassing"
+msgstr ""
+"#-#-#-#-#  apimo-da_DK.po  #-#-#-#-#\n"
+"Canvas\n"
+"#-#-#-#-#  apimo-da_DK.po  #-#-#-#-#\n"
+"Opsøgende"
+
+msgid "Message"
+msgstr "Besked"
+
+msgid "After-sales"
+msgstr "Efter salg"
+
+msgid "Visit"
+msgstr "Besøg - Fremvisning"
+
+msgid "Appointment"
+msgstr "Aftale"
+
+msgid "Phone"
+msgstr "Telefon"
+
+msgid "e-mail"
+msgstr "E-mail"
+
+msgid "Fax"
+msgstr "Fax"
+
+msgid "Mail"
+msgstr "Mail"
+
+msgid "SMS"
+msgstr "SMS"
+
+msgid "Walk-in"
+msgstr "Walk-in"
+
+msgid "Extranet"
+msgstr "Extranet"
+
+msgid "Project"
+msgstr "Projekt"
+
+msgid "Under construction"
+msgstr "Under opførsel"
+
+msgid "Delivered"
+msgstr "Leveret"
+
+msgid "Ended"
+msgstr "Afsluttet"
+
+msgid "Canceled"
+msgstr "Aflyst"
+
+msgid "Sir"
+msgstr "Hr."
+
+msgid "Mrs."
+msgstr "Fru"
+
+msgid "Ms."
+msgstr "Frk."
+
+msgid "Mr. & Mrs."
+msgstr "Hr. og Fru"
+
+msgid "Sheik"
+msgstr "Sheik"
+
+msgid "Duke"
+msgstr "Hertug"
+
+msgid "Duchess"
+msgstr "Hertuginde"
+
+msgid "Lord"
+msgstr "Herre"
+
+msgid "Maître"
+msgstr "Mester"
+
+msgid "Professor"
+msgstr "Professor"
+
+msgid "Regulations"
+msgstr "Regulering"
+
+msgid "AML/KYC Vendor"
+msgstr "AML/KYC Vendor"
+
+msgid "AML/KYC Buyer"
+msgstr "AML/KYC Buyer"
+
+msgid "Concierge"
+msgstr "Portner"
+
+msgid "Contact"
+msgstr "Kontakt"
+
+#, fuzzy
+msgid "Search"
+msgstr ""
+"#-#-#-#-#  apimo-da_DK.po  #-#-#-#-#\n"
+"Mere information\n"
+"#-#-#-#-#  apimo-da_DK.po  #-#-#-#-#\n"
+"Søg"
+
+#, fuzzy
+msgid "Owner"
+msgstr ""
+"#-#-#-#-#  apimo-da_DK.po  #-#-#-#-#\n"
+"Sælge\n"
+"#-#-#-#-#  apimo-da_DK.po  #-#-#-#-#\n"
+"Ejer"
+
+#, fuzzy
+msgid "e-mail alert"
+msgstr ""
+"#-#-#-#-#  apimo-da_DK.po  #-#-#-#-#\n"
+"E-mail advarsel\n"
+"#-#-#-#-#  apimo-da_DK.po  #-#-#-#-#\n"
+"email påmindelse"
+
+msgid "Send to a friend"
+msgstr "Send til en ven"
+
+msgid "Newsletter"
+msgstr "Nyhedsbrev"
+
+msgid "Selection"
+msgstr "Udvalg"
+
+msgid "New"
+msgstr "Ny"
+
+msgid "Opened"
+msgstr "Åbnede"
+
+msgid "Processing"
+msgstr "Behandling"
+
+msgid "Closed"
+msgstr "Lukket"
+
+msgid "Self-employed"
+msgstr "Selvstændig"
+
+msgid "Bakery"
+msgstr "Bageri"
+
+msgid "Restaurant"
+msgstr "Restaurant"
+
+msgid "Press"
+msgstr "Presse"
+
+msgid "Bar"
+msgstr "Bar"
+
+msgid "Florist"
+msgstr "Blomsterhandler"
+
+msgid "Tobacconist"
+msgstr "Tobaksforhandler"
+
+msgid "Clothes"
+msgstr "Tøj"
+
+msgid "Chemist"
+msgstr "Kemiker"
+
+msgid "Shopping centre"
+msgstr "Indkøbscenter"
+
+msgid "Travel agency"
+msgstr "Rejsebureau"
+
+msgid "Real estate agent"
+msgstr "Ejendomsmægler"
+
+msgid "Gallery"
+msgstr "Galleri"
+
+msgid "Garage"
+msgstr "Garage"
+
+msgid "Insurer"
+msgstr "Forsikringsselskab"
+
+msgid "Optician"
+msgstr "Optiker"
+
+msgid "Perfumery"
+msgstr "Parfumeri"
+
+msgid "Hotel"
+msgstr "Hotel"
+
+msgid "Antique dealer"
+msgstr "Antikvitetshandler"
+
+msgid "Laundry"
+msgstr "Vasketøj"
+
+msgid "Pressing"
+msgstr "Trykke"
+
+msgid "Jeweller"
+msgstr "Guldsmed"
+
+msgid "Grocery"
+msgstr "Købmand"
+
+msgid "Butcher"
+msgstr "Slagter"
+
+msgid "Caterer"
+msgstr "Catering"
+
+msgid "Brewery"
+msgstr "Bryggeri"
+
+msgid "Snack"
+msgstr "Snack"
+
+msgid "Confectioner"
+msgstr "Konditor"
+
+msgid "Pork butcher"
+msgstr "Svinekød slagter"
+
+msgid "Cheesemonger"
+msgstr "Ostebutik"
+
+msgid "Fruit and vegetables"
+msgstr "Frugt og grøntsager"
+
+msgid "Sex shop"
+msgstr "Sex shop"
+
+msgid "Video game"
+msgstr "Computer spil"
+
+msgid "Computer"
+msgstr "Computer"
+
+msgid "Hairdresser"
+msgstr "Frisør"
+
+msgid "Cosmetician"
+msgstr "Kosmetiker"
+
+msgid "Household electrical"
+msgstr "Husholdnings apparater"
+
+msgid "Shoes"
+msgstr "Sko"
+
+msgid "Haberdasher"
+msgstr "Herreekviperingshandler"
+
+msgid "Groomer"
+msgstr "Dyrepasser"
+
+msgid "Tea room"
+msgstr "Te stue"
+
+msgid "Beach"
+msgstr "Strand"
+
+msgid "Bookshop"
+msgstr "Boghandel"
+
+msgid "Offices"
+msgstr "Kontorer"
+
+msgid "Gas station"
+msgstr "Tankstation"
+
+msgid "Camping"
+msgstr "Camping"
+
+msgid "Nightclub"
+msgstr "Natklub"
+
+msgid "Pet store"
+msgstr "Dyrehandel"
+
+msgid "Video arcade"
+msgstr "Spillehal"
+
+msgid "Office supplies"
+msgstr "Kontorartikler"
+
+msgid "Furniture"
+msgstr "Møbler"
+
+msgid "Decoration"
+msgstr "Dekoration"
+
+msgid "Agriculture"
+msgstr "Landbrug"
+
+msgid "Photo"
+msgstr "Foto"
+
+msgid "Drugstore"
+msgstr "Apotek"
+
+msgid "Locksmith"
+msgstr "Låsesmed"
+
+msgid "Health club"
+msgstr "Helseklub"
+
+msgid "Taxi"
+msgstr "Taxa"
+
+#, fuzzy
+msgid "Cinema"
+msgstr ""
+"#-#-#-#-#  apimo-da_DK.po  #-#-#-#-#\n"
+"Biograf\n"
+"#-#-#-#-#  apimo-da_DK.po  #-#-#-#-#\n"
+"Hjemmebiograf"
+
+msgid "Theater"
+msgstr "Teater"
+
+msgid "Café"
+msgstr "Café"
+
+msgid "Garden centre"
+msgstr "Havecenter"
+
+msgid "Hardware shop"
+msgstr "Isenkræmmer"
+
+msgid "Fishmongers"
+msgstr "Fiskehandlere"
+
+msgid "Recreation"
+msgstr "Rekreation"
+
+msgid "Culture"
+msgstr "Kultur"
+
+msgid "Sport supplies"
+msgstr "Sport forsyninger"
+
+msgid "Principal bedroom"
+msgstr "Soveværelse"
+
+msgid "Living-room"
+msgstr "Stue"
+
+msgid "Kitchen"
+msgstr "Køkken"
+
+msgid "Parking"
+msgstr "Parkering"
+
+msgid "Basement"
+msgstr "Kælder"
+
+msgid "Garden shelter"
+msgstr "Haveskur"
+
+msgid "Bathroom"
+msgstr "Badeværelse"
+
+msgid "Laundry room"
+msgstr "Vaskerum"
+
+msgid "Study"
+msgstr "Studie"
+
+msgid "Hallway"
+msgstr "Entre"
+
+msgid "Corridor"
+msgstr "Korridor"
+
+msgid "Shower room"
+msgstr "Badeværelse med bruser"
+
+msgid "Walk-in wardrobe"
+msgstr "Walk-in-closet"
+
+msgid "Entrance"
+msgstr "Indgang"
+
+msgid "Lavatory"
+msgstr "Toilet"
+
+msgid "Veranda"
+msgstr "Veranda"
+
+msgid "Terrace"
+msgstr "Terrasse"
+
+msgid "Solarium"
+msgstr "Solarie"
+
+msgid "Living room/dining area"
+msgstr "Køkken-alrum"
+
+msgid "Play room"
+msgstr "Lege værelse"
+
+msgid "Dining room"
+msgstr "Spisestue"
+
+msgid "Pool house"
+msgstr "Poolhus"
+
+msgid "Cupboard"
+msgstr "Skab"
+
+msgid "Not used"
+msgstr "Ikke i brug"
+
+msgid "Loggia"
+msgstr "Buegang"
+
+msgid "Attic"
+msgstr "Loftsrum"
+
+msgid "Mezzanine"
+msgstr "Mezzanin"
+
+msgid "Pantry"
+msgstr "Kartoffelkælder"
+
+msgid "Maintenance room"
+msgstr "Teknikrum"
+
+msgid "Workshop"
+msgstr "Workshop"
+
+#, fuzzy
+msgid "Studio"
+msgstr ""
+"#-#-#-#-#  apimo-da_DK.po  #-#-#-#-#\n"
+"Atelie\n"
+"#-#-#-#-#  apimo-da_DK.po  #-#-#-#-#\n"
+"Studio"
+
+msgid "Loft"
+msgstr "Loft"
+
+msgid "Library"
+msgstr "Bibliotek"
+
+msgid "Closet"
+msgstr "Garderobe"
+
+msgid "Patio"
+msgstr "Gårdhave"
+
+msgid "Landing"
+msgstr "Lande"
+
+msgid "Linen room"
+msgstr "Linned værelse"
+
+msgid "Bathroom / Lavatory"
+msgstr "Badeværelse / WC"
+
+msgid "Shower room / Lavatory"
+msgstr "Bruserum / WC"
+
+msgid "Balcony"
+msgstr "Balkon"
+
+msgid "Exercise room"
+msgstr "Træningsrum"
+
+msgid "Discothèque"
+msgstr "Diskotek"
+
+msgid "Home cinema"
+msgstr "Hjemmebiograf"
+
+msgid "Reception room"
+msgstr "Reception"
+
+msgid "Storage room"
+msgstr "Opbevaringsrum"
+
+msgid "Garden"
+msgstr "Have"
+
+msgid "Park"
+msgstr "Park"
+
+msgid "Land"
+msgstr "Jord"
+
+msgid "Suite"
+msgstr "Suite"
+
+msgid "Shed"
+msgstr "Skur"
+
+msgid "Apartment"
+msgstr "Lejlighed"
+
+msgid "Cabin"
+msgstr "Hytte"
+
+msgid "Barn"
+msgstr "Lade"
+
+msgid "Outbuilding"
+msgstr "Anneks"
+
+msgid "Bike storage room"
+msgstr "Cykelskur"
+
+msgid "Ski storage room"
+msgstr "Skiskur"
+
+msgid "Garbage room"
+msgstr "Skralderum"
+
+msgid "Steam room"
+msgstr "Hammam"
+
+msgid "Indoor swimming pool"
+msgstr "Indendørs swimmingpool"
+
+msgid "Prayer room"
+msgstr "Bederum"
+
+msgid "Sauna"
+msgstr "Sauna"
+
+msgid "Watchtower"
+msgstr "Vagttårn"
+
+msgid "Room"
+msgstr "Værelse"
+
+msgid "Meeting room"
+msgstr "Møderum"
+
+msgid "Maid's room"
+msgstr "Stuepigens værelse"
+
+msgid "Maid's studio"
+msgstr "Stuepigens atelie"
+
+msgid "Double reception room"
+msgstr "Dobbelt reception"
+
+msgid "Triple reception room"
+msgstr "Tredobbelt reception"
+
+msgid "Indoor parking"
+msgstr "Indendørs parkering"
+
+msgid "Outdoor parking"
+msgstr "Udendørs parkering"
+
+msgid "Stockroom"
+msgstr "Lagerrum"
+
+msgid "Shop"
+msgstr "Butik"
+
+msgid "Cafeteria"
+msgstr "Cafeteria"
+
+msgid "Unit"
+msgstr "Enhed"
+
+#, fuzzy
+msgid "Warehouse"
+msgstr ""
+"#-#-#-#-#  apimo-da_DK.po  #-#-#-#-#\n"
+"Pakhus\n"
+"#-#-#-#-#  apimo-da_DK.po  #-#-#-#-#\n"
+"Lager\n"
+"#-#-#-#-#  apimo-da_DK.po  #-#-#-#-#\n"
+"Lager"
+
+msgid "Accommodation"
+msgstr "Indkvartering"
+
+msgid "Arcade"
+msgstr "Arkade"
+
+msgid "House"
+msgstr "Hus"
+
+msgid "Stair"
+msgstr "Trappe"
+
+msgid "Box"
+msgstr "Boks"
+
+msgid "Carnotzet"
+msgstr "Rustikt kælderrum"
+
+msgid "Panic room"
+msgstr "Panic room"
+
+msgid "Single"
+msgstr "Single"
+
+msgid "Twin"
+msgstr "Tvilling"
+
+msgid "Twin by garage"
+msgstr "Dobbeltgarage"
+
+#, fuzzy
+msgid "Village house"
+msgstr ""
+"#-#-#-#-#  apimo-da_DK.po  #-#-#-#-#\n"
+"Landsbyhus\n"
+"#-#-#-#-#  apimo-da_DK.po  #-#-#-#-#\n"
+"Landsby"
+
+msgid "Twin by angle"
+msgstr "Vinkelhus?"
+
+msgid "Ranged"
+msgstr "Varierede"
+
+msgid "Standard"
+msgstr "Standard"
+
+msgid "Co-exclusive"
+msgstr "Co-eksklusiv"
+
+msgid "Exclusive"
+msgstr "Eksklusiv"
+
+msgid "Delegation"
+msgstr "Delegation"
+
+msgid "Exclusive agent"
+msgstr "Eksklusiv mægler"
+
+msgid "Colleague"
+msgstr "Kollega"
+
+msgid "Free"
+msgstr "Gratis"
+
+msgid "Rented"
+msgstr "Udlejet"
+
+msgid "Occupied"
+msgstr "Optaget"
+
+msgid "To be agreed"
+msgstr "Efter aftale"
+
+msgid "Building"
+msgstr "Bygning"
+
+msgid "Property"
+msgstr "Ejendom"
+
+msgid "Housing scheme"
+msgstr "Boligordning"
+
+msgid "Hamlet"
+msgstr "Mindre landsby"
+
+msgid "Domain"
+msgstr "Domæne"
+
+msgid "Street"
+msgstr "Gade"
+
+msgid "Sale"
+msgstr "Udsalg"
+
+msgid "Rental"
+msgstr "Udlejning"
+
+msgid "Seasonal rental"
+msgstr "Sæsonudlejning"
+
+msgid "Development"
+msgstr "Udvikling"
+
+msgid "Life annuity"
+msgstr "Livrente"
+
+msgid "Auction"
+msgstr "Auktion"
+
+msgid "Unit sale"
+msgstr "Enhedssalg"
+
+msgid "Bulk sale"
+msgstr "Bulk salg"
+
+msgid "Unfurnished"
+msgstr "Umøbleret"
+
+msgid "Furnished"
+msgstr "Møbleret"
+
+msgid "Roommate"
+msgstr "Værelseskammerat"
+
+msgid "Student"
+msgstr "Student"
+
+msgid "Holidays"
+msgstr "Helligdage"
+
+msgid "Event"
+msgstr "Begivenhed"
+
+msgid "New construction"
+msgstr "Ny konstruktion"
+
+msgid "Life annuity occupied"
+msgstr "Liv annuitet besat"
+
+msgid "Bare Ownership"
+msgstr "Bare ejerskab"
+
+msgid "Forward sale"
+msgstr "Fremadrettet salg"
+
+msgid "Life annuity semi-occupied"
+msgstr "Livrente halv besat"
+
+msgid "Forward sale available"
+msgstr "Fremadrettet salg tilgængeligt"
+
+msgid "Forward sale semi-occupied"
+msgstr "Terminsalg semi-besat"
+
+msgid "Forward sale occupied"
+msgstr "Fremadrettet salg besat"
+
+msgid "Life annuity without income"
+msgstr "Livrente uden indkomst"
+
+msgid "Requires updating"
+msgstr "Kræver opdatering"
+
+msgid "Good condition"
+msgstr "God stand"
+
+msgid "Requires renovation"
+msgstr "Kræver renovering"
+
+msgid "Excellent condition"
+msgstr "Fremragende stand"
+
+msgid "Timber"
+msgstr "Tømmer"
+
+msgid "Engineered wood"
+msgstr "Fabrikeret træ"
+
+msgid "Stone"
+msgstr "Sten"
+
+msgid "Brick"
+msgstr "Mursten"
+
+msgid "Concrete"
+msgstr "Beton"
+
+msgid "Reinforced concrete"
+msgstr "Armeret beton"
+
+msgid "Steel frame"
+msgstr "Stålramme"
+
+msgid "Reinforced concrete frame"
+msgstr "Armeret betonramme"
+
+msgid "Shear wall"
+msgstr "Støttevæg"
+
+msgid "Concrete block"
+msgstr "Betonblok"
+
+msgid "Dimension stone"
+msgstr ""
+
+msgid "Ground floor"
+msgstr "Stueetage"
+
+msgid "Top floor"
+msgstr "Øverste etage"
+
+msgid "1st"
+msgstr "1. sal"
+
+msgid "2nd"
+msgstr "2. sal"
+
+msgid "3rd"
+msgstr "3. sal"
+
+msgid "4th"
+msgstr "4. sal"
+
+msgid "5th"
+msgstr "5. sal"
+
+msgid "6th"
+msgstr "6. sal"
+
+msgid "7th"
+msgstr "7. sal"
+
+msgid "8th"
+msgstr "8. sal"
+
+msgid "9th"
+msgstr "9. sal"
+
+msgid "10th"
+msgstr "10. sal"
+
+msgid "11th"
+msgstr "11. sal"
+
+msgid "12th"
+msgstr "12. sal"
+
+msgid "13th"
+msgstr "13. sal"
+
+msgid "14th"
+msgstr "14. sal"
+
+msgid "15th"
+msgstr "15. sal"
+
+msgid "16th"
+msgstr "16. sal"
+
+msgid "17th"
+msgstr "17. sal"
+
+msgid "18th"
+msgstr "18. sal"
+
+msgid "19th"
+msgstr "19. sal"
+
+msgid "20th"
+msgstr "20. sal"
+
+msgid "Garden level"
+msgstr "Haveniveau"
+
+msgid "Split-level"
+msgstr "Split-niveau"
+
+msgid "-1"
+msgstr "-1"
+
+msgid "-2"
+msgstr "-2"
+
+msgid "-3"
+msgstr "-3"
+
+msgid "-4"
+msgstr "-4"
+
+msgid "Single-storey"
+msgstr "Enetages"
+
+msgid "21st"
+msgstr "21. sal"
+
+msgid "22nd"
+msgstr "22. sal"
+
+msgid "23rd"
+msgstr "23. sal"
+
+msgid "24th"
+msgstr "24. sal"
+
+msgid "25th"
+msgstr "25. sal"
+
+msgid "26th"
+msgstr "26. sal"
+
+msgid "27th"
+msgstr "27. sal"
+
+msgid "28th"
+msgstr "28. sal"
+
+msgid "29th"
+msgstr "29. sal"
+
+msgid "30th"
+msgstr "30. sal"
+
+msgid "31st"
+msgstr "31. sal"
+
+msgid "32nd"
+msgstr "32. sal"
+
+msgid "33rd"
+msgstr "33. sal"
+
+msgid "34th"
+msgstr "34. sal"
+
+msgid "35th"
+msgstr "35. sal"
+
+msgid "36th"
+msgstr "36. sal"
+
+msgid "37th"
+msgstr "37. sal"
+
+msgid "38th"
+msgstr "38. sal"
+
+msgid "39th"
+msgstr "39. sal"
+
+msgid "40th"
+msgstr "40. sal"
+
+msgid "-5"
+msgstr "-5"
+
+msgid "-6"
+msgstr "-6"
+
+msgid "-7"
+msgstr "-7"
+
+msgid "-8"
+msgstr "-8"
+
+msgid "-9"
+msgstr "-9"
+
+msgid "-10"
+msgstr "-10"
+
+msgid "41st"
+msgstr "41"
+
+msgid "42nd"
+msgstr "42"
+
+msgid "43rd"
+msgstr "43"
+
+msgid "44th"
+msgstr "44"
+
+msgid "45th"
+msgstr "45"
+
+msgid "46th"
+msgstr "46"
+
+msgid "47th"
+msgstr "47"
+
+msgid "48th"
+msgstr "48"
+
+msgid "49th"
+msgstr "49"
+
+msgid "50th"
+msgstr "50"
+
+msgid "51st"
+msgstr "51"
+
+msgid "52nd"
+msgstr "52"
+
+msgid "53rd"
+msgstr "53"
+
+msgid "54th"
+msgstr "54"
+
+msgid "55th"
+msgstr "55"
+
+msgid "56th"
+msgstr "56"
+
+msgid "57th"
+msgstr "57"
+
+msgid "58th"
+msgstr "58"
+
+msgid "59th"
+msgstr "59"
+
+msgid "60th"
+msgstr "60"
+
+msgid "Wooden floor"
+msgstr "Trægulve"
+
+msgid "Tile"
+msgstr "Flise"
+
+msgid "Vinyl composition tile"
+msgstr "Vinyl flise"
+
+msgid "Carpet"
+msgstr "Gulvtæppe"
+
+msgid "Natural fiber"
+msgstr "Naturlig fiber"
+
+msgid "Coco"
+msgstr "Kokos"
+
+msgid "Travertine"
+msgstr "Travertin"
+
+msgid "Marble"
+msgstr "Marmor"
+
+msgid "Granite"
+msgstr "Granit"
+
+msgid "Terracotta tile"
+msgstr "Terracotta fliser"
+
+msgid "Teak"
+msgstr "Teak"
+
+msgid "Mosaïc"
+msgstr "Mosaik"
+
+msgid "Clay"
+msgstr "Ler"
+
+msgid "Laminate"
+msgstr "Laminat"
+
+msgid "Convector"
+msgstr "Konvektor"
+
+msgid "Underfloor"
+msgstr "Gulvvarme"
+
+msgid "Radiator"
+msgstr "Radiator"
+
+msgid "Stove"
+msgstr "Komfur"
+
+#, fuzzy
+msgid "Air-conditioning"
+msgstr ""
+"#-#-#-#-#  apimo-da_DK.po  #-#-#-#-#\n"
+"Air-conditioning\n"
+"#-#-#-#-#  apimo-da_DK.po  #-#-#-#-#\n"
+"Aircondition"
+
+msgid "Central"
+msgstr "Central"
+
+msgid "Without"
+msgstr "Uden"
+
+msgid "Fireplace"
+msgstr "Ildsted"
+
+msgid "Individual"
+msgstr "Individuel"
+
+msgid "Common"
+msgstr "Normal"
+
+msgid "Mixed"
+msgstr "Blandet"
+
+msgid "District heating"
+msgstr "Fjernvarme"
+
+msgid "Gas"
+msgstr "Gas"
+
+msgid "Fuel oil"
+msgstr "Brændstofsolie"
+
+msgid "Electric"
+msgstr "Elektrisk"
+
+msgid "Wood"
+msgstr "Træ"
+
+msgid "Solar"
+msgstr "Sol"
+
+msgid "Charcoal"
+msgstr "Trækul"
+
+msgid "Heat pump"
+msgstr "Varmepumpe"
+
+msgid "Geothermal"
+msgstr "Geotermisk"
+
+msgid "Wood pellet"
+msgstr "Træpiller"
+
+msgid "Hot water"
+msgstr "Varmt vand"
+
+msgid "Hot water tank"
+msgstr "Varmtvandstank"
+
+msgid "Boiler"
+msgstr "Kedel"
+
+msgid "Collective"
+msgstr "Kollektive"
+
+msgid "Flat"
+msgstr "Lejlighed"
+
+msgid "Dry-stone wall terraces"
+msgstr "Tørstenmurterrasser"
+
+msgid "Steep"
+msgstr "Trin"
+
+msgid "Wooded"
+msgstr "Skovklædt"
+
+msgid "Meadow"
+msgstr "Eng"
+
+msgid "Term lease"
+msgstr "Løbetid"
+
+msgid "Long-Term"
+msgstr "Langsigtet"
+
+msgid "Long-Term - Single activity"
+msgstr "Langsigtet - enkelt aktivitet"
+
+msgid "Long-Term - All activities"
+msgstr "Langsigtet - alle aktiviteter"
+
+msgid "Seaside"
+msgstr "Havet"
+
+msgid "Village"
+msgstr "Landsby"
+
+msgid "Old town"
+msgstr "Gammel by"
+
+msgid "Precinct"
+msgstr "Distrikt"
+
+msgid "Ski slope"
+msgstr "Skibakke"
+
+msgid "Town center"
+msgstr "Bycenter"
+
+msgid "Industrial estate"
+msgstr "Industriejendom"
+
+msgid "Shopping center"
+msgstr "Shoppingcenter"
+
+msgid "Business park"
+msgstr "Forretningspark"
+
+msgid "Airport area"
+msgstr "Lufthavnsområde"
+
+msgid "Science park"
+msgstr "Videnskabspark"
+
+msgid "Port area"
+msgstr "Havneområde"
+
+msgid "Outskirts"
+msgstr "Udkant"
+
+msgid "Hills"
+msgstr "Bakker"
+
+msgid "Waterfront"
+msgstr "Havnefronten"
+
+msgid "Countryside"
+msgstr "Landskabet"
+
+msgid "Suburb"
+msgstr "Forstad"
+
+msgid "East"
+msgstr "Øst"
+
+msgid "North"
+msgstr "Nord"
+
+msgid "West"
+msgstr "Vest"
+
+msgid "South"
+msgstr "Syd"
+
+msgid "Day"
+msgstr "Dag"
+
+msgid "Week"
+msgstr "Uge"
+
+msgid "Fortnight"
+msgstr "Fjorten dage"
+
+msgid "Month"
+msgstr "Måned"
+
+msgid "Quarterly"
+msgstr "Kvartalsvis"
+
+msgid "Bimonthly"
+msgstr "Hver anden måned"
+
+msgid "Half-yearly"
+msgstr "Halvårlig"
+
+msgid "Yearly"
+msgstr "Årlig"
+
+msgid "Bus"
+msgstr "Bus"
+
+msgid "Bus hub"
+msgstr "Busknudepunkt"
+
+msgid "Metro"
+msgstr "Metro"
+
+msgid "Shops"
+msgstr "Butikker"
+
+msgid "Primary school"
+msgstr "Folkeskole"
+
+msgid "Town centre"
+msgstr "Bymidte"
+
+msgid "Hospital/clinic"
+msgstr "Hospital/klinik"
+
+msgid "Doctor"
+msgstr "Doktor"
+
+msgid "Tram"
+msgstr "Sporvogn"
+
+msgid "Train station"
+msgstr "Tog station"
+
+msgid "Public parking"
+msgstr "Offentlig parkering"
+
+msgid "Supermarket"
+msgstr "Supermarked"
+
+msgid "Sea port"
+msgstr "Havn"
+
+msgid "Nursery"
+msgstr "Daginstitution"
+
+msgid "Public pool"
+msgstr "Offentlig pool"
+
+msgid "Tennis"
+msgstr "Tennis"
+
+msgid "Golf"
+msgstr "Golf"
+
+msgid "Movies"
+msgstr "Film"
+
+msgid "Secondary school"
+msgstr "Mellemskole"
+
+msgid "Sport center"
+msgstr "Sportscenter"
+
+msgid "Airport"
+msgstr "Lufthavn"
+
+msgid "Sea"
+msgstr "Hav"
+
+msgid "TGV station"
+msgstr "TGV station"
+
+msgid "Highway"
+msgstr "Motorvej"
+
+msgid "University"
+msgstr "Universitet"
+
+msgid "Convention center"
+msgstr "Kongrescenter"
+
+msgid "Lake"
+msgstr "Sø"
+
+msgid "On main road"
+msgstr "På hovedvej"
+
+msgid "Energy - Conventional consumption"
+msgstr "Energi - Konventionelt forbrug"
+
+msgid "Energy - Emissions estimate"
+msgstr "Energi - Forventet udledning"
+
+msgid "« Carrez » act"
+msgstr "« Carrez » handling"
+
+msgid "ERP"
+msgstr "ERP"
+
+msgid "Termites"
+msgstr "Termitter"
+
+msgid "Asbestos"
+msgstr "Asbest"
+
+#, fuzzy
+msgid "Lead"
+msgstr ""
+"#-#-#-#-#  apimo-da_DK.po  #-#-#-#-#\n"
+"Bly\n"
+"#-#-#-#-#  apimo-da_DK.po  #-#-#-#-#\n"
+"Bly\n"
+"#-#-#-#-#  apimo-da_DK.po  #-#-#-#-#\n"
+"At føre"
+
+msgid "Electricity"
+msgstr "Elektricitet"
+
+msgid "Boutin act"
+msgstr "Boutin handling"
+
+msgid "Sanitation"
+msgstr "Sanitet"
+
+msgid "EPI (Non renewable)"
+msgstr "Energiydelsesindeks (EPI)"
+
+msgid "APE"
+msgstr "Energy Performance Certificate (APE)"
+
+msgid "Request for nomination of an ad hoc agent"
+msgstr "Anmodning om nominering af en ad hoc-agent"
+
+msgid "Request for nomination of a temporary administrator"
+msgstr "Anmodning om nominering af en midlertidig administrator"
+
+msgid "Request for expert nomination"
+msgstr "Anmodning om ekspert nominering"
+
+msgid "Fire safety regulations"
+msgstr "Normes relatives à la sécurité incendie"
+
+msgid "Accessibility standards for people with disabilities"
+msgstr "Normes accessibilité aux personnes handicapées"
+
+msgid "Sanitary authorization"
+msgstr "Agrément sanitaire"
+
+msgid "Energy consumption"
+msgstr "Energiforbrug"
+
+msgid "Housing tax"
+msgstr "Boligafgift"
+
+msgid "Land charges"
+msgstr "Charges foncières"
+
+msgid "Property tax (IPTU)"
+msgstr "IPTU"
+
+msgid "Minergie"
+msgstr "Minergie"
+
+msgid "Volume"
+msgstr "Volume"
+
+msgid "Useful surface"
+msgstr "Nyttig overflade"
+
+msgid "Co-Ownership property"
+msgstr "Fællesejendom"
+
+msgid "Communal tax rate"
+msgstr "Fælles skattesats"
+
+msgid "Droit de superficie"
+msgstr "Overfladen til højre"
+
+msgid "Millièmes"
+msgstr "Tusindedele"
+
+msgid "PPE budget"
+msgstr "Budget PPE"
+
+msgid "Current renovation fund"
+msgstr "Nuværende renoveringsfond"
+
+msgid "Plot ratio"
+msgstr "Coefficient d’utilisation du sol"
+
+msgid "Floor space coefficient"
+msgstr "Coefficient d’occupation au sol"
+
+msgid "Ground footprint coefficient"
+msgstr "Coefficient d’emprise au sol"
+
+msgid "Priority period CCH L443-11"
+msgstr "Délai de priorité CCH L443-11"
+
+msgid "Plot division / Demarcation"
+msgstr "Division parcellaire / Bornage"
+
+msgid "Board of directors / supervisory deliberation"
+msgstr "Délibération conseil d’administration/surveillance"
+
+msgid "Certificate of compliance"
+msgstr "Certificat de conformité"
+
+msgid "Energy class"
+msgstr "Energiklasse"
+
+msgid "Thermal insulation class"
+msgstr "Varmeisoleringsklasse"
+
+msgid "Greenhouse Gas"
+msgstr "Drivhusgas"
+
+msgid "Energy passport"
+msgstr "Energipas"
+
+msgid "Energy certificate"
+msgstr "Energicertifikat"
+
+msgid "Energy consumption / Final energy requirement"
+msgstr "Energiforbrug / Endenergiebedarf"
+
+msgid "Energy efficiency class"
+msgstr "Energieffektivitetsklasse"
+
+msgid "Year of construction according to certificate"
+msgstr "Byggeår i henhold til certifikat"
+
+msgid "Energy consumption : Hot water included"
+msgstr "Inkl. varmt vand"
+
+msgid "Specific primary energy consumption"
+msgstr "Specifikt primært energiforbrug"
+
+msgid "PEB unique code"
+msgstr "PEB unik kode"
+
+msgid "K level (Thermal Insulation)"
+msgstr "K-niveau (termisk isolering)"
+
+msgid "Ew level (Energy performance)"
+msgstr "Ew-niveau (energiydelse)"
+
+msgid "CO2 emission"
+msgstr "CO2 udledning"
+
+msgid "Flood risks"
+msgstr "Oversvømmelsesrisici"
+
+msgid "Certificate: Oil tank conformity"
+msgstr "Certifikat: Olietankoverensstemmelse"
+
+msgid "Certificate : Electric installation conformity"
+msgstr "Certifikat: Elinstallations overensstemmelse"
+
+msgid "« As Built » certificate"
+msgstr "«Som bygget» -certifikat"
+
+msgid "Total consumption of primary energy"
+msgstr "Total consumption of primary energy"
+
+msgid "Registration number"
+msgstr "Registration number"
+
+msgid "Cadastral income"
+msgstr "Cadastral income"
+
+msgid "Planning permit obtained"
+msgstr "Planning permit obtained"
+
+msgid "Subdivision authorization"
+msgstr "Subdivision authorization"
+
+msgid "Pre-emptive right possible"
+msgstr "Pre-emptive right possible"
+
+msgid "Citation for urbanistic infraction"
+msgstr "Citation for urbanistic infraction"
+
+msgid "Last use designation"
+msgstr "Last use designation"
+
+msgid "Cadastral annuity"
+msgstr "Cadastral annuity"
+
+msgid "Energy certification number"
+msgstr "Energy certification number"
+
+msgid "VAT applicable"
+msgstr "VAT applicable"
+
+msgid "Energy certification"
+msgstr "Energy certification"
+
+msgid "Emissions estimate"
+msgstr "Emissions estimate"
+
+msgid "Possibility of connecting : Water / Gas / Electricity"
+msgstr "Possibility of connecting : Water / Gas / Electricity"
+
+msgid "Rental value"
+msgstr "Lejeværdi"
+
+msgid "Rental reference index"
+msgstr "Rental reference index"
+
+msgid "Turnover"
+msgstr "Omsætning"
+
+msgid "Net income"
+msgstr "Nettoindkomst"
+
+msgid "Gross operating profit"
+msgstr "Brutto driftsresultat"
+
+msgid "Personnel costs"
+msgstr "Personaleomkostninger"
+
+msgid "Cash flow"
+msgstr "Pengestrøm"
+
+msgid "Shareholders’equity"
+msgstr "Egenkapitalen"
+
+msgid "Net debt"
+msgstr "Nettogæld"
+
+msgid "Internet"
+msgstr "Internet"
+
+msgid "Disabled access"
+msgstr "Adgang for handicappede"
+
+msgid "Alarm system"
+msgstr "Alarmsystem"
+
+msgid "Lift"
+msgstr "Elevator"
+
+msgid "Caretaker"
+msgstr "Vicevært"
+
+msgid "Double glazing"
+msgstr "Dobbeltvindue"
+
+msgid "Intercom"
+msgstr "Samtaleanlæg"
+
+msgid "TV distribution"
+msgstr "Parabolantenne"
+
+#, fuzzy
+msgid "Swimming pool"
+msgstr ""
+"#-#-#-#-#  apimo-da_DK.po  #-#-#-#-#\n"
+"Svømmepøl\n"
+"#-#-#-#-#  apimo-da_DK.po  #-#-#-#-#\n"
+"Svømmepøl\n"
+"#-#-#-#-#  apimo-da_DK.po  #-#-#-#-#\n"
+"Swimmingpool"
+
+msgid "Security door"
+msgstr "Sikkerhedsdør"
+
+msgid "Tennis court"
+msgstr "Tennisbane"
+
+msgid "Irrigation sprinkler"
+msgstr "Vandingssprinkler"
+
+msgid "Barbecue"
+msgstr "Grill"
+
+msgid "Electric gate"
+msgstr "Elektrisk port"
+
+msgid "Crawl space"
+msgstr "Krybekælder"
+
+msgid "Car port"
+msgstr "Carport"
+
+msgid "Caretaker house"
+msgstr "Vagtmesterhus"
+
+msgid "Sliding windows"
+msgstr "Skydevinduer"
+
+msgid "Central vacuum system"
+msgstr "Centralstøvsuger"
+
+msgid "Electric shutters"
+msgstr "Elektriske skodder"
+
+msgid "Window shade"
+msgstr "Vinduesskærm"
+
+msgid "Electric awnings"
+msgstr "Elektriske markiser"
+
+msgid "Washing machine"
+msgstr "Vaskemaskine"
+
+msgid "Jacuzzi"
+msgstr "Jacuzzi"
+
+msgid "Whirlpool tub"
+msgstr "Boblebad"
+
+msgid "Well"
+msgstr "Brønd"
+
+msgid "Spring"
+msgstr "Forår"
+
+msgid "Engine generator"
+msgstr "Motorgenerator"
+
+msgid "Dishwasher"
+msgstr "Opvaskemaskine"
+
+msgid "Safe"
+msgstr "Pengeskab"
+
+msgid "Helipad"
+msgstr "Helikopterlandingsplads"
+
+msgid "Videophone"
+msgstr "Videotelefon"
+
+msgid "Video security"
+msgstr "Videosikkerhed"
+
+msgid "Iron"
+msgstr "Strygejern"
+
+msgid "Hair dryer"
+msgstr "Hårtørrer"
+
+msgid "Television"
+msgstr "Satellit-tv"
+
+msgid "DVD Player"
+msgstr "DVD afspiller"
+
+msgid "CD Player"
+msgstr "CD afspiller"
+
+msgid "Outdoor lighting"
+msgstr "Udendørsbelysning"
+
+msgid "Spa"
+msgstr "Spa"
+
+msgid "Home automation"
+msgstr "Hjemmeautomatisering"
+
+msgid "Linens"
+msgstr "Sengetøj"
+
+msgid "Tableware"
+msgstr "Bordservice"
+
+msgid "Clothes dryer"
+msgstr "Tørretumbler"
+
+msgid "Refrigerator"
+msgstr "Køleskab"
+
+msgid "Oven"
+msgstr "Ovn"
+
+msgid "Reception 24/7"
+msgstr "Reception 24/7"
+
+msgid "Coffeemaker"
+msgstr "Kaffemaskine"
+
+msgid "Microwave oven"
+msgstr "Microbølgeovn"
+
+msgid "Shabbat elevator"
+msgstr "Shabbat-elevator"
+
+msgid "Sukkah"
+msgstr "Sukkah"
+
+msgid "Synagogue"
+msgstr "Synagoge"
+
+msgid "Digicode"
+msgstr "Digicode"
+
+msgid "Common laundry"
+msgstr "Fælles vaskeri"
+
+msgid "Pets allowed"
+msgstr "Husdyr tilladt"
+
+msgid "Metal shutters"
+msgstr "Metal skodder"
+
+msgid "Wiring closet"
+msgstr "Ledningsskab"
+
+msgid "Computer network"
+msgstr "Computer netværk"
+
+msgid "Dropped ceiling"
+msgstr "Nedsænket loft"
+
+msgid "Fire hose cabinets"
+msgstr "Brandslangeskabe"
+
+msgid "Fire sprinkler system"
+msgstr "Sprinkleranlæg"
+
+msgid "Wharf"
+msgstr "Kaj"
+
+msgid "Connected thermostat"
+msgstr "Tilsluttet termostat"
+
+msgid "Bowling game"
+msgstr "Bowling game"
+
+msgid "Water softener"
+msgstr "Vandblødgøringsmiddel"
+
+msgid "Triple glazing"
+msgstr "Tredobbelt termorude"
+
+msgid "Well drilling"
+msgstr "Brøndboring"
+
+msgid "Optical fiber"
+msgstr "Optisk fiber"
+
+msgid "Non-flooding"
+msgstr "Ikke-oversvømmelse"
+
+msgid "Backup water system"
+msgstr "Backup vandsystem"
+
+msgid "Water filtration system"
+msgstr "Vandfiltreringssystem"
+
+msgid "Air filtration system"
+msgstr "Luftfiltreringssystem"
+
+msgid "Fire alarm system"
+msgstr "Brandalarmsystem"
+
+msgid "Commercial services"
+msgstr "Kommercielle tjenester"
+
+msgid "Playground"
+msgstr "Legeplads"
+
+msgid "Berth"
+msgstr "Køje"
+
+msgid "Supplies"
+msgstr "Forsyninger"
+
+msgid "Outdoor spaces"
+msgstr "Udendørsrum"
+
+msgid "Rental supplies"
+msgstr "Leje forsyninger"
+
+msgid "Security"
+msgstr "Sikkerhed"
+
+msgid "Professional supplies"
+msgstr "Professionelle forsyninger"
+
+msgid "High standard"
+msgstr "Høj standard"
+
+msgid "Luxury"
+msgstr "Luksus"
+
+msgid "High luxury"
+msgstr "Høj luksus"
+
+msgid "Housing estate"
+msgstr "Boligkvarter"
+
+msgid "Regular"
+msgstr "Fast"
+
+#, fuzzy
+msgid "In progress"
+msgstr ""
+"#-#-#-#-#  apimo-da_DK.po  #-#-#-#-#\n"
+"Igangværende\n"
+"#-#-#-#-#  apimo-da_DK.po  #-#-#-#-#\n"
+"Igangværende\n"
+"#-#-#-#-#  apimo-da_DK.po  #-#-#-#-#\n"
+"Igang"
+
+msgid "Standby"
+msgstr "Standby"
+
+msgid "Deleted"
+msgstr "Slettet"
+
+msgid "Waiting for agreement"
+msgstr "Venter på aftale"
+
+msgid "Agreement ended"
+msgstr "Aftale afsluttet"
+
+msgid "Offer"
+msgstr "Tilbud"
+
+msgid "Processing sale"
+msgstr "Behandler salg"
+
+msgid "Waiting for contract"
+msgstr "Venter på kontrakt"
+
+msgid "Pending approval"
+msgstr "Afventer godkendelse"
+
+msgid "Sell/Rent by agent"
+msgstr "Salg /Udlejning af mægler"
+
+msgid "Sell/Rent by owner"
+msgstr "Salg /Udlejning af ejer"
+
+msgid "Sell/Rent by other agent"
+msgstr "Salg /Udlejning af anden mægler"
+
+msgid "Removed by agent"
+msgstr "Fjernet af mægler"
+
+msgid "Removed by owner"
+msgstr "Fjernet af ejer"
+
+msgid "Sale/Rental cancelled"
+msgstr "Salg / Udlejning annulleret"
+
+msgid "Delete this property"
+msgstr "Ødelæg denne ejendom"
+
+msgid "Business"
+msgstr "Forretning"
+
+msgid "Garage/Parking"
+msgstr "Garage/parkering"
+
+msgid "Office"
+msgstr "Kontor"
+
+msgid "Boat"
+msgstr "Båd"
+
+msgid "Cellar / Box"
+msgstr "Kælder / kasse"
+
+msgid "Triplex"
+msgstr "Triplex"
+
+msgid "Building land"
+msgstr "Bygningsareal"
+
+msgid "Not constructible land"
+msgstr "Ikke konstruktivt land"
+
+msgid "Penthouse"
+msgstr "Penthouse"
+
+msgid "Castle"
+msgstr "Slot"
+
+msgid "Duplex"
+msgstr "Duplex"
+
+msgid "Manor house"
+msgstr "Herregård"
+
+msgid "Farm"
+msgstr "Farm"
+
+msgid "Villa"
+msgstr "Villa"
+
+msgid "Apartment villa"
+msgstr "Lejlighed villa"
+
+msgid "Ruin"
+msgstr "Ruin"
+
+msgid "Mill"
+msgstr "Mølle"
+
+msgid "Carpark"
+msgstr "Parkeringsplads"
+
+msgid "Farmhouse"
+msgstr "Stuehus"
+
+msgid "Townhouse"
+msgstr "Rækkehus"
+
+msgid "Mobile home"
+msgstr "Mobile home"
+
+msgid "Cottage"
+msgstr "Hytte"
+
+msgid "Bedroom"
+msgstr "Soveværelse"
+
+msgid "Hangar"
+msgstr "Hangar"
+
+msgid "Mas"
+msgstr "Mas"
+
+msgid "Local"
+msgstr "Lokal"
+
+msgid "Chalet"
+msgstr "Chalet"
+
+msgid "Retail space"
+msgstr "Lokaliteter"
+
+msgid "Business assets"
+msgstr "Forretningsaktiver"
+
+msgid "Right to the lease"
+msgstr "Ret til lejekontrakten"
+
+msgid "Mansion"
+msgstr "Palæ"
+
+msgid "Management"
+msgstr "Ledelse"
+
+msgid "Agricultural exploitation"
+msgstr "Udnyttelse af landbruget"
+
+msgid "Woodshed"
+msgstr "Brændeskuret"
+
+msgid "Stud farm"
+msgstr "Stud gård"
+
+msgid "Plot of land"
+msgstr "Stykke jord"
+
+msgid "Bastide"
+msgstr "Bastide"
+
+msgid "Bastidon"
+msgstr "Bastidon"
+
+#, fuzzy
+msgid "Company"
+msgstr ""
+"#-#-#-#-#  apimo-da_DK.po  #-#-#-#-#\n"
+"Firma\n"
+"#-#-#-#-#  apimo-da_DK.po  #-#-#-#-#\n"
+"Selskab"
+
+msgid "Vineyard property"
+msgstr "Vingård ejendom"
+
+msgid "Motor Yacht"
+msgstr "Motor yacht"
+
+msgid "Narrow boat"
+msgstr "Smal båd"
+
+msgid "Sailing Yacht"
+msgstr "Sejlbåd"
+
+msgid "Catamaran"
+msgstr "Catamaran"
+
+msgid "Equestrian estate"
+msgstr "Rideejendom"
+
+msgid "Bed and breakfast"
+msgstr "Bed and breakfast"
+
+msgid "Gîte"
+msgstr "Hjem"
+
+msgid "Riad"
+msgstr "Riad"
+
+msgid "Retail shop"
+msgstr "Detail"
+
+msgid "Shophouse"
+msgstr "Shophouse"
+
+msgid "Borey"
+msgstr "Borey"
+
+msgid "Condo"
+msgstr "Condo"
+
+msgid "Factory"
+msgstr "Fabrik"
+
+msgid "Serviced apartment"
+msgstr "Serviceret lejlighed"
+
+msgid "Twin Villa"
+msgstr "Twin villa"
+
+msgid "Flat House"
+msgstr "Fladt hus"
+
+msgid "Semi-detached house"
+msgstr "Iink hus"
+
+msgid "Bungalow"
+msgstr "Bungalow"
+
+msgid "Beach house"
+msgstr "Strandhus"
+
+msgid "Ger district"
+msgstr "Ger-distriktet"
+
+msgid "Summer house"
+msgstr "Sommerhus"
+
+msgid "Private island"
+msgstr "Privat ø"
+
+msgid "Residential land"
+msgstr "Boligmark"
+
+msgid "Commercial land"
+msgstr "Erhvervsmark"
+
+msgid "Subdivision"
+msgstr "Underinddeling"
+
+msgid "Game reserve"
+msgstr "Spilreserve"
+
+msgid "Cellar"
+msgstr "Kartoffelkælder"
+
+msgid "Mountains"
+msgstr "Bjerge"
+
+msgid "Greenery"
+msgstr "Pyntegrønt"
+
+msgid "Monument"
+msgstr "Monument"
+
+msgid "Forest"
+msgstr "Skov"
+
+msgid "River"
+msgstr "Flod"
+
+msgid "City"
+msgstr "By"
+
+msgid "Sky"
+msgstr "Himmel"
+
+msgid "Courtyard"
+msgstr "Gårdsplads"
+
+msgid "Main stem"
+msgstr "Hovedstamme"
+
+msgid "Harbor"
+msgstr "Havn"
+
+msgid "Ski slopes"
+msgstr "Skibakker"
+
+msgid "Obstructed"
+msgstr "Blokeret"
+
+msgid "Slight"
+msgstr "Svag"
+
+msgid "Unobstructed"
+msgstr "Ublokkeret"
+
+msgid "Panoramic"
+msgstr "Panoramic"
+
+msgid "Septic tank"
+msgstr "Septictank"
+
+msgid "Main drainage"
+msgstr "Hovedafløb"
+
+msgid "Treatment plant"
+msgstr "Renseanlæg"
+
+msgid "Estate agent"
+msgstr "Ejendomsmægler"
+
+msgid "Phoning"
+msgstr "Ringer"
+
+msgid "Collaboration"
+msgstr "Samarbejde"
+
+msgid "Provider"
+msgstr "Udbyder"
+
+msgid "Renown"
+msgstr "Berømmelse"
+
+msgid "Walk-in / Window"
+msgstr "Walk-in / Vindue"
+
+msgid "Network"
+msgstr "Netværk"
+
+msgid "Flyer"
+msgstr "Flyer"
+
+msgid "Sign"
+msgstr "Tegn"
+
+msgid "Magazine"
+msgstr "Magasin"
+
+#, fuzzy
+msgid "Mailing"
+msgstr ""
+"#-#-#-#-#  apimo-da_DK.po  #-#-#-#-#\n"
+"Poste\n"
+"#-#-#-#-#  apimo-da_DK.po  #-#-#-#-#\n"
+"Mailer"
+
+#, fuzzy
+msgid "e-mailing"
+msgstr ""
+"#-#-#-#-#  apimo-da_DK.po  #-#-#-#-#\n"
+"e-mailing\n"
+"#-#-#-#-#  apimo-da_DK.po  #-#-#-#-#\n"
+"E-mailing"
+
+msgid "Old client"
+msgstr "Gentag kunde"
+
+msgid "Appraisal"
+msgstr "Vurdering"
+
+msgid "Selection / Favorite"
+msgstr "Valg / favorit"
+
+msgid "Main residence"
+msgstr "Hovedbolig"
+
+msgid "Secondary residence"
+msgstr "Sekundær bolig"
+
+msgid "Student residence"
+msgstr "Studenterbolig"
+
+msgid "Tourism residence"
+msgstr "Turistbolig"
+
+msgid "Seniors residence"
+msgstr "Seniorbolig"
+
+msgid "Duflot Legislation"
+msgstr "Duflot-lovgivning"
+
+msgid "Censi-Bouvard Legislation"
+msgstr "Censi-Bouvard-lovgivning"
+
+msgid "Reduced fees"
+msgstr "Nedsatte gebyrer"
+
+msgid "EHPAD (Retirement homes)"
+msgstr "EHPAD (Plejehjem)"
+
+msgid "Act 1291"
+msgstr "Act 1291"
+
+msgid "Act 887"
+msgstr "Act 887"
+
+msgid "Mixed-use"
+msgstr "Blandet brug"
+
+msgid "Rental investment"
+msgstr "Lejeinvestering"
+
+msgid "Act 1235"
+msgstr "Act 1235"
+
+msgid "Pinel Legislation"
+msgstr "Pinel-lovgivning"
+
+msgid "Resale"
+msgstr "Videresalg"
+
+msgid "Private leasing"
+msgstr "Private leasing"
+
+msgid "Bank leasing"
+msgstr "Bank leasing"
+
+msgid "IPOTEK"
+msgstr "IPOTEK"
+
+msgid "Exchangeable"
+msgstr "Udskiftelig"
+
+msgid "No advance"
+msgstr "Intet forskud"
+
+msgid "First occupancy"
+msgstr "First occupancy"
+
+msgid "Liberal profession"
+msgstr "Liberal profession"
+
+msgid "Holiday"
+msgstr "Holiday"
+
+msgid "m²"
+msgstr "m²"
+
+msgid "sq ft"
+msgstr "sq ft"
+
+msgid "sq yd"
+msgstr "sq yd"
+
+msgid "ha"
+msgstr "ha"
+
+msgid "minute"
+msgstr "minut"
+
+msgid "metre"
+msgstr "Meter"
+
+msgid "km"
+msgstr "km"
+
+msgid "Administrator"
+msgstr "Administrator"
+
+msgid "Company manager"
+msgstr "Virksomhedschef"
+
+msgid "Agency manager"
+msgstr "Agenturchef"
+
+msgid "Secretariat"
+msgstr "Sekretariat"
+
+#, fuzzy
+msgid "Agent"
+msgstr ""
+"#-#-#-#-#  apimo-da_DK.po  #-#-#-#-#\n"
+"Mægler\n"
+"#-#-#-#-#  apimo-da_DK.po  #-#-#-#-#\n"
+"Agent"
+
+msgid "Intern"
+msgstr "Intern"
+
+msgid "User"
+msgstr "Bruger"
+
+msgid "Franchisor"
+msgstr "Franchisegiver"
+
+msgid "Translator"
+msgstr "Oversætter"
+
+msgid "Plan"
+msgstr "Plan"
+
+msgid "Picture"
+msgstr "Billede"
+
+msgid "Pet"
+msgstr "Husdyr"
+
+msgid "Natural light"
+msgstr "Naturligt lys"
+
+msgid "Kitchen island"
+msgstr "Køkkenø"
+
+msgid "Kitchen bar"
+msgstr "Køkkenbar"
+
+msgid "High ceiling"
+msgstr "Højt til loftet"
+
+msgid "Skylight"
+msgstr "Ovenlys"
+
+msgid "Exposed bricks"
+msgstr "Udsatte mursten"
+
+msgid "Ceiling fan"
+msgstr "Loftsventilator"
+
+msgid "Chandelier"
+msgstr "Lysekrone"
+
+msgid "Stainless steel"
+msgstr "Rustfrit stål"
+
+msgid "Price on request"
+msgstr "Pris efter anmodning"
+
+msgid "Currency"
+msgstr "Betalingsmiddel / valuta"
+
+msgid "price"
+msgstr "Pris"
+
+msgid "Types"
+msgstr "Typer"
+
+msgid "Cities"
+msgstr "Byer"
+
+msgid "Bedrooms"
+msgstr "Soveværelser"
+
+msgid "Rooms"
+msgstr "Værelser"
+
+msgid "Send"
+msgstr "Send"
+
+msgid "Lastname"
+msgstr "Efternavn"
+
+msgid "Firstname"
+msgstr "Fornavn"
+
+msgid "Reference"
+msgstr "Reference"
+
+msgid "Ref"
+msgstr "Ref."
+
+msgid "%s bedroom"
+msgstr "%s soveværelse"
+
+msgid "%s bedrooms"
+msgstr "%s soveværelser"
+
+msgid "%s room"
+msgstr "%s værelse"
+
+msgid "%s rooms"
+msgstr "%s værelser"
+
+msgid "Folder"
+msgstr "Mappe"
+
+msgid "No matches found"
+msgstr "Ingen match fundet"
+
+msgid "Please enter one more character"
+msgstr "Venligst indtast endnu et tegn"
+
+msgid "Duplicate"
+msgstr "Duplikere"
+
+msgid "Backup"
+msgstr "Backup"
+
+msgid "Rate"
+msgstr "Sats"
+
+msgid "Sender"
+msgstr "Afsender"
+
+msgid "Recipient"
+msgstr "Modtager"
+
+msgid "Subject"
+msgstr "Emne"
+
+msgid "Attachment"
+msgstr "Vedhæftet fil"
+
+msgid "Key"
+msgstr "Nøgle"
+
+msgid "Document"
+msgstr "Dokument"
+
+msgid "Name"
+msgstr "Navn"
+
+msgid "Back"
+msgstr "Tilbage"
+
+msgid "Help?"
+msgstr "Hjælp?"
+
+msgid "Read more"
+msgstr "Læs mere"
+
+msgid "Area"
+msgstr "Boligareal"
+
+msgid "Areas"
+msgstr "Bolig"
+
+msgid "Length"
+msgstr "Længde"
+
+msgid "Height"
+msgstr "Højde"
+
+msgid "Width"
+msgstr "Bredde"
+
+msgid "Deposit"
+msgstr "Deposition"
+
+msgid "Agreement reference"
+msgstr "Referenceaftale"
+
+msgid "Agreement start at"
+msgstr "Aftale starter"
+
+msgid "Agreement end at"
+msgstr "Aftale slutter"
+
+msgid "Homepage"
+msgstr "Hjemmeside"
+
+msgid "Proximities"
+msgstr "Nærhed"
+
+msgid "Loading"
+msgstr "Indlæser"
+
+msgid "Log out"
+msgstr "Log ud"
+
+msgid "Access"
+msgstr "Adgang"
+
+msgid "Total area"
+msgstr "Samlet areal"
+
+msgid "Living area"
+msgstr "Opholdsstue"
+
+msgid "Password forgotten"
+msgstr "Glemt password"
+
+msgid "Password"
+msgstr "Password"
+
+msgid "Username"
+msgstr "Brugernavn"
+
+msgid "Welcome %s"
+msgstr "Velkommen %s"
+
+msgid "Add"
+msgstr "Tilføj"
+
+msgid "Show"
+msgstr "Vis"
+
+msgid "List"
+msgstr "Liste"
+
+msgid "Tools"
+msgstr "Værktøj"
+
+msgid "Market"
+msgstr "Marked"
+
+msgid "Agency"
+msgstr "Bureau"
+
+msgid "Calendar"
+msgstr "Kalender"
+
+msgid "Maps"
+msgstr "Kort"
+
+msgid "Value"
+msgstr "Værdi"
+
+msgid "Users"
+msgstr "Brugere"
+
+msgid "Sectors"
+msgstr "Sektorer"
+
+msgid "Sector"
+msgstr "Sektor"
+
+msgid "contact"
+msgstr "Kontakt"
+
+msgid "contacts"
+msgstr "Kontakter"
+
+msgid "%s contact"
+msgstr "%s kontakt"
+
+msgid "%s contacts"
+msgstr "%s kontakter"
+
+msgid "Settings"
+msgstr "Indstillinger"
+
+msgid "General"
+msgstr "Generelt"
+
+msgid "Heating"
+msgstr "Opvarmning"
+
+msgid "Waste water"
+msgstr "Spildevand"
+
+msgid "Country"
+msgstr "Land"
+
+msgid "Escrow deposit"
+msgstr "Spærret"
+
+msgid "Orientation"
+msgstr "Orientering"
+
+msgid "Prospect"
+msgstr "Udsigt"
+
+msgid "District"
+msgstr "Distrikt"
+
+msgid "Fields"
+msgstr "Felter"
+
+msgid "Hook"
+msgstr "Krog"
+
+msgid "Comment"
+msgstr "Kommentar"
+
+msgid "Buy"
+msgstr "Køb"
+
+msgid "Rent"
+msgstr "Lej"
+
+msgid "Commercial"
+msgstr "Kommerciel"
+
+msgid "About us"
+msgstr "Om os"
+
+msgid "Services"
+msgstr "Faciliteter"
+
+msgid "News"
+msgstr "Nyheder"
+
+msgid "Contact us"
+msgstr "Kontakt os"
+
+msgid "Print"
+msgstr "Print"
+
+msgid "Add to cart"
+msgstr "Læg i kurv"
+
+msgid "Replace in cart"
+msgstr "Udskift i kurv"
+
+msgid "Category"
+msgstr "Kategori"
+
+msgid "History"
+msgstr "Historie"
+
+msgid "Details"
+msgstr "Detaljer"
+
+msgid "Date"
+msgstr "Dato"
+
+msgid "Previous"
+msgstr "Forrige"
+
+msgid "Next"
+msgstr "Næste"
+
+msgid "Quick search"
+msgstr "Hurtig søgning"
+
+msgid "Postal code"
+msgstr "Postnummer"
+
+msgid "The username and/or password is invalid."
+msgstr "Brugernavnet og / eller adgangskoden er ugyldig."
+
+msgid "Group"
+msgstr "Gruppe"
+
+msgid "Are you sure?"
+msgstr "Er du sikker?"
+
+msgid "Nationality"
+msgstr "Nationalitet"
+
+msgid "Radius"
+msgstr "Radius"
+
+msgid "Summary"
+msgstr "Resumé"
+
+msgid "Watermark"
+msgstr "Vandmærke"
+
+msgid "Latitude"
+msgstr "Breddegrad"
+
+msgid "Longitude"
+msgstr "Længdegrad"
+
+msgid "Mortgage"
+msgstr "Realkreditlån"
+
+msgid "Download"
+msgstr "Hent / download?"
+
+msgid "Dashboard"
+msgstr "Instrumentbræt"
+
+msgid "Matching"
+msgstr "Matchende"
+
+msgid "Pay now by card"
+msgstr "Betal nu med kort"
+
+msgid "Pay by bank transfer"
+msgstr "Betal ved bankoverførsel"
+
+msgid "Pay by check"
+msgstr "Betal med check"
+
+msgid "Powered by"
+msgstr "Drevet af"
+
+msgid "Accepted payment methods"
+msgstr "Accepterede betalingsmetoder"
+
+msgid "Terms and Conditions"
+msgstr "Betingelser og vilkår"
+
+msgid ""
+"Your contact is already in database, please select it on the list below."
+msgstr ""
+"Din kontaktperson er allerede i databasen. Vælg den på listen nedenfor."
+
+msgid "Contract"
+msgstr "Kontrakt"
+
+msgid "Contracts"
+msgstr "Kontrakter"
+
+msgid "Seekers"
+msgstr "Søgende"
+
+msgid "Active seekers"
+msgstr "Aktiv søgende"
+
+msgid "Providers"
+msgstr "Udbydere"
+
+msgid "Owners"
+msgstr "Ejere"
+
+msgid "Active owners"
+msgstr "Aktive ejere"
+
+msgid "Monitoring"
+msgstr "Overvågning"
+
+msgid "Forward"
+msgstr "Frem"
+
+msgid "Similar"
+msgstr "Lignende"
+
+msgid "Condition"
+msgstr "Stand"
+
+msgid "Floor"
+msgstr "Etage"
+
+msgid "Water"
+msgstr "Vand"
+
+msgid "Description"
+msgstr "Beskrivelse"
+
+msgid "Deductions"
+msgstr "Fradrag"
+
+msgid "Not available"
+msgstr "Ikke tilgængelig"
+
+msgid "Occupant"
+msgstr "Beboere"
+
+msgid "Shares"
+msgstr "Andele"
+
+msgid "Likes"
+msgstr "Likes"
+
+msgid "Like"
+msgstr "Like"
+
+msgid "Unlike"
+msgstr "Unlike"
+
+msgid "Portfolio"
+msgstr "Portfolio"
+
+msgid "Features"
+msgstr "Funktioner"
+
+msgid "Contracted owner"
+msgstr "Kontraheret ejer"
+
+msgid "Contracted owners"
+msgstr "Kontraherede ejere"
+
+msgid "Contracted customer"
+msgstr "Kontraheret kunde"
+
+msgid "Contracted customers"
+msgstr "Kontraherede kunder"
+
+msgid "Transfer tax"
+msgstr "Overførselsafgift"
+
+msgid "Change to"
+msgstr "Ændre til"
+
+msgid "Until"
+msgstr "Indtil"
+
+msgid "Location reference"
+msgstr "Placeringsreference"
+
+msgid "Priority"
+msgstr "Prioritet"
+
+msgid "Full form"
+msgstr "Fuld formular"
+
+msgid "Quick form"
+msgstr "Hurtig formular"
+
+msgid "%s char(s)"
+msgstr "%s char(s)"
+
+msgid "Price from"
+msgstr "Pris fra"
+
+msgid "Listing"
+msgstr "Notering"
+
+msgid "Listings"
+msgstr "Noteringer"
+
+msgid "Duration"
+msgstr "Varighed"
+
+msgid "Request incomplete"
+msgstr "Anmodning ufuldstændig"
+
+msgid "%s incomplete request(s)"
+msgstr "%s anmodning(er) ufuldstændig(e)"
+
+msgid "Subscribe for"
+msgstr "Tilmeld dig"
+
+msgid "Configuration"
+msgstr "Konfiguration"
+
+msgid "Subtotal"
+msgstr "Subtotal"
+
+msgid "Tax notice"
+msgstr "Skattevarsel"
+
+msgid "Events"
+msgstr "Begivenheder"
+
+msgid "Present"
+msgstr "Til stede"
+
+msgid "Missing"
+msgstr "Mangler"
+
+msgid "Planned"
+msgstr "Planlagt"
+
+msgid "Full"
+msgstr "Fuld"
+
+msgid "Organizer"
+msgstr "Arrangør"
+
+msgid "Already subscribed"
+msgstr "Allerede tilmeldt"
+
+msgid "Attendees"
+msgstr "Deltagere"
+
+msgid "Join"
+msgstr "Tilslutte"
+
+msgid "Training"
+msgstr "Træning"
+
+msgid "Require a change of password at next logon"
+msgstr "Kræver en ændring af adgangskode ved næste login"
+
+msgid "Gross revenue"
+msgstr "Brutto indkomst"
+
+msgid "Gross yield"
+msgstr "Brutto udbytte"
+
+msgid "Net yield"
+msgstr "Netto udbytte"
+
+msgid "Vacancy rate"
+msgstr "Ledighed"
+
+msgid "Investment"
+msgstr "Investering"
+
+msgid "Lock"
+msgstr "Låse"
+
+msgid "Variables"
+msgstr "Variabler"
+
+msgid "Example"
+msgstr "Eksempel"
+
+msgid "Increment"
+msgstr "Tilvækst"
+
+msgid "Schema"
+msgstr "Skema"
+
+msgid "Automation"
+msgstr "Automatisering"
+
+msgid "Login"
+msgstr "Login"
+
+msgid "Renovation year"
+msgstr "Renoveringsår"
+
+msgid "Curriculum vitae"
+msgstr "CV"
+
+msgid "Resellers"
+msgstr "Forhandlere"
+
+msgid "Select"
+msgstr "Vælg"
+
+msgid "Billing"
+msgstr "Fakturering"
+
+msgid "The balance of your account is %s"
+msgstr "Saldoen på din konto er %s"
+
+msgid "Ceiling"
+msgstr "Loft"
+
+msgid "Weighted area"
+msgstr "Vægtet område"
+
+msgid "Collected"
+msgstr "Indsamlet"
+
+msgid "Unlimited"
+msgstr "Ubegrænset"
+
+msgid "Quantity"
+msgstr "Mængde"
+
+msgid "Subscribe"
+msgstr "Tilmeld"
+
+msgid "Setup"
+msgstr "Opsætning"
+
+msgid "Active owner"
+msgstr "Aktiv ejer"
+
+msgid "Matching at"
+msgstr "Matcher på"
+
+msgid "Price by area"
+msgstr "Pris efter område"
+
+msgid "Default list"
+msgstr "Standard liste"
+
+msgid "Subtype"
+msgstr "Undertype"
+
+msgid "Inventory"
+msgstr "Beholdning"
+
+msgid "Add a custom document"
+msgstr "Tilføj et brugerdefineret dokument"
+
+msgid "Line spacing"
+msgstr "Linjeafstand"
+
+msgid "Font"
+msgstr "Skrifttype"
+
+msgid "Portrait"
+msgstr "Portræt"
+
+msgid "Landscape"
+msgstr "Landskab"
+
+msgid "Accounts"
+msgstr "Konti"
+
+msgid "Optional"
+msgstr "Valgfri"
+
+msgid "File"
+msgstr "Fil"
+
+msgid "Collected at"
+msgstr "Indsamlet på"
+
+msgid "Linked"
+msgstr "Knyttet"
+
+msgid "Discover our offers"
+msgstr "Opdag vores tilbud"
+
+msgid "Blank"
+msgstr "Blank"
+
+msgid "Portal"
+msgstr "Portal"
+
+msgid "Software Documentation"
+msgstr "Softwaredokumentation"
+
+msgid "Time"
+msgstr "Tid"
+
+msgid "Dedicated website"
+msgstr "Dedikeret hjemmeside"
+
+msgid "Subcategory"
+msgstr "Underkategori"
+
+msgid "No IP control"
+msgstr "Ingen IP kontrol"
+
+msgid "Auto publish"
+msgstr "Automatisk publicering"
+
+msgid "Link to property"
+msgstr "Link til ejendom"
+
+msgid "Happy birthday!"
+msgstr "Tillykke med fødselsdagen!"
+
+msgid "Birthdays"
+msgstr "Fødselsdage"
+
+msgid "Last login"
+msgstr "Sidste login"
+
+msgid "This property is a part of:"
+msgstr "Denne ejendom er en del af:"
+
+msgid "IP addresses"
+msgstr "IP adresser"
+
+msgid "Prospecting"
+msgstr "Forundersøgelse"
+
+msgid "Access code"
+msgstr "Adgangskode"
+
+msgid "Access code at"
+msgstr "Adgangskode til"
+
+msgid "Number of shares"
+msgstr "Antal aktier"
+
+msgid "Leads"
+msgstr "Kundeemner"
+
+msgid "Cancelled"
+msgstr "Annulleret"
+
+msgid "Link"
+msgstr "Link"
+
+msgid "Advanced"
+msgstr "Avanceret"
+
+msgid "Publish on homepage"
+msgstr "Publicer på hjemmesiden"
+
+msgid "Suggested"
+msgstr "Foreslået"
+
+msgid "Welcome on %s"
+msgstr "Velkommen på %s"
+
+msgid "Content"
+msgstr "Indhold"
+
+msgid "Extranet access"
+msgstr "Ekstranet adgang"
+
+msgid "Publish address"
+msgstr "Offentgør adresse"
+
+msgid "Opening hours"
+msgstr "Åbningstider"
+
+msgid "Backoffice"
+msgstr "Kontor"
+
+msgid "Member since %s"
+msgstr "Medlem siden %s"
+
+msgid "Lock menu bar"
+msgstr "Lås menubar"
+
+msgid "Updates"
+msgstr "Opdateringer"
+
+msgid "Bookings"
+msgstr "Bookinger"
+
+msgid "Forward to contact"
+msgstr "Videre til kontakt"
+
+msgid "Responder"
+msgstr "Responder"
+
+msgid ""
+"You can search our Frequently Asked Questions (FAQs) database by keyword(s):"
+msgstr ""
+"Du kan søge i vores Ofte Stillede Spørgsmål (FAQ) database efter nøgleord:"
+
+msgid "Registrar"
+msgstr "Registrator"
+
+msgid "Expiration at"
+msgstr "Udløber den"
+
+msgid "Mailbox"
+msgstr "Mailboks"
+
+msgid "Domain name"
+msgstr "Domænenavn"
+
+msgid "Filling"
+msgstr "Fyldning"
+
+msgid "Condition precedent"
+msgstr "Tilstand præcedens"
+
+msgid "Size"
+msgstr "Størrelse"
+
+msgid "Deal fees"
+msgstr "Handelsgebyr"
+
+msgid "Fees charged"
+msgstr "Gebyrer"
+
+msgid "Customer"
+msgstr "Kunde"
+
+msgid "Booked"
+msgstr "Reserveret"
+
+msgid "Available"
+msgstr "Ledig"
+
+msgid "Associate"
+msgstr "Tilknyttet"
+
+msgid "Ceiling height"
+msgstr "Lofthøjde"
+
+msgid "Translations"
+msgstr "Oversættelser"
+
+msgid "Unsold"
+msgstr "Ikke solgt"
+
+msgid "Sold"
+msgstr "Solgt"
+
+msgid "Last action"
+msgstr "Seneste handling"
+
+msgid "Our agency"
+msgstr "Vores agentur"
+
+msgid "Locate us"
+msgstr "Find os"
+
+msgid "Your main contact"
+msgstr "Din hovedkontakt"
+
+msgid "Send me a message"
+msgstr "Send mig en besked"
+
+msgid "Leave us a message"
+msgstr "Efterlad en besked"
+
+msgid "Price with fees"
+msgstr "Pris med gebyrer"
+
+msgid "Owner access"
+msgstr "Ejer adgang"
+
+msgid "Added"
+msgstr "Tilføjet"
+
+msgid "Available for matching"
+msgstr "Tilgængelig for match"
+
+msgid "Available at"
+msgstr "Tilgængelig på"
+
+msgid "Tenant"
+msgstr "Lejer"
+
+msgid "Add to list"
+msgstr "Tilføj til liste"
+
+msgid "Custom tags"
+msgstr "Brugerdefinerede tags"
+
+msgid "%s pending approval properties"
+msgstr "%s ejendomme afventer godkendelse"
+
+msgid "Negotiable price"
+msgstr "Pris til forhandling"
+
+msgid "Price updated"
+msgstr "Pris opdateret"
+
+msgid "Less equal"
+msgstr "Mindre lige"
+
+msgid "Equal"
+msgstr "Lige"
+
+msgid "Greater equal"
+msgstr "Større lig"
+
+msgid "Preferences"
+msgstr "Præferencer"
+
+msgid "Contact means"
+msgstr "Kontakt betyder"
+
+msgid "Agency commission"
+msgstr "Agenturprovision"
+
+msgid "Scheduled at"
+msgstr "Planlagt kl."
+
+msgid "Contract at"
+msgstr "Kontrakt den"
+
+msgid "Commitment"
+msgstr "Forpligtigelse"
+
+msgid "Commitment at"
+msgstr "Forpligtigelse til"
+
+msgid "Offer at"
+msgstr "Tilbud på"
+
+msgid "No action"
+msgstr "Ingen handling"
+
+msgid "Received contact information"
+msgstr "Modtaget kontakt information"
+
+msgid "Linked contact"
+msgstr "Tilknyttet kontakt"
+
+msgid "Related contacts"
+msgstr "Relaterede kontakter"
+
+msgid "Others"
+msgstr "Andre"
+
+msgid "Assigned to"
+msgstr "Tildelt"
+
+msgid "Assign to"
+msgstr "Tildele til"
+
+msgid "Assign by"
+msgstr "Tildele af"
+
+msgid "Opened by"
+msgstr "Åbnet af"
+
+msgid "Closed by"
+msgstr "Lukket af"
+
+msgid "Time zone"
+msgstr "Tidszone"
+
+msgid "Customers"
+msgstr "Kunder"
+
+msgid "Invert selection"
+msgstr "Invertere valg"
+
+msgid "Select all"
+msgstr "Vælg alt"
+
+msgid "Unselect all"
+msgstr "Fravælg alle"
+
+msgid "%s awaiting lead(s)"
+msgstr "%s kundeemne(er) afventer"
+
+msgid "%s lead(s) to assign"
+msgstr "%s kundeemne(er) at tildele"
+
+msgid "%s pending properties"
+msgstr "%s ejendomme afventer"
+
+msgid "%s pending matching(s)"
+msgstr "%s match afventer"
+
+msgid "%s expired agreement(s)"
+msgstr "%s aftale(r) udløbet"
+
+msgid "%s expired soon agreement(s)"
+msgstr "%s aftale(r) udløber snart"
+
+msgid "Legal notice"
+msgstr "Juridisk meddelelse"
+
+msgid "Tags"
+msgstr "Tags"
+
+msgid "Allowed"
+msgstr "Tilladt"
+
+msgid "Min stay"
+msgstr "Min. ophold"
+
+msgid "Over"
+msgstr "Over"
+
+msgid "Update"
+msgstr "Opdater"
+
+msgid "Free text"
+msgstr "Fri tekst"
+
+msgid "Generate comment"
+msgstr "Generer kommentar"
+
+msgid "Building name"
+msgstr "Bygningens navn"
+
+msgid "VAT"
+msgstr "Moms"
+
+msgid "VAT included"
+msgstr "Inkl. moms"
+
+msgid "VAT excluded"
+msgstr "Ekskl. Moms"
+
+msgid "Recurrence"
+msgstr "Tilbagevenden"
+
+msgid "Calculate"
+msgstr "Beregn"
+
+msgid "Contribution"
+msgstr "Bidrag"
+
+msgid "Maximum debt"
+msgstr "Maksimal gæld"
+
+msgid "Purchase amount"
+msgstr "Købesum"
+
+msgid "Borrowing calculator"
+msgstr "Låneberegner"
+
+msgid "Monthly payment calculator"
+msgstr "Månedlig ydelseberegner"
+
+msgid "You don't have broadcasting rights"
+msgstr "Du har ikke tv-rettigheder"
+
+msgid "Pending"
+msgstr "Verserende"
+
+msgid "Suggestions"
+msgstr "Forslag"
+
+msgid "To show"
+msgstr "At vise"
+
+msgid "Automatic"
+msgstr "Automatisk"
+
+msgid "Manual"
+msgstr "Manuel"
+
+msgid "In collaboration with a %name% professional"
+msgstr "I samarbejde med en %name% professionel"
+
+msgid "Partners"
+msgstr "Partnere"
+
+msgid "Cost"
+msgstr "Omkostning"
+
+msgid "My search"
+msgstr "Min søgning"
+
+msgid "Units"
+msgstr "Enheder"
+
+msgid "Spouse"
+msgstr "Ægtefælle"
+
+msgid "Manager"
+msgstr "Manager"
+
+msgid "Category reference"
+msgstr "Kategorihenvisning"
+
+msgid "Cadastre reference"
+msgstr "Matrikelhenvisning"
+
+msgid "Lot reference"
+msgstr "Bygningsmassehenvisning"
+
+msgid "Block reference"
+msgstr "Blokhenvisning"
+
+msgid "Stairs reference"
+msgstr "Trappehenvisning"
+
+msgid "Mortgage end at"
+msgstr "Lånet slutter den"
+
+msgid "Review"
+msgstr "Anmeldelse"
+
+msgid "Media"
+msgstr "Medie"
+
+msgid "Medias"
+msgstr "Medier"
+
+msgid "Last access"
+msgstr "Seneste adgang"
+
+msgid "First access"
+msgstr "Første adgang"
+
+msgid "Access count"
+msgstr "Adgangstælling"
+
+msgid "Default"
+msgstr "Standard"
+
+msgid "Please do not enter any name or contact"
+msgstr "Venligst indtast ikke noget navn eller kontaktperson"
+
+msgid "QR-Code"
+msgstr "QR-kode"
+
+msgid "Show price"
+msgstr "Vis pris"
+
+msgid "Done"
+msgstr "Færdig"
+
+msgid "n.a"
+msgstr "Ikke anvendelig"
+
+msgid "Fill in the table"
+msgstr "Udfyld tabellen"
+
+msgid "Choice"
+msgstr "Valg"
+
+msgid "copy"
+msgstr "kopiere"
+
+msgid "Automatic matching"
+msgstr "Automatisk match"
+
+msgid "Authorization"
+msgstr "Autorisation"
+
+msgid "Last connection the %s"
+msgstr "Sidste forbindelse den %s"
+
+msgid "All"
+msgstr "Alle"
+
+msgid "Wiki"
+msgstr "Wiki"
+
+msgid "Latest"
+msgstr "Seneste"
+
+msgid "Reset"
+msgstr "Nulstil"
+
+msgid "Show/hide fields"
+msgstr "Vis/skjul felter"
+
+msgid "Recent searches"
+msgstr "Seneste søgninger"
+
+msgid "Association"
+msgstr "Forening"
+
+msgid "Meta crawler"
+msgstr "Metacrawler"
+
+msgid "Reminders"
+msgstr "Påmindelser"
+
+msgid "Prescribers"
+msgstr "Ordinerende læger"
+
+msgid "Crew"
+msgstr "Personale"
+
+msgid "Standing"
+msgstr "Stående"
+
+msgid "Receive a copy"
+msgstr "Modtag en kopi"
+
+msgid "Latest views"
+msgstr "Seneste visninger"
+
+msgid "Quality"
+msgstr "Kvalitet"
+
+msgid "Waiting for partner"
+msgstr "Venter på partner"
+
+msgid "Viewing agreement"
+msgstr "Visningsaftale"
+
+msgid "Decline"
+msgstr "Afslå"
+
+msgid "Declined"
+msgstr "Afslået"
+
+msgid "Accept"
+msgstr "Accepter"
+
+msgid "Accepted"
+msgstr "Accepteret"
+
+msgid "Zones"
+msgstr "Zoner"
+
+msgid "Zone"
+msgstr "Zone"
+
+msgid "Matrimonial regime"
+msgstr "Ægteskabsordning"
+
+msgid "Marital status"
+msgstr "Civilstand"
+
+msgid "Thumbnail"
+msgstr "Thumbnail"
+
+msgid "Unread"
+msgstr "Ulæst"
+
+msgid "Reply"
+msgstr "Besvar"
+
+msgid "Pension"
+msgstr "Pension"
+
+msgid "Beam"
+msgstr "Bjælke"
+
+msgid "Draft"
+msgstr "Udkast"
+
+msgid "Guests"
+msgstr "Gæster"
+
+msgid "Cruising speed"
+msgstr "Fart hastighed"
+
+msgid "Builder"
+msgstr "Bygherre"
+
+msgid "Administration"
+msgstr "Administration"
+
+msgid "Civil law notary"
+msgstr "Civilretlig notar"
+
+msgid "Max price"
+msgstr "Maks. pris"
+
+msgid "Messages"
+msgstr "Beskeder"
+
+msgid "Ad"
+msgstr "Reklame"
+
+msgid "Credit"
+msgstr "Kredit"
+
+msgid "Signatures"
+msgstr "Underskrifter"
+
+msgid "Signature"
+msgstr "Underskrift"
+
+msgid "Title"
+msgstr "Titel"
+
+msgid "Amount"
+msgstr "Beløb"
+
+msgid "Amounts"
+msgstr "Mængder"
+
+msgid "Updated at"
+msgstr "Opdateret den"
+
+msgid "Created at"
+msgstr "Oprettet den"
+
+msgid "First published at"
+msgstr "Offentliggjort første gang den"
+
+msgid "Insurance"
+msgstr "Forsikring"
+
+msgid "Provision"
+msgstr "Bestemmelse"
+
+msgid "Entries"
+msgstr "Poster"
+
+msgid "Number"
+msgstr "Nummer"
+
+msgid "Plot of land area"
+msgstr "Grundareal"
+
+msgid "Deposit account"
+msgstr "Deponeringskonto"
+
+msgid "Owner's price"
+msgstr "Ejers pris"
+
+msgid "Starting price"
+msgstr "Startpris"
+
+msgid "Mobile"
+msgstr "Mobil"
+
+msgid "Tel."
+msgstr "Tlf."
+
+msgid "Lease"
+msgstr "Leje"
+
+msgid "Leases"
+msgstr "Lejemål"
+
+msgid "Address"
+msgstr "Adresse"
+
+msgid "Searches"
+msgstr "Søgninger"
+
+msgid "Tips"
+msgstr "Tips"
+
+msgid "Erase"
+msgstr "Slet"
+
+msgid "Days"
+msgstr "Dage"
+
+msgid "Catalog"
+msgstr "Katalog"
+
+msgid "Statistics"
+msgstr "Statistik"
+
+msgid "Built in"
+msgstr "Byggeår"
+
+msgid "Mark"
+msgstr "Markere"
+
+msgid "Percentage"
+msgstr "Procent"
+
+msgid "Visits"
+msgstr "Besøg"
+
+msgid "Visit comment"
+msgstr "Besøg kommentar"
+
+msgid "Key number"
+msgstr "Nøgle nummer"
+
+msgid "Key's place"
+msgstr "Nøgleplads"
+
+msgid "Displayed city (optional)"
+msgstr "Vis by (valgfrit)"
+
+msgid "Displayed district (optional)"
+msgstr "Vis område (valgfrit)"
+
+msgid "Clauses"
+msgstr "Klausuler"
+
+msgid "Bathrooms"
+msgstr "Badeværelser"
+
+msgid "Seller"
+msgstr "Sælger"
+
+msgid "Adjacency"
+msgstr "Adjacency"
+
+msgid "Step"
+msgstr "Trin"
+
+msgid "Long comment"
+msgstr "Lang kommentar"
+
+msgid "Subtitle"
+msgstr "Undertekst"
+
+msgid "Last published at"
+msgstr "Senest offentliggjort den"
+
+msgid "floor"
+msgstr "etage"
+
+msgid "Inactive"
+msgstr "Inaktiv"
+
+msgid "Position"
+msgstr "Position"
+
+msgid "Please fill in a name and a phone or an e-mail."
+msgstr "Udfyld venligst et navn og et telefonnummer eller en email."
+
+msgid "Passwords do not match, please retype"
+msgstr "Adgangskode stemmer ikke, venligst skriv igen"
+
+msgid "Please change your password"
+msgstr "Ændre venligst din adgangskode"
+
+msgid "New password should not be same as old password"
+msgstr "Den nye adgangskode må ikke være den samme som den gamle adgangskode"
+
+msgid "Year"
+msgstr "År"
+
+msgid "Subscriptions"
+msgstr "Abonnementer"
+
+msgid "Tour comment"
+msgstr "Tur kommentar"
+
+msgid "Actions"
+msgstr "Handlinger"
+
+msgid "Add opening hours"
+msgstr "Tilføj åbningstider"
+
+msgid "Personal"
+msgstr "Personlig"
+
+msgid ""
+"Please note that there are dependencies, please select a contact for "
+"completing the data transfer."
+msgstr ""
+"Bemærk, at der er afhængigheder. Tak for at du vælger en kontaktperson for, "
+"at afslutte overførslen af dat"
+
+msgid "The installation can take several minutes, please come back later."
+msgstr "Installationen kan tage flere minutter, venligst vend tilbage senere."
+
+msgid "Your contact speaks %s, would you like to change the language?"
+msgstr "Din kontakt taler %s, ønsker du at ændre sprog?"
+
+msgid "Would you like to publish on the homepage?"
+msgstr "Ønsker du at offentliggøre på hjemmesiden?"
+
+msgid "plus VAT"
+msgstr "Plus moms"
+
+msgid "<b>Warning :</b> there is an error, please check each fields."
+msgstr "<b> Advarsel :</b> der er en fejl, kontroller venligst hvert felt."
+
+msgid "Price/sq m"
+msgstr "Pris/m2"
+
+msgid "today"
+msgstr "I dag"
+
+msgid "week"
+msgstr "uge"
+
+msgid "day"
+msgstr "dag"
+
+msgid "from %from_value% to %to_value%"
+msgstr "fra %fra_værdi% til %til_værdi%"
+
+msgid "message"
+msgstr "besked"
+
+msgid "Page"
+msgstr "Side"
+
+msgid "Action"
+msgstr "Handling"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Agencies"
+msgstr "Agenturer"
+
+msgid "agencies"
+msgstr "agenturer"
+
+msgid "Context"
+msgstr "Sammenhæng"
+
+msgid "More criteria"
+msgstr "Flere kriterier"
+
+msgid "Criteria"
+msgstr "Kriterier"
+
+msgid "Classification"
+msgstr "Klassifikation"
+
+msgid "metres"
+msgstr "meter"
+
+msgid "Window"
+msgstr "Vindue"
+
+msgid "Stock area"
+msgstr "Lagerområde"
+
+msgid "Sales area"
+msgstr "Salgsområde"
+
+msgid "Sold price"
+msgstr "Salgspris"
+
+msgid "Broadcast to"
+msgstr "Udsend til"
+
+msgid "The property will not be published because it is in step « %s »"
+msgstr "Ejendommen vil ikke blive offentliggjort, fordi den er i trin « %s»"
+
+msgid "Last agencies"
+msgstr "Seneste agenturer"
+
+msgid "I confirm my subscription to %s and I accept the general conditions"
+msgstr ""
+"Jeg bekræfter mit abonnement på %s, og jeg accepterer de generelle "
+"betingelser"
+
+msgid "from %from_date% to %to_date%"
+msgstr "fra %fra_dato% til %til_dato%"
+
+msgid "sq m"
+msgstr "m2"
+
+msgid "days"
+msgstr "dage"
+
+msgid "bedrooms"
+msgstr "soveværelser"
+
+msgid "bedroom"
+msgstr "soveværelse"
+
+msgid "rooms"
+msgstr "værelser"
+
+msgid "room"
+msgstr "værelse"
+
+msgid "Comments"
+msgstr "Kommentarer"
+
+msgid "comment"
+msgstr "kommentar"
+
+msgid "comments"
+msgstr "kommentarer"
+
+msgid "Private comment"
+msgstr "Privat kommentar"
+
+msgid "Private"
+msgstr "Privat"
+
+msgid "Levels"
+msgstr "Niveauer"
+
+msgid "Level"
+msgstr "Niveau"
+
+msgid "Exchanges"
+msgstr "Udvekslinger"
+
+msgid "Exchange"
+msgstr "Udveksling"
+
+msgid "by"
+msgstr "af"
+
+msgid "Elevator"
+msgstr "Elevator"
+
+msgid "no"
+msgstr "nej"
+
+msgid "yes"
+msgstr "Ja"
+
+msgid "Printed with care"
+msgstr "Trykt med omhu"
+
+msgid "Please do not litter on public way"
+msgstr "Smid venligt ikke skrald på offentlig vej"
+
+msgid "Non-contractual information"
+msgstr "Ikke kontraktlige oplysninger"
+
+msgid "Agency fees"
+msgstr "Mæglersalær"
+
+msgid "Agency fees included"
+msgstr "Mæglersalær inkluderet"
+
+msgid "Agency fees not included"
+msgstr "Mæglersalær ikke inkluderet"
+
+msgid "Fees"
+msgstr "Fællesudgifter"
+
+msgid "Personal property tax"
+msgstr "Personlig ejendomsskat"
+
+msgid "Property tax"
+msgstr "Ejendomsskat"
+
+msgid "Style"
+msgstr "Stil"
+
+msgid "Parkings"
+msgstr "Parkeringer"
+
+msgid "Pictures"
+msgstr "Billeder"
+
+msgid "Window card"
+msgstr "Vinduekort"
+
+msgid "Private sheet"
+msgstr "Privat ark"
+
+msgid "Public sheet"
+msgstr "Offentlig ark"
+
+msgid "Service"
+msgstr "Service"
+
+msgid "Language"
+msgstr "Sprog"
+
+msgid "Cart"
+msgstr "Vogn"
+
+msgid "Land type"
+msgstr "Jordtype"
+
+msgid "Property agent"
+msgstr "Ejendomsmægler"
+
+msgid "Account"
+msgstr "Konto"
+
+msgid "End at"
+msgstr "Afslut den"
+
+msgid "Close at"
+msgstr "Luk den"
+
+msgid "Start at"
+msgstr "Begynd den"
+
+msgid "Guarantees"
+msgstr "Garantier"
+
+msgid "Type"
+msgstr "Type"
+
+msgid "Inter-agencies"
+msgstr "Inter-agenturer"
+
+msgid "Number of floors"
+msgstr "Antal etager"
+
+msgid "Evaluated price"
+msgstr "Evalueret pris"
+
+msgid "Seller's commission"
+msgstr "Sælgers mæglersalær"
+
+msgid "Buyer's commission"
+msgstr "Købers mæglersalær"
+
+msgid "Commission"
+msgstr "Provision"
+
+msgid "Origin"
+msgstr "Oprindelse"
+
+msgid "Specific origin"
+msgstr "Specifik oprindelse"
+
+msgid "Flooring"
+msgstr "Gulve"
+
+msgid "Rank"
+msgstr "Rang"
+
+msgid "Phone call"
+msgstr "Opkald"
+
+msgid "Publications"
+msgstr "Publikationer"
+
+msgid "Send to contact"
+msgstr "Send til kontakt"
+
+msgid "No results found"
+msgstr "Ingen resultater fundet"
+
+msgid "Results"
+msgstr "Resultater"
+
+msgid "Result"
+msgstr "Resultat"
+
+msgid "results"
+msgstr "resultater"
+
+msgid "result"
+msgstr "resultat"
+
+msgid "Advertiser"
+msgstr "Annoncør"
+
+msgid "Active"
+msgstr "Aktiv"
+
+msgid "Confidential"
+msgstr "Fortrolig"
+
+msgid "Activity"
+msgstr "Aktivitet"
+
+msgid "Companies"
+msgstr "Firmaer"
+
+msgid "Edit"
+msgstr "Redigere"
+
+msgid "Save"
+msgstr "Gem"
+
+msgid "Succession"
+msgstr "Efterfølger"
+
+msgid "Please fill in a city."
+msgstr "Venligst udfyld en by"
+
+msgid "Guarantee"
+msgstr "Garanti"
+
+msgid "Please fill"
+msgstr "Venligst udfyld"
+
+msgid "The email address is invalid."
+msgstr "E-mail adressen er ugyldig"
+
+msgid "Rights"
+msgstr "Rettigheder"
+
+msgid "Display"
+msgstr "Skærm"
+
+msgid "Since"
+msgstr "Siden"
+
+msgid "Filter"
+msgstr "Filter"
+
+msgid "Min"
+msgstr "Min."
+
+msgid "Max"
+msgstr "Maks."
+
+msgid "Lessor"
+msgstr "Leasinggiver"
+
+msgid "Lessee"
+msgstr "Forpagter"
+
+msgid "Reservations"
+msgstr "Reservationer"
+
+msgid "Booking"
+msgstr "Booking"
+
+msgid "Bed"
+msgstr "Senge"
+
+msgid "Cleaning price"
+msgstr "Rengøringspris"
+
+msgid "Availabilities"
+msgstr "Ledige pladser"
+
+msgid "Sent"
+msgstr "Sendt"
+
+msgid "years"
+msgstr "år"
+
+msgid "months"
+msgstr "måneder"
+
+msgid "month"
+msgstr "måned"
+
+msgid "Seasons"
+msgstr "Sæsoner"
+
+msgid "Seasonal"
+msgstr "Sæson"
+
+msgid "Rates"
+msgstr "Priser"
+
+msgid "Todo"
+msgstr "At gøre"
+
+msgid "Brands"
+msgstr "Mærker"
+
+msgid "Brand"
+msgstr "Mærke"
+
+msgid "Publicated at"
+msgstr "Offentliggjort den"
+
+msgid "Networks"
+msgstr "Netværk"
+
+msgid "Bank"
+msgstr "Bank"
+
+msgid "Brief comment"
+msgstr "Kort kommentar"
+
+msgid "Delivery at"
+msgstr "Levering kl."
+
+msgid "Reason"
+msgstr "Grund"
+
+msgid "What's new"
+msgstr "Hvad er nyt"
+
+msgid "Requests"
+msgstr "Anmodninger"
+
+msgid "request"
+msgstr "Anmodning"
+
+msgid "requests"
+msgstr "anmodninger"
+
+msgid "Current rent"
+msgstr "Nuværende leje"
+
+msgid "Properties"
+msgstr "Ejendomme"
+
+msgid "Residence"
+msgstr "Ejendom"
+
+msgid "properties"
+msgstr "ejendomme"
+
+msgid "property"
+msgstr "ejendom"
+
+msgid "Bill"
+msgstr "Regning"
+
+msgid "Calculator"
+msgstr "Lommeregner"
+
+msgid "Birthplace"
+msgstr "Fødested"
+
+msgid "Birthday"
+msgstr "Fødelsedag"
+
+msgid "Income"
+msgstr "Indtægt"
+
+msgid "Costs"
+msgstr "Omkostninger"
+
+msgid "Margin"
+msgstr "Margin"
+
+msgid "Required."
+msgstr "Påkrævet."
+
+msgid "Spoken languages"
+msgstr "Talte sprog"
+
+msgid "Number of children"
+msgstr "Antal børn"
+
+msgid "Hotline"
+msgstr "Hotline"
+
+msgid "Re-type password"
+msgstr "Genindtast password"
+
+msgid "Public longitude"
+msgstr "Offentlig længdegrad"
+
+msgid "Public latitude"
+msgstr "Offentlig breddegrad"
+
+msgid "Access denied"
+msgstr "Adgang nægtet"
+
+msgid "Launch"
+msgstr "Lancering"
+
+msgid "Shortcuts"
+msgstr "Genveje"
+
+msgid "Subscription"
+msgstr "Abonnement"
+
+msgid "SEO"
+msgstr "SEO"
+
+msgid "Life annuity length"
+msgstr "Livrente længde"
+
+msgid "Market value"
+msgstr "Markedsværdi"
+
+msgid "Price contribution"
+msgstr "Prisbidrag"
+
+msgid "Sharing"
+msgstr "Dele"
+
+msgid "Show more results"
+msgstr "Vis flere resultater"
+
+msgid "Close"
+msgstr "Luk"
+
+msgid "Hide"
+msgstr "Skjul"
+
+msgid "Keywords"
+msgstr "Keywords"
+
+msgid "Corporate register"
+msgstr "Virksomhedsregister"
+
+msgid "Expired soon"
+msgstr "Udløber snart"
+
+msgid "Expired"
+msgstr "Udløbet"
+
+msgid "Agreements"
+msgstr "Aftaler"
+
+msgid "Agreement"
+msgstr "Aftale"
+
+msgid "Agreement number"
+msgstr "Aftalenummer"
+
+msgid "VAT identification number"
+msgstr "Moms identifikationsnummer"
+
+msgid "What's on your mind?"
+msgstr "Hvad tænker du på?"
+
+msgid "Buyer"
+msgstr "Køber"
+
+msgid "Prescriber"
+msgstr "Ordinerende læge"
+
+msgid "Message sent"
+msgstr "Besked sendt"
+
+msgid "Limit"
+msgstr "Begrænse"
+
+msgid "Publish"
+msgstr "Udgiv"
+
+msgid "Do not publish"
+msgstr "Udgiv ikke"
+
+msgid "Cancel"
+msgstr "Afbestil"
+
+msgid "Already suggested"
+msgstr "Allerede foreslået"
+
+msgid "To suggest"
+msgstr "At foreslå"
+
+msgid "Suggest"
+msgstr "Foreslå"
+
+msgid "Diagnostics"
+msgstr "Diagnosticering"
+
+msgid "Footer"
+msgstr "Sidefod"
+
+msgid "Header"
+msgstr "Overskrift"
+
+msgid "Serviced plot"
+msgstr "Serviceret grund"
+
+msgid "Net floor area"
+msgstr "Netto gulv areal"
+
+msgid "Sold at"
+msgstr "Solgt den"
+
+msgid "Preview"
+msgstr "Forhåndsvisning"
+
+msgid "Garden area"
+msgstr "Have areal"
+
+msgid "Payments"
+msgstr "Betaling"
+
+msgid "Reopen"
+msgstr "Genåbne"
+
+msgid "Completed"
+msgstr "Afsluttet"
+
+msgid "Complete"
+msgstr "Fuldende"
+
+msgid "Callback"
+msgstr "Ring tilbage"
+
+msgid "Callbacks"
+msgstr "Tilbagekald"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Coagent"
+msgstr "Samarbejdsagent"
+
+msgid "Residences"
+msgstr "Boliger"
+
+msgid "%s properties"
+msgstr "%s ejendomme"
+
+msgid "%s property"
+msgstr "%s ejendom"
+
+msgid "%s request"
+msgstr "%s anmodning"
+
+msgid "%s requests"
+msgstr "%s anmodninger"
+
+msgid "Characteristics"
+msgstr "Egenskaber"
+
+msgid "Activities"
+msgstr "Aktiviteter"
+
+msgid "Sorry, this property is no longer available."
+msgstr "Beklager, denne ejendom er ikke længere tilgængelig"
+
+msgid "Processed"
+msgstr "Behandlet"
+
+msgid "remaining tickets"
+msgstr "resterende billetter"
+
+msgid "Congratulations ! No more support tickets."
+msgstr "Tillykke! Ikke flere support billetter"
+
+msgid "unassigned tickets"
+msgstr "ikke tildelte billetter"
+
+msgid "All tickets are assigned."
+msgstr "Alle billetter er tildelt."
+
+msgid "task in progress"
+msgstr "igangværende opgave"
+
+msgid "Database"
+msgstr "Database"
+
+msgid "Used"
+msgstr "Brugt"
+
+msgid "%s results"
+msgstr "%s resultater"
+
+msgid "Redirects"
+msgstr "Fremad"
+
+msgid "Subscribe to the newsletter"
+msgstr "Abonner på nyhedsbrevet"
+
+msgid "Purge"
+msgstr "Rense"
+
+msgid "Valuation methods"
+msgstr "Værdiansættelsesmetoder"
+
+msgid "Rebuild cost"
+msgstr "Genopbygningsomkostninger"
+
+msgid "Uppercase"
+msgstr "Store bogstaver"
+
+msgid "Comparative market analysis"
+msgstr "Sammenlignende markedsanalyse"
+
+msgid "An average of"
+msgstr "Et gennemsnit af"
+
+msgid "Your own valuation"
+msgstr "Din egen værdiansættelse"
+
+msgid "Desired profitability"
+msgstr "Ønsket rentabilitet"
+
+msgid "Taxes and/or fees"
+msgstr "Skatter og/eller gebyrer"
+
+msgid "Year of purchase"
+msgstr "Købsår"
+
+msgid "Rental income"
+msgstr "Lejeindtægt"
+
+msgid "Price of purchase"
+msgstr "Pris ved køb"
+
+msgid "Land price"
+msgstr "Grund pris"
+
+msgid "Cost of construction"
+msgstr "Omkostninger ved konstruktion"
+
+msgid "Interior fittings"
+msgstr "Indvendigt udstyr"
+
+msgid "Landscaping"
+msgstr "Landskabspleje"
+
+msgid "Decrepitude"
+msgstr "Svaghed"
+
+msgid "Capital losses"
+msgstr "Kapitaltab"
+
+msgid "Capital gains"
+msgstr "Kapitalgevinster"
+
+msgid "Your mailbox has exceeded the storage limit (%s)"
+msgstr "Din postkasse har overskredet lagringsgrænsen (%s)"
+
+msgid "Your mailbox will reach the storage limit"
+msgstr "Din postkasse vil nå lagringsgrænsen."
+
+msgid "Sort by"
+msgstr "Sorter efter"
+
+msgid "Condominium in difficulty"
+msgstr "Ejerforening i vanskeligheder"
+
+msgid "Back to the list"
+msgstr "Tilbage til listen"
+
+msgid "Previous listing"
+msgstr "Forrige bolig"
+
+msgid "Next listing"
+msgstr "Næste bolig"
+
+msgid "empty"
+msgstr "tom"
+
+msgid "Filename"
+msgstr "Filnavn"
+
+msgid "Keyword"
+msgstr "Søgeord"
+
+msgid "Values"
+msgstr "Værdier"
+
+msgid "New feed"
+msgstr "Ny feed"
+
+msgid "Error"
+msgstr "Fejl"
+
+msgid "Erase all"
+msgstr "Slet alt"
+
+msgid "Try"
+msgstr "Prøv"
+
+msgid "Query"
+msgstr "Forespørgsel"
+
+msgid "Agency fees payable by vendor"
+msgstr "Sælgers gebyrer"
+
+msgid "Agency fees payable by buyer"
+msgstr "Købers gebyrer"
+
+msgid "Condominium fees"
+msgstr "Ejerforeningsafgifter"
+
+msgid "An error occurred"
+msgstr "En fejl opstod"
+
+msgid "Successful subscription"
+msgstr "Succesfuld abonnement"
+
+msgid "Created date"
+msgstr "Oprettet dato"
+
+msgid "Updated date"
+msgstr "Opdateret dato"
+
+msgid "Back to homepage"
+msgstr "Tilbage til hjemmesiden"
+
+msgid "Price min"
+msgstr "Pris min."
+
+msgid "Price max"
+msgstr "Pris maks."
+
+msgid "Bedroom min"
+msgstr "Soveværelse min."
+
+msgid "Bedroom max"
+msgstr "Soveværelse maks."
+
+msgid "Room min"
+msgstr "Værelse min."
+
+msgid "Room max"
+msgstr "Værelse maks."
+
+msgid "Project at"
+msgstr "Projekt"
+
+msgid "Agency rate"
+msgstr "Agentur sats"
+
+msgid "Tenant's commission"
+msgstr "Gebyr lejeafgift"
+
+msgid "Inventory tenant charge"
+msgstr "Inventar lejeafgift"
+
+msgid "Fees included"
+msgstr "Gebyrer inkluderet"
+
+msgid "Provision on recoverable fees"
+msgstr "Provision på inddrivelsesafgift"
+
+msgid "Never"
+msgstr "Aldrig"
+
+msgid "Remaining credits"
+msgstr "Resterende kreditter"
+
+msgid "Buy credits"
+msgstr "Køb kreditter"
+
+msgid "%s credits"
+msgstr "%s kreditter"
+
+msgid "Transaction fees"
+msgstr "Transaktionsgebyrer"
+
+msgid "View property"
+msgstr "Se ejendom"
+
+msgid "lot available"
+msgstr "grund ledig"
+
+msgid "lots available"
+msgstr "ledige grunde"
+
+msgid "Area min"
+msgstr "Areal min."
+
+msgid "Search a property"
+msgstr "Søg en ejendom"
+
+msgid "International"
+msgstr "Internationel"
+
+msgid "Unsubscribed"
+msgstr "Afmeld abonnement"
+
+msgid "The property will not be published because it is in group « %s »"
+msgstr "Ejendommen vil ikke blive offentliggjort, fordi den er i gruppe « %s»"
+
+msgid "%s month"
+msgstr "%s måned"
+
+msgid "%s months"
+msgstr "%s måneder"
+
+msgid "No action after"
+msgstr "Ingen handling efter"
+
+msgid "%s pending delete"
+msgstr "%s afventer sletning"
+
+msgid "Pending delete"
+msgstr "Afventer sletning"
+
+msgid "%s to delete"
+msgstr "%s til sletning"
+
+msgid "Edit my search"
+msgstr "Rediger min søgning"
+
+msgid "Activate my search"
+msgstr "Aktiver min søgning"
+
+msgid "Cancel my search"
+msgstr "Annuller min søgning"
+
+msgid "Only authorized properties"
+msgstr "Kun autoriserede ejendomme"
+
+msgid "Another currency"
+msgstr "En anden valuta"
+
+msgid "Enter the first 6 digits"
+msgstr "Indtast de første 6 cifre"
+
+msgid ""
+"Without action on your part, your contact will be deleted before the %s."
+msgstr ""
+"Uden handling fra din side, vil din kontaktperson blive slettet inden %s"
+
+msgid "No procedure in progress"
+msgstr "Ingen igangværende procedure"
+
+msgid "Procedure in progress"
+msgstr "Igangværende procedure"
+
+msgid "Number of lots in the condominium"
+msgstr "Antal andele i ejerforeningen"
+
+msgid "Network authorized"
+msgstr "Netværk autoriseret"
+
+msgid "Renew the lease"
+msgstr "Forny lejekontrakten"
+
+msgid "Remove at"
+msgstr "Fjern den"
+
+msgid "External action"
+msgstr "Ekstern handling"
+
+msgid ""
+"The migration of your prospect into a request will allow you to make "
+"matching and proposals with a better tracking."
+msgstr ""
+"Overførsel af dine emner til en forespørgsel, giver dig bedre mulighed for "
+"match og forslag."
+
+msgid "floors"
+msgstr "etager"
+
+msgid "Job"
+msgstr "Arbejde"
+
+msgid "Unsuscribe from this list"
+msgstr "Afmeld fra denne liste"
+
+msgid "Entry"
+msgstr "Indgang"
+
+msgid "Exit"
+msgstr "Udgang"
+
+msgid "Secured"
+msgstr "Sikret"
+
+msgid "Transparency"
+msgstr "Gennemsigtighed"
+
+msgid "Left"
+msgstr "Venstre"
+
+msgid "Top"
+msgstr "Top"
+
+msgid "Relative to the last element"
+msgstr "I forhold til det sidste element"
+
+msgid "Alignment"
+msgstr "Justering"
+
+msgid "Border size"
+msgstr "Kantstørrelse"
+
+msgid "Border color"
+msgstr "Kantfarve"
+
+msgid "Size of the internal margin"
+msgstr "Størrelse på den indre margin"
+
+msgid "Font color"
+msgstr "Farve på skrifttype"
+
+msgid "Font size"
+msgstr "Størrelse på skrifttype"
+
+msgid "Background color"
+msgstr "Baggrundsfarve"
+
+msgid "Custom image"
+msgstr "Brugerdefineret billede"
+
+msgid "custom"
+msgstr "brugerdefineret"
+
+msgid "Right"
+msgstr "Højre"
+
+msgid "Center"
+msgstr "Center"
+
+msgid "Justified"
+msgstr "Berettiget"
+
+msgid "Line height"
+msgstr "Linje højde"
+
+msgid "Price proposal"
+msgstr "Pris forslag"
+
+msgid "Template"
+msgstr "Skabelon"
+
+msgid "Publication date"
+msgstr "Udgivelsesdato"
+
+msgid "Recovered at"
+msgstr "Inddrives den"
+
+msgid "Available on"
+msgstr "Tilgængelig den"
+
+msgid "Allow all"
+msgstr "Tillad nu"
+
+msgid "Private position is not set, click here to update."
+msgstr "Privat status er ikke indstillet, klik her for at opdatere."
+
+msgid "Public position is not set, click here to update."
+msgstr "Offentlig status er ikke indstillet, klik her for at opdatere."
+
+msgid ""
+"Please use this link to subscribe to your calendar from a software or a "
+"device:"
+msgstr ""
+"Venligst brug dette link for at tage din kalender fra software eller enhed:"
+
+msgid "Activate"
+msgstr "Aktiver"
+
+msgid "Disable"
+msgstr "Deaktiver"
+
+msgid "Block"
+msgstr "Bloker"
+
+msgid "Unblock"
+msgstr "Fjern blokering"
+
+msgid "Area max"
+msgstr "Areal maks."
+
+msgid "Plot of land area min"
+msgstr "Min. jordstykkeareal"
+
+msgid "Plot of land area max"
+msgstr "Maks. jordstykkeareal"
+
+msgid "Date descending"
+msgstr "Dato aftagende"
+
+msgid "Date ascending"
+msgstr "Dato stigende"
+
+msgid "Price descending"
+msgstr "Pris aftagende"
+
+msgid "Price ascending"
+msgstr "Pris stigende"
+
+msgid "Balance"
+msgstr "Balance"
+
+msgid "Construction method"
+msgstr "Konstruktionsmetode"
+
+msgid "Tax code"
+msgstr "Skattekode"
+
+msgid "Downsides"
+msgstr "Ulempe"
+
+msgid "Assets"
+msgstr "Fordel"
+
+msgid "Please select a district from the list:"
+msgstr "Venligst vælg et område i listen:"
+
+msgid "Non-flood zone"
+msgstr "Ikke oversvømmelseszone"
+
+msgid "Potential flood zone"
+msgstr "Mulig oversvømmelseszone"
+
+msgid "Recognized flood zone"
+msgstr "Anerkendt oversvømmelseszone"
+
+msgid "Delimited flood zone"
+msgstr "Afgrænset oversvømmelseszone"
+
+msgid "Cadastre"
+msgstr "Matrikel"
+
+msgid "Delimited waterside zone"
+msgstr "Afgrænset vandsidezone"
+
+msgid "Potential flood zone in a delimited waterside zone"
+msgstr "Mulig oversvømmelseszone i en afgrænset vandsidezone"
+
+msgid "Potential flood zone in a delimited flood zone"
+msgstr "Mulig oversvømmelseszone i en afgrænset oversvømmelseszone"
+
+msgid "Recognized flood zone in a delimited waterside zone"
+msgstr "Anerkendt oversvømmelseszone i en afgrænset vandsidezone"
+
+msgid "Recognized flood zone in a delimited flood zone"
+msgstr "Anerkendt oversvømmelseszone i en afgrænset oversvømmelseszone"
+
+msgid "Profile"
+msgstr "Profil"
+
+msgid "Partner"
+msgstr "Partner"
+
+msgid "Net seller"
+msgstr "Net seller"
+
+msgid "Not suggested"
+msgstr "Ikke foreslået"
+
+msgid "%s guest"
+msgstr "%s gæster"
+
+msgid "%s bed"
+msgstr "%s senge"
+
+msgid "Documentation"
+msgstr "Dokumentation"
+
+msgid "%s bathroom"
+msgstr "%s badeværelse"
+
+msgid "%s bathrooms"
+msgstr "%s badeværelser"
+
+msgid "Floors"
+msgstr "Etager"
+
+msgid "Professionals"
+msgstr "Professionel"
+
+msgid "Toilet"
+msgstr "Toilet"
+
+msgid "Help"
+msgstr "Hjælp"
+
+msgid "Show pagination"
+msgstr "Vis paginering"
+
+msgid "Mandatory fields"
+msgstr "Obligatoriske felter"
+
+msgid "Available soon"
+msgstr "Snart tilgængelig"
+
+msgid "HD Photo"
+msgstr "HD Photo"
+
+#, fuzzy
+msgid "Contract end at"
+msgstr ""
+"#-#-#-#-#  apimo-da_DK.po  #-#-#-#-#\n"
+"Kontrakten udløber den\n"
+"#-#-#-#-#  apimo-da_DK.po  #-#-#-#-#\n"
+"Kontrakt slutter ved"
+
+msgid "Incomplete"
+msgstr "Ufuldstændig"
+
+msgid "Location Map"
+msgstr "Lokationskort"
+
+msgid "User Detail"
+msgstr "Brugerdetaljer"
+
+msgid "File size"
+msgstr "Filstørrelse"
+
+msgid "File title"
+msgstr "Filtitel"
+
+msgid "Region"
+msgstr "Region"
+
+msgid "Bath"
+msgstr "Bad"
+
+msgid "Private Negotiation"
+msgstr "Privat forhandling"
+
+msgid "Property specifications"
+msgstr "Ejendomsspecifikationer"
+
+msgid "Energy performance"
+msgstr "Energiydelse"
+
+msgid "Media Details"
+msgstr "Mediedetaljer"
+
+msgid "View Video"
+msgstr "Se video"
+
+msgid "Start Date"
+msgstr "Startdato"
+
+msgid "End Date"
+msgstr "Slutdato"
+
+msgid "Welcome"
+msgstr "Velkommen"
+
+msgid "See What’s happening with Apimo Plugin."
+msgstr "Se hvad der sker med Apimo-pluginet."
+
+msgid "PROVIDERS"
+msgstr "UDBYDERE"
+
+msgid "AGENCIES"
+msgstr "AGENTURER"
+
+msgid "PROPERTIES"
+msgstr "EJENDOMME"
+
+msgid "BOOKMARK"
+msgstr "BOGMÆRKE"
+
+msgid "Remove all"
+msgstr "Fjern alt"
+
+msgid "Apply filter"
+msgstr "Anvend filter"
+
+msgid "Select Subtype"
+msgstr "Vælg undertype"
+
+msgid "Enchère"
+msgstr "Auktion"
+
+msgid "Location"
+msgstr "Leje"
+
+msgid "Location saisonnière"
+msgstr "Sæsonudlejning"
+
+msgid "From"
+msgstr "Fra"
+
+msgid "To"
+msgstr "Til"
+
+msgid "Dates"
+msgstr "Datoer"
+
+msgid "Select country"
+msgstr "Vælg land"
+
+msgid "Select region"
+msgstr "Vælg region"
+
+msgid "Select district"
+msgstr "Vælg distrikt"
+
+msgid "Select city"
+msgstr "Vælg by"
+
+msgid "Good"
+msgstr "God"
+
+msgid "Bad"
+msgstr "Dårlig"
+
+msgid "hello"
+msgstr "hej"
+
+msgid "Available Integrations"
+msgstr "Tilgængelige integrationer"
+
+msgid "reCAPTCHA Detected"
+msgstr "genindvinding"
+
+msgid "reCAPTCHA Not Detected"
+msgstr "genindvinding ikke opdaget"
+
+msgid "Google reCAPTCHA Integration"
+msgstr "Google Recaptcha Integration"
+
+msgid ""
+"Protect your forms from spam and abuse with Google reCAPTCHA integration."
+msgstr ""
+"Beskyt dine formularer mod spam og misbrug med Google Recaptcha "
+"-integration."
+
+msgid "Activate Integration"
+msgstr "Aktivér integration"
+
+msgid "Deactivate Integration"
+msgstr "Deaktiver integration"
+
+msgid "reCAPTCHA Configuration"
+msgstr "genindvindingskonfiguration"
+
+msgid "Please configure your reCAPTCHA keys below to complete the setup."
+msgstr ""
+"Konfigurer venligst dine RecaptCha -nøgler nedenfor for at afslutte "
+"opsætningen."
+
+msgid "To complete the reCAPTCHA setup:"
+msgstr "For at afslutte RecaptCha -opsætningen:"
+
+msgid "Go to the"
+msgstr "Go to the"
+
+msgid "Google reCAPTCHA Admin Console"
+msgstr "Google Recaptcha Admin Console"
+
+msgid "Register your site and get your Site Key and Secret Key"
+msgstr "Registrer dit websted og få din webstedsnøgle og hemmelig nøgle"
+
+msgid "Enter the keys below to activate reCAPTCHA"
+msgstr "Indtast nøglerne nedenfor for at aktivere Recaptcha"
+
+msgid "reCAPTCHA is configured properly."
+msgstr "Recaptcha er konfigureret korrekt."
+
+msgid "Site Key"
+msgstr "Webstedsnøgle"
+
+msgid "Secret Key"
+msgstr "Secret Key"
+
+msgid "Save Configuration"
+msgstr "Gem konfiguration"
+
+msgid "Contact Form"
+msgstr "Kontaktformular"
+
+msgid "Invalid format"
+msgstr "Ugyldigt format"
+
+msgid "This field is required"
+msgstr "Dette felt er påkrævet"
+
+msgid "Invalid email format"
+msgstr "Ugyldigt e -mail -format"
+
+msgid "Please use reCAPTCHA version 3"
+msgstr "Brug Recaptcha version 3"

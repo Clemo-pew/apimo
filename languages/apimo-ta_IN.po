@@ -1,0 +1,5113 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ta_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.1\n"
+
+msgid "Reminder"
+msgstr "நினைவூட்டல்"
+
+msgid "Suggestion"
+msgstr "பரிந்துரை"
+
+msgid "Report"
+msgstr "அறிக்கை"
+
+msgid "Other"
+msgstr "மற்ற"
+
+#, fuzzy
+msgid "Valuation"
+msgstr ""
+"#-#-#-#-#  apimo-ta_IN.po  #-#-#-#-#\n"
+"மதிப்பீட்டுக்\n"
+"#-#-#-#-#  apimo-ta_IN.po  #-#-#-#-#\n"
+"மதிப்பீடு\n"
+"#-#-#-#-#  apimo-ta_IN.po  #-#-#-#-#\n"
+"மதிப்பீடு"
+
+msgid "Advertising"
+msgstr "விளம்பரப்படுத்தல்"
+
+msgid "Open House"
+msgstr "திறந்த வீடு"
+
+msgid "Canvassing"
+msgstr "ஆதரவுதிரட்டுதல்"
+
+msgid "Message"
+msgstr "செய்தி அனுப்ப"
+
+msgid "After-sales"
+msgstr "விற்பனைக்கு பிறகு"
+
+msgid "Visit"
+msgstr "வருகை - டூர்"
+
+msgid "Appointment"
+msgstr "நியமனம்"
+
+msgid "Phone"
+msgstr "தொலைபேசி"
+
+#, fuzzy
+msgid "e-mail"
+msgstr ""
+"#-#-#-#-#  apimo-ta_IN.po  #-#-#-#-#\n"
+"e-mail\n"
+"#-#-#-#-#  apimo-ta_IN.po  #-#-#-#-#\n"
+"மின்னஞ்சல்"
+
+msgid "Fax"
+msgstr "தொலைநகல்"
+
+msgid "Mail"
+msgstr "மின்னஞ்சல்"
+
+#, fuzzy
+msgid "SMS"
+msgstr ""
+"#-#-#-#-#  apimo-ta_IN.po  #-#-#-#-#\n"
+"எஸ்எம்எஸ்\n"
+"#-#-#-#-#  apimo-ta_IN.po  #-#-#-#-#\n"
+"SMS"
+
+msgid "Walk-in"
+msgstr "வாக்-இன்"
+
+#, fuzzy
+msgid "Extranet"
+msgstr ""
+"#-#-#-#-#  apimo-ta_IN.po  #-#-#-#-#\n"
+"எக்ஸ்ட்ரானெட்\n"
+"#-#-#-#-#  apimo-ta_IN.po  #-#-#-#-#\n"
+"Extranet"
+
+msgid "Project"
+msgstr "திட்டம்"
+
+msgid "Under construction"
+msgstr "கட்டுமானத்தின் கீழ்"
+
+msgid "Delivered"
+msgstr "டெலிவரி செய்யப்பட்டது"
+
+msgid "Ended"
+msgstr "முடிந்தது"
+
+msgid "Canceled"
+msgstr "ரத்து"
+
+msgid "Mr."
+msgstr "திரு."
+
+msgid "Mrs."
+msgstr "திருமதி."
+
+msgid "Ms."
+msgstr "செல்வி."
+
+msgid "Mr. & Mrs."
+msgstr "திரு மற்றும் திருமதி."
+
+msgid "Sheik"
+msgstr "ஷேக்"
+
+msgid "Duke"
+msgstr "டியூக்"
+
+msgid "Duchess"
+msgstr "டச்சஸ்"
+
+msgid "Lord"
+msgstr "கோமான்"
+
+msgid "Maître"
+msgstr "மாஸ்டர்"
+
+msgid "Professor"
+msgstr "பேராசிரியர்"
+
+msgid "Sir"
+msgstr "சர்"
+
+msgid "Regulations"
+msgstr "கட்டுப்பாடு"
+
+msgid "AML/KYC Vendor"
+msgstr "AML/KYC Vendor"
+
+msgid "AML/KYC Buyer"
+msgstr "AML/KYC Buyer"
+
+msgid "Concierge"
+msgstr "வரவேற்பு"
+
+msgid "Contact"
+msgstr "ஒப்பந்த"
+
+#, fuzzy
+msgid "Search"
+msgstr ""
+"#-#-#-#-#  apimo-ta_IN.po  #-#-#-#-#\n"
+"மேலும் தகவல்\n"
+"#-#-#-#-#  apimo-ta_IN.po  #-#-#-#-#\n"
+"தேடல்"
+
+#, fuzzy
+msgid "Owner"
+msgstr ""
+"#-#-#-#-#  apimo-ta_IN.po  #-#-#-#-#\n"
+"விற்க\n"
+"#-#-#-#-#  apimo-ta_IN.po  #-#-#-#-#\n"
+"உரிமையாளர்"
+
+msgid "e-mail alert"
+msgstr "மின்னஞ்சல் விழிப்பூட்டல்"
+
+msgid "Send to a friend"
+msgstr "நண்பருக்கு அனுப்பு"
+
+msgid "Newsletter"
+msgstr "செய்திமடல்"
+
+msgid "Selection"
+msgstr "தேர்வு"
+
+msgid "New"
+msgstr "புதிய"
+
+msgid "Opened"
+msgstr "திறக்கப்பட்ட"
+
+msgid "Processing"
+msgstr "செயலாக்க"
+
+msgid "Closed"
+msgstr "மூடப்பட்ட"
+
+msgid "Self-employed"
+msgstr "சுயதொழில்"
+
+msgid "Bakery"
+msgstr "பேக்கரி"
+
+msgid "Restaurant"
+msgstr "உணவகம்"
+
+msgid "Press"
+msgstr "பிரஸ்"
+
+msgid "Bar"
+msgstr "பார்"
+
+msgid "Florist"
+msgstr "பூ வியாபாரிகளின்"
+
+msgid "Tobacconist"
+msgstr "Tobacconist"
+
+msgid "Clothes"
+msgstr "ஆடைகள்"
+
+msgid "Chemist"
+msgstr "கெமிஸ்ட்"
+
+msgid "Shopping centre"
+msgstr "பல்கடை அங்காடி"
+
+msgid "Travel agency"
+msgstr "சுற்றுலா நிறுவனம்"
+
+msgid "Real estate agent"
+msgstr "ரியல் எஸ்டேட் முகவர்"
+
+msgid "Gallery"
+msgstr "கேலரி"
+
+#, fuzzy
+msgid "Garage"
+msgstr ""
+"#-#-#-#-#  apimo-ta_IN.po  #-#-#-#-#\n"
+"கேரேஜ்\n"
+"#-#-#-#-#  apimo-ta_IN.po  #-#-#-#-#\n"
+"மோட்டார்"
+
+msgid "Insurer"
+msgstr "காப்பீடு அளிப்பவர்"
+
+msgid "Optician"
+msgstr "மூக்குக்கண்ணாடி விற்பவர்"
+
+msgid "Perfumery"
+msgstr "நறுமண பொருள்கள்"
+
+#, fuzzy
+msgid "Hotel"
+msgstr ""
+"#-#-#-#-#  apimo-ta_IN.po  #-#-#-#-#\n"
+"ஓட்டல்\n"
+"#-#-#-#-#  apimo-ta_IN.po  #-#-#-#-#\n"
+"ஓட்டல்\n"
+"#-#-#-#-#  apimo-ta_IN.po  #-#-#-#-#\n"
+"ஹோட்டல்"
+
+msgid "Antique dealer"
+msgstr "பழங்கால வியாபாரி"
+
+msgid "Laundry"
+msgstr "சலவை"
+
+msgid "Pressing"
+msgstr "அழுத்தினால்"
+
+msgid "Jeweller"
+msgstr "நகைக்கடைக்கு"
+
+msgid "Grocer"
+msgstr "பலசரக்கு வியாபாரி"
+
+msgid "Butcher"
+msgstr "கசாப்பு"
+
+msgid "Caterer"
+msgstr "சமையற்கலைஞர்"
+
+msgid "Brewery"
+msgstr "மது வடித்தல்"
+
+msgid "Snack"
+msgstr "சிற்றுண்டி"
+
+msgid "Confectioner"
+msgstr "பாடிஸ்செரி"
+
+msgid "Pork butcher"
+msgstr "பன்றி இறைச்சி கசாப்பு"
+
+msgid "Grocery"
+msgstr "மளிகை"
+
+msgid "Cheesemonger"
+msgstr "Cheesemonger"
+
+msgid "Fruit and vegetables"
+msgstr "பழங்கள் மற்றும் காய்கறிகள்"
+
+msgid "Sex shop"
+msgstr "செக்ஸ் கடை"
+
+msgid "Video game"
+msgstr "வீடியோ கேம்"
+
+msgid "Computer"
+msgstr "கணினி"
+
+msgid "Hairdresser"
+msgstr "சிகையலங்கார நிபுணர்"
+
+msgid "Cosmetician"
+msgstr "Cosmetician"
+
+msgid "Household electrical"
+msgstr "வீட்டு மின்"
+
+msgid "Shoes"
+msgstr "காலணிகள்"
+
+msgid "Haberdasher"
+msgstr "Haberdasher"
+
+msgid "Groomer"
+msgstr "காப்பாளர்"
+
+msgid "Tea room"
+msgstr "Tea room"
+
+msgid "Beach"
+msgstr "கடற்கரை"
+
+msgid "Bookshop"
+msgstr "புத்தகக்கடையில்"
+
+msgid "Offices"
+msgstr "அலுவலகங்கள்"
+
+msgid "Gas station"
+msgstr "எரிவாயு நிலையம்"
+
+msgid "Camping"
+msgstr "முகாம் திடல்"
+
+msgid "Nightclub"
+msgstr "இரவுநேர கேளிக்கைவிடுதி"
+
+msgid "Pet store"
+msgstr "வளர்ப்பு பிராணி அங்காடி"
+
+msgid "Video arcade"
+msgstr "வீடியோ ஆர்கேட்"
+
+msgid "Office supplies"
+msgstr "அலுவலக பொருட்கள்"
+
+msgid "Furniture"
+msgstr "மரச்சாமான்கள்"
+
+msgid "Decoration"
+msgstr "அலங்காரம்"
+
+msgid "Agriculture"
+msgstr "விவசாயம்"
+
+msgid "Photo"
+msgstr "புகைப்பட"
+
+msgid "Drugstore"
+msgstr "மருந்துக்கடை"
+
+msgid "Locksmith"
+msgstr "பூட்டு"
+
+msgid "Health club"
+msgstr "சுகாதார கிளப்"
+
+msgid "Taxi"
+msgstr "டாக்ஸி"
+
+#, fuzzy
+msgid "Cinema"
+msgstr ""
+"#-#-#-#-#  apimo-ta_IN.po  #-#-#-#-#\n"
+"சினிமா\n"
+"#-#-#-#-#  apimo-ta_IN.po  #-#-#-#-#\n"
+"முகப்பு சினிமா"
+
+msgid "Theater"
+msgstr "திரையரங்கு"
+
+msgid "Café"
+msgstr "காபி கடை"
+
+msgid "Garden centre"
+msgstr "தோட்டத்தில் மையம்"
+
+msgid "Hardware shop"
+msgstr "வன்பொருள் கடை"
+
+msgid "Fishmongers"
+msgstr "மீன் விற்பனையாளர்"
+
+msgid "Recreation"
+msgstr "பொழுதுபோக்கு"
+
+msgid "Culture"
+msgstr "கலாச்சாரம்"
+
+msgid "Funeral"
+msgstr "இறுதி சடங்கு"
+
+msgid "Sport supplies"
+msgstr "விளையாட்டு பொருட்கள்"
+
+#, fuzzy
+msgid "Bedroom"
+msgstr ""
+"#-#-#-#-#  apimo-ta_IN.po  #-#-#-#-#\n"
+"படுக்கையறை\n"
+"#-#-#-#-#  apimo-ta_IN.po  #-#-#-#-#\n"
+"படுக்கை அறை\n"
+"#-#-#-#-#  apimo-ta_IN.po  #-#-#-#-#\n"
+"படுக்கையறை"
+
+msgid "Living-room"
+msgstr "வாழ்க்கை-அறைகள்"
+
+#, fuzzy
+msgid "Kitchen"
+msgstr ""
+"#-#-#-#-#  apimo-ta_IN.po  #-#-#-#-#\n"
+"சமையலறைகள்\n"
+"#-#-#-#-#  apimo-ta_IN.po  #-#-#-#-#\n"
+"சமையலறை"
+
+#, fuzzy
+msgid "Parking"
+msgstr ""
+"#-#-#-#-#  apimo-ta_IN.po  #-#-#-#-#\n"
+"Parking\n"
+"#-#-#-#-#  apimo-ta_IN.po  #-#-#-#-#\n"
+"பார்க்கிங்\n"
+"#-#-#-#-#  apimo-ta_IN.po  #-#-#-#-#\n"
+"பார்க்கிங்"
+
+#, fuzzy
+msgid "Cellar"
+msgstr ""
+"#-#-#-#-#  apimo-ta_IN.po  #-#-#-#-#\n"
+"நிலவறைகள்\n"
+"#-#-#-#-#  apimo-ta_IN.po  #-#-#-#-#\n"
+"ரூட் பாதாளம்"
+
+msgid "Garden shelter"
+msgstr "தோட்டத்தில் தங்குமிடம்"
+
+msgid "Bathroom"
+msgstr "குளியலறை"
+
+msgid "Laundry room"
+msgstr "சலவை அறை"
+
+msgid "Study"
+msgstr "படிப்பு அறை"
+
+msgid "Hallway"
+msgstr "கூடத்தின்"
+
+msgid "Corridor"
+msgstr "நடைபாதை"
+
+msgid "Shower room"
+msgstr "குளியலறை அறை"
+
+msgid "Walk-in wardrobe"
+msgstr "நடைப்பயிற்சி கழிப்பிடம்"
+
+msgid "Entrance"
+msgstr "நுழைவுத்"
+
+msgid "Lavatory"
+msgstr "சிறுநீர் கழிக்கும்"
+
+msgid "Veranda"
+msgstr "தாழ்வாரத்தில்"
+
+msgid "Terrace"
+msgstr "மேல்தளம்"
+
+msgid "Solarium"
+msgstr "சோலாரியம்"
+
+msgid "Living room/dining area"
+msgstr "வாழ்க்கை அறை / டைனிங் பகுதி"
+
+msgid "Play room"
+msgstr "விளையாடு அறை"
+
+msgid "Dining room"
+msgstr "சாப்பிடும் அல்லது உணவருந்தும் அறை"
+
+msgid "Pool house"
+msgstr "Pool house"
+
+msgid "Cupboard"
+msgstr "அலமாரியில்"
+
+msgid "Not used"
+msgstr "பயன்படுத்துவதில்லை"
+
+msgid "Loggia"
+msgstr "Loggia"
+
+msgid "Attic"
+msgstr "அட்டிக்"
+
+msgid "Mezzanine"
+msgstr "இடைமட்ட"
+
+msgid "Pantry"
+msgstr "ரூட் பாதாளம்"
+
+msgid "Maintenance room"
+msgstr "பராமரிப்பு அறை"
+
+msgid "Workshop"
+msgstr "பட்டறை"
+
+#, fuzzy
+msgid "Studio"
+msgstr ""
+"#-#-#-#-#  apimo-ta_IN.po  #-#-#-#-#\n"
+"ஸ்டூடியோ\n"
+"#-#-#-#-#  apimo-ta_IN.po  #-#-#-#-#\n"
+"ஸ்டுடியோ"
+
+msgid "Loft"
+msgstr "பரண்"
+
+msgid "Library"
+msgstr "நூலகம்"
+
+msgid "Closet"
+msgstr "மறைவை"
+
+msgid "Courtyard"
+msgstr "முற்றத்தில்"
+
+msgid "Landing"
+msgstr "லேண்டிங்"
+
+msgid "Linen room"
+msgstr "லினென் அறை"
+
+#, fuzzy
+msgid "Basement"
+msgstr ""
+"#-#-#-#-#  apimo-ta_IN.po  #-#-#-#-#\n"
+"கட்டிடத்தின் அடித்தளம்\n"
+"#-#-#-#-#  apimo-ta_IN.po  #-#-#-#-#\n"
+"பேஸ்மெண்ட்"
+
+msgid "Bathroom / Lavatory"
+msgstr "குளியலறை / லாவார்ட்"
+
+msgid "Shower room / Lavatory"
+msgstr "குளியலறை அறை / லாவார்ட்"
+
+msgid "Balcony"
+msgstr "பால்கனி"
+
+msgid "Exercise room"
+msgstr "உடற்பயிற்சி அறை"
+
+msgid "Discothèque"
+msgstr "இரவு நடன"
+
+msgid "Home cinema"
+msgstr "முகப்பு சினிமா"
+
+msgid "Reception room"
+msgstr "வரவேற்பு அறை"
+
+msgid "Storage room"
+msgstr "சேமிப்பு அறை"
+
+#, fuzzy
+msgid "Garden"
+msgstr ""
+"#-#-#-#-#  apimo-ta_IN.po  #-#-#-#-#\n"
+"கார்டன்\n"
+"#-#-#-#-#  apimo-ta_IN.po  #-#-#-#-#\n"
+"கார்டன்\n"
+"#-#-#-#-#  apimo-ta_IN.po  #-#-#-#-#\n"
+"தோட்டம்"
+
+#, fuzzy
+msgid "Park"
+msgstr ""
+"#-#-#-#-#  apimo-ta_IN.po  #-#-#-#-#\n"
+"பூங்கா\n"
+"#-#-#-#-#  apimo-ta_IN.po  #-#-#-#-#\n"
+"பார்க்\n"
+"#-#-#-#-#  apimo-ta_IN.po  #-#-#-#-#\n"
+"பார்க்"
+
+#, fuzzy
+msgid "Land"
+msgstr ""
+"#-#-#-#-#  apimo-ta_IN.po  #-#-#-#-#\n"
+"நில\n"
+"#-#-#-#-#  apimo-ta_IN.po  #-#-#-#-#\n"
+"நிலம்"
+
+msgid "Patio"
+msgstr "கம்பி வலை"
+
+msgid "Principal bedroom"
+msgstr "பிரதான படுக்கையறை"
+
+msgid "Suite"
+msgstr "சூட்"
+
+msgid "Shed"
+msgstr "Shed"
+
+#, fuzzy
+msgid "Apartment"
+msgstr ""
+"#-#-#-#-#  apimo-ta_IN.po  #-#-#-#-#\n"
+"அபார்ட்மென்ட்\n"
+"#-#-#-#-#  apimo-ta_IN.po  #-#-#-#-#\n"
+"அபார்ட்மெண்ட்\n"
+"#-#-#-#-#  apimo-ta_IN.po  #-#-#-#-#\n"
+"அபார்ட்மென்ட்"
+
+msgid "Cabin"
+msgstr "கேபின்"
+
+msgid "Barn"
+msgstr "கொட்டகையின்"
+
+msgid "Outbuilding"
+msgstr "புற வீடு"
+
+msgid "Bike storage room"
+msgstr "பைக் சேமிப்பு அறை"
+
+msgid "Ski storage room"
+msgstr "பனிச்சறுக்கு அறை"
+
+msgid "Garbage room"
+msgstr "குப்பை கூடம்"
+
+msgid "Steam room"
+msgstr "ஹம்மாமின்"
+
+msgid "Indoor swimming pool"
+msgstr "உள்ளரங்க நீச்சல் குளம்"
+
+msgid "Prayer room"
+msgstr "பிரார்த்தனை அறை"
+
+msgid "Sauna"
+msgstr "நீராவிக்"
+
+msgid "Watchtower"
+msgstr "காவற்கோபுரம்"
+
+msgid "Room"
+msgstr "அறை"
+
+msgid "Meeting room"
+msgstr "சந்திப்பு அறை"
+
+msgid "Maid's room"
+msgstr "வேலைக்காரியின் அறை"
+
+msgid "Maid's studio"
+msgstr "வேலைக்காரி ஸ்டூடியோ"
+
+msgid "Double reception room"
+msgstr "இரட்டை வரவேற்பு அறை"
+
+msgid "Triple reception room"
+msgstr "டிரிபிள் வரவேற்பு அறை"
+
+msgid "Indoor parking"
+msgstr "உள்ளரங்க பார்க்கிங்"
+
+msgid "Outdoor parking"
+msgstr "வெளிப்புற நிறுத்தம்"
+
+msgid "Stockroom"
+msgstr "புத்தக சேமிப்பறை"
+
+msgid "Shop"
+msgstr "கடை"
+
+msgid "Cafeteria"
+msgstr "உணவு விடுதியில்"
+
+msgid "Unit"
+msgstr "அலகு"
+
+msgid "Warehouse"
+msgstr "கிடங்கு"
+
+msgid "Accommodation"
+msgstr "விடுதி"
+
+msgid "Arcade"
+msgstr "ஆர்கேட்"
+
+#, fuzzy
+msgid "House"
+msgstr ""
+"#-#-#-#-#  apimo-ta_IN.po  #-#-#-#-#\n"
+"ஹவுஸ்\n"
+"#-#-#-#-#  apimo-ta_IN.po  #-#-#-#-#\n"
+"வீட்டில்\n"
+"#-#-#-#-#  apimo-ta_IN.po  #-#-#-#-#\n"
+"வீடு\n"
+"#-#-#-#-#  apimo-ta_IN.po  #-#-#-#-#\n"
+"வீட்டில்"
+
+msgid "Stair"
+msgstr "படிக்கட்டு"
+
+msgid "Box"
+msgstr "பெட்டி"
+
+msgid "Single"
+msgstr "ஒற்றை"
+
+msgid "Twin"
+msgstr "இரட்டை"
+
+msgid "Twin by garage"
+msgstr "இரட்டைக் கடையில்"
+
+msgid "Village house"
+msgstr "கிராம வீடு"
+
+msgid "Twin by angle"
+msgstr "இரட்டை கோணம்"
+
+msgid "Ranged"
+msgstr "விரிந்திருந்தது"
+
+msgid "Standard"
+msgstr "தரநிலை"
+
+msgid "Co-exclusive"
+msgstr "கூட்டுறவு பிரத்தியேக"
+
+msgid "Exclusive"
+msgstr "பிரத்தியேக"
+
+msgid "Delegation"
+msgstr "பிரதிநிதிகள்"
+
+msgid "Exclusive agent"
+msgstr "பிரத்யேக முகவர்"
+
+msgid "Colleague"
+msgstr "நண்பருக்கு"
+
+#, fuzzy
+msgid "Free"
+msgstr ""
+"#-#-#-#-#  apimo-ta_IN.po  #-#-#-#-#\n"
+"கிடைக்கும்\n"
+"#-#-#-#-#  apimo-ta_IN.po  #-#-#-#-#\n"
+"இலவச"
+
+msgid "Rented"
+msgstr "வாடகைக்கு"
+
+msgid "Occupied"
+msgstr "ஆக்கிரமிக்கப்பட்ட"
+
+msgid "To be agreed"
+msgstr "ஒப்புக்கொள்ளப்பட வேண்டும்"
+
+msgid "Building"
+msgstr "கட்டிடம்"
+
+msgid "Residence"
+msgstr "குடியிருப்பு"
+
+msgid "Housing scheme"
+msgstr "வீட்டுத் திட்டம்"
+
+msgid "Hamlet"
+msgstr "ஹேம்லட்"
+
+msgid "Domain"
+msgstr "டொமைன்"
+
+msgid "Property"
+msgstr "சொத்து"
+
+msgid "Street"
+msgstr "தெரு"
+
+msgid "Sale"
+msgstr "விற்பனை"
+
+msgid "Rental"
+msgstr "வாடகை"
+
+msgid "Seasonal rental"
+msgstr "பருவகால வாடகை"
+
+msgid "Development"
+msgstr "வளர்ச்சி"
+
+msgid "Life annuity"
+msgstr "வாழ்க்கை ஆண்டு"
+
+msgid "Auction"
+msgstr "ஏலம்"
+
+msgid "Unit sale"
+msgstr "அலகு விற்பனை"
+
+msgid "Bulk sale"
+msgstr "மொத்த விற்பனை"
+
+msgid "Unfurnished"
+msgstr "தட்டுமுட்டு"
+
+msgid "Furnished"
+msgstr "அளித்தனர்"
+
+msgid "Roommate"
+msgstr "அறைக்கான"
+
+msgid "Student"
+msgstr "மாணவர்"
+
+msgid "Holidays"
+msgstr "விடுமுறை"
+
+msgid "Event"
+msgstr "நிகழ்வு"
+
+msgid "New construction"
+msgstr "புதிய கட்டுமானம்"
+
+msgid "Life annuity occupied"
+msgstr "வாழ்நாள் ஊதியம் ஆக்கிரமிக்கப்பட்டது"
+
+msgid "Bare Ownership"
+msgstr "வெற்று உரிமை"
+
+msgid "Forward sale"
+msgstr "முன்னோக்கு விற்பனை"
+
+msgid "Life annuity semi-occupied"
+msgstr "ஆயுள் ஆண்டு அரை அகதி"
+
+msgid "Forward sale available"
+msgstr "முன்னோக்கு விற்பனை கிடைக்கிறது"
+
+msgid "Forward sale semi-occupied"
+msgstr "முன்னோக்கு விற்பனை அரை ஆக்கிரமிக்கப்பட்டது"
+
+msgid "Forward sale occupied"
+msgstr "முன்னோக்கு விற்பனை ஆக்கிரமிக்கப்பட்டது"
+
+msgid "Life annuity without income"
+msgstr "வருவாய் இல்லாமல் வாழ்க்கை ஆண்டு"
+
+msgid "Requires updating"
+msgstr "புதுப்பித்தல் தேவைப்படுகிறது"
+
+msgid "Good condition"
+msgstr "நல்ல நிலை"
+
+msgid "Requires renovation"
+msgstr "புதுப்பிக்க வேண்டும்"
+
+msgid "Excellent condition"
+msgstr "சிறந்த நிலை"
+
+msgid "Timber"
+msgstr "மர"
+
+msgid "Engineered wood"
+msgstr "பொறிக்கப்பட்ட மரம்"
+
+msgid "Stone"
+msgstr "கல்"
+
+msgid "Brick"
+msgstr "செங்கல்"
+
+msgid "Concrete"
+msgstr "கான்கிரீட்"
+
+msgid "Reinforced concrete"
+msgstr "தீவிர கான்கிரீட்"
+
+msgid "Steel frame"
+msgstr "எஃகு சட்டகம்"
+
+msgid "Reinforced concrete frame"
+msgstr "வலுவூட்டப்பட்ட கான்கிரீட் சட்டகம்"
+
+msgid "Shear wall"
+msgstr "வெட்டு சுவர்"
+
+msgid "Concrete block"
+msgstr "கான்கிரீட் பிளாக்"
+
+msgid "Ground floor"
+msgstr "தரைத்தளம்"
+
+msgid "Top floor"
+msgstr "மேல் மாடியில்"
+
+msgid "1st"
+msgstr "1st"
+
+msgid "2nd"
+msgstr "2nd"
+
+msgid "3rd"
+msgstr "3rd"
+
+msgid "4th"
+msgstr "4th"
+
+msgid "5th"
+msgstr "5th"
+
+msgid "6th"
+msgstr "6th"
+
+msgid "7th"
+msgstr "7th"
+
+msgid "8th"
+msgstr "8th"
+
+msgid "9th"
+msgstr "9th"
+
+msgid "10th"
+msgstr "10th"
+
+msgid "11th"
+msgstr "11th"
+
+msgid "12th"
+msgstr "12th"
+
+msgid "13th"
+msgstr "13th"
+
+msgid "14th"
+msgstr "14th"
+
+msgid "15th"
+msgstr "15th"
+
+msgid "16th"
+msgstr "16th"
+
+msgid "17th"
+msgstr "17th"
+
+msgid "18th"
+msgstr "18th"
+
+msgid "19th"
+msgstr "19th"
+
+msgid "20th"
+msgstr "20th"
+
+msgid "Garden level"
+msgstr "தோட்டத்தில் நிலை"
+
+msgid "Split-level"
+msgstr "பிரி நிலை"
+
+msgid "-1"
+msgstr "-1"
+
+msgid "-2"
+msgstr "-2"
+
+msgid "-3"
+msgstr "-3"
+
+msgid "-4"
+msgstr "-4"
+
+msgid "Single-storey"
+msgstr "ஒற்றை மாடி"
+
+msgid "21st"
+msgstr "21st"
+
+msgid "22nd"
+msgstr "22th"
+
+msgid "23rd"
+msgstr "23th"
+
+msgid "24th"
+msgstr "24th"
+
+msgid "25th"
+msgstr "25th"
+
+msgid "26th"
+msgstr "26th"
+
+msgid "27th"
+msgstr "27th"
+
+msgid "28th"
+msgstr "28th"
+
+msgid "29th"
+msgstr "29th"
+
+msgid "30th"
+msgstr "30th"
+
+msgid "31st"
+msgstr "31st"
+
+msgid "32nd"
+msgstr "32th"
+
+msgid "33rd"
+msgstr "33th"
+
+msgid "34th"
+msgstr "34th"
+
+msgid "35th"
+msgstr "35th"
+
+msgid "36th"
+msgstr "36th"
+
+msgid "37th"
+msgstr "37th"
+
+msgid "38th"
+msgstr "38th"
+
+msgid "39th"
+msgstr "39th"
+
+msgid "40th"
+msgstr "40th"
+
+msgid "-5"
+msgstr "-5"
+
+msgid "-6"
+msgstr "-6"
+
+msgid "-7"
+msgstr "-7"
+
+msgid "-8"
+msgstr "-8"
+
+msgid "-9"
+msgstr "-9"
+
+msgid "-10"
+msgstr "-10"
+
+msgid "41st"
+msgstr "41"
+
+msgid "42nd"
+msgstr "42"
+
+msgid "43rd"
+msgstr "43"
+
+msgid "44th"
+msgstr "44"
+
+msgid "45th"
+msgstr "45"
+
+msgid "46th"
+msgstr "46"
+
+msgid "47th"
+msgstr "47"
+
+msgid "48th"
+msgstr "48"
+
+msgid "49th"
+msgstr "49"
+
+msgid "50th"
+msgstr "50"
+
+msgid "51st"
+msgstr "51"
+
+msgid "52nd"
+msgstr "52"
+
+msgid "53rd"
+msgstr "53"
+
+msgid "54th"
+msgstr "54"
+
+msgid "55th"
+msgstr "55"
+
+msgid "56th"
+msgstr "56"
+
+msgid "57th"
+msgstr "57"
+
+msgid "58th"
+msgstr "58"
+
+msgid "59th"
+msgstr "59"
+
+msgid "60th"
+msgstr "60"
+
+msgid "Wooden floor"
+msgstr "மர மாடிகள்"
+
+msgid "Tile"
+msgstr "ஓடு"
+
+msgid "Carpet"
+msgstr "கம்பளம்"
+
+msgid "Natural fiber"
+msgstr "இயற்கை ஃபைபர்"
+
+msgid "Coco"
+msgstr "கோகோ"
+
+msgid "Travertine"
+msgstr "Travertine"
+
+msgid "Marble"
+msgstr "மார்பிள் டிசைன்"
+
+msgid "Granite"
+msgstr "கிரானைட்"
+
+msgid "Terracotta tile"
+msgstr "டெர்ராகோட்டை ஓடு"
+
+msgid "Teak"
+msgstr "தேக்கு"
+
+msgid "Mosaïc"
+msgstr "மொசைக்"
+
+msgid "Clay"
+msgstr "களிமண்"
+
+msgid "Laminate"
+msgstr "உலோகத்தை"
+
+msgid "Vinyl composition tile"
+msgstr "வினைல் / பிவிசி"
+
+msgid "Convector"
+msgstr "Convector"
+
+msgid "Underfloor"
+msgstr "தளத்திற்கு அடியில்"
+
+msgid "Radiator"
+msgstr "ரேடியேட்டர்"
+
+msgid "Stove"
+msgstr "அடுப்பு"
+
+msgid "Air-conditioning"
+msgstr "காற்று சீரமைப்பு"
+
+msgid "Central"
+msgstr "மத்திய"
+
+msgid "Without"
+msgstr "இல்லாமல்"
+
+msgid "Fireplace"
+msgstr "தீமூட்டும்"
+
+msgid "Individual"
+msgstr "தனிப்பட்ட"
+
+msgid "Common"
+msgstr "பொதுவான"
+
+msgid "Mixed"
+msgstr "கலப்பு"
+
+msgid "District heating"
+msgstr "மாவட்ட வெப்பமாக்கும்"
+
+msgid "Gas"
+msgstr "எரிவாயு"
+
+msgid "Fuel oil"
+msgstr "எரிபொருள் எண்ணெய்"
+
+msgid "Electric"
+msgstr "மின்சார"
+
+msgid "Wood"
+msgstr "மரம்"
+
+msgid "Solar"
+msgstr "சூரிய"
+
+msgid "Charcoal"
+msgstr "கரி"
+
+msgid "Heat pump"
+msgstr "வெப்ப பம்ப்"
+
+msgid "Geothermal"
+msgstr "புவிவெப்ப"
+
+msgid "Wood pellet"
+msgstr "வூட் பல்லட்"
+
+msgid "Hot water"
+msgstr "வெந்நீர்"
+
+msgid "Hot water tank"
+msgstr "வெப்ப நீர் தொட்டி"
+
+msgid "Boiler"
+msgstr "பாய்லர்"
+
+msgid "Collective"
+msgstr "கூட்டு"
+
+msgid "Flat"
+msgstr "பிளாட்"
+
+msgid "Dry-stone wall terraces"
+msgstr "உலர்-கல் சுவர் மாடி"
+
+msgid "Steep"
+msgstr "செங்குத்தான"
+
+msgid "Wooded"
+msgstr "மரங்களடர்ந்த"
+
+msgid "Meadow"
+msgstr "புல்வெளியில்"
+
+msgid "Term lease"
+msgstr "குத்தகை கால"
+
+msgid "Long-Term"
+msgstr "நீண்ட கால"
+
+msgid "Long-Term - Single activity"
+msgstr "நீண்ட கால - ஒற்றை செயல்பாடு"
+
+msgid "Long-Term - All activities"
+msgstr "நீண்ட கால - அனைத்து நடவடிக்கைகள்"
+
+msgid "Seaside"
+msgstr "கடலோர"
+
+msgid "Village"
+msgstr "கிராமம்"
+
+msgid "Old town"
+msgstr "பழைய நகரம்"
+
+msgid "Precinct"
+msgstr "எல்லை"
+
+msgid "Ski slope"
+msgstr "பனிச்சறுக்கு"
+
+msgid "Town center"
+msgstr "நகரமையம்"
+
+msgid "Industrial estate"
+msgstr "தொழிற்பேட்டை"
+
+msgid "Shopping center"
+msgstr "பல்பொருள் வர்த்தக மையம்"
+
+msgid "Business park"
+msgstr "வணிக பூங்கா"
+
+msgid "Airport area"
+msgstr "விமான நிலையம்"
+
+msgid "Science park"
+msgstr "அறிவியல் பூங்கா"
+
+msgid "Port area"
+msgstr "துறைமுக பகுதி"
+
+msgid "Outskirts"
+msgstr "புறநகரில்"
+
+#, fuzzy
+msgid "Hills"
+msgstr ""
+"#-#-#-#-#  apimo-ta_IN.po  #-#-#-#-#\n"
+"ஹில்ஸ்\n"
+"#-#-#-#-#  apimo-ta_IN.po  #-#-#-#-#\n"
+"மலைகள்"
+
+msgid "Waterfront"
+msgstr "நீர்முகம்"
+
+msgid "Countryside"
+msgstr "கிராமப்புறங்களில்"
+
+msgid "Suburb"
+msgstr "புறநகர்"
+
+msgid "East"
+msgstr "கிழக்கு"
+
+msgid "North"
+msgstr "வடக்கு"
+
+msgid "West"
+msgstr "மேற்கு"
+
+msgid "South"
+msgstr "தெற்கு"
+
+msgid "Day"
+msgstr "தினம்"
+
+msgid "Week"
+msgstr "வாரம்"
+
+msgid "Fortnight"
+msgstr "இரண்டு வார காலம்"
+
+msgid "Month"
+msgstr "மாதம்"
+
+msgid "Quarterly"
+msgstr "காலாண்டு"
+
+msgid "Bimonthly"
+msgstr "இருமாதங்களுக்கு ஒருமுறை"
+
+msgid "Half-yearly"
+msgstr "அரையாண்டு"
+
+msgid "Yearly"
+msgstr "வருடாந்திர"
+
+msgid "Bus"
+msgstr "பேருந்து"
+
+msgid "Bus hub"
+msgstr "பேருந்து நிலையம்"
+
+msgid "Metro"
+msgstr "மெட்ரோ"
+
+msgid "Shops"
+msgstr "கடைகள்"
+
+msgid "Primary school"
+msgstr "முதன்மை பள்ளி"
+
+msgid "Town centre"
+msgstr "நகர மையம்"
+
+msgid "Hospital/clinic"
+msgstr "மருத்துவமனையில்/மருத்துவமனையை"
+
+msgid "Doctor"
+msgstr "மருத்துவர்"
+
+msgid "Tram"
+msgstr "டிராம்"
+
+msgid "Train station"
+msgstr "தொடர் வண்டி நிலையம்"
+
+msgid "Public parking"
+msgstr "பொது நிறுத்தம்"
+
+msgid "Supermarket"
+msgstr "சூப்பர்மார்க்கெட்"
+
+msgid "Sea port"
+msgstr "கடல் துறைமுகம்"
+
+msgid "Nursery"
+msgstr "நாள் பராமரிப்பு"
+
+msgid "Public pool"
+msgstr "பொது குளம்"
+
+msgid "Tennis"
+msgstr "டென்னிஸ்"
+
+#, fuzzy
+msgid "Golf"
+msgstr ""
+"#-#-#-#-#  apimo-ta_IN.po  #-#-#-#-#\n"
+"கோல்ப்\n"
+"#-#-#-#-#  apimo-ta_IN.po  #-#-#-#-#\n"
+"கோல்ப்\n"
+"#-#-#-#-#  apimo-ta_IN.po  #-#-#-#-#\n"
+"கோல்ஃப்"
+
+msgid "Movies"
+msgstr "திரைப்படங்கள்"
+
+msgid "Secondary school"
+msgstr "நடுநிலை பள்ளி"
+
+msgid "Sport center"
+msgstr "விளையாட்டு மையம்"
+
+msgid "Airport"
+msgstr "விமான நிலைய"
+
+msgid "Sea"
+msgstr "கடல்"
+
+msgid "TGV station"
+msgstr "TGV நிலையம்"
+
+msgid "Highway"
+msgstr "நெடுஞ்சாலை"
+
+msgid "University"
+msgstr "பல்கலைக்கழகம்"
+
+msgid "Convention center"
+msgstr "மாநாட்டு மையம்"
+
+msgid "Lake"
+msgstr "ஏரி"
+
+msgid "On main road"
+msgstr "பிரதான சாலையில்"
+
+msgid "Energy - Conventional consumption"
+msgstr "ஆற்றல் - வழக்கமான நுகர்வு"
+
+msgid "Energy - Emissions estimate"
+msgstr "ஆற்றல் - உமிழ்வு மதிப்பீடு"
+
+msgid "« Carrez » act"
+msgstr "« Carrez » act"
+
+msgid "ERP"
+msgstr "ERP"
+
+msgid "Termites"
+msgstr "கரையான்"
+
+msgid "Asbestos"
+msgstr "கல்நார்"
+
+#, fuzzy
+msgid "Lead"
+msgstr ""
+"#-#-#-#-#  apimo-ta_IN.po  #-#-#-#-#\n"
+"ஈயம்\n"
+"#-#-#-#-#  apimo-ta_IN.po  #-#-#-#-#\n"
+"ஈயம்\n"
+"#-#-#-#-#  apimo-ta_IN.po  #-#-#-#-#\n"
+"வாய்ப்பு"
+
+msgid "Electricity"
+msgstr "மின்சாரம்"
+
+msgid "Boutin act"
+msgstr "Boutin Act"
+
+msgid "Sanitation"
+msgstr "சுகாதாரம்"
+
+msgid "EPI (Non renewable)"
+msgstr "Indice prestazione energetica (EPI)"
+
+msgid "APE"
+msgstr "APE"
+
+msgid "Request for nomination of an ad hoc agent"
+msgstr "ஒரு தற்காலிக முகவரை நியமிப்பதற்கு கோரிக்கை"
+
+msgid "Request for nomination of a temporary administrator"
+msgstr "ஒரு தற்காலிக நிர்வாகி நியமனம் கோரிக்கை"
+
+msgid "Request for expert nomination"
+msgstr "நிபுணர் பரிந்துரைக்கு கோரிக்கை"
+
+msgid "Fire safety regulations"
+msgstr "தீ பாதுகாப்பு தரநிலைகள்"
+
+msgid "Accessibility standards for people with disabilities"
+msgstr "குறைபாடுகள் கொண்ட நபர்களுக்கான அணுகல் தரநிலைகள்"
+
+msgid "Sanitary authorization"
+msgstr "சுகாதார ஒப்புதல்"
+
+msgid "Energy consumption"
+msgstr "ஆற்றல் நுகர்வு"
+
+msgid "Land charges"
+msgstr "நில கட்டணம்"
+
+msgid "Residents only"
+msgstr "குடியிருப்பாளர்கள் மட்டுமே"
+
+msgid "Energy class"
+msgstr "ஆற்றல் வர்க்கம்"
+
+msgid "Greenhouse Gas"
+msgstr "கிரீன்ஹவுஸ் வாயு"
+
+msgid "Energy certificate"
+msgstr "ஆற்றல் சான்றிதழ்"
+
+msgid "Energy consumption / Final energy requirement"
+msgstr "ஆற்றல் நுகர்வு / Endenergiebedarf"
+
+msgid "Energy consumption : Hot water included"
+msgstr "சூடான தண்ணீர் சேர்க்கப்பட்டுள்ளது"
+
+msgid "Flood risks"
+msgstr "வெள்ளம் அபாயங்கள்"
+
+msgid "Registration number"
+msgstr "பதிவு எண்"
+
+msgid "Emissions estimate"
+msgstr "உமிழ்வு மதிப்பீடு"
+
+msgid "Rental value"
+msgstr "வாடகை மதிப்பு"
+
+msgid "Turnover"
+msgstr "விற்றுமுதல்"
+
+msgid "Net income"
+msgstr "அடுத்த வருமானம்"
+
+msgid "Gross operating profit"
+msgstr "மொத்த இயக்க லாபம்"
+
+msgid "Personnel costs"
+msgstr "பணியாளர்களின் செலவுகள்"
+
+msgid "Cash flow"
+msgstr "பணப் பாய்வு"
+
+msgid "Shareholders’equity"
+msgstr "பங்குதாரர்களுக்கு பங்கு"
+
+msgid "Net debt"
+msgstr "நிகர கடன்"
+
+#, fuzzy
+msgid "Internet"
+msgstr ""
+"#-#-#-#-#  apimo-ta_IN.po  #-#-#-#-#\n"
+"இணைய\n"
+"#-#-#-#-#  apimo-ta_IN.po  #-#-#-#-#\n"
+"Internet"
+
+msgid "Disabled access"
+msgstr "அணுகல் முடக்கப்பட்டுள்ளது"
+
+msgid "Alarm system"
+msgstr "எச்சரிக்கை அமைப்பு"
+
+msgid "Lift"
+msgstr "லிப்ட்"
+
+msgid "Caretaker"
+msgstr "காபந்து"
+
+msgid "Double glazing"
+msgstr "இரட்டை மெருகூட்டல்"
+
+msgid "Intercom"
+msgstr "இண்டர்காம்"
+
+msgid "TV distribution"
+msgstr "கேபிள் டிவி"
+
+msgid "Swimming pool"
+msgstr "நீச்சல் குளம்"
+
+msgid "Security door"
+msgstr "பாதுகாப்பு கதவு"
+
+msgid "Tennis court"
+msgstr "டென்னிஸ் மைதானம்"
+
+msgid "Irrigation sprinkler"
+msgstr "நீர்ப்பாசனம் தெளித்தல்"
+
+msgid "Barbecue"
+msgstr "பார்பெக்யு"
+
+msgid "Electric gate"
+msgstr "மின்சார வாயில்"
+
+msgid "Crawl space"
+msgstr "இடைவெளியை நகர்த்தவும்"
+
+msgid "Car port"
+msgstr "கார் துறைமுகம்"
+
+msgid "Caretaker house"
+msgstr "கவனிப்பு வீடு"
+
+msgid "Sliding windows"
+msgstr "ஸ்லைடிங் விண்டோ"
+
+msgid "Central vacuum system"
+msgstr "மத்திய வெற்றிட அமைப்பு"
+
+msgid "Electric shutters"
+msgstr "மின்சார ஷட்டர்"
+
+msgid "Window shade"
+msgstr "சாளர நிழல்"
+
+msgid "Electric awnings"
+msgstr "மின்சார விரிப்புகள்"
+
+msgid "Washing machine"
+msgstr "துணி துவைக்கும் இயந்திரம்"
+
+msgid "Jacuzzi"
+msgstr "ஜக்குஸி"
+
+msgid "Whirlpool tub"
+msgstr "நீர்ச்சுழி தொட்டி"
+
+msgid "Well"
+msgstr "கிணறு"
+
+msgid "Spring"
+msgstr "வசந்த"
+
+msgid "Engine generator"
+msgstr "இயந்திரம் ஜெனரேட்டர்"
+
+msgid "Dishwasher"
+msgstr "பாத்திரங்கழுவி"
+
+msgid "Hob"
+msgstr "குறும்பு தேவதை"
+
+msgid "Safe"
+msgstr "பாதுகாப்பான"
+
+msgid "Helipad"
+msgstr "ஹெலிகாப்டர் இறங்குமிடம்"
+
+msgid "Videophone"
+msgstr "காணொளி பேசி"
+
+msgid "Video security"
+msgstr "வீடியோ பாதுகாப்பு"
+
+msgid "Iron"
+msgstr "இரும்பு"
+
+msgid "Hair dryer"
+msgstr "தட்டை"
+
+msgid "Television"
+msgstr "தொலைக்காட்சி"
+
+msgid "DVD Player"
+msgstr "எண்ணியல் ஒளிக்காட்சி தட்டு இயக்கி"
+
+msgid "CD Player"
+msgstr "குறுவட்டு பிளேயர்"
+
+msgid "Outdoor lighting"
+msgstr "வெளிப்புற விளக்கு"
+
+msgid "Spa"
+msgstr "ஸ்பா"
+
+msgid "Home automation"
+msgstr "வீட்டு ஆட்டோமேஷன்"
+
+msgid "Linens"
+msgstr "போர்வைகள்"
+
+msgid "Tableware"
+msgstr "மேசைப்"
+
+msgid "Clothes dryer"
+msgstr "ஆடைகள் உலர்த்தி"
+
+msgid "Refrigerator"
+msgstr "குளிர்சாதன"
+
+msgid "Oven"
+msgstr "சூளை"
+
+msgid "Reception 24/7"
+msgstr "வரவேற்பு 24/7"
+
+msgid "Coffeemaker"
+msgstr "காபி தயாரிப்பாளர்"
+
+msgid "Microwave oven"
+msgstr "நுண்ணலை அடுப்பு"
+
+msgid "Shabbat elevator"
+msgstr "சப்பாத் உயர்த்தி"
+
+msgid "Sukkah"
+msgstr "Sukkah"
+
+msgid "Synagogue"
+msgstr "ஜெப"
+
+msgid "Digicode"
+msgstr "சாவி பேட்"
+
+msgid "Common laundry"
+msgstr "பொதுவான சலவை"
+
+msgid "Pets allowed"
+msgstr "செல்ல பிராணிகளுக்கு அனுமதி உண்டு"
+
+msgid "Metal shutters"
+msgstr "உலோக அடைப்பு"
+
+msgid "Wiring closet"
+msgstr "காய்ச்சல் வளைகுடா"
+
+msgid "Computer network"
+msgstr "கணினி நெட்வொர்க்"
+
+msgid "Dropped ceiling"
+msgstr "கைவிடப்பட்டது"
+
+msgid "Fire hose cabinets"
+msgstr "தீ குழாய் பெட்டிகளும்"
+
+msgid "Fire sprinkler system"
+msgstr "தீ தெளிப்பு அமைப்பு"
+
+msgid "Wharf"
+msgstr "கப்பல்துறை"
+
+msgid "Connected thermostat"
+msgstr "இணைக்கப்பட்ட தெர்மோஸ்டாட்"
+
+msgid "Bowling game"
+msgstr "பந்துகள் விளையாட்டு"
+
+msgid "Water softener"
+msgstr "தண்ணீர் மென்மைப்படுத்தி"
+
+msgid "Triple glazing"
+msgstr "டிரிபிள் மெருகூட்டு"
+
+msgid "Well drilling"
+msgstr "தோண்டுதல்"
+
+msgid "Optical fiber"
+msgstr "ஆப்டிகல் ஃபைபர்"
+
+msgid "Non-flooding"
+msgstr "அல்லாத வெள்ளம்"
+
+msgid "Backup water system"
+msgstr "காப்பு நீர் அமைப்பு"
+
+msgid "Water filtration system"
+msgstr "நீர் வடிகட்டுதல் அமைப்பு"
+
+msgid "Air filtration system"
+msgstr "காற்று வடிகட்டுதல் அமைப்பு"
+
+msgid "Fire alarm system"
+msgstr "நெருப்பு எச்சரிக்கை அமைப்பு"
+
+msgid "Commercial services"
+msgstr "வணிக சேவைகள்"
+
+msgid "Playground"
+msgstr "விளையாட்டு மைதானத்தின்"
+
+msgid "Flyboard"
+msgstr "Flyboard"
+
+msgid "Amphibious car"
+msgstr "உயிர் காக்கும் கார்"
+
+msgid "Beach games"
+msgstr "கடற்கரை விளையாட்டுகள்"
+
+msgid "Bikes"
+msgstr "பைக்குகள்"
+
+msgid "Canoe"
+msgstr "கனோ"
+
+msgid "Diving"
+msgstr "டைவிங்"
+
+msgid "Fishing"
+msgstr "மீன்பிடி"
+
+msgid "Floating pool"
+msgstr "மிதக்கும் குளம்"
+
+msgid "Hoverboard"
+msgstr "Hoverboard"
+
+msgid "Hovercraft"
+msgstr "ஹோவர்கிராஃப்ட்"
+
+msgid "Inflatables"
+msgstr "Inflatables"
+
+msgid "Water slide"
+msgstr "நீர் சறுக்கு"
+
+msgid "Waterpark"
+msgstr "தண்ணீர் பூங்கா"
+
+msgid "Jet ski"
+msgstr "ஜெட் ஸ்கை"
+
+msgid "Kite surf"
+msgstr "கைட் சர்ஃப்"
+
+msgid "Paddle"
+msgstr "துடுப்பு"
+
+msgid "Scooter"
+msgstr "ஸ்கூட்டர்"
+
+msgid "Seabob"
+msgstr "Seabob"
+
+msgid "Segway"
+msgstr "செக்வே"
+
+msgid "Wakeboard"
+msgstr "Wakeboard"
+
+msgid "Berth"
+msgstr "துறைமுக"
+
+msgid "Supplies"
+msgstr "விநியோகம்"
+
+msgid "Outdoor spaces"
+msgstr "வெளிப்புற இடைவெளிகள்"
+
+msgid "Rental supplies"
+msgstr "வாடகை கருவிகள்"
+
+msgid "Security"
+msgstr "பாதுகாப்பு"
+
+msgid "Professional supplies"
+msgstr "நிபுணத்துவ பொருட்கள்"
+
+msgid "Yacht supplies"
+msgstr "படகு விநியோகம்"
+
+msgid "High standard"
+msgstr "உயர் தரநிலை"
+
+msgid "Luxury"
+msgstr "சொகுசு"
+
+msgid "High luxury"
+msgstr "உயர் ஆடம்பர"
+
+msgid "Housing estate"
+msgstr "வீட்டுவசதி எஸ்டேட்"
+
+msgid "Regular"
+msgstr "வழக்கமான"
+
+msgid "In progress"
+msgstr "முன்னேற்றம்"
+
+msgid "Standby"
+msgstr "காத்திருப்பு"
+
+msgid "Deleted"
+msgstr "நீக்கப்பட்ட"
+
+msgid "Waiting for agreement"
+msgstr "உடன்படிக்கைக்காக காத்திருக்கிறது"
+
+msgid "Agreement ended"
+msgstr "ஒப்பந்தம் முடிந்தது"
+
+msgid "Offer"
+msgstr "ஆஃபர்"
+
+msgid "Processing sale"
+msgstr "செயலாக்க விற்பனை"
+
+msgid "Waiting for contract"
+msgstr "ஒப்பந்தம் காத்திருக்கிறது"
+
+msgid "Pending approval"
+msgstr "நிலுவையிலுள்ள ஒப்புதல்"
+
+msgid "Sell/Rent by agent"
+msgstr "முகவர் மூலம் வாடகை / வாடகைக்கு"
+
+msgid "Sell/Rent by owner"
+msgstr "உரிமையாளர் விற்க அல்லது வாடகைக்கு"
+
+msgid "Sell/Rent by other agent"
+msgstr "மற்ற முகவர் மூலம் வாடகை / வாடகைக்கு"
+
+msgid "Removed by agent"
+msgstr "முகவர் மூலம் அகற்றப்பட்டது"
+
+msgid "Removed by owner"
+msgstr "உரிமையாளர் அகற்றப்பட்டது"
+
+msgid "Sale/Rental cancelled"
+msgstr "விற்பனை / வாடகை ரத்து செய்யப்பட்டது"
+
+msgid "Delete this property"
+msgstr "இந்த சொத்து அழிக்க"
+
+msgid "Business"
+msgstr "வணிக"
+
+msgid "Garage/Parking"
+msgstr "கேரேஜ் / பார்க்கிங்"
+
+msgid "Office"
+msgstr "அலுவலகம்"
+
+msgid "Boat"
+msgstr "படகு"
+
+msgid "Cellar / Box"
+msgstr "செலாவணி / பெட்டி"
+
+msgid "Triplex"
+msgstr "டிரிப்லக்ஸ்"
+
+msgid "Building land"
+msgstr "நிலத்தை கட்டும்"
+
+msgid "Not constructible land"
+msgstr "நிலப்பகுதி இல்லை"
+
+msgid "Penthouse"
+msgstr "பென்ட்ஹவுஸ்"
+
+msgid "Castle"
+msgstr "அரண்மனை"
+
+msgid "Duplex"
+msgstr "டூப்ளக்ஸ்"
+
+msgid "Manor house"
+msgstr "மணமகன் வீடு"
+
+msgid "Farmhouse"
+msgstr "பண்ணை"
+
+msgid "Villa"
+msgstr "வில்லா"
+
+msgid "Apartment villa"
+msgstr "அபார்ட்மென்ட் வில்லா"
+
+msgid "Ruin"
+msgstr "அழிவு"
+
+msgid "Mill"
+msgstr "ஆலை"
+
+msgid "Carpark"
+msgstr "கார்பார்க்"
+
+msgid "Townhouse"
+msgstr "தொகுப்பு வீடுகள்"
+
+msgid "Mobile home"
+msgstr "நடமாடும் வீடுகளில்"
+
+msgid "Cottage"
+msgstr "குடிசை"
+
+msgid "Hangar"
+msgstr "ஹேங்கர்"
+
+msgid "Mas"
+msgstr "Mas"
+
+msgid "Local"
+msgstr "உள்ளூர்"
+
+msgid "Chalet"
+msgstr "சாலட்ட்டிலும்"
+
+msgid "Retail space"
+msgstr "வணிக வளாகங்கள்"
+
+msgid "Business assets"
+msgstr "வணிக சொத்துகள்"
+
+msgid "Right to the lease"
+msgstr "வாடகைக்கு உரிமை"
+
+msgid "Mansion"
+msgstr "மேன்சன்"
+
+msgid "Management"
+msgstr "மேலாண்மை"
+
+msgid "Agricultural exploitation"
+msgstr "விவசாய சுரண்டல்"
+
+msgid "Woodshed"
+msgstr "பிறப்பை"
+
+msgid "Stud farm"
+msgstr "ஆய்வு பண்ணை"
+
+msgid "Plot of land"
+msgstr "நிலப்பகுதி"
+
+msgid "Bastide"
+msgstr "Bastide"
+
+msgid "Bastidon"
+msgstr "Bastidon"
+
+msgid "Company"
+msgstr "நிறுவனம்"
+
+msgid "Vineyard property"
+msgstr "திராட்சைத் தோட்டம்"
+
+msgid "Sailing Yacht"
+msgstr "படகு"
+
+msgid "Narrow boat"
+msgstr "குறுகிய படகு"
+
+msgid "Catamaran"
+msgstr "தெப்பம்"
+
+msgid "Equestrian estate"
+msgstr "குதிரையேற்ற களம்"
+
+msgid "Bed and breakfast"
+msgstr "படுக்கை மற்றும் காலை உணவு"
+
+msgid "Gîte"
+msgstr "வீட்டில்"
+
+msgid "Riad"
+msgstr "Riad"
+
+msgid "Retail shop"
+msgstr "சில்லறை"
+
+msgid "Shophouse"
+msgstr "கடை வீடு"
+
+msgid "Borey"
+msgstr "Borey"
+
+msgid "Condo"
+msgstr "கோண்டோ"
+
+msgid "Factory"
+msgstr "தொழிற்சாலை"
+
+msgid "Serviced apartment"
+msgstr "சர்வீஸ் அபார்ட்மெண்ட்"
+
+msgid "Twin Villa"
+msgstr "இரட்டை வில்லா"
+
+msgid "Flat House"
+msgstr "பிளாட் வீடு"
+
+msgid "Semi-detached house"
+msgstr "இணைக்கப்பட்ட வீடு"
+
+msgid "Bungalow"
+msgstr "பங்களா"
+
+msgid "Beach house"
+msgstr "கடற்கரை வீடு"
+
+msgid "Ger district"
+msgstr "ஜெர் மாவட்டம்"
+
+msgid "Summer house"
+msgstr "கோடை வீடு"
+
+msgid "Private island"
+msgstr "தனியார் தீவு"
+
+msgid "Residential land"
+msgstr "குடியிருப்பு நிலம்"
+
+msgid "Commercial land"
+msgstr "வணிக நிலம்"
+
+msgid "Subdivision"
+msgstr "உட்பிரிவு"
+
+msgid "Game reserve"
+msgstr "டோமினே டி சேஸ்ஸ்"
+
+msgid "Greenery"
+msgstr "பசுமை"
+
+msgid "Monument"
+msgstr "நினைவுச்சின்னம்"
+
+msgid "Forest"
+msgstr "காடு"
+
+msgid "Main stem"
+msgstr "நதி"
+
+#, fuzzy
+msgid "City"
+msgstr ""
+"#-#-#-#-#  apimo-ta_IN.po  #-#-#-#-#\n"
+"பெருநகரம்\n"
+"#-#-#-#-#  apimo-ta_IN.po  #-#-#-#-#\n"
+"நகரம்"
+
+msgid "Sky"
+msgstr "வானம்"
+
+msgid "Harbor"
+msgstr "துறைமுகம்"
+
+msgid "Ski slopes"
+msgstr "பனிச்சறுக்கு"
+
+msgid "Obstructed"
+msgstr "தடுக்கப்பட்டது"
+
+msgid "Slight"
+msgstr "சிறிது"
+
+msgid "Unobstructed"
+msgstr "தடுக்கப்பட்டது இல்லை"
+
+msgid "Panoramic"
+msgstr "அகலமுள்ள"
+
+msgid "Septic tank"
+msgstr "கழிவு நீர் சேகரிக்கும் தொட்டி"
+
+msgid "Main drainage"
+msgstr "முக்கிய வடிகால்"
+
+msgid "Treatment plant"
+msgstr "சுத்திகரிப்பு நிலையம்"
+
+msgid "Estate agent"
+msgstr "எஸ்டேட் முகவர்"
+
+msgid "Phoning"
+msgstr "ஃபோனிங்"
+
+msgid "Collaboration"
+msgstr "இணைந்து"
+
+msgid "Provider"
+msgstr "வழங்குநர்"
+
+msgid "Renown"
+msgstr "புகழை"
+
+msgid "Walk-in / Window"
+msgstr "நடை-இல் / சாளரம்"
+
+msgid "Network"
+msgstr "வலைப்பின்னல்"
+
+msgid "Flyer"
+msgstr "ஃப்ளையர்"
+
+msgid "Sign"
+msgstr "குழு"
+
+msgid "Magazine"
+msgstr "இதழ்"
+
+msgid "Mailing"
+msgstr "அஞ்சல்"
+
+msgid "e-mailing"
+msgstr "மின் அஞ்சல்"
+
+msgid "Old client"
+msgstr "பழைய வாடிக்கையாளர்"
+
+msgid "Appraisal"
+msgstr "மதிப்பீடு"
+
+msgid "Selection / Favorite"
+msgstr "தேர்வு / பிடித்தது"
+
+msgid "Main residence"
+msgstr "முக்கிய குடியிருப்பு"
+
+msgid "Secondary residence"
+msgstr "இரண்டாம் குடியிருப்பு"
+
+msgid "Student residence"
+msgstr "மாணவர் குடியிருப்பு"
+
+msgid "Tourism residence"
+msgstr "சுற்றுலா வீதி"
+
+msgid "Seniors residence"
+msgstr "சீனியர் குடியிருப்பு"
+
+msgid "Duflot Legislation"
+msgstr "டஃப்லட் சட்டம்"
+
+msgid "Reduced fees"
+msgstr "நோட்டரி கட்டணம் குறைக்கப்பட்டது"
+
+msgid "Rental investment"
+msgstr "வாடகை முதலீடு"
+
+msgid "Resale"
+msgstr "மறுவிற்பனை"
+
+msgid "Private leasing"
+msgstr "தனியார் குத்தகை"
+
+msgid "Bank leasing"
+msgstr "வங்கி குத்தகை"
+
+msgid "Exchangeable"
+msgstr "மாற்றக் கூடிய"
+
+msgid "No advance"
+msgstr "முன்கூட்டியே இல்லை"
+
+msgid "m²"
+msgstr "m²"
+
+msgid "sq ft"
+msgstr "ft²"
+
+msgid "sq yd"
+msgstr "yd²"
+
+msgid "ha"
+msgstr "ha"
+
+msgid "ares"
+msgstr "ares"
+
+msgid "minute"
+msgstr "நிமிடங்கள்"
+
+msgid "metre"
+msgstr "மீட்டர்"
+
+msgid "km"
+msgstr "கி.மீ."
+
+msgid "Administrator"
+msgstr "நிர்வாகி"
+
+msgid "Company manager"
+msgstr "நிறுவனத்தின் மேலாளர்"
+
+msgid "Agency manager"
+msgstr "முகவர் மேலாளர்"
+
+msgid "Secretariat"
+msgstr "செயலகம்"
+
+#, fuzzy
+msgid "Agent"
+msgstr ""
+"#-#-#-#-#  apimo-ta_IN.po  #-#-#-#-#\n"
+"தரகர்\n"
+"#-#-#-#-#  apimo-ta_IN.po  #-#-#-#-#\n"
+"முகவர்"
+
+msgid "Intern"
+msgstr "இன்டெர்ன்"
+
+msgid "User"
+msgstr "பயனர்"
+
+msgid "Franchisor"
+msgstr "உரிமையை"
+
+msgid "Translator"
+msgstr "மொழிபெயர்ப்பாளர்"
+
+msgid "Project at"
+msgstr "திட்டம்"
+
+msgid "Image"
+msgstr "பட"
+
+msgid "Pet"
+msgstr "செல்லப்பிராணி"
+
+msgid "Natural light"
+msgstr "இயற்கை ஒளி"
+
+msgid "Kitchen island"
+msgstr "சமையலறை தீவு"
+
+msgid "Kitchen bar"
+msgstr "சமையலறை பட்டை"
+
+msgid "High ceiling"
+msgstr "உயர் கூரை"
+
+msgid "Skylight"
+msgstr "ஸ்கைலைட்"
+
+msgid "Exposed bricks"
+msgstr "வெளிப்படையான செங்கற்கள்"
+
+msgid "Ceiling fan"
+msgstr "மின் விசிறி"
+
+msgid "Chandelier"
+msgstr "சரவிளக்கின்"
+
+msgid "Stainless steel"
+msgstr "எஃகு"
+
+msgid "Price on request"
+msgstr "கோரிக்கை மீதான விலை"
+
+msgid "Currency"
+msgstr "நாணய"
+
+msgid "price"
+msgstr "விலை"
+
+msgid "Types"
+msgstr "வகைகள்"
+
+msgid "Cities"
+msgstr "நகரங்கள்"
+
+msgid "bedrooms"
+msgstr "படுக்கையறைகள்"
+
+msgid "room"
+msgstr "அறை"
+
+msgid "rooms"
+msgstr "அறைகள்"
+
+msgid "Send"
+msgstr "அனுப்புக"
+
+msgid "message"
+msgstr "செய்தி"
+
+msgid "Lastname"
+msgstr "கடந்த பெயர்"
+
+msgid "Firstname"
+msgstr "முதல் பெயர்"
+
+msgid "Ref"
+msgstr "குறிப்பு"
+
+msgid "Ref."
+msgstr "Ref."
+
+msgid "%s bedroom"
+msgstr "%s படுக்கையறை"
+
+msgid "%s bedrooms"
+msgstr "%s படுக்கையறைகள்"
+
+msgid "%s room"
+msgstr "%s அறை"
+
+msgid "%s rooms"
+msgstr "%s அறைகள்"
+
+msgid "Folder"
+msgstr "அடைவை"
+
+msgid "No matches found"
+msgstr "பொருத்தங்கள் இல்லை"
+
+msgid "Please enter one more character"
+msgstr "தயவுசெய்து இன்னும் ஒரு பாத்திரத்தை உள்ளிடவும்"
+
+msgid "Copy"
+msgstr "நகல்"
+
+msgid "Backup"
+msgstr "காப்பு"
+
+msgid "Sender"
+msgstr "அனுப்புநர்"
+
+msgid "Recipient"
+msgstr "பெறுநரின்"
+
+msgid "Subject"
+msgstr "பொருள்"
+
+msgid "Link"
+msgstr "இணைப்பு"
+
+msgid "Key"
+msgstr "சாவி"
+
+msgid "Documents"
+msgstr "ஆவணங்கள்"
+
+msgid "Name"
+msgstr "பெயர்"
+
+msgid "Back"
+msgstr "மீண்டும்"
+
+msgid "Help?"
+msgstr "உதவி ?"
+
+msgid "Read more"
+msgstr "மேலும் வாசிக்க"
+
+msgid "Area"
+msgstr "பகுதி"
+
+msgid "Areas"
+msgstr "பகுதிகள்"
+
+msgid "Length"
+msgstr "நீளம்"
+
+msgid "Height"
+msgstr "உயரம்"
+
+msgid "Width"
+msgstr "அகலம்"
+
+msgid "Deposit"
+msgstr "வைப்புத்தொகை"
+
+msgid "Agreement reference"
+msgstr "ஒப்பந்த குறிப்பு"
+
+msgid "Agreement start at"
+msgstr "ஒப்பந்தம் தொடங்குகிறது"
+
+msgid "Agreement end at"
+msgstr "ஒப்பந்தம் முடிவடைகிறது"
+
+msgid "Website"
+msgstr "இணையதளம்"
+
+msgid "Proximities"
+msgstr "அருகாமையில்"
+
+msgid "Loading"
+msgstr "ஏற்றுதல்"
+
+msgid "Exit"
+msgstr "வெளியேறு"
+
+msgid "Available on"
+msgstr "கிடைக்கும்"
+
+msgid "Total area"
+msgstr "மொத்த பரப்பளவு"
+
+msgid "Living area"
+msgstr "வாழும் பகுதி"
+
+msgid "Password forgotten"
+msgstr "கடவுச்சொல் மறக்கப்பட்டது"
+
+msgid "Password"
+msgstr "கடவுச்சொல்"
+
+msgid "Username"
+msgstr "பயனர்பெயர்"
+
+msgid "Welcome %s"
+msgstr "வணக்கம் %s"
+
+msgid "Add"
+msgstr "சேர்"
+
+msgid "Show"
+msgstr "காட்டு"
+
+msgid "Listing"
+msgstr "பட்டியல்"
+
+msgid "Tools"
+msgstr "கருவிகள்"
+
+msgid "Market"
+msgstr "சந்தை"
+
+msgid "Agency"
+msgstr "ஏஜென்சி"
+
+msgid "Calendar"
+msgstr "நாட்காட்டி"
+
+msgid "Homepage"
+msgstr "முகப்பு"
+
+msgid "Map"
+msgstr "வரைபடம்"
+
+msgid "Value"
+msgstr "மதிப்பு"
+
+msgid "Users"
+msgstr "பயனர்கள்"
+
+msgid "Sectors"
+msgstr "துறைகள்"
+
+msgid "Sector"
+msgstr "துறை"
+
+msgid "contact"
+msgstr "தொடர்பு"
+
+msgid "contacts"
+msgstr "தொடர்புகள்"
+
+msgid "%s contact"
+msgstr "%s தொடர்பு"
+
+msgid "%s contacts"
+msgstr "%s தொடர்புகள்"
+
+msgid "Settings"
+msgstr "அமைப்புகள்"
+
+msgid "General"
+msgstr "பொது"
+
+msgid "Heating"
+msgstr "வெப்பமூட்டும்"
+
+msgid "Waste water"
+msgstr "கழிவு நீர்"
+
+msgid "Country"
+msgstr "நாடு"
+
+msgid "Escrow deposit"
+msgstr "காப்போலை"
+
+msgid "Orientation"
+msgstr "திசை"
+
+msgid "View"
+msgstr "காண்க"
+
+msgid "District"
+msgstr "மாவட்டம்"
+
+msgid "Fields"
+msgstr "புலங்கள்"
+
+msgid "Hook"
+msgstr "ஹூக்"
+
+msgid "comment"
+msgstr "கருத்து"
+
+msgid "Buy"
+msgstr "வாங்க"
+
+msgid "About us"
+msgstr "எங்களை பற்றி"
+
+msgid "Companies"
+msgstr "நிறுவனம்"
+
+msgid "Services"
+msgstr "சேவைகள்"
+
+msgid "Messages"
+msgstr "செய்திகள்"
+
+msgid "Contact us"
+msgstr "எங்களை தொடர்பு கொள்ள"
+
+msgid "Print"
+msgstr "அச்சு"
+
+msgid "Picture"
+msgstr "படம்"
+
+msgid "Add to cart"
+msgstr "பெட்டகத்தில் சேர்"
+
+msgid "Replace in cart"
+msgstr "வண்டியில் மாற்றவும்"
+
+msgid "Type"
+msgstr "வகை"
+
+msgid "History"
+msgstr "வரலாறு"
+
+msgid "Details"
+msgstr "விவரங்கள்"
+
+msgid "Date"
+msgstr "தேதி"
+
+msgid "Previous"
+msgstr "முந்தைய"
+
+msgid "Next"
+msgstr "அடுத்த"
+
+msgid "Quick search"
+msgstr "விரைவு தேடல்"
+
+msgid "Zipcode"
+msgstr "ஜிப்குறியீடு"
+
+msgid "The username and/or password is invalid."
+msgstr "பயனர் பெயர் மற்றும் / அல்லது கடவுச்சொல் தவறானது."
+
+msgid "Group"
+msgstr "குழு"
+
+msgid "Are you sure?"
+msgstr "நீ சொல்வது உறுதியா?"
+
+msgid "Nationality"
+msgstr "குடியுரிமை"
+
+msgid "Radius"
+msgstr "ஆரம்"
+
+msgid "Summary"
+msgstr "சுருக்கம்"
+
+msgid "Watermark"
+msgstr "வாட்டர்மார்க்"
+
+msgid "Latitude"
+msgstr "அட்சரேகை"
+
+msgid "Longitude"
+msgstr "தீர்க்கரேகை"
+
+msgid "Mortgage"
+msgstr "அடமான"
+
+msgid "Download"
+msgstr "பதிவிறக்க"
+
+msgid "Dashboard"
+msgstr "டாஷ்போர்டு"
+
+msgid "Matching"
+msgstr "பொருந்துவதை"
+
+msgid "Pay now by card"
+msgstr "அட்டை மூலம் இப்போது செலுத்தவும்"
+
+msgid "Pay by bank transfer"
+msgstr "வங்கி பரிமாற்றத்தால் செலுத்தவும்"
+
+msgid "Pay by check"
+msgstr "காசோலை மூலம் செலுத்தவும்"
+
+msgid "Powered by"
+msgstr "Powered by"
+
+msgid "Accepted payment methods"
+msgstr "ஏற்றுக் கொள்ளப்பட்ட முறைகள்"
+
+msgid "Terms and Conditions"
+msgstr "விதிமுறைகள் மற்றும் நிபந்தனைகள்"
+
+msgid ""
+"Your contact is already in database, please select it on the list below."
+msgstr ""
+"உங்கள் தொடர்பு தரவுத்தளத்தில் ஏற்கனவே உள்ளது, கீழேயுள்ள பட்டியலில் அதைத் "
+"தேர்ந்தெடுக்கவும்."
+
+msgid "Contract"
+msgstr "ஒப்பந்த"
+
+msgid "Agreements"
+msgstr "ஒப்பந்தங்கள்"
+
+msgid "Seekers"
+msgstr "கோருபவர்களின்"
+
+msgid "Active seekers"
+msgstr "செயலில் ஈடுபட்டவர்கள்"
+
+msgid "Providers"
+msgstr "வழங்குனர்கள்"
+
+msgid "Owners"
+msgstr "உரிமையாளர்கள்"
+
+msgid "Active owners"
+msgstr "செயலில் உரிமையாளர்கள்"
+
+msgid "Monitoring"
+msgstr "கண்காணிப்பு"
+
+msgid "Forward"
+msgstr "முன்னோக்கி"
+
+msgid "Similar"
+msgstr "ஒத்த"
+
+msgid "Level"
+msgstr "நிலை"
+
+msgid "floor"
+msgstr "தரை"
+
+msgid "Water"
+msgstr "நீர்"
+
+msgid "Description"
+msgstr "விளக்கம்"
+
+msgid "Deductions"
+msgstr "விலக்கிற்கு"
+
+msgid "Not available"
+msgstr "கிடைக்கவில்லை"
+
+msgid "Occupant"
+msgstr "வாழ்பவர்கலை"
+
+msgid "Prospect"
+msgstr "ப்ராஸ்பெக்ட்"
+
+msgid "Shares"
+msgstr "பங்குகள்"
+
+msgid "Like"
+msgstr "விருப்பு"
+
+msgid "Unlike"
+msgstr "போலல்லாமல்"
+
+msgid "Portfolio"
+msgstr "போர்ட்ஃபோலியோ"
+
+msgid "Features"
+msgstr "அம்சங்கள்"
+
+msgid "Contracted owner"
+msgstr "ஒப்பந்த உரிமையாளர்"
+
+msgid "Contracted owners"
+msgstr "ஒப்பந்த உரிமையாளர்கள்"
+
+msgid "Contracted customer"
+msgstr "ஒப்பந்தக்கார வாடிக்கையாளர்"
+
+msgid "Contracted customers"
+msgstr "ஒப்பந்தக்கார வாடிக்கையாளர்கள்"
+
+msgid "Transfer tax"
+msgstr "வரி மாற்றம்"
+
+msgid "Change to"
+msgstr "மாற்ற"
+
+msgid "Until"
+msgstr "வரை"
+
+msgid "Location reference"
+msgstr "இருப்பிட குறிப்பு"
+
+msgid "Priority"
+msgstr "முன்னுரிமை"
+
+msgid "Full form"
+msgstr "முழு படிவம்"
+
+msgid "Quick form"
+msgstr "விரைவான படிவம்"
+
+msgid "%s char(s)"
+msgstr "%s கடிதம்"
+
+msgid "Price from"
+msgstr "விலை இருந்து"
+
+msgid "Listings"
+msgstr "பட்டியல்கள்"
+
+msgid "Duration"
+msgstr "காலம்"
+
+msgid "Request incomplete"
+msgstr "முழுமையற்ற கோரிக்கை"
+
+msgid "%s incomplete request(s)"
+msgstr "%s முழுமையற்ற கோரிக்கை"
+
+msgid "Subscribe for"
+msgstr "பதிவு செய்யவும்"
+
+msgid "Configuration"
+msgstr "கட்டமைப்பு"
+
+msgid "Subtotal"
+msgstr "கூட்டுத்தொகை"
+
+msgid "Tax notice"
+msgstr "வரி அறிவிப்பு"
+
+msgid "Events"
+msgstr "நிகழ்வுகள்"
+
+msgid "Present"
+msgstr "தற்போது"
+
+msgid "Missing"
+msgstr "காணாமல்"
+
+msgid "Planned"
+msgstr "திட்டமிட்ட"
+
+msgid "Full"
+msgstr "முழு"
+
+msgid "Organizer"
+msgstr "அமைப்பாளர்"
+
+msgid "Already subscribed"
+msgstr "ஏற்கனவே குழுசேர்ந்துள்ளன"
+
+msgid "Attendees"
+msgstr "பங்கேற்பாளர்கள்"
+
+msgid "Join"
+msgstr "சேர"
+
+msgid "Training"
+msgstr "பயிற்சி"
+
+msgid "Require a change of password at next logon"
+msgstr "அடுத்த உள்நுழைவில் கடவுச்சொல்லை மாற்ற வேண்டும்"
+
+msgid "Gross revenue"
+msgstr "மொத்த வருவாய்"
+
+msgid "Gross yield"
+msgstr "மொத்த மகசூல்"
+
+msgid "Net yield"
+msgstr "நிகர மகசூல்"
+
+msgid "Vacancy rate"
+msgstr "வெற்றி விகிதம்"
+
+msgid "Investment"
+msgstr "முதலீட்டு"
+
+msgid "Lock"
+msgstr "பூட்ட"
+
+msgid "Variables"
+msgstr "மாறிகள்"
+
+msgid "Example"
+msgstr "உதாரணமாக"
+
+msgid "Increment"
+msgstr "உயர்வு"
+
+msgid "Schema"
+msgstr "அமைப்பியல்"
+
+msgid "Automation"
+msgstr "ஆட்டோமேஷன்"
+
+msgid "Login"
+msgstr "உள் நுழை"
+
+msgid "Renovation year"
+msgstr "சீரமைப்பு ஆண்டு"
+
+msgid "Curriculum vitae"
+msgstr "கல்வி மற்றும் தொழில்பற்றிய சிறுதொகுப்பு"
+
+msgid "Resellers"
+msgstr "மறுவிற்பனையாளர்களின்"
+
+msgid "Billing"
+msgstr "பில்லிங்"
+
+msgid "The balance of your account is %s"
+msgstr "உங்கள் கணக்கின் சமநிலை %s"
+
+msgid "Ceiling"
+msgstr "உச்சவரம்பு"
+
+msgid "Weighted area"
+msgstr "கனமான பகுதி"
+
+msgid "Collected at"
+msgstr "சேகரிக்கப்பட்ட"
+
+msgid "Unlimited"
+msgstr "வரம்பற்ற"
+
+msgid "Limit"
+msgstr "அளவு"
+
+msgid "Booking"
+msgstr "பதிவு"
+
+msgid "Setup"
+msgstr "அமைப்பு"
+
+msgid "Active owner"
+msgstr "செயலில் உரிமையாளர்"
+
+msgid "Matching at"
+msgstr "பொருந்தும்"
+
+msgid "Price by area"
+msgstr "பகுதி விலை"
+
+msgid "Default list"
+msgstr "இயல்புநிலை பட்டியல்"
+
+msgid "Subtype"
+msgstr "துணைத்தலைப்பும்"
+
+msgid "Balance"
+msgstr "இருப்பு"
+
+msgid "Add a custom document"
+msgstr "தனிப்பயன் ஆவணத்தைச் சேர்க்கவும்"
+
+msgid "Line spacing"
+msgstr "வரி இடைவெளி"
+
+msgid "Font"
+msgstr "எழுத்துரு"
+
+msgid "Portrait"
+msgstr "ஓவிய"
+
+msgid "Landscape"
+msgstr "இயற்கை"
+
+msgid "Accounts"
+msgstr "கணக்குகள்"
+
+msgid "custom"
+msgstr "விருப்ப"
+
+msgid "File"
+msgstr "கோப்பு"
+
+msgid "Linked"
+msgstr "இணைக்கப்பட்ட"
+
+msgid "Discover our offers"
+msgstr "எங்கள் வாய்ப்புகளை கண்டறியவும்"
+
+msgid "Blank"
+msgstr "வெற்று"
+
+msgid "Portal"
+msgstr "போர்டல்"
+
+msgid "Software Documentation"
+msgstr "மென்பொருள் ஆவணம்"
+
+msgid "Time"
+msgstr "நேரம்"
+
+msgid "Dedicated website"
+msgstr "அர்ப்பணிக்கப்பட்ட வலைத்தளம்"
+
+msgid "Subcategory"
+msgstr "துணை"
+
+msgid "No IP control"
+msgstr "ஐபி கட்டுப்பாடு இல்லை"
+
+msgid "Auto publish"
+msgstr "தானாக வெளியிடலாம்"
+
+msgid "Link to property"
+msgstr "சொத்துக்கான இணைப்பு"
+
+msgid "Happy birthday!"
+msgstr "பிறந்தநாள் வாழ்த்துக்கள் !"
+
+msgid "Birthdays"
+msgstr "பிறந்த நாள்"
+
+msgid "Last login"
+msgstr "கடைசி உள்நுழைவு"
+
+msgid "This property is a part of:"
+msgstr "இந்த சொத்து ஒரு பகுதியாக உள்ளது:"
+
+msgid "IP address"
+msgstr "ஐபி முகவரிகள்"
+
+msgid "Prospecting"
+msgstr "எடுப்பதற்கு"
+
+msgid "Access code at"
+msgstr "அணுகல் குறியீடு"
+
+msgid "Number of shares"
+msgstr "பங்குகள் எண்ணிக்கை"
+
+msgid "Leads"
+msgstr "வாய்ப்புக்கள்"
+
+msgid "Cancel"
+msgstr "ரத்து"
+
+msgid "Advanced"
+msgstr "மேம்பட்ட"
+
+msgid "Publish on homepage"
+msgstr "முகப்பு பக்கத்தில் வெளியிடவும்"
+
+msgid "Suggested"
+msgstr "பரிந்துரைக்கப்படும்"
+
+msgid "Welcome on %s"
+msgstr "வரவேற்கிறேன் %s"
+
+msgid "Content"
+msgstr "உள்ளடக்க"
+
+msgid "Extranet access"
+msgstr "Extranet அணுகல்"
+
+msgid "Publish address"
+msgstr "முகவரி வெளியிடு"
+
+msgid "Opening hours"
+msgstr "தொடக்க நேரம்"
+
+msgid "Backoffice"
+msgstr "மீண்டும் அலுவலகம்"
+
+msgid "Member since %s"
+msgstr "%s முதல் உறுப்பினர்"
+
+msgid "Lock menu bar"
+msgstr "மெனு பட்டி பூட்டு"
+
+msgid "Updates"
+msgstr "மேம்படுத்தல்கள்"
+
+msgid "Bookings"
+msgstr "முன்பதிவுகள்"
+
+msgid "Forward to contact"
+msgstr "தொடர்பு கொள்ள முன்னோக்கி"
+
+msgid "Responder"
+msgstr "பதிலளிப்பான்"
+
+msgid ""
+"You can search our Frequently Asked Questions (FAQs) database by keyword(s):"
+msgstr "நீங்கள் எங்கள் அடிக்கடி கேட்கப்படும் கேள்விகளை (FAQs)"
+
+msgid "Registrar"
+msgstr "பதிவாளர்"
+
+msgid "Expiration at"
+msgstr "காலாவதியாகும்"
+
+msgid "Mailbox"
+msgstr "அஞ்சல் பெட்டி"
+
+msgid "Domain name"
+msgstr "டொமைன் பெயர்"
+
+msgid "Filling"
+msgstr "தாக்கல்"
+
+msgid "Condition precedent"
+msgstr "நிபந்தனை முன்னுரிமை"
+
+msgid "Deal fees"
+msgstr "ஒப்பந்த கட்டணம்"
+
+msgid "Fees charged"
+msgstr "கட்டணம் வசூலிக்கப்படுகிறது"
+
+msgid "Customer"
+msgstr "வாடிக்கையாளர்"
+
+msgid "Associate"
+msgstr "இணை"
+
+msgid "Ceiling height"
+msgstr "கூரை உயரம்"
+
+msgid "Translations"
+msgstr "மொழிபெயர்ப்பு"
+
+msgid "Unsold"
+msgstr "விற்கப்படாத"
+
+msgid "Sold at"
+msgstr "விற்கப்பட்டது"
+
+msgid "Last action"
+msgstr "கடைசி நடவடிக்கை"
+
+msgid "Our agency"
+msgstr "எங்கள் நிறுவனம்"
+
+msgid "Locate us"
+msgstr "எங்களை கண்டுபிடிக்கவும்"
+
+msgid "Your main contact"
+msgstr "உங்கள் முக்கிய தொடர்பு"
+
+msgid "Leave us a message"
+msgstr "எனக்கு ஒரு செய்தியை அனுப்பவும்"
+
+msgid "Price with fees"
+msgstr "கட்டணத்துடன் விலை"
+
+msgid "Owner access"
+msgstr "உரிமையாளர் அணுகல்"
+
+msgid "Added"
+msgstr "சேர்க்கப்பட்டது"
+
+msgid "Available for matching"
+msgstr "பொருந்தும் கிடைக்கும்"
+
+msgid "Lessee"
+msgstr "குத்தகைதாரர்"
+
+msgid "Add to list"
+msgstr "பட்டியலில் சேர்"
+
+msgid "Custom tags"
+msgstr "தனிப்பயன் குறிச்சொற்கள்"
+
+msgid "%s pending approval properties"
+msgstr "%s பண்புகள் ஒப்புதல் நிலுவையில் உள்ளன"
+
+msgid "Negotiable price"
+msgstr "விலை ரூ"
+
+msgid "Price updated"
+msgstr "விலை புதுப்பிக்கப்பட்டது"
+
+msgid "Less equal"
+msgstr "குறைந்த சமமாக"
+
+msgid "Equal"
+msgstr "சம"
+
+msgid "Greater equal"
+msgstr "பெரிய சமம்"
+
+msgid "Preferences"
+msgstr "விருப்பங்கள்"
+
+msgid "Contact means"
+msgstr "தொடர்பு என்பது பொருள்"
+
+msgid "Agency commission"
+msgstr "நிறுவனம்  விற்பனை பங்கு"
+
+msgid "Scheduled at"
+msgstr "திட்டமிடப்பட்டது"
+
+msgid "Contract at"
+msgstr "தொடர்பு"
+
+msgid "Commitment"
+msgstr "பொறுப்பேற்பு"
+
+msgid "Commitment at"
+msgstr "ஒத்துழைப்பு"
+
+msgid "Offer at"
+msgstr "சலுகை"
+
+msgid "No action"
+msgstr "நடவடிக்கை இல்லை"
+
+msgid "Others"
+msgstr "மற்ற"
+
+msgid "Received contact information"
+msgstr "தொடர்பு தகவலைப் பெற்றது"
+
+msgid "Linked contact"
+msgstr "இணைக்கப்பட்ட தொடர்பு"
+
+msgid "Related contacts"
+msgstr "தொடர்புடைய தொடர்புகள்"
+
+msgid "Assigned to"
+msgstr "ஒதுக்கப்படும்"
+
+msgid "Assign to"
+msgstr "ஒதுக்க"
+
+msgid "Assign by"
+msgstr "மூலம் ஒதுக்க"
+
+msgid "Opened by"
+msgstr "திறந்தது"
+
+msgid "Closed by"
+msgstr "மூடப்பட்டது"
+
+msgid "Time zone"
+msgstr "நேரம் மண்டலம்"
+
+msgid "Customers"
+msgstr "வாடிக்கையாளர்கள்"
+
+msgid "Invert selection"
+msgstr "தலைகீழ் தேர்வு"
+
+msgid "Select all"
+msgstr "அனைத்தையும் தெரிவுசெய்"
+
+msgid "Unselect all"
+msgstr "எல்லாவற்றையும் தேர்வுநீக்கு"
+
+msgid "%s awaiting lead(s)"
+msgstr "%s வாய்ப்பு நிலுவையில்"
+
+msgid "%s lead(s) to assign"
+msgstr "%s வாய்ப்பு ஒதுக்க"
+
+msgid "%s pending properties"
+msgstr "%s பண்புகள் நிலுவையில் உள்ளன"
+
+msgid "%s pending matching(s)"
+msgstr "%s பொருந்தும் நிலுவையில் உள்ளது"
+
+msgid "%s expired agreement(s)"
+msgstr "%s ஒப்பந்தம் (கள்) காலாவதியானது"
+
+msgid "%s expired soon agreement(s)"
+msgstr "%s ஒப்பந்தம் (கள்) விரைவில் காலாவதியாகி விட்டது"
+
+msgid "Legal notice"
+msgstr "சட்ட அறிவிப்பு"
+
+msgid "Tags"
+msgstr "குறிச்சொற்கள்"
+
+msgid "Allowed"
+msgstr "அனுமதிக்கப்பட்ட"
+
+msgid "Min stay"
+msgstr "குறைந்தபட்ச காலம்"
+
+msgid "Over"
+msgstr "முடிந்து"
+
+msgid "Refresh"
+msgstr "புதுப்பிப்பு"
+
+msgid "Free text"
+msgstr "இலவச உரை"
+
+msgid "Generate comment"
+msgstr "கருத்துரை உருவாக்கவும்"
+
+msgid "Building name"
+msgstr "கட்டிடம் பெயர்"
+
+msgid "VAT"
+msgstr "GST"
+
+msgid "VAT included"
+msgstr "GST சேர்க்கப்பட்டுள்ளது"
+
+msgid "VAT excluded"
+msgstr "GST விலக்கப்பட்ட"
+
+msgid "Recurrence"
+msgstr "மீண்டும் ஏற்படுமாயின்"
+
+msgid "Calculate"
+msgstr "கணக்கிட"
+
+msgid "Contribution"
+msgstr "பங்களிப்பு"
+
+msgid "Maximum debt"
+msgstr "அதிகபட்ச கடன்"
+
+msgid "Purchase amount"
+msgstr "கொள்முதல் தொகை"
+
+msgid "Borrowing calculator"
+msgstr "கடன் வாங்குபவர்"
+
+msgid "Monthly payment calculator"
+msgstr "மாதாந்திர கட்டணம் கால்குலேட்டர்"
+
+msgid "You don't have broadcasting rights"
+msgstr "உங்களிடம் ஒளிபரப்பு உரிமை இல்லை"
+
+msgid "Pending"
+msgstr "நிலுவையில்"
+
+msgid "Suggestions"
+msgstr "ஆலோசனைகள்"
+
+msgid "To show"
+msgstr "காண்பிக்க"
+
+msgid "Automatic"
+msgstr "தானியங்கி"
+
+msgid "Manual"
+msgstr "கையேடு"
+
+msgid "In collaboration with a %name% professional"
+msgstr "ஒரு தொழில்முறை ஒத்துழைப்புடன் %name%"
+
+msgid "Partners"
+msgstr "பங்குதாரர்கள்"
+
+msgid "Cost"
+msgstr "செலவு"
+
+msgid "My search"
+msgstr "என் தேடல்"
+
+msgid "Spouse"
+msgstr "மனைவி"
+
+msgid "Manager"
+msgstr "மேலாளர்"
+
+msgid "Category reference"
+msgstr "பகுப்பு குறிப்பு"
+
+msgid "Cadastre reference"
+msgstr "Cadastre குறிப்பு"
+
+msgid "Lot reference"
+msgstr "நிறைய குறிப்பு"
+
+msgid "Block reference"
+msgstr "குறிப்பு தடு"
+
+msgid "Stairs reference"
+msgstr "படிக்கட்டு குறிப்பு"
+
+msgid "Mortgage end at"
+msgstr "அடமானம் முடிவில்"
+
+msgid "Review"
+msgstr "விமர்சனம்"
+
+msgid "Media"
+msgstr "ஊடகம்"
+
+msgid "Medias"
+msgstr "ஊடகங்கள்"
+
+msgid "Last access"
+msgstr "கடைசி அணுகல்"
+
+msgid "First access"
+msgstr "முதல் அணுகல்"
+
+msgid "Access count"
+msgstr "அணுகல் எண்ணிக்கை"
+
+msgid "Default"
+msgstr "இயல்புநிலை"
+
+msgid "Please do not enter any name or contact"
+msgstr "தயவுசெய்து எந்த பெயரையோ அல்லது தொடர்பையோ உள்ளிட வேண்டாம்"
+
+msgid "QR-Code"
+msgstr "QR குறியீடு"
+
+msgid "Show price"
+msgstr "விலை காட்டு"
+
+msgid "Done"
+msgstr "முடிந்தது"
+
+msgid "Not applicable"
+msgstr "பொருந்தாது"
+
+msgid "Fill in the table"
+msgstr "மேஜையில் நிரப்பவும்"
+
+msgid "copy"
+msgstr "பிரதியை"
+
+msgid "Automatic matching"
+msgstr "தானியங்கி பொருத்தம்"
+
+msgid "Authorization"
+msgstr "அங்கீகார"
+
+msgid "Last connection the %s"
+msgstr "கடைசி இணைப்பு %s"
+
+msgid "All"
+msgstr "அனைத்து"
+
+msgid "Wiki"
+msgstr "விக்கி"
+
+msgid "Latest"
+msgstr "சமீபத்தியவையை"
+
+msgid "Reset"
+msgstr "மீட்டமை"
+
+msgid "Show/hide fields"
+msgstr "காட்டு / மறைக்க துறையில்"
+
+msgid "Recent searches"
+msgstr "சமீபத்திய தேடல்கள்"
+
+msgid "Association"
+msgstr "சங்கம்"
+
+msgid "Meta crawler"
+msgstr "மெட்டா கிராலர்"
+
+msgid "Alerts"
+msgstr "எச்சரிக்கைகள்"
+
+msgid "Prescribers"
+msgstr "Prescribers"
+
+msgid "Staff"
+msgstr "ஊழியர்கள்"
+
+msgid "Standing"
+msgstr "ஸ்டாண்டிங்"
+
+msgid "Receive a copy"
+msgstr "ஒரு நகலைப் பெறுங்கள்"
+
+msgid "Latest views"
+msgstr "சமீபத்திய பார்வைகள்"
+
+msgid "Quality"
+msgstr "தர"
+
+msgid "Waiting for partner"
+msgstr "பங்குதாரருக்காக காத்திருக்கிறது"
+
+msgid "Viewing agreement"
+msgstr "பார்க்கும் உடன்பாடு"
+
+msgid "Decline"
+msgstr "மறு"
+
+msgid "Declined"
+msgstr "ஏற்கனவே மறு"
+
+msgid "Accept"
+msgstr "ஏற்கவும்"
+
+msgid "Accepted"
+msgstr "ஏற்கப்பட்டது"
+
+msgid "Zones"
+msgstr "மண்டலங்கள்"
+
+msgid "Zone"
+msgstr "மண்டல"
+
+msgid "Matrimonial regime"
+msgstr "திருமண ஆட்சி"
+
+msgid "Marital status"
+msgstr "திருமண நிலை"
+
+msgid "Thumbnail"
+msgstr "Thumbnail"
+
+msgid "Unread"
+msgstr "படிக்காத"
+
+msgid "Reply"
+msgstr "பதில்"
+
+msgid "Pension"
+msgstr "ஓய்வூதிய"
+
+msgid "Beam"
+msgstr "பீம்"
+
+msgid "Draft"
+msgstr "வரைவு"
+
+msgid "Guests"
+msgstr "விருந்தினர்கள்"
+
+msgid "Crew"
+msgstr "க்ரூ"
+
+msgid "Cruising speed"
+msgstr "வேக பயணத்தின்போது"
+
+msgid "Builder"
+msgstr "ஒப்பந்ததாரர்"
+
+msgid "Administration"
+msgstr "நிர்வாகம்"
+
+msgid "Civil law notary"
+msgstr "சிவில் சட்டம் நோட்டரி"
+
+msgid "Max price"
+msgstr "அதிகபட்ச விலை"
+
+msgid "Reminders"
+msgstr "நினைவூட்டல்கள்"
+
+msgid "Credit"
+msgstr "கடன்"
+
+msgid "Signatures"
+msgstr "கையொப்பங்கள்"
+
+msgid "Signature"
+msgstr "கையொப்பம்"
+
+msgid "Title (politeness)"
+msgstr "தலைப்பு (மரியாதை)"
+
+msgid "Update"
+msgstr "புதுப்பிக்கப்பட்டது"
+
+msgid "Created at"
+msgstr "இல் உருவாக்கப்பட்டது"
+
+msgid "First published at"
+msgstr "முதலில் வெளியிடப்பட்டது"
+
+msgid "Insurance"
+msgstr "காப்பீடு"
+
+msgid "Provision"
+msgstr "வழங்குதல்"
+
+msgid "Entries"
+msgstr "உள்ளீடுகளை"
+
+msgid "Number"
+msgstr "எண்"
+
+msgid "Deposit account"
+msgstr "வைப்பு கணக்கு"
+
+msgid "Owner's price"
+msgstr "உரிமையாளரின் விலை"
+
+msgid "Starting price"
+msgstr "விலை தொடங்குகிறது"
+
+msgid "Mobile"
+msgstr "கைபேசி"
+
+msgid "Tel."
+msgstr "Tel."
+
+msgid "Lease"
+msgstr "குத்தகை"
+
+msgid "Leases"
+msgstr "குத்தகைகள்"
+
+msgid "Address"
+msgstr "முகவரி"
+
+msgid "Searches"
+msgstr "தேடல்கள்"
+
+msgid "Tips"
+msgstr "குறிப்புகள்"
+
+msgid "Delete"
+msgstr "நீக்கப்பட்ட"
+
+msgid "Maps"
+msgstr "வரைபடங்கள்"
+
+msgid "Days"
+msgstr "நாட்களில்"
+
+msgid "day"
+msgstr "தினம்"
+
+msgid "Catalog"
+msgstr "அட்டவணை"
+
+msgid "Statistics"
+msgstr "புள்ளியியல்"
+
+msgid "Built in"
+msgstr "கட்டப்பட்டது"
+
+msgid "Mark"
+msgstr "மார்க்"
+
+msgid "Percentage"
+msgstr "சதவிதம்"
+
+msgid "Visits"
+msgstr "வருகைகள்"
+
+msgid "Visit comment"
+msgstr "கருத்துரையிடுக"
+
+msgid "Key number"
+msgstr "முக்கிய எண்"
+
+msgid "Key's place"
+msgstr "முக்கிய இடம்"
+
+msgid "Displayed city (optional)"
+msgstr "நகரம் காட்சி"
+
+msgid "Displayed district (optional)"
+msgstr "மாவட்டத்தின் காட்சி"
+
+msgid "Clauses"
+msgstr "உட்பிரிவுகள்"
+
+msgid "Postal code"
+msgstr "அஞ்சல் குறியீடு"
+
+msgid "Bathrooms"
+msgstr "குளியலறைகள்"
+
+msgid "Seller"
+msgstr "விற்பனையாளர்"
+
+msgid "Adjacency"
+msgstr "அடுத்துள்ள"
+
+msgid "Step"
+msgstr "படி"
+
+msgid "Long comment"
+msgstr "நீண்ட கருத்து"
+
+msgid "Subtitle"
+msgstr "வசன"
+
+msgid "Header"
+msgstr "தலைப்பு"
+
+msgid "Last published at"
+msgstr "கடைசியாக வெளியிடப்பட்டது"
+
+msgid "Inactive"
+msgstr "செயல்படா"
+
+msgid "Please fill in a name and a phone or an e-mail."
+msgstr ""
+"தயவுசெய்து  ஒரு பெயர் மற்றும் ஒரு தொலைபேசி எண்ணை அல்லது மின்னஞ்சலை "
+"நிரப்பவும்"
+
+msgid "Passwords do not match, please retype"
+msgstr "கடவுச்சொல் பொருந்தவில்லை, மீண்டும் எழுதுக"
+
+msgid "Please change your password"
+msgstr "தயவுசெய்து உங்கள் கடவுச்சொல்லை மாற்றவும்"
+
+msgid "New password should not be same as old password"
+msgstr "புதிய கடவுச்சொல் பழைய கடவுச்சொல் போலவே இருக்கக்கூடாது"
+
+msgid "Year"
+msgstr "ஆண்டு"
+
+msgid "Subscriptions"
+msgstr "சந்தாக்கள்"
+
+msgid "Tour comment"
+msgstr "டூர் கருத்து"
+
+msgid "Actions"
+msgstr "செயல்கள்"
+
+msgid "Ad"
+msgstr "விளம்பரம்"
+
+msgid "Add opening hours"
+msgstr "விளம்பர திறந்த நேரம்"
+
+msgid "Personal"
+msgstr "தனிநபர்"
+
+msgid ""
+"Please note that there are dependencies, please select a contact for "
+"completing the data transfer."
+msgstr ""
+"நம்பகத்தன்மைகள் உள்ளன என்பதை தயவு செய்து கவனியுங்கள், தரவு பரிமாற்றத்தை "
+"நிறைவு செய்யும் தொடர்பைத் தேர்ந்தெடுப்பதற்கு நன்றி"
+
+msgid "The installation can take several minutes, please come back later."
+msgstr "நிறுவல் பல நிமிடங்கள் ஆகலாம், பின்னர் மீண்டும் வாருங்கள்"
+
+msgid "Your contact speaks %s, would you like to change the language?"
+msgstr "உங்கள் தொடர்பு% s ஐப் பேசு, நீங்கள் மொழியை மாற்ற விரும்புகிறீர்களா?"
+
+msgid "Would you like to publish on the homepage?"
+msgstr "முகப்புப்பக்கத்தில் வெளியிட விரும்புகிறீர்களா?"
+
+msgid "plus VAT"
+msgstr "தயவு செய்து வாட்"
+
+msgid "<b>Warning :</b> there is an error, please check each fields."
+msgstr "எச்சரிக்கை: ஒரு பிழை உள்ளது, ஒவ்வொரு துறையையும் சரிபார்க்கவும்"
+
+msgid "Price/sq m"
+msgstr "விலை / சதுர மீ"
+
+msgid "today"
+msgstr "இன்று"
+
+msgid "week"
+msgstr "வாரம்"
+
+msgid "from %from_value% to %to_value%"
+msgstr "%from_value% இருந்து %to_value% வரை"
+
+msgid "Page"
+msgstr "பக்கம்"
+
+msgid "Action"
+msgstr "அதிரடி"
+
+msgid "Status"
+msgstr "நிலைமை"
+
+msgid "agencies"
+msgstr "முகமைகள்"
+
+msgid "Context"
+msgstr "சூழல்"
+
+msgid "More criteria"
+msgstr "மேலும் அடிப்படை"
+
+msgid "Criteria"
+msgstr "தேர்வளவு"
+
+msgid "Classification"
+msgstr "வகைப்பாடு"
+
+msgid "metres"
+msgstr "மீட்டர்"
+
+msgid "Window"
+msgstr "ஜன்னல்"
+
+msgid "Stock area"
+msgstr "பங்கு பகுதி"
+
+msgid "Sales area"
+msgstr "விற்பனை பகுதி"
+
+msgid "Sold price"
+msgstr "விற்பனை விலை"
+
+msgid "Broadcast to"
+msgstr "ஒளிபரப்ப"
+
+msgid "The property will not be published because it is in step « %s »"
+msgstr "இந்த சொத்து படிவத்தில் இருப்பதால் வெளியிடப்படாது  <<%s >>"
+
+msgid "Last agencies"
+msgstr "கடைசி முகவர்கள்"
+
+msgid "I confirm my subscription to %s and I accept the general conditions"
+msgstr ""
+"நான் %s க்கு என் சந்தாவை உறுதி செய்கிறேன், நான் பொதுவான நிபந்தனைகளை "
+"ஏற்றுக்கொள்கிறேன்"
+
+msgid "from %from_date% to %to_date%"
+msgstr "%from_date% இருந்து %to_date% வரை"
+
+msgid "sq m"
+msgstr "எனவே மீ"
+
+msgid "days"
+msgstr "நாட்கல்"
+
+msgid "bedroom"
+msgstr "படுக்கை அறை"
+
+msgid "comments"
+msgstr "கருத்துக்கள்"
+
+msgid "Private comment"
+msgstr "தனிப்பட்ட கருத்து"
+
+msgid "Private"
+msgstr "தனியார்"
+
+msgid "Levels"
+msgstr "நிலைகள்"
+
+msgid "Exchanges"
+msgstr "பரிமாற்றங்கள்"
+
+msgid "Exchange"
+msgstr "பரிமாற்றம்"
+
+msgid "by"
+msgstr "மூலம்"
+
+msgid "n.a"
+msgstr "என். ஒரு"
+
+msgid "Elevator"
+msgstr "எலிவேட்டர்"
+
+msgid "no"
+msgstr "இல்லை"
+
+msgid "yes"
+msgstr "ஆம்"
+
+msgid "Printed with care"
+msgstr "கவனமாக அச்சிடப்பட்டது"
+
+msgid "Please do not litter on public way"
+msgstr "பொது வழியில் குப்பை கொட்டிவிடாதீர்கள்"
+
+msgid "Non-contractual information"
+msgstr "அல்லாத ஒப்பந்த தகவல்"
+
+msgid "Agency fees"
+msgstr "முகவர் கட்டணம்"
+
+msgid "Agency fees included"
+msgstr "ஏஜென்சி கட்டணம் சேர்க்கப்பட்டுள்ளது"
+
+msgid "Agency fees not included"
+msgstr "முகவர் கட்டணம் சேர்க்கப்படவில்லை"
+
+msgid "Fees"
+msgstr "கட்டணம்"
+
+msgid "Personal property tax"
+msgstr "தனிப்பட்ட சொத்து வரி"
+
+msgid "Property tax"
+msgstr "சொத்து வரி"
+
+msgid "Style"
+msgstr "பாணி"
+
+msgid "Pictures"
+msgstr "படங்கள்"
+
+msgid "Window card"
+msgstr "சாளர அட்டை"
+
+msgid "Private sheet"
+msgstr "தனியார் தாள்"
+
+msgid "Public sheet"
+msgstr "பொது தாள்"
+
+msgid "Service"
+msgstr "சேவை"
+
+msgid "Language"
+msgstr "மொழி"
+
+msgid "Cart"
+msgstr "வண்டி"
+
+msgid "Land type"
+msgstr "நில வகை"
+
+msgid "Property agent"
+msgstr "சொத்து முகவர்"
+
+msgid "Account"
+msgstr "கணக்கு"
+
+msgid "End at"
+msgstr "முடிவடையும்"
+
+msgid "Close at"
+msgstr "மூடு"
+
+msgid "Start at"
+msgstr "தொடங்கும் இடம் அல்லது நேரம்"
+
+msgid "Guarantees"
+msgstr "உத்தரவாதங்கள்"
+
+msgid "Inter-agencies"
+msgstr "இருவேறுபட்ட முகவர்"
+
+msgid "Number of floors"
+msgstr "மாடிகள் எண்ணிக்கை"
+
+msgid "Evaluated price"
+msgstr "மதிப்பிடப்பட்ட விலை"
+
+msgid "Seller's commission"
+msgstr "விற்பனையாளர் கமிஷன்"
+
+msgid "Buyer's commission"
+msgstr "வாங்குபவர் கமிஷன்"
+
+msgid "Commission"
+msgstr "ஆணைக்குழு"
+
+msgid "Origin"
+msgstr "தோற்றம்"
+
+msgid "Specific origin"
+msgstr "குறிப்பிட்ட தோற்றம்"
+
+msgid "Flooring"
+msgstr "தரையையும்"
+
+msgid "Rank"
+msgstr "ரேங்க்"
+
+msgid "Calls"
+msgstr "அழைப்புகள்"
+
+msgid "Phone call"
+msgstr "அழைப்பு"
+
+msgid "Publications"
+msgstr "வெளியீடுகள்"
+
+msgid "Send to contact"
+msgstr "தொடர்பு கொள்ளவும்"
+
+msgid "No results found"
+msgstr "முடிவுகள் எதுவும் இல்லை"
+
+msgid "results"
+msgstr "முடிவுகள்"
+
+msgid "result"
+msgstr "விளைவாக"
+
+msgid "Advertiser"
+msgstr "விளம்பரதாரர்"
+
+msgid "Active"
+msgstr "செயலில்"
+
+msgid "Confidential"
+msgstr "ரகசியமானது"
+
+msgid "Activity"
+msgstr "நடவடிக்கை"
+
+msgid "Edit"
+msgstr "தொகு"
+
+msgid "Save"
+msgstr "சேமி"
+
+msgid "Succession"
+msgstr "அடுத்தடுத்து"
+
+msgid "Please fill in a city."
+msgstr "ஒரு நகரம் பூஜை பூர்த்தி"
+
+msgid "Guarantee"
+msgstr "உத்தரவாத"
+
+msgid "Please fill"
+msgstr "நிரப்பவும்"
+
+msgid "The email address is invalid."
+msgstr "இந்த மின்னஞ்சல் முகவரி தவறானது"
+
+msgid "Rights"
+msgstr "உரிமைகள்"
+
+msgid "Display"
+msgstr "காட்சி"
+
+msgid "Since"
+msgstr "என்பதால்"
+
+msgid "Filter"
+msgstr "வடிகட்டி"
+
+msgid "Min"
+msgstr "குறைந்தபட்ச"
+
+msgid "Max"
+msgstr "அதிகபட்ச"
+
+msgid "Lessor"
+msgstr "குத்தகையில்"
+
+msgid "Reservations"
+msgstr "ரிசர்வேஷன்"
+
+msgid "Bed"
+msgstr "படுக்கைகள்"
+
+msgid "Cleaning price"
+msgstr "விலை சுத்தம்"
+
+msgid "Sent"
+msgstr "அனுப்பப்பட்டது"
+
+msgid "month"
+msgstr "மாதம்"
+
+msgid "years"
+msgstr "வருடங்கள்"
+
+msgid "months"
+msgstr "மாதங்கள்"
+
+msgid "Seasons"
+msgstr "பருவங்கள்"
+
+msgid "Season"
+msgstr "சீசன்"
+
+msgid "Rates"
+msgstr "விகிதங்கள்"
+
+msgid "Todo"
+msgstr "செய்ய"
+
+msgid "Brands"
+msgstr "பிராண்ட்ஸ்"
+
+msgid "Brand"
+msgstr "பிராண்ட்"
+
+msgid "Publicated at"
+msgstr "வெளியிட்டது"
+
+msgid "Bank"
+msgstr "வங்கி"
+
+msgid "Brief comment"
+msgstr "சுருக்கமான கருத்து"
+
+msgid "Delivery at"
+msgstr "டெலிவரி"
+
+msgid "Reason"
+msgstr "காரணம்"
+
+msgid "What's new"
+msgstr "என்ன புதியது"
+
+msgid "requests"
+msgstr "கோரிக்கைகளை"
+
+msgid "request"
+msgstr "வேண்டுகோள்"
+
+msgid "Current rent"
+msgstr "தற்போதைய வாடகை"
+
+msgid "Characteristics"
+msgstr "பண்புகள்"
+
+msgid "property"
+msgstr "சொத்து"
+
+msgid "Bill"
+msgstr "ர சி து"
+
+msgid "Calculator"
+msgstr "கால்குலேட்டர்"
+
+msgid "Birthplace"
+msgstr "பிறந்த இடம்"
+
+msgid "Birthday"
+msgstr "பிறந்தநாள்"
+
+msgid "Income"
+msgstr "வருமான"
+
+msgid "Costs"
+msgstr "செலவுகள்"
+
+msgid "Margin"
+msgstr "மார்ஜின்"
+
+msgid "Required."
+msgstr "தேவையான"
+
+msgid "Seasonal"
+msgstr "பருவகால"
+
+msgid "Spoken languages"
+msgstr "பேச்சு மொழி"
+
+msgid "Number of children"
+msgstr "குழந்தைகள் என்றால் எண்"
+
+msgid "Hotline"
+msgstr "ஹாட்லைன்"
+
+msgid "Re-type password"
+msgstr "கடவுச்சொல்லை மீண்டும் தட்டச்சு"
+
+msgid "Public longitude"
+msgstr "பொது நிலஅளவை"
+
+msgid "Public latitude"
+msgstr "பொது அட்சரேகை"
+
+msgid "Access denied"
+msgstr "அணுகல் மறுக்கப்பட்டது"
+
+msgid "Access"
+msgstr "அணுகல்"
+
+msgid "Launch"
+msgstr "வெளியீடு"
+
+msgid "Shortcuts"
+msgstr "குறுக்குவழிகள்"
+
+msgid "Subscription"
+msgstr "சந்தா"
+
+msgid "SEO"
+msgstr "எஸ்சிஓ"
+
+msgid "Life annuity length"
+msgstr "வாழ்நாள் ஆண்டு நீளம்"
+
+msgid "Market value"
+msgstr "சந்தை மதிப்பு"
+
+msgid "Price contribution"
+msgstr "விலை பங்களிப்பு"
+
+msgid "Sharing"
+msgstr "பகிர்வது"
+
+msgid "Show more results"
+msgstr "மேலும் முடிவுகளைக் காட்டு"
+
+msgid "Close"
+msgstr "நெருக்கமான"
+
+msgid "Hide"
+msgstr "மறை"
+
+msgid "Keywords"
+msgstr "முக்கிய வார்த்தைகள்"
+
+msgid "Corporate register"
+msgstr "நிறுவன பதிவு"
+
+msgid "Expired soon"
+msgstr "விரைவில் காலாவதியாகிவிடும்"
+
+msgid "Expired"
+msgstr "காலாவதியான"
+
+msgid "Agreement"
+msgstr "ஒப்பந்தம்"
+
+msgid "Agreement number"
+msgstr "ஒப்பந்த எண்"
+
+msgid "VAT identification number"
+msgstr "VAT அடையாள எண்"
+
+msgid "What's on your mind?"
+msgstr "உங்கள் மனதில் என்ன இருக்கிறது?"
+
+msgid "Buyer"
+msgstr "வாங்குபவர்"
+
+msgid "Suggest"
+msgstr "பரிந்துரை"
+
+msgid "Message sent"
+msgstr "செய்தி அனுப்பப்பட்டது"
+
+msgid "Publish"
+msgstr "வெளியிடு"
+
+msgid "Do not publish"
+msgstr "வெளியிட வேண்டாம்"
+
+msgid "Already suggested"
+msgstr "ஏற்கனவே பரிந்துரைக்கப்பட்டுள்ளது"
+
+msgid "To suggest"
+msgstr "பரிந்துரைப்பதற்கு"
+
+msgid "Diagnostics"
+msgstr "கண்டறியும்"
+
+msgid "Footer"
+msgstr "அடிக்குறிப்பு"
+
+msgid "Serviced plot"
+msgstr "சேவை சதி"
+
+msgid "Net floor area"
+msgstr "நிகர தரை பகுதி"
+
+msgid "Preview"
+msgstr "முன்னோட்ட"
+
+msgid "Garden area"
+msgstr "முன்னோட்ட தோட்டத்தில் பகுதி"
+
+msgid "Payments"
+msgstr "கொடுப்பனவு"
+
+msgid "Reopen"
+msgstr "திற"
+
+msgid "Completed"
+msgstr "நிறைவு"
+
+msgid "Complete"
+msgstr "முழுமையான"
+
+msgid "Callback"
+msgstr "கோரிக்கை"
+
+msgid "Callbacks"
+msgstr "கால்பேக்குகளாக"
+
+msgid "Total"
+msgstr "மொத்த"
+
+msgid "Coagent"
+msgstr "இணை முகவர்"
+
+msgid "Residences"
+msgstr "வசிப்பிடங்களை"
+
+msgid "%s properties"
+msgstr "%s சொத்துகள்"
+
+msgid "%s property"
+msgstr "%s சொத்து"
+
+msgid "%s request"
+msgstr "%s கோரிக்கை"
+
+msgid "%s requests"
+msgstr "%s கோரிக்கைகள்"
+
+msgid "Activities"
+msgstr "நடவடிக்கைகள்"
+
+msgid "Sorry, this property is no longer available."
+msgstr "மன்னிக்கவும், இந்த சொத்து இனி கிடைக்காது."
+
+msgid "Processed"
+msgstr "பதப்படுத்தப்பட்ட"
+
+msgid "remaining tickets"
+msgstr "மீதமுள்ள டிக்கெட்டுகள்"
+
+msgid "Congratulations ! No more support tickets."
+msgstr "வாழ்த்துக்கள்! மேலும் ஆதரவு டிக்கெட் இல்லை"
+
+msgid "unassigned tickets"
+msgstr "ஒதுக்கப்படாத டிக்கெட்"
+
+msgid "All tickets are assigned."
+msgstr "அனைத்து டிக்கெட்டுகளும் ஒதுக்கப்பட்டுள்ளன"
+
+msgid "task in progress"
+msgstr "பணி முன்னேற்றம்"
+
+msgid "Database"
+msgstr "டேட்டாபேஸ்"
+
+msgid "Used"
+msgstr "பயன்படுத்திய"
+
+msgid "%s results"
+msgstr "%s முடிவுகள்"
+
+msgid "Redirects"
+msgstr "முன்னோக்கிய"
+
+msgid "Subscribe to the newsletter"
+msgstr "செய்திமடலுக்கு சந்தாதாரர்"
+
+msgid "Purge"
+msgstr "களையெடுப்பு"
+
+msgid "Valuation methods"
+msgstr "மதிப்பீட்டு முறை"
+
+msgid "Rebuild cost"
+msgstr "கரையோர மீட்டெடுப்பு"
+
+msgid "Capitalization"
+msgstr "முதலாக்கத்தில்"
+
+msgid "Comparative market analysis"
+msgstr "ஒப்பீட்டு சந்தை பகுப்பாய்வு"
+
+msgid "An average of"
+msgstr "சராசரியாக"
+
+msgid "Your own valuation"
+msgstr "உங்கள் சொந்த மதிப்பீடு"
+
+msgid "Desired profitability"
+msgstr "விரும்பிய லாபம்"
+
+msgid "Taxes and/or fees"
+msgstr "வரி மற்றும் / அல்லது கட்டணம்"
+
+msgid "Year of purchase"
+msgstr "கொள்முதல் ஆண்டு"
+
+msgid "Rental income"
+msgstr "வாடகை வருமானம்"
+
+msgid "Price of purchase"
+msgstr "கொள்முதல் விலை"
+
+msgid "Land price"
+msgstr "நிலம் விலை"
+
+msgid "Cost of construction"
+msgstr "கட்டுமான செலவு"
+
+msgid "Interior fittings"
+msgstr "உள்துறை பொருத்துதல்கள்"
+
+msgid "Landscaping"
+msgstr "இயற்கையை ரசித்தல்"
+
+msgid "Decrepitude"
+msgstr "பலவீன நிலை"
+
+msgid "Capital losses"
+msgstr "மூலதன இழப்புகள்"
+
+msgid "Capital gains"
+msgstr "முதலீட்டு வரவுகள்"
+
+msgid "Your mailbox has exceeded the storage limit (%s)"
+msgstr "உங்கள் அஞ்சல் பெட்டி (%s) சேமிப்பு வரம்பை  ஐ மீறியுள்ளது"
+
+msgid "Your mailbox will reach the storage limit"
+msgstr "உங்கள் அஞ்சல் பெட்டி சேமிப்பு வரம்பை எட்டும்"
+
+msgid "Sort by"
+msgstr "வரிசைப்படுத்து"
+
+msgid "Condominium in difficulty"
+msgstr "காண்டோமினியம் சிரமம்"
+
+msgid "Back to the list"
+msgstr "பட்டியலுக்கு திரும்புக"
+
+msgid "Previous listing"
+msgstr "முந்தைய பட்டியல்"
+
+msgid "Next listing"
+msgstr "அடுத்த பட்டியல்"
+
+msgid "empty"
+msgstr "காலியாக"
+
+msgid "Filename"
+msgstr "கோப்பு பெயர்"
+
+msgid "Keyword"
+msgstr "முக்கிய"
+
+msgid "Values"
+msgstr "மதிப்புகள்"
+
+msgid "New feed"
+msgstr "புதிய ஊட்டம்"
+
+msgid "Errors"
+msgstr "பிழைகள்"
+
+msgid "Error"
+msgstr "பிழை"
+
+msgid "Erase"
+msgstr "அழிக்கவும்"
+
+msgid "Erase all"
+msgstr "அனைத்தையும் அழிக்கவும்"
+
+msgid "Try"
+msgstr "முயற்சி"
+
+msgid "Query"
+msgstr "கேள்வி"
+
+msgid "Agency fees payable by vendor"
+msgstr "விற்பனையாளரின் கட்டணம்"
+
+msgid "Agency fees payable by buyer"
+msgstr "வாங்குபவரின் கட்டணம்"
+
+msgid "Condominium fees"
+msgstr "காண்டோமினியம் கட்டணம்"
+
+msgid "An error occurred"
+msgstr "பிழை ஏற்பட்டது"
+
+msgid "Successful subscription"
+msgstr "வெற்றிகரமான சந்தா"
+
+msgid "Created date"
+msgstr "தேதி உருவாக்கப்பட்டது"
+
+msgid "Updated date"
+msgstr "புதுப்பிக்கப்பட்ட தேதி"
+
+msgid "Back to homepage"
+msgstr "முகப்புப்பக்கம் திரும்பவும்"
+
+msgid "Price min"
+msgstr "விலை குறைந்தது"
+
+msgid "Price max"
+msgstr "விலை அதிகபட்சம்"
+
+msgid "Bedroom min"
+msgstr "படுக்கையறை குறைந்தபட்சம்"
+
+msgid "Bedroom max"
+msgstr "படுக்கையறை அதிகபட்சம்"
+
+msgid "Room min"
+msgstr "அறை குறைந்தபட்சம்"
+
+msgid "Room max"
+msgstr "அறை அதிகபட்சம்"
+
+msgid "Agency rate"
+msgstr "முகவர் விகிதம்"
+
+msgid "Tenant's commission"
+msgstr "குத்தகைதாரர் விற்பனை பங்கு"
+
+msgid "Fees included"
+msgstr "கட்டணம் சேர்க்கப்பட்டுள்ளது"
+
+msgid "Provision on recoverable fees"
+msgstr "மீளக்கூடிய கட்டணங்கள்"
+
+msgid "Never"
+msgstr "ஒருபோதும்"
+
+msgid "Remaining credits"
+msgstr "வரவிருக்கும் வரவுகள்"
+
+msgid "Buy credits"
+msgstr "வரவுகளை வாங்கவும்"
+
+msgid "%s credits"
+msgstr "%s வரவு"
+
+msgid "Transaction fees"
+msgstr "பரிவர்த்தனை கட்டணம்"
+
+msgid "View property"
+msgstr "சொத்து காண்க"
+
+msgid "lots available"
+msgstr "தொகுப்பு கிடைக்கும்"
+
+msgid "Area min"
+msgstr "பகுதி குறைந்தபட்சம்"
+
+msgid "Search a property"
+msgstr "ஒரு சொத்து தேட"
+
+msgid "International"
+msgstr "சர்வதேச"
+
+msgid "Unsubscribe"
+msgstr "குழுவிலகலைப்"
+
+msgid "The property will not be published because it is in group « %s »"
+msgstr "சொத்து << %s >> குழுவில் இருப்பதால், சொத்து வெளியிடப்படாது"
+
+msgid "%s month"
+msgstr "%s மாதம்"
+
+msgid "%s months"
+msgstr "%s மாதங்கள்"
+
+msgid "No action after"
+msgstr "பிறகு எந்த நடவடிக்கையும் இல்லை"
+
+msgid "%s pending delete"
+msgstr "%s நிலுவையில் நீக்கப்பட்டன"
+
+msgid "Pending delete"
+msgstr "நீக்குதல் நீக்கப்பட்டது"
+
+msgid "%s to delete"
+msgstr "%s நீக்க"
+
+msgid "Unsubscribed"
+msgstr "குழுவிலக்கப்பட்ட"
+
+msgid "Edit my search"
+msgstr "என் தேடலைத் திருத்தவும்"
+
+msgid "Activate my search"
+msgstr "என் தேடலை இயக்கு"
+
+msgid "Cancel my search"
+msgstr "என் தேடலை ரத்துசெய்"
+
+msgid "Only authorized properties"
+msgstr "அங்கீகரிக்கப்பட்ட பண்புகள் மட்டுமே"
+
+msgid "Another currency"
+msgstr "மற்றொரு நாணயம்"
+
+msgid "Enter the first 6 digits"
+msgstr "முதல் 6 இலக்கங்களை உள்ளிடவும்"
+
+msgid ""
+"Without action on your part, your contact will be deleted before the %s."
+msgstr ""
+"உங்கள் பகுதியிலுள்ள நடவடிக்கை இல்லாமல், உங்கள் தொடர்பு %s க்கு முன்பு "
+"நீக்கப்படும்"
+
+msgid "No procedure in progress"
+msgstr "முன்னேற்றம் இல்லை"
+
+msgid "Procedure in progress"
+msgstr "செயல்முறை முன்னேற்றம்"
+
+msgid "Number of lots in the condominium"
+msgstr "காண்டோமினியத்தில் உள்ள செட் எண்ணிக்கை"
+
+msgid "Network authorized"
+msgstr "பிணையம் அங்கீகரிக்கப்பட்டது"
+
+msgid "Renew the lease"
+msgstr "குத்தகை புதுப்பிக்கவும்"
+
+msgid "Remove at"
+msgstr "அகற்றவும்"
+
+msgid "External action"
+msgstr "வெளிப்புற நடவடிக்கை"
+
+msgid ""
+"The migration of your prospect into a request will allow you to make "
+"matching and proposals with a better tracking."
+msgstr ""
+"உங்கள் கோரிக்கையை உங்கள் எதிர்பார்ப்பின் இடம்பெயர்வு நீங்கள் சிறந்த "
+"கண்காணிப்புடன் பொருத்தமான மற்றும் பரிந்துரைகளை செய்ய அனுமதிக்கும்"
+
+msgid "Floors"
+msgstr "மாடிகள்"
+
+msgid "Job"
+msgstr "வேலை"
+
+msgid "Unsuscribe from this list"
+msgstr "இந்த பட்டியலில் இருந்து விலக்கு"
+
+msgid "Entry"
+msgstr "நுழைவு"
+
+msgid "Networks"
+msgstr "நெட்வொர்க்ஸ்"
+
+msgid "Secured"
+msgstr "பாதுகாக்கப்பட்டது"
+
+msgid "Opacity"
+msgstr "தன்மை"
+
+msgid "Left"
+msgstr "இடது"
+
+msgid "Top"
+msgstr "மேல்"
+
+msgid "Relative to the last element"
+msgstr "கடந்த உறுப்புக்கு உறவினர்"
+
+msgid "Alignment"
+msgstr "சீரமைப்பு"
+
+msgid "Border size"
+msgstr "எல்லை அளவு"
+
+msgid "Border color"
+msgstr "வண்ணம் எல்லை"
+
+msgid "Size of the internal margin"
+msgstr "உள் விளிம்பு அளவு"
+
+msgid "Font color"
+msgstr "எழுத்துரு வண்ணம்"
+
+msgid "Font size"
+msgstr "எழுத்துரு அளவு"
+
+msgid "Background color"
+msgstr "பின்னணி வண்ணம்"
+
+msgid "Custom image"
+msgstr "தனிப்பயன் படம்"
+
+msgid "Right"
+msgstr "வலது"
+
+msgid "Center"
+msgstr "மையம்"
+
+msgid "Justified"
+msgstr "ஓரச்சீரமைக்கப்பட்டது"
+
+msgid "Transparency"
+msgstr "வெளிப்படைத்தன்மை"
+
+msgid "Line height"
+msgstr "வரி உயரம்"
+
+msgid "Uppercase"
+msgstr "பெரெழுத்து"
+
+msgid "Price proposal"
+msgstr "விலை திட்டம்"
+
+msgid "Template"
+msgstr "டெம்ப்ளேட்"
+
+msgid "Publication date"
+msgstr "வெளியீட்டு தேதி"
+
+msgid "Recovered at"
+msgstr "மீட்கப்பட்டது"
+
+msgid "Allow all"
+msgstr "அனைத்தையும் அனுமதி"
+
+msgid "Private position is not set, click here to update."
+msgstr "தனிப்பட்ட நிலை அமைக்கப்படவில்லை, புதுப்பிக்க இங்கே கிளிக் செய்யவும்."
+
+msgid "Public position is not set, click here to update."
+msgstr "பொது நிலை அமைக்கப்படவில்லை, புதுப்பிக்க இங்கே கிளிக் செய்யவும்."
+
+msgid ""
+"Please use this link to subscribe to your calendar from a software or a "
+"device:"
+msgstr ""
+"மென்பொருள் அல்லது சாதனத்திலிருந்து உங்கள் காலெண்டரைப் பதிவு செய்ய இந்த "
+"இணைப்பைப் பயன்படுத்தவும்:"
+
+msgid "Activate"
+msgstr "செயல்படுத்த"
+
+msgid "Disable"
+msgstr "முடக்கு"
+
+msgid "Block"
+msgstr "பிளாக்"
+
+msgid "Unblock"
+msgstr "விடுவி"
+
+msgid "Area max"
+msgstr "அதிகபட்ச பகுதி"
+
+msgid "Plot of land area min"
+msgstr "குறைந்த நிலப்பகுதி"
+
+msgid "Plot of land area max"
+msgstr "அதிகபட்ச நிலம் பகுதி"
+
+msgid "Date descending"
+msgstr "இறங்கு எண்ணிக்கை"
+
+msgid "Date ascending"
+msgstr "ஏறுவரிசை தேதி"
+
+msgid "Price descending"
+msgstr "விலை இறங்குகிறது"
+
+msgid "Price ascending"
+msgstr "விலை ஏறுவரிசை"
+
+msgid "Construction method"
+msgstr "கட்டுமான முறை"
+
+msgid "Tax code"
+msgstr "வரி குறியீடு"
+
+msgid "Downsides"
+msgstr "அனுகூலமற்ற"
+
+msgid "Assets"
+msgstr "அனுகூல"
+
+msgid "Please select a district from the list:"
+msgstr "பட்டியலில் இருந்து ஒரு மாவட்டத்தைத் தேர்ந்தெடுக்கவும்:"
+
+msgid "Non-flood zone"
+msgstr "வெள்ளம் அல்லாத மண்டலம்"
+
+msgid "Potential flood zone"
+msgstr "சாத்தியமான வெள்ளப் பகுதி"
+
+msgid "Recognized flood zone"
+msgstr "அங்கீகாரம் பெற்ற வெள்ளப் பகுதி"
+
+msgid "Delimited flood zone"
+msgstr "வெள்ளத்தால் பாதிக்கப்பட்ட பகுதி"
+
+msgid "Cadastre"
+msgstr "காணியளவீடு"
+
+msgid "Delimited waterside zone"
+msgstr "நீரிழிவு மண்டலம்"
+
+msgid "Potential flood zone in a delimited waterside zone"
+msgstr "ஒரு பிளவுபட்ட கடலோர மண்டலத்தில் சாத்தியமான வெள்ளப் பகுதி"
+
+msgid "Potential flood zone in a delimited flood zone"
+msgstr "பிளவுபட்ட வெள்ள மண்டலத்தில் சாத்தியமான வெள்ளப் பகுதி"
+
+msgid "Recognized flood zone in a delimited waterside zone"
+msgstr "ஒரு பிளவுபட்ட கடலோர மண்டலத்தில் வெள்ள அபாயம் அங்கீகாரம் பெற்றது"
+
+msgid "Recognized flood zone in a delimited flood zone"
+msgstr "வெள்ளத்தால் பாதிக்கப்பட்ட வெள்ளப் பகுதி மண்டலம் கண்டறியப்பட்டது"
+
+msgid "Profile"
+msgstr "விவரம்"
+
+msgid "Export"
+msgstr "ஏற்றுமதி"
+
+msgid "Quota"
+msgstr "ஒதுக்கீடு"
+
+msgid "Logs"
+msgstr "பதிவுகள்"
+
+msgid "Document"
+msgstr "ஆவணம்"
+
+msgid "Partner"
+msgstr "பங்குதாரர்"
+
+msgid "Signage"
+msgstr "குறிப்பான்"
+
+msgid "Set up at"
+msgstr "அமைக்கப்பட்டது"
+
+msgid "Forecast"
+msgstr "முன்அறிவிப்பு"
+
+msgid "Area ascending"
+msgstr "பகுதி ஏறுவரிசை"
+
+msgid "Area descending"
+msgstr "பகுதி இறங்குகிறது"
+
+msgid "%s awaiting review(s)"
+msgstr "%s ஆய்வு (கள்) காத்திருக்கிறது"
+
+msgid "To review"
+msgstr "பரிசீலிக்க"
+
+msgid "Net seller"
+msgstr "நிகர விற்பனையாளர்"
+
+msgid "Price displayed"
+msgstr "விலை காட்டப்பட்டது"
+
+msgid "Rental price"
+msgstr "வாடகை விலை"
+
+msgid "Listed price: %s, exchange rates are indicative."
+msgstr "பட்டியலிடப்பட்ட விலை: %s , மாற்று விகிதங்கள் குறிக்கின்றன"
+
+msgid "%s unit"
+msgstr "%s அலகு"
+
+msgid "Not suggested"
+msgstr "பரிந்துரைக்கப்படவில்லை"
+
+msgid "%s guest"
+msgstr "%s விருந்தினர்கள்"
+
+msgid "%s bed"
+msgstr "%s படுக்கைகள்"
+
+msgid "%s bathroom"
+msgstr "%s குளியலறை"
+
+msgid "%s bathrooms"
+msgstr "%s குளியலறைகள்"
+
+msgid "Professionals"
+msgstr "தொழில்முறை"
+
+msgid "Toilet"
+msgstr "சிறுநீர் கழிக்கும்"
+
+msgid "Help"
+msgstr "உதவி"
+
+msgid "Show pagination"
+msgstr "பக்கப்பட்டியல் காட்டு"
+
+msgid "Mandatory fields"
+msgstr "கட்டாய புலங்கள்"
+
+msgid "Available soon"
+msgstr "கூடிய விரைவில் கிடைக்கும்"
+
+msgid "HD Photo"
+msgstr "HD Photo"
+
+#, fuzzy
+msgid "Contract end at"
+msgstr ""
+"#-#-#-#-#  apimo-ta_IN.po  #-#-#-#-#\n"
+"உறுதியாகும் நாள்\n"
+"#-#-#-#-#  apimo-ta_IN.po  #-#-#-#-#\n"
+"ஒப்பந்தம் முடிவடையும் தேதி"
+
+msgid "Incomplete"
+msgstr "முடிவில்லாத"
+
+msgid "Location Map"
+msgstr "இடத்தின் வரைபடம்"
+
+msgid "User Detail"
+msgstr "பயனர் விவரங்கள்"
+
+msgid "File size"
+msgstr "கோப்பின் அளவு"
+
+msgid "File title"
+msgstr "கோப்பு தலைப்பு"
+
+msgid "Region"
+msgstr "பிராந்தியம்"
+
+msgid "Bath"
+msgstr "குளியலறை"
+
+msgid "Private Negotiation"
+msgstr "தனிப்பட்ட பேச்சுவார்த்தை"
+
+msgid "Property specifications"
+msgstr "சொத்து விவரக்குறிப்புகள்"
+
+msgid "Energy performance"
+msgstr "ஆற்றல் செயல்திறன்"
+
+msgid "Media Details"
+msgstr "ஊடக விவரங்கள்"
+
+msgid "View Video"
+msgstr "வீடியோவை காண்க"
+
+msgid "Start Date"
+msgstr "தொடக்க தேதி"
+
+msgid "End Date"
+msgstr "முடிவு தேதி"
+
+msgid "Welcome"
+msgstr "வரவேற்கிறேன்"
+
+msgid "See What’s happening with Apimo Plugin."
+msgstr "Apimo பிளகினுடன் என்ன நடக்கிறது என்பதை பார்க்கவும்."
+
+msgid "PROVIDERS"
+msgstr "வழங்குநர்கள்"
+
+msgid "AGENCIES"
+msgstr "முகவர்கள்"
+
+msgid "PROPERTIES"
+msgstr "சொத்துக்கள்"
+
+msgid "BOOKMARK"
+msgstr "புக்மார்க்"
+
+msgid "Remove all"
+msgstr "அனைத்தையும் அகற்று"
+
+msgid "Apply filter"
+msgstr "வடிப்பானை பயன்படுத்தவும்"
+
+msgid "Select Subtype"
+msgstr "உபவகையைத் தேர்ந்தெடுக்கவும்"
+
+msgid "Enchère"
+msgstr "வர்த்தக நிகழ்வு"
+
+msgid "Location"
+msgstr "வாடகை"
+
+msgid "Location saisonnière"
+msgstr "முகப்புத்தக வாடகை"
+
+msgid "From"
+msgstr ""
+
+msgid "To"
+msgstr ""
+
+msgid "Dates"
+msgstr ""
+
+msgid "Select country"
+msgstr ""
+
+msgid "Select region"
+msgstr ""
+
+msgid "Select district"
+msgstr ""
+
+msgid "Select city"
+msgstr ""
+
+msgid "Good"
+msgstr "நல்லது"
+
+msgid "Bad"
+msgstr "மோசமான"
+
+msgid "hello"
+msgstr "வணக்கம்"
+
+msgid "Available Integrations"
+msgstr "கிடைக்கும் ஒருங்கிணைப்புகள்"
+
+msgid "reCAPTCHA Detected"
+msgstr "recaptcha கண்டறியப்பட்டது"
+
+msgid "reCAPTCHA Not Detected"
+msgstr "recaptcha கண்டறியப்படவில்லை"
+
+msgid "Google reCAPTCHA Integration"
+msgstr "கூகிள் ரெக்காப்ட்சா ஒருங்கிணைப்பு"
+
+msgid ""
+"Protect your forms from spam and abuse with Google reCAPTCHA integration."
+msgstr ""
+"கூகிள் ரெக்காப்ட்சா ஒருங்கிணைப்புடன் ஸ்பேம் மற்றும் துஷ்பிரயோகத்திலிருந்து "
+"உங்கள் படிவங்களைப் பாதுகாக்கவும்."
+
+msgid "Activate Integration"
+msgstr "ஒருங்கிணைப்பை செயல்படுத்தவும்"
+
+msgid "Deactivate Integration"
+msgstr "ஒருங்கிணைப்பை செயலிழக்கச் செய்யுங்கள்"
+
+msgid "reCAPTCHA Configuration"
+msgstr "Recaptcha உள்ளமைவு"
+
+msgid "Please configure your reCAPTCHA keys below to complete the setup."
+msgstr "அமைப்பை முடிக்க கீழே உள்ள உங்கள் ரெக்காப்ட்சா விசைகளை உள்ளமைக்கவும்."
+
+msgid "To complete the reCAPTCHA setup:"
+msgstr "ரெக்காப்ட்சா அமைப்பை முடிக்க:"
+
+msgid "Go to the"
+msgstr "செல்லுங்கள்"
+
+msgid "Google reCAPTCHA Admin Console"
+msgstr "கூகிள் ரெக்காப்ட்சா நிர்வாக கன்சோல்"
+
+msgid "Register your site and get your Site Key and Secret Key"
+msgstr ""
+"உங்கள் தளத்தை பதிவுசெய்து உங்கள் தள விசை மற்றும் ரகசிய விசையைப் பெறுங்கள்"
+
+msgid "Enter the keys below to activate reCAPTCHA"
+msgstr "ரெக்காப்ட்சாவை செயல்படுத்த கீழே உள்ள விசைகளை உள்ளிடவும்"
+
+msgid "reCAPTCHA is configured properly."
+msgstr "Recaptcha சரியாக கட்டமைக்கப்பட்டுள்ளது."
+
+msgid "Site Key"
+msgstr "தள விசை"
+
+msgid "Secret Key"
+msgstr "ரகசிய விசை"
+
+msgid "Save Configuration"
+msgstr "உள்ளமைவைச் சேமிக்கவும்"
+
+msgid "Contact Form"
+msgstr "தொடர்பு படிவம்"
+
+msgid "Invalid format"
+msgstr "தவறான வடிவம்"
+
+msgid "This field is required"
+msgstr "இந்த புலம் தேவை"
+
+msgid "Invalid email format"
+msgstr "தவறான மின்னஞ்சல் வடிவம்"
+
+msgid "Please use reCAPTCHA version 3"
+msgstr "ரெக்காப்ட்சா பதிப்பு 3 ஐப் பயன்படுத்தவும்"

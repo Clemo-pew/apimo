@@ -1,0 +1,6655 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: el_GR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.1\n"
+
+msgid "Reminder"
+msgstr "Υπενθύμιση"
+
+msgid "Suggestion"
+msgstr "Πρόταση"
+
+msgid "Report"
+msgstr "Αναφορά"
+
+#, fuzzy
+msgid "Other"
+msgstr ""
+"#-#-#-#-#  apimo-el_GR.po  #-#-#-#-#\n"
+"Άλλα\n"
+"#-#-#-#-#  apimo-el_GR.po  #-#-#-#-#\n"
+"Άλλα\n"
+"#-#-#-#-#  apimo-el_GR.po  #-#-#-#-#\n"
+"Άλλο\n"
+"#-#-#-#-#  apimo-el_GR.po  #-#-#-#-#\n"
+"Άλλο\n"
+"#-#-#-#-#  apimo-el_GR.po  #-#-#-#-#\n"
+"Άλλο\n"
+"#-#-#-#-#  apimo-el_GR.po  #-#-#-#-#\n"
+"Άλλο"
+
+#, fuzzy
+msgid "Valuation"
+msgstr ""
+"#-#-#-#-#  apimo-el_GR.po  #-#-#-#-#\n"
+"Εκτίμηση\n"
+"#-#-#-#-#  apimo-el_GR.po  #-#-#-#-#\n"
+"Εκτίμηση\n"
+"#-#-#-#-#  apimo-el_GR.po  #-#-#-#-#\n"
+"Αποτίμηση"
+
+msgid "Advertising"
+msgstr "Διαφήμιση"
+
+msgid "Open House"
+msgstr "Ανοικτή Βουλή"
+
+#, fuzzy
+msgid "Canvassing"
+msgstr ""
+"#-#-#-#-#  apimo-el_GR.po  #-#-#-#-#\n"
+"Εξέταση\n"
+"#-#-#-#-#  apimo-el_GR.po  #-#-#-#-#\n"
+"Διαβούλευση"
+
+msgid "Message"
+msgstr "Μήνυμα"
+
+msgid "After-sales"
+msgstr "Μετά την πώληση"
+
+msgid "Virtual tour"
+msgstr "Εικονική περιήγηση"
+
+msgid "Visit"
+msgstr "Επίσκεψη - Περιήγηση"
+
+msgid "Survey"
+msgstr "Έρευνα"
+
+msgid "Appointment"
+msgstr "Ραντεβού"
+
+msgid "Phone"
+msgstr "Τηλέφωνο"
+
+msgid "e-mail"
+msgstr "e-mail"
+
+msgid "Fax"
+msgstr "Φαξ"
+
+#, fuzzy
+msgid "Mail"
+msgstr ""
+"#-#-#-#-#  apimo-el_GR.po  #-#-#-#-#\n"
+"Ταχυδρομείο\n"
+"#-#-#-#-#  apimo-el_GR.po  #-#-#-#-#\n"
+"Mail"
+
+msgid "SMS"
+msgstr "SMS"
+
+msgid "Walk-in"
+msgstr "Walk-in"
+
+msgid "Extranet"
+msgstr "Extranet"
+
+msgid "Reservation"
+msgstr "Κράτηση"
+
+#, fuzzy
+msgid "Signed"
+msgstr ""
+"#-#-#-#-#  apimo-el_GR.po  #-#-#-#-#\n"
+"Υπογεγραμμένο\n"
+"#-#-#-#-#  apimo-el_GR.po  #-#-#-#-#\n"
+"Υπογραφή"
+
+msgid "Canceled"
+msgstr "Ακυρώθηκε"
+
+msgid "Closed"
+msgstr "Κλειστό"
+
+msgid "Transaction"
+msgstr "Συναλλαγή"
+
+msgid "Rental management"
+msgstr "Διαχείριση ενοικίασης"
+
+msgid "Search"
+msgstr "Αναζήτηση"
+
+msgid "Caution"
+msgstr "Προσοχή"
+
+msgid "Project"
+msgstr "Έργο"
+
+msgid "Under construction"
+msgstr "Υπό κατασκευή"
+
+msgid "Delivered"
+msgstr "Παραδόθηκε"
+
+msgid "Ended"
+msgstr "Ολοκληρώθηκε"
+
+msgid "Mr."
+msgstr "Ο κ."
+
+msgid "Mrs."
+msgstr "Mrs."
+
+msgid "Ms."
+msgstr "Κα."
+
+msgid "Mr. & Mrs."
+msgstr "κ. & κα."
+
+msgid "Sheik"
+msgstr "Sheik"
+
+msgid "Duke"
+msgstr "Duke"
+
+msgid "Duchess"
+msgstr "Δούκισσα"
+
+msgid "Lord"
+msgstr "Λόρδος"
+
+msgid "Maître"
+msgstr "Maître"
+
+msgid "Professor"
+msgstr "Καθηγητής"
+
+msgid "Sir"
+msgstr "Sir"
+
+msgid "Engineer"
+msgstr "Μηχανικός"
+
+msgid "Notary"
+msgstr "Συμβολαιογράφος"
+
+msgid "Accountant"
+msgstr "Λογιστής"
+
+msgid "Colonel"
+msgstr "Συνταγματάρχης"
+
+msgid "Architetto"
+msgstr "Architetto"
+
+msgid "Plan"
+msgstr "Σχέδιο"
+
+msgid "Identity papers"
+msgstr "Έγγραφα ταυτότητας"
+
+msgid "Diagnostics"
+msgstr "Διαγνωστικά"
+
+msgid "Agreement"
+msgstr "Συμφωνία"
+
+msgid "Contract"
+msgstr "Σύμβαση"
+
+msgid "Condominium"
+msgstr "Συγκυριαρχία"
+
+msgid "Maintenance"
+msgstr "Συντήρηση"
+
+#, fuzzy
+msgid "Appraisal"
+msgstr ""
+"#-#-#-#-#  apimo-el_GR.po  #-#-#-#-#\n"
+"Εκτίμηση\n"
+"#-#-#-#-#  apimo-el_GR.po  #-#-#-#-#\n"
+"Αξιολόγηση\n"
+"#-#-#-#-#  apimo-el_GR.po  #-#-#-#-#\n"
+"Αξιολόγηση"
+
+msgid "Brochure"
+msgstr "Φυλλάδιο"
+
+msgid "Invoice"
+msgstr "Τιμολόγιο"
+
+msgid "Lease"
+msgstr "Μίσθωση"
+
+msgid "Inventory"
+msgstr "Απογραφή"
+
+msgid "Title deeds"
+msgstr "Τίτλος ιδιοκτησίας"
+
+msgid "Application"
+msgstr "Αίτηση"
+
+#, fuzzy
+msgid "Regulations"
+msgstr ""
+"#-#-#-#-#  apimo-el_GR.po  #-#-#-#-#\n"
+"Κανονισμοί\n"
+"#-#-#-#-#  apimo-el_GR.po  #-#-#-#-#\n"
+"Κανονισμός"
+
+msgid "AML/KYC Vendor"
+msgstr "AML/KYC Vendor"
+
+msgid "AML/KYC Buyer"
+msgstr "AML/KYC Buyer"
+
+#, fuzzy
+msgid "Electricity"
+msgstr ""
+"#-#-#-#-#  apimo-el_GR.po  #-#-#-#-#\n"
+"Ηλεκτρική ενέργεια\n"
+"#-#-#-#-#  apimo-el_GR.po  #-#-#-#-#\n"
+"Ηλεκτρισμός\n"
+"#-#-#-#-#  apimo-el_GR.po  #-#-#-#-#\n"
+"Ηλεκτρισμός"
+
+msgid "Water"
+msgstr "Νερό"
+
+msgid "Maintenance of common areas"
+msgstr "Συντήρηση κοινόχρηστων χώρων"
+
+msgid "Waste collection"
+msgstr "Συλλογή απορριμμάτων"
+
+msgid "Heating"
+msgstr "Θέρμανση"
+
+msgid "Hot water"
+msgstr "Ζεστό νερό"
+
+msgid "Concierge"
+msgstr "Θυρωρός"
+
+msgid "Chimney-sweeping"
+msgstr "Καθαρισμός καμινάδας"
+
+#, fuzzy
+msgid "Sanitation"
+msgstr ""
+"#-#-#-#-#  apimo-el_GR.po  #-#-#-#-#\n"
+"Καθαριότητα\n"
+"#-#-#-#-#  apimo-el_GR.po  #-#-#-#-#\n"
+"Αποχέτευση\n"
+"#-#-#-#-#  apimo-el_GR.po  #-#-#-#-#\n"
+"Αποχέτευση"
+
+msgid "Household waste tax"
+msgstr "Φόρος οικιακών απορριμμάτων"
+
+msgid "Contact"
+msgstr "Επικοινωνία"
+
+msgid "Owner"
+msgstr "Ιδιοκτήτης"
+
+msgid "e-mail alert"
+msgstr "ειδοποίηση μέσω e-mail"
+
+msgid "Send to a friend"
+msgstr "Στείλτε σε ένα φίλο"
+
+msgid "Newsletter"
+msgstr "Ενημερωτικό δελτίο"
+
+msgid "Selection"
+msgstr "Επιλογή"
+
+#, fuzzy
+msgid "New"
+msgstr ""
+"#-#-#-#-#  apimo-el_GR.po  #-#-#-#-#\n"
+"Νέα\n"
+"#-#-#-#-#  apimo-el_GR.po  #-#-#-#-#\n"
+"Νέα\n"
+"#-#-#-#-#  apimo-el_GR.po  #-#-#-#-#\n"
+"Νέο"
+
+msgid "Opened"
+msgstr "Άνοιξε"
+
+msgid "Processing"
+msgstr "Επεξεργασία"
+
+msgid "Self-employed"
+msgstr "Αυτοαπασχολούμενος"
+
+msgid "Bakery"
+msgstr "Αρτοποιείο"
+
+msgid "Restaurant"
+msgstr "Εστιατόριο"
+
+msgid "Press"
+msgstr "Τύπος"
+
+msgid "Bar"
+msgstr "Μπαρ"
+
+msgid "Florist"
+msgstr "Ανθοπωλείο"
+
+msgid "Tobacconist"
+msgstr "Καπνοπωλείο"
+
+msgid "Clothes"
+msgstr "Ρούχα"
+
+msgid "Chemist"
+msgstr "Χημείο"
+
+msgid "Shopping centre"
+msgstr "Εμπορικό κέντρο"
+
+msgid "Travel agency"
+msgstr "Ταξιδιωτικό γραφείο"
+
+msgid "Real estate agent"
+msgstr "Μεσίτης ακινήτων"
+
+msgid "Gallery"
+msgstr "Γκαλερί"
+
+msgid "Garage"
+msgstr "Γκαράζ"
+
+msgid "Insurer"
+msgstr "Ασφαλιστής"
+
+msgid "Optician"
+msgstr "Οπτικός"
+
+msgid "Perfumery"
+msgstr "Αρωματοποιείο"
+
+msgid "Hotel"
+msgstr "Ξενοδοχείο"
+
+msgid "Antique dealer"
+msgstr "Έμπορος παλαιών αντικειμένων"
+
+msgid "Laundry"
+msgstr "Πλυντήριο"
+
+msgid "Pressing"
+msgstr "Πρεσάρισμα"
+
+msgid "Jeweller"
+msgstr "Κοσμηματοπωλείο"
+
+msgid "Grocer"
+msgstr "Παντοπώλης"
+
+msgid "Butcher"
+msgstr "Χασάπης"
+
+msgid "Caterer"
+msgstr "Τροφοδότης"
+
+msgid "Brewery"
+msgstr "Ζυθοποιία"
+
+msgid "Snack"
+msgstr "Σνακ"
+
+msgid "Confectioner"
+msgstr "Ζαχαροπλαστείο"
+
+msgid "Pork butcher"
+msgstr "Χοιρινό κρεοπωλείο"
+
+msgid "Grocery"
+msgstr "Παντοπωλείο"
+
+msgid "Cheesemonger"
+msgstr "Τυροκομείο"
+
+msgid "Fruit and vegetables"
+msgstr "Φρούτα και λαχανικά"
+
+msgid "Sex shop"
+msgstr "Σεξοπωλείο"
+
+msgid "Video game"
+msgstr "Βιντεοπαιχνίδι"
+
+msgid "Computer"
+msgstr "Υπολογιστής"
+
+msgid "Hairdresser"
+msgstr "Κομμωτήριο"
+
+msgid "Cosmetician"
+msgstr "Αισθητικός"
+
+msgid "Household electrical"
+msgstr "Οικιακά ηλεκτρικά"
+
+msgid "Shoes"
+msgstr "Παπούτσια"
+
+msgid "Haberdasher"
+msgstr "Κουρέας"
+
+msgid "Groomer"
+msgstr "Καλλωπιστής"
+
+msgid "Tea room"
+msgstr "Αίθουσα τσαγιού"
+
+msgid "Beach"
+msgstr "Παραλία"
+
+msgid "Bookshop"
+msgstr "Βιβλιοπωλείο"
+
+msgid "Offices"
+msgstr "Γραφεία"
+
+msgid "Gas station"
+msgstr "Βενζινάδικο"
+
+msgid "Camping"
+msgstr "Κάμπινγκ"
+
+msgid "Nightclub"
+msgstr "Νυχτερινό κέντρο"
+
+msgid "Pet store"
+msgstr "Κατάστημα κατοικίδιων ζώων"
+
+msgid "Video arcade"
+msgstr "Video arcade"
+
+msgid "Office supplies"
+msgstr "Προμήθειες γραφείου"
+
+msgid "Furniture"
+msgstr "Έπιπλα"
+
+msgid "Decoration"
+msgstr "Διακόσμηση"
+
+msgid "Agriculture"
+msgstr "Γεωργία"
+
+msgid "Photo"
+msgstr "Φωτογραφία"
+
+msgid "Drugstore"
+msgstr "Φαρμακείο"
+
+msgid "Locksmith"
+msgstr "Κλειδαράς"
+
+msgid "Health club"
+msgstr "Health club"
+
+msgid "Taxi"
+msgstr "Ταξί"
+
+#, fuzzy
+msgid "Cinema"
+msgstr ""
+"#-#-#-#-#  apimo-el_GR.po  #-#-#-#-#\n"
+"Κινηματογράφος\n"
+"#-#-#-#-#  apimo-el_GR.po  #-#-#-#-#\n"
+"Κινηματογράφος στο σπίτι"
+
+msgid "Theater"
+msgstr "Θέατρο"
+
+msgid "Café"
+msgstr "Καφέ"
+
+msgid "Garden centre"
+msgstr "Κέντρο κήπου"
+
+msgid "Hardware shop"
+msgstr "Κατάστημα υλικού"
+
+msgid "Fishmongers"
+msgstr "Ψαράδικα"
+
+msgid "Recreation"
+msgstr "Αναψυχή"
+
+msgid "Culture"
+msgstr "Πολιτισμός"
+
+msgid "Funeral"
+msgstr "Κηδεία"
+
+msgid "Agritourism"
+msgstr "Αγροτουρισμός"
+
+msgid "Sport supplies"
+msgstr "Αθλητικές προμήθειες"
+
+msgid "Bedroom"
+msgstr "Υπνοδωμάτιο"
+
+msgid "Living-room"
+msgstr "Σαλόνι"
+
+msgid "Kitchenette"
+msgstr "Κουζίνα"
+
+msgid "Parking"
+msgstr "Χώρος στάθμευσης"
+
+#, fuzzy
+msgid "Cellar"
+msgstr ""
+"#-#-#-#-#  apimo-el_GR.po  #-#-#-#-#\n"
+"Κελάρι\n"
+"#-#-#-#-#  apimo-el_GR.po  #-#-#-#-#\n"
+"Κελάρι με ρίζες"
+
+msgid "Garden shelter"
+msgstr "Καταφύγιο κήπου"
+
+msgid "Bathroom"
+msgstr "Μπάνιο"
+
+msgid "Laundry room"
+msgstr "Πλυντήριο ρούχων"
+
+msgid "Study"
+msgstr "Μελέτη"
+
+msgid "Corridor"
+msgstr "Διάδρομος"
+
+msgid "Shower room"
+msgstr "Ντουζιέρα"
+
+msgid "Closet"
+msgstr "Ντουλάπα"
+
+msgid "Entrance"
+msgstr "Είσοδος"
+
+msgid "Lavatory"
+msgstr "Τουαλέτα"
+
+msgid "Porch"
+msgstr "Βεράντα"
+
+msgid "Solarium"
+msgstr "Σολάριουμ"
+
+msgid "Living room/dining area"
+msgstr "Σαλόνι/τραπεζαρία"
+
+msgid "Play room"
+msgstr "Δωμάτιο παιχνιδιού"
+
+msgid "Dining room"
+msgstr "Τραπεζαρία"
+
+msgid "Pool house"
+msgstr "Σπίτι της πισίνας"
+
+msgid "Cupboard"
+msgstr "Ντουλάπι"
+
+msgid "Not used"
+msgstr "Δεν χρησιμοποιείται"
+
+msgid "Loggia"
+msgstr "Λότζια"
+
+msgid "Loft"
+msgstr "Σοφίτα"
+
+msgid "Mezzanine"
+msgstr "Ημιώροφος"
+
+#, fuzzy
+msgid "Pantry"
+msgstr ""
+"#-#-#-#-#  apimo-el_GR.po  #-#-#-#-#\n"
+"Υπόγειο κελάρι\n"
+"#-#-#-#-#  apimo-el_GR.po  #-#-#-#-#\n"
+"Παντοπωλείο"
+
+msgid "Maintenance room"
+msgstr "Δωμάτιο συντήρησης"
+
+msgid "Workshop"
+msgstr "Εργαστήριο"
+
+msgid "Studio"
+msgstr "Στούντιο"
+
+msgid "Library"
+msgstr "Βιβλιοθήκη"
+
+msgid "Courtyard"
+msgstr "Αυλή"
+
+msgid "Landing"
+msgstr "Landing"
+
+msgid "Linen room"
+msgstr "Δωμάτιο με σεντόνια"
+
+msgid "Basement"
+msgstr "Υπόγειο"
+
+msgid "Bathroom / Lavatory"
+msgstr "Μπάνιο / Τουαλέτα"
+
+msgid "Shower room / Lavatory"
+msgstr "Ντουζιέρα / Τουαλέτα"
+
+msgid "Balcony"
+msgstr "Μπαλκόνι"
+
+msgid "Exercise room"
+msgstr "Δωμάτιο άσκησης"
+
+msgid "Discothèque"
+msgstr "Ντισκοτέκ"
+
+msgid "Home cinema"
+msgstr "Κινηματογράφος στο σπίτι"
+
+msgid "Reception room"
+msgstr "Αίθουσα υποδοχής"
+
+msgid "Warehouse"
+msgstr "Αποθήκη"
+
+msgid "Garden"
+msgstr "Κήπος"
+
+msgid "Park"
+msgstr "Πάρκο"
+
+msgid "Plot"
+msgstr "Οικόπεδο"
+
+msgid "Patio"
+msgstr "Αίθριο"
+
+msgid "Principal bedroom"
+msgstr "Κύριο υπνοδωμάτιο"
+
+msgid "Suite"
+msgstr "Σουίτα"
+
+msgid "Shed"
+msgstr "Υπόστεγο"
+
+msgid "Apartment"
+msgstr "Διαμέρισμα"
+
+msgid "Cabin"
+msgstr "Καμπίνα"
+
+msgid "Barn"
+msgstr "Αχυρώνας"
+
+msgid "Outbuilding"
+msgstr "Κτίριο"
+
+msgid "Bike storage room"
+msgstr "Χώρος αποθήκευσης ποδηλάτων"
+
+msgid "Ski storage room"
+msgstr "Χώρος αποθήκευσης σκι"
+
+msgid "Garbage room"
+msgstr "Δωμάτιο απορριμμάτων"
+
+msgid "Steam room"
+msgstr "Χαμάμ"
+
+msgid "Indoor swimming pool"
+msgstr "Εσωτερική πισίνα"
+
+msgid "Prayer room"
+msgstr "Δωμάτιο προσευχής"
+
+msgid "Sauna"
+msgstr "Σάουνα"
+
+msgid "Watchtower"
+msgstr "Παρατηρητήριο"
+
+msgid "Room"
+msgstr "Δωμάτιο"
+
+msgid "Meeting room"
+msgstr "Αίθουσα συνεδριάσεων"
+
+msgid "Maid's room"
+msgstr "Δωμάτιο καμαριέρας"
+
+msgid "Maid's studio"
+msgstr "Στούντιο καμαριέρας"
+
+msgid "Double reception room"
+msgstr "Διπλή αίθουσα υποδοχής"
+
+msgid "Triple reception room"
+msgstr "Τρίκλινο δωμάτιο υποδοχής"
+
+msgid "Indoor parking"
+msgstr "Εσωτερικός χώρος στάθμευσης"
+
+msgid "Outdoor parking"
+msgstr "Εξωτερικός χώρος στάθμευσης"
+
+msgid "Shop"
+msgstr "Κατάστημα"
+
+msgid "Cafeteria"
+msgstr "Καφετέρια"
+
+msgid "Unit"
+msgstr "Μονάδα"
+
+msgid "Accommodation"
+msgstr "Διαμονή"
+
+msgid "Arcade"
+msgstr "Στοά"
+
+msgid "House"
+msgstr "Σπίτι"
+
+msgid "Stair"
+msgstr "Σκάλα"
+
+msgid "Box"
+msgstr "Κουτί"
+
+msgid "Carnotzet"
+msgstr "Carnotzet"
+
+msgid "Panic room"
+msgstr "Δωμάτιο πανικού"
+
+msgid "Open space"
+msgstr "Ανοιχτός χώρος"
+
+msgid "Hall"
+msgstr "Αίθουσα"
+
+msgid "Living room/kitchen"
+msgstr "Σαλόνι/κουζίνα"
+
+msgid "Summer kitchen"
+msgstr "Καλοκαιρινή κουζίνα"
+
+msgid "Spa"
+msgstr "Spa"
+
+msgid "Boathouse"
+msgstr "Λεμβοστάσιο"
+
+msgid "Eat-in kitchen"
+msgstr "Κουζίνα για φαγητό"
+
+msgid "Equipped kitchen"
+msgstr "Εξοπλισμένη κουζίνα"
+
+msgid "Semi equipped kitchen"
+msgstr "Ημιεξοπλισμένη κουζίνα"
+
+msgid "Corner kitchen"
+msgstr "Γωνιακή κουζίνα"
+
+msgid "Open kitchen"
+msgstr "Ανοιχτή κουζίνα"
+
+msgid "Living/dining/kitchen area"
+msgstr "Καθιστικό/τραπεζαρία/κουζίνα"
+
+msgid "Children's room"
+msgstr "Παιδικό δωμάτιο"
+
+msgid "Locker"
+msgstr "Θυρίδα"
+
+msgid "Lobby"
+msgstr "Λόμπι"
+
+msgid "Accessible toilet"
+msgstr "Προσβάσιμη τουαλέτα"
+
+msgid "Craft workshop"
+msgstr "Εργαστήριο χειροτεχνίας"
+
+msgid "Wine cellar"
+msgstr "Κελάρι κρασιών"
+
+msgid "Single"
+msgstr "Ενιαία"
+
+msgid "Twin"
+msgstr "Δίδυμο"
+
+msgid "Twin by garage"
+msgstr "Δίδυμο από γκαράζ"
+
+#, fuzzy
+msgid "Village house"
+msgstr ""
+"#-#-#-#-#  apimo-el_GR.po  #-#-#-#-#\n"
+"Σπίτι του χωριού\n"
+"#-#-#-#-#  apimo-el_GR.po  #-#-#-#-#\n"
+"Σπίτι στο χωριό"
+
+msgid "Twin by angle"
+msgstr "Δίδυμο από γωνία"
+
+msgid "Ranged"
+msgstr "Ranged"
+
+msgid "Standard"
+msgstr "Πρότυπο"
+
+msgid "Co-exclusive"
+msgstr "Συν- αποκλειστικό"
+
+msgid "Exclusive"
+msgstr "Αποκλειστικό"
+
+msgid "Delegation"
+msgstr "Αντιπροσωπεία"
+
+msgid "Exclusive agent"
+msgstr "Αποκλειστικός πράκτορας"
+
+msgid "Colleague"
+msgstr "Συνάδελφος"
+
+msgid "Verbal"
+msgstr "Προφορική"
+
+#, fuzzy
+msgid "Free"
+msgstr ""
+"#-#-#-#-#  apimo-el_GR.po  #-#-#-#-#\n"
+"Διαθέσιμος\n"
+"#-#-#-#-#  apimo-el_GR.po  #-#-#-#-#\n"
+"Δωρεάν"
+
+msgid "Rented"
+msgstr "Εκμισθωμένο"
+
+msgid "Occupied"
+msgstr "Κατοικημένο"
+
+msgid "To be agreed"
+msgstr "Κατόπιν Συμφωνίας"
+
+msgid "Building"
+msgstr "Κτίριο"
+
+msgid "Residence"
+msgstr "Κατοικία"
+
+msgid "Housing scheme"
+msgstr "Στέγαση"
+
+msgid "Hamlet"
+msgstr "Hamlet"
+
+msgid "Domain"
+msgstr "Τομέας"
+
+#, fuzzy
+msgid "Property"
+msgstr ""
+"#-#-#-#-#  apimo-el_GR.po  #-#-#-#-#\n"
+"Ακίνητα\n"
+"#-#-#-#-#  apimo-el_GR.po  #-#-#-#-#\n"
+"Ακίνητα\n"
+"#-#-#-#-#  apimo-el_GR.po  #-#-#-#-#\n"
+"Ακίνητο"
+
+msgid "Street"
+msgstr "Οδός"
+
+msgid "Sale"
+msgstr "Πώληση"
+
+msgid "Rental"
+msgstr "Ενοικίαση"
+
+msgid "Seasonal rental"
+msgstr "Εποχιακή ενοικίαση"
+
+msgid "Development"
+msgstr "Ανάπτυξη"
+
+#, fuzzy
+msgid "Life annuity"
+msgstr ""
+"#-#-#-#-#  apimo-el_GR.po  #-#-#-#-#\n"
+"Ισόβια προσαύξηση\n"
+"#-#-#-#-#  apimo-el_GR.po  #-#-#-#-#\n"
+"Πρόσοδος ζωής\n"
+"#-#-#-#-#  apimo-el_GR.po  #-#-#-#-#\n"
+"Ισόβια προσαύξηση"
+
+msgid "Auction"
+msgstr "Δημοπρασία"
+
+msgid "Unit sale"
+msgstr "Πώληση μονάδας"
+
+msgid "Bulk sale"
+msgstr "Μαζική πώληση"
+
+msgid "Unfurnished"
+msgstr "Μη επιπλωμένο"
+
+msgid "Furnished"
+msgstr "Επιπλωμένο"
+
+msgid "Roommate"
+msgstr "Συγκάτοικος"
+
+msgid "Student"
+msgstr "Φοιτητής"
+
+msgid "Half furnished"
+msgstr "Μισοεπιπλωμένο"
+
+msgid "Coworking"
+msgstr "Coworking"
+
+msgid "Holidays"
+msgstr "Διακοπές"
+
+msgid "Event"
+msgstr "Εκδήλωση"
+
+msgid "New construction"
+msgstr "Νέα κατασκευή"
+
+msgid "Life annuity occupied"
+msgstr "Ισόβια πρόσοδος κατειλημμένη"
+
+msgid "Bare Ownership"
+msgstr "Γυμνή ιδιοκτησία"
+
+msgid "Forward sale"
+msgstr "Προθεσμιακή πώληση"
+
+msgid "Life annuity semi-occupied"
+msgstr "Ισόβια πρόσοδος μισοκατοικημένη"
+
+msgid "Forward sale available"
+msgstr "Προθεσμιακή πώληση διαθέσιμη"
+
+msgid "Forward sale semi-occupied"
+msgstr "Προθεσμιακή πώληση ημικατεχόμενη"
+
+msgid "Forward sale occupied"
+msgstr "Προώθηση πώλησης κατειλημμένη"
+
+msgid "Life annuity without income"
+msgstr "Πρόσοδος ζωής χωρίς εισόδημα"
+
+msgid "Requires updating"
+msgstr "Απαιτεί ενημέρωση"
+
+msgid "Good condition"
+msgstr "Καλή κατάσταση"
+
+msgid "Requires renovation"
+msgstr "Απαιτεί ανακαίνιση"
+
+msgid "Excellent condition"
+msgstr "Εξαιρετική κατάσταση"
+
+msgid "Timber"
+msgstr "Ξυλεία"
+
+msgid "Engineered wood"
+msgstr "Μηχανική ξυλεία"
+
+msgid "Stone"
+msgstr "Πέτρα"
+
+msgid "Brick"
+msgstr "Τούβλο"
+
+msgid "Cinder block"
+msgstr "Σκυρόδεμα"
+
+msgid "Reinforced concrete"
+msgstr "Οπλισμένο σκυρόδεμα"
+
+msgid "Wood frame"
+msgstr "Ξύλινο πλαίσιο"
+
+msgid "Steel frame"
+msgstr "Χαλύβδινος σκελετός"
+
+msgid "Reinforced concrete frame"
+msgstr "Πλαίσιο από οπλισμένο σκυρόδεμα"
+
+msgid "Shear wall"
+msgstr "Διατμητικός τοίχος"
+
+msgid "Concrete block"
+msgstr "Μπλοκ από σκυρόδεμα"
+
+msgid "Dimension stone"
+msgstr "Πέτρα διαστάσεων"
+
+msgid "Monolith brick"
+msgstr "Μονολιθικό τούβλο"
+
+msgid "Panel"
+msgstr "Πάνελ"
+
+msgid "Metal frame"
+msgstr "Μεταλλικό πλαίσιο"
+
+msgid "Mudbrick"
+msgstr "Λασποπλινθοδομή"
+
+msgid "Aerated concrete"
+msgstr "Αεριοσκυρόδεμα"
+
+msgid "Ground floor"
+msgstr "Ισόγειο"
+
+msgid "Top floor"
+msgstr "Επάνω όροφος"
+
+msgid "1st"
+msgstr "1ος"
+
+msgid "2nd"
+msgstr "2ος"
+
+msgid "3rd"
+msgstr "3ος"
+
+msgid "4th"
+msgstr "4ος"
+
+msgid "5th"
+msgstr "5ος"
+
+msgid "6th"
+msgstr "6η"
+
+msgid "7th"
+msgstr "7η"
+
+msgid "8th"
+msgstr "8η"
+
+msgid "9th"
+msgstr "9η"
+
+msgid "10th"
+msgstr "10η"
+
+msgid "11th"
+msgstr "11η"
+
+msgid "12th"
+msgstr "12η"
+
+msgid "13th"
+msgstr "13ος"
+
+msgid "14th"
+msgstr "14η"
+
+msgid "15th"
+msgstr "15ο"
+
+msgid "16th"
+msgstr "16ο"
+
+msgid "17th"
+msgstr "17ο"
+
+msgid "18th"
+msgstr "18η"
+
+msgid "19th"
+msgstr "19η"
+
+msgid "20th"
+msgstr "20η"
+
+msgid "Garden level"
+msgstr "Επίπεδο κήπου"
+
+msgid "Split-level"
+msgstr "Split-level"
+
+msgid "-1"
+msgstr "-1"
+
+msgid "-2"
+msgstr "-2"
+
+msgid "-3"
+msgstr "-3"
+
+msgid "-4"
+msgstr "-4"
+
+msgid "Single-storey"
+msgstr "Μονοώροφος"
+
+msgid "21st"
+msgstr "21ο"
+
+msgid "22nd"
+msgstr "22ο"
+
+msgid "23rd"
+msgstr "23ο"
+
+msgid "24th"
+msgstr "24ο"
+
+msgid "25th"
+msgstr "25ο"
+
+msgid "26th"
+msgstr "26η"
+
+msgid "27th"
+msgstr "27η"
+
+msgid "28th"
+msgstr "28η"
+
+msgid "29th"
+msgstr "29η"
+
+msgid "30th"
+msgstr "30η"
+
+msgid "31st"
+msgstr "31η"
+
+msgid "32nd"
+msgstr "32η"
+
+msgid "33rd"
+msgstr "33η"
+
+msgid "34th"
+msgstr "34η"
+
+msgid "35th"
+msgstr "35η"
+
+msgid "36th"
+msgstr "36η"
+
+msgid "37th"
+msgstr "37η"
+
+msgid "38th"
+msgstr "38η"
+
+msgid "39th"
+msgstr "39η"
+
+msgid "40th"
+msgstr "40η"
+
+msgid "-5"
+msgstr "-5"
+
+msgid "-6"
+msgstr "-6"
+
+msgid "-7"
+msgstr "-7"
+
+msgid "-8"
+msgstr "-8"
+
+msgid "-9"
+msgstr "-9"
+
+msgid "-10"
+msgstr "-10"
+
+msgid "41st"
+msgstr "41η"
+
+msgid "42nd"
+msgstr "42η"
+
+msgid "43rd"
+msgstr "43η"
+
+msgid "44th"
+msgstr "44η"
+
+msgid "45th"
+msgstr "45η"
+
+msgid "46th"
+msgstr "46η"
+
+msgid "47th"
+msgstr "47η"
+
+msgid "48th"
+msgstr "48η"
+
+msgid "49th"
+msgstr "49η"
+
+msgid "50th"
+msgstr "50η"
+
+msgid "51st"
+msgstr "51η"
+
+msgid "52nd"
+msgstr "52η"
+
+msgid "53rd"
+msgstr "53η"
+
+msgid "54th"
+msgstr "54η"
+
+msgid "55th"
+msgstr "55η"
+
+msgid "56th"
+msgstr "56η"
+
+msgid "57th"
+msgstr "57η"
+
+msgid "58th"
+msgstr "58η"
+
+msgid "59th"
+msgstr "59η"
+
+msgid "60th"
+msgstr "60η"
+
+msgid "Raised"
+msgstr "Αυξημένο"
+
+msgid "61st"
+msgstr "61η"
+
+msgid "62nd"
+msgstr "62η"
+
+msgid "63rd"
+msgstr "63η"
+
+msgid "64th"
+msgstr "64η"
+
+msgid "65th"
+msgstr "65η"
+
+msgid "66th"
+msgstr "66η"
+
+msgid "67th"
+msgstr "67η"
+
+msgid "68th"
+msgstr "68η"
+
+msgid "69th"
+msgstr "69η"
+
+msgid "70th"
+msgstr "70η"
+
+msgid "71st"
+msgstr "71η"
+
+msgid "72nd"
+msgstr "72η"
+
+msgid "73rd"
+msgstr "73η"
+
+msgid "74th"
+msgstr "74η"
+
+msgid "75th"
+msgstr "75η"
+
+msgid "76th"
+msgstr "76η"
+
+msgid "77th"
+msgstr "77η"
+
+msgid "78th"
+msgstr "78η"
+
+msgid "79th"
+msgstr "79η"
+
+msgid "80th"
+msgstr "80η"
+
+msgid "81st"
+msgstr "81η"
+
+msgid "82nd"
+msgstr "82η"
+
+msgid "83rd"
+msgstr "83η"
+
+msgid "84th"
+msgstr "84η"
+
+msgid "85th"
+msgstr "85ο"
+
+msgid "86th"
+msgstr "86η"
+
+msgid "87th"
+msgstr "87ο"
+
+msgid "88th"
+msgstr "88η"
+
+msgid "89th"
+msgstr "89η"
+
+msgid "90th"
+msgstr "90η"
+
+msgid "91st"
+msgstr "91η"
+
+msgid "92nd"
+msgstr "92η"
+
+msgid "93rd"
+msgstr "93η"
+
+msgid "94th"
+msgstr "94ο"
+
+msgid "95th"
+msgstr "95η"
+
+msgid "96th"
+msgstr "96η"
+
+msgid "97th"
+msgstr "97η"
+
+msgid "98th"
+msgstr "98η"
+
+msgid "99th"
+msgstr "99ο"
+
+msgid "100th"
+msgstr "100η"
+
+msgid "Wooden floor"
+msgstr "Ξύλινο πάτωμα"
+
+msgid "Tile"
+msgstr "Πλακάκια"
+
+msgid "Vinyl composition tile"
+msgstr "Πλακάκια βινυλίου"
+
+msgid "Carpet"
+msgstr "Χαλί"
+
+msgid "Concrete"
+msgstr "Σκυρόδεμα"
+
+msgid "Natural fiber"
+msgstr "Φυσικές ίνες"
+
+msgid "Coco"
+msgstr "Coco"
+
+msgid "Travertine"
+msgstr "Τραβερτίνη"
+
+msgid "Marble"
+msgstr "Μάρμαρο"
+
+msgid "Granite"
+msgstr "Γρανίτης"
+
+msgid "Terracotta tile"
+msgstr "Κεραμίδι από τερακότα"
+
+msgid "Teak"
+msgstr "Τικ"
+
+msgid "Mosaïc"
+msgstr "Ψηφιδωτό"
+
+msgid "Clay"
+msgstr "Πηλός"
+
+msgid "Laminate"
+msgstr "Laminate"
+
+msgid "Porcelain stoneware"
+msgstr "Κεραμίδια από πορσελάνη"
+
+msgid "Cement tile"
+msgstr "Κεραμίδι από τσιμέντο"
+
+msgid "Convector"
+msgstr "Convector"
+
+msgid "Underfloor"
+msgstr "Ενδοδαπέδια"
+
+msgid "Radiator"
+msgstr "Θερμαντικό σώμα"
+
+msgid "Stove"
+msgstr "Σόμπα"
+
+msgid "Air-conditioning"
+msgstr "Κλιματισμός"
+
+msgid "Central"
+msgstr "Κεντρικό"
+
+msgid "Without"
+msgstr "Χωρίς"
+
+msgid "Fireplace"
+msgstr "Τζάκι"
+
+msgid "Individual"
+msgstr "Ατομικό"
+
+msgid "Common"
+msgstr "Κοινό"
+
+msgid "Mixed"
+msgstr "Μικτό"
+
+msgid "District heating"
+msgstr "Τηλεθέρμανση"
+
+msgid "Gas"
+msgstr "Αέριο"
+
+msgid "Fuel oil"
+msgstr "Καύσιμο πετρελαίου"
+
+msgid "Electric"
+msgstr "Ηλεκτρικό"
+
+msgid "Wood"
+msgstr "Ξύλο"
+
+msgid "Solar"
+msgstr "Ηλιακό"
+
+msgid "Charcoal"
+msgstr "Κάρβουνο"
+
+msgid "Heat pump"
+msgstr "Αντλία θερμότητας"
+
+msgid "Geothermal"
+msgstr "Γεωθερμία"
+
+msgid "Wood pellet"
+msgstr "Πέλλετ ξύλου"
+
+msgid "Aerothermy"
+msgstr "Αεροθερμία"
+
+msgid "Hot water tank"
+msgstr "Δεξαμενή ζεστού νερού"
+
+msgid "Boiler"
+msgstr "Λέβητας"
+
+msgid "Collective"
+msgstr "Συλλογικό"
+
+msgid "Flat"
+msgstr "Διαμέρισμα"
+
+msgid "Dry-stone wall terraces"
+msgstr "Βεράντες από ξηρούς τοίχους"
+
+msgid "Steep"
+msgstr "Απότομες"
+
+msgid "Wooded"
+msgstr "Δασωμένες"
+
+msgid "Meadow"
+msgstr "Λιβάδι"
+
+msgid "Term lease"
+msgstr "Διάρκεια μίσθωσης"
+
+msgid "Long-Term"
+msgstr "Μακροχρόνια"
+
+msgid "Long-Term - Single activity"
+msgstr "Μακροχρόνια - Ενιαία δραστηριότητα"
+
+msgid "Long-Term - All activities"
+msgstr "Μακροπρόθεσμη - Όλες οι δραστηριότητες"
+
+msgid "Regulated"
+msgstr "Ρυθμιζόμενη"
+
+msgid "Seaside"
+msgstr "Παραθαλάσσια"
+
+msgid "Village"
+msgstr "Χωριό"
+
+msgid "Old town"
+msgstr "Παλιά πόλη"
+
+msgid "Precinct"
+msgstr "Περιφέρεια"
+
+msgid "Ski slope"
+msgstr "Χιονοδρομική πίστα"
+
+msgid "Town center"
+msgstr "Κέντρο της πόλης"
+
+msgid "Industrial estate"
+msgstr "Βιομηχανική περιοχή"
+
+msgid "Shopping center"
+msgstr "Εμπορικό κέντρο"
+
+msgid "Business park"
+msgstr "Επιχειρηματικό πάρκο"
+
+msgid "Airport area"
+msgstr "Περιοχή αεροδρομίου"
+
+msgid "Science park"
+msgstr "Επιστημονικό πάρκο"
+
+msgid "Port area"
+msgstr "Λιμενική περιοχή"
+
+msgid "Outskirts"
+msgstr "Προάστια"
+
+#, fuzzy
+msgid "Hills"
+msgstr ""
+"#-#-#-#-#  apimo-el_GR.po  #-#-#-#-#\n"
+"Λόφοι\n"
+"#-#-#-#-#  apimo-el_GR.po  #-#-#-#-#\n"
+"Hills"
+
+msgid "Waterfront"
+msgstr "Προκυμαία"
+
+msgid "Countryside"
+msgstr "Εξοχή"
+
+msgid "Suburb"
+msgstr "Προάστιο"
+
+msgid "East"
+msgstr "Ανατολικά"
+
+msgid "North"
+msgstr "Βόρεια"
+
+msgid "West"
+msgstr "Δύση"
+
+msgid "South"
+msgstr "Νότος"
+
+msgid "North-east"
+msgstr "Βορειοανατολικά"
+
+msgid "South-east"
+msgstr "Νοτιοανατολικά"
+
+msgid "South-west"
+msgstr "Νοτιοδυτικά"
+
+msgid "North-west"
+msgstr "Βορειοδυτικά"
+
+msgid "Day"
+msgstr "Ημέρα"
+
+msgid "Week"
+msgstr "Εβδομάδα"
+
+msgid "Fortnight"
+msgstr "Δεκαπενθήμερο"
+
+msgid "Month"
+msgstr "Μήνας"
+
+msgid "Quarterly"
+msgstr "Τρίμηνο"
+
+msgid "Bimonthly"
+msgstr "Διμηνιαία"
+
+msgid "Half-yearly"
+msgstr "Εξαμηνιαία"
+
+#, fuzzy
+msgid "Yearly"
+msgstr ""
+"#-#-#-#-#  apimo-el_GR.po  #-#-#-#-#\n"
+"Ετήσια\n"
+"#-#-#-#-#  apimo-el_GR.po  #-#-#-#-#\n"
+"Ετήσιος"
+
+msgid "Bus"
+msgstr "Λεωφορείο"
+
+msgid "Bus hub"
+msgstr "Κόμβος λεωφορείων"
+
+msgid "Metro"
+msgstr "Μετρό"
+
+msgid "Shops"
+msgstr "Καταστήματα"
+
+msgid "Primary school"
+msgstr "Δημοτικό σχολείο"
+
+msgid "Town centre"
+msgstr "Κέντρο της πόλης"
+
+msgid "Hospital/clinic"
+msgstr "Νοσοκομείο/κλινική"
+
+msgid "Doctor"
+msgstr "Γιατρός"
+
+msgid "Tram"
+msgstr "Τραμ"
+
+msgid "Train station"
+msgstr "Σιδηροδρομικός σταθμός"
+
+msgid "Public parking"
+msgstr "Δημόσιος χώρος στάθμευσης"
+
+msgid "Supermarket"
+msgstr "Σούπερ μάρκετ"
+
+msgid "Sea port"
+msgstr "Λιμάνι"
+
+msgid "Nursery"
+msgstr "Παιδικός σταθμός"
+
+msgid "Public pool"
+msgstr "Δημόσια πισίνα"
+
+msgid "Tennis"
+msgstr "Τένις"
+
+msgid "Golf"
+msgstr "Γκολφ"
+
+msgid "Movies"
+msgstr "Κινηματογράφος"
+
+msgid "Secondary school"
+msgstr "Δευτεροβάθμιο σχολείο"
+
+msgid "Sport center"
+msgstr "Αθλητικό κέντρο"
+
+msgid "Airport"
+msgstr "Αεροδρόμιο"
+
+msgid "Sea"
+msgstr "Θάλασσα"
+
+msgid "TGV station"
+msgstr "Σταθμός TGV"
+
+msgid "Highway"
+msgstr "Αυτοκινητόδρομος"
+
+msgid "University"
+msgstr "Πανεπιστήμιο"
+
+msgid "Convention center"
+msgstr "Συνεδριακό κέντρο"
+
+msgid "Lake"
+msgstr "Λίμνη"
+
+msgid "On main road"
+msgstr "Στον κεντρικό δρόμο"
+
+msgid "Energy - Conventional consumption"
+msgstr "Ενέργεια - Συμβατική κατανάλωση"
+
+msgid "Energy - Emissions estimate"
+msgstr "Ενέργεια - Εκτίμηση εκπομπών"
+
+msgid "« Carrez » act"
+msgstr "Carrez  act"
+
+msgid "ERP"
+msgstr "ERP"
+
+msgid "Termites"
+msgstr "Τερμίτες"
+
+msgid "Asbestos"
+msgstr "Αμίαντος"
+
+msgid "Lead"
+msgstr "Μόλυβδος"
+
+msgid "Boutin act"
+msgstr "Πράξη Boutin"
+
+msgid "EPI (Non renewable)"
+msgstr "EPI (μη ανανεώσιμες πηγές ενέργειας)"
+
+msgid "APE"
+msgstr "APE"
+
+msgid "Request for nomination of an ad hoc agent"
+msgstr "Αίτημα για τον ορισμό ad hoc πράκτορα"
+
+msgid "Request for nomination of a temporary administrator"
+msgstr "Αίτηση διορισμού προσωρινού διαχειριστή"
+
+msgid "Request for expert nomination"
+msgstr "Αίτηση διορισμού εμπειρογνώμονα"
+
+msgid "Fire safety regulations"
+msgstr "Κανονισμοί πυρασφάλειας"
+
+msgid "Accessibility standards for people with disabilities"
+msgstr "Πρότυπα προσβασιμότητας για άτομα με αναπηρίες"
+
+msgid "Sanitary authorization"
+msgstr "Υγειονομική έγκριση"
+
+msgid "Energy consumption"
+msgstr "Κατανάλωση ενέργειας"
+
+msgid "Housing tax"
+msgstr "Φόρος στέγασης"
+
+msgid "Land charges"
+msgstr "Τέλη γης"
+
+msgid "Residents only"
+msgstr "Μόνο κάτοικοι"
+
+msgid "Property tax (IPTU)"
+msgstr "Φόρος ακίνητης περιουσίας (IPTU)"
+
+msgid "Taxe Locale d’Equipement"
+msgstr "Taxe Locale d'Equipement"
+
+msgid "Minergie"
+msgstr "Minergie"
+
+msgid "Volume"
+msgstr "Volume"
+
+msgid "Useful surface"
+msgstr "Ωφέλιμη επιφάνεια"
+
+msgid "Co-Ownership property"
+msgstr "Ακίνητα συνιδιοκτησίας"
+
+msgid "Communal tax rate"
+msgstr "Κοινοτικός φορολογικός συντελεστής"
+
+msgid "Land register extract number"
+msgstr "Αριθμός αποσπάσματος κτηματολογίου"
+
+msgid "Droit de superficie"
+msgstr "Droit de superficie"
+
+msgid "Millièmes"
+msgstr "Millièmes"
+
+msgid "PPE budget"
+msgstr "Προϋπολογισμός PPE"
+
+msgid "Current renovation fund"
+msgstr "Ταμείο τρέχουσας ανακαίνισης"
+
+msgid "Plot ratio"
+msgstr "Αναλογία οικοπέδων"
+
+msgid "Occupancy ratio"
+msgstr "Αναλογία πληρότητας"
+
+msgid "Ground footprint coefficient"
+msgstr "Συντελεστής αποτυπώματος εδάφους"
+
+msgid "Floor space coefficient"
+msgstr "Συντελεστής επιφάνειας δαπέδου"
+
+msgid "Priority period CCH L443-11"
+msgstr "Περίοδος προτεραιότητας CCH L443-11"
+
+msgid "Plot division / Demarcation"
+msgstr "Διαίρεση οικοπέδου / Οριοθέτηση"
+
+msgid "Board of directors / supervisory deliberation"
+msgstr "Διοικητικό συμβούλιο / εποπτικό συμβούλιο"
+
+msgid "Certificate of compliance"
+msgstr "Πιστοποιητικό συμμόρφωσης"
+
+msgid "Energy class"
+msgstr "Ενεργειακή κλάση"
+
+msgid "Thermal insulation class"
+msgstr "Κατηγορία θερμομόνωσης"
+
+msgid "Greenhouse Gas"
+msgstr "Αέριο θερμοκηπίου"
+
+msgid "Energy passport"
+msgstr "Ενεργειακό διαβατήριο"
+
+msgid "Energy certificate"
+msgstr "Ενεργειακό πιστοποιητικό"
+
+msgid "Energy consumption / Final energy requirement"
+msgstr "Κατανάλωση ενέργειας / Τελική ενεργειακή απαίτηση"
+
+msgid "Energy efficiency class"
+msgstr "Κατηγορία ενεργειακής απόδοσης"
+
+msgid "Year of construction according to certificate"
+msgstr "Έτος κατασκευής σύμφωνα με το πιστοποιητικό"
+
+msgid "Energy consumption : Hot water included"
+msgstr "Κατανάλωση ενέργειας: συμπεριλαμβανομένου του ζεστού νερού"
+
+msgid "Specific primary energy consumption"
+msgstr "Ειδική κατανάλωση πρωτογενούς ενέργειας"
+
+msgid "PEB unique code"
+msgstr "Μοναδικός κωδικός PEB"
+
+msgid "K level (Thermal Insulation)"
+msgstr "Επίπεδο Κ (θερμική μόνωση)"
+
+msgid "Ew level (Energy performance)"
+msgstr "Επίπεδο Ew (Ενεργειακή απόδοση)"
+
+msgid "CO2 emission"
+msgstr "Εκπομπή CO2"
+
+msgid "Flood risks"
+msgstr "Κίνδυνοι πλημμύρας"
+
+msgid "Certificate: Oil tank conformity"
+msgstr "Πιστοποιητικό: Συμμόρφωση δεξαμενής πετρελαίου"
+
+msgid "Certificate : Electric installation conformity"
+msgstr "Πιστοποιητικό : Συμμόρφωση ηλεκτρικής εγκατάστασης"
+
+msgid "« As Built » certificate"
+msgstr "Πιστοποιητικό  As Built"
+
+msgid "Total consumption of primary energy"
+msgstr "Συνολική κατανάλωση πρωτογενούς ενέργειας"
+
+msgid "Registration number"
+msgstr "Αριθμός μητρώου"
+
+msgid "Cadastral income"
+msgstr "Κτηματολογικό εισόδημα"
+
+msgid "Planning permit obtained"
+msgstr "Πολεοδομική άδεια"
+
+msgid "Subdivision authorization"
+msgstr "Άδεια υποδιαίρεσης"
+
+msgid "Pre-emptive right possible"
+msgstr "Δυνατό δικαίωμα προτίμησης"
+
+msgid "Citation for urbanistic infraction"
+msgstr "Παραπομπή για πολεοδομική παράβαση"
+
+msgid "Last use designation"
+msgstr "Καθορισμός τελευταίας χρήσης"
+
+msgid "Cadastral annuity"
+msgstr "Κτηματολογική πρόσοδος"
+
+msgid "Energy certification number"
+msgstr "Αριθμός ενεργειακής πιστοποίησης"
+
+msgid "VAT applicable"
+msgstr "Εφαρμοστέος ΦΠΑ"
+
+msgid "Energy certification"
+msgstr "Ενεργειακή πιστοποίηση"
+
+msgid "Emissions estimate"
+msgstr "Εκτίμηση εκπομπών"
+
+msgid "Possibility of connecting : Water / Gas / Electricity"
+msgstr "Δυνατότητα σύνδεσης : Νερό / Αέριο / Ηλεκτρισμός"
+
+msgid "Laudêmio"
+msgstr "Laudêmio"
+
+msgid "Real estate program"
+msgstr "Πρόγραμμα ακίνητης περιουσίας"
+
+msgid "Accessible to foreigners"
+msgstr "Προσβάσιμο σε αλλοδαπούς"
+
+msgid "Building type"
+msgstr "Τύπος κτιρίου"
+
+msgid "Primärenergiebedarf"
+msgstr "Primärenergiebedarf"
+
+msgid "Flat rate for charges"
+msgstr "Κατ' αποκοπή χρέωση"
+
+msgid "Energy Efficiency Rating (Current)"
+msgstr "Βαθμολογία ενεργειακής απόδοσης (Τρέχουσα)"
+
+msgid "Energy Efficiency Rating (Potential)"
+msgstr "Βαθμολογία ενεργειακής απόδοσης (δυνητική)"
+
+msgid "Environmental Impact Rating (Current)"
+msgstr "Βαθμολογία περιβαλλοντικών επιπτώσεων (τρέχουσα)"
+
+msgid "Environmental Impact Rating (Potential)"
+msgstr "Βαθμολογία περιβαλλοντικών επιπτώσεων (δυνητική)"
+
+msgid "Tenure type"
+msgstr "Τύπος μίσθωσης"
+
+msgid "Property tenure"
+msgstr "Μίσθωση ακινήτου"
+
+msgid "Rental value"
+msgstr "Αξία ενοικίασης"
+
+msgid "Tax value"
+msgstr "Φορολογική αξία"
+
+msgid "Insurance value"
+msgstr "Ασφαλιστική αξία"
+
+msgid "Building zone"
+msgstr "Ζώνη δόμησης"
+
+msgid "Stratum"
+msgstr "Στρώμα"
+
+msgid "Rental reference index"
+msgstr "Δείκτης αναφοράς ενοικίου"
+
+msgid "Last rental price"
+msgstr "Τελευταία τιμή ενοικίασης"
+
+msgid "Building envelope efficiency"
+msgstr "Αποδοτικότητα του κελύφους του κτιρίου"
+
+msgid "Overall energy efficiency"
+msgstr "Συνολική ενεργειακή απόδοση"
+
+msgid "Dry rot diagnosis"
+msgstr "Διάγνωση ξηράς σήψης"
+
+msgid "Additional rent"
+msgstr "Πρόσθετο μίσθωμα"
+
+msgid "Indexed cadastral income"
+msgstr "Αναπροσαρμοσμένο κτηματολογικό εισόδημα"
+
+msgid "Property tax"
+msgstr "Φόρος ακίνητης περιουσίας"
+
+msgid "EPI (Renewable)"
+msgstr "EPI (Ανανεώσιμες πηγές ενέργειας)"
+
+msgid "Emission class"
+msgstr "Κατηγορία εκπομπών"
+
+msgid "Heating costs"
+msgstr "Κόστος θέρμανσης"
+
+msgid "Performance level (summer season)"
+msgstr "Επίπεδο απόδοσης (θερινή περίοδος)"
+
+msgid "Performance level (winter season)"
+msgstr "Επίπεδο επιδόσεων (χειμερινή περίοδος)"
+
+msgid "Cadastral data - Section"
+msgstr "Κτηματολογικά στοιχεία - Τμήμα"
+
+msgid "Cadastral data - Sheet"
+msgstr "Κτηματολογικά στοιχεία - Φύλλο"
+
+msgid "Cadastral data - Parcel"
+msgstr "Κτηματολογικά στοιχεία - Αγροτεμάχιο"
+
+msgid "Cadastral data - Subparcel"
+msgstr "Κτηματολογικά δεδομένα - Υποτεμάχια"
+
+msgid "Cadastral data - Sub"
+msgstr "Κτηματολογικά δεδομένα - Υπο"
+
+msgid "Cadastral data - Sub 2"
+msgstr "Κτηματολογικά δεδομένα - Sub 2"
+
+msgid "Licença de habitação - Número"
+msgstr "Licença de habitação - Número"
+
+msgid "Licença de habitação - Emitida em"
+msgstr "Licença de habitação - Emitida em"
+
+msgid "Taxa de IMI"
+msgstr "Taxa de IMI"
+
+msgid "Regime de IVA"
+msgstr "Regime de IVA"
+
+msgid "Escritura - Número"
+msgstr "Escritura - Número"
+
+msgid "Licença de construção - Número"
+msgstr "Licença de construção - Número"
+
+msgid "Licença de construção - Emitida em"
+msgstr "Licença de construção - Emitida em"
+
+msgid "Turnover"
+msgstr "Κύκλος εργασιών"
+
+msgid "Net income"
+msgstr "Καθαρό εισόδημα"
+
+msgid "Gross operating profit"
+msgstr "Μικτό λειτουργικό κέρδος"
+
+msgid "Personnel costs"
+msgstr "Κόστος προσωπικού"
+
+msgid "Cash flow"
+msgstr "Ταμειακή ροή"
+
+msgid "Shareholders’equity"
+msgstr "Ίδια κεφάλαια"
+
+msgid "Net debt"
+msgstr "Καθαρό χρέος"
+
+msgid "Internet"
+msgstr "Διαδίκτυο"
+
+msgid "Disabled access"
+msgstr "Πρόσβαση για άτομα με ειδικές ανάγκες"
+
+msgid "Alarm system"
+msgstr "Σύστημα συναγερμού"
+
+msgid "Lift"
+msgstr "Ανελκυστήρας"
+
+msgid "Caretaker"
+msgstr "Επιστάτης"
+
+msgid "Double glazing"
+msgstr "Διπλά τζάμια"
+
+msgid "Intercom"
+msgstr "Θυροτηλεόραση"
+
+msgid "TV distribution"
+msgstr "Διανομή τηλεόρασης"
+
+#, fuzzy
+msgid "Swimming pool"
+msgstr ""
+"#-#-#-#-#  apimo-el_GR.po  #-#-#-#-#\n"
+"Πισίνα\n"
+"#-#-#-#-#  apimo-el_GR.po  #-#-#-#-#\n"
+"Πισίνα\n"
+"#-#-#-#-#  apimo-el_GR.po  #-#-#-#-#\n"
+"Κολυμβητήριο"
+
+msgid "Security door"
+msgstr "Πόρτα ασφαλείας"
+
+msgid "Tennis court"
+msgstr "Γήπεδο τένις"
+
+msgid "Irrigation sprinkler"
+msgstr "Ψεκαστήρας άρδευσης"
+
+msgid "Barbecue"
+msgstr "Μπάρμπεκιου"
+
+msgid "Electric gate"
+msgstr "Ηλεκτρική πύλη"
+
+msgid "Crawl space"
+msgstr "Χώρος για σκαλωσιές"
+
+msgid "Car port"
+msgstr "Θύρα αυτοκινήτου"
+
+msgid "Caretaker house"
+msgstr "Σπίτι επιστάτη"
+
+msgid "Sliding windows"
+msgstr "Συρόμενα παράθυρα"
+
+msgid "Central vacuum system"
+msgstr "Κεντρικό σύστημα κενού"
+
+msgid "Electric shutters"
+msgstr "Ηλεκτρικά παντζούρια"
+
+msgid "Window shade"
+msgstr "Σκιάδιο παραθύρων"
+
+msgid "Electric awnings"
+msgstr "Ηλεκτρικές τέντες"
+
+msgid "Washing machine"
+msgstr "Πλυντήριο ρούχων"
+
+msgid "Jacuzzi"
+msgstr "Τζακούζι"
+
+msgid "Whirlpool tub"
+msgstr "Μπανιέρα υδρομασάζ"
+
+msgid "Well"
+msgstr "Καλά"
+
+msgid "Spring"
+msgstr "Πηγή"
+
+msgid "Engine generator"
+msgstr "Γεννήτρια κινητήρα"
+
+msgid "Dishwasher"
+msgstr "Πλυντήριο πιάτων"
+
+msgid "Hob"
+msgstr "Εστία"
+
+msgid "Safe"
+msgstr "Χρηματοκιβώτιο"
+
+msgid "Helipad"
+msgstr "Ελικοδρόμιο"
+
+msgid "Videophone"
+msgstr "Βιντεοτηλέφωνο"
+
+msgid "Video security"
+msgstr "Ασφάλεια βίντεο"
+
+msgid "Iron"
+msgstr "Σίδερο"
+
+msgid "Hair dryer"
+msgstr "Στεγνωτήρας μαλλιών"
+
+msgid "Television"
+msgstr "Τηλεόραση"
+
+msgid "DVD Player"
+msgstr "DVD Player"
+
+msgid "CD Player"
+msgstr "CD Player"
+
+msgid "Outdoor lighting"
+msgstr "Εξωτερικός φωτισμός"
+
+msgid "Home automation"
+msgstr "Οικιακός αυτοματισμός"
+
+msgid "Linens"
+msgstr "Λευκά είδη"
+
+msgid "Tableware"
+msgstr "Επιτραπέζια σκεύη"
+
+msgid "Clothes dryer"
+msgstr "Στεγνωτήριο ρούχων"
+
+msgid "Refrigerator"
+msgstr "Ψυγείο"
+
+msgid "Oven"
+msgstr "Φούρνος"
+
+msgid "Reception 24/7"
+msgstr "Υποδοχή 24/7"
+
+msgid "Coffeemaker"
+msgstr "Καφετιέρα"
+
+msgid "Microwave oven"
+msgstr "Φούρνος μικροκυμάτων"
+
+msgid "Shabbat elevator"
+msgstr "Ανελκυστήρας Σαββάτου"
+
+msgid "Sukkah"
+msgstr "Sukkah"
+
+msgid "Synagogue"
+msgstr "Συναγωγή"
+
+msgid "Digicode"
+msgstr "Digicode"
+
+msgid "Common laundry"
+msgstr "Κοινό πλυντήριο"
+
+msgid "Pets allowed"
+msgstr "Επιτρέπονται κατοικίδια"
+
+msgid "Metal shutters"
+msgstr "Μεταλλικά παραθυρόφυλλα"
+
+msgid "Wiring closet"
+msgstr "Ντουλάπα καλωδίωσης"
+
+msgid "Computer network"
+msgstr "Δίκτυο υπολογιστών"
+
+msgid "Dropped ceiling"
+msgstr "Πτώση οροφής"
+
+msgid "Fire hose cabinets"
+msgstr "Ντουλάπια πυροσβεστικών σωλήνων"
+
+msgid "Fire sprinkler system"
+msgstr "Σύστημα πυρόσβεσης"
+
+msgid "Berth"
+msgstr "Προβλήτα"
+
+msgid "Connected thermostat"
+msgstr "Συνδεδεμένος θερμοστάτης"
+
+msgid "Bowling game"
+msgstr "Πράσινο μπόουλινγκ"
+
+msgid "Water softener"
+msgstr "Αποσκληρυντής νερού"
+
+msgid "Triple glazing"
+msgstr "Τριπλά τζάμια"
+
+msgid "Well drilling"
+msgstr "Διάτρηση φρέατος"
+
+msgid "Optical fiber"
+msgstr "Οπτική ίνα"
+
+msgid "Non-flooding"
+msgstr "Μη πλημμυρισμένο"
+
+msgid "Backup water system"
+msgstr "Εφεδρικό σύστημα νερού"
+
+msgid "Water filtration system"
+msgstr "Σύστημα φιλτραρίσματος νερού"
+
+msgid "Air filtration system"
+msgstr "Σύστημα φιλτραρίσματος αέρα"
+
+msgid "Fire alarm system"
+msgstr "Σύστημα συναγερμού πυρκαγιάς"
+
+msgid "Commercial services"
+msgstr "Εμπορικές υπηρεσίες"
+
+msgid "Playground"
+msgstr "Παιδική χαρά"
+
+msgid "Flyboard"
+msgstr "Flyboard"
+
+msgid "Amphibious car"
+msgstr "Αμφίβιο αυτοκίνητο"
+
+msgid "Beach games"
+msgstr "Παιχνίδια στην παραλία"
+
+msgid "Bikes"
+msgstr "Ποδήλατα"
+
+msgid "Canoe"
+msgstr "Κανόε"
+
+msgid "Diving"
+msgstr "Καταδύσεις"
+
+msgid "Fishing"
+msgstr "Ψάρεμα"
+
+msgid "Floating pool"
+msgstr "Πλωτή πισίνα"
+
+msgid "Hoverboard"
+msgstr "Χόβερμπορντ"
+
+msgid "Hovercraft"
+msgstr "Χόβερκραφτ"
+
+msgid "Inflatables"
+msgstr "Φουσκωτά"
+
+msgid "Water slide"
+msgstr "Νεροτσουλήθρα"
+
+msgid "Waterpark"
+msgstr "Υδάτινο πάρκο"
+
+msgid "Jet ski"
+msgstr "Τζετ σκι"
+
+msgid "Kite surf"
+msgstr "Kite surf"
+
+msgid "Paddle"
+msgstr "Paddle"
+
+msgid "Scooter"
+msgstr "Σκούτερ"
+
+msgid "Seabob"
+msgstr "Seabob"
+
+msgid "Segway"
+msgstr "Segway"
+
+msgid "Wakeboard"
+msgstr "Wakeboard"
+
+msgid "Simple flow ventilation"
+msgstr "Απλός εξαερισμός ροής"
+
+msgid "Double flow ventilation"
+msgstr "Αερισμός διπλής ροής"
+
+msgid "Business center"
+msgstr "Επιχειρηματικό κέντρο"
+
+msgid "Foodservice"
+msgstr "Υπηρεσία τροφίμων"
+
+msgid "Condominium garden"
+msgstr "Κήπος πολυκατοικίας"
+
+msgid "Stabilizers"
+msgstr "Σταθεροποιητές"
+
+msgid "Hydraulic Platform"
+msgstr "Υδραυλική πλατφόρμα"
+
+msgid "Freezer"
+msgstr "Καταψύκτης"
+
+msgid "Fitness"
+msgstr "Γυμναστήριο"
+
+msgid "Electric car terminal"
+msgstr "Τερματικός σταθμός ηλεκτρικών αυτοκινήτων"
+
+msgid "Solar panels"
+msgstr "Ηλιακοί συλλέκτες"
+
+msgid "Overhead crane"
+msgstr "Γερανός"
+
+msgid "Tow-away zone"
+msgstr "Ζώνη ρυμούλκησης"
+
+msgid "Extraction air duct"
+msgstr "Αγωγός εξαγωγής αέρα"
+
+msgid "Access control"
+msgstr "Έλεγχος πρόσβασης"
+
+msgid "Listed historic building"
+msgstr "Διατηρητέο ιστορικό κτίριο"
+
+msgid "Flyscreens"
+msgstr "Σίτες"
+
+msgid "Security service"
+msgstr "Υπηρεσία ασφαλείας"
+
+msgid "Condominium pool"
+msgstr "Πισίνα συγκυριαρχίας"
+
+msgid "Civil defense bunker"
+msgstr "Καταφύγιο πολιτικής άμυνας"
+
+msgid "PVC window"
+msgstr "Παράθυρο PVC"
+
+msgid "Aluminum window"
+msgstr "Παράθυρο αλουμινίου"
+
+msgid "Supplies"
+msgstr "Προμήθειες"
+
+msgid "Outdoor spaces"
+msgstr "Εξωτερικοί χώροι"
+
+msgid "Rental supplies"
+msgstr "Προμήθειες ενοικίασης"
+
+msgid "Security"
+msgstr "Ασφάλεια"
+
+msgid "Professional supplies"
+msgstr "Επαγγελματικές προμήθειες"
+
+msgid "Yacht supplies"
+msgstr "Προμήθειες σκαφών αναψυχής"
+
+msgid "High standard"
+msgstr "Υψηλό πρότυπο"
+
+msgid "Luxury"
+msgstr "Πολυτελές"
+
+msgid "High luxury"
+msgstr "Υψηλή πολυτέλεια"
+
+#, fuzzy
+msgid "Housing estate"
+msgstr ""
+"#-#-#-#-#  apimo-el_GR.po  #-#-#-#-#\n"
+"Στεγαστική κατοικία\n"
+"#-#-#-#-#  apimo-el_GR.po  #-#-#-#-#\n"
+"Οικισμός"
+
+msgid "Regular"
+msgstr "Κανονική"
+
+msgid "In progress"
+msgstr "Σε εξέλιξη"
+
+msgid "Standby"
+msgstr "Αναμονή"
+
+#, fuzzy
+msgid "Deleted"
+msgstr ""
+"#-#-#-#-#  apimo-el_GR.po  #-#-#-#-#\n"
+"Διαγράφηκε\n"
+"#-#-#-#-#  apimo-el_GR.po  #-#-#-#-#\n"
+"Διαγραμμένο"
+
+msgid "Waiting for agreement"
+msgstr "Εν αναμονή συμφωνίας"
+
+msgid "Agreement ended"
+msgstr "Η συμφωνία έληξε"
+
+msgid "Offer"
+msgstr "Προσφορά"
+
+msgid "Processing sale"
+msgstr "Επεξεργασία πώλησης"
+
+msgid "Waiting for contract"
+msgstr "Αναμονή για σύμβαση"
+
+msgid "Pending approval"
+msgstr "Εκκρεμεί έγκριση"
+
+msgid "Sell/Rent by agent"
+msgstr "Πώληση/ενοικίαση από πράκτορα"
+
+msgid "Sell/Rent by owner"
+msgstr "Πώληση/Ενοικίαση από ιδιοκτήτη"
+
+msgid "Sell/Rent by other agent"
+msgstr "Πώληση/Ενοικίαση από άλλο πράκτορα"
+
+msgid "Removed by agent"
+msgstr "Απομακρύνθηκε από πράκτορα"
+
+msgid "Removed by owner"
+msgstr "Αφαιρέθηκε από ιδιοκτήτη"
+
+msgid "Sale/Rental cancelled"
+msgstr "Πώληση/Μίσθωση ακυρώθηκε"
+
+msgid "Delete this property"
+msgstr "Διαγραφή αυτού του ακινήτου"
+
+msgid "Land"
+msgstr "Οικόπεδο"
+
+msgid "Business"
+msgstr "Επιχείρηση"
+
+msgid "Garage/Parking"
+msgstr "Γκαράζ/Στάθμευση"
+
+msgid "Office"
+msgstr "Γραφείο"
+
+msgid "Boat"
+msgstr "Σκάφος"
+
+msgid "Cellar / Box"
+msgstr "Κελάρι / Κουτί"
+
+msgid "Triplex"
+msgstr "Triplex"
+
+msgid "Building land"
+msgstr "Κτίριο γης"
+
+msgid "Not constructible land"
+msgstr "Μη οικοδομήσιμη γη"
+
+msgid "Penthouse"
+msgstr "Ρετιρέ"
+
+msgid "Castle"
+msgstr "Κάστρο"
+
+msgid "Duplex"
+msgstr "Duplex"
+
+msgid "Mansion"
+msgstr "Αρχοντικό"
+
+msgid "Farm"
+msgstr "Αγρόκτημα"
+
+msgid "Attic"
+msgstr "Σοφίτα"
+
+msgid "Villa"
+msgstr "Βίλα"
+
+msgid "Apartment villa"
+msgstr "Βίλα διαμέρισμα"
+
+msgid "Ruin"
+msgstr "Ερείπια"
+
+msgid "Mill"
+msgstr "Μύλος"
+
+msgid "Carpark"
+msgstr "Πάρκινγκ"
+
+msgid "Farmhouse"
+msgstr "Αγροικία"
+
+msgid "Townhouse"
+msgstr "Townhouse"
+
+msgid "Mobile home"
+msgstr "Κινητό σπίτι"
+
+msgid "Cottage"
+msgstr "Εξοχικό σπίτι"
+
+msgid "Hangar"
+msgstr "Υπόστεγο"
+
+msgid "Mas"
+msgstr "Mas"
+
+#, fuzzy
+msgid "Local"
+msgstr ""
+"#-#-#-#-#  apimo-el_GR.po  #-#-#-#-#\n"
+"Τοπική\n"
+"#-#-#-#-#  apimo-el_GR.po  #-#-#-#-#\n"
+"Τοπικά"
+
+msgid "Chalet"
+msgstr "Chalet"
+
+msgid "Retail space"
+msgstr "Εγκαταστάσεις"
+
+msgid "Business assets"
+msgstr "Επιχειρηματικά περιουσιακά στοιχεία"
+
+msgid "Right to the lease"
+msgstr "Δικαίωμα μίσθωσης"
+
+msgid "Management"
+msgstr "Διαχείριση"
+
+msgid "Agricultural exploitation"
+msgstr "Εκμετάλλευση καλλιεργειών"
+
+msgid "Woodshed"
+msgstr "Ξυλόσπιτο"
+
+msgid "Stud farm"
+msgstr "Αγρόκτημα εκτροφής"
+
+msgid "Plot of land"
+msgstr "Οικόπεδο"
+
+msgid "Bastide"
+msgstr "Bastide"
+
+msgid "Bastidon"
+msgstr "Bastidon"
+
+msgid "Company"
+msgstr "Εταιρεία"
+
+msgid "Vineyard property"
+msgstr "Αμπελώνας"
+
+msgid "Motorboat"
+msgstr "Μηχανοκίνητο σκάφος"
+
+msgid "Narrow boat"
+msgstr "Στενό σκάφος"
+
+msgid "Sailing Yacht"
+msgstr "Ιστιοπλοϊκό σκάφος"
+
+msgid "Catamaran"
+msgstr "Καταμαράν"
+
+msgid "Equestrian estate"
+msgstr "Ιππικό κτήμα"
+
+msgid "Bed and breakfast"
+msgstr "Κρεβάτι και πρωινό"
+
+msgid "Gîte"
+msgstr "Gîte"
+
+msgid "Riad"
+msgstr "Ριάντ"
+
+msgid "Retail shop"
+msgstr "Κατάστημα λιανικής πώλησης"
+
+msgid "Shophouse"
+msgstr "Κατάστημα"
+
+msgid "Borey"
+msgstr "Borey"
+
+msgid "Condo"
+msgstr "Condo"
+
+msgid "Factory"
+msgstr "Εργοστάσιο"
+
+msgid "Serviced apartment"
+msgstr "Εξυπηρετούμενο διαμέρισμα"
+
+msgid "Twin Villa"
+msgstr "Twin Villa"
+
+msgid "Flat House"
+msgstr "Flat House"
+
+msgid "Detached house"
+msgstr "Μονοκατοικία"
+
+msgid "Bungalow"
+msgstr "Μπανγκαλόου"
+
+msgid "Beach house"
+msgstr "Παραθαλάσσιο σπίτι"
+
+msgid "Ger district"
+msgstr "Περιοχή Ger"
+
+msgid "Summer house"
+msgstr "Καλοκαιρινό σπίτι"
+
+msgid "Private island"
+msgstr "Ιδιωτικό νησί"
+
+msgid "Residential land"
+msgstr "Οικιστική γη"
+
+msgid "Commercial land"
+msgstr "Εμπορική γη"
+
+msgid "Subdivision"
+msgstr "Υποδιαίρεση"
+
+msgid "Game reserve"
+msgstr "Καταφύγιο θηραμάτων"
+
+msgid "Ranch"
+msgstr "Ranch"
+
+msgid "Waterside mansion"
+msgstr "Αρχοντικό στην παραλία"
+
+msgid "Craft Workshop"
+msgstr "Εργαστήριο χειροτεχνίας"
+
+msgid "Pavilion"
+msgstr "Περίπτερο"
+
+msgid "Agricultural land"
+msgstr "Αγροτική γη"
+
+msgid "Mountains"
+msgstr "Βουνά"
+
+msgid "Greenery"
+msgstr "Πράσινο"
+
+msgid "Monument"
+msgstr "Μνημείο"
+
+msgid "Forest"
+msgstr "Δάσος"
+
+msgid "River"
+msgstr "Ποτάμι"
+
+msgid "City"
+msgstr "Πόλη"
+
+msgid "Sky"
+msgstr "Ουρανός"
+
+msgid "Main stem"
+msgstr "Κύριο στέλεχος"
+
+msgid "Harbor"
+msgstr "Λιμάνι"
+
+msgid "Ski slopes"
+msgstr "Χιονοδρομικές πίστες"
+
+msgid "Vines"
+msgstr "Αμπέλια"
+
+msgid "Obstructed"
+msgstr "Εμπόδια"
+
+msgid "Slight"
+msgstr "Ελαφρύ"
+
+msgid "Unobstructed"
+msgstr "Ανεμπόδιστη"
+
+msgid "Panoramic"
+msgstr "Πανοραμική"
+
+msgid "Exterior"
+msgstr "Εξωτερικό"
+
+msgid "Interior"
+msgstr "Εσωτερικό"
+
+msgid "Septic tank"
+msgstr "Σηπτική δεξαμενή"
+
+msgid "Main drainage"
+msgstr "Κύρια αποχέτευση"
+
+msgid "Treatment plant"
+msgstr "Εγκατάσταση επεξεργασίας"
+
+msgid "Grey-water pit"
+msgstr "Λάκκος γκρίζου νερού"
+
+msgid "Micro sewage treatment"
+msgstr "Μικροεπεξεργασία λυμάτων"
+
+msgid "Estate agent"
+msgstr "Κτηματομεσίτης"
+
+msgid "Phoning"
+msgstr "Τηλεφωνώντας στο"
+
+msgid "Collaboration"
+msgstr "Συνεργασία"
+
+msgid "Provider"
+msgstr "Πάροχος"
+
+msgid "Renown"
+msgstr "Γνωστή"
+
+msgid "Walk-in / Window"
+msgstr "Walk-in / Παράθυρο"
+
+msgid "Network"
+msgstr "Δίκτυο"
+
+msgid "Flyer"
+msgstr "Φυλλάδιο"
+
+msgid "Sign"
+msgstr "Υπογράψτε"
+
+msgid "Magazine"
+msgstr "Περιοδικό"
+
+msgid "Mailing"
+msgstr "Αλληλογραφία"
+
+#, fuzzy
+msgid "e-mailing"
+msgstr ""
+"#-#-#-#-#  apimo-el_GR.po  #-#-#-#-#\n"
+"ηλεκτρονικό ταχυδρομείο\n"
+"#-#-#-#-#  apimo-el_GR.po  #-#-#-#-#\n"
+"Αποστολή e-mail στο"
+
+msgid "Old client"
+msgstr "Παλαιός πελάτης"
+
+msgid "Selection / Favorite"
+msgstr "Επιλογή / Αγαπημένο"
+
+msgid "Main residence"
+msgstr "Κύρια κατοικία"
+
+msgid "Secondary residence"
+msgstr "Δευτερεύουσα κατοικία"
+
+msgid "Student residence"
+msgstr "Φοιτητική κατοικία"
+
+msgid "Tourism residence"
+msgstr "Τουριστική κατοικία"
+
+msgid "Seniors residence"
+msgstr "Κατοικία ηλικιωμένων"
+
+msgid "Duflot Legislation"
+msgstr "Νομοθεσία Duflot"
+
+msgid "Censi-Bouvard Legislation"
+msgstr "Censi-Bouvard Νομοθεσία"
+
+msgid "Reduced fees"
+msgstr "Μειωμένα τέλη"
+
+msgid "EHPAD (Retirement homes)"
+msgstr "EHPAD (οίκοι ευγηρίας)"
+
+msgid "Act 1291"
+msgstr "Νόμος 1291"
+
+msgid "Act 887"
+msgstr "Νόμος 887"
+
+msgid "Mixed-use"
+msgstr "Μικτή χρήση"
+
+msgid "Rental investment"
+msgstr "Επενδύσεις σε ενοίκια"
+
+msgid "Act 1235"
+msgstr "Νόμος 1235"
+
+msgid "Pinel Legislation"
+msgstr "Νομοθεσία Pinel"
+
+msgid "Resale"
+msgstr "Μεταπώληση"
+
+msgid "Private leasing"
+msgstr "Ιδιωτική μίσθωση"
+
+msgid "Bank leasing"
+msgstr "Τραπεζική χρηματοδοτική μίσθωση"
+
+msgid "IPOTEK"
+msgstr "IPOTEK"
+
+msgid "Exchangeable"
+msgstr "Ανταλλάξιμη"
+
+msgid "No advance"
+msgstr "Χωρίς προκαταβολή"
+
+msgid "First occupancy"
+msgstr "Πρώτη κατοχή"
+
+msgid "Liberal profession"
+msgstr "Ελεύθερο επάγγελμα"
+
+msgid "Holiday"
+msgstr "Διακοπές"
+
+msgid "3.57% incl. VAT from the purchase price"
+msgstr "3,57% συμπεριλαμβανομένου του ΦΠΑ από την τιμή αγοράς"
+
+msgid "7.14% incl. VAT from the purchase price"
+msgstr "7,14% συμπεριλαμβανομένου του ΦΠΑ από την τιμή αγοράς"
+
+msgid "3.48% incl. VAT from the purchase price"
+msgstr "3,48% συμπεριλαμβανομένου του ΦΠΑ από την τιμή αγοράς"
+
+msgid "6.96% incl. VAT from the purchase price"
+msgstr "6,96% συμπεριλαμβανομένου του ΦΠΑ από την τιμή αγοράς"
+
+msgid "m²"
+msgstr "m²"
+
+msgid "sq ft"
+msgstr "sq ft"
+
+msgid "kanal"
+msgstr "kanal"
+
+msgid "marla"
+msgstr "marla"
+
+msgid "sq yd"
+msgstr "sq yd"
+
+msgid "acre"
+msgstr "acre"
+
+msgid "ha"
+msgstr "ha"
+
+msgid "ares"
+msgstr "ares"
+
+msgid "toises"
+msgstr "toises"
+
+msgid "perches"
+msgstr "perches"
+
+msgid "arpents"
+msgstr "arpents"
+
+msgid "minute"
+msgstr "λεπτό"
+
+msgid "metre"
+msgstr "μέτρα"
+
+msgid "km"
+msgstr "km"
+
+msgid "Administrator"
+msgstr "Διαχειριστής"
+
+msgid "Company manager"
+msgstr "Διευθυντής εταιρείας"
+
+msgid "Agency manager"
+msgstr "Διευθυντής πρακτορείου"
+
+msgid "Secretariat"
+msgstr "Γραμματεία"
+
+msgid "Agent"
+msgstr "Πράκτορας"
+
+msgid "Intern"
+msgstr "Ειδικευόμενος"
+
+msgid "User"
+msgstr "Χρήστης"
+
+msgid "Franchisor"
+msgstr "Franchisor"
+
+msgid "Translator"
+msgstr "Μεταφραστής"
+
+msgid "Area manager"
+msgstr "Διαχειριστής περιοχής"
+
+msgid "Draft"
+msgstr "Σχέδιο"
+
+msgid "Picture"
+msgstr "Εικόνα"
+
+msgid "Pet"
+msgstr "Pet"
+
+msgid "Natural light"
+msgstr "Φυσικό φως"
+
+msgid "Kitchen island"
+msgstr "Νησί κουζίνας"
+
+msgid "Kitchen bar"
+msgstr "Μπαρ κουζίνας"
+
+msgid "High ceiling"
+msgstr "Υψηλή οροφή"
+
+msgid "Skylight"
+msgstr "Skylight"
+
+msgid "Exposed bricks"
+msgstr "Εκτεθειμένα τούβλα"
+
+msgid "Ceiling fan"
+msgstr "Ανεμιστήρας οροφής"
+
+msgid "Chandelier"
+msgstr "Πολυέλαιος"
+
+msgid "Stainless steel"
+msgstr "Ανοξείδωτο ατσάλι"
+
+msgid "Price on request"
+msgstr "Τιμή κατόπιν αιτήματος"
+
+msgid "Currency"
+msgstr "Νόμισμα"
+
+msgid "Price"
+msgstr "Τιμή"
+
+msgid "Types"
+msgstr "Τύποι"
+
+msgid "Cities"
+msgstr "Πόλεις"
+
+msgid "Bedrooms"
+msgstr "Υπνοδωμάτια"
+
+msgid "Rooms"
+msgstr "Δωμάτια"
+
+msgid "Send"
+msgstr "Στείλτε"
+
+msgid "Lastname"
+msgstr "Επώνυμο"
+
+msgid "Name"
+msgstr "Όνομα"
+
+msgid "Reporting"
+msgstr "Αναφορά"
+
+msgid "Ref."
+msgstr "Ref."
+
+msgid "%s bedroom"
+msgstr "%s υπνοδωμάτιο"
+
+msgid "%s bedrooms"
+msgstr "%s υπνοδωμάτια"
+
+msgid "%s room"
+msgstr "%s δωμάτιο"
+
+msgid "%s rooms"
+msgstr "%s δωμάτια"
+
+msgid "Folder"
+msgstr "Φάκελος"
+
+msgid "No matches found"
+msgstr "Δεν βρέθηκαν αντιστοιχίες"
+
+msgid "Please enter one more character"
+msgstr "Παρακαλώ εισάγετε έναν ακόμη χαρακτήρα"
+
+msgid "Duplicate"
+msgstr "Διπλό"
+
+msgid "Backup"
+msgstr "Δημιουργία αντιγράφου ασφαλείας"
+
+msgid "Rate"
+msgstr "Βαθμολογήστε"
+
+msgid "Sender"
+msgstr "Αποστολέας"
+
+msgid "Recipient"
+msgstr "Παραλήπτης"
+
+msgid "Subject"
+msgstr "Θέμα"
+
+msgid "Attachment"
+msgstr "Συνημμένο"
+
+msgid "Key"
+msgstr "Κλειδί"
+
+msgid "Documents"
+msgstr "Έγγραφα"
+
+msgid "Back"
+msgstr "Πίσω"
+
+msgid "Help?"
+msgstr "Βοήθεια?"
+
+msgid "Read more"
+msgstr "Διαβάστε περισσότερα"
+
+msgid "District"
+msgstr "Περιοχή"
+
+msgid "Areas"
+msgstr "Περιοχές"
+
+msgid "Length"
+msgstr "Μήκος"
+
+msgid "Height"
+msgstr "Ύψος"
+
+msgid "Width"
+msgstr "Πλάτος"
+
+msgid "Deposit"
+msgstr "Κατάθεση"
+
+msgid "Agreement reference"
+msgstr "Αναφορά συμφωνίας"
+
+msgid "Agreement start at"
+msgstr "Έναρξη συμφωνίας"
+
+msgid "Agreement end at"
+msgstr "Λήξη της συμφωνίας"
+
+msgid "Website"
+msgstr "Ιστοσελίδα"
+
+msgid "Proximity"
+msgstr "Proximity"
+
+msgid "Proximities"
+msgstr "Proximities"
+
+msgid "Loading"
+msgstr "Φόρτωση"
+
+msgid "Unlink"
+msgstr "Αποσύνδεση"
+
+msgid "Availability"
+msgstr "Διαθεσιμότητα"
+
+msgid "Total area"
+msgstr "Συνολική έκταση"
+
+msgid "Living area"
+msgstr "Κατοικημένη περιοχή"
+
+msgid "Password forgotten"
+msgstr "Ξεχάστηκε ο κωδικός πρόσβασης"
+
+msgid "Access code"
+msgstr "Κωδικός πρόσβασης"
+
+msgid "Username"
+msgstr "Όνομα χρήστη"
+
+msgid "Welcome %s"
+msgstr "Καλώς ήρθατε %s"
+
+msgid "Add"
+msgstr "Προσθήκη"
+
+msgid "Display"
+msgstr "Εμφάνιση"
+
+msgid "List"
+msgstr "Λίστα"
+
+msgid "Tools"
+msgstr "Εργαλεία"
+
+msgid "Market"
+msgstr "Αγορά"
+
+msgid "Agency"
+msgstr "Οργανισμός"
+
+msgid "Calendar"
+msgstr "Ημερολόγιο"
+
+msgid "Homepage"
+msgstr "Αρχική σελίδα"
+
+msgid "Map"
+msgstr "Χάρτης"
+
+msgid "Value"
+msgstr "Αξία"
+
+msgid "Users"
+msgstr "Χρήστες"
+
+msgid "Sectors"
+msgstr "Τομείς"
+
+msgid "Sector"
+msgstr "Τομέας"
+
+msgid "contact"
+msgstr "Επικοινωνία"
+
+msgid "Contacts"
+msgstr "Επαφές"
+
+msgid "%s contact"
+msgstr "%s επαφή"
+
+msgid "%s contacts"
+msgstr "%s επαφές"
+
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+msgid "General"
+msgstr "Γενικά"
+
+msgid "Waste water"
+msgstr "Νερό αποχέτευσης"
+
+msgid "Country"
+msgstr "Χώρα"
+
+msgid "Escrow deposit"
+msgstr "Escrow"
+
+msgid "Orientation"
+msgstr "Προσανατολισμός"
+
+msgid "View"
+msgstr "Προβολή"
+
+msgid "Fields"
+msgstr "Πεδία"
+
+msgid "Hook"
+msgstr "Hook"
+
+msgid "Comment"
+msgstr "Σχόλιο"
+
+msgid "Buy"
+msgstr "Αγοράστε"
+
+msgid "Commercial"
+msgstr "Εμπορική"
+
+msgid "About us"
+msgstr "Σχετικά με εμάς"
+
+msgid "Services"
+msgstr "Υπηρεσίες"
+
+msgid "News"
+msgstr "Νέα"
+
+msgid "Contact us"
+msgstr "Επικοινωνήστε μαζί μας"
+
+msgid "Print"
+msgstr "Εκτύπωση"
+
+msgid "Add to cart"
+msgstr "Προσθήκη στο καλάθι"
+
+msgid "Replace in cart"
+msgstr "Αντικαταστήστε στο καλάθι"
+
+msgid "Category"
+msgstr "Κατηγορία"
+
+msgid "History"
+msgstr "Ιστορία"
+
+msgid "Details"
+msgstr "Λεπτομέρειες"
+
+msgid "Date"
+msgstr "Ημερομηνία"
+
+msgid "Past"
+msgstr "Προηγούμενο"
+
+msgid "Next"
+msgstr "Επόμενο"
+
+msgid "Quick search"
+msgstr "Γρήγορη αναζήτηση"
+
+msgid "Postal code"
+msgstr "Ταχυδρομικός κώδικας"
+
+msgid "The username and/or password is invalid."
+msgstr "Το όνομα χρήστη ή/και ο κωδικός πρόσβασης είναι άκυρα."
+
+msgid "Group"
+msgstr "Ομάδα"
+
+msgid "Are you sure?"
+msgstr "Είστε σίγουροι;"
+
+msgid "Nationality"
+msgstr "Εθνικότητα"
+
+msgid "Radius"
+msgstr "Ακτίνα"
+
+msgid "Summary"
+msgstr "Περίληψη"
+
+msgid "Watermark"
+msgstr "Υδατογράφημα"
+
+msgid "Latitude"
+msgstr "Γεωγραφικό πλάτος"
+
+msgid "Longitude"
+msgstr "Γεωγραφικό μήκος"
+
+msgid "Mortgage"
+msgstr "Υποθήκη"
+
+msgid "Download"
+msgstr "Λήψη"
+
+msgid "Dashboard"
+msgstr "Ταμπλό"
+
+msgid "Matching"
+msgstr "Αντιστοίχιση"
+
+msgid "Pay now by card"
+msgstr "Πληρώστε τώρα με κάρτα"
+
+msgid "Pay by bank transfer"
+msgstr "Πληρώστε με τραπεζικό έμβασμα"
+
+msgid "Pay by check"
+msgstr "Πληρώστε με επιταγή"
+
+msgid "Powered by"
+msgstr "Powered by"
+
+msgid "Accepted payment methods"
+msgstr "Αποδεκτές μέθοδοι πληρωμής"
+
+msgid "Terms and Conditions"
+msgstr "Όροι και Προϋποθέσεις"
+
+msgid ""
+"Your contact is already in database, please select it on the list below."
+msgstr ""
+"Η επαφή σας βρίσκεται ήδη στη βάση δεδομένων, παρακαλούμε επιλέξτε την από "
+"την παρακάτω λίστα."
+
+msgid "Contracts"
+msgstr "Συμβάσεις"
+
+msgid "Seekers"
+msgstr "Seekers"
+
+msgid "Active seekers"
+msgstr "Ενεργοί αιτούντες"
+
+msgid "Providers"
+msgstr "Πάροχοι"
+
+msgid "Owners"
+msgstr "Ιδιοκτήτες"
+
+msgid "Active owners"
+msgstr "Ενεργοί ιδιοκτήτες"
+
+msgid "Monitoring"
+msgstr "Παρακολούθηση"
+
+msgid "Forward"
+msgstr "Προώθηση"
+
+msgid "Similar"
+msgstr "Παρόμοια"
+
+msgid "Status"
+msgstr "Κατάσταση"
+
+msgid "Floor"
+msgstr "Όροφος"
+
+msgid "Description"
+msgstr "Περιγραφή"
+
+msgid "Deductions"
+msgstr "Εκπτώσεις"
+
+msgid "Not available"
+msgstr "Δεν διατίθεται"
+
+msgid "Occupants"
+msgstr "Κατοίκους"
+
+msgid "Prospect"
+msgstr "Προοπτική"
+
+msgid "Shares"
+msgstr "Μερίδια"
+
+msgid "Likes"
+msgstr "Likes"
+
+msgid "Like"
+msgstr "Like"
+
+msgid "Unlike"
+msgstr "Unlike"
+
+msgid "Portfolio"
+msgstr "Χαρτοφυλάκιο"
+
+msgid "Characteristics"
+msgstr "Χαρακτηριστικά"
+
+msgid "Contracted owner"
+msgstr "Συμβεβλημένος ιδιοκτήτης"
+
+msgid "Contracted owners"
+msgstr "Συμβεβλημένοι ιδιοκτήτες"
+
+msgid "Contracted customer"
+msgstr "Συμβεβλημένος πελάτης"
+
+msgid "Contracted customers"
+msgstr "Συμβεβλημένοι πελάτες"
+
+msgid "Transfer tax"
+msgstr "Φόρος μεταβίβασης"
+
+msgid "Change to"
+msgstr "Αλλαγή σε"
+
+msgid "Until"
+msgstr "Μέχρι"
+
+msgid "Location reference"
+msgstr "Αναφορά τοποθεσίας"
+
+msgid "Priority"
+msgstr "Προτεραιότητα"
+
+msgid "Full form"
+msgstr "Πλήρης μορφή"
+
+msgid "Quick form"
+msgstr "Γρήγορη φόρμα"
+
+msgid "%s char(s)"
+msgstr "%s char(s)"
+
+msgid "Price from"
+msgstr "Τιμή από"
+
+msgid "Listing"
+msgstr "Καταχώρηση"
+
+msgid "Listings"
+msgstr "Καταχωρήσεις"
+
+msgid "Duration"
+msgstr "Διάρκεια"
+
+msgid "Request incomplete"
+msgstr "Αίτηση ελλιπής"
+
+msgid "%s incomplete request(s)"
+msgstr "%s ελλιπές αίτημα(α)"
+
+msgid "Subscribe for"
+msgstr "Εγγραφείτε για"
+
+msgid "Configure"
+msgstr "Διαμόρφωση"
+
+msgid "Subtotal"
+msgstr "Υποσύνολο"
+
+msgid "Tax notice"
+msgstr "Φορολογική ειδοποίηση"
+
+msgid "Events"
+msgstr "Εκδηλώσεις"
+
+msgid "Present"
+msgstr "Παρόν"
+
+msgid "Missing"
+msgstr "Λείπει"
+
+msgid "Planned"
+msgstr "Προγραμματισμένο"
+
+msgid "Complete"
+msgstr "Πλήρης"
+
+msgid "Organizer"
+msgstr "Διοργανωτής"
+
+msgid "Already subscribed"
+msgstr "Ήδη εγγεγραμμένος"
+
+msgid "Attendees"
+msgstr "Συμμετέχοντες"
+
+msgid "Join"
+msgstr "Εγγραφείτε στο"
+
+msgid "Training"
+msgstr "Εκπαίδευση"
+
+msgid "Require a change of password at next logon"
+msgstr "Απαιτείται αλλαγή κωδικού πρόσβασης κατά την επόμενη σύνδεση"
+
+msgid "Gross revenue"
+msgstr "Ακαθάριστα έσοδα"
+
+msgid "Gross yield"
+msgstr "Ακαθάριστη απόδοση"
+
+msgid "Net yield"
+msgstr "Καθαρή απόδοση"
+
+msgid "Vacancy rate"
+msgstr "Ποσοστό κενών θέσεων"
+
+msgid "Investment"
+msgstr "Επένδυση"
+
+msgid "Lock"
+msgstr "Κλείδωμα"
+
+msgid "Variables"
+msgstr "Μεταβλητές"
+
+msgid "Example"
+msgstr "Παράδειγμα"
+
+msgid "Increment"
+msgstr "Αύξηση"
+
+msgid "Schema"
+msgstr "Σχήμα"
+
+msgid "Automation"
+msgstr "Αυτοματισμός"
+
+msgid "Login"
+msgstr "Σύνδεση"
+
+msgid "Renovation year"
+msgstr "Έτος ανακαίνισης"
+
+msgid "Curriculum vitae"
+msgstr "Βιογραφικό σημείωμα"
+
+msgid "Resellers"
+msgstr "Μεταπωλητές"
+
+msgid "Select"
+msgstr "Επιλέξτε το"
+
+msgid "Billing"
+msgstr "Τιμολόγηση"
+
+msgid "The balance of your account is %s"
+msgstr "Το υπόλοιπο του λογαριασμού σας είναι %s"
+
+msgid "Ceiling"
+msgstr "Ανώτατο όριο"
+
+msgid "Weighted area"
+msgstr "Σταθμισμένη περιοχή"
+
+msgid "Collected"
+msgstr "Εισπράττεται"
+
+msgid "Unlimited"
+msgstr "Απεριόριστα"
+
+msgid "Quantity"
+msgstr "Ποσότητα"
+
+msgid "Register"
+msgstr "Εγγραφή"
+
+msgid "Setup"
+msgstr "Εγκατάσταση"
+
+msgid "Active owner"
+msgstr "Ενεργός ιδιοκτήτης"
+
+msgid "Matching at"
+msgstr "Αντιστοίχιση σε"
+
+msgid "Price by area"
+msgstr "Τιμή ανά περιοχή"
+
+msgid "Default list"
+msgstr "Προεπιλεγμένη λίστα"
+
+msgid "Subtype"
+msgstr "Υποτύπος"
+
+msgid "Add a custom document"
+msgstr "Προσθήκη προσαρμοσμένου εγγράφου"
+
+msgid "Line spacing"
+msgstr "Απόσταση γραμμών"
+
+msgid "Font"
+msgstr "Γραμματοσειρά"
+
+msgid "Portrait"
+msgstr "Πορτραίτο"
+
+msgid "Landscape"
+msgstr "Οριζόντια"
+
+msgid "Accounts"
+msgstr "Λογαριασμοί"
+
+msgid "Optional"
+msgstr "Προαιρετικό"
+
+msgid "File"
+msgstr "Αρχείο"
+
+msgid "Collected at"
+msgstr "Συλλέγεται στο"
+
+msgid "Linked"
+msgstr "Συνδεδεμένο"
+
+msgid "Discover our offers"
+msgstr "Ανακαλύψτε τις προσφορές μας"
+
+msgid "Blank"
+msgstr "Κενό"
+
+msgid "Portal"
+msgstr "Πύλη"
+
+msgid "Software Documentation"
+msgstr "Τεκμηρίωση λογισμικού"
+
+msgid "Time"
+msgstr "Χρόνος"
+
+msgid "Dedicated website"
+msgstr "Αφιερωμένη ιστοσελίδα"
+
+msgid "Subcategory"
+msgstr "Υποκατηγορία"
+
+msgid "No IP control"
+msgstr "Δεν υπάρχει έλεγχος IP"
+
+msgid "Auto publish"
+msgstr "Αυτόματη δημοσίευση"
+
+msgid "Link to property"
+msgstr "Σύνδεση με ακίνητο"
+
+msgid "Happy birthday!"
+msgstr "Χρόνια πολλά!"
+
+msgid "Birthday"
+msgstr "Γενέθλια"
+
+msgid "Last login"
+msgstr "Τελευταία είσοδος"
+
+msgid "This property is a part of:"
+msgstr "Αυτό το ακίνητο αποτελεί μέρος του:"
+
+msgid "IP addresses"
+msgstr "Διευθύνσεις IP"
+
+msgid "Prospecting"
+msgstr "Prospecting"
+
+msgid "Access code at"
+msgstr "Κωδικός πρόσβασης στο"
+
+msgid "Number of shares"
+msgstr "Αριθμός μετοχών"
+
+msgid "Leads"
+msgstr "Οδηγίες"
+
+msgid "Cancelled"
+msgstr "Ακυρωθείσες"
+
+msgid "Link"
+msgstr "Σύνδεσμος"
+
+msgid "Advanced"
+msgstr "Προηγμένη"
+
+msgid "Publish on homepage"
+msgstr "Δημοσίευση στην αρχική σελίδα"
+
+msgid "Suggested"
+msgstr "Προτεινόμενο"
+
+msgid "Welcome on %s"
+msgstr "Καλώς ήρθατε στο %s"
+
+msgid "Content"
+msgstr "Περιεχόμενο"
+
+msgid "Extranet access"
+msgstr "Πρόσβαση στο Extranet"
+
+msgid "Publish address"
+msgstr "Δημοσίευση διεύθυνσης"
+
+msgid "Opening hours"
+msgstr "Ώρες λειτουργίας"
+
+msgid "Backoffice"
+msgstr "Backoffice"
+
+msgid "Member since %s"
+msgstr "Μέλος από %s"
+
+msgid "Lock menu bar"
+msgstr "Κλείδωμα της γραμμής μενού"
+
+msgid "Updates"
+msgstr "Ενημερώσεις"
+
+msgid "Reservations"
+msgstr "Κρατήσεις"
+
+msgid "Forward to contact"
+msgstr "Προώθηση σε επαφή"
+
+msgid "Responder"
+msgstr "Υπεύθυνος"
+
+msgid ""
+"You can search our Frequently Asked Questions (FAQs) database by keyword(s):"
+msgstr ""
+"Μπορείτε να αναζητήσετε τη βάση δεδομένων μας για τις Συχνές Ερωτήσεις "
+"(FAQs) με λέξεις-κλειδιά:"
+
+msgid "Registrar"
+msgstr ""
+
+msgid "Expiration at"
+msgstr "Λήξη σε"
+
+msgid "Mailbox"
+msgstr "Γραμματοκιβώτιο"
+
+msgid "Domain name"
+msgstr "Όνομα τομέα"
+
+msgid "Padding"
+msgstr "Συμπλήρωση"
+
+msgid "Size"
+msgstr "Μέγεθος"
+
+msgid "Deal fees"
+msgstr "Αμοιβές για συμφωνίες"
+
+msgid "Fees charged"
+msgstr "Χρεωστικές αμοιβές"
+
+msgid "Customer"
+msgstr "Πελάτης"
+
+msgid "Available"
+msgstr "Διαθέσιμος"
+
+msgid "Partner"
+msgstr "Συνεργάτης"
+
+msgid "Ceiling height"
+msgstr "Ύψος οροφής"
+
+msgid "Translations"
+msgstr "Μεταφράσεις"
+
+msgid "Unsold"
+msgstr "Μη πωληθέντα"
+
+msgid "Sold"
+msgstr "Πωλείται"
+
+msgid "Last action"
+msgstr "Τελευταία ενέργεια"
+
+msgid "Our agency"
+msgstr "Το πρακτορείο μας"
+
+msgid "Locate us"
+msgstr "Εντοπίστε μας"
+
+msgid "Your main contact"
+msgstr "Η κύρια επαφή σας"
+
+msgid "Send me a message"
+msgstr "Στείλτε μου ένα μήνυμα"
+
+msgid "Leave us a message"
+msgstr "Αφήστε μας ένα μήνυμα"
+
+msgid "Price with fees"
+msgstr "Τιμή με αμοιβές"
+
+msgid "Owner access"
+msgstr "Πρόσβαση ιδιοκτήτη"
+
+msgid "Added"
+msgstr "Προστέθηκε"
+
+msgid "Available for matching"
+msgstr "Διαθέσιμο για αντιστοίχιση"
+
+msgid "Available at"
+msgstr "Διαθέσιμο σε"
+
+msgid "Lessee"
+msgstr "Μισθωτής"
+
+msgid "Add to list"
+msgstr "Προσθήκη στη λίστα"
+
+msgid "Custom tags"
+msgstr "Προσαρμοσμένες ετικέτες"
+
+msgid "%s pending approval properties"
+msgstr "%s ιδιότητες που εκκρεμούν προς έγκριση"
+
+msgid "Negotiable price"
+msgstr "Διαπραγματεύσιμη τιμή"
+
+msgid "Price updated"
+msgstr "Ενημερωμένη τιμή"
+
+msgid "Less equal"
+msgstr "Λιγότερο ίσο"
+
+msgid "Equal"
+msgstr "Ίση"
+
+msgid "Greater equal"
+msgstr "Μεγαλύτερο ίσο"
+
+msgid "Preference"
+msgstr "Προτιμήσεις"
+
+msgid "Contact means"
+msgstr "Μέσα επικοινωνίας"
+
+msgid "Agency commission"
+msgstr "Προμήθεια οργανισμού"
+
+msgid "Scheduled at"
+msgstr "Προγραμματισμένο σε"
+
+msgid "Contracted at"
+msgstr "Σύμβαση σε"
+
+msgid "Commitment"
+msgstr "Δέσμευση"
+
+msgid "Commitment at"
+msgstr "Δέσμευση σε"
+
+msgid "Offer at"
+msgstr "Προσφορά σε"
+
+msgid "No action"
+msgstr "Καμία ενέργεια"
+
+msgid "Received contact information"
+msgstr "Στοιχεία επικοινωνίας"
+
+msgid "Linked contact"
+msgstr "Συνδεδεμένη επαφή"
+
+msgid "Related contacts"
+msgstr "Σχετικές επαφές"
+
+msgid "Others"
+msgstr "Άλλοι"
+
+msgid "Assigned to"
+msgstr "Ανατέθηκε σε"
+
+msgid "Assign to"
+msgstr "Ανάθεση σε"
+
+msgid "Assign by"
+msgstr "Ανάθεση από"
+
+msgid "Opened by"
+msgstr "Ανοίχτηκε από"
+
+msgid "Closed by"
+msgstr "Κλειστό από"
+
+msgid "Time zone"
+msgstr "Ζώνη ώρας"
+
+msgid "Customers"
+msgstr "Πελάτες"
+
+msgid "Invert selection"
+msgstr "Αντιστροφή επιλογής"
+
+msgid "Select all"
+msgstr "Επιλογή όλων"
+
+msgid "Unselect all"
+msgstr "Αποεπιλογή όλων"
+
+msgid "%s awaiting lead(s)"
+msgstr "%s αναμονή οδηγού(ών)"
+
+msgid "%s lead(s) to assign"
+msgstr "%s lead(s) προς ανάθεση"
+
+msgid "%s pending properties"
+msgstr "%s εκκρεμείς ιδιότητες"
+
+msgid "%s pending matching(s)"
+msgstr "%s εκκρεμεί αντιστοίχιση(ες)"
+
+msgid "%s expired agreement(s)"
+msgstr "%s ληγμένες συμφωνίες"
+
+msgid "%s expired soon agreement(s)"
+msgstr "%s έληξε σύντομα συμφωνία(-ες)"
+
+msgid "Legal notice"
+msgstr "Νομική ειδοποίηση"
+
+msgid "Tags"
+msgstr "Ετικέτες"
+
+msgid "Allowed"
+msgstr "Επιτρεπόμενη"
+
+msgid "Min stay"
+msgstr "Ελάχιστη διαμονή"
+
+msgid "Over"
+msgstr "Πάνω από"
+
+msgid "Renew"
+msgstr "Ανανέωση"
+
+msgid "Free text"
+msgstr "Ελεύθερο κείμενο"
+
+msgid "Generate comment"
+msgstr "Δημιουργία σχολίου"
+
+msgid "Building name"
+msgstr "Όνομα κτιρίου"
+
+msgid "VAT"
+msgstr "ΦΠΑ"
+
+msgid "VAT included"
+msgstr "Περιλαμβάνεται ΦΠΑ"
+
+msgid "VAT excluded"
+msgstr "Χωρίς ΦΠΑ"
+
+msgid "Recurrence"
+msgstr "Επανάληψη"
+
+msgid "Calculate"
+msgstr "Υπολογισμός"
+
+msgid "Contribution"
+msgstr "Συνεισφορά"
+
+msgid "Maximum debt"
+msgstr "Μέγιστη οφειλή"
+
+msgid "Purchase amount"
+msgstr "Ποσό αγοράς"
+
+msgid "Borrowing calculator"
+msgstr "Υπολογιστής δανεισμού"
+
+msgid "Monthly payment calculator"
+msgstr "Υπολογιστής μηνιαίας πληρωμής"
+
+msgid "You don't have broadcasting rights"
+msgstr "Δεν έχετε δικαιώματα μετάδοσης"
+
+msgid "Pending"
+msgstr "Εκκρεμεί το"
+
+msgid "Suggestions"
+msgstr "Προτάσεις"
+
+msgid "To show"
+msgstr "Για προβολή"
+
+msgid "Automatic"
+msgstr "Αυτόματο"
+
+msgid "Manual"
+msgstr "Χειροκίνητα"
+
+msgid "In collaboration with a %name% professional"
+msgstr "Σε συνεργασία με επαγγελματία %name%"
+
+msgid "Partners"
+msgstr "Συνεργάτες"
+
+msgid "Costs"
+msgstr "Κόστος"
+
+msgid "My search"
+msgstr "Η αναζήτησή μου"
+
+msgid "Units"
+msgstr "Μονάδες"
+
+msgid "Spouse"
+msgstr "Σύζυγος"
+
+msgid "Manager"
+msgstr "Διευθυντής"
+
+msgid "Category reference"
+msgstr "Αναφορά κατηγορίας"
+
+msgid "Cadastre reference"
+msgstr "Αναφορά κτηματολογίου"
+
+msgid "Lot reference"
+msgstr "Αναφορά παρτίδας"
+
+msgid "Block reference"
+msgstr "Αναφορά οικοδομικού τετραγώνου"
+
+msgid "Stairs reference"
+msgstr "Αναφορά σκάλας"
+
+msgid "Mortgage end at"
+msgstr "Τέλος υποθήκης σε"
+
+msgid "Review"
+msgstr "Αναθεώρηση"
+
+msgid "Media"
+msgstr "Μέσα ενημέρωσης"
+
+msgid "Medias"
+msgstr "Μέσα"
+
+msgid "Last access"
+msgstr "Τελευταία πρόσβαση"
+
+msgid "First access"
+msgstr "Πρώτη πρόσβαση"
+
+msgid "Access count"
+msgstr "Αριθμός προσβάσεων"
+
+msgid "Default"
+msgstr "Προεπιλογή"
+
+msgid "Please do not enter any name or contact"
+msgstr "Παρακαλώ μην εισάγετε όνομα ή επαφή"
+
+msgid "QR-Code"
+msgstr "QR-Code"
+
+msgid "Show price"
+msgstr "Εμφάνιση τιμής"
+
+msgid "Done"
+msgstr "Έγινε"
+
+msgid "Not applicable"
+msgstr "Δεν ισχύει"
+
+msgid "Fill in the table"
+msgstr "Συμπληρώστε τον πίνακα"
+
+msgid "Option"
+msgstr "Επιλογή"
+
+msgid "copy"
+msgstr "αντίγραφο"
+
+msgid "Automatic matching"
+msgstr "Αυτόματη αντιστοίχιση"
+
+msgid "Authorization"
+msgstr "Εξουσιοδότηση"
+
+msgid "Last connection the %s"
+msgstr "Τελευταία σύνδεση η %s"
+
+msgid "All"
+msgstr "Όλα"
+
+msgid "Wiki"
+msgstr "Wiki"
+
+msgid "Latest"
+msgstr "Τελευταία"
+
+msgid "Reset"
+msgstr "Επαναφορά"
+
+msgid "Show/hide fields"
+msgstr "Εμφάνιση/απόκρυψη πεδίων"
+
+msgid "Recent searches"
+msgstr "Πρόσφατες αναζητήσεις"
+
+msgid "Association"
+msgstr "Ένωση"
+
+msgid "Meta crawler"
+msgstr "Meta crawler"
+
+msgid "Alerts"
+msgstr "Ειδοποιήσεις"
+
+msgid "Prescribers"
+msgstr "Συνταγογράφοι"
+
+msgid "Personal"
+msgstr "Προσωπικό"
+
+msgid "Standing"
+msgstr "Μόνιμο"
+
+msgid "Receive a copy"
+msgstr "Λάβετε αντίγραφο"
+
+msgid "Latest views"
+msgstr "Τελευταίες απόψεις"
+
+msgid "Quality"
+msgstr "Ποιότητα"
+
+msgid "Waiting for partner"
+msgstr "Αναμονή για συνεργάτη"
+
+msgid "Viewing agreement"
+msgstr "Συμφωνία προβολής"
+
+msgid "Decline"
+msgstr "Απόρριψη"
+
+msgid "Declined"
+msgstr "Απορρίφθηκε"
+
+msgid "Accept"
+msgstr "Αποδοχή"
+
+msgid "Accepted"
+msgstr "Αποδεκτή"
+
+msgid "Zones"
+msgstr "Ζώνες"
+
+msgid "Zone"
+msgstr "Ζώνη"
+
+msgid "Matrimonial regime"
+msgstr "Γαμήλιο καθεστώς"
+
+msgid "Marital status"
+msgstr "Οικογενειακό καθεστώς"
+
+msgid "Thumbnail"
+msgstr "Μικρογραφία"
+
+msgid "Unread"
+msgstr "Μη αναγνωσμένο"
+
+msgid "Reply"
+msgstr "Απάντηση"
+
+msgid "Pension"
+msgstr "Σύνταξη"
+
+msgid "Beam"
+msgstr "Beam"
+
+msgid "Guests"
+msgstr "Επισκέπτες"
+
+msgid "Crew"
+msgstr "Πλήρωμα"
+
+msgid "Cruising speed"
+msgstr "Ταχύτητα κρουαζιέρας"
+
+msgid "Builder"
+msgstr "Κατασκευαστής"
+
+msgid "Administration"
+msgstr "Διοίκηση"
+
+msgid "Civil law notary"
+msgstr "Συμβολαιογράφος"
+
+msgid "Max price"
+msgstr "Μέγιστη τιμή"
+
+msgid "Messages"
+msgstr "Μηνύματα"
+
+msgid "Reminders"
+msgstr "Υπενθυμίσεις"
+
+msgid "Credit"
+msgstr "Πιστωτική"
+
+msgid "Signatures"
+msgstr "Υπογραφές"
+
+msgid "Title (politeness)"
+msgstr "Τίτλος (ευγένεια)"
+
+msgid "Amount"
+msgstr "Ποσό"
+
+msgid "Amounts"
+msgstr "Ποσά"
+
+msgid "Updated at"
+msgstr "Ενημερώθηκε στις"
+
+msgid "Created at"
+msgstr "Δημιουργήθηκε στις"
+
+msgid "First published at"
+msgstr "Πρώτη δημοσίευση στις"
+
+msgid "Insurance"
+msgstr "Ασφάλιση"
+
+msgid "Forecast"
+msgstr "Πρόβλεψη"
+
+msgid "Entries"
+msgstr "Ενδείξεις"
+
+msgid "Number"
+msgstr "Αριθμός"
+
+msgid "Terrace"
+msgstr "Ταράτσα"
+
+msgid "Plot of land area"
+msgstr "Έκταση οικοπέδου"
+
+msgid "Deposit account"
+msgstr "Λογαριασμός κατάθεσης"
+
+msgid "Owner's price"
+msgstr "Τιμή ιδιοκτήτη"
+
+msgid "Starting price"
+msgstr "Τιμή εκκίνησης"
+
+msgid "Mobile"
+msgstr "Κινητό"
+
+msgid "Tel."
+msgstr "Τηλ."
+
+msgid "Leasehold"
+msgstr "Μίσθωση"
+
+msgid "Leases"
+msgstr "Μισθώσεις"
+
+msgid "Address"
+msgstr "Διεύθυνση"
+
+msgid "Searches"
+msgstr "Αναζητήσεις"
+
+msgid "Tips"
+msgstr "Συμβουλές"
+
+msgid "Unsubscribed"
+msgstr "Διαγραφή"
+
+msgid "Maps"
+msgstr "Χάρτες"
+
+msgid "Days"
+msgstr "Ημέρες"
+
+msgid "Catalog"
+msgstr "Κατάλογος"
+
+msgid "contacts"
+msgstr "επαφές"
+
+msgid "Statistics"
+msgstr "Στατιστικά στοιχεία"
+
+msgid "Built in"
+msgstr "Χτισμένο σε"
+
+msgid "Mark"
+msgstr "Mark"
+
+msgid "Quota"
+msgstr "Ποσοστό"
+
+msgid "Visits"
+msgstr "Επισκέψεις"
+
+msgid "Visit comment"
+msgstr "Σχόλιο επίσκεψης"
+
+msgid "Key number"
+msgstr "Βασικός αριθμός"
+
+msgid "Key's place"
+msgstr "Θέση του κλειδιού"
+
+msgid "Displayed city (optional)"
+msgstr "Εμφανιζόμενη πόλη (προαιρετικά)"
+
+msgid "Displayed district (optional)"
+msgstr "Εμφανιζόμενη περιοχή (προαιρετικά)"
+
+msgid "Clauses"
+msgstr "Ρήτρες"
+
+msgid "Bathrooms"
+msgstr "Μπάνια"
+
+msgid "Seller"
+msgstr "Πωλητής"
+
+msgid "Adjacency"
+msgstr "Adjacency"
+
+msgid "Step"
+msgstr "Βήμα"
+
+msgid "Long comment"
+msgstr "Μεγάλο σχόλιο"
+
+msgid "Subtitle"
+msgstr "Υπότιτλος"
+
+msgid "Title"
+msgstr "Τίτλος"
+
+msgid "Last published at"
+msgstr "Τελευταία δημοσίευση"
+
+msgid "floor"
+msgstr "όροφος"
+
+msgid "Inactive"
+msgstr "Ανενεργό"
+
+msgid "Position"
+msgstr "Θέση"
+
+msgid "Please fill in a name and a phone or an e-mail."
+msgstr "Συμπληρώστε ένα όνομα και ένα τηλέφωνο ή ένα e-mail."
+
+msgid "Passwords do not match, please retype"
+msgstr ""
+"Οι κωδικοί πρόσβασης δεν ταιριάζουν, παρακαλούμε επαναλάβετε την "
+"πληκτρολόγηση."
+
+msgid "Please change your password"
+msgstr "Παρακαλώ αλλάξτε τον κωδικό σας"
+
+msgid "New password should not be same as old password"
+msgstr "Ο νέος κωδικός πρόσβασης δεν πρέπει να είναι ο ίδιος με τον παλιό"
+
+msgid "year"
+msgstr "έτος"
+
+msgid "Subscriptions"
+msgstr "Συνδρομές"
+
+msgid "Tour comment"
+msgstr "Σχόλιο περιοδείας"
+
+msgid "Actions"
+msgstr "Ενέργειες"
+
+msgid "Ad"
+msgstr "Αγγελία"
+
+msgid "Add opening hours"
+msgstr "Προσθήκη ωρών λειτουργίας"
+
+msgid "Ref"
+msgstr "Ref"
+
+msgid "price"
+msgstr "τιμή"
+
+msgid ""
+"Please note that there are dependencies, please select a contact for "
+"completing the data transfer."
+msgstr ""
+"Σημειώστε ότι υπάρχουν εξαρτήσεις, παρακαλούμε επιλέξτε μια επαφή για την "
+"ολοκλήρωση της μεταφοράς δεδομένων."
+
+msgid "The installation can take several minutes, please come back later."
+msgstr ""
+"Η εγκατάσταση μπορεί να διαρκέσει αρκετά λεπτά, παρακαλούμε να επανέλθετε "
+"αργότερα."
+
+msgid "Your contact speaks %s, would you like to change the language?"
+msgstr "Η επαφή σας μιλάει %s, θα θέλατε να αλλάξετε τη γλώσσα;"
+
+msgid "Would you like to publish on the homepage?"
+msgstr "Θα θέλατε να δημοσιεύσετε στην αρχική σελίδα;"
+
+msgid "plus VAT"
+msgstr "συν ΦΠΑ"
+
+msgid "<b>Warning :</b> there is an error, please check each fields."
+msgstr ""
+"<b>Προειδοποίηση :</b> υπάρχει σφάλμα, παρακαλούμε ελέγξτε κάθε πεδίο."
+
+msgid "Price/sq m"
+msgstr "Τιμή/τ.μ."
+
+msgid "today"
+msgstr "σήμερα"
+
+msgid "week"
+msgstr "εβδομάδα"
+
+msgid "day"
+msgstr "ημέρα"
+
+msgid "from %from_value% to %to_value%"
+msgstr "από %from_value% έως %to_value%"
+
+msgid "message"
+msgstr "μήνυμα"
+
+msgid "Page"
+msgstr "Σελίδα"
+
+msgid "Action"
+msgstr "Δράση"
+
+msgid "Agencies"
+msgstr "Φορείς"
+
+msgid "agencies"
+msgstr "οργανισμοί"
+
+msgid "Context"
+msgstr "Πλαίσιο"
+
+msgid "More criteria"
+msgstr "Περισσότερα κριτήρια"
+
+msgid "Criteria"
+msgstr "Κριτήρια"
+
+msgid "Classification"
+msgstr "Ταξινόμηση"
+
+msgid "metres"
+msgstr "μέτρα"
+
+msgid "Window"
+msgstr "Παράθυρο"
+
+msgid "Stock area"
+msgstr "Περιοχή αποθέματος"
+
+msgid "Sales area"
+msgstr "Περιοχή πωλήσεων"
+
+msgid "Sold price"
+msgstr "Τιμή πώλησης"
+
+msgid "Broadcast to"
+msgstr "Εκπομπή σε"
+
+msgid "The property will not be published because it is in step « %s »"
+msgstr "Το ακίνητο δεν θα δημοσιευτεί επειδή βρίσκεται στο βήμα  %s"
+
+msgid "Last agencies"
+msgstr "Τελευταία γραφεία"
+
+msgid "I confirm my subscription to %s and I accept the general conditions"
+msgstr "Επιβεβαιώνω την εγγραφή μου στο %s και αποδέχομαι τους γενικούς όρους"
+
+msgid "from %from_date% to %to_date%"
+msgstr "από %from_date% έως %to_date%"
+
+msgid "sq m"
+msgstr "τ.μ."
+
+msgid "days"
+msgstr "ημέρες"
+
+msgid "bedrooms"
+msgstr "υπνοδωμάτια"
+
+msgid "bedroom"
+msgstr "υπνοδωμάτιο"
+
+msgid "rooms"
+msgstr "δωμάτια"
+
+msgid "room"
+msgstr "δωμάτιο"
+
+msgid "Comments"
+msgstr "Σχόλια"
+
+msgid "comment"
+msgstr "σχόλιο"
+
+msgid "comments"
+msgstr "σχόλια"
+
+msgid "Private comment"
+msgstr "Ιδιωτικό σχόλιο"
+
+msgid "Private"
+msgstr "Ιδιωτικό"
+
+msgid "Levels"
+msgstr "Επίπεδα"
+
+msgid "Level"
+msgstr "Επίπεδο"
+
+msgid "Exchanges"
+msgstr "Ανταλλαγές"
+
+msgid "Exchange"
+msgstr "Ανταλλαγή"
+
+msgid "by"
+msgstr "από"
+
+msgid "n.a"
+msgstr "α.α."
+
+msgid "Elevator"
+msgstr "Ανελκυστήρας"
+
+msgid "no"
+msgstr "όχι"
+
+msgid "yes"
+msgstr "ναι"
+
+msgid "Printed with care"
+msgstr "Εκτυπωμένο με προσοχή"
+
+msgid "Please do not litter on public way"
+msgstr "Παρακαλείστε να μην πετάτε σκουπίδια σε δημόσιο δρόμο"
+
+msgid "Non-contractual information"
+msgstr "Μη συμβατικές πληροφορίες"
+
+msgid "Agency fees"
+msgstr "Αμοιβές πρακτορείου"
+
+msgid "Agency fees included"
+msgstr "Περιλαμβάνονται οι αμοιβές του πρακτορείου"
+
+msgid "Agency fees not included"
+msgstr "Δεν περιλαμβάνονται οι αμοιβές πρακτορείου"
+
+msgid "Fees"
+msgstr "Αμοιβές"
+
+msgid "Personal property tax"
+msgstr "Φόρος προσωπικής περιουσίας"
+
+msgid "Style"
+msgstr "Στυλ"
+
+msgid "Parkings"
+msgstr "Πάρκινγκ"
+
+msgid "Kitchen"
+msgstr "Κουζίνα"
+
+msgid "Pictures"
+msgstr "Εικόνες"
+
+msgid "Window card"
+msgstr "Κάρτα παραθύρου"
+
+msgid "Private sheet"
+msgstr "Ιδιωτικό φύλλο"
+
+msgid "Public sheet"
+msgstr "Δημόσιο φύλλο"
+
+msgid "Service"
+msgstr "Υπηρεσία"
+
+msgid "Language"
+msgstr "Γλώσσα"
+
+msgid "Cart"
+msgstr "Καλάθι"
+
+msgid "Land type"
+msgstr "Τύπος γης"
+
+msgid "Property agent"
+msgstr "Πράκτορας ακινήτων"
+
+msgid "Account"
+msgstr "Λογαριασμός"
+
+msgid "End at"
+msgstr "Τέλος σε"
+
+msgid "Close at"
+msgstr "Κλείσιμο σε"
+
+msgid "Start at"
+msgstr "Έναρξη σε"
+
+msgid "Guarantees"
+msgstr "Εγγυήσεις"
+
+msgid "Updated"
+msgstr "Ενημέρωση"
+
+msgid "Type"
+msgstr "Τύπος"
+
+msgid "Inter-agencies"
+msgstr "Διυπηρεσίες"
+
+msgid "Number of floors"
+msgstr "Αριθμός ορόφων"
+
+msgid "Evaluated price"
+msgstr "Αξιολογημένη τιμή"
+
+msgid "Seller's commission"
+msgstr "Προμήθεια του πωλητή"
+
+msgid "Buyer's commission"
+msgstr "Προμήθεια αγοραστή"
+
+msgid "Commission"
+msgstr "Προμήθεια"
+
+msgid "Origin"
+msgstr "Προέλευση"
+
+msgid "Specific origin"
+msgstr "Ειδική προέλευση"
+
+msgid "Flooring"
+msgstr "Δάπεδο"
+
+msgid "Rank"
+msgstr "Κατάταξη"
+
+msgid "Calls"
+msgstr "Προσκλήσεις"
+
+msgid "Phone call"
+msgstr "Κλήση"
+
+msgid "Publications"
+msgstr "Δημοσιεύσεις"
+
+msgid "Send to contact"
+msgstr "Στείλτε στην επαφή"
+
+msgid "No results found"
+msgstr "Δεν βρέθηκαν αποτελέσματα"
+
+msgid "Results"
+msgstr "Αποτελέσματα"
+
+msgid "Result"
+msgstr "Αποτέλεσμα"
+
+msgid "results"
+msgstr "αποτελέσματα"
+
+msgid "result"
+msgstr "αποτέλεσμα"
+
+msgid "Advertiser"
+msgstr "Διαφημιστής"
+
+msgid "Active"
+msgstr "Ενεργό"
+
+msgid "Confidential"
+msgstr "Εμπιστευτικό"
+
+msgid "Activity"
+msgstr "Δραστηριότητα"
+
+msgid "Companies"
+msgstr "Εταιρείες"
+
+msgid "Processed"
+msgstr "Επεξεργασία"
+
+msgid "Store"
+msgstr "Αποθήκευση"
+
+msgid "Succession"
+msgstr "Διαδοχή"
+
+msgid "Please fill in a city."
+msgstr "Παρακαλούμε συμπληρώστε μια πόλη."
+
+msgid "Guarantee"
+msgstr "Εγγύηση"
+
+msgid "Please fill"
+msgstr "Παρακαλώ συμπληρώστε"
+
+msgid "The email address is invalid."
+msgstr "Η διεύθυνση ηλεκτρονικού ταχυδρομείου είναι άκυρη."
+
+msgid "Rights"
+msgstr "Δικαιώματα"
+
+msgid "Since"
+msgstr "Από το"
+
+msgid "Filter"
+msgstr "Φίλτρο"
+
+msgid "Min"
+msgstr "Ελάχιστο"
+
+msgid "Max"
+msgstr "Max"
+
+msgid "Lessor"
+msgstr "Εκμισθωτής"
+
+msgid "Booking"
+msgstr "Κράτηση"
+
+msgid "Sleeps"
+msgstr "Κρεβάτια"
+
+msgid "Cleaning price"
+msgstr "Τιμή καθαρισμού"
+
+msgid "Availabilities"
+msgstr "Διαθεσιμότητες"
+
+msgid "Sent"
+msgstr "Sent"
+
+msgid "Year"
+msgstr "Έτος"
+
+msgid "years"
+msgstr "έτη"
+
+msgid "months"
+msgstr "μήνες"
+
+msgid "month"
+msgstr "μήνας"
+
+msgid "Seasons"
+msgstr "Εποχές"
+
+msgid "Season"
+msgstr "Εποχή"
+
+msgid "Values"
+msgstr "Τιμές"
+
+msgid "Todo"
+msgstr "Todo"
+
+msgid "Brands"
+msgstr "Μάρκες"
+
+msgid "Brand"
+msgstr "Μάρκα"
+
+msgid "Publicated at"
+msgstr "Δημοσιευμένο σε"
+
+msgid "Bank"
+msgstr "Τράπεζα"
+
+msgid "Brief comment"
+msgstr "Σύντομο σχόλιο"
+
+msgid "Delivery at"
+msgstr "Παράδοση σε"
+
+msgid "Reason"
+msgstr "Λόγος"
+
+msgid "What's new"
+msgstr "Τι νέο υπάρχει"
+
+msgid "Requests"
+msgstr "Αιτήματα"
+
+msgid "Request"
+msgstr "Αίτημα"
+
+msgid "requests"
+msgstr "αιτήματα"
+
+msgid "request"
+msgstr "αίτημα"
+
+msgid "Current rent"
+msgstr "Τρέχον ενοίκιο"
+
+msgid "Properties"
+msgstr "Ακίνητα"
+
+msgid "properties"
+msgstr "ακίνητα"
+
+msgid "property"
+msgstr "ιδιοκτησία"
+
+msgid "Bill"
+msgstr "Bill"
+
+msgid "Calculator"
+msgstr "Υπολογιστής"
+
+msgid "Birthplace"
+msgstr "Τόπος γέννησης"
+
+msgid "Income"
+msgstr "Εισόδημα"
+
+msgid "Margin"
+msgstr "Περιθώριο"
+
+msgid "Required."
+msgstr "Απαιτείται."
+
+msgid "Seasonal"
+msgstr "Εποχιακή"
+
+msgid "Spoken language"
+msgstr "Ομιλούμενη γλώσσα"
+
+msgid "Number of children"
+msgstr "Αριθμός παιδιών"
+
+msgid "Hotline"
+msgstr "Γραμμή επικοινωνίας"
+
+msgid "Re-type password"
+msgstr "Επανεισαγωγή κωδικού πρόσβασης"
+
+msgid "Public longitude"
+msgstr "Δημόσιο γεωγραφικό μήκος"
+
+msgid "Public latitude"
+msgstr "Δημόσιο γεωγραφικό πλάτος"
+
+msgid "Access denied"
+msgstr "Άρνηση πρόσβασης"
+
+msgid "Access"
+msgstr "Πρόσβαση"
+
+msgid "Launch"
+msgstr "Εκκίνηση"
+
+msgid "Shortcuts"
+msgstr "Συντομεύσεις"
+
+msgid "Subscription"
+msgstr "Συνδρομή"
+
+msgid "SEO"
+msgstr "SEO"
+
+msgid "Life annuity length"
+msgstr "Μήκος προσόδου ζωής"
+
+msgid "Market value"
+msgstr "Αγοραία αξία"
+
+msgid "Price contribution"
+msgstr "Εισφορά τιμής"
+
+msgid "Sharing"
+msgstr "Επιμερισμός"
+
+msgid "Show more results"
+msgstr "Εμφάνιση περισσότερων αποτελεσμάτων"
+
+msgid "Close"
+msgstr "Κλείστε το"
+
+msgid "Hide"
+msgstr "Απόκρυψη"
+
+msgid "Keywords"
+msgstr "Λέξεις κλειδιά"
+
+msgid "Corporate register"
+msgstr "Εταιρικό μητρώο"
+
+msgid "Expired soon"
+msgstr "Λήγει σύντομα"
+
+msgid "Expired"
+msgstr "Λήγει"
+
+msgid "Agreements"
+msgstr "Συμφωνίες"
+
+msgid "Agreement number"
+msgstr "Αριθμός συμφωνίας"
+
+msgid "VAT identification number"
+msgstr "Αριθμός μητρώου ΦΠΑ"
+
+msgid "What's on your mind?"
+msgstr "Τι έχετε στο μυαλό σας;"
+
+msgid "Buyer"
+msgstr "Αγοραστής"
+
+msgid "Prescriber"
+msgstr "Συνταγογράφος"
+
+msgid "Message sent"
+msgstr "Αποστολή μηνύματος"
+
+msgid "Limit"
+msgstr "Όριο"
+
+msgid "Publish"
+msgstr "Δημοσίευση"
+
+msgid "Do not publish"
+msgstr "Μη δημοσίευση"
+
+msgid "Cancel"
+msgstr "Ακύρωση"
+
+msgid "Already suggested"
+msgstr "Έχει ήδη προταθεί"
+
+msgid "To suggest"
+msgstr "Για να προτείνετε"
+
+msgid "Suggest"
+msgstr "Προτείνετε"
+
+msgid "Footer"
+msgstr "Υποσέλιδο"
+
+msgid "Header"
+msgstr "Κεφαλίδα"
+
+msgid "Serviced plot"
+msgstr "Εξυπηρετούμενο οικόπεδο"
+
+msgid "Net floor area"
+msgstr "Καθαρή επιφάνεια"
+
+msgid "Sold at"
+msgstr "Πουλήθηκε σε"
+
+msgid "Preview"
+msgstr "Προεπισκόπηση"
+
+msgid "Garden area"
+msgstr "Έκταση κήπου"
+
+msgid "Payment"
+msgstr "Πληρωμή"
+
+msgid "Reopen"
+msgstr "Επαναλειτουργία"
+
+msgid "Completed"
+msgstr "Ολοκληρώθηκε"
+
+msgid "Callback"
+msgstr "Callback"
+
+msgid "Callbacks"
+msgstr "Επανακλήσεις"
+
+msgid "Total"
+msgstr "Σύνολο"
+
+msgid "Residences"
+msgstr "Κατοικίες"
+
+msgid "%s properties"
+msgstr "%s ακίνητα"
+
+msgid "%s property"
+msgstr "%s ιδιοκτησία"
+
+msgid "%s request"
+msgstr "%s αίτηση"
+
+msgid "%s requests"
+msgstr "%s αιτήματα"
+
+msgid "Activities"
+msgstr "Δραστηριότητες"
+
+msgid "Sorry, this property is no longer available."
+msgstr "Λυπούμαστε, αυτό το ακίνητο δεν είναι πλέον διαθέσιμο."
+
+msgid "remaining tickets"
+msgstr "εναπομείναντα εισιτήρια"
+
+msgid "Congratulations ! No more support tickets."
+msgstr "Συγχαρητήρια! Δεν υπάρχουν άλλα εισιτήρια υποστήριξης."
+
+msgid "unassigned tickets"
+msgstr "μη εκχωρημένα εισιτήρια"
+
+msgid "All tickets are assigned."
+msgstr "Όλα τα εισιτήρια έχουν εκχωρηθεί."
+
+msgid "task in progress"
+msgstr "εργασία σε εξέλιξη"
+
+msgid "Database"
+msgstr "Βάση δεδομένων"
+
+msgid "Used"
+msgstr "Χρησιμοποιείται"
+
+msgid "%s results"
+msgstr "%s Αποτελέσματα"
+
+msgid "Redirects"
+msgstr "Αναδρομολογήσεις"
+
+msgid "Subscribe to the newsletter"
+msgstr "Εγγραφείτε στο ενημερωτικό δελτίο"
+
+msgid "Purge"
+msgstr "Εκκαθάριση"
+
+msgid "Valuation methods"
+msgstr "Μέθοδοι αποτίμησης"
+
+msgid "Rebuild cost"
+msgstr "Κόστος ανακατασκευής"
+
+msgid "Capitalization"
+msgstr "Κεφαλαιοποίηση"
+
+msgid "Comparative market analysis"
+msgstr "Συγκριτική ανάλυση της αγοράς"
+
+msgid "An average of"
+msgstr "Ένας μέσος όρος"
+
+msgid "Your own valuation"
+msgstr "της δικής σας αποτίμησης"
+
+msgid "Desired profitability"
+msgstr "Επιθυμητή κερδοφορία"
+
+msgid "Taxes and/or fees"
+msgstr "Φόροι και/ή τέλη"
+
+msgid "Year of purchase"
+msgstr "Έτος αγοράς"
+
+msgid "Rental income"
+msgstr "Εισόδημα από ενοίκια"
+
+msgid "Price of purchase"
+msgstr "Τιμή αγοράς"
+
+msgid "Land price"
+msgstr "Τιμή γης"
+
+msgid "Cost of construction"
+msgstr "Κόστος κατασκευής"
+
+msgid "Interior fittings"
+msgstr "Εσωτερικός εξοπλισμός"
+
+msgid "Landscaping"
+msgstr "Διαμόρφωση περιβάλλοντος χώρου"
+
+msgid "Decrepitude"
+msgstr "Αποκλιμάκωση"
+
+msgid "Capital losses"
+msgstr "Απώλειες κεφαλαίου"
+
+msgid "Capital gains"
+msgstr "Κεφαλαιακά κέρδη"
+
+msgid "Your mailbox has exceeded the storage limit (%s)"
+msgstr "Το γραμματοκιβώτιό σας έχει υπερβεί το όριο αποθήκευσης (%s)"
+
+msgid "Your mailbox will reach the storage limit"
+msgstr "Το γραμματοκιβώτιό σας θα φτάσει το όριο αποθήκευσης"
+
+msgid "Sort by"
+msgstr "Ταξινόμηση κατά"
+
+msgid "Condominium in difficulty"
+msgstr "Συγκυριαρχία σε δυσκολία"
+
+msgid "Back to the list"
+msgstr "Επιστροφή στη λίστα"
+
+msgid "Previous listing"
+msgstr "Προηγούμενη λίστα"
+
+msgid "Next listing"
+msgstr "Επόμενη λίστα"
+
+msgid "empty"
+msgstr "άδειο"
+
+msgid "Filename"
+msgstr "Όνομα αρχείου"
+
+msgid "Keyword"
+msgstr "Λέξη-κλειδί"
+
+msgid "New feed"
+msgstr "Νέα τροφοδοσία"
+
+msgid "Errors"
+msgstr "Σφάλματα"
+
+msgid "Error"
+msgstr "Σφάλμα"
+
+msgid "Erase all"
+msgstr "Διαγραφή όλων"
+
+msgid "Try"
+msgstr "Δοκιμάστε το"
+
+msgid "Query"
+msgstr "Ερώτηση"
+
+msgid "Agency fees payable by vendor"
+msgstr "Αμοιβές του πωλητή"
+
+msgid "Agency fees payable by buyer"
+msgstr "Αμοιβές αγοραστή"
+
+msgid "Condominium fees"
+msgstr "Τέλη συγκυριαρχίας"
+
+msgid "Bed"
+msgstr "Κρεβάτι"
+
+msgid "An error occurred"
+msgstr "Εμφανίστηκε σφάλμα"
+
+msgid "Successful subscription"
+msgstr "Επιτυχής εγγραφή"
+
+msgid "Created date"
+msgstr "Ημερομηνία δημιουργίας"
+
+msgid "Updated date"
+msgstr "Ημερομηνία ενημέρωσης"
+
+msgid "Back to homepage"
+msgstr "Επιστροφή στην αρχική σελίδα"
+
+msgid "Price min"
+msgstr "Τιμή min"
+
+msgid "Price max"
+msgstr "Τιμή max"
+
+msgid "Bedroom min"
+msgstr "Υπνοδωμάτιο min"
+
+msgid "Bedroom max"
+msgstr "Υπνοδωμάτιο max"
+
+msgid "Room min"
+msgstr "Δωμάτιο min"
+
+msgid "Room max"
+msgstr "Δωμάτιο max"
+
+msgid "Project at"
+msgstr "Έργο σε"
+
+msgid "Agency rate"
+msgstr "Ποσοστό Οργανισμού"
+
+msgid "Tenant's commission"
+msgstr "Προμήθεια ενοικιαστή"
+
+msgid "Inventory tenant charge"
+msgstr "Χρέωση ενοικιαστή απογραφής"
+
+msgid "Fees included"
+msgstr "Περιλαμβανόμενα τέλη"
+
+msgid "Provision on recoverable fees"
+msgstr "Προβλέψεις επί των ανακτήσιμων αμοιβών"
+
+msgid "Never"
+msgstr "Ποτέ"
+
+msgid "Remaining credits"
+msgstr "Υπολειπόμενες πιστώσεις"
+
+msgid "Buy credits"
+msgstr "Πιστώσεις αγοράς"
+
+msgid "%s credits"
+msgstr "%s πιστώσεις"
+
+msgid "Transaction fees"
+msgstr "Αμοιβές συναλλαγής"
+
+msgid "View property"
+msgstr "Προβολή ακινήτου"
+
+msgid "lot available"
+msgstr "Διαθέσιμη παρτίδα"
+
+msgid "lots available"
+msgstr "διαθέσιμα οικόπεδα"
+
+msgid "Area min"
+msgstr "Ελάχιστη περιοχή"
+
+msgid "Search a property"
+msgstr "Αναζήτηση ακινήτου"
+
+msgid "International"
+msgstr "Διεθνές"
+
+msgid "The property will not be published because it is in group « %s »"
+msgstr "Το ακίνητο δεν θα δημοσιευτεί επειδή ανήκει στην ομάδα  %s"
+
+msgid "%s month"
+msgstr "%s month"
+
+msgid "%s months"
+msgstr "%s μήνες"
+
+msgid "No action after"
+msgstr "Καμία ενέργεια μετά"
+
+msgid "%s pending delete"
+msgstr "%s εκκρεμεί διαγραφή"
+
+msgid "Pending delete"
+msgstr "Εκκρεμής διαγραφή"
+
+msgid "%s to delete"
+msgstr "%s προς διαγραφή"
+
+msgid "Edit my search"
+msgstr "Επεξεργασία της αναζήτησής μου"
+
+msgid "Activate my search"
+msgstr "Ενεργοποίηση της αναζήτησής μου"
+
+msgid "Cancel my search"
+msgstr "Ακύρωση της αναζήτησής μου"
+
+msgid "Only authorized properties"
+msgstr "Μόνο εξουσιοδοτημένα ακίνητα"
+
+msgid "Another currency"
+msgstr "Άλλο νόμισμα"
+
+msgid "Enter the first 6 digits"
+msgstr "Εισάγετε τα πρώτα 6 ψηφία"
+
+msgid ""
+"Without action on your part, your contact will be deleted before the %s."
+msgstr "Χωρίς δική σας ενέργεια, η επαφή σας θα διαγραφεί πριν από την %s."
+
+msgid "No procedure in progress"
+msgstr "Δεν υπάρχει διαδικασία σε εξέλιξη"
+
+msgid "Procedure in progress"
+msgstr "Διαδικασία σε εξέλιξη"
+
+msgid "Number of lots in the condominium"
+msgstr "Αριθμός οικοπέδων στη συγκυριαρχία"
+
+msgid "Network authorized"
+msgstr "Εξουσιοδοτημένο δίκτυο"
+
+msgid "Renew the lease"
+msgstr "Ανανέωση της μίσθωσης"
+
+msgid "Remove at"
+msgstr "Κατάργηση σε"
+
+msgid "External action"
+msgstr "Εξωτερική ενέργεια"
+
+msgid ""
+"The migration of your prospect into a request will allow you to make "
+"matching and proposals with a better tracking."
+msgstr ""
+"Η μεταφορά της προοπτικής σας σε αίτημα θα σας επιτρέψει να κάνετε "
+"αντιστοίχιση και προτάσεις με καλύτερη παρακολούθηση."
+
+msgid "floors"
+msgstr "δάπεδα"
+
+msgid "Job"
+msgstr "Εργασία"
+
+msgid "Unsuscribe from this list"
+msgstr "Διαγραφή από αυτή τη λίστα"
+
+msgid "Entry"
+msgstr "Είσοδος"
+
+msgid "Exit"
+msgstr "Έξοδος"
+
+msgid "Networks"
+msgstr "Δίκτυα"
+
+msgid "Secured"
+msgstr "Εξασφαλισμένο"
+
+msgid "Opacity"
+msgstr "Αδιαφάνεια"
+
+msgid "Left"
+msgstr "Αριστερά"
+
+msgid "Top"
+msgstr "Επάνω"
+
+msgid "Relative to the last element"
+msgstr "Σε σχέση με το τελευταίο στοιχείο"
+
+msgid "Alignment"
+msgstr "Στοίχιση"
+
+msgid "Border size"
+msgstr "Μέγεθος περιθωρίου"
+
+msgid "Border color"
+msgstr "Χρώμα πλαισίου"
+
+msgid "Size of the internal margin"
+msgstr "Μέγεθος του εσωτερικού περιθωρίου"
+
+msgid "Font color"
+msgstr "Χρώμα γραμματοσειράς"
+
+msgid "Font size"
+msgstr "Μέγεθος γραμματοσειράς"
+
+msgid "Background color"
+msgstr "Χρώμα φόντου"
+
+msgid "Custom image"
+msgstr "Προσαρμοσμένη εικόνα"
+
+msgid "custom"
+msgstr "προσαρμοσμένη"
+
+msgid "Right"
+msgstr "Δεξιά"
+
+msgid "Center"
+msgstr "Κέντρο"
+
+msgid "Justified"
+msgstr "Justified"
+
+msgid "Transparency"
+msgstr "Διαφάνεια"
+
+msgid "Line height"
+msgstr "Ύψος γραμμής"
+
+msgid "Uppercase"
+msgstr "Με κεφαλαία γράμματα"
+
+msgid "Price proposal"
+msgstr "Πρόταση τιμής"
+
+msgid "Template"
+msgstr "Πρότυπο"
+
+msgid "Publication date"
+msgstr "Ημερομηνία δημοσίευσης"
+
+msgid "Recovered at"
+msgstr "Ανακτήθηκε σε"
+
+msgid "Available on"
+msgstr "Διαθέσιμο στο"
+
+msgid "Allow all"
+msgstr "Επιτρέπονται όλα"
+
+msgid "Private position is not set, click here to update."
+msgstr ""
+"Η ιδιωτική θέση δεν έχει οριστεί, κάντε κλικ εδώ για να την ενημερώσετε."
+
+msgid "Public position is not set, click here to update."
+msgstr "Η δημόσια θέση δεν έχει οριστεί, κάντε κλικ εδώ για ενημέρωση."
+
+msgid ""
+"Please use this link to subscribe to your calendar from a software or a "
+"device:"
+msgstr ""
+"Παρακαλούμε χρησιμοποιήστε αυτόν τον σύνδεσμο για να εγγραφείτε στο "
+"ημερολόγιό σας από ένα λογισμικό ή μια συσκευή:"
+
+msgid "Activate"
+msgstr "Ενεργοποίηση"
+
+msgid "Disable"
+msgstr "Απενεργοποίηση"
+
+msgid "Block"
+msgstr "Αποκλεισμός"
+
+msgid "Unblock"
+msgstr "Ξεμπλοκάρισμα"
+
+msgid "Area max"
+msgstr "Περιοχή max"
+
+msgid "Plot of land area min"
+msgstr "Εμβαδόν οικοπέδου ελάχ."
+
+msgid "Plot of land area max"
+msgstr "Εμβαδόν οικοπέδου max"
+
+msgid "Date descending"
+msgstr "Ημερομηνία φθίνουσα"
+
+msgid "Date ascending"
+msgstr "Ημερομηνία αύξουσα"
+
+msgid "Price descending"
+msgstr "Τιμή φθίνουσα"
+
+msgid "Price ascending"
+msgstr "Αύξουσα τιμή"
+
+msgid "Balance"
+msgstr "Υπόλοιπο"
+
+msgid "Construction method"
+msgstr "Μέθοδος κατασκευής"
+
+msgid "Tax code"
+msgstr "Φορολογικός κωδικός"
+
+msgid "Downsides"
+msgstr "Μειονεκτήματα"
+
+msgid "Assets"
+msgstr "Περιουσιακά στοιχεία"
+
+msgid "Please select a district from the list:"
+msgstr "Παρακαλώ επιλέξτε μια περιοχή από τον κατάλογο:"
+
+msgid "Non-flood zone"
+msgstr "Μη πλημμυρική ζώνη"
+
+msgid "Potential flood zone"
+msgstr "Πιθανή ζώνη πλημμύρας"
+
+msgid "Recognized flood zone"
+msgstr "Αναγνωρισμένη ζώνη πλημμύρας"
+
+msgid "Delimited flood zone"
+msgstr "Οριοθετημένη ζώνη πλημμύρας"
+
+msgid "Cadastre"
+msgstr "Κτηματολόγιο"
+
+msgid "Delimited waterside zone"
+msgstr "Οριοθετημένη παραποτάμια ζώνη"
+
+msgid "Potential flood zone in a delimited waterside zone"
+msgstr "Δυνητική ζώνη πλημμύρας σε οριοθετημένη παραλίμνια ζώνη"
+
+msgid "Potential flood zone in a delimited flood zone"
+msgstr "Πιθανή ζώνη πλημμύρας σε οριοθετημένη ζώνη πλημμύρας"
+
+msgid "Recognized flood zone in a delimited waterside zone"
+msgstr "Αναγνωρισμένη ζώνη πλημμύρας σε οριοθετημένη παραλίμνια ζώνη"
+
+msgid "Recognized flood zone in a delimited flood zone"
+msgstr "Αναγνωρισμένη ζώνη πλημμύρας σε οριοθετημένη ζώνη πλημμύρας"
+
+msgid "Profile"
+msgstr "Προφίλ"
+
+msgid "Export"
+msgstr "Εξαγωγή"
+
+msgid "Logs"
+msgstr "Καταγραφές"
+
+msgid "Document"
+msgstr "Έγγραφο"
+
+msgid "Signage"
+msgstr "Σήμανση"
+
+msgid "Set up at"
+msgstr "Ρύθμιση στο"
+
+msgid "Area ascending"
+msgstr "Περιοχή με αύξουσα πορεία"
+
+msgid "Area descending"
+msgstr "Περιοχή φθίνουσα"
+
+msgid "%s awaiting review(s)"
+msgstr "%s σε αναμονή αναθεώρησης(-ών)"
+
+msgid "To review"
+msgstr "Για αναθεώρηση"
+
+msgid "Copy"
+msgstr "Αντιγραφή"
+
+msgid "Net seller"
+msgstr "Καθαρός πωλητής"
+
+msgid "Price displayed"
+msgstr "Εμφανιζόμενη τιμή"
+
+msgid "Rental price"
+msgstr "Τιμή ενοικίασης"
+
+msgid "Listed price: %s, exchange rates are indicative."
+msgstr ""
+"Αναγραφόμενη τιμή: %s, οι συναλλαγματικές ισοτιμίες είναι ενδεικτικές."
+
+msgid "%s units"
+msgstr "%s μονάδες"
+
+msgid "%s unit"
+msgstr "%s μονάδα"
+
+msgid "IP address"
+msgstr "Διεύθυνση IP"
+
+msgid "Method"
+msgstr "Μέθοδος"
+
+msgid "Path"
+msgstr "Διαδρομή"
+
+msgid "Pagebreak"
+msgstr "Pagebreak"
+
+msgid "Paragraph"
+msgstr "Παράγραφος"
+
+msgid "Spacing"
+msgstr "Διάστημα"
+
+msgid "Align"
+msgstr "Ευθυγράμμιση"
+
+msgid "Scale"
+msgstr "Κλίμακα"
+
+msgid "Color"
+msgstr "Χρώμα"
+
+msgid "lines"
+msgstr "γραμμές"
+
+msgid "Positioning"
+msgstr "Τοποθέτηση"
+
+msgid "Border"
+msgstr "Σύνορα"
+
+msgid "Social networks"
+msgstr "Κοινωνικά δίκτυα"
+
+msgid "Save settings"
+msgstr "Αποθήκευση ρυθμίσεων"
+
+msgid "Delete settings"
+msgstr "Διαγραφή ρυθμίσεων"
+
+msgid "never"
+msgstr "ποτέ"
+
+msgid "Facades"
+msgstr "Προσόψεις"
+
+msgid ""
+"Please select the page where you would like to publish your properties."
+msgstr ""
+"Παρακαλούμε επιλέξτε τη σελίδα στην οποία θα θέλατε να δημοσιεύσετε τις "
+"ιδιότητές σας."
+
+msgid "Unique publication identifier"
+msgstr "Μοναδικό αναγνωριστικό δημοσίευσης"
+
+msgid "No active transfer"
+msgstr "Δεν υπάρχει ενεργή μεταφορά"
+
+msgid "Publication report"
+msgstr "Αναφορά δημοσίευσης"
+
+msgid "Click here to view the publication."
+msgstr "Κάντε κλικ εδώ για να δείτε τη δημοσίευση."
+
+msgid "Your listing is now online."
+msgstr "Η καταχώρισή σας είναι τώρα σε απευθείας σύνδεση."
+
+msgid "Share on …"
+msgstr "Μοιραστείτε το ..."
+
+msgid "Add the feature for:"
+msgstr "Προσθέστε το χαρακτηριστικό για:"
+
+msgid "The agency"
+msgstr "Το πρακτορείο"
+
+msgid "The whole company"
+msgstr "Ολόκληρη η εταιρεία"
+
+msgid "The whole brand"
+msgstr "Ολόκληρη η μάρκα"
+
+msgid "Wrong number"
+msgstr "Λάθος αριθμός"
+
+msgid "Wrong e-mail or e-mail too heavy"
+msgstr "Λάθος e-mail ή πολύ βαρύ e-mail"
+
+msgid "Empty e-mail"
+msgstr "Κενό e-mail"
+
+msgid "Wrong e-mail"
+msgstr "Λάθος e-mail"
+
+msgid "Wrong spouse's e-mail"
+msgstr "Λάθος e-mail συζύγου"
+
+msgid "Starting from floor"
+msgstr "Ξεκινώντας από το πάτωμα"
+
+msgid "Please report to our documentation."
+msgstr "Παρακαλείσθε να αναφέρετε στην τεκμηρίωσή μας."
+
+msgid "Your email server does not authorize us to send an email."
+msgstr ""
+"Ο διακομιστής ηλεκτρονικού ταχυδρομείου σας δεν μας επιτρέπει να στείλουμε "
+"ένα μήνυμα ηλεκτρονικού ταχυδρομείου."
+
+msgid "Not suggested"
+msgstr "Δεν προτείνεται"
+
+msgid "Quick view"
+msgstr "Γρήγορη προβολή"
+
+msgid ""
+"This feature need the software WhatsApp Web. Before using this feature be "
+"sure to download and link your smartphone."
+msgstr ""
+"Αυτή η λειτουργία χρειάζεται το λογισμικό WhatsApp Web. Πριν χρησιμοποιήσετε"
+" αυτή τη λειτουργία φροντίστε να κάνετε λήψη και σύνδεση του smartphone σας."
+
+msgid "Add a lead"
+msgstr "Προσθέστε ένα προβάδισμα"
+
+msgid "Display the address"
+msgstr "Εμφάνιση της διεύθυνσης"
+
+msgid "Display the contact"
+msgstr "Εμφάνιση της επαφής"
+
+msgid "Display the contact details"
+msgstr "Εμφανίστε τα στοιχεία της επαφής"
+
+msgid "Display the contact name"
+msgstr "Εμφάνιση του ονόματος της επαφής"
+
+msgid "Read"
+msgstr "Διαβάστε"
+
+msgid "Write"
+msgstr "Γράψτε"
+
+msgid "Private details"
+msgstr "Ιδιωτικά στοιχεία"
+
+msgid "Private documents"
+msgstr "Ιδιωτικά έγγραφα"
+
+msgid "Public documents"
+msgstr "Δημόσια έγγραφα"
+
+msgid "Order"
+msgstr "Παραγγελία"
+
+msgid "National"
+msgstr "Εθνικό"
+
+msgid "Unavailable"
+msgstr "Μη διαθέσιμο"
+
+msgid "Period"
+msgstr "Περίοδος"
+
+msgid "Repair"
+msgstr "Επισκευή"
+
+msgid "Complain"
+msgstr "Καταγγελία"
+
+msgid "Moderator"
+msgstr "Συντονιστής"
+
+msgid "%s guests"
+msgstr "%s επισκέπτες"
+
+msgid "%s guest"
+msgstr "%s guest"
+
+msgid "Referral"
+msgstr "Παραπομπή"
+
+msgid "Referrals"
+msgstr "Παραπομπές"
+
+msgid "%s beds"
+msgstr "%s κρεβάτια"
+
+msgid "%s bed"
+msgstr "%s κρεβάτι"
+
+msgid "Old user"
+msgstr "Παλαιός χρήστης"
+
+msgid "New user"
+msgstr "Νέος χρήστης"
+
+msgid "Apply on requests"
+msgstr "Εφαρμογή σε αιτήσεις"
+
+msgid "Apply on properties"
+msgstr "Εφαρμογή σε ιδιότητες"
+
+msgid "Forthcoming"
+msgstr "Προσεχώς"
+
+msgid "Click here to join the webinar."
+msgstr "Κάντε κλικ εδώ για να συμμετάσχετε στο διαδικτυακό σεμινάριο."
+
+msgid "You have an appointment in %hours% hour(s) and %minutes% minute(s)"
+msgstr "Έχετε ραντεβού σε %hours% ώρα(ες) και %minutes% λεπτό(ες)"
+
+msgid "Your training of %s"
+msgstr "Η εκπαίδευσή σας %s"
+
+msgid "(or)"
+msgstr "(ή)"
+
+msgid "Grant access to the user or the contact"
+msgstr "Χορήγηση πρόσβασης στον χρήστη ή στην επαφή"
+
+msgid "Improve the quality of some photos."
+msgstr "Βελτιώστε την ποιότητα ορισμένων φωτογραφιών."
+
+msgid "Click here to highlight them."
+msgstr "Κάντε κλικ εδώ για να τις επισημάνετε."
+
+msgid "Documentation"
+msgstr "Τεκμηρίωση"
+
+msgid "Payments"
+msgstr "Πληρωμές"
+
+msgid "Cooling-off end at"
+msgstr "Τέλος ψύξης στο"
+
+msgid "Accuracy of appraisal"
+msgstr "Ακρίβεια της εκτίμησης"
+
+msgid "Fees details"
+msgstr "Λεπτομέρειες για τα τέλη"
+
+msgid "Funding"
+msgstr "Χρηματοδότηση"
+
+msgid "Personal contribution"
+msgstr "Προσωπική συνεισφορά"
+
+msgid "Mortgage amount"
+msgstr "Ποσό υποθήκης"
+
+msgid "Accepted at"
+msgstr "Αποδεκτό σε"
+
+msgid "Pre-fill"
+msgstr "Προ-συμπλήρωση"
+
+msgid "Records"
+msgstr "Εγγραφές"
+
+msgid "Property valuation"
+msgstr "Αποτίμηση ακινήτου"
+
+msgid "Selected properties"
+msgstr "Επιλεγμένα ακίνητα"
+
+msgid "Conclusion"
+msgstr "Συμπέρασμα"
+
+msgid "Final opinion between"
+msgstr "Τελική γνώμη μεταξύ"
+
+msgid "Net annual rental"
+msgstr "Καθαρό ετήσιο μίσθωμα"
+
+msgid "Average"
+msgstr "Μέσος όρος"
+
+msgid "Selected year"
+msgstr "Επιλεγμένο έτος"
+
+msgid "Subscribers"
+msgstr "Συνδρομητές"
+
+msgid "Signages"
+msgstr "Επιγραφές"
+
+msgid "Keys"
+msgstr "Κλειδιά"
+
+msgid "Member of your network"
+msgstr "Μέλος του δικτύου σας"
+
+msgid "Member of %s"
+msgstr "Μέλος του %s"
+
+msgid "Requests validated"
+msgstr "Αιτήματα επικυρωμένα"
+
+msgid "Incomplete requests"
+msgstr "Ελλιπείς αιτήσεις"
+
+msgid "You blocked this agency"
+msgstr "Έχετε μπλοκάρει αυτό το πρακτορείο"
+
+msgid "Updated by"
+msgstr "Ενημερώθηκε από"
+
+msgid "Created by"
+msgstr "Δημιουργήθηκε από"
+
+msgid "Session has expired"
+msgstr "Η σύνοδος έχει λήξει"
+
+msgid "You have reached the quota"
+msgstr "Έχετε φτάσει την ποσόστωση"
+
+msgid "%s bathroom"
+msgstr "%s bathroom"
+
+msgid "%s bathrooms"
+msgstr "%s μπάνια"
+
+msgid "Force recording"
+msgstr "Επιβολή εγγραφής"
+
+msgid ""
+"You are using the quick form, to access all the fields please click on full "
+"form."
+msgstr ""
+"Χρησιμοποιείτε τη γρήγορη φόρμα, για πρόσβαση σε όλα τα πεδία κάντε κλικ "
+"στην πλήρη φόρμα."
+
+msgid "Delete the contact"
+msgstr "Διαγραφή της επαφής"
+
+msgid "Update my search criteria or unsubscribe me."
+msgstr "Ενημερώστε τα κριτήρια αναζήτησής μου ή διαγράψτε με."
+
+msgid "All day"
+msgstr "Όλη την ημέρα"
+
+msgid "Synchronized with %s"
+msgstr "Συγχρονισμένο με %s"
+
+msgid "Your time zone appears to be « %s », click here to update."
+msgstr ""
+"Η ζώνη ώρας σας φαίνεται να είναι  %s , κάντε κλικ εδώ για να ενημερώσετε."
+
+msgid "Freehold"
+msgstr "Freehold"
+
+msgid "Commonhold"
+msgstr "Commonhold"
+
+msgid "Share of freehold"
+msgstr "Μερίδιο ιδιοκτησίας"
+
+msgid "Please click here"
+msgstr "Παρακαλώ κάντε κλικ εδώ"
+
+msgid "Please complete the configuration"
+msgstr "Παρακαλούμε συμπληρώστε τη διαμόρφωση"
+
+msgid "Choose a calendar"
+msgstr "Επιλέξτε ημερολόγιο"
+
+msgid "Synchronize your calendar."
+msgstr "Συγχρονίστε το ημερολόγιό σας."
+
+msgid "Send messages within your email account."
+msgstr ""
+"Στείλτε μηνύματα μέσα από το λογαριασμό ηλεκτρονικού ταχυδρομείου σας."
+
+msgid "Manage your contacts."
+msgstr "Διαχειριστείτε τις επαφές σας."
+
+msgid "Synchronized account"
+msgstr "Συγχρονισμένος λογαριασμός"
+
+msgid "To modify this appointment, you must first unlink it."
+msgstr ""
+"Για να τροποποιήσετε αυτό το ραντεβού, πρέπει πρώτα να το αποσυνδέσετε."
+
+msgid "Appointment shared with:"
+msgstr "Ραντεβού που μοιράζεται με:"
+
+msgid "Old value"
+msgstr "Παλιά τιμή"
+
+msgid "New value"
+msgstr "Νέα τιμή"
+
+msgid "Subscribed"
+msgstr "Subscribed"
+
+msgid "Display my properties"
+msgstr "Εμφάνιση των ιδιοτήτων μου"
+
+msgid "Interface language"
+msgstr "Γλώσσα διεπαφής"
+
+msgid "Spoken languages"
+msgstr "Γλώσσες ομιλίας"
+
+msgid "Canceled at"
+msgstr "Ακυρώθηκε σε"
+
+msgid "Please fill in a canceled date."
+msgstr "Παρακαλούμε συμπληρώστε μια ημερομηνία ακύρωσης."
+
+msgid "This username is already in use."
+msgstr "Αυτό το όνομα χρήστη χρησιμοποιείται ήδη."
+
+msgid "Published at"
+msgstr "Δημοσιεύθηκε στις"
+
+msgid "Ordered at"
+msgstr "Παραγγέλθηκε στο"
+
+msgid "Projects"
+msgstr "Έργα"
+
+msgid "Renovation cost"
+msgstr "Κόστος ανακαίνισης"
+
+msgid "Inflation"
+msgstr "Πληθωρισμός"
+
+msgid "Reviews"
+msgstr "Κριτικές"
+
+msgid "Check to accept"
+msgstr "Έλεγχος για αποδοχή"
+
+msgid "Account creation"
+msgstr "Δημιουργία λογαριασμού"
+
+msgid ""
+"Access to the %s solution requires the transmission of your information and "
+"the acceptance of the general conditions"
+msgstr ""
+"Η πρόσβαση στη λύση %s απαιτεί τη διαβίβαση των στοιχείων σας και την "
+"αποδοχή των γενικών όρων"
+
+msgid "Read the personal data conditions"
+msgstr "Διαβάστε τους όρους για τα προσωπικά δεδομένα"
+
+msgid "Read the terms and conditions"
+msgstr "Διαβάστε τους όρους και τις προϋποθέσεις"
+
+msgid "Waiting for your confirmation"
+msgstr "Αναμονή για την επιβεβαίωσή σας"
+
+msgid "Suspended"
+msgstr "Αναστολή"
+
+msgid "Validations"
+msgstr "Επικυρώσεις"
+
+msgid "Privacy policy"
+msgstr "Πολιτική απορρήτου"
+
+msgid "Latest posts"
+msgstr "Τελευταίες αναρτήσεις"
+
+msgid "Download the app"
+msgstr "Κατεβάστε την εφαρμογή"
+
+msgid ""
+"Setup the application on your smartphone and enjoy an optimized navigation "
+"for your mobile device."
+msgstr ""
+"Εγκαταστήστε την εφαρμογή στο smartphone σας και απολαύστε μια "
+"βελτιστοποιημένη πλοήγηση για την κινητή συσκευή σας."
+
+msgid ""
+"Take advantage now of your software by using the credentials below. Be sure "
+"to keep this login details confidential and don't to change your password "
+"regularly."
+msgstr ""
+"Επωφεληθείτε τώρα από το λογισμικό σας χρησιμοποιώντας τα παρακάτω "
+"διαπιστευτήρια. Φροντίστε να διατηρήσετε αυτά τα στοιχεία σύνδεσης "
+"εμπιστευτικά και μην αλλάζετε τακτικά τον κωδικό πρόσβασής σας."
+
+msgid "Watch our channel"
+msgstr "Παρακολουθήστε το κανάλι μας"
+
+msgid "Discover the training videos on our Youtube channel."
+msgstr "Ανακαλύψτε τα εκπαιδευτικά βίντεο στο κανάλι μας στο Youtube."
+
+msgid "Take part in our training"
+msgstr "Πάρτε μέρος στην εκπαίδευσή μας"
+
+msgid ""
+"We regularly organize online or face-to-face training, register directly "
+"from the software (Menu Tools > Training)."
+msgstr ""
+"Διοργανώνουμε τακτικά online ή δια ζώσης εκπαίδευση, εγγραφείτε απευθείας "
+"από το λογισμικό (Μενού Εργαλεία > Εκπαίδευση)."
+
+msgid "Please kindly fill out your agency profile."
+msgstr "Παρακαλούμε συμπληρώστε ευγενικά το προφίλ του οργανισμού σας."
+
+msgid "Tripod"
+msgstr "Tripod"
+
+msgid "Square"
+msgstr "Square"
+
+msgid "Round"
+msgstr "Στρογγυλό"
+
+msgid "Floors"
+msgstr "Δάπεδα"
+
+msgid "You do not have enough credits to send the message."
+msgstr "Δεν έχετε αρκετές μονάδες για να στείλετε το μήνυμα."
+
+msgid ""
+"Please do not remove « {LINK} » value. We need this for the link to the "
+"property website."
+msgstr ""
+"Παρακαλούμε μην αφαιρέσετε την τιμή  {LINK} . Τη χρειαζόμαστε για το "
+"σύνδεσμο προς την ιστοσελίδα του ακινήτου."
+
+msgid "Minimum bid"
+msgstr "Ελάχιστη προσφορά"
+
+msgid "Published"
+msgstr "Δημοσιευμένο"
+
+msgid "Archived"
+msgstr "Αρχειοθετημένο"
+
+msgid "Sent for signature"
+msgstr "Στάλθηκε για υπογραφή"
+
+msgid "Camera position"
+msgstr "Θέση κάμερας"
+
+msgid "Capture"
+msgstr "Σύλληψη"
+
+msgid "Professional"
+msgstr "Επαγγελματική"
+
+msgid "Professionals"
+msgstr "Επαγγελματίες"
+
+msgid "Add a new entry"
+msgstr "Προσθήκη νέας καταχώρησης"
+
+msgid "Monthly payment"
+msgstr "Μηνιαία πληρωμή"
+
+msgid "Archives"
+msgstr "Αρχεία"
+
+msgid "Inbox"
+msgstr "Εισερχόμενα"
+
+msgid "%value% is too long (%max_length% characters max)."
+msgstr "Το %value% είναι πολύ μεγάλο (%max_length% χαρακτήρες max)."
+
+msgid "My details"
+msgstr "Τα στοιχεία μου"
+
+msgid "Software"
+msgstr "Λογισμικό"
+
+msgid "Personal data deleted after a removal request form received."
+msgstr ""
+"Διαγραφή προσωπικών δεδομένων μετά τη λήψη ενός εντύπου αίτησης διαγραφής."
+
+msgid "Received at %s"
+msgstr "Ελήφθη στο %s"
+
+msgid "Lease assignments"
+msgstr "Εκχωρήσεις μίσθωσης"
+
+msgid "Occupant"
+msgstr "Κάτοικος"
+
+msgid "Frequency"
+msgstr "Συχνότητα"
+
+msgid "Time slot"
+msgstr "Χρονική περίοδος"
+
+msgid "Rules"
+msgstr "Κανόνες"
+
+msgid "Hourly"
+msgstr "Ωριαία"
+
+msgid "Daily"
+msgstr "Καθημερινά"
+
+msgid "Weekly"
+msgstr "Εβδομαδιαία"
+
+msgid "Monthly"
+msgstr "Μηνιαία"
+
+msgid "In order to duplicate the property, please type the security code %s"
+msgstr "Για να αντιγράψετε το ακίνητο, πληκτρολογήστε τον κωδικό ασφαλείας %s"
+
+msgid ""
+"Please do not use the duplication to refresh your ad on the web portals."
+msgstr ""
+"Παρακαλείστε να μην χρησιμοποιήσετε την αντιγραφή για να ανανεώσετε τη "
+"διαφήμισή σας στις διαδικτυακές πύλες."
+
+msgid ""
+"You can refresh an ad on the portals by using the incrementing system, "
+"available from the tab Exchange > Settings."
+msgstr ""
+"Μπορείτε να ανανεώσετε μια αγγελία στις διαδικτυακές πύλες χρησιμοποιώντας "
+"το σύστημα προσαύξησης, το οποίο είναι διαθέσιμο από την καρτέλα Ανταλλαγή >"
+" Ρυθμίσεις."
+
+msgid "Legal"
+msgstr "Νομική"
+
+msgid "Auction start at"
+msgstr "Έναρξη δημοπρασίας σε"
+
+msgid "Auction end at"
+msgstr "Λήξη δημοπρασίας στις"
+
+msgid "My preferences"
+msgstr "Οι προτιμήσεις μου"
+
+msgid "Public"
+msgstr "Δημόσια"
+
+msgid "Classic"
+msgstr "Κλασικό"
+
+msgid "Modern"
+msgstr "Σύγχρονη"
+
+msgid "Design"
+msgstr "Σχεδιασμός"
+
+msgid "Server"
+msgstr "Διακομιστής"
+
+msgid "We are closed"
+msgstr "Είμαστε κλειστοί"
+
+msgid "Appliance"
+msgstr "Συσκευές"
+
+msgid "Energy"
+msgstr "Ενέργεια"
+
+msgid "Automatic selection"
+msgstr "Αυτόματη επιλογή"
+
+msgid "Non-holding of funds"
+msgstr "Μη διακράτηση κεφαλαίων"
+
+msgid "Sales agent"
+msgstr "Πράκτορας πωλήσεων"
+
+msgid ""
+"Do you want to use Cityscan on this property? This will consume a credit "
+"from your quota."
+msgstr ""
+"Θέλετε να χρησιμοποιήσετε το Cityscan σε αυτό το ακίνητο; Αυτό θα "
+"καταναλώσει πίστωση από την ποσόστωσή σας."
+
+msgid "Would you like to copy the owner's address into the property?"
+msgstr "Θέλετε να αντιγράψετε τη διεύθυνση του ιδιοκτήτη στο ακίνητο;"
+
+msgid "Pattern"
+msgstr "Μοτίβο"
+
+msgid "Comment pattern"
+msgstr "Σχόλιο μοτίβο"
+
+msgid "View all news"
+msgstr "Προβολή όλων των ειδήσεων"
+
+msgid ""
+"In order to verify your e-mail address, please specify this validation code "
+"valid for 15 minutes:"
+msgstr ""
+"Προκειμένου να επαληθεύσετε τη διεύθυνση ηλεκτρονικού ταχυδρομείου σας, "
+"παρακαλούμε δώστε αυτόν τον κωδικό επικύρωσης που ισχύει για 15 λεπτά:"
+
+msgid "Account validation for %s"
+msgstr "Επικύρωση λογαριασμού για %s"
+
+msgid ""
+"We have just sent you an e-mail with a code valid for 15 minutes, please "
+"specify it to authenticate your account."
+msgstr ""
+"Μόλις σας στείλαμε ένα μήνυμα ηλεκτρονικού ταχυδρομείου με έναν κωδικό που "
+"ισχύει για 15 λεπτά, παρακαλούμε να τον καθορίσετε για να πιστοποιήσετε τον "
+"λογαριασμό σας."
+
+msgid ""
+"Other accounts use your e-mail %s, you should use your own e-mail address."
+msgstr ""
+"Άλλοι λογαριασμοί χρησιμοποιούν το e-mail σας %s, θα πρέπει να "
+"χρησιμοποιήσετε τη δική σας διεύθυνση e-mail."
+
+msgid ""
+"Your e-mail address %s is already used by another account, please choose a "
+"different address."
+msgstr ""
+"Η διεύθυνση ηλεκτρονικού ταχυδρομείου %s χρησιμοποιείται ήδη από άλλον "
+"λογαριασμό, παρακαλούμε επιλέξτε μια διαφορετική διεύθυνση."
+
+msgid "Please kindly confirm your e-mail address %s."
+msgstr "Παρακαλώ επιβεβαιώστε τη διεύθυνση ηλεκτρονικού ταχυδρομείου σας %s."
+
+msgid "Altitude"
+msgstr "Υψόμετρο"
+
+msgid "For security reasons, we need to confirm your details below."
+msgstr ""
+"Για λόγους ασφαλείας, πρέπει να επιβεβαιώσουμε τα παρακάτω στοιχεία σας."
+
+msgid "Broadcast report"
+msgstr "Ρεπορτάζ εκπομπής"
+
+msgid "Toilet"
+msgstr "Τουαλέτα"
+
+msgid "Help"
+msgstr "Βοήθεια"
+
+msgid "Show pagination"
+msgstr "Εμφάνιση σελιδοποίησης"
+
+msgid "Mandatory fields"
+msgstr "Υποχρεωτικά πεδία"
+
+msgid "Available soon"
+msgstr "Διαθέσιμο σύντομα"
+
+msgid "HD Photo"
+msgstr "HD Photo"
+
+#, fuzzy
+msgid "Contract end at"
+msgstr ""
+"#-#-#-#-#  apimo-el_GR.po  #-#-#-#-#\n"
+"Τέλος της σύμβασης στις\n"
+"#-#-#-#-#  apimo-el_GR.po  #-#-#-#-#\n"
+"Λήξη συμβολαίου στις"
+
+msgid "Incomplete"
+msgstr "Ατελής"
+
+msgid "Location Map"
+msgstr "Χάρτης τοποθεσίας"
+
+msgid "User Detail"
+msgstr "Λεπτομέρειες χρήστη"
+
+msgid "File size"
+msgstr "Μέγεθος αρχείου"
+
+msgid "File title"
+msgstr "Τίτλος αρχείου"
+
+msgid "Region"
+msgstr "Περιοχή"
+
+msgid "Bath"
+msgstr "Μπάνιο"
+
+msgid "Private Negotiation"
+msgstr "Ιδιωτική διαπραγμάτευση"
+
+msgid "Property specifications"
+msgstr "Προδιαγραφές ακινήτου"
+
+msgid "Energy performance"
+msgstr "Ενεργειακή απόδοση"
+
+msgid "Media Details"
+msgstr "Λεπτομέρειες μέσων"
+
+msgid "View Video"
+msgstr "Προβολή βίντεο"
+
+msgid "Start Date"
+msgstr "Ημερομηνία έναρξης"
+
+msgid "End Date"
+msgstr "Ημερομηνία λήξης"
+
+msgid "Welcome"
+msgstr "Καλώς Ήρθατε"
+
+msgid "See What’s happening with Apimo Plugin."
+msgstr "Δείτε τι συμβαίνει με το πρόσθετο Apimo."
+
+msgid "PROVIDERS"
+msgstr "ΠΡΟΜΗΘΕΥΤΕΣ"
+
+msgid "AGENCIES"
+msgstr "ΠΡΑΚΤΟΡΕΊΑ"
+
+msgid "PROPERTIES"
+msgstr "ΑΚΙΝΉΤΑ"
+
+msgid "BOOKMARK"
+msgstr "ΣΕΛΙΔΟΔΕΊΚΤΗΣ"
+
+msgid "Remove all"
+msgstr "Αφαιρέστε όλα"
+
+msgid "Apply filter"
+msgstr "Εφαρμογή φίλτρου"
+
+msgid "Select Subtype"
+msgstr "Επιλέξτε υποτύπο"
+
+msgid "Enchère"
+msgstr "Δημοπρασία"
+
+msgid "Location"
+msgstr "Ενοικίαση"
+
+msgid "Location saisonnière"
+msgstr "Εποχιακή ενοικίαση"
+
+msgid "From"
+msgstr "Από"
+
+msgid "To"
+msgstr "Προς"
+
+msgid "Dates"
+msgstr "Ημερομηνίες"
+
+msgid "Select country"
+msgstr "Επιλέξτε χώρα"
+
+msgid "Select region"
+msgstr "Επιλέξτε περιοχή"
+
+msgid "Select district"
+msgstr "Επιλέξτε περιφέρεια"
+
+msgid "Select city"
+msgstr "Επιλέξτε πόλη"
+
+msgid "Good"
+msgstr "Καλός"
+
+msgid "Bad"
+msgstr "Κακός"
+
+msgid "hello"
+msgstr "Γειά σου"
+
+msgid "Available Integrations"
+msgstr "Διαθέσιμες ενσωματώσεις"
+
+msgid "reCAPTCHA Detected"
+msgstr "εντοπίστηκε recaptcha"
+
+msgid "reCAPTCHA Not Detected"
+msgstr "Δεν εντοπίστηκε recaptcha"
+
+msgid "Google reCAPTCHA Integration"
+msgstr "Ενσωμάτωση Google Recaptcha"
+
+msgid ""
+"Protect your forms from spam and abuse with Google reCAPTCHA integration."
+msgstr ""
+"Προστατέψτε τα έντυπα σας από ανεπιθύμητα μηνύματα και κατάχρηση με την "
+"ενσωμάτωση του Google Recaptcha."
+
+msgid "Activate Integration"
+msgstr "Ενεργοποιήστε την ολοκλήρωση"
+
+msgid "Deactivate Integration"
+msgstr "Απενεργοποίηση ενσωμάτωσης"
+
+msgid "reCAPTCHA Configuration"
+msgstr "Διαμόρφωση recaptcha"
+
+msgid "Please configure your reCAPTCHA keys below to complete the setup."
+msgstr ""
+"Διαμορφώστε τα πλήκτρα recaptcha παρακάτω για να ολοκληρώσετε τη ρύθμιση."
+
+msgid "To complete the reCAPTCHA setup:"
+msgstr "Για να ολοκληρώσετε τη ρύθμιση recaptcha:"
+
+msgid "Go to the"
+msgstr "Πηγαίνετε στο"
+
+msgid "Google reCAPTCHA Admin Console"
+msgstr "Κονσόλα διαχειριστή Google Recaptcha"
+
+msgid "Register your site and get your Site Key and Secret Key"
+msgstr ""
+"Καταγράψτε τον ιστότοπό σας και λάβετε το κλειδί του ιστότοπού σας και το "
+"μυστικό κλειδί"
+
+msgid "Enter the keys below to activate reCAPTCHA"
+msgstr "Εισαγάγετε τα παρακάτω πλήκτρα για να ενεργοποιήσετε το Recaptcha"
+
+msgid "reCAPTCHA is configured properly."
+msgstr "Το Recaptcha έχει ρυθμιστεί σωστά."
+
+msgid "Site Key"
+msgstr "Κλειδί ιστότοπου"
+
+msgid "Secret Key"
+msgstr "Μυστικό κλειδί"
+
+msgid "Save Configuration"
+msgstr "Αποθήκευση διαμόρφωσης"
+
+msgid "Contact Form"
+msgstr "Φόρμα επικοινωνίας"
+
+msgid "Invalid format"
+msgstr "Μη έγκυρη μορφή"
+
+msgid "This field is required"
+msgstr "Αυτό το πεδίο απαιτείται"
+
+msgid "Invalid email format"
+msgstr "Μη έγκυρη μορφή email"
+
+msgid "Please use reCAPTCHA version 3"
+msgstr "Χρησιμοποιήστε την έκδοση Recaptcha 3"

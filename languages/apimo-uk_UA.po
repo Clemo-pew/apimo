@@ -1,0 +1,208 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk_UA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.1\n"
+
+msgid "AML/KYC Vendor"
+msgstr "AML/KYC Vendor"
+
+msgid "AML/KYC Buyer"
+msgstr "AML/KYC Buyer"
+
+msgid "Apartment"
+msgstr "Квартира"
+
+msgid "House"
+msgstr "Будинок"
+
+msgid "Contract end at"
+msgstr "Кінець контракту"
+
+msgid "Location Map"
+msgstr "Мапа розташування"
+
+msgid "User Detail"
+msgstr "Деталі користувача"
+
+msgid "File size"
+msgstr "Розмір файлу"
+
+msgid "File title"
+msgstr "Назва файлу"
+
+msgid "Region"
+msgstr "Регіон"
+
+msgid "Bath"
+msgstr "Ванна"
+
+msgid "Private Negotiation"
+msgstr "Приватні переговори"
+
+msgid "Property specifications"
+msgstr "Специфікації властивості"
+
+msgid "Energy performance"
+msgstr "Енергетична ефективність"
+
+msgid "Media Details"
+msgstr "Деталі медіа"
+
+msgid "View Video"
+msgstr "Переглянути відео"
+
+msgid "Start Date"
+msgstr "Дата початку"
+
+msgid "End Date"
+msgstr "Дата закінчення"
+
+msgid "Welcome"
+msgstr "Ласкаво просимо"
+
+msgid "See What’s happening with Apimo Plugin."
+msgstr "Дивіться, що відбувається з плагіном Apimo."
+
+msgid "PROVIDERS"
+msgstr "ПОСТАЧАЛЬНИКИ"
+
+msgid "AGENCIES"
+msgstr "АГЕНЦІЇ"
+
+msgid "PROPERTIES"
+msgstr "НЕРУХОМІСТЬ"
+
+msgid "BOOKMARK"
+msgstr "ЗАКЛАДКА"
+
+msgid "Remove all"
+msgstr "Видалити все"
+
+msgid "Apply filter"
+msgstr "Застосувати фільтр"
+
+msgid "Select Subtype"
+msgstr "Вибрати підтип"
+
+msgid "Enchère"
+msgstr "Аукціон"
+
+msgid "Location"
+msgstr "Оренда"
+
+msgid "Location saisonnière"
+msgstr "Сезонна оренда"
+
+msgid "From"
+msgstr "Від"
+
+msgid "To"
+msgstr "До"
+
+msgid "Dates"
+msgstr "Дати"
+
+msgid "Select country"
+msgstr "Виберіть країну"
+
+msgid "Select region"
+msgstr "Виберіть регіон"
+
+msgid "Select district"
+msgstr "Виберіть район"
+
+msgid "Select city"
+msgstr "Виберіть місто"
+
+msgid "Good"
+msgstr "добре"
+
+msgid "Bad"
+msgstr "погано"
+
+msgid "hello"
+msgstr "привіт"
+
+msgid "Available Integrations"
+msgstr "Доступні інтеграції"
+
+msgid "reCAPTCHA Detected"
+msgstr "recaptcha виявлений"
+
+msgid "reCAPTCHA Not Detected"
+msgstr "recaptcha не виявлено"
+
+msgid "Google reCAPTCHA Integration"
+msgstr "Інтеграція Google Recaptcha"
+
+msgid ""
+"Protect your forms from spam and abuse with Google reCAPTCHA integration."
+msgstr ""
+"Захистіть свої форми від спаму та зловживань з інтеграцією Google Recaptcha."
+
+msgid "Activate Integration"
+msgstr "Активуйте інтеграцію"
+
+msgid "Deactivate Integration"
+msgstr "Дезактивна інтеграція"
+
+msgid "reCAPTCHA Configuration"
+msgstr "Конфігурація Recaptcha"
+
+msgid "Please configure your reCAPTCHA keys below to complete the setup."
+msgstr "Налаштуйте свої клавіші Recaptcha нижче, щоб завершити налаштування."
+
+msgid "To complete the reCAPTCHA setup:"
+msgstr "Щоб завершити налаштування Recaptcha:"
+
+msgid "Go to the"
+msgstr "Перейти до"
+
+msgid "Google reCAPTCHA Admin Console"
+msgstr "Консоль адміністратора Google Recaptcha"
+
+msgid "Register your site and get your Site Key and Secret Key"
+msgstr ""
+"Зареєструйте свій сайт та отримайте ключ свого сайту та секретний ключ"
+
+msgid "Enter the keys below to activate reCAPTCHA"
+msgstr "Введіть клавіші нижче, щоб активувати Recaptcha"
+
+msgid "reCAPTCHA is configured properly."
+msgstr "Recaptcha налаштовано належним чином."
+
+msgid "Site Key"
+msgstr "Ключ сайту"
+
+msgid "Secret Key"
+msgstr "Таємний ключ"
+
+msgid "Save Configuration"
+msgstr "Зберегти конфігурацію"
+
+msgid "Contact Form"
+msgstr "Контактна форма"
+
+msgid "Invalid format"
+msgstr "Недійсний формат"
+
+msgid "This field is required"
+msgstr "Це поле потрібно"
+
+msgid "Invalid email format"
+msgstr "Недійсний формат електронної пошти"
+
+msgid "Send"
+msgstr "Надсилати"
+
+msgid "Please use reCAPTCHA version 3"
+msgstr "Будь ласка, використовуйте REPAPTCHA Версія 3"

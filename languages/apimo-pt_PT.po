@@ -1,0 +1,7813 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.1\n"
+
+#, fuzzy
+msgid "Reminder"
+msgstr ""
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Lembrete\n"
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Advertência"
+
+msgid "Suggestion"
+msgstr "Proposta"
+
+msgid "Report"
+msgstr "Relatório"
+
+msgid "Other"
+msgstr "Outro"
+
+msgid "Valuation"
+msgstr "Avaliação"
+
+#, fuzzy
+msgid "Advertising"
+msgstr ""
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Publicidade\n"
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Jornal\n"
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Publicidade"
+
+msgid "Open House"
+msgstr "Open House"
+
+#, fuzzy
+msgid "Holiday"
+msgstr ""
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Folga\n"
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Casa de férias"
+
+msgid "Canvassing"
+msgstr "Prospeção"
+
+msgid "Message"
+msgstr "Mensagem"
+
+msgid "Personal"
+msgstr "Pessoal"
+
+msgid "After-sales"
+msgstr "Pós-venda"
+
+msgid "Virtual tour"
+msgstr "Visita virtual"
+
+msgid "Visit"
+msgstr "Visita"
+
+msgid "On duty"
+msgstr "De serviço"
+
+msgid "Administrative"
+msgstr "Administrativo"
+
+msgid "Survey"
+msgstr "Sondagem"
+
+#, fuzzy
+msgid "Appointment"
+msgstr ""
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Marcação\n"
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Reunião"
+
+msgid "Inventory"
+msgstr "Inventário"
+
+msgid "Commercial"
+msgstr "Comercial"
+
+msgid "Phone"
+msgstr "Telefone"
+
+msgid "e-mail"
+msgstr "E-mail"
+
+msgid "Fax"
+msgstr "Fax"
+
+msgid "Mail"
+msgstr "Correio"
+
+msgid "SMS"
+msgstr "SMS"
+
+msgid "Walk-in"
+msgstr "Visita"
+
+msgid "Extranet"
+msgstr "Extranet"
+
+msgid "Reservation"
+msgstr "Reserva"
+
+msgid "Signed"
+msgstr "Assinado"
+
+msgid "Canceled"
+msgstr "Cancelado"
+
+#, fuzzy
+msgid "Closed"
+msgstr ""
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Concluído\n"
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Concluído\n"
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Concluído\n"
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Fechado"
+
+msgid "Transaction"
+msgstr "Transação"
+
+msgid "Rental management"
+msgstr "Gestão do arrendamento"
+
+#, fuzzy
+msgid "Search"
+msgstr ""
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Pesquisa\n"
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Pesquisa\n"
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Pesquisar"
+
+msgid "Caution"
+msgstr "Custódia"
+
+msgid "Delegation"
+msgstr "Delegação"
+
+msgid "Project"
+msgstr "Projeto"
+
+msgid "Under construction"
+msgstr "Em construção"
+
+msgid "Delivered"
+msgstr "Entregue"
+
+msgid "Ended"
+msgstr "Concluído"
+
+msgid "Mr."
+msgstr "Senhor"
+
+msgid "Mrs."
+msgstr "Senhora"
+
+msgid "Ms."
+msgstr "Senhorita"
+
+msgid "Mr. & Mrs."
+msgstr "Senhor e Senhora"
+
+msgid "Sheik"
+msgstr "Xeque"
+
+msgid "Duke"
+msgstr "Duque"
+
+msgid "Duchess"
+msgstr "Duquesa"
+
+msgid "Lord"
+msgstr "Lorde"
+
+msgid "Maître"
+msgstr "Mestre"
+
+msgid "Professor"
+msgstr "Professor"
+
+msgid "Sir"
+msgstr "Sir"
+
+msgid "Engineer"
+msgstr "Engenheiro"
+
+msgid "Notary"
+msgstr "Notário"
+
+msgid "Lawyer"
+msgstr "Advogado"
+
+msgid "Accountant"
+msgstr "Contabilista"
+
+msgid "Colonel"
+msgstr "Coronel"
+
+msgid "Architetto"
+msgstr "Arquiteto"
+
+#, fuzzy
+msgid "Plan"
+msgstr ""
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Mapa\n"
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Plano"
+
+msgid "Identity papers"
+msgstr "Documentos de identificação"
+
+msgid "Diagnostics"
+msgstr "Certificado"
+
+#, fuzzy
+msgid "Agreement"
+msgstr ""
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Acordo\n"
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Contrato de mediação imobiliária"
+
+msgid "Contract"
+msgstr "Contrato"
+
+msgid "Condominium"
+msgstr "Copropriedade"
+
+msgid "Maintenance"
+msgstr "Manutenção"
+
+msgid "Appraisal"
+msgstr "Avaliação"
+
+msgid "Brochure"
+msgstr "Brochura"
+
+#, fuzzy
+msgid "Invoice"
+msgstr ""
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Fatura\n"
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Factura"
+
+msgid "Lease"
+msgstr "Contrato de arrendamento"
+
+msgid "Title deeds"
+msgstr "Título de propriedade"
+
+msgid "Application"
+msgstr "Candidatura/Oferta"
+
+#, fuzzy
+msgid "Regulations"
+msgstr ""
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Regulamentos\n"
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Regulamentação"
+
+msgid "AML/KYC Vendor"
+msgstr "AML/KYC Vendor"
+
+msgid "AML/KYC Buyer"
+msgstr "AML/KYC Buyer"
+
+msgid "Electricity"
+msgstr "Eletricidade"
+
+msgid "Water"
+msgstr "Água"
+
+msgid "Maintenance of common areas"
+msgstr "Manutenção de áreas comuns"
+
+msgid "Waste collection"
+msgstr "Recolha de resíduos"
+
+msgid "Heating"
+msgstr "Aquecimento"
+
+msgid "Hot water"
+msgstr "Água quente"
+
+msgid "Heating maintenance"
+msgstr "Manutenção sist. de aquecimento"
+
+#, fuzzy
+msgid "Property tax"
+msgstr ""
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"IMI\n"
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Imposto predial\n"
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Imposto predial\n"
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Imposto sobre a propriedade"
+
+msgid "Concierge"
+msgstr "Porteiro"
+
+msgid "Chimney-sweeping"
+msgstr "Limpeza de chaminé"
+
+#, fuzzy
+msgid "Sanitation"
+msgstr ""
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Manutenção do saneamento\n"
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Saneamento\n"
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Saneamento"
+
+msgid "Household waste tax"
+msgstr "Imposto de resíduos domésticos"
+
+#, fuzzy
+msgid "Contact"
+msgstr ""
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Contacto\n"
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Contato"
+
+msgid "Owner"
+msgstr "Proprietário"
+
+msgid "e-mail alert"
+msgstr "Alerta por e-mail"
+
+msgid "Send to a friend"
+msgstr "Enviar a um(a) amigo(a)"
+
+msgid "Newsletter"
+msgstr "Newsletter"
+
+msgid "Selection"
+msgstr "Seleção"
+
+msgid "New"
+msgstr "Novo"
+
+msgid "Opened"
+msgstr "Aberto"
+
+msgid "Processing"
+msgstr "Em processamento"
+
+msgid "Self-employed"
+msgstr "Trabalhador independente"
+
+msgid "Bakery"
+msgstr "Padaria"
+
+msgid "Restaurant"
+msgstr "Restaurante"
+
+msgid "Press"
+msgstr "Imprensa"
+
+msgid "Bar"
+msgstr "Bar"
+
+msgid "Florist"
+msgstr "Florista"
+
+msgid "Tobacconist"
+msgstr "Tabacaria"
+
+msgid "Clothes"
+msgstr "Pronto a vestir"
+
+msgid "Chemist"
+msgstr "Farmácia"
+
+msgid "Shopping centre"
+msgstr "Centro comercial"
+
+msgid "Travel agency"
+msgstr "Agência de viagens"
+
+msgid "Real estate agent"
+msgstr "Agência imobiliária"
+
+msgid "Gallery"
+msgstr "Galeria"
+
+msgid "Garage"
+msgstr "Garagem"
+
+msgid "Insurer"
+msgstr "Segurador"
+
+msgid "Optician"
+msgstr "Oculista"
+
+msgid "Perfumery"
+msgstr "Perfumaria"
+
+msgid "Hotel"
+msgstr "Hotel"
+
+msgid "Antique dealer"
+msgstr "Antiquário"
+
+msgid "Laundry"
+msgstr "Lavandaria"
+
+msgid "Pressing"
+msgstr "Lavandaria a vapor"
+
+msgid "Jeweller"
+msgstr "Joalharia"
+
+msgid "Grocer"
+msgstr "Alimentação"
+
+msgid "Butcher"
+msgstr "Talho"
+
+msgid "Caterer"
+msgstr "Estalajadeiro"
+
+msgid "Brewery"
+msgstr "Cervejaria"
+
+msgid "Snack"
+msgstr "Snack-bar"
+
+msgid "Confectioner"
+msgstr "Pastelaria"
+
+msgid "Pork butcher"
+msgstr "Charcutaria"
+
+msgid "Grocery"
+msgstr "Mercearia"
+
+msgid "Cheesemonger"
+msgstr "Queijaria"
+
+msgid "Fruit and vegetables"
+msgstr "Hortifruticultura"
+
+msgid "Sex shop"
+msgstr "Sex shop"
+
+msgid "Video game"
+msgstr "Jogos de vídeo"
+
+msgid "Computer"
+msgstr "Informática"
+
+msgid "Hairdresser"
+msgstr "Cabeleireiro"
+
+msgid "Cosmetician"
+msgstr "Esteticista"
+
+msgid "Household electrical"
+msgstr "Eletrodomésticos"
+
+msgid "Shoes"
+msgstr "Sapataria"
+
+msgid "Haberdasher"
+msgstr "Retrosaria"
+
+msgid "Groomer"
+msgstr "Tratador"
+
+msgid "Tea room"
+msgstr "Salão de chá"
+
+msgid "Beach"
+msgstr "Praia"
+
+msgid "Bookshop"
+msgstr "Livraria"
+
+msgid "Offices"
+msgstr "Escritórios"
+
+msgid "Gas station"
+msgstr "Posto de abastecimento"
+
+msgid "Camping"
+msgstr "Parque de campismo"
+
+msgid "Nightclub"
+msgstr "Clube - Discoteca"
+
+msgid "Pet store"
+msgstr "Loja de animais"
+
+msgid "Video arcade"
+msgstr "Salão de jogos"
+
+msgid "Office supplies"
+msgstr "Papelaria"
+
+msgid "Furniture"
+msgstr "Móveis"
+
+msgid "Decoration"
+msgstr "Decoração"
+
+msgid "Agriculture"
+msgstr "Agricultura"
+
+msgid "Photo"
+msgstr "Fotografia"
+
+msgid "Drugstore"
+msgstr "Parafarmácia"
+
+msgid "Locksmith"
+msgstr "Serralharia"
+
+msgid "Health club"
+msgstr "Centro de fitness"
+
+msgid "Taxi"
+msgstr "Táxi"
+
+msgid "Cinema"
+msgstr "Cinema"
+
+msgid "Theater"
+msgstr "Teatro"
+
+msgid "Café"
+msgstr "Café"
+
+msgid "Garden centre"
+msgstr "Jardinagem"
+
+msgid "Hardware shop"
+msgstr "Bricolagem"
+
+msgid "Fishmongers"
+msgstr "Peixaria"
+
+msgid "Recreation"
+msgstr "Lazer"
+
+msgid "Culture"
+msgstr "Cultura"
+
+msgid "Funeral"
+msgstr "Funerária"
+
+msgid "Agritourism"
+msgstr "Agroturismo"
+
+#, fuzzy
+msgid "Golf"
+msgstr ""
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Golf\n"
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Golfe\n"
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Golfe\n"
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Golfe"
+
+msgid "Sport supplies"
+msgstr "Equipamentos desportivos"
+
+msgid "Bedroom"
+msgstr "Quarto"
+
+msgid "Living-room"
+msgstr "Sala de visitas"
+
+msgid "Kitchen"
+msgstr "Cozinha"
+
+#, fuzzy
+msgid "Parking"
+msgstr ""
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Lugar de estacionamento\n"
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Estacionamento\n"
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Lugar de Estacionamento"
+
+#, fuzzy
+msgid "Cellar"
+msgstr ""
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Cave\n"
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Porão"
+
+msgid "Garden shelter"
+msgstr "Abrigo de jardim"
+
+msgid "Bathroom"
+msgstr "Casa de banho"
+
+msgid "Linen room"
+msgstr "Lavandaria"
+
+msgid "Study"
+msgstr "Escritório"
+
+msgid "Hallway"
+msgstr "Corredor"
+
+msgid "Corridor"
+msgstr "Passagem"
+
+msgid "Shower room"
+msgstr "Chuveiro"
+
+msgid "Walk-in wardrobe"
+msgstr "Closet"
+
+msgid "Entrance"
+msgstr "Entrada"
+
+msgid "Lavatory"
+msgstr "Lavabos"
+
+msgid "Veranda"
+msgstr "Varanda"
+
+msgid "Terrace"
+msgstr "Terraço"
+
+msgid "Solarium"
+msgstr "Solário"
+
+msgid "Living room/dining area"
+msgstr "Sala de estar"
+
+msgid "Play room"
+msgstr "Salão de jogos"
+
+msgid "Dining room"
+msgstr "Sala de jantar"
+
+msgid "Pool house"
+msgstr "Casa da piscina"
+
+msgid "Cupboard"
+msgstr "Armário"
+
+msgid "Not used"
+msgstr "Não utilizado"
+
+msgid "Loggia"
+msgstr "Lógia"
+
+msgid "Attic"
+msgstr "Sótão"
+
+msgid "Mezzanine"
+msgstr "Mezzanine"
+
+msgid "Pantry"
+msgstr "Adega"
+
+msgid "Maintenance room"
+msgstr "Sala técnica"
+
+msgid "Workshop"
+msgstr "Oficina"
+
+msgid "Studio"
+msgstr "Estúdio"
+
+msgid "Loft"
+msgstr "Loft"
+
+#, fuzzy
+msgid "Library"
+msgstr ""
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Biblioteca\n"
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Livraria"
+
+msgid "Closet"
+msgstr "Guarda-roupa"
+
+#, fuzzy
+msgid "Courtyard"
+msgstr ""
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Pátio interior\n"
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Pátio"
+
+msgid "Landing"
+msgstr "Patamar"
+
+msgid "Basement"
+msgstr "Subsolo"
+
+msgid "Bathroom / Lavatory"
+msgstr "Casa de banho/lavabos"
+
+msgid "Shower room / Lavatory"
+msgstr "Chuveiro/lavabos"
+
+msgid "Balcony"
+msgstr "Varanda de sacada"
+
+msgid "Exercise room"
+msgstr "Ginásio"
+
+msgid "Discothèque"
+msgstr "Discoteca"
+
+msgid "Home cinema"
+msgstr "Cinema"
+
+msgid "Reception room"
+msgstr "Sala de receção"
+
+msgid "Storage room"
+msgstr "Arrecadação"
+
+msgid "Garden"
+msgstr "Jardim"
+
+msgid "Park"
+msgstr "Parque"
+
+msgid "Land"
+msgstr "Terreno"
+
+msgid "Patio"
+msgstr "Pátio"
+
+msgid "Principal bedroom"
+msgstr "Quarto principal"
+
+msgid "Suite"
+msgstr "Suite"
+
+msgid "Shed"
+msgstr "Barracão"
+
+msgid "Apartment"
+msgstr "Apartamento"
+
+msgid "Cabin"
+msgstr "Cabine"
+
+msgid "Barn"
+msgstr "Celeiro"
+
+msgid "Outbuilding"
+msgstr "Anexo"
+
+msgid "Bike storage room"
+msgstr "Sala para bicicletas"
+
+msgid "Ski storage room"
+msgstr "Sala para equipamento de esqui"
+
+msgid "Garbage room"
+msgstr "Local para depositar o lixo"
+
+msgid "Steam room"
+msgstr "Hammam"
+
+msgid "Indoor swimming pool"
+msgstr "Piscina interior"
+
+msgid "Prayer room"
+msgstr "Sala de oração"
+
+msgid "Sauna"
+msgstr "Sauna"
+
+msgid "Watchtower"
+msgstr "Torre de vigia"
+
+#, fuzzy
+msgid "Room"
+msgstr ""
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Sala\n"
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Assoalhada"
+
+msgid "Meeting room"
+msgstr "Sala de reuniões"
+
+msgid "Maid's room"
+msgstr "Quarto de serviço"
+
+msgid "Maid's studio"
+msgstr "Estúdio de serviço"
+
+msgid "Double reception room"
+msgstr "Dupla sala de receção"
+
+msgid "Triple reception room"
+msgstr "Tripla sala de receção"
+
+msgid "Indoor parking"
+msgstr "Lugar de estacionamento interior"
+
+msgid "Outdoor parking"
+msgstr "Lugar de estacionamento exterior"
+
+msgid "Stockroom"
+msgstr "Stock/Reserva"
+
+msgid "Shop"
+msgstr "Loja de comércio"
+
+msgid "Cafeteria"
+msgstr "Cafetaria"
+
+#, fuzzy
+msgid "Unit"
+msgstr ""
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Lote\n"
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Lote / Fração"
+
+#, fuzzy
+msgid "Warehouse"
+msgstr ""
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Armazém\n"
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Armazéns\n"
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Armazém"
+
+msgid "Accommodation"
+msgstr "Alojamento"
+
+#, fuzzy
+msgid "Arcade"
+msgstr ""
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Arcada\n"
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Arcade"
+
+msgid "House"
+msgstr "Moradia"
+
+msgid "Stair"
+msgstr "Escada"
+
+msgid "Box"
+msgstr "Box"
+
+msgid "Carnotzet"
+msgstr "Sala de convívio"
+
+msgid "Panic room"
+msgstr "Sala segura"
+
+msgid "Open space"
+msgstr "Espaço aberto"
+
+msgid "Hall"
+msgstr "Hall"
+
+msgid "Living/dining/kitchen area"
+msgstr "Sala de estar/cozinha"
+
+msgid "Summer kitchen"
+msgstr "Cozinha de verão"
+
+msgid "Spa"
+msgstr "Spa"
+
+msgid "Boathouse"
+msgstr "Hangar para embarcações"
+
+msgid "Eat-in kitchen"
+msgstr "Sala de jantar/cozinha"
+
+msgid "Equipped kitchen"
+msgstr "Cozinha equipada"
+
+msgid "Semi equipped kitchen"
+msgstr "Cozinha semiequipada"
+
+msgid "Corner kitchen"
+msgstr "Cozinha de canto"
+
+msgid "Kitchenette"
+msgstr "Kitchenette"
+
+msgid "Open kitchen"
+msgstr "Cozinha americana"
+
+msgid "Plot"
+msgstr "lote de terreno"
+
+msgid "Porch"
+msgstr "Alpendre"
+
+msgid "Children's room"
+msgstr "Quarto das crianças"
+
+msgid "Locker"
+msgstr "Vestiário"
+
+msgid "Lobby"
+msgstr "Hall de entrada"
+
+msgid "Accessible toilet"
+msgstr "Casa de banho para PMR"
+
+msgid "Craft workshop"
+msgstr "Oficina de artesanato"
+
+msgid "Wine cellar"
+msgstr "Cave de vinho"
+
+msgid "Plateau"
+msgstr "Palco"
+
+msgid "Winter garden"
+msgstr "Jardim de inverno"
+
+msgid "Single"
+msgstr "Individual"
+
+msgid "Twin"
+msgstr "Geminada"
+
+msgid "Twin by garage"
+msgstr "Geminada pela garagem"
+
+msgid "Village house"
+msgstr "Casa de campo"
+
+msgid "Twin by angle"
+msgstr "Geminada de canto"
+
+msgid "Ranged"
+msgstr "Em banda"
+
+msgid "Standard"
+msgstr "Regime aberto"
+
+msgid "Co-exclusive"
+msgstr "Concorrência"
+
+#, fuzzy
+msgid "Exclusive"
+msgstr ""
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Exclusivo\n"
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Exclusividade"
+
+msgid "Exclusive agent"
+msgstr "Proprietário"
+
+msgid "Colleague"
+msgstr "Colega"
+
+msgid "Verbal"
+msgstr "Verbal"
+
+#, fuzzy
+msgid "Free"
+msgstr ""
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Livre\n"
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Gratuito"
+
+msgid "Rented"
+msgstr "Arrendado"
+
+msgid "Occupied"
+msgstr "Ocupado"
+
+msgid "To be agreed"
+msgstr "A combinar"
+
+#, fuzzy
+msgid "Building"
+msgstr ""
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Edifício\n"
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Edifício\n"
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Edifício\n"
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Prédio\n"
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Construção"
+
+#, fuzzy
+msgid "Residence"
+msgstr ""
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Residência\n"
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Edifício"
+
+msgid "Housing scheme"
+msgstr "Loteamento"
+
+msgid "Hamlet"
+msgstr "Lugarejo"
+
+msgid "Domain"
+msgstr "Domínio"
+
+#, fuzzy
+msgid "Property"
+msgstr ""
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Propriedade\n"
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Propriedade\n"
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Imóvel"
+
+#, fuzzy
+msgid "Street"
+msgstr ""
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Rua/Avenida/Caminho...\n"
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Rua"
+
+msgid "Sale"
+msgstr "Venda"
+
+msgid "Rental"
+msgstr "Arrendamento"
+
+msgid "Seasonal rental"
+msgstr "Arrendamento sazonal"
+
+msgid "Development"
+msgstr "Em construção"
+
+#, fuzzy
+msgid "Life annuity"
+msgstr ""
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Usufruto\n"
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Renda vitalícia livre\n"
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Renda vitalícia"
+
+msgid "Auction"
+msgstr "Leilão"
+
+msgid "Unit sale"
+msgstr "Venda à unidade"
+
+msgid "Bulk sale"
+msgstr "Venda a granel"
+
+msgid "Unfurnished"
+msgstr "Vazia"
+
+#, fuzzy
+msgid "Furnished"
+msgstr ""
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Mobilada\n"
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Mobilado\n"
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Mobilado"
+
+msgid "Roommate"
+msgstr "Coarrendamento"
+
+msgid "Student"
+msgstr "Estudante"
+
+msgid "Half furnished"
+msgstr "Semi-mobilado"
+
+msgid "Coworking"
+msgstr "Co-working"
+
+msgid "Holidays"
+msgstr "Férias"
+
+#, fuzzy
+msgid "Event"
+msgstr ""
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Eventos\n"
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Salão/Evento"
+
+msgid "New construction"
+msgstr "Construção nova"
+
+msgid "Life annuity occupied"
+msgstr "Renda vitalícia ocupado"
+
+msgid "Bare Ownership"
+msgstr "Nua propriedade"
+
+msgid "Forward sale"
+msgstr "Venda a prazo"
+
+msgid "Life annuity semi-occupied"
+msgstr "Renda vitalícia semiocupado"
+
+msgid "Forward sale available"
+msgstr "Venda a prazo livre"
+
+msgid "Forward sale semi-occupied"
+msgstr "Venda a prazo semiocupado"
+
+msgid "Forward sale occupied"
+msgstr "Venda a prazo ocupado"
+
+msgid "Life annuity without income"
+msgstr "Renda vitalícia sem receita"
+
+msgid "Requires updating"
+msgstr "Necessita restauro"
+
+msgid "Good condition"
+msgstr "Bom estado"
+
+msgid "Requires renovation"
+msgstr "Necessita renovação"
+
+msgid "Excellent condition"
+msgstr "Excelente estado"
+
+msgid "Timber"
+msgstr "Madeira"
+
+msgid "Engineered wood"
+msgstr "Madeira processada"
+
+msgid "Stone"
+msgstr "Pedra"
+
+msgid "Brick"
+msgstr "Tijolo"
+
+msgid "Concrete"
+msgstr "Betão"
+
+msgid "Reinforced concrete"
+msgstr "Betão armado"
+
+msgid "Steel frame"
+msgstr "Vigamento em aço"
+
+msgid "Reinforced concrete frame"
+msgstr "Vigamento em betão armado"
+
+msgid "Shear wall"
+msgstr "Parede de cisalhamento"
+
+msgid "Concrete block"
+msgstr "Bloco de betão"
+
+msgid "Dimension stone"
+msgstr "Pedra de cantaria"
+
+msgid "Monolith brick"
+msgstr "Tijolo monólito"
+
+msgid "Panel"
+msgstr "Painel"
+
+msgid "Wood frame"
+msgstr "Estrutura em madeira"
+
+msgid "Metal frame"
+msgstr "Estrutura em metal"
+
+msgid "Mudbrick"
+msgstr "Tijolo de barro"
+
+msgid "Cinder block"
+msgstr "Perpianho"
+
+msgid "Aerated concrete"
+msgstr "Betão celular"
+
+msgid "Clinker"
+msgstr "Escória"
+
+msgid "Rammed earth"
+msgstr "Adobe"
+
+msgid "Insulated shuttering block"
+msgstr "Bloco cofrante isolante"
+
+msgid "Ground floor"
+msgstr "Rés do chão"
+
+msgid "Top floor"
+msgstr "Último andar"
+
+msgid "1st"
+msgstr "1º"
+
+msgid "2nd"
+msgstr "2º"
+
+msgid "3rd"
+msgstr "3º"
+
+msgid "4th"
+msgstr "4º"
+
+msgid "5th"
+msgstr "5º"
+
+msgid "6th"
+msgstr "6º"
+
+msgid "7th"
+msgstr "7º"
+
+msgid "8th"
+msgstr "8º"
+
+msgid "9th"
+msgstr "9º"
+
+msgid "10th"
+msgstr "10º"
+
+msgid "11th"
+msgstr "11º"
+
+msgid "12th"
+msgstr "12º"
+
+msgid "13th"
+msgstr "13º"
+
+msgid "14th"
+msgstr "14º"
+
+msgid "15th"
+msgstr "15º"
+
+msgid "16th"
+msgstr "16º"
+
+msgid "17th"
+msgstr "17º"
+
+msgid "18th"
+msgstr "18º"
+
+msgid "19th"
+msgstr "19º"
+
+msgid "20th"
+msgstr "20º"
+
+msgid "Garden level"
+msgstr "Nível do jardim"
+
+msgid "Split-level"
+msgstr "Sobreloja"
+
+msgid "-1"
+msgstr "-1"
+
+msgid "-2"
+msgstr "-2"
+
+msgid "-3"
+msgstr "-3"
+
+msgid "-4"
+msgstr "-4"
+
+msgid "Single-storey"
+msgstr "Térreo"
+
+msgid "21st"
+msgstr "21º"
+
+msgid "22nd"
+msgstr "22º"
+
+msgid "23rd"
+msgstr "23º"
+
+msgid "24th"
+msgstr "24º"
+
+msgid "25th"
+msgstr "25º"
+
+msgid "26th"
+msgstr "26º"
+
+msgid "27th"
+msgstr "27º"
+
+msgid "28th"
+msgstr "28º"
+
+msgid "29th"
+msgstr "29º"
+
+msgid "30th"
+msgstr "30º"
+
+msgid "31st"
+msgstr "31º"
+
+msgid "32nd"
+msgstr "32º"
+
+msgid "33rd"
+msgstr "33º"
+
+msgid "34th"
+msgstr "34º"
+
+msgid "35th"
+msgstr "35º"
+
+msgid "36th"
+msgstr "36º"
+
+msgid "37th"
+msgstr "37º"
+
+msgid "38th"
+msgstr "38º"
+
+msgid "39th"
+msgstr "39º"
+
+msgid "40th"
+msgstr "40º"
+
+msgid "-5"
+msgstr "-5"
+
+msgid "-6"
+msgstr "-6"
+
+msgid "-7"
+msgstr "-7"
+
+msgid "-8"
+msgstr "-8"
+
+msgid "-9"
+msgstr "-9"
+
+msgid "-10"
+msgstr "-10"
+
+msgid "41st"
+msgstr "41º"
+
+msgid "42nd"
+msgstr "42º"
+
+msgid "43rd"
+msgstr "43º"
+
+msgid "44th"
+msgstr "44º"
+
+msgid "45th"
+msgstr "45º"
+
+msgid "46th"
+msgstr "46º"
+
+msgid "47th"
+msgstr "47º"
+
+msgid "48th"
+msgstr "48º"
+
+msgid "49th"
+msgstr "49º"
+
+msgid "50th"
+msgstr "50º"
+
+msgid "51st"
+msgstr "51º"
+
+msgid "52nd"
+msgstr "52º"
+
+msgid "53rd"
+msgstr "53º"
+
+msgid "54th"
+msgstr "54º"
+
+msgid "55th"
+msgstr "55º"
+
+msgid "56th"
+msgstr "56º"
+
+msgid "57th"
+msgstr "57º"
+
+msgid "58th"
+msgstr "58º"
+
+msgid "59th"
+msgstr "59º"
+
+msgid "60th"
+msgstr "60º"
+
+msgid "Raised"
+msgstr "Sobreelevado"
+
+msgid "61st"
+msgstr "61º"
+
+msgid "62nd"
+msgstr "62º"
+
+msgid "63rd"
+msgstr "63º"
+
+msgid "64th"
+msgstr "64º"
+
+msgid "65th"
+msgstr "65º"
+
+msgid "66th"
+msgstr "66º"
+
+msgid "67th"
+msgstr "67º"
+
+msgid "68th"
+msgstr "68º"
+
+msgid "69th"
+msgstr "69º"
+
+msgid "70th"
+msgstr "70º"
+
+msgid "71st"
+msgstr "71º"
+
+msgid "72nd"
+msgstr "72º"
+
+msgid "73rd"
+msgstr "73º"
+
+msgid "74th"
+msgstr "74º"
+
+msgid "75th"
+msgstr "75º"
+
+msgid "76th"
+msgstr "76º"
+
+msgid "77th"
+msgstr "77º"
+
+msgid "78th"
+msgstr "78º"
+
+msgid "79th"
+msgstr "79º"
+
+msgid "80th"
+msgstr "80º"
+
+msgid "81st"
+msgstr "81º"
+
+msgid "82nd"
+msgstr "82º"
+
+msgid "83rd"
+msgstr "83º"
+
+msgid "84th"
+msgstr "84º"
+
+msgid "85th"
+msgstr "85º"
+
+msgid "86th"
+msgstr "86º"
+
+msgid "87th"
+msgstr "87º"
+
+msgid "88th"
+msgstr "88º"
+
+msgid "89th"
+msgstr "89º"
+
+msgid "90th"
+msgstr "90º"
+
+msgid "91st"
+msgstr "91º"
+
+msgid "92nd"
+msgstr "92º"
+
+msgid "93rd"
+msgstr "93º"
+
+msgid "94th"
+msgstr "94º"
+
+msgid "95th"
+msgstr "95º"
+
+msgid "96th"
+msgstr "96º"
+
+msgid "97th"
+msgstr "97º"
+
+msgid "98th"
+msgstr "98º"
+
+msgid "99th"
+msgstr "99º"
+
+msgid "100th"
+msgstr "100º"
+
+msgid "Wooden floor"
+msgstr "Parquê"
+
+msgid "Tile"
+msgstr "Pavimento ladrilhado"
+
+msgid "Carpet"
+msgstr "Alcatifa"
+
+msgid "Natural fiber"
+msgstr "Fibra vegetal"
+
+msgid "Coco"
+msgstr "Coco"
+
+msgid "Travertine"
+msgstr "Travertino"
+
+msgid "Marble"
+msgstr "Mármore"
+
+msgid "Granite"
+msgstr "Granito"
+
+msgid "Terracotta tile"
+msgstr "Terracota"
+
+msgid "Teak"
+msgstr "Teca"
+
+msgid "Mosaïc"
+msgstr "Mosaico"
+
+msgid "Clay"
+msgstr "Terra batida"
+
+msgid "Laminate"
+msgstr "Laminado"
+
+msgid "Vinyl composition tile"
+msgstr "Vinilo / PVC"
+
+msgid "Porcelain stoneware"
+msgstr "Grés cerâmico"
+
+msgid "Cement tile"
+msgstr "Ladrilho hidráulico"
+
+msgid "Convector"
+msgstr "Convector"
+
+msgid "Underfloor"
+msgstr "Radiante"
+
+msgid "Radiator"
+msgstr "Radiador"
+
+#, fuzzy
+msgid "Stove"
+msgstr ""
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Salamandra\n"
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Fogão"
+
+msgid "Air-conditioning"
+msgstr "Ar condicionado"
+
+msgid "Central"
+msgstr "Central"
+
+msgid "Without"
+msgstr "Sem aquecimento"
+
+msgid "Fireplace"
+msgstr "Lareira"
+
+msgid "Individual"
+msgstr "Individual"
+
+msgid "Common"
+msgstr "Coletivo"
+
+msgid "Mixed"
+msgstr "Misto"
+
+msgid "District heating"
+msgstr "Urbano"
+
+msgid "Gas"
+msgstr "Gás"
+
+msgid "Fuel oil"
+msgstr "Gasóleo/fuelóleo"
+
+msgid "Electric"
+msgstr "Elétrico"
+
+msgid "Wood"
+msgstr "Madeira"
+
+msgid "Solar"
+msgstr "Solar"
+
+msgid "Charcoal"
+msgstr "Carvão"
+
+msgid "Heat pump"
+msgstr "Bomba de calor"
+
+msgid "Geothermal"
+msgstr "Geotermia"
+
+msgid "Wood pellet"
+msgstr "Pellet de madeira"
+
+msgid "Aerothermy"
+msgstr "Aerotermia"
+
+msgid "Hot water tank"
+msgstr "Aquecedor de água/esquentador"
+
+msgid "Boiler"
+msgstr "Caldeira"
+
+msgid "Collective"
+msgstr "Coletiva"
+
+msgid "Flat"
+msgstr "Plano"
+
+msgid "Dry-stone wall terraces"
+msgstr "Socalco"
+
+msgid "Steep"
+msgstr "Declive"
+
+msgid "Wooded"
+msgstr "Arborizado"
+
+msgid "Meadow"
+msgstr "Pradaria"
+
+msgid "Term lease"
+msgstr "Precário"
+
+msgid "Long-Term"
+msgstr "Longo prazo"
+
+msgid "Long-Term - Single activity"
+msgstr "Longo prazo - uma única atividade"
+
+msgid "Long-Term - All activities"
+msgstr "Longo prazo - todas as atividades"
+
+msgid "Regulated"
+msgstr "Regulamentado"
+
+msgid "Seaside"
+msgstr "Beira-mar"
+
+msgid "Village"
+msgstr "Aldeia"
+
+msgid "Old town"
+msgstr "Cidade velha"
+
+msgid "Precinct"
+msgstr "Zona para peões"
+
+#, fuzzy
+msgid "Ski slope"
+msgstr ""
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Pista de esqui\n"
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Pistas de esqui"
+
+msgid "Town center"
+msgstr "Centro da cidade"
+
+msgid "Industrial estate"
+msgstr "Zona industrial"
+
+msgid "Shopping center"
+msgstr "Centro comercial"
+
+msgid "Business park"
+msgstr "Parque empresarial"
+
+msgid "Airport area"
+msgstr "Zona aeroportuária"
+
+msgid "Science park"
+msgstr "Parque tecnológico"
+
+msgid "Port area"
+msgstr "Zona portuária"
+
+msgid "Outskirts"
+msgstr "Periferia"
+
+msgid "Hills"
+msgstr "Colinas"
+
+msgid "Waterfront"
+msgstr "Zona costeira"
+
+msgid "Countryside"
+msgstr "Campo"
+
+msgid "Suburb"
+msgstr "Subúrbios"
+
+msgid "East"
+msgstr "Nascente / Este"
+
+msgid "North"
+msgstr "Norte"
+
+msgid "West"
+msgstr "Oeste"
+
+msgid "South"
+msgstr "Sul"
+
+msgid "North-east"
+msgstr "Nordeste"
+
+msgid "South-east"
+msgstr "Sudeste"
+
+msgid "South-west"
+msgstr "Sul poente"
+
+msgid "North-west"
+msgstr "Noroeste"
+
+msgid "Day"
+msgstr "Dia"
+
+msgid "Week"
+msgstr "Semana"
+
+msgid "Fortnight"
+msgstr "Quinzena"
+
+msgid "Month"
+msgstr "Mês"
+
+msgid "Quarterly"
+msgstr "Trimestre"
+
+msgid "Bimonthly"
+msgstr "Bimensal"
+
+msgid "Half-yearly"
+msgstr "Semestre"
+
+#, fuzzy
+msgid "Yearly"
+msgstr ""
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Ano\n"
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Anualmente"
+
+msgid "Bus"
+msgstr "Autocarro"
+
+msgid "Bus hub"
+msgstr "Estação rodoviária"
+
+msgid "Metro"
+msgstr "Metro"
+
+msgid "Shops"
+msgstr "Lojas"
+
+msgid "Primary school"
+msgstr "Escola primária"
+
+msgid "Town centre"
+msgstr "Centro da cidade"
+
+msgid "Hospital/clinic"
+msgstr "Hospital/clínica"
+
+msgid "Doctor"
+msgstr "Médico"
+
+msgid "Tram"
+msgstr "Elétrico"
+
+msgid "Train station"
+msgstr "Estação de comboios"
+
+msgid "Public parking"
+msgstr "Lugar de estacionamento público"
+
+msgid "Supermarket"
+msgstr "Supermercado"
+
+msgid "Sea port"
+msgstr "Porto"
+
+msgid "Nursery"
+msgstr "Creche"
+
+msgid "Public pool"
+msgstr "Piscina pública"
+
+msgid "Tennis"
+msgstr "Ténis"
+
+msgid "Movies"
+msgstr "Cinema"
+
+msgid "Secondary school"
+msgstr "Escola secundária"
+
+msgid "Sport center"
+msgstr "Centro de desporto"
+
+msgid "Airport"
+msgstr "Aeroporto"
+
+msgid "Sea"
+msgstr "Mar"
+
+msgid "TGV station"
+msgstr "Estação de combio"
+
+msgid "Highway"
+msgstr "Autoestrada"
+
+msgid "University"
+msgstr "Universidade"
+
+msgid "Convention center"
+msgstr "Centro de congressos"
+
+msgid "Lake"
+msgstr "Lago"
+
+msgid "On main road"
+msgstr "Estrada principal"
+
+msgid "Energy - Conventional consumption"
+msgstr "Energia - Consumo convencional"
+
+msgid "Energy - Emissions estimate"
+msgstr "Energia - Estimativa de emissões"
+
+msgid "« Carrez » act"
+msgstr "Lei Carrez"
+
+msgid "ERP"
+msgstr "ERP"
+
+msgid "Termites"
+msgstr "Cupins"
+
+msgid "Asbestos"
+msgstr "Amianto"
+
+#, fuzzy
+msgid "Lead"
+msgstr ""
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Chumbo\n"
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Chumbo\n"
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Lead"
+
+msgid "Boutin act"
+msgstr "Lei Boutin"
+
+msgid "EPI (Non renewable)"
+msgstr "Indice de prestação energética"
+
+msgid "Energy certificate"
+msgstr "Certificado energético"
+
+msgid "Request for nomination of an ad hoc agent"
+msgstr "Pedido de nomeação de um representante ad hoc"
+
+msgid "Request for nomination of a temporary administrator"
+msgstr "Pedido de nomeação de um administrador provisório"
+
+msgid "Request for expert nomination"
+msgstr "Pedido de nomeação de perito(s)"
+
+msgid "Fire safety regulations"
+msgstr "Normas relativas à segurança contra incêndio"
+
+msgid "Accessibility standards for people with disabilities"
+msgstr "Normas de acessibilidade para pessoas portadoras de deficiência"
+
+msgid "Sanitary authorization"
+msgstr "Aprovação sanitária"
+
+msgid "Energy consumption"
+msgstr "Consumo de energia"
+
+msgid "Housing tax"
+msgstr "Imposto sobre bens imóveis"
+
+msgid "Land charges"
+msgstr "Encargos sobre a propriedade"
+
+msgid "Residents only"
+msgstr "Reservado a residentes"
+
+msgid "Property tax (IPTU)"
+msgstr "IPTU"
+
+msgid "Minergie"
+msgstr "Minergie"
+
+msgid "Volume"
+msgstr "Volume"
+
+msgid "Useful surface"
+msgstr "Área útil"
+
+msgid "Co-Ownership property"
+msgstr "Propriedade por andares"
+
+msgid "Communal tax rate"
+msgstr "Imposto municipal sobre os imóveis"
+
+msgid "Land register extract number"
+msgstr "Nenhuma certidão de registo predial"
+
+msgid "Droit de superficie"
+msgstr "Direito de superfície"
+
+msgid "Millièmes"
+msgstr "Milímetros"
+
+msgid "PPE budget"
+msgstr "Orçamento de propriedade por andares"
+
+msgid "Current renovation fund"
+msgstr "Fundo de renovação atual"
+
+msgid "Plot ratio"
+msgstr "Coeficiente de utilização do solo"
+
+msgid "Floor space coefficient"
+msgstr "Coeficiente de ocupação do solo"
+
+msgid "Ground footprint coefficient"
+msgstr "Coeficiente de afetação do solo"
+
+msgid "Plot division / Demarcation"
+msgstr "Divisão em parcelas/Delimitação"
+
+msgid "Board of directors / supervisory deliberation"
+msgstr "Deliberação do conselho de administração/supervisão"
+
+msgid "Certificate of compliance"
+msgstr "Certificado de conformidade"
+
+msgid "Energy class"
+msgstr "Categoria de eficiência energética"
+
+msgid "Thermal insulation class"
+msgstr "Isolamento térmico"
+
+msgid "Greenhouse Gas"
+msgstr "Gás com efeito de estufa"
+
+msgid "Energy passport"
+msgstr "Energia-passaporte"
+
+msgid "Energy consumption / Final energy requirement"
+msgstr "Consumo de energia/Necessidade de energia final"
+
+msgid "Energy efficiency class"
+msgstr "Classe de desempenho energético"
+
+msgid "Year of construction according to certificate"
+msgstr "Ano de construção de acordo com o certificado"
+
+msgid "Energy consumption : Hot water included"
+msgstr "Água quente incluída"
+
+msgid "Specific primary energy consumption"
+msgstr "Consumo específico de energia primária"
+
+msgid "Flood risks"
+msgstr "Riscos de inundação"
+
+msgid "Registration number"
+msgstr "Número de registo"
+
+msgid "Cadastral income"
+msgstr "Receita fundiária"
+
+msgid "Planning permit obtained"
+msgstr "Autorização de urbanização obtida"
+
+msgid "Subdivision authorization"
+msgstr "Autorização de loteamento"
+
+msgid "Pre-emptive right possible"
+msgstr "Direito de preempção possível"
+
+msgid "Citation for urbanistic infraction"
+msgstr "Citação por infração urbanística"
+
+msgid "Last use designation"
+msgstr "Última atribuição urbanística"
+
+msgid "Cadastral annuity"
+msgstr "Renda fundiária"
+
+msgid "Energy certification number"
+msgstr "Certificação energética - Número"
+
+msgid "VAT applicable"
+msgstr "IVA aplicável"
+
+msgid "Energy certification"
+msgstr "Certificação energética"
+
+msgid "Emissions estimate"
+msgstr "Estimativa de emissões"
+
+msgid "Possibility of connecting : Water / Gas / Electricity"
+msgstr "Possibilidade de conexão: Água/Gás/Eletricidade"
+
+msgid "Laudêmio"
+msgstr "Laudêmio"
+
+msgid "Real estate program"
+msgstr "Programa imobiliário"
+
+msgid "Accessible to foreigners"
+msgstr "Acessível a estrangeiros"
+
+msgid "Building type"
+msgstr "Tipo de edifício"
+
+msgid "Primärenergiebedarf"
+msgstr "Primärenergiebedarf"
+
+msgid "Flat rate for charges"
+msgstr "Taxas fixas de arrendamento"
+
+msgid "Energy Efficiency Rating (Current)"
+msgstr "Energy Efficiency Rating (Current)"
+
+msgid "Energy Efficiency Rating (Potential)"
+msgstr "Energy Efficiency Rating (Potential)"
+
+msgid "Environmental Impact Rating (Current)"
+msgstr "Environmental Impact Rating (Current)"
+
+msgid "Environmental Impact Rating (Potential)"
+msgstr "Environmental Impact Rating (Potential)"
+
+msgid "Tenure type"
+msgstr "Tipo de posse"
+
+msgid "Property tenure"
+msgstr "Regime fundiário"
+
+msgid "Rental value"
+msgstr "Valor de arrendamento"
+
+msgid "Tax value"
+msgstr "Valor fiscal"
+
+msgid "Insurance value"
+msgstr "Valor de seguro"
+
+msgid "Building zone"
+msgstr "Zona de construção"
+
+msgid "Stratum"
+msgstr "Estrato"
+
+msgid "Rental reference index"
+msgstr "Índice de referência das rendas"
+
+msgid "Last rental price"
+msgstr "Último preço de arrendamento"
+
+msgid "Building envelope efficiency"
+msgstr "Eficácia do revestimento do edifício"
+
+msgid "Overall energy efficiency"
+msgstr "Eficácia energética global"
+
+msgid "Dry rot diagnosis"
+msgstr "Diagnóstico de podridão dos canais condutores de água"
+
+msgid "Additional rent"
+msgstr "Renda adicional"
+
+msgid "Indexed cadastral income"
+msgstr "Receita fundiária indexada"
+
+msgid "EPI (Renewable)"
+msgstr "EPI (Índice de desempenho energético) (Renovável)"
+
+msgid "Emission class"
+msgstr "Classe de emissões"
+
+msgid "Heating costs"
+msgstr "Despesas de aquecimento"
+
+msgid "Performance level (summer season)"
+msgstr "Nível de desempenho (verão)"
+
+msgid "Performance level (winter season)"
+msgstr "Nível de desempenho (inverno)"
+
+msgid "Cadastral data - Section"
+msgstr "Dados cadastrais - Secção"
+
+msgid "Cadastral data - Sheet"
+msgstr "Dados cadastrais - Folha"
+
+msgid "Cadastral data - Parcel"
+msgstr "Dados cadastrais - Lote"
+
+msgid "Cadastral data - Subparcel"
+msgstr "Dados cadastrais - Sublote"
+
+msgid "Cadastral data - Sub"
+msgstr "Dados cadastrais - Sub"
+
+msgid "Cadastral data - Sub 2"
+msgstr "Dados cadastrais - Sub 2"
+
+msgid "Energy - Low estimated annual expenditure for standard use"
+msgstr ""
+"Energia - Valor mínimo estimado de gastos anuais para uma utilização padrão"
+
+msgid "Energy - High estimated annual expenditure for standard use"
+msgstr ""
+"Energia - Valor máximo estimado de gastos anuais para uma utilização padrão"
+
+msgid "Energy - Energy Price Reference Year"
+msgstr "Energia - Ano de referência dos preços da energia"
+
+msgid "Licença de habitação - Número"
+msgstr "Licença de habitação - Número"
+
+msgid "Licença de habitação - Emitida em"
+msgstr "Licença de habitação - Emitida em"
+
+msgid "Taxa de IMI"
+msgstr "Taxa de IMI"
+
+msgid "Regime de IVA"
+msgstr "Regime de IVA"
+
+msgid "Escritura - Número"
+msgstr "Escritura - Número"
+
+msgid "Licença de construção - Número"
+msgstr "Licença de construção - Número"
+
+msgid "Licença de construção - Emitida em"
+msgstr "Licença de construção - Emitida em"
+
+msgid "Maximum reference rent (base rent not to be exceeded)"
+msgstr "Loyer de référence majoré (loyer de base à ne pas dépasser)"
+
+msgid "Contratto di affitto"
+msgstr "Contratto di affittto"
+
+msgid "Licença de Alojamento Local"
+msgstr "Licença de Alojamento Local"
+
+msgid "Energy audit"
+msgstr "Auditorias energéticas"
+
+msgid "Tax identifier of the property"
+msgstr "Identificador da taxa de habitação"
+
+msgid "Turnover"
+msgstr "Volume de negócios"
+
+msgid "Net income"
+msgstr "Resultado líquido"
+
+msgid "Gross operating profit"
+msgstr "Superávite bruto de exploração"
+
+msgid "Personnel costs"
+msgstr "Custos com pessoal"
+
+msgid "Cash flow"
+msgstr "Capacidade de autofinanciamento"
+
+msgid "Shareholders’equity"
+msgstr "Capitais próprios"
+
+msgid "Net debt"
+msgstr "Dívida líquida"
+
+msgid "Internet"
+msgstr "Internet"
+
+msgid "Disabled access"
+msgstr "Acesso a pessoa com mobilidade reduzida"
+
+msgid "Alarm system"
+msgstr "Alarme"
+
+msgid "Lift"
+msgstr "Elevador"
+
+msgid "Caretaker"
+msgstr "Depositário"
+
+msgid "Double glazing"
+msgstr "Vidro duplo"
+
+msgid "Intercom"
+msgstr "Intercomunicador"
+
+msgid "TV distribution"
+msgstr "Televisão por cabo"
+
+msgid "Swimming pool"
+msgstr "Piscina"
+
+msgid "Security door"
+msgstr "Porta blindada"
+
+msgid "Tennis court"
+msgstr "Ténis"
+
+msgid "Irrigation sprinkler"
+msgstr "Sistema de irrigação"
+
+msgid "Barbecue"
+msgstr "Churrasqueira"
+
+msgid "Electric gate"
+msgstr "Portão elétrico"
+
+msgid "Crawl space"
+msgstr "Caixa de ar"
+
+msgid "Car port"
+msgstr "Garagem fechada"
+
+msgid "Caretaker house"
+msgstr "Casa de guarda"
+
+msgid "Sliding windows"
+msgstr "Janelas de correr"
+
+msgid "Central vacuum system"
+msgstr "Aspiração central"
+
+msgid "Electric shutters"
+msgstr "Portadas elétricas"
+
+msgid "Window shade"
+msgstr "Estore"
+
+msgid "Electric awnings"
+msgstr "Estores elétricos"
+
+msgid "Washing machine"
+msgstr "Máquina de lavar roupa"
+
+msgid "Jacuzzi"
+msgstr "Jacúzi"
+
+msgid "Whirlpool tub"
+msgstr "Banheira de hidromassagem"
+
+msgid "Well"
+msgstr "Poço"
+
+msgid "Spring"
+msgstr "Fonte"
+
+msgid "Engine generator"
+msgstr "Gerador elétrico"
+
+msgid "Dishwasher"
+msgstr "Máquina de lavar a louça"
+
+msgid "Hob"
+msgstr "Placa de fogão"
+
+msgid "Safe"
+msgstr "Caixa-forte"
+
+msgid "Helipad"
+msgstr "Heliporto"
+
+msgid "Videophone"
+msgstr "Videofone"
+
+msgid "Video security"
+msgstr "Videovigilância"
+
+msgid "Iron"
+msgstr "Ferro de engomar"
+
+msgid "Hair dryer"
+msgstr "Secador de cabelos"
+
+msgid "Television"
+msgstr "Televisão"
+
+msgid "DVD Player"
+msgstr "Leitor de DVD"
+
+msgid "CD Player"
+msgstr "Leitor de CD"
+
+msgid "Outdoor lighting"
+msgstr "Iluminação exterior"
+
+msgid "Home automation"
+msgstr "Domótica"
+
+msgid "Linens"
+msgstr "Têxteis para o lar"
+
+msgid "Tableware"
+msgstr "Louça"
+
+msgid "Clothes dryer"
+msgstr "Máquina de secar roupa"
+
+msgid "Refrigerator"
+msgstr "Frigorífico"
+
+msgid "Oven"
+msgstr "Forno"
+
+msgid "Reception 24/7"
+msgstr "Receção 24 h"
+
+msgid "Coffeemaker"
+msgstr "Cafeteira"
+
+msgid "Microwave oven"
+msgstr "Micro-ondas"
+
+msgid "Shabbat elevator"
+msgstr "Elevador Shabat"
+
+msgid "Sukkah"
+msgstr "Sucá"
+
+msgid "Synagogue"
+msgstr "Sinagoga"
+
+msgid "Digicode"
+msgstr "Código digital"
+
+msgid "Common laundry"
+msgstr "Lavandaria comum"
+
+msgid "Pets allowed"
+msgstr "Permitidos animais"
+
+msgid "Metal shutters"
+msgstr "Persiana metálica"
+
+msgid "Wiring closet"
+msgstr "Painel de conexão"
+
+msgid "Computer network"
+msgstr "Rede informática"
+
+msgid "Dropped ceiling"
+msgstr "Teto falso"
+
+msgid "Fire hose cabinets"
+msgstr "sistema de incêndio"
+
+msgid "Fire sprinkler system"
+msgstr "Rociador de incêndios"
+
+msgid "Wharf"
+msgstr "Ancoradouro"
+
+msgid "Connected thermostat"
+msgstr "Termóstato conectado"
+
+msgid "Bowling game"
+msgstr "Lawn bowls"
+
+msgid "Water softener"
+msgstr "Amaciador de água"
+
+msgid "Triple glazing"
+msgstr "Vidro triplo"
+
+msgid "Well drilling"
+msgstr "Furo"
+
+msgid "Optical fiber"
+msgstr "Fibra ótica"
+
+msgid "Non-flooding"
+msgstr "Não inundável"
+
+msgid "Fire alarm system"
+msgstr "Alarme de incêndios"
+
+msgid "Playground"
+msgstr "Parque infantil"
+
+msgid "Flyboard"
+msgstr "Flyboard"
+
+msgid "Amphibious car"
+msgstr "Veículo anfíbio"
+
+msgid "Beach games"
+msgstr "Jogos de praia"
+
+msgid "Bikes"
+msgstr "Bicicletas"
+
+msgid "Canoe"
+msgstr "Canoa"
+
+msgid "Diving"
+msgstr "Mergulho"
+
+msgid "Fishing"
+msgstr "Pesca"
+
+msgid "Floating pool"
+msgstr "Piscina flutuante"
+
+msgid "Hoverboard"
+msgstr "Hoverboard"
+
+msgid "Hovercraft"
+msgstr "Hovercraft"
+
+msgid "Inflatables"
+msgstr "Insufláveis"
+
+msgid "Water slide"
+msgstr "Escorrega"
+
+msgid "Waterpark"
+msgstr "Parque aquático"
+
+msgid "Jet ski"
+msgstr "Jet ski"
+
+msgid "Kite surf"
+msgstr "Kitesurf"
+
+msgid "Paddle"
+msgstr "Paddle"
+
+msgid "Scooter"
+msgstr "Scooter"
+
+msgid "Seabob"
+msgstr "Scooter subaquática"
+
+msgid "Segway"
+msgstr "Segway"
+
+msgid "Wakeboard"
+msgstr "Wakeboard"
+
+msgid "Simple flow ventilation"
+msgstr "Ventilação de fluxo simples"
+
+msgid "Double flow ventilation"
+msgstr "Ventilação de fluxo duplo"
+
+msgid "Business center"
+msgstr "Centro de negócios"
+
+msgid "Foodservice"
+msgstr "Restaurante de empresa"
+
+msgid "Condominium garden"
+msgstr "Jardim do condomínio"
+
+msgid "Hydraulic Platform"
+msgstr "Plataforma hidráulica"
+
+msgid "Freezer"
+msgstr "Congelador"
+
+msgid "Electric car terminal"
+msgstr "Terminal de carregamento para carros elétricos"
+
+msgid "Solar panels"
+msgstr "Painéis solares"
+
+msgid "Overhead crane"
+msgstr "Pontes rolantes"
+
+msgid "Tow-away zone"
+msgstr "Zona de reboque"
+
+msgid "Extraction air duct"
+msgstr "Conduta de extração"
+
+msgid "Access control"
+msgstr "Controlo de acesso"
+
+msgid "Berth"
+msgstr "Atracadouro"
+
+msgid "Listed historic building"
+msgstr "Propriedade classificada/inscrita"
+
+msgid "Security service"
+msgstr "Serviço de segurança"
+
+msgid "Condominium pool"
+msgstr "Piscina em copropriedade"
+
+msgid "Civil defense bunker"
+msgstr "Abrigo de proteção civil"
+
+msgid "PVC window"
+msgstr "Janela de PVC"
+
+msgid "Aluminum window"
+msgstr "Janela de alumínio"
+
+msgid "Photovoltaic panels"
+msgstr "Painéis fotovoltaicos"
+
+msgid "Fire door"
+msgstr "Porta de incêndio"
+
+msgid "Bathtub"
+msgstr "Banheira"
+
+msgid "Supplies"
+msgstr "Equipamentos"
+
+msgid "Outdoor spaces"
+msgstr "Espaços exteriores"
+
+msgid "Rental supplies"
+msgstr "Equipamentos de arrendamento"
+
+msgid "Security"
+msgstr "Segurança"
+
+msgid "Professional supplies"
+msgstr "Equipamentos profissionais"
+
+msgid "Yacht supplies"
+msgstr "Equipamentos de desportos náuticos"
+
+msgid "High standard"
+msgstr "Padrão médio"
+
+msgid "Luxury"
+msgstr "Luxo"
+
+msgid "High luxury"
+msgstr "Alto luxo"
+
+#, fuzzy
+msgid "Housing estate"
+msgstr ""
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Cooperativa\n"
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Conjunto habitacional"
+
+msgid "Regular"
+msgstr "Normal"
+
+msgid "In progress"
+msgstr "Em curso"
+
+msgid "Standby"
+msgstr "Em espera"
+
+msgid "Deleted"
+msgstr "Eliminado"
+
+msgid "Waiting for agreement"
+msgstr "Em espera do contrato"
+
+msgid "Agreement ended"
+msgstr "Contrato expirado"
+
+#, fuzzy
+msgid "Offer"
+msgstr ""
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Sob oferta/reserva\n"
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Oferta"
+
+msgid "Processing sale"
+msgstr "Sob contrato de venda/arrendamento"
+
+msgid "Waiting for contract"
+msgstr "A aguardar contrato de arrendamento"
+
+msgid "Pending approval"
+msgstr "A aguardar validação"
+
+msgid "Sell/Rent by agent"
+msgstr "Vendido/arrendado pela agência"
+
+msgid "Sell/Rent by owner"
+msgstr "Vendido/arrendado pelo proprietário"
+
+msgid "Sell/Rent by other agent"
+msgstr "Vendido/arrendado por outra agência"
+
+msgid "Removed by agent"
+msgstr "Retirado pela agência"
+
+msgid "Removed by owner"
+msgstr "Retirado pelo proprietário"
+
+msgid "Sale/Rental cancelled"
+msgstr "Venda/arrendamento anulado"
+
+#, fuzzy
+msgid "Delete this property"
+msgstr ""
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Eliminar esta propriedade\n"
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Apagar este produto"
+
+#, fuzzy
+msgid "Business"
+msgstr ""
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Loja de comércio\n"
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Loja de comércio\n"
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Comércio"
+
+msgid "Garage/Parking"
+msgstr "Garagem/Lugar de estacionamento"
+
+msgid "Office"
+msgstr "Escritório"
+
+msgid "Boat"
+msgstr "Barco"
+
+msgid "Cellar / Box"
+msgstr "Arrumos"
+
+msgid "Triplex"
+msgstr "Triplex"
+
+msgid "Building land"
+msgstr "Terreno para construção"
+
+msgid "Not constructible land"
+msgstr "Terreno rústico"
+
+msgid "Penthouse"
+msgstr "Penthouse / Cobertura"
+
+msgid "Castle"
+msgstr "Castelo"
+
+msgid "Duplex"
+msgstr "Duplex"
+
+msgid "Manor house"
+msgstr "Solar"
+
+msgid "Farmhouse"
+msgstr "Quinta"
+
+msgid "Villa"
+msgstr "Villa"
+
+msgid "Apartment villa"
+msgstr "Apartamento moradia"
+
+msgid "Ruin"
+msgstr "Ruína"
+
+msgid "Mill"
+msgstr "Moinho"
+
+msgid "Carpark"
+msgstr "Garagem"
+
+msgid "Townhouse"
+msgstr "Townhouse"
+
+msgid "Mobile home"
+msgstr "Casa móvel"
+
+msgid "Cottage"
+msgstr "Pequena casa de campo"
+
+msgid "Hangar"
+msgstr "Barracão"
+
+msgid "Mas"
+msgstr "Mas"
+
+msgid "Local"
+msgstr "Local"
+
+msgid "Chalet"
+msgstr "Herdade"
+
+msgid "Retail space"
+msgstr "Instalação comercial"
+
+msgid "Business assets"
+msgstr "Trespasse"
+
+msgid "Right to the lease"
+msgstr "Direito ao arrendamento"
+
+msgid "Mansion"
+msgstr "Palacete"
+
+msgid "Management"
+msgstr "Gerência"
+
+msgid "Agricultural exploitation"
+msgstr "Exploração agrícola"
+
+msgid "Woodshed"
+msgstr "Galpão"
+
+msgid "Stud farm"
+msgstr "Haras"
+
+msgid "Plot of land"
+msgstr "Terreno"
+
+msgid "Bastide"
+msgstr "Bastide"
+
+msgid "Bastidon"
+msgstr "Bastidon"
+
+msgid "Company"
+msgstr "Empresa"
+
+msgid "Vineyard property"
+msgstr "Propriedade vinícola"
+
+msgid "Motor Yacht"
+msgstr "Iate"
+
+msgid "Narrow boat"
+msgstr "Barco"
+
+msgid "Sailing Yacht"
+msgstr "Veleiro"
+
+msgid "Catamaran"
+msgstr "Catamarã"
+
+msgid "Equestrian estate"
+msgstr "Território equestre"
+
+msgid "Bed and breakfast"
+msgstr "Pousada"
+
+msgid "Gîte"
+msgstr "Alojamento turístico"
+
+msgid "Riad"
+msgstr "Riad"
+
+msgid "Retail shop"
+msgstr "Boutique"
+
+msgid "Shophouse"
+msgstr "Shophouse"
+
+msgid "Borey"
+msgstr "Borey"
+
+msgid "Condo"
+msgstr "Condo"
+
+msgid "Factory"
+msgstr "Fábrica"
+
+msgid "Serviced apartment"
+msgstr "Aparthotel"
+
+msgid "Twin Villa"
+msgstr "Moradia geminada"
+
+msgid "Flat House"
+msgstr "Casa térrea"
+
+msgid "Semi-detached house"
+msgstr "Casa geminada"
+
+msgid "Bungalow"
+msgstr "Bangalô"
+
+msgid "Beach house"
+msgstr "Casa de praia"
+
+msgid "Private island"
+msgstr "Ilha privada"
+
+msgid "Residential land"
+msgstr "Terreno urbano"
+
+msgid "Commercial land"
+msgstr "Terreno comercial"
+
+msgid "Subdivision"
+msgstr "Loteamento"
+
+msgid "Game reserve"
+msgstr "Reserva de caça"
+
+msgid "Detached house"
+msgstr "Moradia bifamiliar"
+
+msgid "Ranch"
+msgstr "Rancho"
+
+msgid "Pavilion"
+msgstr "Pavilhão"
+
+msgid "Agricultural land"
+msgstr "Terreno agrícola"
+
+msgid "Mountains"
+msgstr "Montanha"
+
+msgid "Greenery"
+msgstr "Vegetação"
+
+msgid "Monument"
+msgstr "Monumento"
+
+msgid "Forest"
+msgstr "Floresta"
+
+msgid "River"
+msgstr "Ribeira"
+
+msgid "City"
+msgstr "Cidade"
+
+msgid "Sky"
+msgstr "Céu"
+
+msgid "Main stem"
+msgstr "Rio"
+
+msgid "Harbor"
+msgstr "Porto"
+
+msgid "Ski slopes"
+msgstr "Pistas de esqui"
+
+msgid "Vines"
+msgstr "Vinhas"
+
+msgid "Obstructed"
+msgstr "Vizinhos em frente"
+
+msgid "Slight"
+msgstr "Visão geral"
+
+msgid "Unobstructed"
+msgstr "Desimpedida"
+
+msgid "Panoramic"
+msgstr "Panorâmica"
+
+msgid "Exterior"
+msgstr "Externo"
+
+msgid "Interior"
+msgstr "Interno"
+
+msgid "Septic tank"
+msgstr "Fossa sética"
+
+msgid "Main drainage"
+msgstr "Saneamento básico"
+
+msgid "Treatment plant"
+msgstr "Estação de tratamento"
+
+msgid "Estate agent"
+msgstr "Comerciante"
+
+msgid "Phoning"
+msgstr "Prospeção telefónica"
+
+msgid "Collaboration"
+msgstr "Colaboração"
+
+#, fuzzy
+msgid "Provider"
+msgstr ""
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Intermediário\n"
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Fornecedor"
+
+msgid "Renown"
+msgstr "Notoriedade"
+
+msgid "Walk-in / Window"
+msgstr "Passagem/Vitrina"
+
+#, fuzzy
+msgid "Network"
+msgstr ""
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Relação\n"
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Rede"
+
+msgid "Flyer"
+msgstr "Prospeto"
+
+msgid "Sign"
+msgstr "Painel"
+
+msgid "Magazine"
+msgstr "Revista"
+
+#, fuzzy
+msgid "Mailing"
+msgstr ""
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Mailing\n"
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Correspondência"
+
+#, fuzzy
+msgid "e-mailing"
+msgstr ""
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"e-mailing\n"
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Correio electrónico"
+
+msgid "Old client"
+msgstr "Antigo cliente"
+
+msgid "Selection / Favorite"
+msgstr "Seleção/Favorito"
+
+msgid "Main residence"
+msgstr "Residência principal"
+
+msgid "Secondary residence"
+msgstr "Residência secundária"
+
+msgid "Student residence"
+msgstr "Residência para estudantes"
+
+msgid "Tourism residence"
+msgstr "Residência turística"
+
+msgid "Seniors residence"
+msgstr "Residência para idosos"
+
+msgid "Duflot Legislation"
+msgstr "Legislação Duflot"
+
+msgid "Censi-Bouvard Legislation"
+msgstr "Legislação Censi-Bouvard"
+
+msgid "Reduced fees"
+msgstr "Custos notariais reduzidos"
+
+msgid "EHPAD (Retirement homes)"
+msgstr "EHPAD (Casas de retiro)"
+
+msgid "Act 1291"
+msgstr "Lei 1291"
+
+msgid "Act 887"
+msgstr "Lei 887"
+
+msgid "Mixed-use"
+msgstr "Usagem mista"
+
+msgid "Rental investment"
+msgstr "Investimento para arrendamento"
+
+msgid "Act 1235"
+msgstr "Lei 1235"
+
+msgid "Pinel Legislation"
+msgstr "Legislação Pinel"
+
+msgid "Resale"
+msgstr "Revenda"
+
+msgid "First occupancy"
+msgstr "Primeira ocupação"
+
+msgid "Liberal profession"
+msgstr "Trabalhador independente"
+
+msgid "3.57% incl. VAT from the purchase price"
+msgstr "3,57% impostos e taxas incluídos do preço de compra"
+
+msgid "7.14% incl. VAT from the purchase price"
+msgstr "7,14% impostos e taxas incluídos do preço de compra"
+
+msgid "3.48% incl. VAT from the purchase price"
+msgstr "3,48% impostos e taxas incluídos do preço de compra"
+
+msgid "6.96% incl. VAT from the purchase price"
+msgstr "6,96% impostos e taxas incluídos do preço de compra"
+
+msgid "m²"
+msgstr "m²"
+
+msgid "sq ft"
+msgstr "ft²"
+
+msgid "sq yd"
+msgstr "yd²"
+
+msgid "acre"
+msgstr "acre"
+
+msgid "ha"
+msgstr "ha"
+
+msgid "minute"
+msgstr "minuto"
+
+msgid "metre"
+msgstr "metro"
+
+msgid "km"
+msgstr "km"
+
+msgid "Administrator"
+msgstr "Administrador"
+
+msgid "Company manager"
+msgstr "Gerente"
+
+msgid "Agency manager"
+msgstr "Responsável da agência"
+
+msgid "Secretariat"
+msgstr "Secretaria"
+
+#, fuzzy
+msgid "Agent"
+msgstr ""
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Comercial\n"
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Consultor imobiliário"
+
+msgid "Intern"
+msgstr "Estagiário"
+
+#, fuzzy
+msgid "User"
+msgstr ""
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Utilizador\n"
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Usuário"
+
+msgid "Franchisor"
+msgstr "Franqueador"
+
+msgid "Translator"
+msgstr "Tradutor"
+
+msgid "Area manager"
+msgstr "Responsável"
+
+msgid "Image"
+msgstr "Imagem"
+
+msgid "Pet"
+msgstr "Animal"
+
+msgid "Natural light"
+msgstr "Luz natural"
+
+msgid "Kitchen island"
+msgstr "Ilha de cozinha"
+
+msgid "Kitchen bar"
+msgstr "Bar"
+
+msgid "Ceiling height"
+msgstr "Altura do teto"
+
+msgid "Skylight"
+msgstr "Claraboia"
+
+msgid "Exposed bricks"
+msgstr "Parede de tijolos"
+
+msgid "Ceiling fan"
+msgstr "Ventilador suspenso do teto"
+
+msgid "Chandelier"
+msgstr "Lustre"
+
+msgid "Stainless steel"
+msgstr "Aço inoxidável"
+
+msgid "Price on request"
+msgstr "Preço sob consulta"
+
+msgid "Currency"
+msgstr "Moeda"
+
+msgid "Price"
+msgstr "Preço"
+
+msgid "Types"
+msgstr "Tipos"
+
+msgid "Cities"
+msgstr "Cidades"
+
+msgid "Bedrooms"
+msgstr "Quartos"
+
+msgid "Rooms"
+msgstr "Assoalhadas"
+
+msgid "Send"
+msgstr "Enviar"
+
+msgid "Lastname"
+msgstr "Apelido"
+
+msgid "Name"
+msgstr "Nome"
+
+msgid "Reference"
+msgstr "Referência"
+
+msgid "Ref"
+msgstr "Ref."
+
+msgid "%s bedroom"
+msgstr "%s quarto"
+
+msgid "%s bedrooms"
+msgstr "%s quartos"
+
+msgid "%s room"
+msgstr "%s de assoalhada"
+
+msgid "%s rooms"
+msgstr "%s de assoalhadas"
+
+msgid "Folder"
+msgstr "Processo"
+
+msgid "No matches found"
+msgstr "Nenhum resultado"
+
+msgid "Please enter one more character"
+msgstr "Introduza mais um caractere"
+
+msgid "Duplicate"
+msgstr "Duplicar"
+
+msgid "Backup"
+msgstr "Cópia"
+
+msgid "Rate"
+msgstr "Taxa"
+
+msgid "Sender"
+msgstr "Remetente"
+
+msgid "Recipient"
+msgstr "Destinatário"
+
+msgid "Subject"
+msgstr "Assunto"
+
+msgid "Attachment"
+msgstr "Anexo"
+
+msgid "Key"
+msgstr "Chave"
+
+msgid "Documents"
+msgstr "Documentos"
+
+msgid "Back"
+msgstr "Voltar"
+
+msgid "Help?"
+msgstr "Ajuda?"
+
+msgid "Read more"
+msgstr "Ler mais"
+
+msgid "Area"
+msgstr "Área"
+
+msgid "Areas"
+msgstr "Áreas"
+
+msgid "Length"
+msgstr "Comprimento"
+
+msgid "Height"
+msgstr "Altura"
+
+msgid "Width"
+msgstr "Largura"
+
+msgid "Deposit"
+msgstr "Depósito"
+
+msgid "Agreement reference"
+msgstr "Referência do contrato de mediação imobiliário"
+
+msgid "Agreement start at"
+msgstr "Início do contrato de mediação imobiliário em"
+
+msgid "Agreement end at"
+msgstr "Fim do contrato de mediação imobiliária em"
+
+msgid "Website"
+msgstr "Website"
+
+msgid "Proximity"
+msgstr "Proximidade"
+
+msgid "Proximities"
+msgstr "Proximidades"
+
+msgid "Loading"
+msgstr "Carregamento"
+
+msgid "Log out"
+msgstr "Encerrar sessão"
+
+msgid "Availability"
+msgstr "Disponibilidade"
+
+msgid "Total area"
+msgstr "Área total"
+
+msgid "Living area"
+msgstr "Área habitável"
+
+msgid "Password forgotten"
+msgstr "Esqueceu-se da palavra-passe?"
+
+msgid "Password"
+msgstr "Palavra-passe"
+
+msgid "Username"
+msgstr "Nome de utilizador"
+
+msgid "Welcome %s"
+msgstr "Bem-vindo(a) %s!"
+
+msgid "Add"
+msgstr "Adicionar"
+
+msgid "Show"
+msgstr "Consultar"
+
+msgid "List"
+msgstr "Lista"
+
+msgid "Tools"
+msgstr "Ferramentas"
+
+msgid "Market"
+msgstr "Bolsa"
+
+msgid "Agency"
+msgstr "Agência"
+
+msgid "Calendar"
+msgstr "Calendário"
+
+msgid "Homepage"
+msgstr "Página inicial"
+
+msgid "Map"
+msgstr "Mapa"
+
+msgid "Value"
+msgstr "Valor"
+
+msgid "Users"
+msgstr "Usuários"
+
+msgid "Sectors"
+msgstr "Setores"
+
+msgid "Sector"
+msgstr "Setor"
+
+msgid "Contacts"
+msgstr "Contatos"
+
+msgid "%s contact"
+msgstr "%s contato"
+
+msgid "%s contacts"
+msgstr "%s contatos"
+
+msgid "Settings"
+msgstr "Definições"
+
+msgid "General"
+msgstr "Geral"
+
+msgid "Waste water"
+msgstr "Águas residuais"
+
+msgid "Country"
+msgstr "País"
+
+msgid "Escrow deposit"
+msgstr "Custódia"
+
+msgid "Orientation"
+msgstr "Exposição"
+
+msgid "View"
+msgstr "Vista"
+
+msgid "District"
+msgstr "Bairro"
+
+msgid "Fields"
+msgstr "Campos"
+
+msgid "Hook"
+msgstr "Slogan"
+
+msgid "Comment"
+msgstr "Comentário"
+
+msgid "Buy"
+msgstr "Comprar"
+
+msgid "Rent"
+msgstr "Arrendar"
+
+msgid "About us"
+msgstr "Sobre nós"
+
+msgid "Services"
+msgstr "Serviços"
+
+msgid "News"
+msgstr "Notícias"
+
+msgid "Contact us"
+msgstr "Contacte-nos"
+
+msgid "Print"
+msgstr "Imprimir"
+
+msgid "Picture"
+msgstr "Fotografia"
+
+msgid "Add to cart"
+msgstr "Adicionar ao carrinho"
+
+msgid "Replace in cart"
+msgstr "Substituir no carrinho"
+
+msgid "Category"
+msgstr "Categoria"
+
+msgid "History"
+msgstr "Histórico"
+
+msgid "Details"
+msgstr "Informações"
+
+msgid "Date"
+msgstr "Data"
+
+msgid "Previous"
+msgstr "Anterior"
+
+msgid "Next"
+msgstr "Seguinte"
+
+msgid "Quick search"
+msgstr "Pesquisa rápida"
+
+msgid "Postal code"
+msgstr "Código Postal"
+
+msgid "The username and/or password is invalid."
+msgstr "Erro com o nome de utilizador e/ou palavra-passe."
+
+msgid "Group"
+msgstr "Grupo"
+
+msgid "Are you sure?"
+msgstr "Tem a certeza?"
+
+msgid "Nationality"
+msgstr "Nacionalidade"
+
+msgid "Radius"
+msgstr "Raio"
+
+msgid "Preview"
+msgstr "Resumo"
+
+msgid "Watermark"
+msgstr "Marca de água"
+
+msgid "Latitude"
+msgstr "Latitude"
+
+msgid "Longitude"
+msgstr "Longitude"
+
+msgid "Mortgage"
+msgstr "Empréstimo"
+
+msgid "Download"
+msgstr "Descarregar"
+
+msgid "Dashboard"
+msgstr "Painel de instrumentos"
+
+msgid "Matching"
+msgstr "Cruzamento"
+
+msgid "Pay now by card"
+msgstr "Pagar com cartão"
+
+msgid "Pay by bank transfer"
+msgstr "Pagar por transferência bancária"
+
+msgid "Pay by check"
+msgstr "Pagar com cheque"
+
+msgid "Powered by"
+msgstr "Em parceria com"
+
+msgid "Accepted payment methods"
+msgstr "Formas de pagamento aceites"
+
+msgid "Terms and Conditions"
+msgstr "Condições Gerais de Venda"
+
+msgid ""
+"Your contact is already in database, please select it on the list below."
+msgstr ""
+"O seu contacto já existe na base de dados. Selecione-o na lista abaixo."
+
+msgid "Contracts"
+msgstr "Contratos"
+
+msgid "Seekers"
+msgstr "Potencial cliente comprador"
+
+msgid "Active seekers"
+msgstr "cliente comprador"
+
+msgid "Providers"
+msgstr "Fornecedores"
+
+msgid "Owners"
+msgstr "Potencial cliente Proprietário"
+
+msgid "Active owners"
+msgstr "Cliente Proprietário"
+
+msgid "Monitoring"
+msgstr "Seguimento"
+
+msgid "Forward"
+msgstr "Transferir"
+
+msgid "Similar"
+msgstr "Semelhante"
+
+msgid "Condition"
+msgstr "Estado"
+
+msgid "Floor"
+msgstr "Andar"
+
+msgid "Description"
+msgstr "Descrição"
+
+msgid "Deductions"
+msgstr "Deduções"
+
+msgid "Not available"
+msgstr "Não disponível"
+
+msgid "Occupants"
+msgstr "Ocupantes"
+
+msgid "Actions"
+msgstr "Ações"
+
+msgid "Like"
+msgstr "Gosto"
+
+msgid "Unlike"
+msgstr "Não gosto"
+
+msgid "Portfolio"
+msgstr "Carteira"
+
+msgid "Features"
+msgstr "Funcionalidades"
+
+msgid "Contracted owner"
+msgstr "Proprietário contratualizado"
+
+msgid "Contracted owners"
+msgstr "Proprietários contratualizados"
+
+msgid "Contracted customer"
+msgstr "Cliente contratualizado"
+
+msgid "Contracted customers"
+msgstr "Clientes contratualizados"
+
+msgid "Transfer tax"
+msgstr "Taxas de registo"
+
+msgid "Change to"
+msgstr "Mudar para"
+
+msgid "Until"
+msgstr "Até"
+
+msgid "Location reference"
+msgstr "Referência do local"
+
+msgid "Priority"
+msgstr "Prioridade"
+
+msgid "Full form"
+msgstr "Formulário completo"
+
+msgid "Quick form"
+msgstr "Formulário rápido"
+
+msgid "%s char(s)"
+msgstr "%s caractere(s)"
+
+msgid "Price from"
+msgstr "A partir de"
+
+msgid "Listing"
+msgstr "Listagem"
+
+msgid "Listings"
+msgstr "Listagens"
+
+msgid "Duration"
+msgstr "Duração"
+
+msgid "Request incomplete"
+msgstr "Pedido incompleto"
+
+msgid "%s incomplete request(s)"
+msgstr "%s pedido(s ) incompleto(s)"
+
+msgid "Subscribe for"
+msgstr "Subscrever para"
+
+msgid "Configuration"
+msgstr "Configuração"
+
+msgid "Subtotal"
+msgstr "Subtotal"
+
+msgid "Tax notice"
+msgstr "Declaração de rendimentos"
+
+msgid "Events"
+msgstr "Eventos"
+
+msgid "Present"
+msgstr "Presente"
+
+msgid "Missing"
+msgstr "Ausente"
+
+msgid "Planned"
+msgstr "Programado"
+
+msgid "Full"
+msgstr "Completo"
+
+msgid "Organizer"
+msgstr "Organizador"
+
+msgid "Already subscribed"
+msgstr "Já subscrito"
+
+msgid "Attendees"
+msgstr "Participantes"
+
+msgid "Join"
+msgstr "Participar"
+
+msgid "Training"
+msgstr "Formação"
+
+msgid "Require a change of password at next logon"
+msgstr ""
+"Solicitar a alteração da palavra-passe da próxima vez que iniciar sessão"
+
+msgid "Gross revenue"
+msgstr "Receita bruta"
+
+msgid "Gross yield"
+msgstr "Rendimento bruto"
+
+msgid "Net yield"
+msgstr "Rendimento líquido"
+
+msgid "Vacancy rate"
+msgstr "Taxa de desocupação"
+
+msgid "Investment"
+msgstr "Investimento"
+
+msgid "Block"
+msgstr "Bloquear"
+
+msgid "Variables"
+msgstr "Variáveis"
+
+msgid "Example"
+msgstr "Exemplo"
+
+msgid "Increment"
+msgstr "Incrementação"
+
+msgid "Schema"
+msgstr "Esquema"
+
+msgid "Automation"
+msgstr "Automação"
+
+msgid "Connect"
+msgstr "Iniciar sessão"
+
+msgid "Renovation year"
+msgstr "Ano de renovação"
+
+msgid "Curriculum vitae"
+msgstr "Curriculum vitae"
+
+msgid "Resellers"
+msgstr "Revendedores"
+
+msgid "Select"
+msgstr "Selecionar"
+
+msgid "Billing"
+msgstr "Faturação"
+
+msgid "The balance of your account is %s"
+msgstr "A sua conta tem um saldo de %s"
+
+msgid "Ceiling"
+msgstr "Teto"
+
+msgid "Weighted area"
+msgstr "Área útil"
+
+msgid "Collected"
+msgstr "Cobrado"
+
+msgid "Unlimited"
+msgstr "Ilimitado"
+
+msgid "Quantity"
+msgstr "Quantidade"
+
+msgid "Subscribe"
+msgstr "Subscrever"
+
+msgid "Setup"
+msgstr "Instalação"
+
+msgid "Active owner"
+msgstr "Proprietário ativo"
+
+msgid "Matching at"
+msgstr "Cruzamento no"
+
+msgid "Price by area"
+msgstr "Preço/área"
+
+msgid "Default list"
+msgstr "Lista por definição"
+
+msgid "Subtype"
+msgstr "Subtipo"
+
+msgid "Add a custom document"
+msgstr "Personalizar um documento"
+
+msgid "Spacing"
+msgstr "Espaçamento"
+
+msgid "Font"
+msgstr "Tipo de letra"
+
+msgid "Portrait"
+msgstr "Retrato"
+
+msgid "Landscape"
+msgstr "Paisagem"
+
+msgid "Accounts"
+msgstr "Contas"
+
+msgid "Optional"
+msgstr "Opcional"
+
+msgid "File"
+msgstr "Ficheiro"
+
+msgid "Collected at"
+msgstr "Cobrado a"
+
+msgid "Linked"
+msgstr "Ligado"
+
+msgid "Discover our offers"
+msgstr "Descubra as nossas ofertas"
+
+msgid "Blank"
+msgstr "Em branco"
+
+msgid "Portal"
+msgstr "Portal"
+
+msgid "Software Documentation"
+msgstr "Documentação do software"
+
+msgid "Time"
+msgstr "Hora"
+
+msgid "Dedicated website"
+msgstr "Website dedicado"
+
+msgid "Subcategory"
+msgstr "Subcategoria"
+
+msgid "No IP control"
+msgstr "Sem controlo do IP"
+
+msgid "Auto publish"
+msgstr "Publicação automática"
+
+msgid "Link to property"
+msgstr "Ligar ao imóvel"
+
+msgid "Happy birthday!"
+msgstr "Feliz aniversário!"
+
+msgid "Birthdays"
+msgstr "Aniversários"
+
+msgid "Last login"
+msgstr "Último início de sessão"
+
+msgid "This property is a part of:"
+msgstr "Este imóvel faz parte de:"
+
+msgid "IP addresses"
+msgstr "Endereços IP"
+
+msgid "Prospecting"
+msgstr "Prospeção"
+
+msgid "Access code"
+msgstr "Código de acesso"
+
+msgid "Access code at"
+msgstr "Código de acesso a"
+
+msgid "Number of shares"
+msgstr "Número de ações"
+
+msgid "Leads"
+msgstr "Leads"
+
+msgid "Cancelled"
+msgstr "Cancelado"
+
+msgid "Link"
+msgstr "Link"
+
+msgid "Advanced"
+msgstr "Avançado"
+
+msgid "Publish on homepage"
+msgstr "Publicar na página inicial"
+
+msgid "Suggested"
+msgstr "Sugerido"
+
+msgid "Welcome on %s"
+msgstr "Bem-vindo(a) ao %s"
+
+msgid "Content"
+msgstr "Conteúdo"
+
+msgid "Extranet access"
+msgstr "Acesso à extranet"
+
+msgid "Publish address"
+msgstr "Publicar o endereço"
+
+msgid "Opening hours"
+msgstr "Horário de funcionamento"
+
+msgid "Backoffice"
+msgstr "Backoffice"
+
+msgid "Member since %s"
+msgstr "Membro desde %s"
+
+msgid "Lock menu bar"
+msgstr "Bloquear o menu lateral"
+
+msgid "Updates"
+msgstr "Atualizações"
+
+msgid "Reservations"
+msgstr "Reservas"
+
+msgid "Forward to contact"
+msgstr "Transferir para o contacto"
+
+msgid "Responder"
+msgstr "Atendedor de chamadas"
+
+msgid ""
+"You can search our Frequently Asked Questions (FAQs) database by keyword(s):"
+msgstr "Pode procurar na nossa base de perguntas/respostas:"
+
+msgid "Register"
+msgstr "Registar"
+
+msgid "Expiration at"
+msgstr "Expira a"
+
+msgid "Inbox"
+msgstr "Caixa de entrada"
+
+msgid "Domain name"
+msgstr "Nome de domínio"
+
+msgid "Filling"
+msgstr "Preenchimento"
+
+msgid "Condition precedent"
+msgstr "Condições suspensivas"
+
+msgid "Size"
+msgstr "Tamanho"
+
+msgid "Deal fees"
+msgstr "impostos sobre a  comissão"
+
+msgid "Fees charged"
+msgstr "Comissões cobradas"
+
+msgid "Customer"
+msgstr "Cliente"
+
+msgid "Booked"
+msgstr "Reservado"
+
+msgid "Available"
+msgstr "Disponível"
+
+msgid "Associate"
+msgstr "Associar"
+
+msgid "Translations"
+msgstr "Traduções"
+
+msgid "Unsold"
+msgstr "Não vendido"
+
+msgid "Sold"
+msgstr "Vendido"
+
+msgid "Last action"
+msgstr "Última ação"
+
+msgid "Our agency"
+msgstr "A nossa agência"
+
+msgid "Locate us"
+msgstr "Encontre-nos"
+
+msgid "Your main contact"
+msgstr "O seu contacto principal"
+
+msgid "Send me a message"
+msgstr "Envie-me uma mensagem"
+
+msgid "Leave us a message"
+msgstr "Deixe-nos uma mensagem"
+
+msgid "Price with fees"
+msgstr "Preço com impostos"
+
+msgid "Owner access"
+msgstr "Espaço proprietário"
+
+msgid "Added"
+msgstr "Acrescentado"
+
+msgid "Available for matching"
+msgstr "Correspondência autorizada"
+
+msgid "Available at"
+msgstr "Disponível a"
+
+msgid "Lessee"
+msgstr "Inquilino"
+
+msgid "Add to list"
+msgstr "Adicionar à lista"
+
+msgid "Custom tags"
+msgstr "Etiquetas personalizadas"
+
+msgid "%s pending approval properties"
+msgstr "%s imóveis a aguardar validação"
+
+msgid "Negotiable price"
+msgstr "Valor negociável"
+
+msgid "Price updated"
+msgstr "Preço atualizado"
+
+msgid "Less equal"
+msgstr "Inferior ou igual"
+
+msgid "Equal"
+msgstr "Igual"
+
+msgid "Greater equal"
+msgstr "Superior ou igual"
+
+msgid "Preferences"
+msgstr "Preferências"
+
+msgid "Contact means"
+msgstr "Meio de contacto"
+
+msgid "Agency rate"
+msgstr "Comissão da agência"
+
+msgid "Scheduled at"
+msgstr "Programado a"
+
+msgid "Contract at"
+msgstr "Contrato a"
+
+msgid "Commitment"
+msgstr "Contrato promessa de compra e venda"
+
+msgid "Commitment at"
+msgstr "Data do contrato promessa de compra e venda"
+
+msgid "Offer at"
+msgstr "Oferta a"
+
+msgid "No action"
+msgstr "Nenhuma ação"
+
+msgid "Received contact information"
+msgstr "Contacto recebido"
+
+msgid "Linked contact"
+msgstr "Contacto associado"
+
+msgid "Related contacts"
+msgstr "Contactos semelhantes"
+
+msgid "Others"
+msgstr "Outros"
+
+msgid "Assigned on"
+msgstr "Atribuído a"
+
+msgid "Assign to"
+msgstr "Atribuir a"
+
+msgid "Assign by"
+msgstr "Atribuído por"
+
+msgid "Opened by"
+msgstr "Aberto por"
+
+msgid "Closed by"
+msgstr "Encerrado por"
+
+msgid "Time zone"
+msgstr "Fuso horário"
+
+msgid "Customers"
+msgstr "Clientes"
+
+msgid "Invert selection"
+msgstr "Inverter seleção"
+
+msgid "Select all"
+msgstr "Selecionar todos"
+
+msgid "Unselect all"
+msgstr "Desmarcar todos"
+
+msgid "%s awaiting lead(s)"
+msgstr "%s leads clientes em espera"
+
+msgid "%s lead(s) to assign"
+msgstr "%s leads clientes a atribuir"
+
+msgid "%s pending properties"
+msgstr "%s imóveis em espera"
+
+msgid "%s pending matching(s)"
+msgstr "%s cruzamento(s) pendente(s)"
+
+msgid "%s expired agreement(s)"
+msgstr "%s contrato(s) mediação imobiliário expirado(s)"
+
+msgid "%s expired soon agreement(s)"
+msgstr "%s contratos(s) mediação imobiliário expira(m) em breve"
+
+msgid "Legal notice"
+msgstr "Menções legais"
+
+msgid "Tags"
+msgstr "Etiquetas"
+
+msgid "Allowed"
+msgstr "Autorizado"
+
+msgid "Min stay"
+msgstr "Estadia mín."
+
+msgid "Over"
+msgstr "Além de"
+
+msgid "Refresh"
+msgstr "Atualizar"
+
+msgid "Free text"
+msgstr "Texto livre"
+
+msgid "Generate comment"
+msgstr "Gerar comentário"
+
+msgid "Building name"
+msgstr "Nome do edifício"
+
+msgid "VAT"
+msgstr "IVA"
+
+msgid "VAT included"
+msgstr "IVA incluído"
+
+msgid "VAT excluded"
+msgstr "IVA não incluído"
+
+msgid "Recurrence"
+msgstr "Recorrência"
+
+msgid "Calculate"
+msgstr "Calcular"
+
+msgid "Contribution"
+msgstr "Contribuição"
+
+msgid "Maximum debt"
+msgstr "Endividamento máximo"
+
+msgid "Purchase amount"
+msgstr "Valor da compra"
+
+msgid "Borrowing calculator"
+msgstr "Cálculo da capacidade de endividamento de empréstimo"
+
+msgid "Monthly payment calculator"
+msgstr "Cálculo da mensalidade"
+
+msgid "You don't have broadcasting rights"
+msgstr "Não tem os direitos de transmissão"
+
+msgid "Pending"
+msgstr "Em espera"
+
+msgid "Suggestions"
+msgstr "Sugestões"
+
+msgid "To show"
+msgstr "Exibir"
+
+msgid "Automatic"
+msgstr "Automático"
+
+msgid "Manual"
+msgstr "Manual"
+
+msgid "In collaboration with a %name% professional"
+msgstr "Em colaboração com um profissional %name%"
+
+msgid "Partners"
+msgstr "Parceiros"
+
+msgid "Cost"
+msgstr "Custo"
+
+msgid "My search"
+msgstr "A minha pesquisa"
+
+msgid "Units"
+msgstr "Lotes / Frações"
+
+msgid "Spouse"
+msgstr "Cônjuge"
+
+msgid "Manager"
+msgstr "Responsável"
+
+msgid "Category reference"
+msgstr "Referência da categoria"
+
+msgid "Cadastre reference"
+msgstr "Referência do cadastro"
+
+msgid "Lot reference"
+msgstr "Referência do lote"
+
+msgid "Block reference"
+msgstr "Referência do bloco"
+
+msgid "Stairs reference"
+msgstr "Referência da escada"
+
+msgid "Mortgage end at"
+msgstr "Empréstimo terminado a"
+
+msgid "Review"
+msgstr "Apreciação"
+
+msgid "Media"
+msgstr "Media"
+
+msgid "Medias"
+msgstr "Medias"
+
+msgid "Last access"
+msgstr "Último acesso"
+
+msgid "First access"
+msgstr "Primeiro acesso"
+
+msgid "Access count"
+msgstr "Número de acessos"
+
+msgid "Default"
+msgstr "Padrão"
+
+msgid "Please do not enter any name or contact"
+msgstr "Agradecemos que não introduza um nome ou um contacto"
+
+msgid "QR-Code"
+msgstr "Código QR"
+
+msgid "Show price"
+msgstr "Visualizar o preço"
+
+msgid "Done"
+msgstr "Feito"
+
+msgid "Not applicable"
+msgstr "Não aplicável"
+
+msgid "Fill in the table"
+msgstr "Preencher na tabela"
+
+msgid "Choice"
+msgstr "Escolha"
+
+msgid "copy"
+msgstr "copiar"
+
+msgid "Automatic matching"
+msgstr "Cruzamento automático"
+
+msgid "Authorization"
+msgstr "Autorização"
+
+msgid "Last connection the %s"
+msgstr "Último início de sessão a %s"
+
+msgid "All"
+msgstr "Todos"
+
+msgid "Wiki"
+msgstr "Wiki"
+
+msgid "Latest"
+msgstr "Recentes"
+
+msgid "Erase"
+msgstr "Apagar"
+
+msgid "Show/hide fields"
+msgstr "Mostrar/ocultar campos"
+
+msgid "Recent searches"
+msgstr "Pesquisas recentes"
+
+msgid "Association"
+msgstr "Associação"
+
+msgid "Meta crawler"
+msgstr "Feramenta de prospeção online"
+
+msgid "Alerts"
+msgstr "Alertas"
+
+msgid "Prescribers"
+msgstr "Prescritores"
+
+msgid "Staff"
+msgstr "Funcionários"
+
+msgid "Standing"
+msgstr "Segmento"
+
+msgid "Receive a copy"
+msgstr "Receber uma cópia"
+
+msgid "Latest views"
+msgstr "Últimas consultas"
+
+msgid "Quality"
+msgstr "Qualidade"
+
+msgid "Waiting for partner"
+msgstr "A aguardar parceiro"
+
+msgid "Viewing agreement"
+msgstr "Nota de visita"
+
+msgid "Decline"
+msgstr "Recusar"
+
+msgid "Declined"
+msgstr "Recusado"
+
+msgid "Accept"
+msgstr "Aceitar"
+
+msgid "Accepted"
+msgstr "Aceite"
+
+msgid "Zones"
+msgstr "Zonas"
+
+msgid "Zone"
+msgstr "Zona"
+
+msgid "Matrimonial regime"
+msgstr "Regime matrimonial"
+
+msgid "Marital status"
+msgstr "Estado Civil"
+
+msgid "Thumbnail"
+msgstr "Miniatura"
+
+msgid "Unread"
+msgstr "Não lido"
+
+msgid "Reply"
+msgstr "Responder"
+
+msgid "Assign to a project"
+msgstr "Ligar a um programa"
+
+msgid "Pension"
+msgstr "Pensão"
+
+msgid "Beam"
+msgstr "Vau principal/largura"
+
+msgid "Draft"
+msgstr "Calado"
+
+msgid "Guests"
+msgstr "Hóspedes"
+
+msgid "Crew"
+msgstr "Tripulação"
+
+msgid "Cruising speed"
+msgstr "Velocidade de cruzeiro"
+
+msgid "Builder"
+msgstr "Construtor"
+
+msgid "Administration"
+msgstr "Administração"
+
+msgid "This property has no history"
+msgstr "Este produto não tem histórico"
+
+msgid "Civil law notary"
+msgstr "Notário"
+
+msgid "Max price"
+msgstr "Preço máximo"
+
+msgid "Messages"
+msgstr "Mensagens"
+
+msgid "Callbacks"
+msgstr "Avisos"
+
+msgid "Credit"
+msgstr "Crédito"
+
+msgid "Signatures"
+msgstr "Assinaturas"
+
+msgid "Signature"
+msgstr "Assinatura"
+
+msgid "Title"
+msgstr "Título"
+
+msgid "Amount"
+msgstr "Montante"
+
+msgid "Amounts"
+msgstr "Montantes"
+
+msgid "Updated at"
+msgstr "Atualizado a"
+
+msgid "Created at"
+msgstr "Criado a"
+
+msgid "Published at"
+msgstr "Publicado a"
+
+msgid "Secured"
+msgstr "Seguro"
+
+msgid "Provision"
+msgstr "Provisão"
+
+msgid "Records"
+msgstr "Registos"
+
+msgid "Number"
+msgstr "Número"
+
+msgid "Forgot safety code?"
+msgstr "Código de segurança esquecido ?"
+
+msgid "Create a property"
+msgstr "Criar um producto"
+
+msgid "Create a lead"
+msgstr "Criar um lead"
+
+msgid "Plot of land area"
+msgstr "Área do terreno"
+
+msgid "Deposit account"
+msgstr "Depósito de garantia"
+
+msgid "Owner's price"
+msgstr "Preço do proprietário"
+
+msgid "Starting price"
+msgstr "Preço inicial"
+
+msgid "Mobile"
+msgstr "Telemóvel"
+
+msgid "Tel."
+msgstr "Tel."
+
+msgid "Leasehold"
+msgstr "Contrato de arrendamento"
+
+msgid "Leases"
+msgstr "Contratos de arrendamento"
+
+msgid "Address"
+msgstr "Morada"
+
+msgid "Searches"
+msgstr "Pesquisas"
+
+msgid "Tips"
+msgstr "Dicas"
+
+msgid "Delete"
+msgstr "Eliminar"
+
+msgid "Maps"
+msgstr "Mapas"
+
+msgid "Days"
+msgstr "Dias"
+
+msgid "Catalog"
+msgstr "Catálogo"
+
+msgid "contact"
+msgstr "contato"
+
+msgid "contacts"
+msgstr "contatos"
+
+msgid "Statistics"
+msgstr "Estatísticas"
+
+msgid "Built in"
+msgstr "Construído a"
+
+msgid "Mark"
+msgstr "Nota"
+
+msgid "Percentage"
+msgstr "Percentagem"
+
+msgid "Visits"
+msgstr "Visitas"
+
+msgid "Tour comment"
+msgstr "Comentário de visita"
+
+msgid "Key number"
+msgstr "Número da chave"
+
+msgid "Key's place"
+msgstr "Local da chave"
+
+msgid "Displayed city (optional)"
+msgstr "Cidade exibida (opcional)"
+
+msgid "Displayed district (optional)"
+msgstr "Bairro exibido (opcional)"
+
+msgid "Clauses"
+msgstr "Cláusulas"
+
+msgid "Bathrooms"
+msgstr "Casas de banho"
+
+msgid "Send an e-mail"
+msgstr "Enviar um e-mail"
+
+msgid "Seller"
+msgstr "Vendedor"
+
+msgid "Adjacency"
+msgstr "Contiguidade"
+
+msgid "Step"
+msgstr "Passo"
+
+msgid "Long comment"
+msgstr "Comentário longo"
+
+msgid "Subtitle"
+msgstr "Subtítulo"
+
+msgid "Last published at"
+msgstr "Última publicação a"
+
+msgid "floor"
+msgstr "andar"
+
+msgid "Inactive"
+msgstr "Inativo"
+
+msgid "Position"
+msgstr "Função"
+
+msgid "Please fill in a name and a phone or an e-mail."
+msgstr "Indique um nome, um número de telefone ou um endereço de e-mail."
+
+msgid "Passwords do not match, please retype"
+msgstr "Palavras-passe diferentes. Volte a introduzir."
+
+msgid "Please change your password"
+msgstr "Altere a sua palavra-passe"
+
+msgid "New password should not be same as old password"
+msgstr "A palavra-passe nova deve ser diferente da antiga"
+
+msgid "year"
+msgstr "ano"
+
+msgid "Subscriptions"
+msgstr "Inscrições"
+
+msgid "Ad"
+msgstr "Anúncio"
+
+msgid "Add opening hours"
+msgstr "Adicionar um horário de funcionamento"
+
+msgid "price"
+msgstr "preço"
+
+msgid ""
+"Please note that there are dependencies, please select a contact for "
+"completing the data transfer."
+msgstr ""
+"Tenha em atenção que existem dependências. Selecione um contacto para "
+"proceder à transferência de dados."
+
+msgid "The installation can take several minutes, please come back later."
+msgstr "A instalação pode demorar alguns minutos. Volte mais tarde."
+
+msgid "Your contact speaks %s, would you like to change the language?"
+msgstr "O seu contacto fala %s. Gostaria de alterar o idioma?"
+
+msgid "Would you like to publish on the homepage?"
+msgstr "Gostaria de publicar na página inicial?"
+
+msgid "plus VAT"
+msgstr "Mais TVA"
+
+msgid "<b>Warning :</b> there is an error, please check each fields."
+msgstr "<b>Atenção:</b> existe um erro. Verifique os campos."
+
+msgid "Price/sq m"
+msgstr "Preço/m²"
+
+msgid "today"
+msgstr "hoje"
+
+msgid "week"
+msgstr "semana"
+
+msgid "day"
+msgstr "dia"
+
+msgid "from %from_value% to %to_value%"
+msgstr "de %from_value% a %to_value%"
+
+msgid "message"
+msgstr "mensagem"
+
+msgid "Page"
+msgstr "Página"
+
+msgid "Action"
+msgstr "Ação"
+
+msgid "Status"
+msgstr "Estatuto"
+
+msgid "Agencies"
+msgstr "Agências"
+
+msgid "agencies"
+msgstr "agências"
+
+msgid "Context"
+msgstr "Contexto"
+
+msgid "More criteria"
+msgstr "Critérios adicionais"
+
+msgid "Criteria"
+msgstr "Critérios"
+
+msgid "Classification"
+msgstr "Classificação"
+
+msgid "metres"
+msgstr "metros"
+
+msgid "Window"
+msgstr "Montra"
+
+msgid "Stock area"
+msgstr "Área do stock"
+
+msgid "Sales area"
+msgstr "Área de vendas"
+
+msgid "Sale price"
+msgstr "Preço de venda"
+
+msgid "Broadcast to"
+msgstr "Divulgar em"
+
+msgid "The property will not be published because it is in step « %s »"
+msgstr "O imóvel não poderá ser exportado porque se encontra na etapa « %s »"
+
+msgid "Last agencies"
+msgstr "Últimas agências"
+
+msgid "I confirm my subscription to %s and I accept the general conditions"
+msgstr "Confirmo a minha subscrição de %s e aceito as condições gerais"
+
+msgid "from %from_date% to %to_date%"
+msgstr "de %from_date% a %to_date%"
+
+msgid "sq m"
+msgstr "m²"
+
+msgid "days"
+msgstr "dias"
+
+msgid "bedrooms"
+msgstr "quartos"
+
+msgid "bedroom"
+msgstr "quarto"
+
+msgid "rooms"
+msgstr "divisões"
+
+msgid "room"
+msgstr "divisão"
+
+msgid "Comments"
+msgstr "Comentários"
+
+msgid "comment"
+msgstr "comentário"
+
+msgid "comments"
+msgstr "comentários"
+
+msgid "Private comment"
+msgstr "Comentário privado"
+
+msgid "Private"
+msgstr "Privado"
+
+msgid "Levels"
+msgstr "Pisos"
+
+msgid "Level"
+msgstr "Nível"
+
+msgid "Exchanges"
+msgstr "Transferências"
+
+msgid "Exchange"
+msgstr "Transferência"
+
+msgid "by"
+msgstr "por"
+
+msgid "n.a"
+msgstr "n.c"
+
+msgid "Elevator"
+msgstr "Elevador"
+
+msgid "no"
+msgstr "não"
+
+msgid "yes"
+msgstr "sim"
+
+msgid "Printed with care"
+msgstr "Impresso por nossa conta"
+
+msgid "Please do not litter on public way"
+msgstr "Não deite lixo na via pública"
+
+msgid "Non-contractual information"
+msgstr "Informações não contratuais"
+
+msgid "Agency fees"
+msgstr "Comissões da agência"
+
+msgid "Agency fees included"
+msgstr "Comissões da agência incluídas"
+
+msgid "Agency fees not included"
+msgstr "Comissões da agência não incluídas"
+
+msgid "Fees"
+msgstr "Condomínio"
+
+msgid "Personal property tax"
+msgstr "IMI"
+
+msgid "Style"
+msgstr "Estilo"
+
+msgid "Parkings"
+msgstr "Lugares de Estacionamento"
+
+msgid "Pictures"
+msgstr "Fotografias"
+
+msgid "Window card"
+msgstr "Ficha de vitrina"
+
+msgid "Private sheet"
+msgstr "Ficha privada"
+
+msgid "Public sheet"
+msgstr "Ficha pública"
+
+msgid "Service"
+msgstr "Serviço"
+
+msgid "Language"
+msgstr "Idioma"
+
+msgid "Cart"
+msgstr "Carrinho"
+
+msgid "Land type"
+msgstr "Tipo de terreno"
+
+msgid "Property agent"
+msgstr "Administrador de condomínio"
+
+msgid "Account"
+msgstr "Conta"
+
+msgid "End at"
+msgstr "Termina a"
+
+msgid "Close at"
+msgstr "Fechado a"
+
+msgid "Start at"
+msgstr "Inicia a"
+
+msgid "Guarantees"
+msgstr "Garantias"
+
+msgid "Edit"
+msgstr "Alterar"
+
+msgid "Type"
+msgstr "Tipo"
+
+msgid "Inter-agencies"
+msgstr "Interagências"
+
+msgid "Number of floors"
+msgstr "Número de andares"
+
+msgid "Evaluated price"
+msgstr "Preço avaliado"
+
+msgid "Seller's commission"
+msgstr "Comissão do proprietário"
+
+msgid "Buyer's commission"
+msgstr "Comissão do cliente"
+
+msgid "Commission"
+msgstr "Comissões"
+
+msgid "Origin"
+msgstr "Origem"
+
+msgid "Specific origin"
+msgstr "Origem específica"
+
+msgid "Flooring"
+msgstr "Revestimento"
+
+msgid "Positioning"
+msgstr "Posição"
+
+msgid "Calls"
+msgstr "Chamadas"
+
+msgid "Phone call"
+msgstr "Chamada"
+
+msgid "Publications"
+msgstr "Publicações"
+
+msgid "Send to contact"
+msgstr "Enviar ao contacto"
+
+msgid "No results found"
+msgstr "Nenhum resultado encontrado"
+
+msgid "Results"
+msgstr "Resultados"
+
+msgid "Result"
+msgstr "Resultado"
+
+msgid "results"
+msgstr "resultados"
+
+msgid "result"
+msgstr "resultado"
+
+msgid "Advertiser"
+msgstr "Anunciante"
+
+msgid "Active"
+msgstr "Ativo"
+
+msgid "Confidential"
+msgstr "Confidencial"
+
+msgid "Activity"
+msgstr "Atividade"
+
+msgid "Companies"
+msgstr "Empresas"
+
+msgid "Save"
+msgstr "Guardar"
+
+msgid "Succession"
+msgstr "Sucessão"
+
+msgid "Please fill in a city."
+msgstr "Por favor, preencha a cidade."
+
+msgid "Guarantee"
+msgstr "Garantia"
+
+msgid "Please fill"
+msgstr "Por favor, preencha"
+
+msgid "The email address is invalid."
+msgstr "O endereço de e-mail é inválido."
+
+msgid "Rights"
+msgstr "Direitos"
+
+msgid "Display"
+msgstr "Visualização"
+
+msgid "Since"
+msgstr "Desde"
+
+msgid "Filter"
+msgstr "Filtro"
+
+msgid "Min"
+msgstr "Min."
+
+msgid "Max"
+msgstr "Máx."
+
+msgid "Lessor"
+msgstr "Senhorio"
+
+msgid "Booking"
+msgstr "Reservar"
+
+msgid "Sleeps"
+msgstr "Dormidas"
+
+msgid "Cleaning price"
+msgstr "Preço de limpeza"
+
+msgid "Availabilities"
+msgstr "Disponibilidades"
+
+msgid "Sent"
+msgstr "Enviado"
+
+msgid "Year"
+msgstr "Ano"
+
+msgid "years"
+msgstr "anos"
+
+msgid "months"
+msgstr "meses"
+
+msgid "month"
+msgstr "mês"
+
+msgid "Seasons"
+msgstr "Temporadas"
+
+msgid "Season"
+msgstr "Temporada"
+
+msgid "Rates"
+msgstr "Tarifas"
+
+msgid "Todo"
+msgstr "A fazer"
+
+msgid "Brands"
+msgstr "Franquias"
+
+msgid "Brand"
+msgstr "Franquia"
+
+msgid "Bank"
+msgstr "Banco"
+
+msgid "Brief comment"
+msgstr "Descrição resumida"
+
+msgid "Delivery at"
+msgstr "Entrega a"
+
+msgid "Reason"
+msgstr "Razão"
+
+msgid "What's new"
+msgstr "O que há de novo"
+
+msgid "Requests"
+msgstr "Pedidos"
+
+msgid "Request"
+msgstr "Pedido"
+
+msgid "requests"
+msgstr "pedidos"
+
+msgid "request"
+msgstr "pedido"
+
+msgid "Current rent"
+msgstr "Arrendamento atual"
+
+msgid "Properties"
+msgstr "Imóveis"
+
+msgid "properties"
+msgstr "imóveis"
+
+msgid "property"
+msgstr "imóvel"
+
+msgid "Bill"
+msgstr "Fatura"
+
+msgid "Calculator"
+msgstr "Calculadora"
+
+msgid "Birthplace"
+msgstr "Local de nascimento"
+
+msgid "Birthday"
+msgstr "Data de nascimento"
+
+msgid "Income"
+msgstr "Rendimentos"
+
+msgid "Costs"
+msgstr "Taxas"
+
+msgid "Border"
+msgstr "Margem"
+
+msgid "Required."
+msgstr "Obrigatório"
+
+msgid "Seasonal"
+msgstr "Sazonal"
+
+msgid "Spoken language"
+msgstr "Idioma falado"
+
+msgid "Number of children"
+msgstr "Número de crianças"
+
+msgid "Help"
+msgstr "Ajuda"
+
+msgid "Re-type password"
+msgstr "Digite novamente a palavra-passe"
+
+msgid "Public longitude"
+msgstr "Longitude pública"
+
+msgid "Public latitude"
+msgstr "Latitude pública"
+
+msgid "Access denied"
+msgstr "Acesso recusado"
+
+msgid "Access"
+msgstr "Acesso"
+
+msgid "Launch"
+msgstr "Lançar"
+
+msgid "Shortcuts"
+msgstr "Atalhos"
+
+msgid "Subscription"
+msgstr "Subscrição"
+
+msgid "SEO"
+msgstr "Referenciação"
+
+msgid "Life annuity length"
+msgstr "Duração da renda vitalícia"
+
+msgid "Market value"
+msgstr "Valor de mercado"
+
+msgid "Price contribution"
+msgstr "Contribuição inicial"
+
+msgid "Sharing"
+msgstr "Partilha"
+
+msgid "Show more results"
+msgstr "Mostrar mais resultados"
+
+msgid "Close"
+msgstr "Fechar"
+
+msgid "Hide"
+msgstr "Ocultar"
+
+msgid "Keywords"
+msgstr "Palavras-passe"
+
+msgid "Corporate register"
+msgstr "Registo comercial"
+
+msgid "Expired soon"
+msgstr "A expirar em breve"
+
+msgid "Expired"
+msgstr "Expirados"
+
+msgid "Agreements"
+msgstr "Contratos de mediação imobiliária"
+
+msgid "Agreement number"
+msgstr "Número do CMI"
+
+msgid "VAT identification number"
+msgstr "IVA intracomunitário"
+
+msgid "What's on your mind?"
+msgstr "Em que está a pensar?"
+
+msgid "Buyer"
+msgstr "Comprador"
+
+msgid "Prescriber"
+msgstr "Prescritor"
+
+msgid "Message sent"
+msgstr "Mensagem enviada"
+
+msgid "Limit"
+msgstr "Limite"
+
+msgid "Publish"
+msgstr "Publicar"
+
+msgid "Do not publish"
+msgstr "Não publicar"
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "Already suggested"
+msgstr "Já sugerido"
+
+msgid "To suggest"
+msgstr "A sugerir"
+
+msgid "Suggest"
+msgstr "Sugerir"
+
+msgid "Footer"
+msgstr "Rodapé"
+
+msgid "Header"
+msgstr "Cabeçalho"
+
+msgid "Serviced plot"
+msgstr "Terreno urbanizado"
+
+msgid "Net floor area"
+msgstr "Área do piso"
+
+msgid "Sold price"
+msgstr "Valor contratualizado"
+
+msgid "Sold at"
+msgstr "Vendido a"
+
+msgid "Garden area"
+msgstr "Área de jardim"
+
+msgid "Payment"
+msgstr "Pagamento"
+
+msgid "Reopen"
+msgstr "Reabertura"
+
+msgid "Completed"
+msgstr "Concluído"
+
+msgid "Complete"
+msgstr "Concluir"
+
+msgid "Callback"
+msgstr "Aviso"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Coagent"
+msgstr "Agência parceira"
+
+msgid "Residences"
+msgstr "Residências"
+
+msgid "%s properties"
+msgstr "%s imóveis"
+
+msgid "%s property"
+msgstr "%s imóvel"
+
+msgid "%s request"
+msgstr "%s pedido"
+
+msgid "%s requests"
+msgstr "%s pedidos"
+
+msgid "Characteristics"
+msgstr "Características"
+
+msgid "Activities"
+msgstr "Atividades"
+
+msgid "Sorry, this property is no longer available."
+msgstr "Lamentamos. Esta propriedade já não está disponível."
+
+msgid "Processed"
+msgstr "Processados"
+
+msgid "remaining tickets"
+msgstr "tickets restantes"
+
+msgid "Congratulations ! No more support tickets."
+msgstr "Parabéns! Não há mais tickets do suporte."
+
+msgid "unassigned tickets"
+msgstr "tickets não atribuídos"
+
+msgid "All tickets are assigned."
+msgstr "Todos os tickets estão atribuídos."
+
+msgid "task in progress"
+msgstr "tarefa em curso"
+
+msgid "Database"
+msgstr "Base de dados"
+
+msgid "Used"
+msgstr "Utilizado"
+
+msgid "%s results"
+msgstr "%s resultados"
+
+msgid "Redirects"
+msgstr "Reencaminhamentos"
+
+msgid "Subscribe to the newsletter"
+msgstr "Subscrever a newsletter"
+
+msgid "Purge"
+msgstr "Limpar"
+
+msgid "Valuation methods"
+msgstr "Métodos de avaliação"
+
+msgid "Rebuild cost"
+msgstr "Custo de reconstrução"
+
+msgid "Capitalization"
+msgstr "Capitalização"
+
+msgid "Comparative market analysis"
+msgstr "Estudo comparativo do mercado"
+
+msgid "An average of"
+msgstr "Uma média de"
+
+msgid "Your own valuation"
+msgstr "A sua própria avaliação"
+
+msgid "Desired profitability"
+msgstr "Rentabilidade pretendida"
+
+msgid "Taxes and/or fees"
+msgstr "Impostos e/ou taxas"
+
+msgid "Year of purchase"
+msgstr "Ano de compra"
+
+msgid "Rental income"
+msgstr "Rendas"
+
+msgid "Price of purchase"
+msgstr "Preço de compra"
+
+msgid "Land price"
+msgstr "Preço do terreno"
+
+msgid "Cost of construction"
+msgstr "Custo de construção"
+
+msgid "Interior fittings"
+msgstr "Adaptação do interior"
+
+msgid "Landscaping"
+msgstr "Adaptação do exterior"
+
+msgid "Decrepitude"
+msgstr "Obsolescência"
+
+msgid "Capital losses"
+msgstr "Menos-valias"
+
+msgid "Capital gains"
+msgstr "Mais-valias"
+
+msgid "Your mailbox has exceeded the storage limit (%s)"
+msgstr "A sua caixa de correio excedeu o limite de armazenamento (%s)"
+
+msgid "Your mailbox will reach the storage limit"
+msgstr "A sua caixa de correio atingiu o limite de armazenamento"
+
+msgid "Sort by"
+msgstr "Ordenar por"
+
+msgid "Condominium in difficulty"
+msgstr "Condomínio em dificuldade"
+
+msgid "Back to the list"
+msgstr "Regressar à lista"
+
+msgid "Previous listing"
+msgstr "Anúncio anterior"
+
+msgid "Next listing"
+msgstr "Anúncio seguinte"
+
+msgid "empty"
+msgstr "vazio"
+
+msgid "Filename"
+msgstr "Nome do ficheiro"
+
+msgid "Keyword"
+msgstr "Palavra-chave"
+
+msgid "Values"
+msgstr "Valores"
+
+msgid "New feed"
+msgstr "Novo feed"
+
+msgid "Errors"
+msgstr "Erros"
+
+msgid "Error"
+msgstr "Erro"
+
+msgid "Erase all"
+msgstr "Apagar tudo"
+
+msgid "Try"
+msgstr "Testar"
+
+msgid "Query"
+msgstr "Requerimento"
+
+msgid "Agency fees payable by vendor"
+msgstr "Comissões encargo do vendedor"
+
+msgid "Agency fees payable by buyer"
+msgstr "Comissões encargo do comprador"
+
+msgid "Condominium fees"
+msgstr "Comissões de copropriedade"
+
+msgid "Bed"
+msgstr "Dormida"
+
+msgid "Add your account to start. You can add up to 6 user accounts."
+msgstr ""
+"Agregue a sua conta para começar. Pode agregar até 6 contas utilizador."
+
+msgid "An error occurred"
+msgstr "Ocorreu um erro"
+
+msgid "Successful subscription"
+msgstr "Subscrição com sucesso"
+
+msgid "Created date"
+msgstr "Data de criação"
+
+msgid "Updated date"
+msgstr "Data de atualização"
+
+msgid "Back to homepage"
+msgstr "Voltar à página inicial"
+
+msgid "Price min"
+msgstr "Preço mín."
+
+msgid "Price max"
+msgstr "Preço máx."
+
+msgid "Bedroom min"
+msgstr "Quarto mín."
+
+msgid "Bedroom max"
+msgstr "Quarto máx."
+
+msgid "Room min"
+msgstr "Divisão mín."
+
+msgid "Room max"
+msgstr "Divisão máx."
+
+msgid "Project at"
+msgstr "Projeto a"
+
+msgid "Tenant's commission"
+msgstr "Comissões encargo do inquilino"
+
+msgid "Inventory tenant charge"
+msgstr "Inventário encargo do inquilino"
+
+msgid "Fees included"
+msgstr "Impostos incluídos"
+
+msgid "Provision on recoverable fees"
+msgstr "Provisão sobre impostos recuperáveis"
+
+msgid "Never"
+msgstr "Nunca"
+
+msgid "Remaining credits"
+msgstr "Créditos restantes"
+
+msgid "Buy credits"
+msgstr "Comprar créditos"
+
+msgid "%s credits"
+msgstr "%s créditos"
+
+msgid "Transaction fees"
+msgstr "Taxas de transação"
+
+msgid "View property"
+msgstr "Ver propriedade"
+
+msgid "lot available"
+msgstr "lote disponível"
+
+msgid "lots available"
+msgstr "lotes disponíveis"
+
+msgid "Area min"
+msgstr "Área mín."
+
+msgid "Search a property"
+msgstr "Procurar uma propriedade"
+
+msgid "International"
+msgstr "Internacional"
+
+msgid "Unsubscribe"
+msgstr "Cancelar subscrição"
+
+msgid "The property will not be published because it is in group « %s »"
+msgstr "O imóvel não poderá ser divulgado porque se encontra no grupo « %s »"
+
+msgid "%s month"
+msgstr "%s mês"
+
+msgid "%s months"
+msgstr "%s meses"
+
+msgid "No action after"
+msgstr "Nenhuma ação posterior"
+
+msgid "%s pending delete"
+msgstr "%s a aguardar eliminação"
+
+msgid "Pending delete"
+msgstr "A aguardar eliminação"
+
+msgid "%s to delete"
+msgstr "%s a eliminar"
+
+msgid "Unsubscribed"
+msgstr "Subscrição cancelada"
+
+msgid "Edit my search"
+msgstr "Alterar a minha pesquisa"
+
+msgid "Activate my search"
+msgstr "Ativar a minha pesquisa"
+
+msgid "Cancel my search"
+msgstr "Cancelar a minha pesquisa"
+
+msgid "Only authorized properties"
+msgstr "Apenas os imóveis autorizados"
+
+msgid "Another currency"
+msgstr "Outra moeda"
+
+msgid "Enter the first 6 digits"
+msgstr "Introduzir os primeiros 6 dígitos"
+
+msgid ""
+"Without action on your part, your contact will be deleted before the %s."
+msgstr ""
+"Caso não haja qualquer ação da sua parte, o seu contacto será eliminado o "
+"mais tardar %s."
+
+msgid "No procedure in progress"
+msgstr "Nenhum procedimento em curso"
+
+msgid "Procedure in progress"
+msgstr "Procedimento em curso"
+
+msgid "Number of lots in the condominium"
+msgstr "Número de lotes no condomínio"
+
+msgid "Network authorized"
+msgstr "Agrupamento autorizado"
+
+msgid "Renew the lease"
+msgstr "Renovar o contrato de arrendamento"
+
+msgid "Remove at"
+msgstr "Eliminar a"
+
+msgid "External action"
+msgstr "Ação externa"
+
+msgid ""
+"The migration of your prospect into a request will allow you to make "
+"matching and proposals with a better tracking."
+msgstr ""
+"Transformar o seu potencial cliente num pedido permitir-lhe-á realizar "
+"concordâncias e propostas com uma melhor acompanhamento."
+
+msgid "floors"
+msgstr "andares"
+
+msgid "Job"
+msgstr "Profissão"
+
+msgid "Unsuscribe from this list"
+msgstr "Cancelar a subscrição desta lista"
+
+msgid "Entry"
+msgstr "Entrada"
+
+msgid "Exit"
+msgstr "Saída"
+
+msgid "Networks"
+msgstr "Redes"
+
+msgid "Opacity"
+msgstr "Opacidade"
+
+msgid "Left"
+msgstr "Esquerda"
+
+msgid "Starting"
+msgstr "Início"
+
+msgid "Relative to the last element"
+msgstr "Relativo ao último elemento"
+
+msgid "Align"
+msgstr "Alinhamento"
+
+msgid "Border size"
+msgstr "Tamanho da moldura"
+
+msgid "Border color"
+msgstr "Cor da moldura"
+
+msgid "Size of the internal margin"
+msgstr "Tamanho da margem interior"
+
+msgid "Font color"
+msgstr "Cor da letra"
+
+msgid "Font size"
+msgstr "Tamanho da letra"
+
+msgid "Background color"
+msgstr "Cor de fundo"
+
+msgid "Custom image"
+msgstr "Imagem personalizada"
+
+msgid "custom"
+msgstr "personalizado"
+
+msgid "Right"
+msgstr "Direita"
+
+msgid "Center"
+msgstr "Centro"
+
+msgid "Justified"
+msgstr "Justificado"
+
+msgid "Transparency"
+msgstr "Transparência"
+
+msgid "Line height"
+msgstr "Espaçamento entre linhas"
+
+msgid "Uppercase"
+msgstr "Maiúsculas"
+
+msgid "Price proposal"
+msgstr "Proposta de preço"
+
+msgid "Pattern"
+msgstr "Modelo"
+
+msgid "Publication date"
+msgstr "Data de publicação"
+
+msgid "Recovered at"
+msgstr "Recuperado a"
+
+msgid "Available on"
+msgstr "Disponível em"
+
+msgid "Allow all"
+msgstr "Autorizar tudo"
+
+msgid "Private position is not set, click here to update."
+msgstr "A posição privada não é indicada. Clique aqui para atualizar."
+
+msgid "Public position is not set, click here to update."
+msgstr "A posição pública não é indicada. Clique aqui para atualizar."
+
+msgid ""
+"Please use this link to subscribe to your calendar from a software or a "
+"device:"
+msgstr ""
+"Utilize esta hiperligação para subscrever o seu calendário a partir do seu "
+"software ou de um dispositivo:"
+
+msgid "Activate"
+msgstr "Ativar"
+
+msgid "Disable"
+msgstr "Desativar"
+
+msgid "Unblock"
+msgstr "Desbloquear"
+
+msgid "Area max"
+msgstr "Área máx."
+
+msgid "Plot of land area min"
+msgstr "Área de terreno mín."
+
+msgid "Plot of land area max"
+msgstr "Área do terreno máx."
+
+msgid "Date descending"
+msgstr "Data por ordem decrescente"
+
+msgid "Date ascending"
+msgstr "Data por ordem crescente"
+
+msgid "Price descending"
+msgstr "Preço por ordem decrescente"
+
+msgid "Price ascending"
+msgstr "Preço por ordem crescente"
+
+msgid "Balance"
+msgstr "Saldo"
+
+msgid "Construction method"
+msgstr "Tipo de construção"
+
+msgid "Tax code"
+msgstr "Número fiscal"
+
+msgid "Downsides"
+msgstr "Inconvenientes"
+
+msgid "Assets"
+msgstr "Vantagens"
+
+msgid "Please select a district from the list:"
+msgstr "Escolha distrito a partir da lista:"
+
+msgid "Non-flood zone"
+msgstr "Zona não inundável"
+
+msgid "Potential flood zone"
+msgstr "Zona potencialmente inundável"
+
+msgid "Recognized flood zone"
+msgstr "Zona inundável reconhecida"
+
+msgid "Delimited flood zone"
+msgstr "Zona inundável delimitada"
+
+msgid "Cadastre"
+msgstr "Cadastro"
+
+msgid "Delimited waterside zone"
+msgstr "Zona ribeirinha delimitada"
+
+msgid "Potential flood zone in a delimited waterside zone"
+msgstr "Zona potencialmente inundável numa zona ribeirinha delimitada"
+
+msgid "Potential flood zone in a delimited flood zone"
+msgstr "Zona potencialmente inundável numa zona inundável delimitada"
+
+msgid "Recognized flood zone in a delimited waterside zone"
+msgstr "Zona inundável reconhecida numa zona ribeirinha delimitada"
+
+msgid "Recognized flood zone in a delimited flood zone"
+msgstr "Zona inundável reconhecida numa zona inundável delimitada"
+
+msgid "Profile"
+msgstr "Perfil"
+
+msgid "Export"
+msgstr "Exportação"
+
+msgid "Quota"
+msgstr "Quota"
+
+msgid "Document"
+msgstr "Documento"
+
+msgid "Partner"
+msgstr "Parceiro"
+
+msgid "Signage"
+msgstr "Placa"
+
+msgid "Set up at"
+msgstr "Instalação a"
+
+msgid "Forecast"
+msgstr "Previsão"
+
+msgid "Area ascending"
+msgstr "Área por ordem crescente"
+
+msgid "Area descending"
+msgstr "Área por ordem decrescente"
+
+msgid "%s awaiting review(s)"
+msgstr "%s a aguardar parecer"
+
+msgid "To review"
+msgstr "A rever"
+
+msgid "Copy"
+msgstr "Copiar"
+
+msgid "Net seller"
+msgstr "Líquido vendedor"
+
+msgid "Price displayed"
+msgstr "Preço apresentado"
+
+msgid "Rental price"
+msgstr "Preço do arrendamento"
+
+msgid "Listed price: %s, exchange rates are indicative."
+msgstr "Preço apresentado: %s, as taxas de conversão são indicativas."
+
+msgid "%s units"
+msgstr "%s lotes"
+
+msgid "%s unit"
+msgstr "%s lote"
+
+msgid "IP address"
+msgstr "Endereço IP"
+
+msgid "Method"
+msgstr "Método"
+
+msgid "Path"
+msgstr "Caminho"
+
+msgid "Pagebreak"
+msgstr "Quebra de página"
+
+msgid "Paragraph"
+msgstr "Parágrafo"
+
+msgid "Scale"
+msgstr "Escala"
+
+msgid "Color"
+msgstr "Cor"
+
+msgid "lines"
+msgstr "linhas"
+
+msgid "Social networks"
+msgstr "Redes sociais"
+
+msgid "Save settings"
+msgstr "Guardar definições"
+
+msgid "Delete settings"
+msgstr "Eliminar as definições"
+
+msgid "never"
+msgstr "nunca"
+
+msgid "Facades"
+msgstr "Fachadas"
+
+msgid ""
+"Please select the page where you would like to publish your properties."
+msgstr "Escolha a página em que gostaria de publicar os seus anúncios."
+
+msgid "Unique publication identifier"
+msgstr "Referência única de publicação"
+
+msgid "No transfer active"
+msgstr "Nenhuma transferência ativa"
+
+msgid "Publication report"
+msgstr "Relatório de publicação"
+
+msgid "Click here to view the publication."
+msgstr "Clique aqui para visualizar a publicação."
+
+msgid "Your listing is now online."
+msgstr "O seu anúncio está agora online."
+
+msgid "Share on …"
+msgstr "Partilhar em..."
+
+msgid "Add the feature for:"
+msgstr "Adicionar a funcionalidade para:"
+
+msgid "The agency"
+msgstr "A agência"
+
+msgid "The whole company"
+msgstr "Toda a empresa"
+
+msgid "The whole brand"
+msgstr "Toda a franquia"
+
+msgid "Wrong number"
+msgstr "Número errado"
+
+msgid "Padding"
+msgstr "Margem interior"
+
+msgid "Wrong e-mail or e-mail too heavy"
+msgstr "E-mail errado ou e-mail demasiado pesado"
+
+msgid "Empty e-mail"
+msgstr "E-mail vazio"
+
+msgid "Wrong e-mail"
+msgstr "E-mail errado"
+
+msgid "Wrong spouse's e-mail"
+msgstr "E-mail do cônjuge errado"
+
+msgid ""
+"Push the wireless link button to switch to the LAN mode. #wifi# must be "
+"operational."
+msgstr ""
+"Prime o botão de ligação sem fios para mudar para a função de rede local. O "
+"#wifi# deve estar ativo."
+
+msgid "Starting from floor"
+msgstr "A partir do andar"
+
+msgid "No document available"
+msgstr "Nenhum documento disponível"
+
+msgid "Please report to our documentation."
+msgstr "Consulte a nossa documentação."
+
+msgid "Your email server does not authorize us to send an email."
+msgstr "O seu servidor de e-mail não nos autoriza a enviar-lhe um e-mail."
+
+msgid "Not suggested"
+msgstr "Não proposto"
+
+msgid "Quick view"
+msgstr "Vista rápida"
+
+msgid ""
+"This feature need the software WhatsApp Web. Before using this feature be "
+"sure to download and link your smartphone."
+msgstr ""
+"Esta funcionalidade requer o software WhatsApp Web. Antes de usar esta "
+"funcionalidade, certifique-se de que descarrega e liga o seu smartphone."
+
+msgid "Add a lead"
+msgstr "Adicionar um potencial cliente"
+
+msgid "Configure"
+msgstr "Configurar"
+
+msgid "No event today"
+msgstr "Nenhum evento hoje"
+
+msgid "Display the address"
+msgstr "Apresentar o endereço"
+
+msgid "Display the contact"
+msgstr "Apresentar o contacto"
+
+msgid "Display the contact details"
+msgstr "Apresentar as informações de contacto"
+
+msgid "Display the contact name"
+msgstr "Apresentar o nome do contacto"
+
+msgid "Read"
+msgstr "Leitura"
+
+msgid "Write"
+msgstr "Escrita"
+
+msgid "Private details"
+msgstr "Informações privadas"
+
+msgid "Private documents"
+msgstr "Documentos privados"
+
+msgid "Public documents"
+msgstr "Documentos públicos"
+
+msgid "Order"
+msgstr "Encomendar"
+
+msgid "National"
+msgstr "Nacional"
+
+msgid "Unavailable"
+msgstr "Indisponível"
+
+msgid "Period"
+msgstr "Período"
+
+msgid "Repair"
+msgstr "Reparar"
+
+msgid "Complain"
+msgstr "Queixa"
+
+msgid "Reporting"
+msgstr "Comunicação"
+
+msgid "Moderator"
+msgstr "Moderador"
+
+msgid "%s guests"
+msgstr "%s hóspedes"
+
+msgid "%s guest"
+msgstr "%s hóspede"
+
+msgid "Referral"
+msgstr "Recomendador"
+
+msgid "Referrals"
+msgstr "Recomendadores"
+
+msgid "%s beds"
+msgstr "%s dormidas"
+
+msgid "%s bed"
+msgstr "%s dormida"
+
+msgid "Old user"
+msgstr "Antigo utilizador"
+
+msgid "New user"
+msgstr "Novo utilizador"
+
+msgid "Apply on requests"
+msgstr "Aplicar aos pedidos"
+
+msgid "Apply on properties"
+msgstr "Aplicar aos imóveis"
+
+msgid "Forthcoming"
+msgstr "Futuro"
+
+msgid "Past"
+msgstr "Passado"
+
+msgid "Click here to join the webinar."
+msgstr "Clique aqui para se juntar à formação em linha."
+
+msgid "You have an appointment in %hours% hour(s) and %minutes% minute(s)"
+msgstr "Tem um encontro dentro de %hours% hora(s) e %minutes% minuto(s)"
+
+msgid "Your training of %s"
+msgstr "A sua formação de %s"
+
+msgid "(or)"
+msgstr "(ou)"
+
+msgid "Grant access to the user or the contact"
+msgstr "Conceder o acesso ao utilizador ou ao contacto"
+
+msgid "Improve the quality of some photos."
+msgstr "Melhorar a qualidade de algumas fotografias."
+
+msgid "Click here to highlight them."
+msgstr "Clique aqui para as realçar."
+
+msgid "Documentation"
+msgstr "Documentação"
+
+msgid "Payments"
+msgstr "Pagamentos"
+
+msgid "Store"
+msgstr "Boutique"
+
+msgid "Cooling-off end at"
+msgstr "Fim do período de reflexão"
+
+msgid "Accuracy of appraisal"
+msgstr "Acerto da estimativa"
+
+msgid "Fees details"
+msgstr "Pormenor das taxas"
+
+msgid "Funding"
+msgstr "Financiamento"
+
+msgid "Personal contribution"
+msgstr "Contribuição pessoal"
+
+msgid "Mortgage amount"
+msgstr "Valor do empréstimo"
+
+msgid "Accepted at"
+msgstr "Aceite a"
+
+msgid "Pre-fill"
+msgstr "Pré-preencher"
+
+msgid "Contracted at"
+msgstr "Contratado a"
+
+msgid "Property valuation"
+msgstr "Avaliação da propriedade"
+
+msgid "Selected properties"
+msgstr "Propriedades selecionadas"
+
+msgid "Conclusion"
+msgstr "Conclusão"
+
+msgid "Final opinion between"
+msgstr "Opinião final entre"
+
+msgid "Net annual rental"
+msgstr "Renda líquida anual"
+
+msgid "Average"
+msgstr "Média"
+
+msgid "Selected year"
+msgstr "Ano selecionado"
+
+msgid "Subscribers"
+msgstr "Subscritores"
+
+msgid "Signages"
+msgstr "Placas"
+
+msgid "Keys"
+msgstr "Chaves"
+
+msgid "Member of your network"
+msgstr "Membro da sua rede"
+
+msgid "Member of %s"
+msgstr "Membro de %s"
+
+msgid "Requests validated"
+msgstr "Pedidos válidos"
+
+msgid "No extranet access available"
+msgstr "Nenhum extranet disponível"
+
+msgid "Incomplete requests"
+msgstr "Pedidos incompletos"
+
+msgid "You blocked this agency"
+msgstr "Você bloqueou esta agência"
+
+msgid "Updated"
+msgstr "Atualizado"
+
+msgid "Updated by"
+msgstr "Atualizado por"
+
+msgid "Created by"
+msgstr "Criada por"
+
+msgid "Session has expired"
+msgstr "A sessão expirou"
+
+msgid "You have reached the quota"
+msgstr "Atingiu a quota"
+
+msgid "%s bathroom"
+msgstr "%s casa de banho"
+
+msgid "%s bathrooms"
+msgstr "%s casas de banho"
+
+msgid "Force recording"
+msgstr "Forçar o registo"
+
+msgid ""
+"You are using the quick form, to access all the fields please click on full "
+"form."
+msgstr ""
+"Está a usar o formulário simplificado. Para aceder à totalidade dos campos, "
+"clique em formulário completo."
+
+msgid "Delete the contact"
+msgstr "Eliminar o contacto"
+
+msgid "Update my search criteria or unsubscribe me."
+msgstr ""
+"Atualizar os meus critérios de pesquisa ou cancelar a minha subscrição."
+
+msgid "All day"
+msgstr "Todo o dia"
+
+msgid "Synchronized with %s"
+msgstr "Sincronizado com %s"
+
+msgid "Your time zone appears to be « %s », click here to update."
+msgstr "O seu fuso horário parece ser « %s ». Clique aqui para atualizar."
+
+msgid "Freehold"
+msgstr "Propriedade plena"
+
+msgid "Commonhold"
+msgstr "Propriedade comum"
+
+msgid "Share of freehold"
+msgstr "Parte de propriedade plena"
+
+msgid "Please click here"
+msgstr "Clique aqui"
+
+msgid "Please complete the configuration"
+msgstr "Termine a configuração"
+
+msgid "Choose a calendar"
+msgstr "Escolha um calendário"
+
+msgid "Synchronize your calendar."
+msgstr "Sincronize o seu calendário"
+
+msgid "Send messages within your email account."
+msgstr "Envie mensagens através da sua conta de e-mail."
+
+msgid "Manage your contacts."
+msgstr "Gira os seus contactos."
+
+msgid "Synchronized account"
+msgstr "Conta sincronizada"
+
+msgid "Unlink"
+msgstr "Desassociar"
+
+msgid "To modify this appointment, you must first unlink it."
+msgstr "Para alterar esta reunião, primeiro tem de o desassociar."
+
+msgid "Appointment shared with:"
+msgstr "Encontro partilhado com:"
+
+msgid "Old value"
+msgstr "Valor antigo"
+
+msgid "New value"
+msgstr "Valor novo"
+
+msgid "Subscribed"
+msgstr "Subscrito"
+
+msgid "Display my properties"
+msgstr "Apresentar os meus imóveis"
+
+msgid "Interface language"
+msgstr "Idioma da interface"
+
+msgid "Spoken languages"
+msgstr "Idiomas falados"
+
+msgid "Canceled at"
+msgstr "Cancelado a"
+
+msgid "Please fill in a canceled date."
+msgstr "Preencha a data de cancelamento"
+
+msgid "This username is already in use."
+msgstr "Este nome de utilizador já está a ser utilizado."
+
+msgid "Ordered at"
+msgstr "Encomendado a"
+
+msgid "Projects"
+msgstr "Projetos"
+
+msgid "Renovation cost"
+msgstr "Custo de renovação"
+
+msgid "Inflation"
+msgstr "Inflação"
+
+msgid "Reviews"
+msgstr "Apreciações"
+
+msgid "Option"
+msgstr "Opção"
+
+msgid "Check to accept"
+msgstr "Selecione para aceitar"
+
+msgid "Account creation"
+msgstr "Criação de uma conta"
+
+msgid ""
+"Access to the %s solution requires the transmission of your information and "
+"the acceptance of the general conditions"
+msgstr ""
+"O acesso à solução %s requer a transmissão das suas informações e a "
+"aceitação das condições gerais."
+
+msgid "Read the personal data conditions"
+msgstr "Consultar as regras relativas aos dados pessoais"
+
+msgid "Read the terms and conditions"
+msgstr "Consultar as condições gerais de utilização"
+
+msgid "Waiting for your confirmation"
+msgstr "A aguardar pela sua confirmação"
+
+msgid "Suspended"
+msgstr "Suspenso"
+
+msgid "Validations"
+msgstr "Validações"
+
+msgid "Privacy policy"
+msgstr "Política de confidencialidade"
+
+msgid "Latest posts"
+msgstr "Últimas publicações"
+
+msgid "Renew"
+msgstr "Renovar"
+
+msgid "Download the app"
+msgstr "Descarregar a aplicação"
+
+msgid ""
+"Setup the application on your smartphone and enjoy an optimized navigation "
+"for your mobile device."
+msgstr ""
+"Instale diretamente a aplicação no seu smartphone e beneficie de uma "
+"navegação otimizada para o seu dispositivo móvel."
+
+msgid ""
+"Take advantage now of your software by using the credentials below. Be sure "
+"to keep this login details confidential and don't to change your password "
+"regularly."
+msgstr ""
+"Beneficie desde já do acesso ao software utilizando as credenciais para se "
+"conectar. Certifique-se que guarda estas informações confidenciais e que "
+"altera regularmente a sua palavra-passe."
+
+msgid "Watch our channel"
+msgstr "Visualize o nosso canal"
+
+msgid "Discover the training videos on our Youtube channel."
+msgstr ""
+"Descubra os vídeos de aprendizagem e de aperfeiçoamento sobre o software no "
+"nosso canal no Youtube."
+
+msgid "Take part in our training"
+msgstr "Participe nas nossas formações"
+
+msgid ""
+"We regularly organize online or face-to-face training, register directly "
+"from the software (Menu Tools > Training)."
+msgstr ""
+"Organizamos periodicamente formações em linha e em regime presencial. "
+"Inscreva-se diretamente através do software (Menu Ferramentas > Formações)."
+
+msgid "Please kindly fill out your agency profile."
+msgstr "Por favor, preencha a sua ficha de agência."
+
+msgid "Tripod"
+msgstr "Tripé"
+
+msgid "Square"
+msgstr "Quadrado"
+
+msgid "Round"
+msgstr "Redondo"
+
+msgid "Floors"
+msgstr "Andares"
+
+msgid "You do not have enough credits to send the message."
+msgstr "Não possui créditos suficientes para enviar a mensagem."
+
+msgid ""
+"Please do not remove « {LINK} » value. We need this for the link to the "
+"property website."
+msgstr ""
+"Certifique-se de que não elimina o valor «{LINK}». Este é necessário para a "
+"ligação para o sítio Web da propriedade."
+
+msgid "Minimum bid"
+msgstr "Licitação mínima"
+
+msgid "Published"
+msgstr "Publicado"
+
+msgid "Archived"
+msgstr "Arquivado"
+
+msgid "Sent for signature"
+msgstr "Enviado para assinatura"
+
+msgid "Camera position"
+msgstr "Posição da câmara"
+
+msgid "Capture"
+msgstr "Capturar"
+
+msgid "Professional"
+msgstr "Profissional"
+
+msgid "Professionals"
+msgstr "Profissionais"
+
+msgid "Add a new entry"
+msgstr "Adicionar uma nova entrada"
+
+msgid "Monthly payment"
+msgstr "Mensalidade"
+
+msgid "Archives"
+msgstr "Arquivos"
+
+msgid "%value% is too long (%max_length% characters max)."
+msgstr "%value% é demasiado longo (%max_length% caracteres no máx.)."
+
+msgid "My details"
+msgstr "As minhas informações"
+
+msgid "Software"
+msgstr "Software"
+
+msgid "Personal data deleted after a removal request form received."
+msgstr "Dados pessoais eliminados após a receção de um pedido de eliminação."
+
+msgid "Received at %s"
+msgstr "Recebido a %s"
+
+msgid "Lease assignments"
+msgstr "Cessões de contrato de arrendamento"
+
+msgid "Occupant"
+msgstr "Ocupante"
+
+msgid "Frequency"
+msgstr "Frequência"
+
+msgid "Time slot"
+msgstr "Horário"
+
+msgid "Rules"
+msgstr "Regras"
+
+msgid "Hourly"
+msgstr "A cada hora"
+
+msgid "Daily"
+msgstr "Diariamente"
+
+msgid "Weekly"
+msgstr "Semanalmente"
+
+msgid "Monthly"
+msgstr "Mensal"
+
+msgid "In order to duplicate the property, please type the security code %s"
+msgstr "Para duplicar a propriedade, digite o código de segurança %s"
+
+msgid ""
+"Please do not use the duplication to refresh your ad on the web portals."
+msgstr ""
+"Por favor, não use a duplicação para atualizar o seu anúncio nos portais da "
+"Web."
+
+msgid ""
+"You can refresh an ad on the portals by using the incrementing system, "
+"available from the tab Exchange > Settings."
+msgstr ""
+"Pode atualizar um anúncio nos portais utilizando o sistema de incrementação,"
+" disponível no separador “Transferência > Definições."
+
+msgid "Legal"
+msgstr "Jurídico"
+
+msgid "Auction start at"
+msgstr "Início do leilão"
+
+msgid "Auction end at"
+msgstr "Fim do leilão"
+
+msgid "My preferences"
+msgstr "As minhas preferências"
+
+msgid "Preference"
+msgstr "Preferência"
+
+msgid "Public"
+msgstr "Público"
+
+msgid "Classic"
+msgstr "Clássico"
+
+msgid "Modern"
+msgstr "Moderno"
+
+msgid "Design"
+msgstr "Desenho"
+
+msgid "Server"
+msgstr "Servidor"
+
+msgid "We are closed"
+msgstr "Estamos encerrados"
+
+msgid "Appliance"
+msgstr "Aparelho"
+
+msgid "Energy"
+msgstr "Energia"
+
+msgid "Automatic selection"
+msgstr "Seleção automática"
+
+msgid "Non-holding of funds"
+msgstr "Não detenção de fundos"
+
+msgid "Sales agent"
+msgstr "Agente comercial"
+
+msgid ""
+"Do you want to use Cityscan on this property? This will consume a credit "
+"from your quota."
+msgstr ""
+"Deseja utilizar o Cityscan neste produto? Irá gastar um crédito da sua "
+"quota."
+
+msgid "Would you like to copy the owner's address into the property?"
+msgstr "Deseja inserir o endereço do proprietário no produto?"
+
+msgid "Comment pattern"
+msgstr "Modelo de comentário"
+
+msgid "View all news"
+msgstr "Todas as notícias"
+
+msgid ""
+"In order to verify your e-mail address, please specify this validation code "
+"valid for 15 minutes:"
+msgstr ""
+"Para verificar o seu endereço de e-mail introduza este código de validação "
+"válido durante 15 minutos:"
+
+msgid "Account validation for %s"
+msgstr "Validação da conta para %s"
+
+msgid ""
+"We have just sent you an e-mail with a code valid for 15 minutes, please "
+"specify it to authenticate your account."
+msgstr ""
+"Acabámos de lhe enviar um e-mail com um código válido durante 15 minutos. "
+"Introduza esse código para autenticar a sua conta."
+
+msgid ""
+"Other accounts use your e-mail %s, you should use your own e-mail address."
+msgstr ""
+"Algumas contas utilizam o seu endereço de e-mail %s, dê preferência a um "
+"endereço de e-mail único."
+
+msgid ""
+"Your e-mail address %s is already used by another account, please choose a "
+"different address."
+msgstr ""
+"O seu endereço de e-mail %s já é utilizado por outra conta. Selecione outro "
+"endereço de e-mail."
+
+msgid "Please kindly confirm your e-mail address %s."
+msgstr "Por favor, confirme o seu endereço de e-mail %s."
+
+msgid "Altitude"
+msgstr "Altitude"
+
+msgid "For security reasons, we need to confirm your details below."
+msgstr ""
+"Por motivos de segurança, precisamos de confirmar as suas informações "
+"abaixo."
+
+msgid "Credits"
+msgstr "Créditos"
+
+msgid "Opened at"
+msgstr "Aberto a"
+
+msgid "Icons"
+msgstr "Ícones"
+
+msgid "Additional address"
+msgstr "Endereço adicional"
+
+msgid "Included"
+msgstr "Incluído"
+
+msgid "Broadcast report"
+msgstr "Relatório de difusão"
+
+msgid "Toilet"
+msgstr "Lavabos"
+
+msgid "Click here to reset your password."
+msgstr "Clique aqui para reinicializar a sua palavra passe."
+
+msgid "Duplicates"
+msgstr "Duplicados"
+
+msgid "Cleaning"
+msgstr "Limpeza"
+
+msgid "Main"
+msgstr "Principal"
+
+msgid "Merge"
+msgstr "Fusionar"
+
+msgid "Show pagination"
+msgstr "Mostrar paginação"
+
+msgid "Mandatory fields"
+msgstr "Campos obrigatórios"
+
+msgid "%s succesfully downloaded"
+msgstr "%s documento descarregado"
+
+msgid "%s document(s) couldn't be deleted"
+msgstr "%s documento(s) não eliminado"
+
+msgid "%s photo(s) uploaded"
+msgstr "%s foto(s) importada(s)"
+
+msgid "Access the gallery"
+msgstr "Aceder à galeria"
+
+msgid "Activate biometric authentication?"
+msgstr "Ativar a verificação biométrica?"
+
+msgid "Activate the extranet access"
+msgstr "Ativar a extranet"
+
+msgid "Activate Ricoh Theta's wireless connection"
+msgstr "Ativar a ligação sem fios da Ricoh Theta"
+
+msgid "Add a comment"
+msgstr "Agregar um comentário"
+
+msgid "Add an account"
+msgstr "Agregar uma conta"
+
+msgid "Add a contact"
+msgstr "Agregar um contacto"
+
+msgid "Add a similar contact"
+msgstr "Agregar um contacto semelhante"
+
+msgid "Add an event"
+msgstr "Agregar um evento"
+
+msgid "Add a history"
+msgstr "Agregar um histórico"
+
+msgid "Add a guest"
+msgstr "Agregar um convidado"
+
+msgid "Add a property"
+msgstr "Agregar um produto"
+
+msgid "Add an owner"
+msgstr "Agregar um proprietário"
+
+msgid "Add another contact"
+msgstr "Agregar um segundo contacto"
+
+msgid "Add an area"
+msgstr "Agregar uma área"
+
+msgid "Turn the device on"
+msgstr "Ligue o dispositivo"
+
+msgid "Apimo"
+msgstr "Apimo"
+
+msgid "Appearance"
+msgstr "Aspeto"
+
+msgid "Call"
+msgstr "Chamar"
+
+msgid "Associate a similar contact"
+msgstr "Associar um contacto semelhante"
+
+msgid "Please make sure that your phone's wifi connection is active"
+msgstr "Certifique-se de que a rede Wi-Fi do seu telemóvel está activada"
+
+msgid "Please make sure to be connected on Theta's wifi network"
+msgstr "Certifique-se de que está ligado à rede Wi-Fi do Theta"
+
+msgid ""
+"Please note that by using this field, your message draft will be deleted."
+msgstr ""
+"Atenção ao utilizar este campo, quaisquer alterações que tenha efectuado à "
+"sua mensagem serão perdidas."
+
+msgid "No browsed properties"
+msgstr "Nenhum produto consultado"
+
+msgid "No property found"
+msgstr "Nenhum produto encontrado"
+
+msgid "More fields"
+msgstr "Outros campos"
+
+msgid "More filters"
+msgstr "Outros filtros"
+
+msgid "More media"
+msgstr "Outros médias"
+
+msgid "Recently browsed properties"
+msgstr "Bens recentemente consultados"
+
+msgid "Welcome to Apimo"
+msgstr "Bem-vindo ao Apimo"
+
+msgid "No news today"
+msgstr "Nenhuma novidade hoje"
+
+msgid "This account has already been saved"
+msgstr "Esta conta já foi registada"
+
+msgid "This is not my account"
+msgstr "Não é a minha conta"
+
+msgid "This Theta version is too old and not supported by the application"
+msgstr ""
+"Esta versão do Theta é muito antiga e não pode ser suportada pela aplicação."
+
+msgid "Load more images"
+msgstr "Carregar mais imagens"
+
+msgid "Select the status"
+msgstr "Escolher o estado"
+
+msgid "Select an origin"
+msgstr "Escolher a origem"
+
+msgid "Select the category"
+msgstr "Escolher a categoria"
+
+msgid "Select the spoken language"
+msgstr "Escolher a língua falada"
+
+msgid "Select the nationality"
+msgstr "Escolher a nacionalidade"
+
+msgid "Select the address"
+msgstr "Escolher a residência"
+
+msgid "Select the agreement"
+msgstr "Escolher o mandato"
+
+msgid "Select the country"
+msgstr "Escolher o país"
+
+msgid "Select the standing"
+msgstr "Escolher a posição"
+
+msgid "Select the type"
+msgstr "Escolher o tipo"
+
+msgid "Select a date type"
+msgstr "Escolher o tipo de date"
+
+msgid "Select the direction type"
+msgstr "Escolher o tipo de direção"
+
+msgid "Select the view type"
+msgstr "Escolher o tipo de vista"
+
+msgid "Select activity(ies)"
+msgstr "Escolher a(s) actividade(s)"
+
+msgid "Select tag(s)"
+msgstr "Escolher o(s) atributo(s)"
+
+msgid "Select category(ies)"
+msgstr "Escolher a(s) categoria(s)"
+
+msgid "Select status(es)"
+msgstr "Escolher o(s) estado(s)"
+
+msgid "Select agreement(s)"
+msgstr "Escolher o(s) mandato(s)"
+
+msgid "Select service(s)"
+msgstr "Escolher os serviço(s)"
+
+msgid "Select proximity(ies)"
+msgstr "Escolher a(s) proximidade(s)"
+
+msgid "Select standing(s)"
+msgstr "Escolher o(s) posicionamento(s)"
+
+msgid "Select type(s)"
+msgstr "Escolher o(s) tipo(s)"
+
+msgid "Select property type(s)"
+msgstr "Escolher o(s) tipo(s) de bem"
+
+msgid "Select area type(s)"
+msgstr "Escolher o(s) tipo(s) de assoalhada(s)"
+
+msgid "Select a contact"
+msgstr "Escolher um contacto"
+
+msgid "Select a contact method"
+msgstr "Escolher um método de contacto"
+
+msgid "Select a country"
+msgstr "Escolher um país"
+
+msgid "Select a type*"
+msgstr "Escolher um tipo*"
+
+msgid "Select a user"
+msgstr "Escolher um utilizador"
+
+msgid "Select an address"
+msgstr "Escolher uma direção"
+
+msgid "Select an agency"
+msgstr "Escolher uma agência"
+
+msgid "Select a category"
+msgstr "Escolher uma categoria"
+
+msgid "Select a title"
+msgstr "Escolher um título"
+
+msgid "Select a language"
+msgstr "Escolher uma língua"
+
+msgid "Select a specific origin"
+msgstr "Escolher uma origem exacta"
+
+msgid "Select an area"
+msgstr "Escolher uma assoalhada"
+
+msgid "Select a subcategory"
+msgstr "Escolher uma subcategoria"
+
+msgid "Select a subtype"
+msgstr "Escolher um subtipo"
+
+msgid "Choose a date"
+msgstr "Escolha uma data"
+
+msgid "Choose an hour"
+msgstr "Escolha um horário"
+
+msgid "Choose a starting hour"
+msgstr "Escolha uma hora de início"
+
+msgid "Choose an ending hour"
+msgstr "Escolha uma hora de fim"
+
+msgid "No reminders today"
+msgstr "Nenhuma notificação hoje"
+
+msgid "Telephone code"
+msgstr "Código telefónico"
+
+msgid "Comment (owner)"
+msgstr "Comentario (Proprietário)"
+
+msgid "Compare"
+msgstr "Comparador"
+
+msgid "Additional"
+msgstr "Complementares"
+
+msgid "Connect to the wifi entering the serial number"
+msgstr "Ligue-se à rede wifi introduzindo o número de série"
+
+msgid "Theta connection failed"
+msgstr "Ligação ao Theta impossível"
+
+msgid "Connecting..."
+msgstr "Ligação em curso ..."
+
+msgid "Wifi connection failed"
+msgstr "Ligação impossível ao wifi"
+
+msgid "Successful connection"
+msgstr "Ligação bem sucedida"
+
+msgid "Keep"
+msgstr "Conservar"
+
+msgid "Additional contact(s)"
+msgstr "Contacto(s) suplementário(s)"
+
+msgid "Contacts (%s)"
+msgstr "Contactos (s%)"
+
+msgid "Contacts/Tenants"
+msgstr "Contactos/Ocupantes"
+
+msgid "Contact details"
+msgstr "Dados de contacto"
+
+msgid "Copied to the clipboard!"
+msgstr "Copiado na área de transferência !"
+
+msgid "Creator"
+msgstr "Criador"
+
+msgid "Create"
+msgstr "Criar"
+
+msgid "Create a contact"
+msgstr "Criar um contacto"
+
+msgid "Create an event"
+msgstr "Criar um evento"
+
+msgid "Create a history"
+msgstr "Criar um histórico"
+
+msgid "Create a new contact"
+msgstr "Criar um novo contacto"
+
+msgid "Create a reminder"
+msgstr "Criar um lembrete"
+
+msgid "Create an appointment"
+msgstr "Criar um compromisso"
+
+msgid "Create a virtual tour with panoramic photos"
+msgstr "Criar uma visita virtual com vista 360°"
+
+msgid "Create a request"
+msgstr "Criar um pedido"
+
+msgid "Received criteria"
+msgstr "Critérios recebidos"
+
+msgid "Starting date"
+msgstr "Data de início"
+
+msgid "Ending date"
+msgstr "Data de fim"
+
+msgid "Associated request"
+msgstr "Pedido associado"
+
+msgid "Received request"
+msgstr "Pedido recebido"
+
+msgid "Last update on"
+msgstr "Última sincronização no"
+
+msgid "Deactivate the extranet"
+msgstr "Desativar a extranet"
+
+msgid "This contact has no history"
+msgstr "Este contacto não tem histórico"
+
+msgid "Home"
+msgstr "Domicílio"
+
+msgid "E-mailing"
+msgstr "E-mailing"
+
+msgid "Text editor"
+msgstr "Editor de texto"
+
+msgid "History editing"
+msgstr "Edição histórico"
+
+msgid "Media editing"
+msgstr "Edição média"
+
+msgid "Photo editing"
+msgstr "Edição de foto"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Invalid email address"
+msgstr "Email inválido"
+
+msgid "This contact has no extranet access"
+msgstr "Este contacto não tem acesso à extranet"
+
+msgid "Are you sure you want to delete this profile?"
+msgstr "Tem a certeza de querer apagar este perfil ?"
+
+msgid "Are you sure you want to delete the document(s)?"
+msgstr "Tem a certeza de querer apagar este(s) documento(s) ?"
+
+msgid "Filter contacts"
+msgstr "Filtrar os contactos"
+
+msgid "Filter by"
+msgstr "Filtrar por"
+
+msgid "End"
+msgstr "Fim"
+
+msgid "Landline"
+msgstr "Fixo"
+
+msgid "Manage profiles"
+msgstr "Gerir os perfis"
+
+msgid "Property group"
+msgstr "Grupo de produto"
+
+msgid "Starting and ending hour"
+msgstr "Hora de ínicio e hora de fim"
+
+msgid "Image is being transferred"
+msgstr "Imagem em transferência"
+
+msgid "Import"
+msgstr "Importer"
+
+msgid "Joint ownership"
+msgstr "Propriedade conjunta / legado"
+
+msgid "Biometric authentication is disabled while sharing the device"
+msgstr "A biometria está desativada com o multi-conta"
+
+msgid "Languages"
+msgstr "Línguas"
+
+msgid ""
+"Ricoh Theta's serial number is under the device, either right or left of the"
+" attachment point."
+msgstr ""
+"O número de série da Ricoh Theta pode ser encontrado na parte inferior do "
+"equipamento. À esquerda ou à direita do ponto de fixação."
+
+msgid "%s downloading failed!"
+msgstr "O descarregamento de %s falhou !"
+
+msgid "E-mail(s) successfully sent"
+msgstr "O(s) mail(s) foram bem enviado(s)."
+
+msgid "Media link"
+msgstr "Link du média"
+
+msgid "Associate with another account"
+msgstr "Ligar com outra conta"
+
+msgid "Link a contact"
+msgstr "Ligar um contacto"
+
+msgid "Put me in copy"
+msgstr "Colocar-me em cópia"
+
+msgid "Please enter your safety code"
+msgstr "Escolha o seu código de segurança"
+
+msgid "Memory full"
+msgstr "Memória cheia"
+
+msgid "My favourites"
+msgstr "Os meus favoritos"
+
+msgid "My documents (%s)"
+msgstr "Os meus documentos (%s)"
+
+msgid "Measure"
+msgstr "Medida"
+
+msgid "Updated on"
+msgstr "Atualizado em"
+
+msgid "Edit contact"
+msgstr "Modificar o contacto"
+
+msgid "Edit event"
+msgstr "Modificar o evento"
+
+msgid "Less fields"
+msgstr "Menos campos"
+
+msgid "My selection"
+msgstr "O meu portefólio"
+
+msgid "Ricoh Theta's password"
+msgstr "Palavra-passe do Ricoh Theta"
+
+msgid "Wrong username or password"
+msgstr "Número ou palavra-passe incorreto"
+
+msgid "Please confirm your safety code"
+msgstr "Confirmar o seu código de segurança"
+
+msgid "Number of"
+msgstr "Número de"
+
+msgid "No"
+msgstr "Não"
+
+msgid "Not documented"
+msgstr "Sem informação"
+
+msgid "Notifications"
+msgstr "Notificações"
+
+msgid "We couldn't find any associated residence"
+msgstr "Não encontrámos nenhuma residência associada"
+
+msgid "New contact"
+msgstr "Novo contacto"
+
+msgid "New attempt"
+msgstr "Nova tentativa"
+
+msgid "Invalid mobile number"
+msgstr "Número de telefone inválido"
+
+msgid "Serial number"
+msgstr "Número de série"
+
+msgid "Ok"
+msgstr "Ok"
+
+msgid "Connection options"
+msgstr "Opção de ligação"
+
+msgid "Property options"
+msgstr "Opção produto"
+
+msgid "Yes"
+msgstr "Sim"
+
+msgid "Open my wifi settings"
+msgstr "Abrir os parâmetros wifi"
+
+msgid "Cart (%s)"
+msgstr "Carrinho (%s)"
+
+msgid "Not now"
+msgstr "Não agora"
+
+msgid "Please wait while the connection is being established"
+msgstr "Espere um momento a ligação com o dispositivo está a decorrer"
+
+msgid "photo(s)"
+msgstr "foto(s)"
+
+msgid "Photos and panoramic photos"
+msgstr "Fotos e vista 360°"
+
+msgid "Connect to a Ricoh Theta"
+msgstr "Ligue-se a um Ricoh Theta"
+
+msgid "Settings and additional preferences"
+msgstr "Preferências e critérios complementares"
+
+msgid "Take a photo"
+msgstr "Tirar uma foto"
+
+msgid "additional property(ies)"
+msgstr "Produto(s) suplementário(s)"
+
+msgid "Publish on the homepage"
+msgstr "Publicar na pagina principal"
+
+msgid "Who is this?"
+msgstr "Quem é ?"
+
+msgid "Advanced search"
+msgstr "Pesquisa avançada"
+
+msgid "Find an address"
+msgstr "Pesquisar uma morada"
+
+msgid "Find a contact"
+msgstr "Pesquisar um contacto"
+
+msgid "Find a category"
+msgstr "Pesquisar uma categoria"
+
+msgid "Ref:"
+msgstr "Ref:"
+
+msgid "Ref: %s"
+msgstr "Re: %s"
+
+msgid "Referrer"
+msgstr "Referente"
+
+msgid "Reorder"
+msgstr "Reordenar"
+
+msgid "Enter your safety code"
+msgstr "Insira o seu código de segurança"
+
+msgid "Add a recipient"
+msgstr "Adição de destinatário"
+
+msgid "Add the subject matter"
+msgstr "Introduzir objecto"
+
+msgid "Add the message subject matter"
+msgstr "Introduzir o objecto da mensagem"
+
+msgid "Add your comment"
+msgstr "Introduzir o seu comentário"
+
+msgid "Add your message"
+msgstr "Introduzir a sua mensagem"
+
+msgid "Screenless"
+msgstr "Sem écrã"
+
+msgid "Connect to the extranet"
+msgstr "Iniciar sessão no extranet"
+
+msgid "Connect to the Ricoh Theta"
+msgstr "Iniciar sessão no Ricoh Theta"
+
+msgid "Second contact"
+msgstr "Segundo contacto"
+
+msgid "Choose photos"
+msgstr "Selecionar as fotos"
+
+msgid ""
+"Choose your Ricoh Theta's connection from the wifi networks list and enter "
+"the password."
+msgstr ""
+"Seleccione o ponto de ligação para o seu Ricoh Theta na lista das suas redes"
+" wifi e introduza a palavra-passe."
+
+msgid "Do you want to carry on shooting?"
+msgstr "Deseja continuar a gravação ?"
+
+msgid "Do you want to delete this associated contact?"
+msgstr "Deseja apagar o contacto associado ?"
+
+msgid "You have made too many attempts"
+msgstr "Fez demasiadas tentativas"
+
+msgid "Delete the account(s) you want"
+msgstr "Apagar a ou as contas que deseja"
+
+msgid ""
+"Delete some from the account managing panel to be able to create new "
+"accounts"
+msgstr "Apagar alguns através da gestão de perfis para adicionar outros"
+
+msgid "Touchscreen"
+msgstr "Tátil"
+
+msgid "You've got no contacts"
+msgstr "Não tem contactos"
+
+msgid "All properties"
+msgstr "Todos os produtos"
+
+msgid "All leads"
+msgstr "Todos os leads"
+
+msgid "Delete all"
+msgstr "Apagar tudo"
+
+msgid "All requests"
+msgstr "Todos os pedidos"
+
+msgid "Property type"
+msgstr "Tipo de bem"
+
+msgid "Area type"
+msgstr "Tipo de assoalhada"
+
+msgid "View type"
+msgstr "Tipo de vista"
+
+msgid "You've got no properties"
+msgstr "Não tem produtos"
+
+msgid "An error occurred!"
+msgstr "Ocorreu um erro !"
+
+msgid "An error occurred while reopening/closing the reminder"
+msgstr "Ocorreu um erro ao fechar o lembrete"
+
+msgid "An error occurred while adding the media"
+msgstr "Ocorreu um erro ao adicionar o média"
+
+msgid "An error occurred while updating the photo order"
+msgstr "Ocorreu um erro ao atualizar a ordem das imagens"
+
+msgid "An error occurred while publishing the photo"
+msgstr "Ocorreu um erro ao publicar a foto"
+
+msgid "An error occurred while deleting the photo"
+msgstr "Ocorreu um erro ao apagar a foto"
+
+msgid "An error occurred while deleting the media"
+msgstr "Ocorreu um erro ao apagar o média"
+
+msgid "An error occurred while sending your email. Please try again later."
+msgstr "Ocorreu um erro para enviar o seu email. Volte a tentar."
+
+msgid "An error occurred, no record could be added!"
+msgstr "Ocorreu um erro, o histórico não pode ser adicionado !"
+
+msgid "An error occurred, record couldn't be updated!"
+msgstr "Ocorreu um erro, o histórico não pode ser atualizado !"
+
+msgid "An error occurred, record couldn't be deleted!"
+msgstr "Ocorreu um erro, o histórico não pode ser apagado !"
+
+msgid "An error occurred, the contact couldn't be updated!"
+msgstr "Ocorreu um erro, o contacto não pode ser atualizado !"
+
+msgid "An error occurred, the property couldn't be updated!"
+msgstr "Ocorreu um erro, o produto não pode ser atualizado !"
+
+msgid "An error occurred, the lead couldn't be updated!"
+msgstr "Ocorreu um erro, o lead não pode ser atualizado !"
+
+msgid "An unknown error occurred, please contact the technical support."
+msgstr "Ocorreu um erro desconhecido, contacte a ajuda técnica."
+
+msgid "Use the password"
+msgstr "Utilizar a palavra-passe"
+
+msgid "Version"
+msgstr "Versão"
+
+msgid "Theta's version is too old"
+msgstr "Versão do Theta muito antiga"
+
+msgid "video(s)"
+msgstr "video(s)"
+
+msgid "Display the results"
+msgstr "Ver os resultados"
+
+msgid "Display everything"
+msgstr "Ver tudo"
+
+msgid "Your room types"
+msgstr "Os seus tipos de assoalhadas"
+
+msgid "Your category"
+msgstr "A sua categoria"
+
+msgid "Your status"
+msgstr "O seu estatuto"
+
+msgid "Your type"
+msgstr "O seu tipo"
+
+msgid "Maximum number of profiles reached"
+msgstr "Número máximo de perfis alcançado"
+
+msgid "Maximum number of failed connection attempts reached"
+msgstr "Excedeu o número de tentativas sem sucesso."
+
+msgid "Direction view"
+msgstr "Vista em direção"
+
+msgid "Panoramic view"
+msgstr "Vista(s) 360"
+
+msgid "Linked project"
+msgstr "Ligar ao programa"
+
+msgid "We couldn't find any agencies"
+msgstr "Não encontrámos a agencia"
+
+msgid "We couldn't find any events"
+msgstr "Não encontrámos eventos"
+
+msgid "We couldn't find any users"
+msgstr "Não encontrámos utilizadores"
+
+msgid "We couldn't find any similar contacts"
+msgstr "Não encontrámos contactos semelhantes"
+
+msgid "We couldn't find any contacts/tenants"
+msgstr "Não encontrámos contactos/ocupantes"
+
+msgid "We couldn't find any matches"
+msgstr "Não encontrámos nenhum cruzamento"
+
+msgid "We couldn't find any requests"
+msgstr "Não encontrámos pedidos"
+
+msgid "We couldn't find any documents"
+msgstr "Não encontrámos nenhum documento"
+
+msgid "We couldn't find any logs"
+msgstr "Não encontrámos nenhum registo"
+
+msgid "We couldn't find any updates"
+msgstr "Não encontrámos nenhuma actualizações"
+
+msgid "We couldn't find any properties"
+msgstr "Não encontrámos os produtos"
+
+msgid "We couldn't find any leads"
+msgstr "Não encontrámos leads"
+
+msgid "We couldn't find any reminders"
+msgstr "Não encontrámos nenhum lembrete"
+
+msgid "We couldn't find any residences"
+msgstr "Não encontrámos nenhuma residências"
+
+msgid "Do you want to delete this media?"
+msgstr "Deseja apagar este média ?"
+
+msgid "Do you want to delete this photo?"
+msgstr "Deseja apagar esta foto ?"
+
+msgid "Do you want to delete the cart content?"
+msgstr "Deseja apagar todo o conteúdo do carrinho ?"
+
+msgid "Validate"
+msgstr "Confirmar"
+
+msgid "Add a media"
+msgstr "Adição du média"
+
+msgid "Stay connected"
+msgstr "Continuar ligado"
+
+msgid "Your phone is not secure"
+msgstr "O seu telefone não é seguro"
+
+msgid "Available soon"
+msgstr "Disponível em breve"
+
+msgid "HD Photo"
+msgstr "HD Photo"
+
+msgid "Automatic mode"
+msgstr "Modo automático"
+
+msgid "Light mode"
+msgstr "Modo claro"
+
+msgid "Dark mode"
+msgstr "Modo escuro"
+
+msgid "The application recovers your device's default appearance"
+msgstr "A aplicação recupera a aparência padrão do seu dispositivo"
+
+msgid "More"
+msgstr "Mais"
+
+msgid "Histories"
+msgstr "Históricos"
+
+msgid "Add a note"
+msgstr "Adicionar uma nota"
+
+msgid "Add a regulation"
+msgstr "Adicionar uma regulamentação"
+
+#, fuzzy
+msgid "Contract end at"
+msgstr ""
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Contrato termina em\n"
+"#-#-#-#-#  apimo-pt_PT.po  #-#-#-#-#\n"
+"Fim do contrato a"
+
+msgid "Incomplete"
+msgstr "Incompleto"
+
+msgid "Required application"
+msgstr "Aplicação obrigatória"
+
+msgid "Company name"
+msgstr "Nome da empresa"
+
+msgid "Export to my contacts"
+msgstr "Exportar para os meus contactos"
+
+msgid "Start"
+msgstr "Iniciar"
+
+msgid "Send by WhatsApp"
+msgstr "Enviar por WhatsApp"
+
+msgid "The selected contact does not have a cell phone"
+msgstr "O contacto selecionado não tem telemóvel"
+
+msgid "None of the selected contacts has an email address"
+msgstr "Nenhum dos contactos seleccionados tem um endereço de e-mail"
+
+msgid "Open"
+msgstr "Abrir"
+
+msgid "Sort"
+msgstr "Ordenar"
+
+msgid "My favorites"
+msgstr "Os meus favoritos"
+
+msgid "Discover the new version of your real estate application"
+msgstr "Descubra a nova versão da sua aplicação imobiliária"
+
+msgid "I already have an account"
+msgstr "Já tenho uma conta"
+
+msgid "Update available"
+msgstr "Atualização disponível"
+
+msgid "Update required"
+msgstr "Atualização necessária"
+
+msgid ""
+"A new version of the application is available. Please update to continue "
+"using all features. You can skip the update again %s times."
+msgstr ""
+"Está disponível uma nova versão da aplicação. Actualize para continuar a "
+"utilizar todas as funcionalidades. Pode saltar a atualização novamente %s "
+"vezes."
+
+msgid ""
+"A new version of the application is required. Please update to continue "
+"using all features."
+msgstr ""
+"É necessária uma nova versão da aplicação. Actualize para continuar a "
+"utilizar todas as funcionalidades."
+
+msgid "Skip"
+msgstr "Saltar"
+
+msgid "Continue"
+msgstr "Continuar"
+
+msgid "Sort and search"
+msgstr "Ordenar e procurar"
+
+msgid ""
+"Quickly find the product that matches your criteria and optimize your "
+"property management."
+msgstr ""
+"Encontre rapidamente o produto que corresponde aos seus critérios e optimize"
+" a sua gestão imobiliária."
+
+msgid "Offline mode"
+msgstr "Modo offline"
+
+msgid ""
+"Keep working, even without an Internet connection. Apimo is designed to be "
+"accessible wherever you are."
+msgstr ""
+"Continue a trabalhar, mesmo sem uma ligação à Internet. O Apimo foi "
+"concebido para estar acessível onde quer que esteja."
+
+msgid "Activate notifications"
+msgstr "Ativar as notificações"
+
+msgid "Receive notifications of your listings and important property events."
+msgstr ""
+"Receba notificações sobre os seus anúncios e eventos imobiliários "
+"importantes."
+
+msgid "Manage notifications"
+msgstr "Gerir as notificações"
+
+msgid "Allow Apimo to send you notifications?"
+msgstr "Autorizar o Apimo a enviar-lhe notificações?"
+
+msgid ""
+"Notifications can include alerts, sounds and icon icons. You can configure "
+"them in Settings."
+msgstr ""
+"As notificações podem incluir alertas, sons e ícones. Pode configurá-las nas"
+" Definições."
+
+msgid "You are now ready to use Apimo"
+msgstr "Está agora pronto para utilizar o Apimo"
+
+msgid ""
+"If you encounter any difficulties, please don't hesitate to contact us. Your"
+" feedback is essential to improve the application."
+msgstr ""
+"Se tiver alguma dificuldade, não hesite em contactar-nos. Os seus "
+"comentários são essenciais para melhorar a aplicação."
+
+msgid "Retake"
+msgstr "Tirar novamente"
+
+msgid "Credit note"
+msgstr "Nota de crédito"
+
+msgid "Unit price"
+msgstr "Preço unitário"
+
+msgid "Total excl. taxes"
+msgstr "Total sem impostos"
+
+msgid "Total incl. taxes"
+msgstr "Total incl. impostos"
+
+msgid "Payment by card"
+msgstr "Pagamento por cartão"
+
+msgid "Payment by check"
+msgstr "Pagamento em cheque"
+
+msgid "Payment by transfer"
+msgstr "Pagamento por transferência"
+
+msgid "Share capital of %s"
+msgstr "Capital social de %s"
+
+msgid "Invoices"
+msgstr "Facturas"
+
+msgid "Product"
+msgstr "Produto"
+
+msgid "Location Map"
+msgstr "Mapa de localização"
+
+msgid "User Detail"
+msgstr "Detalhes do utilizador"
+
+msgid "File size"
+msgstr "Tamanho do ficheiro"
+
+msgid "File title"
+msgstr "Título do ficheiro"
+
+msgid "Region"
+msgstr "Região"
+
+msgid "Bath"
+msgstr "Casa de banho"
+
+msgid "Private Negotiation"
+msgstr "Negociação privada"
+
+msgid "Property specifications"
+msgstr "Especificações do imóvel"
+
+msgid "Energy performance"
+msgstr "Desempenho energético"
+
+msgid "Media Details"
+msgstr "Detalhes do media"
+
+msgid "View Video"
+msgstr "Ver vídeo"
+
+msgid "Start Date"
+msgstr "Data de início"
+
+msgid "End Date"
+msgstr "Data de fim"
+
+msgid "Welcome"
+msgstr "Bem-vindo"
+
+msgid "See What’s happening with Apimo Plugin."
+msgstr "Veja o que está a acontecer com o plugin Apimo."
+
+msgid "PROVIDERS"
+msgstr "FORNECEDORES"
+
+msgid "AGENCIES"
+msgstr "AGÊNCIAS"
+
+msgid "PROPERTIES"
+msgstr "PROPRIEDADES"
+
+msgid "BOOKMARK"
+msgstr "MARCADOR"
+
+msgid "Remove all"
+msgstr "Remover tudo"
+
+msgid "Apply filter"
+msgstr "Aplicar filtro"
+
+msgid "Select Subtype"
+msgstr "Selecionar subtipo"
+
+msgid "Enchère"
+msgstr "Leilão"
+
+msgid "Location"
+msgstr "Aluguer"
+
+msgid "Location saisonnière"
+msgstr "Arrendamento sazonal"
+
+msgid "From"
+msgstr "De"
+
+msgid "To"
+msgstr "Para"
+
+msgid "Dates"
+msgstr "Datas"
+
+msgid "Select country"
+msgstr "Selecionar país"
+
+msgid "Select region"
+msgstr "Selecionar região"
+
+msgid "Select district"
+msgstr "Selecionar distrito"
+
+msgid "Select city"
+msgstr "Selecionar cidade"
+
+msgid "Good"
+msgstr "Bom"
+
+msgid "Bad"
+msgstr "Ruim"
+
+msgid "hello"
+msgstr "hello"
+
+msgid "Available Integrations"
+msgstr "Available Integrations"
+
+msgid "reCAPTCHA Detected"
+msgstr "reCAPTCHA Detected"
+
+msgid "reCAPTCHA Not Detected"
+msgstr "reCAPTCHA Not Detected"
+
+msgid "Google reCAPTCHA Integration"
+msgstr "Google reCAPTCHA Integration"
+
+msgid ""
+"Protect your forms from spam and abuse with Google reCAPTCHA integration."
+msgstr ""
+"Protect your forms from spam and abuse with Google reCAPTCHA integration."
+
+msgid "Activate Integration"
+msgstr "Activate Integration"
+
+msgid "Deactivate Integration"
+msgstr "Deactivate Integration"
+
+msgid "reCAPTCHA Configuration"
+msgstr "reCAPTCHA Configuration"
+
+msgid "Please configure your reCAPTCHA keys below to complete the setup."
+msgstr "Please configure your reCAPTCHA keys below to complete the setup."
+
+msgid "To complete the reCAPTCHA setup:"
+msgstr "To complete the reCAPTCHA setup:"
+
+msgid "Go to the"
+msgstr "Go to the"
+
+msgid "Google reCAPTCHA Admin Console"
+msgstr "Google reCAPTCHA Admin Console"
+
+msgid "Register your site and get your Site Key and Secret Key"
+msgstr "Register your site and get your Site Key and Secret Key"
+
+msgid "Enter the keys below to activate reCAPTCHA"
+msgstr "Enter the keys below to activate reCAPTCHA"
+
+msgid "reCAPTCHA is configured properly."
+msgstr "reCAPTCHA is configured properly."
+
+msgid "Site Key"
+msgstr "Site Key"
+
+msgid "Secret Key"
+msgstr "Secret Key"
+
+msgid "Save Configuration"
+msgstr "Save Configuration"
+
+msgid "Contact Form"
+msgstr "Contact Form"
+
+msgid "Invalid format"
+msgstr "Invalid format"
+
+msgid "This field is required"
+msgstr "This field is required"
+
+msgid "Invalid email format"
+msgstr "Invalid email format"
+
+msgid "Please use reCAPTCHA version 3"
+msgstr "Please use reCAPTCHA version 3"

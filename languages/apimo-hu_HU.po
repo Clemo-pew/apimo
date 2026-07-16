@@ -1,0 +1,4860 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"\"\"Language: hu_HU\n"
+"X-Generator: Poedit 3.4.1\n"
+
+msgid "Reminder"
+msgstr "Emlékeztető"
+
+msgid "Suggestion"
+msgstr "Tanács"
+
+msgid "Report"
+msgstr "Jelentés"
+
+msgid "Other"
+msgstr "Egyéb"
+
+#, fuzzy
+msgid "Valuation"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"Becslés\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"Értékbecslés\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"Értékelés"
+
+#, fuzzy
+msgid "Advertising"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"Reklám\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"Reklám\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"Reklámok"
+
+msgid "Open House"
+msgstr "Nyílt nap"
+
+msgid "Canvassing"
+msgstr "Házalás"
+
+msgid "Message"
+msgstr "Üzenet"
+
+msgid "After-sales"
+msgstr "Vásárlás utáni szolgáltatás"
+
+msgid "Visit"
+msgstr "Látogatás - Körbevezetés"
+
+#, fuzzy
+msgid "Appointment"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"Időpont\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"Megbeszélés"
+
+msgid "Phone"
+msgstr "Telefon"
+
+msgid "e-mail"
+msgstr "E-mail"
+
+msgid "Fax"
+msgstr "Fax"
+
+msgid "Mail"
+msgstr "Levél"
+
+msgid "SMS"
+msgstr "SMS"
+
+msgid "Walk-in"
+msgstr "Besétált"
+
+msgid "Extranet"
+msgstr "Extranet"
+
+msgid "Project"
+msgstr "Projekt"
+
+msgid "Under construction"
+msgstr "Építés alatt"
+
+msgid "Delivered"
+msgstr "Átadott"
+
+msgid "Ended"
+msgstr "Befejeződött"
+
+msgid "Canceled"
+msgstr "Visszavont"
+
+msgid "Mr."
+msgstr "Úr"
+
+msgid "Ms."
+msgstr "Hölgy"
+
+msgid "Mr. & Mrs."
+msgstr "Úr és Hölgy"
+
+msgid "Sheik"
+msgstr "Sejk"
+
+msgid "Duke"
+msgstr "Herceg"
+
+msgid "Duchess"
+msgstr "Hercegnő"
+
+msgid "Lord"
+msgstr "Fejedelem"
+
+msgid "Maître"
+msgstr "dr."
+
+msgid "Professor"
+msgstr "Pr."
+
+msgid "Sir"
+msgstr "Sir"
+
+msgid "Regulations"
+msgstr "Szabályzat"
+
+msgid "AML/KYC Vendor"
+msgstr "AML/KYC Vendor"
+
+msgid "AML/KYC Buyer"
+msgstr "AML/KYC Buyer"
+
+msgid "Concierge"
+msgstr "Szállodaportás"
+
+msgid "Contact"
+msgstr "Kapcsolat"
+
+#, fuzzy
+msgid "Search"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"További információk\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"Keresés"
+
+msgid "Owner"
+msgstr "Tulajdonos"
+
+#, fuzzy
+msgid "e-mail alert"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"E-mail riasztás\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"E-mail értesítés"
+
+msgid "Send to a friend"
+msgstr "Elküldés egy barátnak"
+
+msgid "Newsletter"
+msgstr "Hírlevél"
+
+#, fuzzy
+msgid "Selection"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"Választás\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"Választék"
+
+msgid "New"
+msgstr "Új"
+
+msgid "Opened"
+msgstr "Nyitott"
+
+msgid "Processing"
+msgstr "Feldolgozás alatt"
+
+msgid "Closed"
+msgstr "Lezárt"
+
+msgid "Self-employed"
+msgstr "Vállalkozó"
+
+msgid "Bakery"
+msgstr "Pékség"
+
+msgid "Restaurant"
+msgstr "Étterem"
+
+msgid "Press"
+msgstr "Sajtó"
+
+msgid "Bar"
+msgstr "Bár"
+
+msgid "Florist"
+msgstr "Virágbolt"
+
+msgid "Tobacconist"
+msgstr "Dohánybolt"
+
+msgid "Clothes"
+msgstr "Ruhabolt"
+
+msgid "Chemist"
+msgstr "Gyógyszertár"
+
+msgid "Shopping centre"
+msgstr "Bevásárlóközpont"
+
+msgid "Travel agency"
+msgstr "Utazási iroda"
+
+msgid "Real estate agent"
+msgstr "Ingatlanügynök"
+
+msgid "Gallery"
+msgstr "Galéria"
+
+msgid "Garage"
+msgstr "Garázs"
+
+msgid "Insurer"
+msgstr "Biztosító"
+
+msgid "Optician"
+msgstr "Optikus"
+
+msgid "Perfumery"
+msgstr "Parfümüzlet"
+
+msgid "Hotel"
+msgstr "Hotel"
+
+msgid "Antique dealer"
+msgstr "Antik kereskedés"
+
+msgid "Laundry"
+msgstr "Mosoda"
+
+msgid "Pressing"
+msgstr "Fémmunka"
+
+msgid "Jeweller"
+msgstr "Ékszerüzlet"
+
+msgid "Grocer"
+msgstr "Élelmiszerüzlet"
+
+msgid "Butcher"
+msgstr "Hentes"
+
+msgid "Caterer"
+msgstr "Vendéglátó"
+
+msgid "Brewery"
+msgstr "Sörfőzde"
+
+msgid "Snack"
+msgstr "Rágcsálnivaló"
+
+msgid "Confectioner"
+msgstr "Cukrászda"
+
+msgid "Pork butcher"
+msgstr "Hentes (sertés)"
+
+msgid "Grocery"
+msgstr "Szatócsbolt"
+
+msgid "Cheesemonger"
+msgstr "Sajtok"
+
+msgid "Fruit and vegetables"
+msgstr "Zöldség és gyümölcs"
+
+msgid "Sex shop"
+msgstr "Szexshop"
+
+msgid "Video game"
+msgstr "Videójátékok"
+
+msgid "Computer"
+msgstr "Számítástechnika"
+
+msgid "Hairdresser"
+msgstr "Fodrász"
+
+msgid "Cosmetician"
+msgstr "Kozmetikus"
+
+msgid "Household electrical"
+msgstr "Háztartási gépek"
+
+msgid "Shoes"
+msgstr "Cipők"
+
+msgid "Haberdasher"
+msgstr "Rövidáru, lakástextil"
+
+msgid "Groomer"
+msgstr "Kutyakozmetika"
+
+msgid "Tea room"
+msgstr "Teázó"
+
+msgid "Beach"
+msgstr "Strand"
+
+msgid "Bookshop"
+msgstr "Könyvesbolt"
+
+msgid "Offices"
+msgstr "Irodák"
+
+msgid "Gas station"
+msgstr "Benzinkút"
+
+msgid "Camping"
+msgstr "Kemping"
+
+msgid "Nightclub"
+msgstr "Szórakozóhely"
+
+msgid "Pet store"
+msgstr "Állatkereskedés"
+
+msgid "Video arcade"
+msgstr "Játékterem"
+
+msgid "Office supplies"
+msgstr "Irodai kellékek"
+
+msgid "Furniture"
+msgstr "Bútorbolt"
+
+#, fuzzy
+msgid "Decoration"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"Dekorációk\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"Dekoráció"
+
+msgid "Agriculture"
+msgstr "Mezőgazdasági szaküzlet"
+
+msgid "Photo"
+msgstr "Fényképészet"
+
+msgid "Drugstore"
+msgstr "Drogéria"
+
+msgid "Locksmith"
+msgstr "Lakatos"
+
+msgid "Health club"
+msgstr "Fitneszközpont"
+
+msgid "Taxi"
+msgstr "Taxi"
+
+#, fuzzy
+msgid "Cinema"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"Mozi\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"Házimozi"
+
+msgid "Theater"
+msgstr "Színház"
+
+msgid "Café"
+msgstr "Kávézó"
+
+msgid "Garden centre"
+msgstr "Kertészet"
+
+msgid "Hardware shop"
+msgstr "Szerszámüzlet"
+
+msgid "Fishmongers"
+msgstr "Halbolt"
+
+msgid "Sport supplies"
+msgstr "Sportfelszerelések"
+
+msgid "Bedroom"
+msgstr "Hálószoba"
+
+msgid "Living-room"
+msgstr "Nappali"
+
+msgid "Kitchen"
+msgstr "Konyha"
+
+msgid "Parking"
+msgstr "Parkoló"
+
+#, fuzzy
+msgid "Cellar"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"Pince\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"Zöldségeskamra"
+
+msgid "Garden shelter"
+msgstr "Fedett kerthelyiség"
+
+msgid "Bathroom"
+msgstr "Fürdőszoba"
+
+msgid "Laundry room"
+msgstr "Mosószoba"
+
+msgid "Study"
+msgstr "Dolgozószoba"
+
+msgid "Hallway"
+msgstr "Előszoba"
+
+msgid "Corridor"
+msgstr "Folyosó"
+
+msgid "Shower room"
+msgstr "Zuhanyzó"
+
+msgid "Walk-in wardrobe"
+msgstr "Gardróbszoba"
+
+msgid "Entrance"
+msgstr "Bejárat"
+
+msgid "Lavatory"
+msgstr "Mosdó"
+
+msgid "Veranda"
+msgstr "Veranda"
+
+msgid "Terrace"
+msgstr "Terasz"
+
+msgid "Solarium"
+msgstr "Szolárium"
+
+msgid "Living room/dining area"
+msgstr "Nappali/étkező"
+
+msgid "Play room"
+msgstr "Játékszoba"
+
+msgid "Dining room"
+msgstr "Étkező"
+
+msgid "Pool house"
+msgstr "Medenceparti melléképület"
+
+msgid "Cupboard"
+msgstr "Szekrény"
+
+msgid "Not used"
+msgstr "Nem használt"
+
+msgid "Loggia"
+msgstr "Loggia"
+
+msgid "Attic"
+msgstr "Padlás"
+
+msgid "Mezzanine"
+msgstr "Félemelet"
+
+msgid "Pantry"
+msgstr "Zöldségeskamra"
+
+msgid "Maintenance room"
+msgstr "Karbantartó helyiség"
+
+msgid "Workshop"
+msgstr "Műhely"
+
+msgid "Studio"
+msgstr "Stúdió"
+
+#, fuzzy
+msgid "Loft"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"Padlástér\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"Loft"
+
+msgid "Library"
+msgstr "Könyvtár"
+
+msgid "Closet"
+msgstr "Gardrób"
+
+msgid "Courtyard"
+msgstr "Udvar"
+
+msgid "Landing"
+msgstr "Lépcsőpihenő"
+
+msgid "Linen room"
+msgstr "Ágyneműtároló szoba"
+
+msgid "Basement"
+msgstr "Alagsor"
+
+msgid "Bathroom / Lavatory"
+msgstr "Fürdőszoba / Mellékhelyiség"
+
+msgid "Shower room / Lavatory"
+msgstr "Zuhanyzó / Mellékhelyiség"
+
+msgid "Balcony"
+msgstr "Erkély"
+
+msgid "Exercise room"
+msgstr "Edzőszoba"
+
+msgid "Discothèque"
+msgstr "Discoszoba"
+
+msgid "Home cinema"
+msgstr "Házimozi"
+
+msgid "Reception room"
+msgstr "Fogadószoba"
+
+msgid "Storage room"
+msgstr "Tárolószoba"
+
+msgid "Garden"
+msgstr "Kert"
+
+msgid "Park"
+msgstr "Park"
+
+#, fuzzy
+msgid "Land"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"Föld\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"Telek"
+
+msgid "Patio"
+msgstr "Belső udvar"
+
+msgid "Principal bedroom"
+msgstr "Mester hálószoba"
+
+msgid "Suite"
+msgstr "Lakosztály"
+
+msgid "Shed"
+msgstr "Garázsépület"
+
+#, fuzzy
+msgid "Apartment"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"Apartman\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"Lakás\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"Apartman"
+
+msgid "Cabin"
+msgstr "Kabin"
+
+#, fuzzy
+msgid "Barn"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"Istálló\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"Pajta"
+
+msgid "Outbuilding"
+msgstr "Melléképület"
+
+msgid "Bike storage room"
+msgstr "Biciklitároló szoba"
+
+msgid "Ski storage room"
+msgstr "Sífelszerelés tároló szoba"
+
+msgid "Garbage room"
+msgstr "Hulladéktároló szoba"
+
+msgid "Steam room"
+msgstr "Török fürdő"
+
+msgid "Indoor swimming pool"
+msgstr "Beltéri úszómedence"
+
+msgid "Prayer room"
+msgstr "Imaszoba"
+
+msgid "Sauna"
+msgstr "Szauna"
+
+msgid "Watchtower"
+msgstr "Őrtorony"
+
+msgid "Room"
+msgstr "Szoba"
+
+msgid "Meeting room"
+msgstr "Tárgyaló"
+
+msgid "Maid's room"
+msgstr "Cselédszoba"
+
+msgid "Maid's studio"
+msgstr "Cselédszoba-konyha"
+
+msgid "Double reception room"
+msgstr "Dupla fogadószoba"
+
+msgid "Triple reception room"
+msgstr "Tripla fogadószoba"
+
+msgid "Indoor parking"
+msgstr "Beltéri parkoló"
+
+msgid "Outdoor parking"
+msgstr "Kültéri parkoló"
+
+msgid "Stockroom"
+msgstr "Élelmiszerraktár"
+
+msgid "Shop"
+msgstr "Bolt"
+
+msgid "Cafeteria"
+msgstr "Kávézó"
+
+#, fuzzy
+msgid "Unit"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"Telek\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"Relkek"
+
+msgid "Warehouse"
+msgstr "Raktár"
+
+msgid "Accommodation"
+msgstr "Szálláshely"
+
+msgid "Arcade"
+msgstr "Árkád"
+
+msgid "House"
+msgstr "Ház"
+
+msgid "Stair"
+msgstr "Lépcső"
+
+#, fuzzy
+msgid "Box"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"Dobozház\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"Garázs"
+
+msgid "Single"
+msgstr "Szimpla"
+
+msgid "Twin"
+msgstr "Ikerház"
+
+msgid "Twin by garage"
+msgstr "Garázs mentén ikerház"
+
+#, fuzzy
+msgid "Village house"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"Falusi ház\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"Paraszt ház"
+
+msgid "Twin by angle"
+msgstr "Szög mentén ikerház"
+
+msgid "Ranged"
+msgstr "Sorház"
+
+msgid "Standard"
+msgstr "Standard"
+
+msgid "Co-exclusive"
+msgstr "Részben exkluzív"
+
+msgid "Exclusive"
+msgstr "Exkluzív"
+
+msgid "Delegation"
+msgstr "Delegált"
+
+msgid "Exclusive agent"
+msgstr "Exkluzív ügynök"
+
+msgid "Colleague"
+msgstr "Kolléga"
+
+#, fuzzy
+msgid "Free"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"Szabad\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"Ingyen"
+
+msgid "Rented"
+msgstr "Bérelve"
+
+msgid "Occupied"
+msgstr "Foglalt"
+
+msgid "Building"
+msgstr "Épület"
+
+msgid "Residence"
+msgstr "Rezidencia"
+
+msgid "Housing scheme"
+msgstr "Kiosztás"
+
+msgid "Hamlet"
+msgstr "Falusi ház"
+
+msgid "Domain"
+msgstr "Terület"
+
+#, fuzzy
+msgid "Property"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"Ingatlan\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"Birtok\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"Ingatlan"
+
+#, fuzzy
+msgid "Street"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"Út / Utca …\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"Utca"
+
+msgid "Sale"
+msgstr "Értékesítés"
+
+#, fuzzy
+msgid "Rental"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"Bérlet\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"Bérlés"
+
+msgid "Seasonal rental"
+msgstr "Szezonális bérlet"
+
+msgid "Development"
+msgstr "Fejlesztés"
+
+msgid "Life annuity"
+msgstr "Életjáradék"
+
+msgid "Auction"
+msgstr "Árverés"
+
+msgid "Unit sale"
+msgstr "Egységes értékesítés"
+
+msgid "Bulk sale"
+msgstr "Tömbösített értékesítés"
+
+msgid "Unfurnished"
+msgstr "Bútorozatlan"
+
+#, fuzzy
+msgid "Furnished"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"Bútorozott\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"Bútorozott\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"Berendezett"
+
+msgid "Roommate"
+msgstr "Szobatárs"
+
+msgid "Student"
+msgstr "Tanuló"
+
+msgid "Holidays"
+msgstr "Szabadságok"
+
+msgid "Event"
+msgstr "Esemény"
+
+msgid "New construction"
+msgstr "Új építkezés"
+
+msgid "Life annuity occupied"
+msgstr "Foglalt életjáradék"
+
+msgid "Bare Ownership"
+msgstr "Csak birtoklási jog"
+
+msgid "Forward sale"
+msgstr "Előre értékesítés"
+
+msgid "Life annuity semi-occupied"
+msgstr "Félig foglalt életjáradék"
+
+msgid "Forward sale available"
+msgstr "Lehetséges előre értékesítés"
+
+msgid "Forward sale semi-occupied"
+msgstr "Félig foglalt előre értékesítés"
+
+msgid "Forward sale occupied"
+msgstr "Foglalt előre értékesítés"
+
+msgid "Life annuity without income"
+msgstr "Bevétel nélküli életjáradék"
+
+msgid "Requires updating"
+msgstr "Felülviszgálat szükséges"
+
+msgid "Good condition"
+msgstr "Jó állapotú"
+
+msgid "Requires renovation"
+msgstr "Felújítás szükséges"
+
+msgid "Excellent condition"
+msgstr "Kiváló állapotú"
+
+msgid "Ground floor"
+msgstr "Földszint"
+
+msgid "Top floor"
+msgstr "Legfelső emelet"
+
+msgid "1st"
+msgstr "1."
+
+msgid "2nd"
+msgstr "2."
+
+msgid "3rd"
+msgstr "3."
+
+msgid "4th"
+msgstr "4."
+
+msgid "5th"
+msgstr "5."
+
+msgid "6th"
+msgstr "6."
+
+msgid "7th"
+msgstr "7."
+
+msgid "8th"
+msgstr "8."
+
+msgid "9th"
+msgstr "9."
+
+msgid "10th"
+msgstr "10."
+
+msgid "11th"
+msgstr "11."
+
+msgid "12th"
+msgstr "12."
+
+msgid "13th"
+msgstr "13."
+
+msgid "14th"
+msgstr "14."
+
+msgid "15th"
+msgstr "15."
+
+msgid "16th"
+msgstr "16."
+
+msgid "17th"
+msgstr "17."
+
+msgid "18th"
+msgstr "18."
+
+msgid "19th"
+msgstr "19."
+
+msgid "20th"
+msgstr "20."
+
+msgid "Garden level"
+msgstr "Kertszint"
+
+msgid "Split-level"
+msgstr "Félemelet"
+
+msgid "-1"
+msgstr "-1"
+
+msgid "-2"
+msgstr "-2"
+
+msgid "-3"
+msgstr "-3"
+
+msgid "-4"
+msgstr "-4"
+
+msgid "Single-storey"
+msgstr "Egyszintes"
+
+msgid "21st"
+msgstr "21."
+
+msgid "22nd"
+msgstr "22."
+
+msgid "23rd"
+msgstr "23."
+
+msgid "24th"
+msgstr "24."
+
+msgid "25th"
+msgstr "25."
+
+msgid "26th"
+msgstr "26."
+
+msgid "27th"
+msgstr "27."
+
+msgid "28th"
+msgstr "28."
+
+msgid "29th"
+msgstr "29."
+
+msgid "30th"
+msgstr "30."
+
+msgid "31st"
+msgstr "31."
+
+msgid "32nd"
+msgstr "32."
+
+msgid "33rd"
+msgstr "33."
+
+msgid "34th"
+msgstr "34."
+
+msgid "35th"
+msgstr "35."
+
+msgid "36th"
+msgstr "36."
+
+msgid "37th"
+msgstr "37."
+
+msgid "38th"
+msgstr "38."
+
+msgid "39th"
+msgstr "39."
+
+msgid "40th"
+msgstr "40."
+
+msgid "-5"
+msgstr "-5"
+
+msgid "-6"
+msgstr "-6"
+
+msgid "-7"
+msgstr "-7"
+
+msgid "-8"
+msgstr "-8"
+
+msgid "-9"
+msgstr "-9"
+
+msgid "-10"
+msgstr "-10"
+
+msgid "41st"
+msgstr "41."
+
+msgid "42nd"
+msgstr "42."
+
+msgid "43rd"
+msgstr "43."
+
+msgid "44th"
+msgstr "44."
+
+msgid "45th"
+msgstr "45."
+
+msgid "46th"
+msgstr "46."
+
+msgid "47th"
+msgstr "47."
+
+msgid "48th"
+msgstr "48."
+
+msgid "49th"
+msgstr "49."
+
+msgid "50th"
+msgstr "50."
+
+msgid "51st"
+msgstr "51"
+
+msgid "52nd"
+msgstr "52"
+
+msgid "53rd"
+msgstr "53"
+
+msgid "54th"
+msgstr "54"
+
+msgid "55th"
+msgstr "55"
+
+msgid "56th"
+msgstr "56"
+
+msgid "57th"
+msgstr "57"
+
+msgid "58th"
+msgstr "58"
+
+msgid "59th"
+msgstr "59"
+
+msgid "60th"
+msgstr "60"
+
+msgid "Wooden floor"
+msgstr "Parketta"
+
+msgid "Tile"
+msgstr "Csempe"
+
+msgid "Carpet"
+msgstr "Szőnyeg"
+
+msgid "Concrete"
+msgstr "Beton"
+
+msgid "Natural fiber"
+msgstr "Természetes rost"
+
+msgid "Coco"
+msgstr "Kókusz"
+
+msgid "Travertine"
+msgstr "Mészkő"
+
+msgid "Marble"
+msgstr "Márvány"
+
+msgid "Granite"
+msgstr "Gránit"
+
+msgid "Terracotta tile"
+msgstr "Terrakotta csempe"
+
+msgid "Teak"
+msgstr "Tikfa"
+
+msgid "Mosaïc"
+msgstr "Mozaik"
+
+msgid "Clay"
+msgstr "Agyag"
+
+msgid "Stone"
+msgstr "Kő"
+
+msgid "Laminate"
+msgstr "Laminált parketta"
+
+msgid "Vinyl composition tile"
+msgstr "Vinyl/PVC"
+
+msgid "Convector"
+msgstr "Konvektor"
+
+msgid "Underfloor"
+msgstr "Padlófűtés"
+
+msgid "Radiator"
+msgstr "Radiátor"
+
+#, fuzzy
+msgid "Stove"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"Kályha\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"Tűzhely"
+
+#, fuzzy
+msgid "Air-conditioning"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"Légkondícionálás\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"Légkondícionáló"
+
+msgid "Central"
+msgstr "Központi"
+
+msgid "Fireplace"
+msgstr "Kandalló"
+
+msgid "Individual"
+msgstr "Egyéni"
+
+msgid "Common"
+msgstr "Közös"
+
+msgid "Mixed"
+msgstr "Kevert"
+
+msgid "District heating"
+msgstr "Kerületi fűtés"
+
+msgid "Gas"
+msgstr "Gáz"
+
+msgid "Fuel oil"
+msgstr "Üzemanyag"
+
+msgid "Electric"
+msgstr "Elektromos"
+
+msgid "Wood"
+msgstr "Fa"
+
+msgid "Solar"
+msgstr "Napenergia"
+
+msgid "Charcoal"
+msgstr "Faszén"
+
+msgid "Heat pump"
+msgstr "Hőszivattyú"
+
+msgid "Geothermal"
+msgstr "Geotermikus"
+
+msgid "Wood pellet"
+msgstr "Fa pellet"
+
+#, fuzzy
+msgid "Hot water"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"Forró víz\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"Melegvíz"
+
+msgid "Hot water tank"
+msgstr "Forró víztartály"
+
+msgid "Boiler"
+msgstr "Bojler"
+
+msgid "Collective"
+msgstr "Közös"
+
+msgid "Flat"
+msgstr "Sík"
+
+msgid "Dry-stone wall terraces"
+msgstr "Száraz kőfal terasz"
+
+msgid "Steep"
+msgstr "Meredek"
+
+msgid "Wooded"
+msgstr "Erdős"
+
+msgid "Meadow"
+msgstr "Tisztás"
+
+msgid "Term lease"
+msgstr "Bizonytalan hosszúságú"
+
+msgid "Long-Term"
+msgstr "Hosszútávú"
+
+msgid "Long-Term - Single activity"
+msgstr "Hosszútávú - egy tevékenység"
+
+msgid "Long-Term - All activities"
+msgstr "Hosszútávú - összes tevékenység"
+
+msgid "Seaside"
+msgstr "Tengerpart"
+
+msgid "Village"
+msgstr "Falu"
+
+msgid "Old town"
+msgstr "Óváros"
+
+msgid "Precinct"
+msgstr "Sétálóövezet"
+
+msgid "Ski slope"
+msgstr "Sípálya"
+
+msgid "Town center"
+msgstr "Városközpont"
+
+msgid "Industrial estate"
+msgstr "Ipartelep"
+
+msgid "Shopping center"
+msgstr "Bevásárlóközpont"
+
+msgid "Business park"
+msgstr "Üzleti park"
+
+msgid "Airport area"
+msgstr "Reptéri terület"
+
+msgid "Science park"
+msgstr "Tudományos park"
+
+msgid "Port area"
+msgstr "Kikötő"
+
+msgid "Outskirts"
+msgstr "Külváros"
+
+msgid "Hills"
+msgstr "Domboldal"
+
+msgid "Waterfront"
+msgstr "Vízpart"
+
+msgid "Countryside"
+msgstr "Vidék"
+
+msgid "Suburb"
+msgstr "Kertváros"
+
+msgid "East"
+msgstr "Kelet"
+
+msgid "North"
+msgstr "Észak"
+
+msgid "West"
+msgstr "Nyugat"
+
+msgid "South"
+msgstr "Dél"
+
+msgid "Day"
+msgstr "Nap"
+
+msgid "Week"
+msgstr "Hét"
+
+msgid "Fortnight"
+msgstr "Két hét"
+
+msgid "Month"
+msgstr "Hónap"
+
+msgid "Quarterly"
+msgstr "Negyedéves"
+
+msgid "Bimonthly"
+msgstr "Két hónapos"
+
+msgid "Half-yearly"
+msgstr "Féléves"
+
+msgid "Yearly"
+msgstr "Éves"
+
+msgid "Bus"
+msgstr "Busz"
+
+msgid "Bus hub"
+msgstr "Buszpályaudvar"
+
+msgid "Metro"
+msgstr "Metró"
+
+msgid "Shops"
+msgstr "Boltok"
+
+msgid "Primary school"
+msgstr "Általános iskola"
+
+msgid "Town centre"
+msgstr "Városközpont"
+
+msgid "Hospital/clinic"
+msgstr "Kórház/rendelő"
+
+msgid "Doctor"
+msgstr "Orvos"
+
+msgid "Tram"
+msgstr "Villamos"
+
+msgid "Train station"
+msgstr "Vasútállomás"
+
+msgid "Public parking"
+msgstr "Nyilvános parkoló"
+
+msgid "Supermarket"
+msgstr "Szupermarket"
+
+msgid "Sea port"
+msgstr "Kikötő"
+
+msgid "Nursery"
+msgstr "Napközi"
+
+msgid "Public pool"
+msgstr "Uszoda"
+
+msgid "Tennis"
+msgstr "Teniszpálya"
+
+msgid "Golf"
+msgstr "Golfpálya"
+
+msgid "Movies"
+msgstr "Mozi"
+
+msgid "Secondary school"
+msgstr "Középiskola"
+
+msgid "Sport center"
+msgstr "Sportcentrum"
+
+msgid "Airport"
+msgstr "Repülőtér"
+
+msgid "Sea"
+msgstr "Tenger"
+
+msgid "TGV station"
+msgstr "TGV-állomás"
+
+msgid "Highway"
+msgstr "Autópálya"
+
+msgid "University"
+msgstr "Egyetem"
+
+msgid "Convention center"
+msgstr "Kongresszusi központ"
+
+msgid "Lake"
+msgstr "Tó"
+
+msgid "On main road"
+msgstr "Főút mentén"
+
+msgid "Energy - Conventional consumption"
+msgstr "Energia - hagyományos fogyasztás"
+
+msgid "Energy - Emissions estimate"
+msgstr "Energia - becsült kibocsátás"
+
+msgid "« Carrez » act"
+msgstr "« Carrez » törvény"
+
+msgid "ERP"
+msgstr "ERP"
+
+msgid "Termites"
+msgstr "Termeszek"
+
+msgid "Asbestos"
+msgstr "Azbeszt"
+
+#, fuzzy
+msgid "Lead"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"Ólom\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"Ólom\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"Vezérfonal"
+
+msgid "Electricity"
+msgstr "Elektromosság"
+
+msgid "Boutin act"
+msgstr "Boutin-törvény"
+
+msgid "Sanitation"
+msgstr "Higiénia"
+
+msgid "EPI (Non renewable)"
+msgstr "Indice Prestazione Energetica (EPI)"
+
+msgid "APE"
+msgstr "APE"
+
+msgid "Request for nomination of an ad hoc agent"
+msgstr "Ad hoc ügynök megbízására vonatkozó kérelem"
+
+msgid "Request for nomination of a temporary administrator"
+msgstr "Ideiglenes adminisztrátor megbízására vonatkozó kérelem"
+
+msgid "Request for expert nomination"
+msgstr "Szakértő megbízására vonatkozó kérelem"
+
+msgid "Fire safety regulations"
+msgstr "Tűzbiztonsági előírások"
+
+msgid "Accessibility standards for people with disabilities"
+msgstr "Akadálymentesítési előírások"
+
+msgid "Sanitary authorization"
+msgstr "Higiéniai előírások"
+
+msgid "Energy consumption"
+msgstr "Energiafelhasználás"
+
+msgid "Land charges"
+msgstr "Telekdíjak"
+
+msgid "Residents only"
+msgstr "Fenntartás lakók számára"
+
+msgid "Property tax (IPTU)"
+msgstr "IPTU"
+
+msgid "Minergie"
+msgstr "Minergie"
+
+msgid "Volume"
+msgstr "Hangerő"
+
+msgid "Useful surface"
+msgstr "Hasznos alapterület"
+
+msgid "Co-Ownership property"
+msgstr "Közös tulajdon"
+
+msgid "Communal tax rate"
+msgstr "Kommunális adó mértéke"
+
+msgid "Land register extract number"
+msgstr "Nincs földhivatali nyilvántartás"
+
+msgid "Droit de superficie"
+msgstr "Building rights"
+
+msgid "Millièmes"
+msgstr "Ezrelék"
+
+msgid "Housing tax"
+msgstr "Építményadó"
+
+msgid "PPE budget"
+msgstr "Budget PPE"
+
+msgid "Current renovation fund"
+msgstr "Jelenlegi felújítási alap"
+
+msgid "Plot ratio"
+msgstr "Coefficient d’utilisation du sol"
+
+msgid "Occupancy ratio"
+msgstr "Coefficient d’occupation au sol"
+
+msgid "Ground footprint coefficient"
+msgstr "Coefficient d’emprise au sol"
+
+msgid "Priority period CCH L443-11"
+msgstr "Délai de priorité CCH L443-11"
+
+msgid "Plot division / Demarcation"
+msgstr "Division parcellaire / Bornage"
+
+msgid "Board of directors / supervisory deliberation"
+msgstr "Délibération conseil d’administration/surveillance"
+
+msgid "Certificate of compliance"
+msgstr "Certificat de conformité"
+
+msgid "Energy class"
+msgstr "Energiaosztály"
+
+msgid "Thermal insulation class"
+msgstr "Hőszigetelési osztályzat"
+
+msgid "Greenhouse Gas"
+msgstr "Üvegházi gázkibocsátás"
+
+msgid "Energy passport"
+msgstr "Energiatanúsítvány"
+
+msgid "Emissions estimate"
+msgstr "becsült kibocsátás"
+
+msgid "Rental value"
+msgstr "Bérlési érték"
+
+msgid "Rental reference index"
+msgstr "Bérleti díjak referencia indexe"
+
+msgid "Turnover"
+msgstr "Forgalom"
+
+msgid "Net income"
+msgstr "Nettó jövedelem"
+
+msgid "Gross operating profit"
+msgstr "Bruttó üzemi eredmény"
+
+msgid "Personnel costs"
+msgstr "Személyi jellegű ráfordítások"
+
+msgid "Cash flow"
+msgstr "Pénzáram"
+
+msgid "Shareholders’equity"
+msgstr "Saját tőke"
+
+msgid "Net debt"
+msgstr "Nettó adósság"
+
+msgid "Internet"
+msgstr "Internet"
+
+msgid "Disabled access"
+msgstr "Akadálymentesített megközelítés"
+
+msgid "Alarm system"
+msgstr "Riasztórendszer"
+
+msgid "Lift"
+msgstr "Lift"
+
+msgid "Caretaker"
+msgstr "Gondnok"
+
+msgid "Double glazing"
+msgstr "Dupla üvegezés"
+
+msgid "Intercom"
+msgstr "Kapucsengő"
+
+msgid "TV distribution"
+msgstr "Kábeltévé"
+
+msgid "Swimming pool"
+msgstr "Úszómedence"
+
+msgid "Security door"
+msgstr "Biztonsági ajtó"
+
+msgid "Tennis court"
+msgstr "Teniszpálya"
+
+msgid "Irrigation sprinkler"
+msgstr "Locsolórendszer"
+
+msgid "Barbecue"
+msgstr "Barbecue"
+
+msgid "Electric gate"
+msgstr "Elektromos kapu"
+
+msgid "Car port"
+msgstr "Gépkocsibeálló"
+
+msgid "Caretaker house"
+msgstr "Gondnokház"
+
+msgid "Sliding windows"
+msgstr "Elhúzható ablakok"
+
+msgid "Central vacuum system"
+msgstr "Központi vákumrendszer"
+
+msgid "Electric shutters"
+msgstr "Elektromos redőnyök"
+
+msgid "Window shade"
+msgstr "Leárnyékolt ablakok"
+
+msgid "Electric awnings"
+msgstr "Elektromos ponyvatető"
+
+msgid "Washing machine"
+msgstr "Mosógép"
+
+msgid "Jacuzzi"
+msgstr "Pezsgőfürdő"
+
+msgid "Whirlpool tub"
+msgstr "Hidromasszázs kád"
+
+msgid "Well"
+msgstr "Kút"
+
+msgid "Spring"
+msgstr "Forrás"
+
+msgid "Engine generator"
+msgstr "Generátor"
+
+msgid "Dishwasher"
+msgstr "Mosogatógép"
+
+msgid "Hob"
+msgstr "Főzőlap"
+
+msgid "Safe"
+msgstr "Széf"
+
+msgid "Helipad"
+msgstr "Helikopter-leszálló"
+
+msgid "Videophone"
+msgstr "Videotelefon"
+
+msgid "Video security"
+msgstr "Videokamerás biztonsági rendszer"
+
+msgid "Iron"
+msgstr "Vasaló"
+
+msgid "Hair dryer"
+msgstr "Hajszárító"
+
+msgid "Television"
+msgstr "Televízió"
+
+msgid "DVD Player"
+msgstr "DVD lejátszó"
+
+msgid "CD Player"
+msgstr "CD lejátszó"
+
+msgid "Outdoor lighting"
+msgstr "Kültéri világítás"
+
+msgid "Spa"
+msgstr "Gyógyfürdő"
+
+msgid "Home automation"
+msgstr "Otthoni automatizálás"
+
+msgid "Linens"
+msgstr "Ágyneműk"
+
+msgid "Tableware"
+msgstr "Teríték"
+
+msgid "Clothes dryer"
+msgstr "Ruhaszárító"
+
+msgid "Refrigerator"
+msgstr "Hűtőszekrény"
+
+msgid "Oven"
+msgstr "Sütő"
+
+msgid "Reception 24/7"
+msgstr "24/7 recepció"
+
+msgid "Coffeemaker"
+msgstr "Kávéfőző"
+
+msgid "Microwave oven"
+msgstr "Mikrohullámú sütő"
+
+msgid "Shabbat elevator"
+msgstr "Shabbat lift"
+
+msgid "Sukkah"
+msgstr "Szuka sátor"
+
+msgid "Synagogue"
+msgstr "Zsinagóga"
+
+msgid "Digicode"
+msgstr "Belépési kód"
+
+msgid "Common laundry"
+msgstr "Mosoda"
+
+msgid "Pets allowed"
+msgstr "Kisállatbarát"
+
+msgid "Metal shutters"
+msgstr "Fémredőnyök"
+
+msgid "Wiring closet"
+msgstr "Kábelszekrény"
+
+msgid "Computer network"
+msgstr "Számítógépes hálózat"
+
+msgid "Dropped ceiling"
+msgstr "Álmennyezet"
+
+msgid "Fire hose cabinets"
+msgstr "Tűzoltó szekrény"
+
+msgid "Fire sprinkler system"
+msgstr "Tűzoltó rendszer"
+
+msgid "Wharf"
+msgstr "Rakpart"
+
+msgid "Connected thermostat"
+msgstr "Távolról elérhető termosztát"
+
+msgid "Bowling game"
+msgstr "Kültéri bowlingpálya"
+
+msgid "Water softener"
+msgstr "Vízlágyító"
+
+msgid "Triple glazing"
+msgstr "Tripla üvegezés"
+
+msgid "Well drilling"
+msgstr "Kútfúrás"
+
+msgid "Optical fiber"
+msgstr "Üvegszálas kábel"
+
+msgid "Non-flooding"
+msgstr "Nincs árvízveszély"
+
+msgid "Playground"
+msgstr "Játszótér"
+
+msgid "Supplies"
+msgstr "Felszerelések"
+
+msgid "Outdoor spaces"
+msgstr "Kültéri területek"
+
+msgid "Rental supplies"
+msgstr "Bérleti cikkek"
+
+msgid "Security"
+msgstr "Biztonság"
+
+msgid "Professional supplies"
+msgstr "Professzionális eszközök"
+
+msgid "High standard"
+msgstr "Magas színvonalú"
+
+msgid "Luxury"
+msgstr "Luxus"
+
+msgid "High luxury"
+msgstr "Ultraluxus"
+
+msgid "Housing estate"
+msgstr "Lakótelep"
+
+msgid "Regular"
+msgstr "Normál"
+
+#, fuzzy
+msgid "In progress"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"Folyamatban\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"Feldolgozás alatt\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"Folyamatban"
+
+msgid "Standby"
+msgstr "Várakozik"
+
+msgid "Deleted"
+msgstr "Törölt"
+
+msgid "Waiting for agreement"
+msgstr "Megegyezésre vár"
+
+msgid "Agreement ended"
+msgstr "Lejárt megegyezés"
+
+msgid "Offer"
+msgstr "Ajánlat"
+
+msgid "Processing sale"
+msgstr "Értékesítés feldolgozás alatt"
+
+msgid "Waiting for contract"
+msgstr "Szerződésre vár"
+
+msgid "Pending approval"
+msgstr "Jóváhagyásra vár"
+
+msgid "Sell/Rent by agent"
+msgstr "Értékesítés/bérbeadás ügynök által"
+
+msgid "Sell/Rent by owner"
+msgstr "Értékesítés/bérbeadás tulajdonos által"
+
+msgid "Sell/Rent by other agent"
+msgstr "Értékesítés/bérbeadás egyéb ügynök által"
+
+msgid "Removed by agent"
+msgstr "Ügynök által eltávolítva"
+
+msgid "Removed by owner"
+msgstr "Tulajdonos által eltávolítva"
+
+msgid "Sale/Rental cancelled"
+msgstr "Értékesítés/bérbeadás törölvee"
+
+msgid "Delete this property"
+msgstr "Az ingatlan elbontása"
+
+#, fuzzy
+msgid "Business"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"Üzleti\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"Üzleti\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"Kereskedelem"
+
+msgid "Garage/Parking"
+msgstr "Garázs/Parkoló"
+
+msgid "Office"
+msgstr "Iroda"
+
+msgid "Boat"
+msgstr "Hajó"
+
+msgid "Cellar / Box"
+msgstr "Pince / Dobozház"
+
+msgid "Triplex"
+msgstr "Belső háromszintes triplex"
+
+msgid "Building land"
+msgstr "Építési telek"
+
+msgid "Not constructible land"
+msgstr "Nem beépíthető telek"
+
+msgid "Penthouse"
+msgstr "Penthouse"
+
+msgid "Castle"
+msgstr "Kastély"
+
+msgid "Duplex"
+msgstr "Belső kétszintes duplex"
+
+msgid "Manor house"
+msgstr "Vidéki kastély"
+
+msgid "Farm"
+msgstr "Tanya"
+
+msgid "Villa"
+msgstr "Villa"
+
+msgid "Apartment villa"
+msgstr "Villa apartman"
+
+msgid "Ruin"
+msgstr "Rom"
+
+msgid "Mill"
+msgstr "Malom"
+
+msgid "Carpark"
+msgstr "Terem garázs"
+
+msgid "Farmhouse"
+msgstr "Parasztház"
+
+msgid "Townhouse"
+msgstr "Teraszos ház"
+
+msgid "Mobile home"
+msgstr "Mobil ház"
+
+msgid "Cottage"
+msgstr "Kunyhó"
+
+msgid "Hangar"
+msgstr "Hangár"
+
+msgid "Mas"
+msgstr "Önellátó ház"
+
+msgid "Local"
+msgstr "Helyi"
+
+msgid "Chalet"
+msgstr "Nyaraló"
+
+msgid "Retail space"
+msgstr "Helyiség"
+
+msgid "Business assets"
+msgstr "Üzleti tulajdon"
+
+msgid "Right to the lease"
+msgstr "Bérleti jog"
+
+msgid "Mansion"
+msgstr "Kúria"
+
+msgid "Management"
+msgstr "Management"
+
+msgid "Agricultural exploitation"
+msgstr "Mezőgazdasági terület"
+
+msgid "Woodshed"
+msgstr "Fáskamra"
+
+msgid "Stud farm"
+msgstr "Ménes birtok"
+
+#, fuzzy
+msgid "Plot of land"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"Földterület\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"Telek"
+
+msgid "Bastide"
+msgstr "Bastide"
+
+msgid "Bastidon"
+msgstr "Bastidon"
+
+#, fuzzy
+msgid "Company"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"Cég\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"Vállalkozás"
+
+msgid "Vineyard property"
+msgstr "Borterület"
+
+msgid "Motor Yacht"
+msgstr "Motoros jacht"
+
+msgid "Narrow boat"
+msgstr "Keskeny hajó"
+
+msgid "Sailing Yacht"
+msgstr "Vitorlás jacht"
+
+msgid "Catamaran"
+msgstr "Katamarán"
+
+msgid "Equestrian estate"
+msgstr "Lovas birtok"
+
+msgid "Bed and breakfast"
+msgstr "Panzió"
+
+msgid "Gîte"
+msgstr "Házikó"
+
+msgid "Riad"
+msgstr "Riád"
+
+msgid "Retail shop"
+msgstr "Kiskereskedelem"
+
+msgid "Shophouse"
+msgstr "Shophouse"
+
+msgid "Borey"
+msgstr "Borey"
+
+msgid "Condo"
+msgstr "Lakás"
+
+msgid "Factory"
+msgstr "Gyár"
+
+msgid "Serviced apartment"
+msgstr "Lakás porta szolgálattal"
+
+msgid "Twin Villa"
+msgstr "Iker villa"
+
+msgid "Flat House"
+msgstr "Panelház"
+
+msgid "Semi-detached house"
+msgstr "Ikerház"
+
+msgid "Bungalow"
+msgstr "Bungaló"
+
+msgid "Beach house"
+msgstr "Tengerparti ház"
+
+msgid "Private island"
+msgstr "Magánszálló"
+
+msgid "Mountains"
+msgstr "Hegyvidék"
+
+msgid "Greenery"
+msgstr "Lankák"
+
+msgid "Monument"
+msgstr "Emlékmű"
+
+msgid "Forest"
+msgstr "Erdő"
+
+msgid "River"
+msgstr "Folyó"
+
+msgid "City"
+msgstr "Város"
+
+msgid "Sky"
+msgstr "Égbolt"
+
+msgid "Harbor"
+msgstr "Kikötő"
+
+msgid "Ski slopes"
+msgstr "Sípálya"
+
+msgid "Obstructed"
+msgstr "Takart"
+
+msgid "Slight"
+msgstr "Enyhén takart"
+
+msgid "Unobstructed"
+msgstr "Nem takart"
+
+msgid "Panoramic"
+msgstr "Panoráma"
+
+msgid "Septic tank"
+msgstr "Pöcegödör"
+
+msgid "Main drainage"
+msgstr "Csatornarendszer"
+
+msgid "Treatment plant"
+msgstr "Szennyvíztisztító telep"
+
+msgid "Estate agent"
+msgstr "Ingatlanügynök"
+
+msgid "Phoning"
+msgstr "Telefon"
+
+msgid "Collaboration"
+msgstr "Együttműködés"
+
+msgid "Provider"
+msgstr "Ellátó"
+
+msgid "Renown"
+msgstr "Hírnév"
+
+msgid "Walk-in / Window"
+msgstr "Helyszíni szemle / Vitrine"
+
+msgid "Network"
+msgstr "Hálózat"
+
+msgid "Flyer"
+msgstr "Szórólap"
+
+msgid "Sign"
+msgstr "Tábla, kiírás"
+
+msgid "Magazine"
+msgstr "Magazin"
+
+#, fuzzy
+msgid "Mailing"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"Posta\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"Postázás"
+
+#, fuzzy
+msgid "e-mailing"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"E-mailing\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"e-mailezés"
+
+msgid "Old client"
+msgstr "Visszatérő ügyfél"
+
+msgid "Appraisal"
+msgstr "Értékelés"
+
+msgid "Selection / Favorite"
+msgstr "Kiválasztás / Kedvenc"
+
+msgid "Main residence"
+msgstr "Elsődleges rezidencia"
+
+msgid "Secondary residence"
+msgstr "Másodlagos rezidencia"
+
+msgid "Student residence"
+msgstr "Tanuló rezidencia"
+
+msgid "Tourism residence"
+msgstr "Turista rezidencia"
+
+msgid "Seniors residence"
+msgstr "Időskori rezidencia"
+
+msgid "Duflot Legislation"
+msgstr "Duflot törvény"
+
+msgid "Censi-Bouvard Legislation"
+msgstr "Censi-Bouvard törvény"
+
+msgid "Reduced fees"
+msgstr "Csökkentett díjak"
+
+msgid "EHPAD (Retirement homes)"
+msgstr "EHPAD (idősek otthona)"
+
+msgid "Act 1291"
+msgstr "1291-es törvény"
+
+msgid "Act 887"
+msgstr "887-es törvény"
+
+msgid "Mixed-use"
+msgstr "Vegyes használat"
+
+msgid "Rental investment"
+msgstr "Bérleti befektetés"
+
+msgid "Act 1235"
+msgstr "1235-ös törvény"
+
+msgid "Pinel Legislation"
+msgstr "Pinel törvény"
+
+msgid "m²"
+msgstr "m²"
+
+msgid "sq ft"
+msgstr "ft²"
+
+msgid "sq yd"
+msgstr "yd²"
+
+msgid "ha"
+msgstr "ha"
+
+msgid "minute"
+msgstr "perc"
+
+msgid "metre"
+msgstr "méter"
+
+msgid "km"
+msgstr "km"
+
+msgid "Administrator"
+msgstr "Adminisztrátor"
+
+msgid "Company manager"
+msgstr "Cégvezető"
+
+msgid "Agency manager"
+msgstr "Ügynökségvezető"
+
+msgid "Secretariat"
+msgstr "Titkárság"
+
+#, fuzzy
+msgid "Agent"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"Bróker\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"Ügynök"
+
+msgid "Intern"
+msgstr "Gyakornok"
+
+msgid "User"
+msgstr "Felhasználó"
+
+msgid "Franchisor"
+msgstr "Franchise-kezelő"
+
+msgid "Translator"
+msgstr "Fordító"
+
+msgid "Plan"
+msgstr "Tervrajz"
+
+msgid "Pictures"
+msgstr "Képek"
+
+msgid "Pet"
+msgstr "Kisállatok"
+
+msgid "Natural light"
+msgstr "Természetes fény"
+
+msgid "Kitchen island"
+msgstr "Konyhasziget"
+
+msgid "Kitchen bar"
+msgstr "Konyhai bárpult"
+
+msgid "High ceiling"
+msgstr "Nagy belmagasság"
+
+msgid "Skylight"
+msgstr "Tetőablak"
+
+msgid "Exposed bricks"
+msgstr "Téglafal"
+
+msgid "Ceiling fan"
+msgstr "Mennyezeti ventilátor"
+
+msgid "Chandelier"
+msgstr "Csillár"
+
+msgid "Stainless steel"
+msgstr "Rozsdamentes acél"
+
+msgid "Price on request"
+msgstr "Ár kérésre"
+
+msgid "Currency"
+msgstr "Pénznem"
+
+msgid "Price"
+msgstr "Ár"
+
+msgid "Types"
+msgstr "Típusok"
+
+msgid "Cities"
+msgstr "Városok"
+
+msgid "Bedrooms"
+msgstr "Hálószobák"
+
+msgid "Rooms"
+msgstr "Szobák"
+
+msgid "Send"
+msgstr "Küldés"
+
+msgid "Lastname"
+msgstr "Vezetéknév"
+
+msgid "Firstname"
+msgstr "Keresztnév"
+
+msgid "Reference"
+msgstr "Referencia"
+
+msgid "Ref"
+msgstr "Ref."
+
+msgid "%s bedrooms"
+msgstr "%s hálószoba"
+
+msgid "%s rooms"
+msgstr "%s szoba"
+
+msgid "Folder"
+msgstr "Mappa"
+
+msgid "No matches found"
+msgstr "Nincs eredmény"
+
+msgid "Please enter one more character"
+msgstr "Írjon be még egy karaktert"
+
+msgid "Duplicate"
+msgstr "Másolat"
+
+msgid "Backup"
+msgstr "Biztonsági mentés"
+
+msgid "Rate"
+msgstr "Arány"
+
+msgid "Sender"
+msgstr "Feladó"
+
+msgid "Recipient"
+msgstr "Címzett"
+
+msgid "Subject"
+msgstr "Tárgy"
+
+msgid "Attachment"
+msgstr "Csatolmány"
+
+msgid "Key"
+msgstr "Kulcs"
+
+msgid "Documents"
+msgstr "Dokumentumok"
+
+msgid "Name"
+msgstr "Név"
+
+msgid "Back"
+msgstr "Vissza"
+
+msgid "Help?"
+msgstr "Segítség?"
+
+msgid "Read more"
+msgstr "Olvass tovább"
+
+msgid "Fields"
+msgstr "Terület"
+
+msgid "Areas"
+msgstr "Területek"
+
+msgid "Length"
+msgstr "Hossz"
+
+msgid "Height"
+msgstr "Magasság"
+
+msgid "Width"
+msgstr "Szélesség"
+
+msgid "Deposit"
+msgstr "Letét"
+
+msgid "Agreement reference"
+msgstr "Megállapodás referenciája"
+
+msgid "Agreement start at"
+msgstr "A megállapodás kezdete"
+
+msgid "Agreement end at"
+msgstr "A megállapodás vége"
+
+msgid "Website"
+msgstr "Weboldal"
+
+msgid "Proximities"
+msgstr "Közelség"
+
+msgid "Loading"
+msgstr "Betöltés"
+
+msgid "Log out"
+msgstr "Kijelentkezés"
+
+msgid "Availability"
+msgstr "Elérhetőség"
+
+msgid "Total area"
+msgstr "Teljes terület"
+
+msgid "Living area"
+msgstr "Lakóterület"
+
+msgid "Password forgotten"
+msgstr "Elfelejtett jelszó"
+
+msgid "Password"
+msgstr "Jelszó"
+
+msgid "Username"
+msgstr "Felhasználónév"
+
+msgid "Welcome %s"
+msgstr "Üdvözlöm  %s"
+
+msgid "Add"
+msgstr "Hozzáad"
+
+msgid "Show"
+msgstr "Mutat"
+
+msgid "List"
+msgstr "Lista"
+
+msgid "Tools"
+msgstr "Eszközök"
+
+msgid "Market"
+msgstr "Piac"
+
+msgid "Agency"
+msgstr "Ûgynökség"
+
+msgid "Calendar"
+msgstr "Naptár"
+
+msgid "Homepage"
+msgstr "Honlap"
+
+msgid "Maps"
+msgstr "Térkép"
+
+msgid "Value"
+msgstr "Érték"
+
+msgid "Users"
+msgstr "Felhasználók"
+
+msgid "Account"
+msgstr "Felhasználó"
+
+msgid "Sectors"
+msgstr "Ágazatok"
+
+msgid "Sector"
+msgstr "Ágazat"
+
+msgid "Contact us"
+msgstr "Kapcsolat"
+
+msgid "Contacts"
+msgstr "Kapcsolatok"
+
+msgid "%s contact"
+msgstr "%s kapcsolat"
+
+msgid "%s contacts"
+msgstr "%s kapcsolatok"
+
+msgid "Settings"
+msgstr "Beállítások"
+
+msgid "General"
+msgstr "Általános"
+
+msgid "Heating"
+msgstr "Fűtés"
+
+msgid "Waste water"
+msgstr "Szennyvíz"
+
+msgid "Country"
+msgstr "Ország"
+
+msgid "Escrow deposit"
+msgstr "Csödgondnokság"
+
+msgid "Orientation"
+msgstr "Tájolás"
+
+msgid "View"
+msgstr "Kilátás"
+
+msgid "District"
+msgstr "Kerület"
+
+msgid "Hook"
+msgstr "Figyelemfelkeltő tulajdonság"
+
+msgid "Comment"
+msgstr "Megjegyzés"
+
+msgid "Buy"
+msgstr "Vásárlás"
+
+msgid "Commercial"
+msgstr "Kereskedelmi"
+
+msgid "About us"
+msgstr "Rólunk"
+
+msgid "Services"
+msgstr "Szolgáltatások"
+
+msgid "News"
+msgstr "Hírek"
+
+msgid "Print"
+msgstr "Nyomtatás"
+
+msgid "Picture"
+msgstr "Kép"
+
+msgid "Add to cart"
+msgstr "Kosárhoz ad"
+
+msgid "Replace in cart"
+msgstr "Kosárban cserél"
+
+msgid "Category"
+msgstr "Kategória"
+
+msgid "History"
+msgstr "Előzmények"
+
+msgid "Details"
+msgstr "Részletek"
+
+msgid "Date"
+msgstr "Dátum"
+
+msgid "Previous"
+msgstr "Előző"
+
+msgid "Next"
+msgstr "Következő"
+
+msgid "Quick search"
+msgstr "Gyorskeresés"
+
+msgid "Postal code"
+msgstr "Irányítószám"
+
+msgid "The username and/or password is invalid."
+msgstr "Helytelen felhasználónév vagy jelszó"
+
+msgid "Group"
+msgstr "Csoport"
+
+msgid "Are you sure?"
+msgstr "Biztosan?"
+
+msgid "Nationality"
+msgstr "Nemzetiség"
+
+msgid "Regulation"
+msgstr "Szabályozás"
+
+msgid "Radius"
+msgstr "Sugár"
+
+msgid "Summary"
+msgstr "Összegzés"
+
+msgid "Watermark"
+msgstr "Vízjel"
+
+msgid "Latitude"
+msgstr "Szélességi fok"
+
+msgid "Longitude"
+msgstr "Hosszúsági fok"
+
+msgid "Mortgage"
+msgstr "Jelzálog"
+
+msgid "Download"
+msgstr "Letöltés"
+
+msgid "Dashboard"
+msgstr "Műszerfal"
+
+msgid "Results"
+msgstr "Találatok"
+
+msgid "Pay now by card"
+msgstr "Fizetés bankkártyával"
+
+msgid "Pay by bank transfer"
+msgstr "Fizetés átutalással"
+
+msgid "Pay by check"
+msgstr "Fizetés csekkel"
+
+msgid "Powered by"
+msgstr "Támogató:"
+
+msgid "Accepted payment methods"
+msgstr "Fizetési módok"
+
+msgid "Terms and Conditions"
+msgstr "Általános szerződési feltételek"
+
+msgid ""
+"Your contact is already in database, please select it on the list below."
+msgstr ""
+"A kapcsolat már szerepel az adatbázisban, kérem válassza ki a lenti "
+"listából!"
+
+msgid "Contract"
+msgstr "Szerződés"
+
+msgid "Contracts"
+msgstr "Szerződések"
+
+msgid "Seekers"
+msgstr "Érdeklődők"
+
+msgid "Active seekers"
+msgstr "Aktív érdeklődők"
+
+msgid "Providers"
+msgstr "Szolgáltatók"
+
+msgid "Owners"
+msgstr "Tulajdonosok"
+
+msgid "Active owners"
+msgstr "Aktív tulajdonosok"
+
+msgid "Monitoring"
+msgstr "Megfigyelés"
+
+msgid "Forward"
+msgstr "Továbbítás"
+
+msgid "Similar"
+msgstr "Hasonló"
+
+msgid "Status"
+msgstr "Állapot"
+
+msgid "Floor"
+msgstr "Emelet"
+
+msgid "Water"
+msgstr "Víz"
+
+msgid "Description"
+msgstr "Leírás"
+
+msgid "Deductions"
+msgstr "Levonások"
+
+msgid "Not available"
+msgstr "Nem elérhető"
+
+msgid "Occupant"
+msgstr "Lakók száma"
+
+msgid "Prospecting"
+msgstr "Felmérés"
+
+msgid "Shares"
+msgstr "Megosztások"
+
+msgid "Likes"
+msgstr "Kedvelések"
+
+msgid "Like"
+msgstr "Kedvelés"
+
+msgid "Unlike"
+msgstr "Kedvelés visszavonása"
+
+msgid "Portfolio"
+msgstr "Portfólió"
+
+msgid "Characteristics"
+msgstr "Jellemzők"
+
+msgid "Contracted owner"
+msgstr "Szerződött tulajdonos"
+
+msgid "Contracted owners"
+msgstr "Szerződött tulajdonosok"
+
+msgid "Contracted customer"
+msgstr "Szerződött ügyfél"
+
+msgid "Contracted customers"
+msgstr "Szerződött ügyfelek"
+
+msgid "Transfer tax"
+msgstr "Transzferdíj"
+
+msgid "Change to"
+msgstr "Megváltoztatás"
+
+msgid "Until"
+msgstr "Eddig:"
+
+msgid "Location reference"
+msgstr "Hely referencia"
+
+msgid "Priority"
+msgstr "Prioritás"
+
+msgid "Full form"
+msgstr "Teljes űrlap"
+
+msgid "Quick form"
+msgstr "Gyors űrlap"
+
+msgid "%s char(s)"
+msgstr "%s karakter(ek)"
+
+msgid "Price min"
+msgstr "Minimális ár"
+
+msgid "Listing"
+msgstr "Listázás"
+
+msgid "Listings"
+msgstr "Listázások"
+
+msgid "Duration"
+msgstr "Időtartam"
+
+msgid "Request incomplete"
+msgstr "Hiányos kérés"
+
+msgid "%s incomplete request(s)"
+msgstr "%s hiányos kérések"
+
+msgid "Subscription"
+msgstr "Feliratkozás"
+
+msgid "Configuration"
+msgstr "Beállítás"
+
+msgid "Subtotal"
+msgstr "Részösszeg"
+
+msgid "Tax notice"
+msgstr "Adóügyi értesítés"
+
+msgid "Events"
+msgstr "Események"
+
+msgid "Present"
+msgstr "Jelen"
+
+msgid "Missing"
+msgstr "Hiányzik"
+
+msgid "Planned"
+msgstr "Tervezett"
+
+msgid "Total"
+msgstr "Teljes"
+
+msgid "Organizer"
+msgstr "Szervező"
+
+msgid "Already subscribed"
+msgstr "Már feliratkozott"
+
+msgid "Attendees"
+msgstr "Résztvevők"
+
+msgid "Join"
+msgstr "Csatlakozás"
+
+msgid "Training"
+msgstr "Tréning"
+
+msgid "Require a change of password at next logon"
+msgstr "Jelszóváltoztatás kérése a következő belépéskor"
+
+msgid "Gross revenue"
+msgstr "Bruttó bevétel"
+
+msgid "Gross yield"
+msgstr "Bruttó hozam"
+
+msgid "Net yield"
+msgstr "Nettó hozam"
+
+msgid "Vacancy rate"
+msgstr "Üresedési arány"
+
+msgid "Investment"
+msgstr "Befektetés"
+
+msgid "Lock"
+msgstr "Zár"
+
+msgid "Variables"
+msgstr "Változók"
+
+msgid "Example"
+msgstr "Példa"
+
+msgid "Increment"
+msgstr "Növekedés"
+
+msgid "Schema"
+msgstr "Séma"
+
+msgid "Automation"
+msgstr "Automatizáció"
+
+msgid "Login"
+msgstr "Belépés"
+
+msgid "Renovation year"
+msgstr "Felújítás éve"
+
+msgid "Curriculum vitae"
+msgstr "Curriculum vitae"
+
+msgid "Resellers"
+msgstr "Viszonteladók"
+
+msgid "Select"
+msgstr "Kiválaszt"
+
+msgid "Billing"
+msgstr "Számlázás"
+
+msgid "The balance of your account is %s"
+msgstr "A számlaegyenlege %s"
+
+msgid "Ceiling"
+msgstr "Plafon"
+
+msgid "Weighted area"
+msgstr "Súlyozott terület"
+
+msgid "Collected"
+msgstr "Begyűjtött"
+
+msgid "Unlimited"
+msgstr "Végtelen"
+
+msgid "Quantity"
+msgstr "Mennyiség"
+
+msgid "Setup"
+msgstr "Felállítás"
+
+msgid "Active owner"
+msgstr "Aktív tulajdonos"
+
+msgid "Matching at"
+msgstr "Párosítás"
+
+msgid "Price by area"
+msgstr "Ár terület alapján"
+
+msgid "Default list"
+msgstr "Alapértelmezett lista"
+
+msgid "Subtype"
+msgstr "Altípus"
+
+msgid "Inventory"
+msgstr "Készlet"
+
+msgid "Add a custom document"
+msgstr "Testreszabott dokumentum hozzáadása"
+
+msgid "Line spacing"
+msgstr "Térköz"
+
+msgid "Font"
+msgstr "Betűtípus"
+
+msgid "Standing"
+msgstr "Álló"
+
+msgid "Landscape"
+msgstr "Fekvő"
+
+msgid "Accounts"
+msgstr "Számlák"
+
+msgid "Optional"
+msgstr "Opcionális"
+
+msgid "File"
+msgstr "Fájl"
+
+msgid "Collected at"
+msgstr "Begyűjtve"
+
+msgid "Linked"
+msgstr "Hozzácsatolt"
+
+msgid "Discover our offers"
+msgstr "Fedezze fel ajánlatainkat"
+
+msgid "Blank"
+msgstr "Üres"
+
+msgid "Portal"
+msgstr "Portál"
+
+msgid "Software Documentation"
+msgstr "Szoftverleírás"
+
+msgid "Time"
+msgstr "Idő"
+
+msgid "Dedicated website"
+msgstr "Dedikált weboldal"
+
+msgid "Subcategory"
+msgstr "Alkategória"
+
+msgid "No IP control"
+msgstr "Nincs IP-vezérlés"
+
+msgid "Auto publish"
+msgstr "Automatikus közzététel"
+
+msgid "Link to property"
+msgstr "Ingatlanhoz kapcsolás"
+
+msgid "Happy birthday!"
+msgstr "Boldog születésnapot!"
+
+msgid "Birthdays"
+msgstr "Születésnapok"
+
+msgid "Last login"
+msgstr "Legutóbbi belépés"
+
+msgid "This property is a part of:"
+msgstr "Ez az ingatlan a következő része:"
+
+msgid "IP address"
+msgstr "IP címek"
+
+msgid "Access code"
+msgstr "Hozzáférési kód"
+
+msgid "Access code at"
+msgstr "Hozzáférési kód:"
+
+msgid "Number of shares"
+msgstr "Megosztások száma"
+
+msgid "Leads"
+msgstr "Vezérfonalak"
+
+msgid "Cancelled"
+msgstr "Törölve"
+
+msgid "Link"
+msgstr "Link"
+
+msgid "Advanced"
+msgstr "Haladó"
+
+msgid "Publish on homepage"
+msgstr "Közzététel a honlapon"
+
+msgid "Suggested"
+msgstr "Ajánlott"
+
+msgid "Welcome on %s"
+msgstr "Üdvözöljük itt: %s"
+
+msgid "Content"
+msgstr "Tartalom"
+
+msgid "Extranet access"
+msgstr "Extranet hozzáférés"
+
+msgid "Publish address"
+msgstr "A cím közzététele"
+
+msgid "Opening hours"
+msgstr "Nyitvatartási idő"
+
+msgid "Backoffice"
+msgstr "Háttériroda"
+
+msgid "Member since %s"
+msgstr "%s óta tag"
+
+msgid "Lock menu bar"
+msgstr "A menüsáv lezárása"
+
+msgid "Updates"
+msgstr "Frissítések"
+
+msgid "Bookings"
+msgstr "Foglalások"
+
+msgid "Forward to contact"
+msgstr "Továbbítás a kapcsolatnak"
+
+msgid "Responder"
+msgstr "Válaszoló"
+
+msgid ""
+"You can search our Frequently Asked Questions (FAQs) database by keyword(s):"
+msgstr ""
+"Használja a Gyakran Ismételt Kérdések (GYIK) adatbázisunkat a kulcsszavak "
+"alapján:"
+
+msgid "Registrar"
+msgstr "Iktató"
+
+msgid "Expiration at"
+msgstr "Lejárat dátuma:"
+
+msgid "Mailbox"
+msgstr "Postaláda"
+
+msgid "Domain name"
+msgstr "Domain név"
+
+msgid "Filling"
+msgstr "Kitöltés"
+
+msgid "Condition precedent"
+msgstr "Kizárási feltételek"
+
+msgid "Size"
+msgstr "Méret"
+
+msgid "Deal fees"
+msgstr "Üzletkötési díjak"
+
+msgid "Fees charged"
+msgstr "Elszámolt díjak"
+
+msgid "Customer"
+msgstr "Ügyfél"
+
+msgid "Booked"
+msgstr "Lefoglalt"
+
+msgid "Available"
+msgstr "Elérhető"
+
+msgid "Associate"
+msgstr "Munkatárs"
+
+msgid "Ceiling height"
+msgstr "Belmagasság"
+
+msgid "Translations"
+msgstr "Nyelvek"
+
+msgid "Unsold"
+msgstr "Nincs eladva"
+
+msgid "Sold"
+msgstr "Eladva"
+
+msgid "Last action"
+msgstr "Legutóbbi módosítás"
+
+msgid "Our agency"
+msgstr "Ügynökségünk"
+
+msgid "Locate us"
+msgstr "Megtalálhatóak vagyunk"
+
+msgid "Your main contact"
+msgstr "A fő kapcsolattartója"
+
+msgid "Send me a message"
+msgstr "Küldjön nekem egy üzenetet"
+
+msgid "Leave us a message"
+msgstr "Hagyjon nekünk egy üzenetet"
+
+msgid "Price with fees"
+msgstr "Díjakkal kiegészített ár"
+
+msgid "Owner access"
+msgstr "Tulajdonosi hozzáférés"
+
+msgid "Added"
+msgstr "Hozzáadott"
+
+msgid "Available for matching"
+msgstr "Párosításra elérhető"
+
+msgid "Available at"
+msgstr "Elérhető:"
+
+msgid "Tenant"
+msgstr "Lakó"
+
+msgid "Add to list"
+msgstr "Felvétel listára"
+
+msgid "Custom tags"
+msgstr "Testreszabott címke"
+
+msgid "%s pending approval properties"
+msgstr "Jóváhagyásra váró ingatlanok: %s"
+
+msgid "Negotiable price"
+msgstr "Irányár"
+
+msgid "Price updated"
+msgstr "Frissített ár"
+
+msgid "Less equal"
+msgstr "Kisebb vagy egyenlő"
+
+msgid "Equal"
+msgstr "Egyenlő"
+
+msgid "Greater equal"
+msgstr "Nagyobb vagy egyenlő"
+
+msgid "Preferences"
+msgstr "Preferenciák"
+
+msgid "Contact means"
+msgstr "Kapcsolat módja"
+
+msgid "Agency commission"
+msgstr "Ügynökségi honorárium"
+
+msgid "Scheduled at"
+msgstr "Megszervezve:"
+
+msgid "Contract at"
+msgstr "Szerződés:"
+
+msgid "Commitment"
+msgstr "Elkötelezve"
+
+msgid "Commitment at"
+msgstr "Elkötelezve:"
+
+msgid "Offer at"
+msgstr "Ajánlat:"
+
+msgid "No action"
+msgstr "Nincs tevékenység"
+
+msgid "Received contact information"
+msgstr "Kapott kapcsolati információ"
+
+msgid "Linked contact"
+msgstr "Csatolt kapcsolat"
+
+msgid "Related contacts"
+msgstr "Összefüggő kapcsolat"
+
+msgid "Others"
+msgstr "Egyebek"
+
+msgid "Assigned to"
+msgstr "Illetékes:"
+
+msgid "Assign to"
+msgstr "Átruházás:"
+
+msgid "Assign by"
+msgstr "Átruházta:"
+
+msgid "Opened by"
+msgstr "Nyitotta:"
+
+msgid "Closed by"
+msgstr "Lezárta:"
+
+msgid "Time zone"
+msgstr "Időzóna"
+
+msgid "Customers"
+msgstr "Ügyfelek"
+
+msgid "Invert selection"
+msgstr "Kijelölés invertálása"
+
+msgid "Select all"
+msgstr "Összes kijelölése"
+
+msgid "Unselect all"
+msgstr "Kijelölés törlése"
+
+msgid "%s awaiting lead(s)"
+msgstr "Várakozó vezérfonalak száma: %s"
+
+msgid "%s lead(s) to assign"
+msgstr "Kirendelhető vezértfonalak száma: %s"
+
+msgid "%s pending properties"
+msgstr "Várakozó ingatlanok száma: %s"
+
+msgid "%s pending matching(s)"
+msgstr "Várakozó párosítások száma: %s"
+
+msgid "%s expired agreement(s)"
+msgstr "Lejárt megegyezések: %s"
+
+msgid "%s expired soon agreement(s)"
+msgstr "Hamarosan lejáró megegyezések: %s"
+
+msgid "Legal notice"
+msgstr "Jogi nyilatkozat"
+
+msgid "Tags"
+msgstr "Címkék"
+
+msgid "Allowed"
+msgstr "Engedélyezett"
+
+msgid "Min stay"
+msgstr "Minimális tartózkodási idő"
+
+msgid "Over"
+msgstr "Utána"
+
+msgid "Update"
+msgstr "Frissítés"
+
+msgid "Free text"
+msgstr "Szabadon kitölthető"
+
+msgid "Generate comment"
+msgstr "Hozzászólás írása"
+
+msgid "Building name"
+msgstr "Épület neve"
+
+msgid "VAT"
+msgstr "ÁFA"
+
+msgid "VAT included"
+msgstr "ÁFA beleértve"
+
+msgid "VAT excluded"
+msgstr "ÁFA nélkül"
+
+msgid "Recurrence"
+msgstr "Visszatérő"
+
+msgid "Calculate"
+msgstr "Kiszámítás"
+
+msgid "Contribution"
+msgstr "Hozzájárulás"
+
+msgid "Maximum debt"
+msgstr "Maximális adósság"
+
+msgid "Purchase amount"
+msgstr "Vásárlási összeg"
+
+msgid "Borrowing calculator"
+msgstr "Kölcsönkalkulátor"
+
+msgid "Monthly payment calculator"
+msgstr "Havidíj kalkulátor"
+
+msgid "You don't have broadcasting rights"
+msgstr "Nincs közzétételi jogosultsága"
+
+msgid "Pending"
+msgstr "Várakozik"
+
+msgid "Suggestions"
+msgstr "Ajánlatok"
+
+msgid "To show"
+msgstr "Megmutatni"
+
+msgid "Automatic"
+msgstr "Automatikus"
+
+msgid "Manual"
+msgstr "Manuális"
+
+msgid "In collaboration with a %name% professional"
+msgstr "Egy %name% szakértővel együttműködve"
+
+msgid "Partners"
+msgstr "Partnerek"
+
+msgid "Cost"
+msgstr "Költség"
+
+msgid "My search"
+msgstr "Keresésem"
+
+msgid "Units"
+msgstr "Telkek"
+
+msgid "Spouse"
+msgstr "Házastárs"
+
+msgid "Manager"
+msgstr "Felelős"
+
+msgid "Category reference"
+msgstr "Kategória referencia"
+
+msgid "Cadastre reference"
+msgstr "Telekkönyv referencia"
+
+msgid "Lot reference"
+msgstr "Telek referencia"
+
+msgid "Block reference"
+msgstr "Háztömb referencia"
+
+msgid "Stairs reference"
+msgstr "Lépcső referencia"
+
+msgid "Mortgage end at"
+msgstr "Jelzálog vége:"
+
+msgid "Review"
+msgstr "Felülvizsgálat"
+
+msgid "Media"
+msgstr "Média"
+
+msgid "Medias"
+msgstr "Médiák"
+
+msgid "Last access"
+msgstr "Legutóbbi hozzáférés"
+
+msgid "First access"
+msgstr "Első hozzáférés"
+
+msgid "Access count"
+msgstr "Hozzáférések száma"
+
+msgid "Default"
+msgstr "Alapértelmezett"
+
+msgid "Please do not enter any name or contact"
+msgstr "Kérem ne adjon meg nevet vagy kapcsolattartót"
+
+msgid "QR-Code"
+msgstr "QR-kód"
+
+msgid "Show price"
+msgstr "Ár megjelenítése"
+
+msgid "Completed"
+msgstr "Kész"
+
+msgid "Not applicable"
+msgstr "Nem alkalmazható"
+
+msgid "Fill in the table"
+msgstr "Táblázat kitöltése"
+
+msgid "Choice"
+msgstr "Lehetőség"
+
+msgid "copy"
+msgstr "másolás"
+
+msgid "Automatic matching"
+msgstr "Automatikus párosítás"
+
+msgid "Authorization"
+msgstr "Felhatalmazás"
+
+msgid "Last connection the %s"
+msgstr "A %s utolsó csatlakozása"
+
+msgid "All"
+msgstr "Mind"
+
+msgid "Wiki"
+msgstr "Wiki"
+
+msgid "Latest"
+msgstr "Legutóbbiak"
+
+msgid "Erase"
+msgstr "Törlés"
+
+msgid "Show/hide fields"
+msgstr "Mutassa/rejtse el a mezőket"
+
+msgid "Recent searches"
+msgstr "Keresési előzmények"
+
+msgid "Association"
+msgstr "Asszociáció"
+
+msgid "Meta crawler"
+msgstr "MetaCrawler"
+
+msgid "Alerts"
+msgstr "Értesítések"
+
+msgid "Prescribers"
+msgstr "Felírók"
+
+msgid "Staff"
+msgstr "Alkalmazottak"
+
+msgid "Receive a copy"
+msgstr "Másolat átvétele"
+
+msgid "Latest views"
+msgstr "Legutóbbi megtekintések"
+
+msgid "Quality"
+msgstr "Minőség"
+
+msgid "Waiting for partner"
+msgstr "Partnerre vár"
+
+msgid "Viewing agreement"
+msgstr "Megtekintési egyezség"
+
+msgid "Decline"
+msgstr "Visszautasítás"
+
+msgid "Declined"
+msgstr "Visszautasított"
+
+msgid "Accept"
+msgstr "Elfogadás"
+
+msgid "Accepted"
+msgstr "Elfogadott"
+
+msgid "Zones"
+msgstr "Zónák"
+
+msgid "Zone"
+msgstr "Zóna"
+
+msgid "Matrimonial regime"
+msgstr "Házassági vagyonjogi rendszer"
+
+msgid "Marital status"
+msgstr "Családi állapot"
+
+msgid "Preview"
+msgstr "Előnézet"
+
+msgid "Unread"
+msgstr "Olvasatlan"
+
+msgid "Reply"
+msgstr "Válasz"
+
+msgid "Pension"
+msgstr "Nyugdíj"
+
+msgid "Beam"
+msgstr "Kiküldés"
+
+msgid "Draft"
+msgstr "Piszkozat"
+
+msgid "Guests"
+msgstr "Vendégek"
+
+msgid "Crew"
+msgstr "Legénység"
+
+msgid "Cruising speed"
+msgstr "Hajózási sebesség"
+
+msgid "Builder"
+msgstr "Építő"
+
+msgid "Administration"
+msgstr "Adminisztráció"
+
+msgid "Civil law notary"
+msgstr "Polgári jogi közjegyző"
+
+msgid "Price max"
+msgstr "Maximális ár"
+
+msgid "Messages"
+msgstr "Üzenetek"
+
+msgid "Reminders"
+msgstr "Emlékeztetők"
+
+msgid "Credit"
+msgstr "Hitel"
+
+msgid "Signatures"
+msgstr "Aláírások"
+
+msgid "Signature"
+msgstr "Aláírás"
+
+msgid "Title (politeness)"
+msgstr "Megnevezés (udvariasság)"
+
+msgid "Amount"
+msgstr "Összeg"
+
+msgid "Amounts"
+msgstr "Összegek"
+
+msgid "Updated at"
+msgstr "Frissítve:"
+
+msgid "Created at"
+msgstr "Létrehozva:"
+
+msgid "First published at"
+msgstr "Először publikálva:"
+
+msgid "Insurance"
+msgstr "Biztosítás"
+
+msgid "Provision"
+msgstr "Ellátás"
+
+msgid "Entries"
+msgstr "Belépések száma"
+
+msgid "Number"
+msgstr "Szám"
+
+msgid "Plot of land area"
+msgstr "Földrész"
+
+msgid "Deposit account"
+msgstr "Betétszámla"
+
+msgid "Owner's price"
+msgstr "Tulajdonosi ár"
+
+msgid "Starting price"
+msgstr "Kezdőár"
+
+msgid "Mobile"
+msgstr "Mobil"
+
+msgid "Tel."
+msgstr "Tel.:"
+
+msgid "Lease"
+msgstr "Lízing"
+
+msgid "Leases"
+msgstr "Lízingek"
+
+msgid "Address"
+msgstr "Lakcím"
+
+msgid "Searches"
+msgstr "Keresések"
+
+msgid "Tips"
+msgstr "Tippek"
+
+msgid "Days"
+msgstr "Napok"
+
+msgid "Catalog"
+msgstr "Katalógus"
+
+msgid "contact"
+msgstr "kapcsolat"
+
+msgid "contacts"
+msgstr "kapcsolatok"
+
+msgid "Statistics"
+msgstr "Statisztika"
+
+msgid "Built in"
+msgstr "Beépített"
+
+msgid "Mark"
+msgstr "Megjelölés"
+
+msgid "Percentage"
+msgstr "Százalék"
+
+msgid "Visits"
+msgstr "Látogatások"
+
+msgid "Visit comment"
+msgstr "Látogatási megjegyzés"
+
+msgid "Key number"
+msgstr "Kulcsok száma"
+
+msgid "Key's place"
+msgstr "A kulcs helye"
+
+msgid "Displayed city (optional)"
+msgstr "Kijelzett város (opcionális)"
+
+msgid "Displayed district (optional)"
+msgstr "Kijelzett kerület (opcionális)"
+
+msgid "Clauses"
+msgstr "Záradékok"
+
+msgid "Bathrooms"
+msgstr "Fürdőszobák"
+
+msgid "Seller"
+msgstr "Értékesítő"
+
+msgid "Adjacency"
+msgstr "Szomszédság"
+
+msgid "Step"
+msgstr "Lépés"
+
+msgid "Long comment"
+msgstr "Hosszú hozzászólás"
+
+msgid "Subtitle"
+msgstr "Felirat"
+
+msgid "Title"
+msgstr "Cím"
+
+msgid "Last published at"
+msgstr "Legutóbbi publikálás"
+
+msgid "floor"
+msgstr "emelet"
+
+msgid "Inactive"
+msgstr "Inaktív"
+
+msgid "Position"
+msgstr "Pozíció"
+
+msgid "Please fill in a name and a phone or an e-mail."
+msgstr "Kérem töltse ki a nevet és a telefonszámot/e-mail címet!"
+
+msgid "Passwords do not match, please retype"
+msgstr "A jelszavak nem egyeznek, kérem próbálja újból!"
+
+msgid "Please change your password"
+msgstr "Kérem változtassa meg a jelszavát!"
+
+msgid "New password should not be same as old password"
+msgstr "Az új jelszó nem egyezhet az előzővel."
+
+msgid "year"
+msgstr "év"
+
+msgid "Subscriptions"
+msgstr "Feliratkozók"
+
+msgid "Tour comment"
+msgstr "A körbevezetés megjegyzései"
+
+msgid "Actions"
+msgstr "Műveletek"
+
+msgid "Ad"
+msgstr "Hirdetés"
+
+msgid "Add opening hours"
+msgstr "Nyitvatartási idő hozzáadása"
+
+msgid "price"
+msgstr "ár"
+
+msgid "Private"
+msgstr "Személyes"
+
+msgid ""
+"Please note that there are dependencies, please select a contact for "
+"completing the data transfer."
+msgstr ""
+"Kérem vegye figyelembe a dependenciákat, és legyen szíves választani egy "
+"kapcsolattartót az átruházás folytatásához!"
+
+msgid "The installation can take several minutes, please come back later."
+msgstr ""
+"A telepítés több percet is igénybe vehet, kérem fáradjon vissza később."
+
+msgid "Your contact speaks %s, would you like to change the language?"
+msgstr "A kapcsolat %s nyelven beszél, szeretné átállítani a nyelvet?"
+
+msgid "Would you like to publish on the homepage?"
+msgstr "Szeretne a honlapra publikálni?"
+
+msgid "plus VAT"
+msgstr "plusz ÁFA"
+
+msgid "<b>Warning :</b> there is an error, please check each fields."
+msgstr "Figyelem: hibát találtunk, kérem nézze át a mezőket!"
+
+msgid "Price/sq m"
+msgstr "Ár/négyzetméter"
+
+msgid "today"
+msgstr "ma"
+
+msgid "week"
+msgstr "hét"
+
+msgid "day"
+msgstr "nap"
+
+msgid "from %from_value% to %to_value%"
+msgstr "%from_value%-tól %to_value%-ig"
+
+msgid "message"
+msgstr "üzenet"
+
+msgid "Page"
+msgstr "Oldal"
+
+msgid "Action"
+msgstr "Művelet"
+
+msgid "Agencies"
+msgstr "Ügynökségek"
+
+msgid "agencies"
+msgstr "ügynökségek"
+
+msgid "Context"
+msgstr "Kontextus"
+
+msgid "More criteria"
+msgstr "További kritériumok"
+
+msgid "Criteria"
+msgstr "Kritérium"
+
+msgid "Classification"
+msgstr "Osztályozás"
+
+msgid "metres"
+msgstr "méter"
+
+msgid "Window"
+msgstr "Ablak"
+
+msgid "Stock area"
+msgstr "Tároló felület"
+
+msgid "Sales area"
+msgstr "Értékesítő felület"
+
+msgid "Sold price"
+msgstr "Értékesítési ár"
+
+msgid "Broadcast to"
+msgstr "Sugározni:"
+
+msgid "The property will not be published because it is in step « %s »"
+msgstr "Az ingatlant nem lehet közzé tenni, mert a « %s » lépésnél tart."
+
+msgid "Last agencies"
+msgstr "Legutóbbi ügynökségek"
+
+msgid "I confirm my subscription to %s and I accept the general conditions"
+msgstr ""
+"Megerősítem a feliratkozási szándékom %s ra és elfogadom az általános "
+"feltételeket."
+
+msgid "from %from_date% to %to_date%"
+msgstr "%from_date%-tól %to_date%-ig"
+
+msgid "sq m"
+msgstr "m2"
+
+msgid "days"
+msgstr "napok"
+
+msgid "bedrooms"
+msgstr "hálószobák"
+
+msgid "bedroom"
+msgstr "hálószoba"
+
+msgid "rooms"
+msgstr "szobák"
+
+msgid "room"
+msgstr "szoba"
+
+msgid "Comments"
+msgstr "Hozzászólások"
+
+msgid "comment"
+msgstr "hozzászólás"
+
+msgid "comments"
+msgstr "hozzászólások"
+
+msgid "Private comment"
+msgstr "Személyes hozzászólás"
+
+msgid "Levels"
+msgstr "Szintek"
+
+msgid "Level"
+msgstr "Szint"
+
+msgid "Exchanges"
+msgstr "Cserék"
+
+msgid "Exchange"
+msgstr "Csere"
+
+msgid "by"
+msgstr "által"
+
+msgid "n.a"
+msgstr "nincs adat"
+
+msgid "Elevator"
+msgstr "Lift"
+
+msgid "no"
+msgstr "nem"
+
+msgid "yes"
+msgstr "igen"
+
+msgid "Printed with care"
+msgstr "Gondosan nyomtatva"
+
+msgid "Please do not litter on public way"
+msgstr "Kérem ne szemeteljen a közutakon!"
+
+msgid "Non-contractual information"
+msgstr "Nincs szerződéses információ"
+
+msgid "Agency fees"
+msgstr "Ügynöki díj"
+
+msgid "Agency fees included"
+msgstr "Ügynöki díjak beleszámolva"
+
+msgid "Agency fees not included"
+msgstr "Ügynöki díjak nélkül"
+
+msgid "Fees"
+msgstr "Díjak"
+
+msgid "Personal property tax"
+msgstr "Személyes ingatlanadó"
+
+msgid "Property tax"
+msgstr "Ingatlanadó"
+
+msgid "Style"
+msgstr "Stílus"
+
+msgid "Parkings"
+msgstr "Parkolók"
+
+msgid "Window card"
+msgstr "Ablakkártya"
+
+msgid "Private sheet"
+msgstr "Privát lap"
+
+msgid "Public sheet"
+msgstr "Nyilvános lap"
+
+msgid "Service"
+msgstr "Szolgáltatás"
+
+msgid "Language"
+msgstr "Nyelv"
+
+msgid "Cart"
+msgstr "Kosár"
+
+msgid "Land type"
+msgstr "Telek típusa"
+
+msgid "Property agent"
+msgstr "Ingatlanügynök"
+
+msgid "End at"
+msgstr "Vége:"
+
+msgid "Close at"
+msgstr "Lezárás:"
+
+msgid "Start at"
+msgstr "Kezdés:"
+
+msgid "Guarantees"
+msgstr "Garanciák"
+
+msgid "Type"
+msgstr "Típus"
+
+msgid "Inter-agencies"
+msgstr "Ügynökségek között"
+
+msgid "Number of floors"
+msgstr "Emeletek száma"
+
+msgid "Evaluated price"
+msgstr "Becsült ár"
+
+msgid "Seller's commission"
+msgstr "Értékesítő ügynöki jutalék"
+
+msgid "Buyer's commission"
+msgstr "Vételi ügynöki jutalék"
+
+msgid "Commission"
+msgstr "Jutalék"
+
+msgid "Origin"
+msgstr "Származás"
+
+msgid "Specific origin"
+msgstr "Specifikus származás"
+
+msgid "Flooring"
+msgstr "Padló"
+
+msgid "Rank"
+msgstr "Beosztás"
+
+msgid "Calls"
+msgstr "Hívások"
+
+msgid "Phone call"
+msgstr "Hívás"
+
+msgid "Publications"
+msgstr "Publikációk"
+
+msgid "Send to contact"
+msgstr "Elküldés kontaktnak"
+
+msgid "No results found"
+msgstr "Nincs találat"
+
+msgid "Result"
+msgstr "Találat"
+
+msgid "results"
+msgstr "találatok"
+
+msgid "result"
+msgstr "találat"
+
+msgid "Advertiser"
+msgstr "Hirdető"
+
+msgid "Active"
+msgstr "Aktív"
+
+msgid "Confidential"
+msgstr "Bizalmas"
+
+msgid "Activity"
+msgstr "Aktivitás"
+
+msgid "Companies"
+msgstr "Cégek"
+
+msgid "Edit"
+msgstr "Szerkesztés"
+
+msgid "Save"
+msgstr "Mentés"
+
+msgid "Succession"
+msgstr "Öröklés"
+
+msgid "Please fill in a city."
+msgstr "Kérem válasszon várost!"
+
+msgid "Guarantee"
+msgstr "Garancia"
+
+msgid "Please fill"
+msgstr "Kérem töltse ki"
+
+msgid "The email address is invalid."
+msgstr "Hibás e-mail cím."
+
+msgid "Rights"
+msgstr "Jogok"
+
+msgid "Display"
+msgstr "Megjelenítés"
+
+msgid "Since"
+msgstr "Óta"
+
+msgid "Filter"
+msgstr "Szűrő"
+
+msgid "Min"
+msgstr "Minimum"
+
+msgid "Max"
+msgstr "Maximum"
+
+msgid "Lessor"
+msgstr "Bérbeadó"
+
+msgid "Lessee"
+msgstr "Bérbevevő"
+
+msgid "Reservations"
+msgstr "Előjegyzés"
+
+msgid "Booking"
+msgstr "Foglalás"
+
+msgid "Bed"
+msgstr "Ágyak"
+
+msgid "Cleaning price"
+msgstr "Takarítási ár"
+
+msgid "Availabilities"
+msgstr "Elérhetőségek"
+
+msgid "Sent"
+msgstr "Küldöttek"
+
+msgid "Year"
+msgstr "Év"
+
+msgid "years"
+msgstr "évek"
+
+msgid "months"
+msgstr "hónapok"
+
+msgid "month"
+msgstr "hónap"
+
+msgid "Seasons"
+msgstr "Évszakok"
+
+msgid "Season"
+msgstr "Évszak"
+
+msgid "Rates"
+msgstr "Árfolyamok"
+
+msgid "Todo"
+msgstr "Teendő"
+
+msgid "Brands"
+msgstr "Brandek"
+
+msgid "Brand"
+msgstr "Brand"
+
+msgid "Publicated at"
+msgstr "Publikálva:"
+
+msgid "Bank"
+msgstr "Bank"
+
+msgid "Brief comment"
+msgstr "Rövid megjegyzés"
+
+msgid "Delivery at"
+msgstr "Kiszállítás:"
+
+msgid "Reason"
+msgstr "Indok"
+
+msgid "What's new"
+msgstr "Újdonságok"
+
+msgid "Requests"
+msgstr "Kérések"
+
+msgid "Request"
+msgstr "Kérés"
+
+msgid "requests"
+msgstr "kérések"
+
+msgid "request"
+msgstr "kérés"
+
+msgid "Current rent"
+msgstr "Jelenlegi lakbér"
+
+msgid "Properties"
+msgstr "Ingatlanok"
+
+msgid "properties"
+msgstr "ingatlanok"
+
+msgid "property"
+msgstr "ingatlan"
+
+msgid "Bill"
+msgstr "Nyugta"
+
+msgid "Calculator"
+msgstr "Kalkulátor"
+
+msgid "Birthplace"
+msgstr "Születési hely"
+
+msgid "Birthday"
+msgstr "Születésnap"
+
+msgid "Income"
+msgstr "Bevétel"
+
+msgid "Costs"
+msgstr "Költségek"
+
+msgid "Margin"
+msgstr "Különbözet"
+
+msgid "Required."
+msgstr "Kötelező"
+
+msgid "Seasonal"
+msgstr "Szezonális"
+
+msgid "Spoken languages"
+msgstr "Beszélt nyelv"
+
+msgid "Number of children"
+msgstr "Gyermekek száma"
+
+msgid "Hotline"
+msgstr "Forródrót"
+
+msgid "Re-type password"
+msgstr "Jelszó megismétlése"
+
+msgid "Public longitude"
+msgstr "Nyilvános hosszúság"
+
+msgid "Public latitude"
+msgstr "Nyilvános szélesség"
+
+msgid "Access denied"
+msgstr "A hozzáférés megtagadva"
+
+msgid "Access"
+msgstr "Hozzáférés"
+
+msgid "Launch"
+msgstr "Indítás"
+
+msgid "Shortcuts"
+msgstr "Parancsikonok"
+
+msgid "SEO"
+msgstr "Keresőmotor optimalizálása"
+
+msgid "Life annuity length"
+msgstr "Életjáradék hossza"
+
+msgid "Market value"
+msgstr "Piaci ár"
+
+msgid "Price contribution"
+msgstr "Árhozzájárulás"
+
+msgid "Sharing"
+msgstr "Megosztás"
+
+msgid "Show more results"
+msgstr "További eredmények mutatása"
+
+msgid "Close"
+msgstr "Lezár"
+
+msgid "Hide"
+msgstr "Elrejt"
+
+msgid "Keywords"
+msgstr "Kulcsszavak"
+
+msgid "Corporate register"
+msgstr "Vállalati jegyzék"
+
+msgid "Expired soon"
+msgstr "Hamarosan lejár"
+
+msgid "Expired"
+msgstr "Lejárt"
+
+msgid "Agreements"
+msgstr "Egyezségek"
+
+msgid "Agreement"
+msgstr "Egyezség"
+
+msgid "Agreement number"
+msgstr "Egyezség száma"
+
+msgid "VAT identification number"
+msgstr "ÁFA regisztrációs szám"
+
+msgid "What's on your mind?"
+msgstr "Mi jár a fejében?"
+
+msgid "Buyer"
+msgstr "Vásárló"
+
+msgid "Prescriber"
+msgstr "Felíró"
+
+msgid "Message sent"
+msgstr "Levél elküldve"
+
+msgid "Limit"
+msgstr "Korlát"
+
+msgid "Publish"
+msgstr "Közzétesz"
+
+msgid "Do not publish"
+msgstr "Ne tegye közzé"
+
+msgid "Already suggested"
+msgstr "Már ajánlva"
+
+msgid "To suggest"
+msgstr "Ajánlásra"
+
+msgid "Suggest"
+msgstr "Ajánl"
+
+msgid "Diagnostics"
+msgstr "Diagnosztika"
+
+msgid "Footer"
+msgstr "Élőláb"
+
+msgid "Header"
+msgstr "Élőfej"
+
+msgid "Serviced plot"
+msgstr "Kiszolgált terület"
+
+msgid "Net floor area"
+msgstr "Nettó alapterület"
+
+msgid "Sold at"
+msgstr "Értékesítve:"
+
+msgid "Garden area"
+msgstr "Kert területe"
+
+msgid "Payments"
+msgstr "Fizetés"
+
+msgid "Reopen"
+msgstr "Újranyit"
+
+msgid "Complete"
+msgstr "Készre állít"
+
+msgid "Callback"
+msgstr "Visszahívás"
+
+msgid "Callbacks"
+msgstr "Visszahívások"
+
+msgid "Coagent"
+msgstr "Együttműködő ügynök"
+
+msgid "Residences"
+msgstr "Rezidenciák"
+
+msgid "%s properties"
+msgstr "%s ingatlanok"
+
+msgid "%s property"
+msgstr "%s ingatlan"
+
+msgid "%s request"
+msgstr "%s kérés"
+
+msgid "%s requests"
+msgstr "%s kérések"
+
+msgid "Activities"
+msgstr "Tevékenységek"
+
+msgid "Sorry, this property is no longer available."
+msgstr "Sajnáljuk, ez az ingatlan már nem elérhető."
+
+msgid "Processed"
+msgstr "Feldolgozott"
+
+msgid "remaining tickets"
+msgstr "fennmaradó jegyek"
+
+msgid "Congratulations ! No more support tickets."
+msgstr "Gratulálunk! Nincs több támogatói jegy."
+
+msgid "unassigned tickets"
+msgstr "fel nem osztott jegyek"
+
+msgid "All tickets are assigned."
+msgstr "Minden jegy felosztásra került."
+
+msgid "task in progress"
+msgstr "folyamatban lévő feladat"
+
+msgid "Database"
+msgstr "Adatbázis"
+
+msgid "Used"
+msgstr "Használt"
+
+msgid "%s results"
+msgstr "%s eredmények"
+
+msgid "Redirects"
+msgstr "Továbbítások"
+
+msgid "Subscribe to the newsletter"
+msgstr "Feliratkozás a hírlevélre"
+
+msgid "Purge"
+msgstr "Tisztítás"
+
+msgid "Valuation methods"
+msgstr "Értékelési módszerek"
+
+msgid "Rebuild cost"
+msgstr "Újraépítési költségek"
+
+msgid "Capitalization"
+msgstr "Tőkésítés"
+
+msgid "Comparative market analysis"
+msgstr "Összehasonlító piaci elemzés"
+
+msgid "An average of"
+msgstr "Átlagosan:"
+
+msgid "Your own valuation"
+msgstr "A saját értékbecslése"
+
+msgid "Desired profitability"
+msgstr "Kívánt jövedelmezőség"
+
+msgid "Taxes and/or fees"
+msgstr "Adók és/vagy díjak"
+
+msgid "Year of purchase"
+msgstr "A vásárlás éve"
+
+msgid "Rental income"
+msgstr "Bérleti jövedelmek"
+
+msgid "Price of purchase"
+msgstr "A vásárlás ára"
+
+msgid "Land price"
+msgstr "A telek ára"
+
+msgid "Cost of construction"
+msgstr "Építési költség"
+
+msgid "Interior fittings"
+msgstr "Belső elrendezés"
+
+msgid "Landscaping"
+msgstr "Külső elrendezés"
+
+msgid "Decrepitude"
+msgstr "Elavultság"
+
+msgid "Capital losses"
+msgstr "Tőkeveszteség"
+
+msgid "Capital gains"
+msgstr "Tőkenyereség"
+
+msgid "Your mailbox has exceeded the storage limit (%s)"
+msgstr "A postaládája túllépte a tárhely kapacitását (%s)"
+
+msgid "Your mailbox will reach the storage limit"
+msgstr "A postaládája hamarosan eléri a tárhely kapacitását"
+
+msgid "Sort by"
+msgstr "Rendezés"
+
+msgid "Condominium in difficulty"
+msgstr "Nehéz helyzetben lévő társasház"
+
+msgid "Back to the list"
+msgstr "Vissza a listához"
+
+msgid "Previous listing"
+msgstr "Előző lista"
+
+msgid "Next listing"
+msgstr "Következő lista"
+
+msgid "empty"
+msgstr "üres"
+
+msgid "Filename"
+msgstr "Fájlnév"
+
+msgid "Keyword"
+msgstr "Kulcsszó"
+
+msgid "Values"
+msgstr "Értékek"
+
+msgid "New feed"
+msgstr "Hírfolyam"
+
+msgid "Errors"
+msgstr "Hibák"
+
+msgid "Error"
+msgstr "Hiba"
+
+msgid "Erase all"
+msgstr "Mindent töröl"
+
+msgid "Try"
+msgstr "Próba"
+
+msgid "Query"
+msgstr "Kérdés"
+
+msgid "Agency fees payable by vendor"
+msgstr "Értékesítői illeték"
+
+msgid "Agency fees payable by buyer"
+msgstr "Vásárlói illeték"
+
+msgid "Condominium fees"
+msgstr "Társasházi díjak"
+
+msgid "An error occurred"
+msgstr "Hiba lépett fel"
+
+msgid "Successful subscription"
+msgstr "Sikeres feliratkozás"
+
+msgid "Created date"
+msgstr "Létrehozás dátuma"
+
+msgid "Updated date"
+msgstr "Frissítés dátuma"
+
+msgid "Back to homepage"
+msgstr "Vissza a honlapra"
+
+msgid "Bedroom min"
+msgstr "Minimális hálószobaszám"
+
+msgid "Bedroom max"
+msgstr "Maximális hálószobaszám"
+
+msgid "Room min"
+msgstr "Minimális szobaszám"
+
+msgid "Room max"
+msgstr "Maximális szobaszám"
+
+msgid "Project at"
+msgstr "A projekt:"
+
+msgid "Agency rate"
+msgstr "Ügynökségi ráta"
+
+msgid "Tenant's commission"
+msgstr "Bérleti díj beszedési ára"
+
+msgid "Inventory tenant charge"
+msgstr "Készlet bérleti díj"
+
+msgid "Fees included"
+msgstr "Díjak beleértve"
+
+msgid "Provision on recoverable fees"
+msgstr "A megtérítendő költségekre vonatkozó rendelkezés"
+
+msgid "Never"
+msgstr "Soha"
+
+msgid "Remaining credits"
+msgstr "Fennmaradó kreditek"
+
+msgid "Buy credits"
+msgstr "Kredit vásárlása"
+
+msgid "%s credits"
+msgstr "%s kreditek"
+
+msgid "Transaction fees"
+msgstr "Tranzakciós költségek"
+
+msgid "View property"
+msgstr "Ingatlan megtekintése"
+
+msgid "lot available"
+msgstr "terület elérhető"
+
+msgid "lots available"
+msgstr "területek elérhetőek"
+
+msgid "Area min"
+msgstr "Minimum terület"
+
+msgid "Search a property"
+msgstr "Ingatlan keresése"
+
+msgid "International"
+msgstr "Nemzetközi"
+
+msgid "Unsubscribe"
+msgstr "Leiratkozás"
+
+msgid "The property will not be published because it is in group « %s »"
+msgstr "Ez az ingatlan nem kerül közzétételre, mert a « %s » csoportban van"
+
+msgid "%s month"
+msgstr "%s hónap"
+
+msgid "%s months"
+msgstr "%s hónapok"
+
+msgid "No action after"
+msgstr "Nincs további tevékenység ezután:"
+
+msgid "%s pending delete"
+msgstr "%s törlésre vár"
+
+msgid "Pending delete"
+msgstr "Törlésre vár"
+
+msgid "%s to delete"
+msgstr "Törölni: %s"
+
+msgid "Document"
+msgstr "Dokumentum"
+
+msgid "%s unit"
+msgstr "%s relkek"
+
+msgid "Not suggested"
+msgstr "Nincs ajánlva"
+
+msgid "%s guest"
+msgstr "%s vendégek"
+
+msgid "%s bed"
+msgstr "%s Ágyak"
+
+msgid "%s bathroom"
+msgstr "%s fürdőszoba"
+
+msgid "%s bathrooms"
+msgstr "%s fürdőszobák"
+
+msgid "Professionals"
+msgstr "Szakértő"
+
+msgid "Toilet"
+msgstr "Mosdó"
+
+msgid "Help"
+msgstr "Segítség"
+
+msgid "Show pagination"
+msgstr "Oldalakra bontás megjelenítése"
+
+msgid "Mandatory fields"
+msgstr "Kötelező mezők"
+
+msgid "Available soon"
+msgstr "Hamarosan elérhető"
+
+msgid "HD Photo"
+msgstr "HD Photo"
+
+#, fuzzy
+msgid "Contract end at"
+msgstr ""
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"Szerződés lejár\n"
+"#-#-#-#-#  catalog.po  #-#-#-#-#\n"
+"Szerződés vége"
+
+msgid "Incomplete"
+msgstr "Hiányos"
+
+msgid "Location Map"
+msgstr "Helyszín térkép"
+
+msgid "User Detail"
+msgstr "Felhasználói adatok"
+
+msgid "File size"
+msgstr "Fájlméret"
+
+msgid "File title"
+msgstr "Fájl cím"
+
+msgid "Region"
+msgstr "Régió"
+
+msgid "Bath"
+msgstr "Fürdőszoba"
+
+msgid "Private Negotiation"
+msgstr "Privát tárgyalás"
+
+msgid "Property specifications"
+msgstr "Ingatlan specifikációk"
+
+msgid "Energy performance"
+msgstr "Energetikai teljesítmény"
+
+msgid "Media Details"
+msgstr "Média részletei"
+
+msgid "View Video"
+msgstr "Videó megtekintése"
+
+msgid "Start Date"
+msgstr "Kezdés dátuma"
+
+msgid "End Date"
+msgstr "Befejezés dátuma"
+
+msgid "Welcome"
+msgstr "Üdvözöljük"
+
+msgid "See What’s happening with Apimo Plugin."
+msgstr "Nézze meg, mi történik az Apimo bővítménnyel."
+
+msgid "PROVIDERS"
+msgstr "SZOLGÁLTATÓK"
+
+msgid "AGENCIES"
+msgstr "ÜGYNÖKSÉGEK"
+
+msgid "PROPERTIES"
+msgstr "INGATLANOK"
+
+msgid "BOOKMARK"
+msgstr "KÖNYVJELZŐ"
+
+msgid "Remove all"
+msgstr "Távolítsa el az összeset"
+
+msgid "Apply filter"
+msgstr "Szűrő alkalmazása"
+
+msgid "Select Subtype"
+msgstr "Válassza ki az altípust"
+
+msgid "Enchère"
+msgstr "Aukció"
+
+msgid "Location"
+msgstr "Bérlés"
+
+msgid "Location saisonnière"
+msgstr "Szezonális bérlet"
+
+msgid "From"
+msgstr "Tól"
+
+msgid "To"
+msgstr "Igen"
+
+msgid "Dates"
+msgstr "Dátumok"
+
+msgid "Select country"
+msgstr "Ország kiválasztása"
+
+msgid "Select region"
+msgstr "Régió kiválasztása"
+
+msgid "Select district"
+msgstr "Kerület kiválasztása"
+
+msgid "Select city"
+msgstr "Város kiválasztása"
+
+msgid "Good"
+msgstr "Jó"
+
+msgid "Bad"
+msgstr "Rossz"
+
+msgid "hello"
+msgstr "Helló"
+
+msgid "Available Integrations"
+msgstr "Elérhető integrációk"
+
+msgid "reCAPTCHA Detected"
+msgstr "észlelt Recaptcha"
+
+msgid "reCAPTCHA Not Detected"
+msgstr "Recaptcha nem észlelt"
+
+msgid "Google reCAPTCHA Integration"
+msgstr "Google Recaptcha integráció"
+
+msgid ""
+"Protect your forms from spam and abuse with Google reCAPTCHA integration."
+msgstr ""
+"Védje formáit a spam és a visszaélés ellen a Google Recaptcha integrációval."
+
+msgid "Activate Integration"
+msgstr "Aktiválja az integrációt"
+
+msgid "Deactivate Integration"
+msgstr "Deaktiválja az integrációt"
+
+msgid "reCAPTCHA Configuration"
+msgstr "Recaptcha konfiguráció"
+
+msgid "Please configure your reCAPTCHA keys below to complete the setup."
+msgstr ""
+"Kérjük, konfigurálja az alábbi Recaptcha kulcsokat a beállítás "
+"befejezéséhez."
+
+msgid "To complete the reCAPTCHA setup:"
+msgstr "A Recaptcha beállítás befejezéséhez:"
+
+msgid "Go to the"
+msgstr "Menj a"
+
+msgid "Google reCAPTCHA Admin Console"
+msgstr "Google Recaptcha Admin konzol"
+
+msgid "Register your site and get your Site Key and Secret Key"
+msgstr ""
+"Regisztrálja a webhelyét, és szerezze be a webhelyet és a titkos kulcsot"
+
+msgid "Enter the keys below to activate reCAPTCHA"
+msgstr "Írja be az alábbi kulcsokat a Recaptcha aktiválásához"
+
+msgid "reCAPTCHA is configured properly."
+msgstr "A Recaptcha megfelelően van konfigurálva."
+
+msgid "Site Key"
+msgstr "Helyszíni kulccsal"
+
+msgid "Secret Key"
+msgstr "Titkos kulccsal"
+
+msgid "Save Configuration"
+msgstr "Konfiguráció mentése"
+
+msgid "Contact Form"
+msgstr "Kapcsolattartó űrlap"
+
+msgid "Invalid format"
+msgstr "Érvénytelen formátum"
+
+msgid "This field is required"
+msgstr "Ez a mező szükséges"
+
+msgid "Invalid email format"
+msgstr "Érvénytelen e -mail formátum"
+
+msgid "Please use reCAPTCHA version 3"
+msgstr "Kérjük, használja a Recaptcha 3. verzióját"

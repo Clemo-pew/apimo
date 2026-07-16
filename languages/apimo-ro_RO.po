@@ -1,0 +1,2358 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ro_RO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.1\n"
+
+msgid "Regulations"
+msgstr "Regulation"
+
+msgid "AML/KYC Vendor"
+msgstr "AML/KYC Vendor"
+
+msgid "AML/KYC Buyer"
+msgstr "AML/KYC Buyer"
+
+msgid "Cinema"
+msgstr "Cinematograf"
+
+msgid "Patio"
+msgstr "Patio"
+
+msgid "Barn"
+msgstr "Hambar"
+
+msgid "Outbuilding"
+msgstr "Dependință"
+
+msgid "Sauna"
+msgstr "Saună"
+
+msgid "Warehouse"
+msgstr "Depozit"
+
+msgid "Hotel"
+msgstr "Hotel"
+
+msgid "Sale"
+msgstr "Vânzări"
+
+#, fuzzy
+msgid "Rental"
+msgstr ""
+"#-#-#-#-#  apimo-ro_RO.po  #-#-#-#-#\n"
+"Inchirieri\n"
+"#-#-#-#-#  apimo-ro_RO.po  #-#-#-#-#\n"
+"Location"
+
+msgid "Seasonal rental"
+msgstr "Inchirieri de sezon"
+
+msgid "Development"
+msgstr "Noi construcţii"
+
+msgid "Life annuity"
+msgstr "Viager"
+
+msgid "Auction"
+msgstr "Vânzarea prin licitații"
+
+msgid "Ground floor"
+msgstr "Parter"
+
+msgid "Top floor"
+msgstr "Ultimul etaj"
+
+msgid "1st"
+msgstr "1"
+
+msgid "2nd"
+msgstr "2"
+
+msgid "3rd"
+msgstr "3"
+
+msgid "4th"
+msgstr "4"
+
+msgid "5th"
+msgstr "5"
+
+msgid "6th"
+msgstr "6"
+
+msgid "7th"
+msgstr "7"
+
+msgid "8th"
+msgstr "8"
+
+msgid "9th"
+msgstr "9"
+
+msgid "10th"
+msgstr "10"
+
+msgid "11th"
+msgstr "11"
+
+msgid "12th"
+msgstr "12"
+
+msgid "13th"
+msgstr "13"
+
+msgid "14th"
+msgstr "14"
+
+msgid "15th"
+msgstr "15"
+
+msgid "16th"
+msgstr "16"
+
+msgid "17th"
+msgstr "17"
+
+msgid "18th"
+msgstr "18"
+
+msgid "19th"
+msgstr "19"
+
+msgid "20th"
+msgstr "20"
+
+msgid "Garden level"
+msgstr "Grădină"
+
+msgid "Split-level"
+msgstr "Antresol"
+
+msgid "-1"
+msgstr "-1"
+
+msgid "-2"
+msgstr "-2"
+
+msgid "-3"
+msgstr "-3"
+
+msgid "-4"
+msgstr "-4"
+
+msgid "Basement"
+msgstr "Subsol"
+
+msgid "Single-storey"
+msgstr "Single-storey"
+
+msgid "21st"
+msgstr "21"
+
+msgid "22nd"
+msgstr "22"
+
+msgid "23rd"
+msgstr "23"
+
+msgid "24th"
+msgstr "24"
+
+msgid "25th"
+msgstr "25"
+
+msgid "26th"
+msgstr "26"
+
+msgid "27th"
+msgstr "27"
+
+msgid "28th"
+msgstr "28"
+
+msgid "29th"
+msgstr "29"
+
+msgid "30th"
+msgstr "30"
+
+msgid "31st"
+msgstr "31"
+
+msgid "32nd"
+msgstr "32"
+
+msgid "33rd"
+msgstr "33"
+
+msgid "34th"
+msgstr "34"
+
+msgid "35th"
+msgstr "35"
+
+msgid "36th"
+msgstr "36"
+
+msgid "37th"
+msgstr "37"
+
+msgid "38th"
+msgstr "38"
+
+msgid "39th"
+msgstr "39"
+
+msgid "40th"
+msgstr "40"
+
+msgid "-5"
+msgstr "-5"
+
+msgid "-6"
+msgstr "-6"
+
+msgid "-7"
+msgstr "-7"
+
+msgid "-8"
+msgstr "-8"
+
+msgid "-9"
+msgstr "-9"
+
+msgid "-10"
+msgstr "-10"
+
+msgid "41st"
+msgstr "41"
+
+msgid "42nd"
+msgstr "42"
+
+msgid "43rd"
+msgstr "43"
+
+msgid "44th"
+msgstr "44"
+
+msgid "45th"
+msgstr "45"
+
+msgid "46th"
+msgstr "46"
+
+msgid "47th"
+msgstr "47"
+
+msgid "48th"
+msgstr "48"
+
+msgid "49th"
+msgstr "49"
+
+msgid "50th"
+msgstr "50"
+
+msgid "51st"
+msgstr "51"
+
+msgid "52nd"
+msgstr "52"
+
+msgid "53rd"
+msgstr "53"
+
+msgid "54th"
+msgstr "54"
+
+msgid "55th"
+msgstr "55"
+
+msgid "56th"
+msgstr "56"
+
+msgid "57th"
+msgstr "57"
+
+msgid "58th"
+msgstr "58"
+
+msgid "59th"
+msgstr "59"
+
+msgid "60th"
+msgstr "60"
+
+msgid "Day"
+msgstr "Zi"
+
+msgid "Week"
+msgstr "Săptămână"
+
+msgid "Fortnight"
+msgstr "Două săptămâni"
+
+msgid "Month"
+msgstr "Lună"
+
+msgid "University"
+msgstr "Universitate"
+
+msgid "Lake"
+msgstr "Lac"
+
+msgid "Apartment"
+msgstr "Apartament"
+
+msgid "House"
+msgstr "Casă"
+
+msgid "Land"
+msgstr "Teren"
+
+#, fuzzy
+msgid "Business"
+msgstr ""
+"#-#-#-#-#  apimo-ro_RO.po  #-#-#-#-#\n"
+"Comerț\n"
+"#-#-#-#-#  apimo-ro_RO.po  #-#-#-#-#\n"
+"Comerț\n"
+"#-#-#-#-#  apimo-ro_RO.po  #-#-#-#-#\n"
+"Commerce"
+
+msgid "Garage/Parking"
+msgstr "Garaj/Parking"
+
+msgid "Building"
+msgstr "Clădire"
+
+msgid "Office"
+msgstr "Birou"
+
+msgid "Boat"
+msgstr "Barcă"
+
+msgid "Triplex"
+msgstr "Triplex"
+
+msgid "Building land"
+msgstr "Teren constructibil"
+
+msgid "Not constructible land"
+msgstr "Teren ne constructibil"
+
+msgid "Penthouse"
+msgstr "Penthouse"
+
+msgid "Studio"
+msgstr "Garsonieră"
+
+msgid "Castle"
+msgstr "Castel"
+
+msgid "Duplex"
+msgstr "Duplex"
+
+msgid "Farm"
+msgstr "Fermă ţărănească"
+
+msgid "Loft"
+msgstr "Loft"
+
+msgid "Village house"
+msgstr "Casă în sat"
+
+msgid "Villa"
+msgstr "Vilă"
+
+msgid "Apartment villa"
+msgstr "Apartament vilă"
+
+msgid "Ruin"
+msgstr "Ruină"
+
+#, fuzzy
+msgid "Property"
+msgstr ""
+"#-#-#-#-#  apimo-ro_RO.po  #-#-#-#-#\n"
+"Proprietate\n"
+"#-#-#-#-#  apimo-ro_RO.po  #-#-#-#-#\n"
+"Produs"
+
+msgid "Housing estate"
+msgstr "Ansamblul rezidential"
+
+msgid "Mill"
+msgstr "Moară"
+
+msgid "Carpark"
+msgstr "Garaj"
+
+msgid "Farmhouse"
+msgstr "Fermă mică"
+
+msgid "Bedroom"
+msgstr "Camere"
+
+msgid "Hangar"
+msgstr "Hangar"
+
+msgid "Mas"
+msgstr "Mas"
+
+msgid "Local"
+msgstr "Local"
+
+msgid "Chalet"
+msgstr "Cabană"
+
+msgid "Retail space"
+msgstr "Local comercial"
+
+msgid "Business assets"
+msgstr "Proprietate comercială"
+
+msgid "Right to the lease"
+msgstr "Dreptul de a închiria"
+
+msgid "Mansion"
+msgstr "Conac"
+
+msgid "Management"
+msgstr "Administrare"
+
+msgid "Agricultural exploitation"
+msgstr "Fermă agricolă"
+
+msgid "Woodshed"
+msgstr "Magazie"
+
+msgid "Parking"
+msgstr "Parking"
+
+msgid "Stud farm"
+msgstr "Fermă de cai"
+
+#, fuzzy
+msgid "Plot of land"
+msgstr ""
+"#-#-#-#-#  apimo-ro_RO.po  #-#-#-#-#\n"
+"Teren\n"
+"#-#-#-#-#  apimo-ro_RO.po  #-#-#-#-#\n"
+"Terrain"
+
+msgid "Bastide"
+msgstr "Bastide"
+
+msgid "Bastidon"
+msgstr "Bastidon"
+
+msgid "Company"
+msgstr "Afacere"
+
+msgid "Vineyard property"
+msgstr "Podgorie"
+
+msgid "Motor Yacht"
+msgstr "Iaht cu motor"
+
+msgid "Narrow boat"
+msgstr "Șlep"
+
+msgid "Sailing Yacht"
+msgstr "Iaht cu pânze"
+
+msgid "Catamaran"
+msgstr "Catamaran"
+
+msgid "Equestrian estate"
+msgstr "Proprietate ecvestru"
+
+msgid "Gîte"
+msgstr "Gîte"
+
+msgid "Retail shop"
+msgstr "Magazin"
+
+msgid "Sea"
+msgstr "Mare"
+
+msgid "Mountains"
+msgstr "Munţi"
+
+msgid "Hills"
+msgstr "Dealuri"
+
+msgid "Greenery"
+msgstr "Verdeaţă"
+
+msgid "Forest"
+msgstr "Pădure"
+
+#, fuzzy
+msgid "City"
+msgstr ""
+"#-#-#-#-#  apimo-ro_RO.po  #-#-#-#-#\n"
+"Oraş\n"
+"#-#-#-#-#  apimo-ro_RO.po  #-#-#-#-#\n"
+"Ville"
+
+msgid "Countryside"
+msgstr "Rurală"
+
+msgid "Village"
+msgstr "Sat"
+
+msgid "Park"
+msgstr "Parc"
+
+msgid "Garden"
+msgstr "Grădină"
+
+msgid "Sky"
+msgstr "Cer"
+
+msgid "Courtyard"
+msgstr "Curte"
+
+msgid "Harbor"
+msgstr "Port"
+
+msgid "Street"
+msgstr "Stradă"
+
+msgid "Ski slopes"
+msgstr "Piste de schi"
+
+msgid "Septic tank"
+msgstr "Fosă sep­tică"
+
+msgid "Main drainage"
+msgstr "Canalizare"
+
+msgid "Treatment plant"
+msgstr "Stație de epurare"
+
+msgid "Walk-in / Window"
+msgstr "Vitrina"
+
+msgid "Appraisal"
+msgstr "Estimare"
+
+msgid "Selection / Favorite"
+msgstr "Selecție"
+
+msgid "Reduced fees"
+msgstr "Taxe reduse"
+
+msgid "m²"
+msgstr "m²"
+
+msgid "sq ft"
+msgstr "ft²"
+
+msgid "ha"
+msgstr "ha"
+
+msgid "Price on request"
+msgstr "Preț la cerere"
+
+msgid "Currency"
+msgstr "Moneda"
+
+msgid "Amount"
+msgstr "Montant"
+
+msgid "Bedrooms"
+msgstr "Bedrooms"
+
+msgid "Room"
+msgstr "Room"
+
+msgid "Rooms"
+msgstr "Rooms"
+
+msgid "Send"
+msgstr "Envoyer"
+
+msgid "Messages"
+msgstr "Mesaj"
+
+msgid "Phone"
+msgstr "Phone"
+
+msgid "e-mail"
+msgstr "e-mail"
+
+msgid "Lastname"
+msgstr "Nom de famille"
+
+msgid "Firstname"
+msgstr "Prénom"
+
+msgid "Reference"
+msgstr "Référence"
+
+msgid "Duplicate"
+msgstr "Duplicate"
+
+msgid "Backup"
+msgstr "Backup"
+
+msgid "Rate"
+msgstr "Taux"
+
+msgid "Sender"
+msgstr "Expéditeur"
+
+msgid "Recipient"
+msgstr "Destinataire"
+
+msgid "Subject"
+msgstr "Objet"
+
+msgid "Attachment"
+msgstr "Pièce-jointe"
+
+msgid "Key"
+msgstr "Clef"
+
+msgid "Documents"
+msgstr "Documents"
+
+msgid "Name"
+msgstr "Nom"
+
+msgid "Back"
+msgstr "Retour"
+
+msgid "Area"
+msgstr "Suprafaţa"
+
+msgid "Areas"
+msgstr "Suprafeţele"
+
+msgid "Length"
+msgstr "Lungime"
+
+msgid "Height"
+msgstr "Înălțime"
+
+msgid "Width"
+msgstr "Lățime"
+
+msgid "Deposit"
+msgstr "Caution"
+
+msgid "Agreement reference"
+msgstr "Référence mandat"
+
+msgid "Agreement start at"
+msgstr "Démarrage mandat"
+
+msgid "Agreement end at"
+msgstr "Fin mandat"
+
+msgid "Fax"
+msgstr "Télécopie"
+
+msgid "Proximity"
+msgstr "Proximité"
+
+msgid "Proximities"
+msgstr "Proximités"
+
+msgid "Loading"
+msgstr "Chargement"
+
+msgid "Log out"
+msgstr "Déconnexion"
+
+msgid "Availability"
+msgstr "Disponibilité"
+
+msgid "Total area"
+msgstr "Suprafaţa totale"
+
+msgid "Living area"
+msgstr "Suprafaţa habitable"
+
+msgid "Password forgotten"
+msgstr "Mot de passe oublié"
+
+msgid "Password"
+msgstr "Mot de passe"
+
+msgid "Username"
+msgstr "Nom d'utilisateur"
+
+msgid "Welcome %s"
+msgstr "Bienvenue %s"
+
+msgid "Search"
+msgstr "Rechercher"
+
+msgid "Add"
+msgstr "Ajouter"
+
+msgid "Show"
+msgstr "Consulter"
+
+msgid "List"
+msgstr "Liste"
+
+msgid "Tools"
+msgstr "Outils"
+
+msgid "Market"
+msgstr "Bourse"
+
+msgid "Agency"
+msgstr "Agence"
+
+msgid "Calendar"
+msgstr "Calendrier"
+
+msgid "Homepage"
+msgstr "Accueil"
+
+msgid "Map"
+msgstr "Plan"
+
+msgid "Users"
+msgstr "Utilisateurs"
+
+msgid "User"
+msgstr "Utilisateur"
+
+msgid "Sectors"
+msgstr "Secteurs"
+
+msgid "Sector"
+msgstr "Secteur"
+
+msgid "Contact"
+msgstr "Contact"
+
+msgid "Contacts"
+msgstr "Contacts"
+
+msgid "Settings"
+msgstr "Paramètres"
+
+msgid "General"
+msgstr "Général"
+
+msgid "Heating"
+msgstr "Chauffage"
+
+msgid "Hot water"
+msgstr "Eau chaude"
+
+msgid "Waste water"
+msgstr "Eaux usées"
+
+msgid "New"
+msgstr "Nouveau"
+
+msgid "Country"
+msgstr "Pays"
+
+msgid "Escrow deposit"
+msgstr "Séquestre"
+
+msgid "Owner"
+msgstr "Owner"
+
+msgid "Orientation"
+msgstr "Exposition"
+
+msgid "View"
+msgstr "Vue"
+
+msgid "District"
+msgstr "Quartier"
+
+msgid "Fields"
+msgstr "Fields"
+
+msgid "Hook"
+msgstr "Hook"
+
+msgid "Comment"
+msgstr "Commentaire"
+
+msgid "Services"
+msgstr "Prestations"
+
+msgid "News"
+msgstr "Actualités"
+
+msgid "Print"
+msgstr "Imprimer"
+
+msgid "Picture"
+msgstr "Photo"
+
+msgid "Add to cart"
+msgstr "Ajouter au panier"
+
+msgid "Replace in cart"
+msgstr "Remplacer dans le panier"
+
+msgid "Category"
+msgstr "Catégorie"
+
+msgid "History"
+msgstr "Historique"
+
+msgid "Details"
+msgstr "Informations"
+
+msgid "Date"
+msgstr "Date"
+
+msgid "Previous"
+msgstr "Précédent"
+
+msgid "Next"
+msgstr "Suivant"
+
+msgid "Quick search"
+msgstr "Recherche rapide"
+
+msgid "Zipcode"
+msgstr "Zipcode"
+
+msgid "The username and/or password is invalid."
+msgstr "Erreur de nom d'utilisateur et/ou de mot de passe."
+
+msgid "Group"
+msgstr "Groupe"
+
+msgid "Are you sure?"
+msgstr "Êtes-vous sûr(e)?"
+
+msgid "Nationality"
+msgstr "Naționalitate"
+
+msgid "Radius"
+msgstr "Rază"
+
+msgid "Summary"
+msgstr "Rezumat"
+
+msgid "Watermark"
+msgstr "Filigran"
+
+msgid "Latitude"
+msgstr "Latitudine"
+
+msgid "Longitude"
+msgstr "Longitudine"
+
+msgid "Mortgage"
+msgstr "Ipotecare"
+
+msgid "Download"
+msgstr "Télécharger"
+
+msgid "Dashboard"
+msgstr "Tablou de bord"
+
+msgid "Seekers"
+msgstr "Seekers"
+
+msgid "Active seekers"
+msgstr "Active seekers"
+
+msgid "Providers"
+msgstr "Providers"
+
+msgid "Owners"
+msgstr "Owners"
+
+msgid "Active owners"
+msgstr "Active owners"
+
+msgid "Monitoring"
+msgstr "Monitoring"
+
+msgid "Forward"
+msgstr "Trimite"
+
+msgid "Similar"
+msgstr "Asemănător"
+
+msgid "Condition"
+msgstr "État"
+
+msgid "Floor"
+msgstr "Etaj"
+
+msgid "Lead"
+msgstr "Lead"
+
+msgid "Leads"
+msgstr "Leads"
+
+msgid "Opening hours"
+msgstr "Program de lucru"
+
+msgid "Forward to contact"
+msgstr "Forward to contact"
+
+msgid "Responder"
+msgstr "Responder"
+
+msgid ""
+"You can search our Frequently Asked Questions (FAQs) database by keyword(s):"
+msgstr ""
+"You can search our Frequently Asked Questions (FAQs) database by keyword(s):"
+
+msgid "Registrar"
+msgstr "Registrar"
+
+msgid "Expiration at"
+msgstr "Expiration at"
+
+msgid "Mailbox"
+msgstr "Mailbox"
+
+msgid "Domain name"
+msgstr "Domain name"
+
+msgid "Filling"
+msgstr "Filling"
+
+msgid "Condition precedent"
+msgstr "Condition precedent"
+
+msgid "Size"
+msgstr "Size"
+
+msgid "Turnover"
+msgstr "Turnover"
+
+msgid "Deal fees"
+msgstr "Deal fees"
+
+msgid "Fees charged"
+msgstr "Fees charged"
+
+msgid "Customer"
+msgstr "Customer"
+
+msgid "Booked"
+msgstr "Booked"
+
+msgid "Available"
+msgstr "Available"
+
+msgid "Associate"
+msgstr "Associate"
+
+msgid "Ceiling height"
+msgstr "Ceiling height"
+
+msgid "Unsold"
+msgstr "Unsold"
+
+msgid "Sold"
+msgstr "Sold"
+
+msgid "Last action"
+msgstr "Last action"
+
+msgid "Our agency"
+msgstr "Our agency"
+
+msgid "Locate us"
+msgstr "Locate us"
+
+msgid "Your main contact"
+msgstr "Contactul principal"
+
+msgid "Send me a message"
+msgstr "Send me a message"
+
+msgid "Leave us a message"
+msgstr "Lăsați-ne un mesaj"
+
+msgid "No action"
+msgstr "No action"
+
+msgid "Other"
+msgstr "Other"
+
+msgid "Received contact information"
+msgstr "Received contact information"
+
+msgid "Linked contact"
+msgstr "Linked contact"
+
+msgid "Related contacts"
+msgstr "Related contacts"
+
+msgid "Others"
+msgstr "Others"
+
+msgid "Assigned to"
+msgstr "Assigned to"
+
+msgid "Assign to"
+msgstr "Assign to"
+
+msgid "Assign by"
+msgstr "Assign by"
+
+msgid "Opened by"
+msgstr "Opened by"
+
+msgid "Closed by"
+msgstr "Closed by"
+
+msgid "Time zone"
+msgstr "Fusul orar"
+
+msgid "Customers"
+msgstr "Customers"
+
+msgid "Invert selection"
+msgstr "Invert selection"
+
+msgid "Select all"
+msgstr "Select all"
+
+msgid "Unselect all"
+msgstr "Unselect all"
+
+msgid "%s awaiting lead(s)"
+msgstr "%s lead(s) awaiting"
+
+msgid "%s lead(s) to assign"
+msgstr "%s lead(s) to assign"
+
+msgid "%s pending properties"
+msgstr "%s product(s) pending"
+
+msgid "%s pending matching(s)"
+msgstr "%s crossing pending"
+
+msgid "%s expired agreement(s)"
+msgstr "%s agreement(s) expired"
+
+msgid "%s expired soon agreement(s)"
+msgstr "%s agreement(s) expired soon"
+
+msgid "Legal notice"
+msgstr "Notă juridică"
+
+msgid "Tags"
+msgstr "Atribute"
+
+msgid "Allowed"
+msgstr "Allowed"
+
+msgid "Min stay"
+msgstr "Min stay"
+
+msgid "Over"
+msgstr "Over"
+
+msgid "Refresh"
+msgstr "Refresh"
+
+msgid "Free text"
+msgstr "Text liber"
+
+msgid "Generate comment"
+msgstr "Genera comentariu"
+
+msgid "Building name"
+msgstr "Building name"
+
+msgid "VAT"
+msgstr "TVA"
+
+msgid "VAT included"
+msgstr "VAT included"
+
+msgid "Recurrence"
+msgstr "Recurrence"
+
+msgid "Calculate"
+msgstr "Calculate"
+
+msgid "Contribution"
+msgstr "Contribution"
+
+msgid "Maximum debt"
+msgstr "Maximum debt"
+
+msgid "Purchase amount"
+msgstr "Purchase amount"
+
+msgid "Borrowing calculator"
+msgstr "Borrowing calculator"
+
+msgid "Monthly payment calculator"
+msgstr "Monthly payment calculator"
+
+msgid "You don't have broadcasting rights"
+msgstr "You don't have broadcasting rights"
+
+msgid "Pending"
+msgstr "Pending"
+
+msgid "Suggestions"
+msgstr "Suggestions"
+
+msgid "To show"
+msgstr "Show"
+
+msgid "Automatic"
+msgstr "Automatic"
+
+msgid "Manual"
+msgstr "Manual"
+
+msgid "In collaboration with a %name% professional"
+msgstr "În colaborare cu un %name% profesional"
+
+msgid "Partners"
+msgstr "Partners"
+
+msgid "Cost"
+msgstr "Cost"
+
+msgid "My search"
+msgstr "Căutarea mea"
+
+msgid "Units"
+msgstr "Lots"
+
+msgid "Spouse"
+msgstr "Spouse"
+
+msgid "Manager"
+msgstr "Manager"
+
+msgid "Category reference"
+msgstr "Category reference"
+
+msgid "Cadastre reference"
+msgstr "Cadastre reference"
+
+msgid "Lot reference"
+msgstr "Lot reference"
+
+msgid "Block reference"
+msgstr "Block reference"
+
+msgid "Stairs reference"
+msgstr "Stairs reference"
+
+msgid "Mortgage end at"
+msgstr "Mortgage end at"
+
+msgid "Review"
+msgstr "Review"
+
+msgid "Media"
+msgstr "Media"
+
+msgid "Report"
+msgstr "Report"
+
+msgid "Last access"
+msgstr "Last access"
+
+msgid "First access"
+msgstr "First access"
+
+msgid "Access count"
+msgstr "Access count"
+
+msgid "Default"
+msgstr "Default"
+
+msgid "Please do not enter any name or contact"
+msgstr "Please do not enter any name or contact"
+
+msgid "QR-Code"
+msgstr "QR-Code"
+
+msgid "Show price"
+msgstr "Show price"
+
+msgid "Done"
+msgstr "Done"
+
+msgid "In progress"
+msgstr "In progress"
+
+msgid "Not applicable"
+msgstr "Not applicable"
+
+msgid "Fill in the table"
+msgstr "Fill in the table"
+
+msgid "Choice"
+msgstr "Choice"
+
+msgid "copy"
+msgstr "copy"
+
+msgid "Authorization"
+msgstr "Autorizație"
+
+msgid "Last connection the %s"
+msgstr "Last connection the %s"
+
+msgid "All"
+msgstr "All"
+
+msgid "Wiki"
+msgstr "Wiki"
+
+msgid "Latest"
+msgstr "Recents"
+
+msgid "Reset"
+msgstr "Reset"
+
+msgid "Show/hide fields"
+msgstr "Show/hide fields"
+
+msgid "Recent searches"
+msgstr "Recherches récentes"
+
+msgid "Association"
+msgstr "Association"
+
+msgid "Meta crawler"
+msgstr "Meta crawler"
+
+msgid "Alerts"
+msgstr "Alerts"
+
+msgid "Prescribers"
+msgstr "Prescribers"
+
+msgid "Staff"
+msgstr "Staff"
+
+msgid "Standing"
+msgstr "Standing"
+
+msgid "Receive a copy"
+msgstr "Receive a copy"
+
+msgid "Latest views"
+msgstr "Latest views"
+
+msgid "Quality"
+msgstr "Quality"
+
+msgid "Viewing agreement"
+msgstr "Viewing agreement"
+
+msgid "Decline"
+msgstr "Refuzaţi"
+
+msgid "Declined"
+msgstr "Declined"
+
+msgid "Accept"
+msgstr "Accepta"
+
+msgid "Accepted"
+msgstr "Accepted"
+
+msgid "Zones"
+msgstr "Zones"
+
+msgid "Zone"
+msgstr "Zone"
+
+msgid "Matrimonial regime"
+msgstr "Matrimonial regime"
+
+msgid "Marital status"
+msgstr "Marital status"
+
+msgid "Thumbnail"
+msgstr "Thumbnail"
+
+msgid "Unread"
+msgstr "Unread"
+
+msgid "Reply"
+msgstr "Reply"
+
+msgid "Pension"
+msgstr "Pension"
+
+msgid "Beam"
+msgstr "Barrot"
+
+msgid "Draft"
+msgstr "Tirant d'eau"
+
+msgid "Guests"
+msgstr "Invités"
+
+msgid "Crew"
+msgstr "Équipage"
+
+msgid "Cruising speed"
+msgstr "Vitesse de croisière"
+
+msgid "Builder"
+msgstr "Constructeur"
+
+msgid "Administration"
+msgstr "Administrare"
+
+msgid "Civil law notary"
+msgstr "Notar"
+
+msgid "Max price"
+msgstr "Preț max"
+
+msgid "Advertising"
+msgstr "Advertising"
+
+msgid "Reminders"
+msgstr "Rappels"
+
+msgid "Credit"
+msgstr "Crédit"
+
+msgid "Signatures"
+msgstr "Signatures"
+
+msgid "Signature"
+msgstr "Signature"
+
+msgid "Title (politeness)"
+msgstr "Civilité"
+
+msgid "Amounts"
+msgstr "Montants"
+
+msgid "Updated at"
+msgstr "Mise à jour le"
+
+msgid "Created at"
+msgstr "Créé le"
+
+msgid "First published at"
+msgstr "Publiée le"
+
+msgid "Insurance"
+msgstr "Assurance"
+
+msgid "Provision"
+msgstr "Provision"
+
+msgid "Provider"
+msgstr "Fournisseur"
+
+msgid "Entries"
+msgstr "Ecritures"
+
+msgid "Number"
+msgstr "Nombre"
+
+msgid "Balcony"
+msgstr "Balcon"
+
+msgid "Terrace"
+msgstr "Terrasse"
+
+msgid "Plot of land area"
+msgstr "Suprafaţa terrain"
+
+msgid "Deposit account"
+msgstr "Deposit account"
+
+msgid "Owner's price"
+msgstr "Montant propriétaire"
+
+msgid "Starting price"
+msgstr "Montant de départ"
+
+msgid "Mobile"
+msgstr "Mobile"
+
+msgid "Tel."
+msgstr "Tél."
+
+msgid "Lease"
+msgstr "Bail"
+
+msgid "Leases"
+msgstr "Baux"
+
+msgid "Address"
+msgstr "Adresse"
+
+msgid "Searches"
+msgstr "Recherches"
+
+msgid "Delete"
+msgstr "Supprimer"
+
+msgid "Maps"
+msgstr "Plans"
+
+msgid "Days"
+msgstr "Zile"
+
+msgid "Catalog"
+msgstr "Catalogue"
+
+msgid "contact"
+msgstr "contact"
+
+msgid "contacts"
+msgstr "contacts"
+
+msgid "Statistics"
+msgstr "Statistiques"
+
+msgid "Built in"
+msgstr "Construit en"
+
+msgid "Mark"
+msgstr "Note"
+
+msgid "Percentage"
+msgstr "Pourcentage"
+
+msgid "Visits"
+msgstr "Visites"
+
+msgid "Visit comment"
+msgstr "Commentaire visite"
+
+msgid "Key number"
+msgstr "Numéro de clef"
+
+msgid "Key's place"
+msgstr "Présence clef"
+
+msgid "Displayed city (optional)"
+msgstr "Ville diffusée (facultatif)"
+
+msgid "Displayed district (optional)"
+msgstr "Quartier diffusé (facultatif)"
+
+msgid "Clauses"
+msgstr "Clauses"
+
+msgid "Postal code"
+msgstr "Code postal"
+
+msgid "Bathrooms"
+msgstr "Salles de bains"
+
+msgid "Seller"
+msgstr "Seller"
+
+msgid "Adjacency"
+msgstr "Mitoyenneté"
+
+msgid "Step"
+msgstr "Étape"
+
+msgid "Long comment"
+msgstr "Long comment"
+
+msgid "Subtitle"
+msgstr "Subtitle"
+
+msgid "Title"
+msgstr "Title"
+
+msgid "Ref"
+msgstr "Réf."
+
+msgid "price"
+msgstr "montant"
+
+msgid "Personal"
+msgstr "Personnel"
+
+msgid ""
+"Please note that there are dependencies, please select a contact for "
+"completing the data transfer."
+msgstr ""
+"Please note that there are dependencies, please select a contact for "
+"completing the data transfer."
+
+msgid "The installation can take several minutes, please come back later."
+msgstr "The installation can take several minutes, please come back later."
+
+msgid "Your contact speaks %s, would you like to change the language?"
+msgstr "Your contact speaks %s, would you like to change the language?"
+
+msgid "Would you like to publish on the homepage?"
+msgstr "Would you like to publish on the homepage?"
+
+msgid "plus VAT"
+msgstr "plus VAT"
+
+msgid "<b>Warning :</b> there is an error, please check each fields."
+msgstr "<b>Warning :</b> there is an error, please check each fields."
+
+msgid "Price/sq m"
+msgstr "Preț/m²"
+
+msgid "today"
+msgstr "astăzi"
+
+msgid "week"
+msgstr "săptămână"
+
+msgid "day"
+msgstr "zi"
+
+msgid "from %from_value% to %to_value%"
+msgstr "from %from_value% to %to_value%"
+
+msgid "message"
+msgstr "mesaj"
+
+msgid "Page"
+msgstr "Pagină"
+
+msgid "Action"
+msgstr "Acțiune"
+
+msgid "Status"
+msgstr "Statut"
+
+msgid "Agencies"
+msgstr "Agenţii"
+
+msgid "agencies"
+msgstr "agenţii"
+
+msgid "Context"
+msgstr "Context"
+
+msgid "More criteria"
+msgstr "Criterii suplimentare"
+
+msgid "Criteria"
+msgstr "Criterii"
+
+msgid "Classification"
+msgstr "Clasificare"
+
+msgid "metres"
+msgstr "metri"
+
+msgid "Window"
+msgstr "Vitrină"
+
+msgid "Stock area"
+msgstr "Suprafaţa de stoc"
+
+msgid "Sales area"
+msgstr "Suprafaţa de vente"
+
+msgid "Sale price"
+msgstr "Sale price"
+
+msgid "from %from_date% to %to_date%"
+msgstr "from %from_date% to %to_date%"
+
+msgid "sq m"
+msgstr "m²"
+
+msgid "days"
+msgstr "zile"
+
+msgid "bedrooms"
+msgstr "bedrooms"
+
+msgid "bedroom"
+msgstr "bedroom"
+
+msgid "rooms"
+msgstr "rooms"
+
+msgid "room"
+msgstr "room"
+
+msgid "Comments"
+msgstr "Commentaires"
+
+msgid "comment"
+msgstr "commentaire"
+
+msgid "comments"
+msgstr "commentaires"
+
+msgid "Private comment"
+msgstr "Commentaire privé"
+
+msgid "Private"
+msgstr "Privat"
+
+msgid "Levels"
+msgstr "Niveluri"
+
+msgid "Level"
+msgstr "Nivel"
+
+msgid "Exchange"
+msgstr "Transfert"
+
+msgid "by"
+msgstr "par"
+
+msgid "n.a"
+msgstr "n.c."
+
+msgid "Elevator"
+msgstr "Elevator"
+
+msgid "no"
+msgstr "non"
+
+msgid "yes"
+msgstr "oui"
+
+msgid "Printed with care"
+msgstr "Imprimé par nos soins"
+
+msgid "Please do not litter on public way"
+msgstr "Ne pas jeter sur la voie publique"
+
+msgid "Non-contractual information"
+msgstr "Informations non contractuelles"
+
+msgid "Agency fees"
+msgstr "Agency fees"
+
+msgid "Agency fees included"
+msgstr "Frais d'agence inclus"
+
+msgid "Agency fees not included"
+msgstr "Frais d'agence non inclus"
+
+msgid "Fees"
+msgstr "Charges"
+
+msgid "Personal property tax"
+msgstr "Taxe d'habitation"
+
+msgid "Property tax"
+msgstr "Taxe foncière"
+
+msgid "Style"
+msgstr "Style"
+
+msgid "Parkings"
+msgstr "Parkings"
+
+msgid "Kitchen"
+msgstr "Cuisine"
+
+msgid "Pictures"
+msgstr "Photos"
+
+msgid "Window card"
+msgstr "Fiche vitrine"
+
+msgid "Private sheet"
+msgstr "Fiche privée"
+
+msgid "Public sheet"
+msgstr "Fiche publique"
+
+msgid "Service"
+msgstr "Prestation"
+
+msgid "Language"
+msgstr "Langue"
+
+msgid "Cart"
+msgstr "Panier"
+
+msgid "Land type"
+msgstr "Type de terrain"
+
+msgid "Property agent"
+msgstr "Syndic"
+
+msgid "Agent"
+msgstr "Agent"
+
+msgid "Account"
+msgstr "Compte"
+
+msgid "End at"
+msgstr "Termine le"
+
+msgid "Close at"
+msgstr "Fermé le"
+
+msgid "Start at"
+msgstr "Démarre le"
+
+msgid "Guarantees"
+msgstr "Garanties"
+
+msgid "Edit"
+msgstr "Modifier"
+
+msgid "Type"
+msgstr "Type"
+
+msgid "Inter-agencies"
+msgstr "Inter-agences"
+
+msgid "Number of floors"
+msgstr "Nombre d'étages"
+
+msgid "Selection"
+msgstr "Selecție"
+
+msgid "Evaluated price"
+msgstr "Montant estimé"
+
+msgid "Seller's commission"
+msgstr "Seller's commission"
+
+msgid "Buyer's commission"
+msgstr "Buyer's commission"
+
+msgid "Commission"
+msgstr "Commission"
+
+msgid "Origin"
+msgstr "Origine"
+
+msgid "Specific origin"
+msgstr "Origine précise"
+
+msgid "Flooring"
+msgstr "Revêtement"
+
+msgid "Rank"
+msgstr "Position"
+
+msgid "Calls"
+msgstr "Appels"
+
+msgid "Phone call"
+msgstr "Appel"
+
+msgid "Publications"
+msgstr "Parutions"
+
+msgid "Send to contact"
+msgstr "Envoyer au contact"
+
+msgid "No results found"
+msgstr "No results found"
+
+msgid "Results"
+msgstr "Résultats"
+
+msgid "Result"
+msgstr "Résultat"
+
+msgid "results"
+msgstr "résultats"
+
+msgid "result"
+msgstr "résultat"
+
+msgid "Advertiser"
+msgstr "Annonceur"
+
+msgid "Active"
+msgstr "Actif"
+
+msgid "Confidential"
+msgstr "Confidentiel"
+
+msgid "Activity"
+msgstr "Activité"
+
+msgid "Companies"
+msgstr "Afaceri"
+
+msgid "Save"
+msgstr "Enregistrer"
+
+msgid "Succession"
+msgstr "Succession"
+
+msgid "Please fill in a city."
+msgstr "Please fill in a city."
+
+msgid "Guarantee"
+msgstr "Garantie"
+
+msgid "Please fill"
+msgstr "Please fill"
+
+msgid "The email address is invalid."
+msgstr "L'adresse e-mail n'est pas au bon format."
+
+msgid "Swimming pool"
+msgstr "Piscine"
+
+msgid "Rights"
+msgstr "Droits"
+
+msgid "Display"
+msgstr "Affichage"
+
+msgid "Since"
+msgstr "Depuis"
+
+msgid "Filter"
+msgstr "Filtre"
+
+msgid "Min"
+msgstr "Min"
+
+msgid "Max"
+msgstr "Max"
+
+msgid "Lessor"
+msgstr "Bailleur"
+
+msgid "Lessee"
+msgstr "Locataire"
+
+msgid "Reservations"
+msgstr "Réservations"
+
+msgid "Booking"
+msgstr "Réserver"
+
+msgid "Sleeps"
+msgstr "Couchages"
+
+msgid "Cleaning price"
+msgstr "Prix de nettoyage"
+
+msgid "Availabilities"
+msgstr "Disponibilităţi"
+
+msgid "Sent"
+msgstr "Trimisa"
+
+msgid "Year"
+msgstr "An"
+
+msgid "years"
+msgstr "ani"
+
+msgid "month"
+msgstr "lună"
+
+msgid "Seasons"
+msgstr "Saisons"
+
+msgid "Season"
+msgstr "Saison"
+
+msgid "Rates"
+msgstr "Rata"
+
+msgid "Todo"
+msgstr "À faire"
+
+msgid "Brands"
+msgstr "Franchises"
+
+msgid "Brand"
+msgstr "Franchise"
+
+msgid "Publicated at"
+msgstr "Publié le"
+
+msgid "Network"
+msgstr "Network"
+
+msgid "Bank"
+msgstr "Bancă"
+
+msgid "Brief comment"
+msgstr "Description succincte"
+
+msgid "Delivery at"
+msgstr "Livraison le"
+
+msgid "Reason"
+msgstr "Motiv"
+
+msgid "What's new"
+msgstr "Ce mai e nou"
+
+msgid "requests"
+msgstr "cereri"
+
+msgid "Request"
+msgstr "Cerere"
+
+msgid "request"
+msgstr "cerere"
+
+msgid "Current rent"
+msgstr "Chiria actuală"
+
+msgid "Properties"
+msgstr "Produse"
+
+msgid "properties"
+msgstr "produse"
+
+msgid "property"
+msgstr "produs"
+
+msgid "Bill"
+msgstr "Factură"
+
+msgid "Calculator"
+msgstr "Calculator"
+
+msgid "Birthplace"
+msgstr "Locul naşterii"
+
+msgid "Birthday"
+msgstr "Zi de naştere"
+
+msgid "Income"
+msgstr "Venituri"
+
+msgid "Costs"
+msgstr "Cheltuieli"
+
+msgid "Margin"
+msgstr "Margine"
+
+msgid "Required."
+msgstr "Obligatoriu"
+
+msgid "Seasonal"
+msgstr "Saisonnier"
+
+msgid "Spoken language"
+msgstr "Limba vorbită"
+
+msgid "Number of children"
+msgstr "Numărul de copii"
+
+msgid "Exclusive"
+msgstr "Exclusivitate"
+
+msgid "Hotline"
+msgstr "Asistenţă"
+
+msgid "Security"
+msgstr "Securitate"
+
+msgid "Re-type password"
+msgstr "Reintroduceti parola"
+
+msgid "Public longitude"
+msgstr "Public longitude"
+
+msgid "Public latitude"
+msgstr "Public latitude"
+
+msgid "Access denied"
+msgstr "Access denied"
+
+msgid "Access"
+msgstr "Acces"
+
+msgid "Launch"
+msgstr "Demarare"
+
+msgid "Shortcuts"
+msgstr "Scurtaturi"
+
+msgid "e-mailing"
+msgstr "e-mailing"
+
+msgid "Subscription"
+msgstr "Abonament"
+
+msgid "SEO"
+msgstr "Optimizare pentru motoare de căutare"
+
+msgid "Life annuity length"
+msgstr "Durata viageră"
+
+msgid "Market value"
+msgstr "Cursul pieţii"
+
+msgid "Price contribution"
+msgstr "Contribuţia iniţială"
+
+msgid "Sharing"
+msgstr "Partajare"
+
+msgid "Show more results"
+msgstr "Arată mai multe rezultate"
+
+msgid "Close"
+msgstr "Închide"
+
+msgid "Hide"
+msgstr "Ascunde"
+
+msgid "Keywords"
+msgstr "Cuvinte cheie"
+
+msgid "Corporate register"
+msgstr "Registru de comerţ"
+
+msgid "Expired soon"
+msgstr "Expirate în curând"
+
+msgid "Expired"
+msgstr "Expirate"
+
+msgid "Agreements"
+msgstr "Mandate"
+
+msgid "Agreement"
+msgstr "Mandat"
+
+msgid "Agreement number"
+msgstr "Număr de mandat"
+
+msgid "VAT identification number"
+msgstr "Numărul de înregistrare pentru TVA"
+
+msgid "What's on your mind?"
+msgstr "Exprimaţi-vă ..."
+
+msgid "Buyer"
+msgstr "Cumpărător"
+
+msgid "Prescriber"
+msgstr "Consilier"
+
+msgid "Message sent"
+msgstr "Mesaj trimis"
+
+msgid "Limit"
+msgstr "Limitâ"
+
+msgid "Publish"
+msgstr "Publicaţi"
+
+msgid "Do not publish"
+msgstr "Nu publicaţi"
+
+msgid "Cancel"
+msgstr "Anulare"
+
+msgid "Already suggested"
+msgstr "Sugerat deja"
+
+msgid "To suggest"
+msgstr "Nou sugestie"
+
+msgid "Suggest"
+msgstr "Sugerare"
+
+msgid "Diagnostics"
+msgstr "Expertizâ"
+
+msgid "Footer"
+msgstr "Subsol"
+
+msgid "Header"
+msgstr "Antet"
+
+msgid "Serviced plot"
+msgstr "Teren conectat"
+
+msgid "Net floor area"
+msgstr "Suprafaţa netă"
+
+msgid "Sold price"
+msgstr "Prețul vândut"
+
+msgid "Sold at"
+msgstr "Sold at"
+
+msgid "Preview"
+msgstr "Vizualizare"
+
+msgid "Garden area"
+msgstr "Suprafaţa grădinei"
+
+msgid "Payments"
+msgstr "Plată"
+
+msgid "Reopen"
+msgstr "Redeschide"
+
+msgid "Completed"
+msgstr "Terminat"
+
+msgid "Complete"
+msgstr "Terminare"
+
+msgid "Callback"
+msgstr "Reamintire"
+
+msgid "Callbacks"
+msgstr "Reamintiri"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Coagent"
+msgstr "Co-agent"
+
+msgid "Residences"
+msgstr "Reşedinţe"
+
+msgid "Residence"
+msgstr "Reşedinţă"
+
+msgid "Characteristics"
+msgstr "Caracteristici"
+
+msgid "Bed"
+msgstr "Couchage"
+
+msgid "%s units"
+msgstr "%s lots"
+
+msgid "%s unit"
+msgstr "%s lot"
+
+msgid "%s guests"
+msgstr "%s invités"
+
+msgid "%s guest"
+msgstr "%s invité"
+
+msgid "%s beds"
+msgstr "%s couchages"
+
+msgid "%s bed"
+msgstr "%s couchage"
+
+msgid "%s bathrooms"
+msgstr "%s salles de bains"
+
+msgid "Spoken languages"
+msgstr "Limbi vorbite"
+
+msgid "Unit"
+msgstr "Lot"
+
+msgid "Mandatory fields"
+msgstr "Câmpuri obligatorii"
+
+msgid "Contract end at"
+msgstr "Sfârșitul contractului la"
+
+msgid "Location Map"
+msgstr "Harta locației"
+
+msgid "User Detail"
+msgstr "Detalii utilizator"
+
+msgid "File size"
+msgstr "Dimensiunea fișierului"
+
+msgid "File title"
+msgstr "Titlul fișierului"
+
+msgid "Region"
+msgstr "Regiune"
+
+msgid "Bath"
+msgstr "Baie"
+
+msgid "Private Negotiation"
+msgstr "Negociere privată"
+
+msgid "Property specifications"
+msgstr "Specificații proprietate"
+
+msgid "Energy performance"
+msgstr "Performanța energetică"
+
+msgid "Media Details"
+msgstr "Detalii media"
+
+msgid "View Video"
+msgstr "Vizualizează video"
+
+msgid "Start Date"
+msgstr "Data de început"
+
+msgid "End Date"
+msgstr "Data de sfârșit"
+
+msgid "Welcome"
+msgstr "Bun venit"
+
+msgid "See What’s happening with Apimo Plugin."
+msgstr "Vedeți ce se întâmplă cu pluginul Apimo."
+
+msgid "PROVIDERS"
+msgstr "FURNIZORI"
+
+msgid "AGENCIES"
+msgstr "AGENȚII"
+
+msgid "PROPERTIES"
+msgstr "PROPRIETĂȚI"
+
+msgid "BOOKMARK"
+msgstr "SEMNE DE CARTE"
+
+msgid "Remove all"
+msgstr "Elimină tot"
+
+msgid "Apply filter"
+msgstr "Aplică filtrul"
+
+msgid "Select Subtype"
+msgstr "Selectați subtipul"
+
+msgid "Enchère"
+msgstr "Licitație"
+
+msgid "Location"
+msgstr "Închiriere"
+
+msgid "Location saisonnière"
+msgstr "Închiriere sezonieră"
+
+msgid "From"
+msgstr "De la"
+
+msgid "To"
+msgstr "La"
+
+msgid "Dates"
+msgstr "Date"
+
+msgid "Select country"
+msgstr "Selectați țara"
+
+msgid "Select region"
+msgstr "Selectați regiunea"
+
+msgid "Select district"
+msgstr "Selectați districtul"
+
+msgid "Select city"
+msgstr "Selectați orașul"
+
+msgid "Good"
+msgstr "Bun"
+
+msgid "Bad"
+msgstr "Rău"
+
+msgid "hello"
+msgstr "Buna ziua"
+
+msgid "Available Integrations"
+msgstr "Integrări disponibile"
+
+msgid "reCAPTCHA Detected"
+msgstr "Recaptcha detectat"
+
+msgid "reCAPTCHA Not Detected"
+msgstr "Recaptcha nu a fost detectată"
+
+msgid "Google reCAPTCHA Integration"
+msgstr "Integrarea Google Recaptcha"
+
+msgid ""
+"Protect your forms from spam and abuse with Google reCAPTCHA integration."
+msgstr ""
+"Protejați -vă formularele de spam și abuzuri cu integrarea Google Recaptcha."
+
+msgid "Activate Integration"
+msgstr "Activați integrarea"
+
+msgid "Deactivate Integration"
+msgstr "Dezactivarea integrării"
+
+msgid "reCAPTCHA Configuration"
+msgstr "Configurare recaptcha"
+
+msgid "Please configure your reCAPTCHA keys below to complete the setup."
+msgstr ""
+"Vă rugăm să configurați tastele Recaptcha de mai jos pentru a completa "
+"configurarea."
+
+msgid "To complete the reCAPTCHA setup:"
+msgstr "Pentru a finaliza configurarea Recaptcha:"
+
+msgid "Go to the"
+msgstr "Mergeți la"
+
+msgid "Google reCAPTCHA Admin Console"
+msgstr "Consola Admin Recaptcha Google"
+
+msgid "Register your site and get your Site Key and Secret Key"
+msgstr ""
+"Înregistrați -vă site -ul și obțineți cheia site -ului și cheia secretă"
+
+msgid "Enter the keys below to activate reCAPTCHA"
+msgstr "Introduceți tastele de mai jos pentru a activa Recaptcha"
+
+msgid "reCAPTCHA is configured properly."
+msgstr "Recaptcha este configurat corect."
+
+msgid "Site Key"
+msgstr "Cheia site -ului"
+
+msgid "Secret Key"
+msgstr "Cheie secretă"
+
+msgid "Save Configuration"
+msgstr "Salvați configurația"
+
+msgid "Contact Form"
+msgstr "Formular de contact"
+
+msgid "Invalid format"
+msgstr "Format nevalid"
+
+msgid "This field is required"
+msgstr "Acest câmp este necesar"
+
+msgid "Invalid email format"
+msgstr "Format de e -mail nevalid"
+
+msgid "Please use reCAPTCHA version 3"
+msgstr "Vă rugăm să utilizați Recaptcha Versiunea 3"

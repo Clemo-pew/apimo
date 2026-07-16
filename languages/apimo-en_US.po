@@ -1,0 +1,6867 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.1\n"
+
+msgid "Reminder"
+msgstr "Reminder"
+
+msgid "Suggestion"
+msgstr "Suggestion"
+
+msgid "Report"
+msgstr "Report"
+
+msgid "Other"
+msgstr "Other"
+
+#, fuzzy
+msgid "Valuation"
+msgstr ""
+"#-#-#-#-#  apimo-en_US.po  #-#-#-#-#\n"
+"Estimation\n"
+"#-#-#-#-#  apimo-en_US.po  #-#-#-#-#\n"
+"Valuation\n"
+"#-#-#-#-#  apimo-en_US.po  #-#-#-#-#\n"
+"Valuation"
+
+msgid "Advertising"
+msgstr "Advertising"
+
+msgid "Open House"
+msgstr "Open House"
+
+msgid "Canvassing"
+msgstr "Canvassing"
+
+msgid "Message"
+msgstr "Message"
+
+msgid "After-sales"
+msgstr "After-sales"
+
+msgid "Virtual tour"
+msgstr "Virtual tour"
+
+msgid "Visit"
+msgstr "Visit - Tour"
+
+msgid "Survey"
+msgstr "Survey"
+
+msgid "Appointment"
+msgstr "Appointment"
+
+msgid "Commercial"
+msgstr "Commercial"
+
+msgid "Phone"
+msgstr "Phone"
+
+msgid "e-mail"
+msgstr "e-mail"
+
+msgid "Fax"
+msgstr "Fax"
+
+msgid "Mail"
+msgstr "Mail"
+
+msgid "SMS"
+msgstr "SMS"
+
+msgid "Walk-in"
+msgstr "Walk-in"
+
+msgid "Extranet"
+msgstr "Extranet"
+
+msgid "Reservation"
+msgstr "Reservation"
+
+msgid "Signed"
+msgstr "Signed"
+
+msgid "Canceled"
+msgstr "Canceled"
+
+msgid "Closed"
+msgstr "Closed"
+
+msgid "Transaction"
+msgstr "Transaction"
+
+msgid "Rental management"
+msgstr "Rental management"
+
+msgid "Search"
+msgstr "Search"
+
+msgid "Caution"
+msgstr "Caution"
+
+msgid "Project"
+msgstr "Project"
+
+msgid "Under construction"
+msgstr "Under construction"
+
+msgid "Delivered"
+msgstr "Delivered"
+
+msgid "Ended"
+msgstr "Ended"
+
+msgid "Mr."
+msgstr "Mr."
+
+msgid "Mrs."
+msgstr "Mrs."
+
+msgid "Ms."
+msgstr "Ms."
+
+msgid "Mr. & Mrs."
+msgstr "Mr. & Mrs."
+
+msgid "Sheik"
+msgstr "Sheik"
+
+msgid "Duke"
+msgstr "Duke"
+
+msgid "Duchess"
+msgstr "Duchess"
+
+msgid "Lord"
+msgstr "Lord"
+
+msgid "Maître"
+msgstr "Maître"
+
+msgid "Professor"
+msgstr "Professor"
+
+msgid "Sir"
+msgstr "Sir"
+
+msgid "Engineer"
+msgstr "Engineer"
+
+msgid "Notary"
+msgstr "Notary"
+
+msgid "Accountant"
+msgstr "Accountant"
+
+msgid "Colonel"
+msgstr "Colonel"
+
+msgid "Architetto"
+msgstr "Architetto"
+
+msgid "Plan"
+msgstr "Plan"
+
+msgid "Identity papers"
+msgstr "Identity papers"
+
+msgid "Diagnostics"
+msgstr "Diagnostics"
+
+msgid "Agreement"
+msgstr "Agreement"
+
+msgid "Contract"
+msgstr "Contract"
+
+msgid "Condominium"
+msgstr "Condominium"
+
+msgid "Maintenance"
+msgstr "Maintenance"
+
+msgid "Appraisal"
+msgstr "Appraisal"
+
+msgid "Brochure"
+msgstr "Brochure"
+
+msgid "Invoice"
+msgstr "Invoice"
+
+msgid "Lease"
+msgstr "Lease"
+
+msgid "Inventory"
+msgstr "Inventory"
+
+msgid "Title deeds"
+msgstr "Title of ownership"
+
+msgid "Application"
+msgstr "Application"
+
+msgid "Regulations"
+msgstr "Regulations"
+
+msgid "AML/KYC Vendor"
+msgstr "AML/KYC Vendor"
+
+msgid "AML/KYC Buyer"
+msgstr "AML/KYC Buyer"
+
+msgid "Electricity"
+msgstr "Electricity"
+
+msgid "Water"
+msgstr "Water"
+
+msgid "Maintenance of common areas"
+msgstr "Maintenance of common areas"
+
+msgid "Waste collection"
+msgstr "Waste collection"
+
+msgid "Heating"
+msgstr "Heating"
+
+msgid "Hot water"
+msgstr "Hot water"
+
+msgid "Property tax"
+msgstr "Property tax"
+
+msgid "Concierge"
+msgstr "Concierge"
+
+msgid "Chimney-sweeping"
+msgstr "Chimney-sweeping"
+
+msgid "Sanitation"
+msgstr "Sanitation"
+
+msgid "Household waste tax"
+msgstr "Household waste tax"
+
+msgid "Contact"
+msgstr "Contact"
+
+msgid "Owner"
+msgstr "Owner"
+
+msgid "e-mail alert"
+msgstr "e-mail alert"
+
+msgid "Send to a friend"
+msgstr "Send to a friend"
+
+msgid "Newsletter"
+msgstr "Newsletter"
+
+msgid "Selection"
+msgstr "Selection"
+
+msgid "New"
+msgstr "New"
+
+msgid "Opened"
+msgstr "Opened"
+
+msgid "Processing"
+msgstr "Processing"
+
+msgid "Self-employed"
+msgstr "Self-employed"
+
+msgid "Bakery"
+msgstr "Bakery"
+
+msgid "Restaurant"
+msgstr "Restaurant"
+
+msgid "Press"
+msgstr "Press"
+
+msgid "Bar"
+msgstr "Bar"
+
+msgid "Florist"
+msgstr "Florist"
+
+msgid "Tobacconist"
+msgstr "Tobacconist"
+
+msgid "Clothes"
+msgstr "Clothes"
+
+msgid "Chemist"
+msgstr "Pharmacy"
+
+msgid "Shopping centre"
+msgstr "Shopping mall"
+
+msgid "Travel agency"
+msgstr "Travel agency"
+
+msgid "Real estate agent"
+msgstr "Real estate agent"
+
+msgid "Gallery"
+msgstr "Gallery"
+
+msgid "Garage"
+msgstr "Garage"
+
+msgid "Insurer"
+msgstr "Insurer"
+
+msgid "Optician"
+msgstr "Optician"
+
+msgid "Perfumery"
+msgstr "Perfumery"
+
+msgid "Hotel"
+msgstr "Hotel"
+
+msgid "Antique dealer"
+msgstr "Antique dealer"
+
+msgid "Laundry"
+msgstr "Laundry"
+
+msgid "Pressing"
+msgstr "Pressing"
+
+msgid "Jeweller"
+msgstr "Jeweller"
+
+msgid "Grocer"
+msgstr "Grocer"
+
+msgid "Butcher"
+msgstr "Butcher"
+
+msgid "Caterer"
+msgstr "Caterer"
+
+msgid "Brewery"
+msgstr "Brewery"
+
+msgid "Snack"
+msgstr "Snack"
+
+msgid "Confectioner"
+msgstr "Confectioner"
+
+msgid "Pork butcher"
+msgstr "Pork butcher"
+
+msgid "Grocery"
+msgstr "Grocery"
+
+msgid "Cheesemonger"
+msgstr "Cheesemonger"
+
+msgid "Fruit and vegetables"
+msgstr "Fruit and vegetables"
+
+msgid "Sex shop"
+msgstr "Sex shop"
+
+msgid "Video game"
+msgstr "Video game"
+
+msgid "Computer"
+msgstr "Computer"
+
+msgid "Hairdresser"
+msgstr "Hairdresser"
+
+msgid "Cosmetician"
+msgstr "Cosmetician"
+
+msgid "Household electrical"
+msgstr "Household electrical"
+
+msgid "Shoes"
+msgstr "Shoes"
+
+msgid "Haberdasher"
+msgstr "Haberdasher"
+
+msgid "Groomer"
+msgstr "Groomer"
+
+msgid "Tea room"
+msgstr "Tea room"
+
+msgid "Beach"
+msgstr "Beach"
+
+msgid "Bookshop"
+msgstr "Bookstore"
+
+msgid "Offices"
+msgstr "Offices"
+
+msgid "Gas station"
+msgstr "Gas station"
+
+msgid "Camping"
+msgstr "Camping"
+
+msgid "Nightclub"
+msgstr "Nightclub"
+
+msgid "Pet store"
+msgstr "Pet store"
+
+msgid "Video arcade"
+msgstr "Video arcade"
+
+msgid "Office supplies"
+msgstr "Office supplies"
+
+msgid "Furniture"
+msgstr "Furniture"
+
+msgid "Decoration"
+msgstr "Decoration"
+
+msgid "Agriculture"
+msgstr "Agriculture"
+
+msgid "Photo"
+msgstr "Photo"
+
+msgid "Drugstore"
+msgstr "Drugstore"
+
+msgid "Locksmith"
+msgstr "Locksmith"
+
+msgid "Health club"
+msgstr "Health club"
+
+msgid "Taxi"
+msgstr "Taxi"
+
+#, fuzzy
+msgid "Cinema"
+msgstr ""
+"#-#-#-#-#  apimo-en_US.po  #-#-#-#-#\n"
+"Movie theater\n"
+"#-#-#-#-#  apimo-en_US.po  #-#-#-#-#\n"
+"Cinema"
+
+msgid "Theater"
+msgstr "Theater"
+
+msgid "Café"
+msgstr "Café"
+
+msgid "Garden centre"
+msgstr "Garden centre"
+
+msgid "Hardware shop"
+msgstr "Hardware shop"
+
+msgid "Fishmongers"
+msgstr "Fishmongers"
+
+msgid "Recreation"
+msgstr "Recreation"
+
+msgid "Culture"
+msgstr "Culture"
+
+msgid "Funeral"
+msgstr "Funeral"
+
+msgid "Agritourism"
+msgstr "Agritourism"
+
+msgid "Golf"
+msgstr "Golf"
+
+msgid "Ice cream shop"
+msgstr "Ice cream shop"
+
+msgid "Sport supplies"
+msgstr "Sport supplies"
+
+msgid "Bedroom"
+msgstr "Bedroom"
+
+msgid "Living-room"
+msgstr "Living-room"
+
+msgid "Kitchen"
+msgstr "Kitchen"
+
+msgid "Parking"
+msgstr "Parking"
+
+msgid "Cellar"
+msgstr "Cellar"
+
+msgid "Garden shelter"
+msgstr "Garden shelter"
+
+msgid "Bathroom"
+msgstr "Bathroom"
+
+msgid "Laundry room"
+msgstr "Laundry room"
+
+msgid "Study"
+msgstr "Study"
+
+msgid "Hallway"
+msgstr "Hallway"
+
+msgid "Corridor"
+msgstr "Corridor"
+
+msgid "Shower room"
+msgstr "Shower room"
+
+msgid "Walk-in wardrobe"
+msgstr "Walk-in closet"
+
+msgid "Entrance"
+msgstr "Entrance"
+
+msgid "Lavatory"
+msgstr "Lavatory"
+
+msgid "Veranda"
+msgstr "Veranda"
+
+msgid "Terrace"
+msgstr "Terrace"
+
+msgid "Solarium"
+msgstr "Solarium"
+
+msgid "Living room/dining area"
+msgstr "Living room/dining area"
+
+msgid "Play room"
+msgstr "Play room"
+
+msgid "Dining room"
+msgstr "Dining room"
+
+msgid "Pool house"
+msgstr "Pool house"
+
+msgid "Cupboard"
+msgstr "Cupboard"
+
+msgid "Not used"
+msgstr "Not used"
+
+msgid "Loggia"
+msgstr "Loggia"
+
+msgid "Attic"
+msgstr "Attic"
+
+msgid "Mezzanine"
+msgstr "Mezzanine"
+
+msgid "Pantry"
+msgstr "Pantry"
+
+msgid "Maintenance room"
+msgstr "Maintenance room"
+
+msgid "Workshop"
+msgstr "Workshop"
+
+msgid "Studio"
+msgstr "Studio"
+
+msgid "Loft"
+msgstr "Loft"
+
+msgid "Library"
+msgstr "Library"
+
+msgid "Closet"
+msgstr "Closet"
+
+msgid "Courtyard"
+msgstr "Courtyard"
+
+msgid "Landing"
+msgstr "Landing"
+
+msgid "Linen room"
+msgstr "Linen room"
+
+msgid "Basement"
+msgstr "Basement"
+
+msgid "Bathroom / Lavatory"
+msgstr "Bathroom / Lavatory"
+
+msgid "Shower room / Lavatory"
+msgstr "Shower room / Lavatory"
+
+msgid "Balcony"
+msgstr "Balcony"
+
+msgid "Exercise room"
+msgstr "Exercise room"
+
+msgid "Discothèque"
+msgstr "Discothèque"
+
+msgid "Home cinema"
+msgstr "Home cinema"
+
+msgid "Reception room"
+msgstr "Reception room"
+
+msgid "Storage room"
+msgstr "Storage room"
+
+msgid "Garden"
+msgstr "Garden"
+
+msgid "Park"
+msgstr "Park"
+
+msgid "Land"
+msgstr "Land"
+
+msgid "Patio"
+msgstr "Patio"
+
+msgid "Principal bedroom"
+msgstr "Primary bedroom"
+
+msgid "Suite"
+msgstr "Suite"
+
+msgid "Shed"
+msgstr "Shed"
+
+msgid "Apartment"
+msgstr "Apartment"
+
+msgid "Cabin"
+msgstr "Cabin"
+
+msgid "Barn"
+msgstr "Barn"
+
+msgid "Outbuilding"
+msgstr "Outbuilding"
+
+msgid "Bike storage room"
+msgstr "Bike storage room"
+
+msgid "Ski storage room"
+msgstr "Ski storage room"
+
+msgid "Garbage room"
+msgstr "Garbage room"
+
+msgid "Steam room"
+msgstr "Hammam"
+
+msgid "Indoor swimming pool"
+msgstr "Indoor swimming pool"
+
+msgid "Prayer room"
+msgstr "Prayer room"
+
+msgid "Sauna"
+msgstr "Sauna"
+
+msgid "Watchtower"
+msgstr "Watchtower"
+
+msgid "Room"
+msgstr "Room"
+
+msgid "Meeting room"
+msgstr "Meeting room"
+
+msgid "Maid's room"
+msgstr "Maid's room"
+
+msgid "Maid's studio"
+msgstr "Maid's studio"
+
+msgid "Double reception room"
+msgstr "Double reception room"
+
+msgid "Triple reception room"
+msgstr "Triple reception room"
+
+msgid "Indoor parking"
+msgstr "Indoor parking"
+
+msgid "Outdoor parking"
+msgstr "Outdoor parking"
+
+msgid "Stockroom"
+msgstr "Stockroom"
+
+msgid "Shop"
+msgstr "Shop"
+
+msgid "Cafeteria"
+msgstr "Cafeteria"
+
+msgid "Unit"
+msgstr "Unit"
+
+msgid "Warehouse"
+msgstr "Warehouse"
+
+msgid "Accommodation"
+msgstr "Accommodation"
+
+msgid "Arcade"
+msgstr "Arcade"
+
+msgid "House"
+msgstr "House"
+
+msgid "Stair"
+msgstr "Stair"
+
+msgid "Box"
+msgstr "Box"
+
+msgid "Carnotzet"
+msgstr "Carnotzet"
+
+msgid "Panic room"
+msgstr "Panic room"
+
+msgid "Open space"
+msgstr "Open space"
+
+msgid "Hall"
+msgstr "Hall"
+
+msgid "Living room/kitchen"
+msgstr "Living room/kitchen"
+
+msgid "Summer kitchen"
+msgstr "Summer kitchen"
+
+msgid "Spa"
+msgstr "Spa"
+
+msgid "Boathouse"
+msgstr "Boathouse"
+
+msgid "Eat-in kitchen"
+msgstr "Eat-in kitchen"
+
+msgid "Equipped kitchen"
+msgstr "Equipped kitchen"
+
+msgid "Semi equipped kitchen"
+msgstr "Semi equipped kitchen"
+
+msgid "Corner kitchen"
+msgstr "Corner kitchen"
+
+msgid "Kitchenette"
+msgstr "Kitchenette"
+
+msgid "Open kitchen"
+msgstr "Open kitchen"
+
+msgid "Plot"
+msgstr "Plot"
+
+msgid "Porch"
+msgstr "Porch"
+
+msgid "Living/dining/kitchen area"
+msgstr "Living/dining/kitchen area"
+
+msgid "Children's room"
+msgstr "Children's room"
+
+msgid "Locker"
+msgstr "Locker"
+
+msgid "Lobby"
+msgstr "Lobby"
+
+msgid "Accessible toilet"
+msgstr "Accessible toilet"
+
+msgid "Craft workshop"
+msgstr "Craft workshop"
+
+msgid "Wine cellar"
+msgstr "Wine cellar"
+
+msgid "Plateau"
+msgstr "Plateau"
+
+msgid "Stable"
+msgstr "Stable"
+
+msgid "Winter garden"
+msgstr "Winter garden"
+
+msgid "Cold room"
+msgstr "Cold room"
+
+msgid "Accessible bedroom"
+msgstr "Accessible bedroom"
+
+msgid "Single"
+msgstr "Single"
+
+msgid "Twin"
+msgstr "Twin"
+
+msgid "Twin by garage"
+msgstr "Twin by garage"
+
+msgid "Village house"
+msgstr "Village house"
+
+msgid "Twin by angle"
+msgstr "Twin by angle"
+
+msgid "Ranged"
+msgstr "Ranged"
+
+msgid "Standard"
+msgstr "Standard"
+
+msgid "Co-exclusive"
+msgstr "Co-exclusive"
+
+msgid "Exclusive"
+msgstr "Exclusive"
+
+msgid "Delegation"
+msgstr "Delegation"
+
+msgid "Exclusive agent"
+msgstr "Exclusive agent"
+
+msgid "Colleague"
+msgstr "Colleague"
+
+msgid "Verbal"
+msgstr "Verbal"
+
+msgid "Free"
+msgstr "Free"
+
+msgid "Rented"
+msgstr "Rented"
+
+msgid "Occupied"
+msgstr "Occupied"
+
+msgid "To be agreed"
+msgstr "To be agreed"
+
+msgid "Building"
+msgstr "Building"
+
+msgid "Residence"
+msgstr "Residence"
+
+msgid "Housing scheme"
+msgstr "Housing scheme"
+
+msgid "Hamlet"
+msgstr "Hamlet"
+
+msgid "Domain"
+msgstr "Domain"
+
+msgid "Property"
+msgstr "Property"
+
+msgid "Street"
+msgstr "Street"
+
+msgid "Sale"
+msgstr "Sale"
+
+msgid "Rental"
+msgstr "Rental"
+
+msgid "Seasonal rental"
+msgstr "Seasonal rental"
+
+msgid "Development"
+msgstr "Development"
+
+msgid "Life annuity"
+msgstr "Life annuity"
+
+msgid "Auction"
+msgstr "Auction"
+
+msgid "Unit sale"
+msgstr "Unit sale"
+
+msgid "Bulk sale"
+msgstr "Bulk sale"
+
+msgid "Unfurnished"
+msgstr "Unfurnished"
+
+msgid "Furnished"
+msgstr "Furnished"
+
+msgid "Roommate"
+msgstr "Roommate"
+
+msgid "Student"
+msgstr "Student"
+
+msgid "Half furnished"
+msgstr "Half furnished"
+
+msgid "Coworking"
+msgstr "Coworking"
+
+msgid "Holidays"
+msgstr "Holidays"
+
+msgid "Event"
+msgstr "Event"
+
+msgid "New construction"
+msgstr "New construction"
+
+msgid "Life annuity occupied"
+msgstr "Life annuity occupied"
+
+msgid "Bare Ownership"
+msgstr "Bare Ownership"
+
+msgid "Forward sale"
+msgstr "Forward sale"
+
+msgid "Life annuity semi-occupied"
+msgstr "Life annuity semi-occupied"
+
+msgid "Forward sale available"
+msgstr "Forward sale available"
+
+msgid "Forward sale semi-occupied"
+msgstr "Forward sale semi-occupied"
+
+msgid "Forward sale occupied"
+msgstr "Forward sale occupied"
+
+msgid "Life annuity without income"
+msgstr "Life annuity without income"
+
+msgid "Requires updating"
+msgstr "Requires updating"
+
+msgid "Good condition"
+msgstr "Good condition"
+
+msgid "Requires renovation"
+msgstr "Requires renovation"
+
+msgid "Excellent condition"
+msgstr "Excellent condition"
+
+msgid "Timber"
+msgstr "Timber"
+
+msgid "Engineered wood"
+msgstr "Engineered wood"
+
+msgid "Stone"
+msgstr "Stone"
+
+msgid "Brick"
+msgstr "Brick"
+
+msgid "Concrete"
+msgstr "Concrete"
+
+msgid "Reinforced concrete"
+msgstr "Reinforced concrete"
+
+msgid "Wood frame"
+msgstr "Wood frame"
+
+msgid "Steel frame"
+msgstr "Steel frame"
+
+msgid "Reinforced concrete frame"
+msgstr "Reinforced concrete frame"
+
+msgid "Shear wall"
+msgstr "Shear wall"
+
+msgid "Concrete block"
+msgstr "Concrete block"
+
+msgid "Dimension stone"
+msgstr "Dimension stone"
+
+msgid "Monolith brick"
+msgstr "Monolith brick"
+
+msgid "Panel"
+msgstr "Panel"
+
+msgid "Metal frame"
+msgstr "Metal frame"
+
+msgid "Mudbrick"
+msgstr "Mudbrick"
+
+msgid "Cinder block"
+msgstr "Cinder block"
+
+msgid "Aerated concrete"
+msgstr "Aerated concrete"
+
+msgid "Ground floor"
+msgstr "Ground floor"
+
+msgid "Top floor"
+msgstr "Top floor"
+
+msgid "1st"
+msgstr "1st"
+
+msgid "2nd"
+msgstr "2nd"
+
+msgid "3rd"
+msgstr "3rd"
+
+msgid "4th"
+msgstr "4th"
+
+msgid "5th"
+msgstr "5th"
+
+msgid "6th"
+msgstr "6th"
+
+msgid "7th"
+msgstr "7th"
+
+msgid "8th"
+msgstr "8th"
+
+msgid "9th"
+msgstr "9th"
+
+msgid "10th"
+msgstr "10th"
+
+msgid "11th"
+msgstr "11th"
+
+msgid "12th"
+msgstr "12th"
+
+msgid "13th"
+msgstr "13th"
+
+msgid "14th"
+msgstr "14th"
+
+msgid "15th"
+msgstr "15th"
+
+msgid "16th"
+msgstr "16th"
+
+msgid "17th"
+msgstr "17th"
+
+msgid "18th"
+msgstr "18th"
+
+msgid "19th"
+msgstr "19th"
+
+msgid "20th"
+msgstr "20th"
+
+msgid "Garden level"
+msgstr "Garden level"
+
+msgid "Split-level"
+msgstr "Split-level"
+
+msgid "-1"
+msgstr "-1"
+
+msgid "-2"
+msgstr "-2"
+
+msgid "-3"
+msgstr "-3"
+
+msgid "-4"
+msgstr "-4"
+
+msgid "Single-storey"
+msgstr "Single-storey"
+
+msgid "21st"
+msgstr "21st"
+
+msgid "22nd"
+msgstr "22nd"
+
+msgid "23rd"
+msgstr "23rd"
+
+msgid "24th"
+msgstr "24th"
+
+msgid "25th"
+msgstr "25th"
+
+msgid "26th"
+msgstr "26th"
+
+msgid "27th"
+msgstr "27th"
+
+msgid "28th"
+msgstr "28th"
+
+msgid "29th"
+msgstr "29th"
+
+msgid "30th"
+msgstr "30th"
+
+msgid "31st"
+msgstr "31st"
+
+msgid "32nd"
+msgstr "32nd"
+
+msgid "33rd"
+msgstr "33rd"
+
+msgid "34th"
+msgstr "34th"
+
+msgid "35th"
+msgstr "35th"
+
+msgid "36th"
+msgstr "36th"
+
+msgid "37th"
+msgstr "37th"
+
+msgid "38th"
+msgstr "38th"
+
+msgid "39th"
+msgstr "39th"
+
+msgid "40th"
+msgstr "40th"
+
+msgid "-5"
+msgstr "-5"
+
+msgid "-6"
+msgstr "-6"
+
+msgid "-7"
+msgstr "-7"
+
+msgid "-8"
+msgstr "-8"
+
+msgid "-9"
+msgstr "-9"
+
+msgid "-10"
+msgstr "-10"
+
+msgid "41st"
+msgstr "41st"
+
+msgid "42nd"
+msgstr "42nd"
+
+msgid "43rd"
+msgstr "43rd"
+
+msgid "44th"
+msgstr "44th"
+
+msgid "45th"
+msgstr "45th"
+
+msgid "46th"
+msgstr "46th"
+
+msgid "47th"
+msgstr "47th"
+
+msgid "48th"
+msgstr "48th"
+
+msgid "49th"
+msgstr "49th"
+
+msgid "50th"
+msgstr "50th"
+
+msgid "51st"
+msgstr "51st"
+
+msgid "52nd"
+msgstr "52nd"
+
+msgid "53rd"
+msgstr "53rd"
+
+msgid "54th"
+msgstr "54th"
+
+msgid "55th"
+msgstr "55th"
+
+msgid "56th"
+msgstr "56th"
+
+msgid "57th"
+msgstr "57th"
+
+msgid "58th"
+msgstr "58th"
+
+msgid "59th"
+msgstr "59th"
+
+msgid "60th"
+msgstr "60th"
+
+msgid "Raised"
+msgstr "Raised"
+
+msgid "61st"
+msgstr "61st"
+
+msgid "62nd"
+msgstr "62nd"
+
+msgid "63rd"
+msgstr "63rd"
+
+msgid "64th"
+msgstr "64th"
+
+msgid "65th"
+msgstr "65th"
+
+msgid "66th"
+msgstr "66th"
+
+msgid "67th"
+msgstr "67th"
+
+msgid "68th"
+msgstr "68th"
+
+msgid "69th"
+msgstr "69th"
+
+msgid "70th"
+msgstr "70th"
+
+msgid "71st"
+msgstr "71st"
+
+msgid "72nd"
+msgstr "72nd"
+
+msgid "73rd"
+msgstr "73rd"
+
+msgid "74th"
+msgstr "74th"
+
+msgid "75th"
+msgstr "75th"
+
+msgid "76th"
+msgstr "76th"
+
+msgid "77th"
+msgstr "77th"
+
+msgid "78th"
+msgstr "78th"
+
+msgid "79th"
+msgstr "79th"
+
+msgid "80th"
+msgstr "80th"
+
+msgid "81st"
+msgstr "81st"
+
+msgid "82nd"
+msgstr "82nd"
+
+msgid "83rd"
+msgstr "83rd"
+
+msgid "84th"
+msgstr "84th"
+
+msgid "85th"
+msgstr "85th"
+
+msgid "86th"
+msgstr "86th"
+
+msgid "87th"
+msgstr "87th"
+
+msgid "88th"
+msgstr "88th"
+
+msgid "89th"
+msgstr "89th"
+
+msgid "90th"
+msgstr "90th"
+
+msgid "91st"
+msgstr "91st"
+
+msgid "92nd"
+msgstr "92nd"
+
+msgid "93rd"
+msgstr "93rd"
+
+msgid "94th"
+msgstr "94th"
+
+msgid "95th"
+msgstr "95th"
+
+msgid "96th"
+msgstr "96th"
+
+msgid "97th"
+msgstr "97th"
+
+msgid "98th"
+msgstr "98th"
+
+msgid "99th"
+msgstr "99th"
+
+msgid "100th"
+msgstr "100th"
+
+msgid "Wooden floor"
+msgstr "Wooden floor"
+
+msgid "Tile"
+msgstr "Tile"
+
+msgid "Vinyl composition tile"
+msgstr "Vinyl composition tile"
+
+msgid "Carpet"
+msgstr "Carpet"
+
+msgid "Natural fiber"
+msgstr "Natural fiber"
+
+msgid "Coco"
+msgstr "Coco"
+
+msgid "Travertine"
+msgstr "Travertine"
+
+msgid "Marble"
+msgstr "Marble"
+
+msgid "Granite"
+msgstr "Granite"
+
+msgid "Terracotta tile"
+msgstr "Terracotta tile"
+
+msgid "Teak"
+msgstr "Teak"
+
+msgid "Mosaïc"
+msgstr "Mosaïc"
+
+msgid "Clay"
+msgstr "Clay"
+
+msgid "Laminate"
+msgstr "Laminate"
+
+msgid "Porcelain stoneware"
+msgstr "Porcelain stoneware"
+
+msgid "Cement tile"
+msgstr "Cement tile"
+
+msgid "Convector"
+msgstr "Convector"
+
+msgid "Underfloor"
+msgstr "Underfloor"
+
+msgid "Radiator"
+msgstr "Radiator"
+
+msgid "Stove"
+msgstr "Stove"
+
+msgid "Air-conditioning"
+msgstr "Air-conditioning"
+
+msgid "Central"
+msgstr "Central"
+
+msgid "Without"
+msgstr "Without"
+
+msgid "Fireplace"
+msgstr "Fireplace"
+
+msgid "Individual"
+msgstr "Individual"
+
+msgid "Common"
+msgstr "Common"
+
+msgid "Mixed"
+msgstr "Mixed"
+
+msgid "District heating"
+msgstr "District heating"
+
+msgid "Gas"
+msgstr "Gas"
+
+msgid "Fuel oil"
+msgstr "Fuel oil"
+
+msgid "Electric"
+msgstr "Electric"
+
+msgid "Wood"
+msgstr "Wood"
+
+msgid "Solar"
+msgstr "Solar"
+
+msgid "Charcoal"
+msgstr "Charcoal"
+
+msgid "Heat pump"
+msgstr "Heat pump"
+
+msgid "Geothermal"
+msgstr "Geothermal"
+
+msgid "Wood pellet"
+msgstr "Wood pellet"
+
+msgid "Aerothermy"
+msgstr "Aerothermy"
+
+msgid "Wood chips"
+msgstr "Wood chips"
+
+msgid "Hot water tank"
+msgstr "Hot water tank"
+
+msgid "Boiler"
+msgstr "Boiler"
+
+msgid "Collective"
+msgstr "Collective"
+
+msgid "Flat"
+msgstr "Flat"
+
+msgid "Dry-stone wall terraces"
+msgstr "Dry-stone wall terraces"
+
+msgid "Steep"
+msgstr "Steep"
+
+msgid "Wooded"
+msgstr "Wooded"
+
+msgid "Meadow"
+msgstr "Meadow"
+
+msgid "Term lease"
+msgstr "Term lease"
+
+msgid "Long-Term"
+msgstr "Long-Term"
+
+msgid "Long-Term - Single activity"
+msgstr "Long-Term - Single activity"
+
+msgid "Long-Term - All activities"
+msgstr "Long-Term - All activities"
+
+msgid "Regulated"
+msgstr "Regulated"
+
+msgid "Seaside"
+msgstr "Seaside"
+
+msgid "Village"
+msgstr "Village"
+
+msgid "Old town"
+msgstr "Old town"
+
+msgid "Precinct"
+msgstr "Pedestrian area"
+
+msgid "Ski slope"
+msgstr "Ski slope"
+
+msgid "Town center"
+msgstr "Town center"
+
+msgid "Industrial estate"
+msgstr "Industrial park"
+
+msgid "Shopping center"
+msgstr "Shopping mall"
+
+msgid "Business park"
+msgstr "Business park"
+
+msgid "Airport area"
+msgstr "Airport area"
+
+msgid "Science park"
+msgstr "Science park"
+
+msgid "Port area"
+msgstr "Port area"
+
+msgid "Outskirts"
+msgstr "Outskirts"
+
+msgid "Hills"
+msgstr "Hills"
+
+msgid "Waterfront"
+msgstr "Waterfront"
+
+msgid "Countryside"
+msgstr "Countryside"
+
+msgid "Suburb"
+msgstr "Suburb"
+
+msgid "East"
+msgstr "East"
+
+msgid "North"
+msgstr "North"
+
+msgid "West"
+msgstr "West"
+
+msgid "South"
+msgstr "South"
+
+msgid "North-east"
+msgstr "North-east"
+
+msgid "South-east"
+msgstr "South-east"
+
+msgid "South-west"
+msgstr "South-west"
+
+msgid "North-west"
+msgstr "North-west"
+
+msgid "Day"
+msgstr "Day"
+
+msgid "Week"
+msgstr "Week"
+
+msgid "Fortnight"
+msgstr "Fortnight"
+
+msgid "Month"
+msgstr "Month"
+
+msgid "Quarterly"
+msgstr "Quarterly"
+
+msgid "Bimonthly"
+msgstr "Bimonthly"
+
+msgid "Half-yearly"
+msgstr "Half-yearly"
+
+msgid "Yearly"
+msgstr "Yearly"
+
+msgid "Bus"
+msgstr "Bus"
+
+msgid "Bus hub"
+msgstr "Bus hub"
+
+msgid "Metro"
+msgstr "Subway"
+
+msgid "Shops"
+msgstr "Shops"
+
+msgid "Primary school"
+msgstr "Primary school"
+
+msgid "Town centre"
+msgstr "Town centre"
+
+msgid "Hospital/clinic"
+msgstr "Hospital/clinic"
+
+msgid "Doctor"
+msgstr "Doctor"
+
+msgid "Tram"
+msgstr "Tram"
+
+msgid "Train station"
+msgstr "Train station"
+
+msgid "Public parking"
+msgstr "Public parking"
+
+msgid "Supermarket"
+msgstr "Supermarket"
+
+msgid "Sea port"
+msgstr "Harbour"
+
+msgid "Nursery"
+msgstr "Nursery"
+
+msgid "Public pool"
+msgstr "Public pool"
+
+msgid "Tennis"
+msgstr "Tennis"
+
+msgid "Movies"
+msgstr "Movie theater"
+
+msgid "Day care"
+msgstr "Day care"
+
+msgid "Secondary school"
+msgstr "Secondary school"
+
+msgid "Sport center"
+msgstr "Sport center"
+
+msgid "Airport"
+msgstr "Airport"
+
+msgid "Sea"
+msgstr "Sea"
+
+msgid "TGV station"
+msgstr "TGV station"
+
+msgid "Highway"
+msgstr "Highway"
+
+msgid "University"
+msgstr "University"
+
+msgid "Convention center"
+msgstr "Convention center"
+
+msgid "Lake"
+msgstr "Lake"
+
+msgid "On main road"
+msgstr "On main road"
+
+msgid "Energy - Conventional consumption"
+msgstr "Energy - Conventional consumption"
+
+msgid "Energy - Emissions estimate"
+msgstr "Energy - Emissions estimate"
+
+msgid "« Carrez » act"
+msgstr "« Carrez » act"
+
+msgid "ERP"
+msgstr "ERP"
+
+msgid "Termites"
+msgstr "Termites"
+
+msgid "Asbestos"
+msgstr "Asbestos"
+
+msgid "Lead"
+msgstr "Lead"
+
+msgid "Boutin act"
+msgstr "Boutin act"
+
+msgid "EPI (Non renewable)"
+msgstr "EPI (Non renewable)"
+
+msgid "APE"
+msgstr "APE"
+
+msgid "Request for nomination of an ad hoc agent"
+msgstr "Request for nomination of an ad hoc agent"
+
+msgid "Request for nomination of a temporary administrator"
+msgstr "Request for nomination of a temporary administrator"
+
+msgid "Request for expert nomination"
+msgstr "Request for expert nomination"
+
+msgid "Fire safety regulations"
+msgstr "Fire safety regulations"
+
+msgid "Accessibility standards for people with disabilities"
+msgstr "Accessibility standards for people with disabilities"
+
+msgid "Sanitary authorization"
+msgstr "Sanitary authorization"
+
+msgid "Energy consumption"
+msgstr "Energy consumption"
+
+msgid "Land value tax"
+msgstr "Land value tax"
+
+msgid "Housing tax"
+msgstr "Housing tax"
+
+msgid "Land charges"
+msgstr "Land charges"
+
+msgid "Residents only"
+msgstr "Residents only"
+
+msgid "Property tax (IPTU)"
+msgstr "Property tax (IPTU)"
+
+msgid "Taxe Locale d’Equipement"
+msgstr "Taxe Locale d’Equipement"
+
+msgid "Minergie"
+msgstr "Minergie"
+
+msgid "Volume"
+msgstr "Volume"
+
+msgid "Useful surface"
+msgstr "Useful surface"
+
+msgid "Co-Ownership property"
+msgstr "Co-Ownership property"
+
+msgid "Communal tax rate"
+msgstr "Communal tax rate"
+
+msgid "Land register extract number"
+msgstr "Land register extract number"
+
+msgid "Droit de superficie"
+msgstr "Droit de superficie"
+
+msgid "Millièmes"
+msgstr "Millièmes"
+
+msgid "PPE budget"
+msgstr "PPE budget"
+
+msgid "Current renovation fund"
+msgstr "Current renovation fund"
+
+msgid "Plot ratio"
+msgstr "Plot ratio"
+
+msgid "Occupancy ratio"
+msgstr "Occupancy ratio"
+
+msgid "Ground footprint coefficient"
+msgstr "Ground footprint coefficient"
+
+msgid "Floor space coefficient"
+msgstr "Floor space coefficient"
+
+msgid "Priority period CCH L443-11"
+msgstr "Priority period CCH L443-11"
+
+msgid "Plot division / Demarcation"
+msgstr "Plot division / Demarcation"
+
+msgid "Board of directors / supervisory deliberation"
+msgstr "Board of directors / supervisory deliberation"
+
+msgid "Certificate of compliance"
+msgstr "Certificate of compliance"
+
+msgid "Energy class"
+msgstr "Energy class"
+
+msgid "Thermal insulation class"
+msgstr "Thermal insulation class"
+
+msgid "Greenhouse Gas"
+msgstr "Greenhouse Gas"
+
+msgid "Energy passport"
+msgstr "Energy passport"
+
+msgid "Energy certificate"
+msgstr "Energy certificate"
+
+msgid "Energy consumption / Final energy requirement"
+msgstr "Energy consumption / Final energy requirement"
+
+msgid "Energy efficiency class"
+msgstr "Energy efficiency class"
+
+msgid "Year of construction according to certificate"
+msgstr "Year of construction according to certificate"
+
+msgid "Energy consumption : Hot water included"
+msgstr "Energy consumption : Hot water included"
+
+msgid "Specific primary energy consumption"
+msgstr "Specific primary energy consumption"
+
+msgid "PEB unique code"
+msgstr "PEB unique code"
+
+msgid "K level (Thermal Insulation)"
+msgstr "K level (Thermal Insulation)"
+
+msgid "Ew level (Energy performance)"
+msgstr "Ew level (Energy performance)"
+
+msgid "CO2 emission"
+msgstr "CO2 emission"
+
+msgid "Flood risks"
+msgstr "Flood risks"
+
+msgid "Certificate: Oil tank conformity"
+msgstr "Certificate: Oil tank conformity"
+
+msgid "Certificate : Electric installation conformity"
+msgstr "Certificate : Electric installation conformity"
+
+msgid "« As Built » certificate"
+msgstr "« As Built » certificate"
+
+msgid "Total consumption of primary energy"
+msgstr "Total consumption of primary energy"
+
+msgid "Registration number"
+msgstr "Registration number"
+
+msgid "Cadastral income"
+msgstr "Cadastral income"
+
+msgid "Planning permit obtained"
+msgstr "Planning permit obtained"
+
+msgid "Subdivision authorization"
+msgstr "Subdivision authorization"
+
+msgid "Pre-emptive right possible"
+msgstr "Pre-emptive right possible"
+
+msgid "Citation for urbanistic infraction"
+msgstr "Citation for urbanistic infraction"
+
+msgid "Last use designation"
+msgstr "Last use designation"
+
+msgid "Cadastral annuity"
+msgstr "Cadastral annuity"
+
+msgid "Energy certification number"
+msgstr "Energy certification number"
+
+msgid "VAT applicable"
+msgstr "VAT applicable"
+
+msgid "Energy certification"
+msgstr "Energy certification"
+
+msgid "Emissions estimate"
+msgstr "Emissions estimate"
+
+msgid "Possibility of connecting : Water / Gas / Electricity"
+msgstr "Possibility of connecting : Water / Gas / Electricity"
+
+msgid "Laudêmio"
+msgstr "Laudêmio"
+
+msgid "Real estate program"
+msgstr "Real estate program"
+
+msgid "Accessible to foreigners"
+msgstr "Accessible to foreigners"
+
+msgid "Building type"
+msgstr "Building type"
+
+msgid "Primärenergiebedarf"
+msgstr "Primärenergiebedarf"
+
+msgid "Flat rate for charges"
+msgstr "Flat rate for charges"
+
+msgid "Energy Efficiency Rating (Current)"
+msgstr "Energy Efficiency Rating (Current)"
+
+msgid "Energy Efficiency Rating (Potential)"
+msgstr "Energy Efficiency Rating (Potential)"
+
+msgid "Environmental Impact Rating (Current)"
+msgstr "Environmental Impact Rating (Current)"
+
+msgid "Environmental Impact Rating (Potential)"
+msgstr "Environmental Impact Rating (Potential)"
+
+msgid "Tenure type"
+msgstr "Tenure type"
+
+msgid "Property tenure"
+msgstr "Property tenure"
+
+msgid "Rental value"
+msgstr "Rental value"
+
+msgid "Tax value"
+msgstr "Tax value"
+
+msgid "Insurance value"
+msgstr "Insurance value"
+
+msgid "Building zone"
+msgstr "Building zone"
+
+msgid "Stratum"
+msgstr "Stratum"
+
+msgid "Rental reference index"
+msgstr "Rental reference index"
+
+msgid "Last rental price"
+msgstr "Last rental price"
+
+msgid "Building envelope efficiency"
+msgstr "Building envelope efficiency"
+
+msgid "Overall energy efficiency"
+msgstr "Overall energy efficiency"
+
+msgid "Dry rot diagnosis"
+msgstr "Dry rot diagnosis"
+
+msgid "Additional rent"
+msgstr "Additional rent"
+
+msgid "Indexed cadastral income"
+msgstr "Indexed cadastral income"
+
+msgid "EPI (Renewable)"
+msgstr "EPI (Renewable)"
+
+msgid "Emission class"
+msgstr "Emission class"
+
+msgid "Heating costs"
+msgstr "Heating costs"
+
+msgid "Performance level (summer season)"
+msgstr "Performance level (summer season)"
+
+msgid "Performance level (winter season)"
+msgstr "Performance level (winter season)"
+
+msgid "Cadastral data - Section"
+msgstr "Cadastral data - Section"
+
+msgid "Cadastral data - Sheet"
+msgstr "Cadastral data - Sheet"
+
+msgid "Cadastral data - Parcel"
+msgstr "Cadastral data - Parcel"
+
+msgid "Cadastral data - Subparcel"
+msgstr "Cadastral data - Subparcel"
+
+msgid "Cadastral data - Sub"
+msgstr "Cadastral data - Sub"
+
+msgid "Cadastral data - Sub 2"
+msgstr "Cadastral data - Sub 2"
+
+msgid "Licença de habitação - Número"
+msgstr "Licença de habitação - Número"
+
+msgid "Licença de habitação - Emitida em"
+msgstr "Licença de habitação - Emitida em"
+
+msgid "Taxa de IMI"
+msgstr "Taxa de IMI"
+
+msgid "Regime de IVA"
+msgstr "Regime de IVA"
+
+msgid "Escritura - Número"
+msgstr "Escritura - Número"
+
+msgid "Licença de construção - Número"
+msgstr "Licença de construção - Número"
+
+msgid "Licença de construção - Emitida em"
+msgstr "Licença de construção - Emitida em"
+
+msgid "Tenant charges conditions"
+msgstr "Tenant charges conditions"
+
+msgid "Council Tax Band"
+msgstr "Council Tax Band"
+
+msgid "Maximum reference rent (base rent not to be exceeded)"
+msgstr "Maximum reference rent (base rent not to be exceeded)"
+
+msgid "Contratto di affitto"
+msgstr "Contratto di affitto"
+
+msgid "Cadastral category"
+msgstr "Cadastral category"
+
+msgid "Connectivity - Building connection"
+msgstr "Connectivity - Building connection"
+
+msgid "Connectivity - Vertical Wiring"
+msgstr "Connectivity - Vertical Wiring"
+
+msgid "Asbestos certificate"
+msgstr "Asbestos certificate"
+
+msgid "Ground rent"
+msgstr "Ground rent"
+
+msgid "Turnover"
+msgstr "Turnover"
+
+msgid "Net income"
+msgstr "Net income"
+
+msgid "Gross operating profit"
+msgstr "Gross operating profit"
+
+msgid "Personnel costs"
+msgstr "Personnel costs"
+
+msgid "Cash flow"
+msgstr "Cash flow"
+
+msgid "Shareholders’equity"
+msgstr "Shareholders’equity"
+
+msgid "Net debt"
+msgstr "Net debt"
+
+msgid "Adjusted gross operating profit"
+msgstr "Adjusted gross operating profit"
+
+msgid "RevPAR"
+msgstr "RevPAR"
+
+msgid "Internet"
+msgstr "Internet"
+
+msgid "Disabled access"
+msgstr "Disabled access"
+
+msgid "Alarm system"
+msgstr "Alarm system"
+
+msgid "Lift"
+msgstr "Lift"
+
+msgid "Caretaker"
+msgstr "Janitor"
+
+msgid "Double glazing"
+msgstr "Double glazing"
+
+msgid "Intercom"
+msgstr "Intercom"
+
+msgid "TV distribution"
+msgstr "TV distribution"
+
+msgid "Swimming pool"
+msgstr "Swimming pool"
+
+msgid "Security door"
+msgstr "Security door"
+
+msgid "Tennis court"
+msgstr "Tennis court"
+
+msgid "Irrigation sprinkler"
+msgstr "Irrigation sprinkler"
+
+msgid "Barbecue"
+msgstr "Barbecue"
+
+msgid "Electric gate"
+msgstr "Electric gate"
+
+msgid "Crawl space"
+msgstr "Crawl space"
+
+msgid "Car port"
+msgstr "Car port"
+
+msgid "Caretaker house"
+msgstr "Caretaker house"
+
+msgid "Sliding windows"
+msgstr "Sliding windows"
+
+msgid "Central vacuum system"
+msgstr "Central vacuum system"
+
+msgid "Electric shutters"
+msgstr "Electric shutters"
+
+msgid "Window shade"
+msgstr "Window shade"
+
+msgid "Electric awnings"
+msgstr "Electric awnings"
+
+msgid "Washing machine"
+msgstr "Washing machine"
+
+msgid "Jacuzzi"
+msgstr "Jacuzzi"
+
+msgid "Whirlpool tub"
+msgstr "Whirlpool tub"
+
+msgid "Well"
+msgstr "Well"
+
+msgid "Spring"
+msgstr "Spring"
+
+msgid "Engine generator"
+msgstr "Engine generator"
+
+msgid "Dishwasher"
+msgstr "Dishwasher"
+
+msgid "Hob"
+msgstr "Hob"
+
+msgid "Safe"
+msgstr "Safe"
+
+msgid "Helipad"
+msgstr "Helipad"
+
+msgid "Videophone"
+msgstr "Videophone"
+
+msgid "Video security"
+msgstr "Video security"
+
+msgid "Iron"
+msgstr "Iron"
+
+msgid "Hair dryer"
+msgstr "Hair dryer"
+
+msgid "Television"
+msgstr "Television"
+
+msgid "DVD Player"
+msgstr "DVD Player"
+
+msgid "CD Player"
+msgstr "CD Player"
+
+msgid "Outdoor lighting"
+msgstr "Outdoor lighting"
+
+msgid "Home automation"
+msgstr "Home automation"
+
+msgid "Linens"
+msgstr "Linens"
+
+msgid "Tableware"
+msgstr "Tableware"
+
+msgid "Clothes dryer"
+msgstr "Clothes dryer"
+
+msgid "Refrigerator"
+msgstr "Refrigerator"
+
+msgid "Oven"
+msgstr "Oven"
+
+msgid "Reception 24/7"
+msgstr "Reception 24/7"
+
+msgid "Coffeemaker"
+msgstr "Coffeemaker"
+
+msgid "Microwave oven"
+msgstr "Microwave oven"
+
+msgid "Shabbat elevator"
+msgstr "Shabbat elevator"
+
+msgid "Sukkah"
+msgstr "Sukkah"
+
+msgid "Synagogue"
+msgstr "Synagogue"
+
+msgid "Digicode"
+msgstr "Digicode"
+
+msgid "Common laundry"
+msgstr "Common laundry"
+
+msgid "Pets allowed"
+msgstr "Pets allowed"
+
+msgid "Metal shutters"
+msgstr "Metal shutters"
+
+msgid "Wiring closet"
+msgstr "Wiring closet"
+
+msgid "Computer network"
+msgstr "Computer network"
+
+msgid "Dropped ceiling"
+msgstr "Dropped ceiling"
+
+msgid "Fire hose cabinets"
+msgstr "Fire hose cabinets"
+
+msgid "Fire sprinkler system"
+msgstr "Fire sprinkler system"
+
+msgid "Wharf"
+msgstr "Wharf"
+
+msgid "Connected thermostat"
+msgstr "Connected thermostat"
+
+msgid "Bowling game"
+msgstr "Bowling game"
+
+msgid "Water softener"
+msgstr "Water softener"
+
+msgid "Triple glazing"
+msgstr "Triple glazing"
+
+msgid "Well drilling"
+msgstr "Well drilling"
+
+msgid "Optical fiber"
+msgstr "Optical fiber"
+
+msgid "Non-flooding"
+msgstr "Non-flooding"
+
+msgid "Backup water system"
+msgstr "Backup water system"
+
+msgid "Water filtration system"
+msgstr "Water filtration system"
+
+msgid "Air filtration system"
+msgstr "Air filtration system"
+
+msgid "Fire alarm system"
+msgstr "Fire alarm system"
+
+msgid "Commercial services"
+msgstr "Commercial services"
+
+msgid "Playground"
+msgstr "Playground"
+
+msgid "Flyboard"
+msgstr "Flyboard"
+
+msgid "Amphibious car"
+msgstr "Amphibious car"
+
+msgid "Beach games"
+msgstr "Beach games"
+
+msgid "Bikes"
+msgstr "Bikes"
+
+msgid "Canoe"
+msgstr "Canoe"
+
+msgid "Diving"
+msgstr "Diving"
+
+msgid "Fishing"
+msgstr "Fishing"
+
+msgid "Floating pool"
+msgstr "Floating pool"
+
+msgid "Hoverboard"
+msgstr "Hoverboard"
+
+msgid "Hovercraft"
+msgstr "Hovercraft"
+
+msgid "Inflatables"
+msgstr "Inflatables"
+
+msgid "Water slide"
+msgstr "Water slide"
+
+msgid "Waterpark"
+msgstr "Waterpark"
+
+msgid "Jet ski"
+msgstr "Jet ski"
+
+msgid "Kite surf"
+msgstr "Kite surf"
+
+msgid "Paddle"
+msgstr "Paddle"
+
+msgid "Scooter"
+msgstr "Scooter"
+
+msgid "Seabob"
+msgstr "Seabob"
+
+msgid "Segway"
+msgstr "Segway"
+
+msgid "Wakeboard"
+msgstr "Wakeboard"
+
+msgid "Simple flow ventilation"
+msgstr "Simple flow ventilation"
+
+msgid "Double flow ventilation"
+msgstr "Double flow ventilation"
+
+msgid "Business center"
+msgstr "Business center"
+
+msgid "Foodservice"
+msgstr "Foodservice"
+
+msgid "Condominium garden"
+msgstr "Condominium garden"
+
+msgid "Stabilizers"
+msgstr "Stabilizers"
+
+msgid "Hydraulic Platform"
+msgstr "Hydraulic Platform"
+
+msgid "Freezer"
+msgstr "Freezer"
+
+msgid "Fitness"
+msgstr "Fitness"
+
+msgid "Electric car terminal"
+msgstr "Electric car terminal"
+
+msgid "Solar panels"
+msgstr "Solar panels"
+
+msgid "Overhead crane"
+msgstr "Overhead crane"
+
+msgid "Tow-away zone"
+msgstr "Tow-away zone"
+
+msgid "Extraction air duct"
+msgstr "Extraction air duct"
+
+msgid "Access control"
+msgstr "Access control"
+
+msgid "Berth"
+msgstr "Berth"
+
+msgid "Listed historic building"
+msgstr "Listed historic building"
+
+msgid "Flyscreens"
+msgstr "Flyscreens"
+
+msgid "Security service"
+msgstr "Security service"
+
+msgid "Condominium pool"
+msgstr "Condominium pool"
+
+msgid "Civil defense bunker"
+msgstr "Civil defense bunker"
+
+msgid "PVC window"
+msgstr "PVC window"
+
+msgid "Aluminum window"
+msgstr "Aluminum window"
+
+msgid "Pillars"
+msgstr "Pillars"
+
+msgid "Spans"
+msgstr "Spans"
+
+msgid "Fence"
+msgstr "Fence"
+
+msgid "Corner position"
+msgstr "Corner position"
+
+msgid "Fire door"
+msgstr "Fire door"
+
+msgid "Supplies"
+msgstr "Supplies"
+
+msgid "Outdoor spaces"
+msgstr "Outdoor spaces"
+
+msgid "Rental supplies"
+msgstr "Rental supplies"
+
+msgid "Security"
+msgstr "Security"
+
+msgid "Professional supplies"
+msgstr "Professional supplies"
+
+msgid "Yacht supplies"
+msgstr "Yacht supplies"
+
+msgid "High standard"
+msgstr "High standard"
+
+msgid "Luxury"
+msgstr "Luxury"
+
+msgid "High luxury"
+msgstr "High luxury"
+
+msgid "Housing estate"
+msgstr "Housing estate"
+
+msgid "Regular"
+msgstr "Regular"
+
+msgid "In progress"
+msgstr "In progress"
+
+msgid "Standby"
+msgstr "Standby"
+
+msgid "Deleted"
+msgstr "Deleted"
+
+msgid "Waiting for agreement"
+msgstr "Waiting for agreement"
+
+msgid "Agreement ended"
+msgstr "Agreement ended"
+
+msgid "Offer"
+msgstr "Offer"
+
+msgid "Processing sale"
+msgstr "Processing sale"
+
+msgid "Waiting for contract"
+msgstr "Waiting for contract"
+
+msgid "Pending approval"
+msgstr "Pending approval"
+
+msgid "Sell/Rent by agent"
+msgstr "Sell/Rent by agent"
+
+msgid "Sell/Rent by owner"
+msgstr "Sell/Rent by owner"
+
+msgid "Sell/Rent by other agent"
+msgstr "Sell/Rent by other agent"
+
+msgid "Removed by agent"
+msgstr "Removed by agent"
+
+msgid "Removed by owner"
+msgstr "Removed by owner"
+
+msgid "Sale/Rental cancelled"
+msgstr "Sale/Rental cancelled"
+
+msgid "Delete this property"
+msgstr "Delete this property"
+
+msgid "Business"
+msgstr "Business"
+
+msgid "Garage/Parking"
+msgstr "Garage/Parking"
+
+msgid "Office"
+msgstr "Office"
+
+msgid "Boat"
+msgstr "Boat"
+
+msgid "Cellar / Box"
+msgstr "Cellar / Box"
+
+msgid "Triplex"
+msgstr "Triplex"
+
+msgid "Building land"
+msgstr "Building land"
+
+msgid "Not constructible land"
+msgstr "Not constructible land"
+
+msgid "Penthouse"
+msgstr "Penthouse"
+
+msgid "Castle"
+msgstr "Castle"
+
+msgid "Duplex"
+msgstr "Duplex"
+
+msgid "Manor house"
+msgstr "Manor house"
+
+msgid "Farm"
+msgstr "Farm"
+
+msgid "Villa"
+msgstr "Villa"
+
+msgid "Apartment villa"
+msgstr "Apartment villa"
+
+msgid "Ruin"
+msgstr "Ruin"
+
+msgid "Mill"
+msgstr "Mill"
+
+msgid "Carpark"
+msgstr "Carpark"
+
+msgid "Farmhouse"
+msgstr "Farmhouse"
+
+msgid "Townhouse"
+msgstr "Townhouse"
+
+msgid "Mobile home"
+msgstr "Mobile home"
+
+msgid "Cottage"
+msgstr "Cottage"
+
+msgid "Hangar"
+msgstr "Hangar"
+
+msgid "Mas"
+msgstr "Mas"
+
+msgid "Local"
+msgstr "Local"
+
+msgid "Chalet"
+msgstr "Chalet"
+
+msgid "Retail space"
+msgstr "Retail space"
+
+msgid "Business assets"
+msgstr "Business assets"
+
+msgid "Right to the lease"
+msgstr "Right to the lease"
+
+msgid "Mansion"
+msgstr "Mansion"
+
+msgid "Management"
+msgstr "Management"
+
+msgid "Agricultural exploitation"
+msgstr "Agricultural exploitation"
+
+msgid "Woodshed"
+msgstr "Woodshed"
+
+msgid "Stud farm"
+msgstr "Stud farm"
+
+msgid "Plot of land"
+msgstr "Plot of land"
+
+msgid "Bastide"
+msgstr "Bastide"
+
+msgid "Bastidon"
+msgstr "Bastidon"
+
+msgid "Company"
+msgstr "Company"
+
+msgid "Vineyard property"
+msgstr "Vineyard property"
+
+msgid "Motor Yacht"
+msgstr "Motor Yacht"
+
+msgid "Narrow boat"
+msgstr "Narrow boat"
+
+msgid "Sailing Yacht"
+msgstr "Sailing Yacht"
+
+msgid "Catamaran"
+msgstr "Catamaran"
+
+msgid "Equestrian estate"
+msgstr "Equestrian estate"
+
+msgid "Bed and breakfast"
+msgstr "Bed and breakfast"
+
+msgid "Gîte"
+msgstr "Gîte"
+
+msgid "Riad"
+msgstr "Riad"
+
+msgid "Retail shop"
+msgstr "Retail shop"
+
+msgid "Shophouse"
+msgstr "Shophouse"
+
+msgid "Borey"
+msgstr "Borey"
+
+msgid "Condo"
+msgstr "Condo"
+
+msgid "Factory"
+msgstr "Factory"
+
+msgid "Serviced apartment"
+msgstr "Serviced apartment"
+
+msgid "Twin Villa"
+msgstr "Twin Villa"
+
+msgid "Flat House"
+msgstr "Flat House"
+
+msgid "Semi-detached house"
+msgstr "Semi-detached house"
+
+msgid "Bungalow"
+msgstr "Bungalow"
+
+msgid "Beach house"
+msgstr "Beach house"
+
+msgid "Ger district"
+msgstr "Ger district"
+
+msgid "Summer house"
+msgstr "Summer house"
+
+msgid "Private island"
+msgstr "Private island"
+
+msgid "Residential land"
+msgstr "Residential land"
+
+msgid "Commercial land"
+msgstr "Commercial land"
+
+msgid "Subdivision"
+msgstr "Subdivision"
+
+msgid "Game reserve"
+msgstr "Game reserve"
+
+msgid "Motorboat"
+msgstr "Motorboat"
+
+msgid "Detached house"
+msgstr "Detached house"
+
+msgid "Ranch"
+msgstr "Ranch"
+
+msgid "Waterside mansion"
+msgstr "Waterside mansion"
+
+msgid "Craft Workshop"
+msgstr "Craft Workshop"
+
+msgid "Pavilion"
+msgstr "Pavilion"
+
+msgid "Agricultural land"
+msgstr "Agricultural land"
+
+msgid "Conservation House"
+msgstr "Conservation House"
+
+msgid "Cluster house"
+msgstr "Cluster house"
+
+msgid "Terraced house"
+msgstr "Terraced house"
+
+msgid "Corner terrace"
+msgstr "Corner terrace"
+
+msgid "Walk-up"
+msgstr "Walk-up"
+
+msgid "Mountains"
+msgstr "Mountains"
+
+msgid "Greenery"
+msgstr "Greenery"
+
+msgid "Monument"
+msgstr "Monument"
+
+msgid "Forest"
+msgstr "Forest"
+
+msgid "River"
+msgstr "River"
+
+msgid "City"
+msgstr "City"
+
+msgid "Sky"
+msgstr "Sky"
+
+msgid "Main stem"
+msgstr "Main stem"
+
+msgid "Harbor"
+msgstr "Harbor"
+
+msgid "Ski slopes"
+msgstr "Ski slopes"
+
+msgid "Vines"
+msgstr "Vines"
+
+msgid "Obstructed"
+msgstr "Obstructed"
+
+msgid "Slight"
+msgstr "Slight"
+
+msgid "Unobstructed"
+msgstr "Unobstructed"
+
+msgid "Panoramic"
+msgstr "Panoramic"
+
+msgid "Exterior"
+msgstr "Exterior"
+
+msgid "Interior"
+msgstr "Interior"
+
+msgid "Septic tank"
+msgstr "Septic tank"
+
+msgid "Main drainage"
+msgstr "Main drainage"
+
+msgid "Treatment plant"
+msgstr "Treatment plant"
+
+msgid "Grey-water pit"
+msgstr "Grey-water pit"
+
+msgid "Micro sewage treatment"
+msgstr "Micro sewage treatment"
+
+msgid "Estate agent"
+msgstr "Estate agent"
+
+msgid "Phoning"
+msgstr "Phoning"
+
+msgid "Collaboration"
+msgstr "Collaboration"
+
+msgid "Provider"
+msgstr "Provider"
+
+msgid "Renown"
+msgstr "Renown"
+
+msgid "Walk-in / Window"
+msgstr "Walk-in / Window"
+
+msgid "Network"
+msgstr "Network"
+
+msgid "Flyer"
+msgstr "Flyer"
+
+msgid "Sign"
+msgstr "Sign"
+
+msgid "Magazine"
+msgstr "Magazine"
+
+msgid "Mailing"
+msgstr "Mailing"
+
+msgid "e-mailing"
+msgstr "e-mailing"
+
+msgid "Old client"
+msgstr "Old client"
+
+msgid "Selection / Favorite"
+msgstr "Selection / Favorite"
+
+msgid "Main residence"
+msgstr "Main residence"
+
+msgid "Secondary residence"
+msgstr "Secondary residence"
+
+msgid "Student residence"
+msgstr "Student residence"
+
+msgid "Tourism residence"
+msgstr "Tourism residence"
+
+msgid "Seniors residence"
+msgstr "Seniors residence"
+
+msgid "Duflot Legislation"
+msgstr "Duflot Legislation"
+
+msgid "Censi-Bouvard Legislation"
+msgstr "Censi-Bouvard Legislation"
+
+msgid "Reduced fees"
+msgstr "Reduced fees"
+
+msgid "EHPAD (Retirement homes)"
+msgstr "EHPAD (Retirement homes)"
+
+msgid "Act 1291"
+msgstr "Act 1291"
+
+msgid "Act 887"
+msgstr "Act 887"
+
+msgid "Mixed-use"
+msgstr "Mixed-use"
+
+msgid "Rental investment"
+msgstr "Rental investment"
+
+msgid "Act 1235"
+msgstr "Act 1235"
+
+msgid "Pinel Legislation"
+msgstr "Pinel Legislation"
+
+msgid "Resale"
+msgstr "Resale"
+
+msgid "Private leasing"
+msgstr "Private leasing"
+
+msgid "Bank leasing"
+msgstr "Bank leasing"
+
+msgid "IPOTEK"
+msgstr "IPOTEK"
+
+msgid "Exchangeable"
+msgstr "Exchangeable"
+
+msgid "No advance"
+msgstr "No advance"
+
+msgid "First occupancy"
+msgstr "First occupancy"
+
+msgid "Liberal profession"
+msgstr "Liberal profession"
+
+msgid "Holiday"
+msgstr "Holiday"
+
+msgid "3.57% incl. VAT from the purchase price"
+msgstr "3.57% incl. VAT from the purchase price"
+
+msgid "7.14% incl. VAT from the purchase price"
+msgstr "7.14% incl. VAT from the purchase price"
+
+msgid "3.48% incl. VAT from the purchase price"
+msgstr "3.48% incl. VAT from the purchase price"
+
+msgid "6.96% incl. VAT from the purchase price"
+msgstr "6.96% incl. VAT from the purchase price"
+
+msgid "m²"
+msgstr "m²"
+
+msgid "sq ft"
+msgstr "sq ft"
+
+msgid "kanal"
+msgstr "kanal"
+
+msgid "marla"
+msgstr "marla"
+
+msgid "sq yd"
+msgstr "sq yd"
+
+msgid "acre"
+msgstr "acre"
+
+msgid "ha"
+msgstr "ha"
+
+msgid "ares"
+msgstr "ares"
+
+msgid "toises"
+msgstr "toises"
+
+msgid "perches"
+msgstr "perches"
+
+msgid "arpents"
+msgstr "arpents"
+
+msgid "minute"
+msgstr "minute"
+
+msgid "metre"
+msgstr "meter"
+
+msgid "km"
+msgstr "km"
+
+msgid "Administrator"
+msgstr "Administrator"
+
+msgid "Company manager"
+msgstr "Company manager"
+
+msgid "Agency manager"
+msgstr "Agency manager"
+
+msgid "Secretariat"
+msgstr "Secretariat"
+
+msgid "Agent"
+msgstr "Agent"
+
+msgid "Intern"
+msgstr "Intern"
+
+msgid "User"
+msgstr "User"
+
+msgid "Franchisor"
+msgstr "Franchisor"
+
+msgid "Translator"
+msgstr "Translator"
+
+msgid "Area manager"
+msgstr "Area manager"
+
+msgid "Image"
+msgstr "Image"
+
+msgid "Pet"
+msgstr "Pet"
+
+msgid "Natural light"
+msgstr "Natural light"
+
+msgid "Kitchen island"
+msgstr "Kitchen island"
+
+msgid "Kitchen bar"
+msgstr "Kitchen bar"
+
+msgid "High ceiling"
+msgstr "High ceiling"
+
+msgid "Skylight"
+msgstr "Skylight"
+
+msgid "Exposed bricks"
+msgstr "Exposed bricks"
+
+msgid "Ceiling fan"
+msgstr "Ceiling fan"
+
+msgid "Chandelier"
+msgstr "Chandelier"
+
+msgid "Stainless steel"
+msgstr "Stainless steel"
+
+msgid "Price on request"
+msgstr "Price on request"
+
+msgid "Currency"
+msgstr "Currency"
+
+msgid "Price"
+msgstr "Price"
+
+msgid "Types"
+msgstr "Types"
+
+msgid "Cities"
+msgstr "Cities"
+
+msgid "Bedrooms"
+msgstr "Bedrooms"
+
+msgid "Rooms"
+msgstr "Rooms"
+
+msgid "Send"
+msgstr "Send"
+
+msgid "Lastname"
+msgstr "Lastname"
+
+msgid "Firstname"
+msgstr "Firstname"
+
+msgid "Reference"
+msgstr "Reference"
+
+msgid "Ref."
+msgstr "Ref."
+
+msgid "%s bedroom"
+msgstr "%s bedroom"
+
+msgid "%s bedrooms"
+msgstr "%s bedrooms"
+
+msgid "%s room"
+msgstr "%s room"
+
+msgid "%s rooms"
+msgstr "%s rooms"
+
+msgid "Folder"
+msgstr "Folder"
+
+msgid "No matches found"
+msgstr "No matches found"
+
+msgid "Please enter one more character"
+msgstr "Please enter one more character"
+
+msgid "Duplicate"
+msgstr "Duplicate"
+
+msgid "Backup"
+msgstr "Backup"
+
+msgid "Rate"
+msgstr "Rate"
+
+msgid "Sender"
+msgstr "Sender"
+
+msgid "Recipient"
+msgstr "Recipient"
+
+msgid "Subject"
+msgstr "Subject"
+
+msgid "Attachment"
+msgstr "Attachment"
+
+msgid "Key"
+msgstr "Key"
+
+msgid "Documents"
+msgstr "Documents"
+
+msgid "Name"
+msgstr "Name"
+
+msgid "Back"
+msgstr "Back"
+
+msgid "Help?"
+msgstr "Help?"
+
+msgid "Read more"
+msgstr "Read more"
+
+msgid "Area"
+msgstr "Area"
+
+msgid "Areas"
+msgstr "Areas"
+
+msgid "Length"
+msgstr "Length"
+
+msgid "Height"
+msgstr "Height"
+
+msgid "Width"
+msgstr "Width"
+
+msgid "Deposit"
+msgstr "Deposit"
+
+msgid "Agreement reference"
+msgstr "Agreement reference"
+
+msgid "Agreement start at"
+msgstr "Agreement start at"
+
+msgid "Agreement end at"
+msgstr "Agreement end at"
+
+msgid "Website"
+msgstr "Website"
+
+msgid "Proximity"
+msgstr "Proximity"
+
+msgid "Proximities"
+msgstr "Proximities"
+
+msgid "Loading"
+msgstr "Loading"
+
+msgid "Log out"
+msgstr "Log out"
+
+msgid "Availability"
+msgstr "Availability"
+
+msgid "Total area"
+msgstr "Total area"
+
+msgid "Living area"
+msgstr "Living area"
+
+msgid "Password forgotten"
+msgstr "Password forgotten"
+
+msgid "Password"
+msgstr "Password"
+
+msgid "Username"
+msgstr "Username"
+
+msgid "Welcome %s"
+msgstr "Welcome %s"
+
+msgid "Add"
+msgstr "Add"
+
+msgid "Show"
+msgstr "Show"
+
+msgid "List"
+msgstr "List"
+
+msgid "Tools"
+msgstr "Tools"
+
+msgid "Market"
+msgstr "Market"
+
+msgid "Agency"
+msgstr "Agency"
+
+msgid "Calendar"
+msgstr "Calendar"
+
+msgid "Homepage"
+msgstr "Homepage"
+
+msgid "Map"
+msgstr "Map"
+
+msgid "Value"
+msgstr "Value"
+
+msgid "Users"
+msgstr "Users"
+
+msgid "Sectors"
+msgstr "Sectors"
+
+msgid "Sector"
+msgstr "Sector"
+
+msgid "Contacts"
+msgstr "Contacts"
+
+msgid "%s contact"
+msgstr "%s contact"
+
+msgid "%s contacts"
+msgstr "%s contacts"
+
+msgid "Settings"
+msgstr "Settings"
+
+msgid "General"
+msgstr "General"
+
+msgid "Waste water"
+msgstr "Waste water"
+
+msgid "Country"
+msgstr "Country"
+
+msgid "Escrow deposit"
+msgstr "Escrow"
+
+msgid "Orientation"
+msgstr "Orientation"
+
+msgid "View"
+msgstr "View"
+
+msgid "District"
+msgstr "District"
+
+msgid "Fields"
+msgstr "Fields"
+
+msgid "Hook"
+msgstr "Hook"
+
+msgid "Comment"
+msgstr "Comment"
+
+msgid "Buy"
+msgstr "Buy"
+
+msgid "Rent"
+msgstr "Rent"
+
+msgid "About us"
+msgstr "About us"
+
+msgid "Services"
+msgstr "Services"
+
+msgid "News"
+msgstr "News"
+
+msgid "Contact us"
+msgstr "Contact us"
+
+msgid "Print"
+msgstr "Print"
+
+msgid "Picture"
+msgstr "Picture"
+
+msgid "Add to cart"
+msgstr "Add to cart"
+
+msgid "Replace in cart"
+msgstr "Replace in cart"
+
+msgid "Category"
+msgstr "Category"
+
+msgid "History"
+msgstr "History"
+
+msgid "Details"
+msgstr "Details"
+
+msgid "Date"
+msgstr "Date"
+
+msgid "Previous"
+msgstr "Previous"
+
+msgid "Next"
+msgstr "Next"
+
+msgid "Quick search"
+msgstr "Quick search"
+
+msgid "Zipcode"
+msgstr "Zipcode"
+
+msgid "The username and/or password is invalid."
+msgstr "The username and/or password is invalid."
+
+msgid "Group"
+msgstr "Group"
+
+msgid "Are you sure?"
+msgstr "Are you sure?"
+
+msgid "Nationality"
+msgstr "Nationality"
+
+msgid "Regulation"
+msgstr "Regulation"
+
+msgid "Radius"
+msgstr "Radius"
+
+msgid "Summary"
+msgstr "Summary"
+
+msgid "Watermark"
+msgstr "Watermark"
+
+msgid "Latitude"
+msgstr "Latitude"
+
+msgid "Longitude"
+msgstr "Longitude"
+
+msgid "Mortgage"
+msgstr "Mortgage"
+
+msgid "Download"
+msgstr "Download"
+
+msgid "Dashboard"
+msgstr "Dashboard"
+
+msgid "Matching"
+msgstr "Matching"
+
+msgid "Pay now by card"
+msgstr "Pay now by card"
+
+msgid "Pay by bank transfer"
+msgstr "Pay by bank transfer"
+
+msgid "Pay by check"
+msgstr "Pay by check"
+
+msgid "Powered by"
+msgstr "Powered by"
+
+msgid "Accepted payment methods"
+msgstr "Accepted payment methods"
+
+msgid "Terms and Conditions"
+msgstr "Terms and Conditions"
+
+msgid ""
+"Your contact is already in database, please select it on the list below."
+msgstr ""
+"Your contact is already in database, please select it on the list below."
+
+msgid "Contracts"
+msgstr "Contracts"
+
+msgid "Seekers"
+msgstr "Seekers"
+
+msgid "Active seekers"
+msgstr "Active seekers"
+
+msgid "Providers"
+msgstr "Providers"
+
+msgid "Owners"
+msgstr "Owners"
+
+msgid "Active owners"
+msgstr "Active owners"
+
+msgid "Monitoring"
+msgstr "Monitoring"
+
+msgid "Forward"
+msgstr "Forward"
+
+msgid "Similar"
+msgstr "Similar"
+
+msgid "Condition"
+msgstr "Condition"
+
+msgid "Floor"
+msgstr "Floor"
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Deductions"
+msgstr "Deductions"
+
+msgid "Not available"
+msgstr "Not available"
+
+msgid "Occupants"
+msgstr "Occupants"
+
+msgid "Prospect"
+msgstr "Prospect"
+
+msgid "Shares"
+msgstr "Shares"
+
+msgid "Likes"
+msgstr "Likes"
+
+msgid "Like"
+msgstr "Like"
+
+msgid "Unlike"
+msgstr "Unlike"
+
+msgid "Portfolio"
+msgstr "Portfolio"
+
+msgid "Features"
+msgstr "Features"
+
+msgid "Contracted owner"
+msgstr "Contracted owner"
+
+msgid "Contracted owners"
+msgstr "Contracted owners"
+
+msgid "Contracted customer"
+msgstr "Contracted customer"
+
+msgid "Contracted customers"
+msgstr "Contracted customers"
+
+msgid "Transfer tax"
+msgstr "Transfer tax"
+
+msgid "Change to"
+msgstr "Change to"
+
+msgid "Until"
+msgstr "Until"
+
+msgid "Location reference"
+msgstr "Location reference"
+
+msgid "Priority"
+msgstr "Priority"
+
+msgid "Full form"
+msgstr "Full form"
+
+msgid "Quick form"
+msgstr "Quick form"
+
+msgid "%s char(s)"
+msgstr "%s char(s)"
+
+msgid "Price from"
+msgstr "Price from"
+
+msgid "Listing"
+msgstr "Listing"
+
+msgid "Listings"
+msgstr "Listings"
+
+msgid "Duration"
+msgstr "Duration"
+
+msgid "Request incomplete"
+msgstr "Request incomplete"
+
+msgid "%s incomplete request(s)"
+msgstr "%s incomplete request(s)"
+
+msgid "Subscribe for"
+msgstr "Subscribe for"
+
+msgid "Configuration"
+msgstr "Configuration"
+
+msgid "Subtotal"
+msgstr "Subtotal"
+
+msgid "Tax notice"
+msgstr "Tax notice"
+
+msgid "Events"
+msgstr "Events"
+
+msgid "Present"
+msgstr "Present"
+
+msgid "Missing"
+msgstr "Missing"
+
+msgid "Planned"
+msgstr "Planned"
+
+msgid "Full"
+msgstr "Full"
+
+msgid "Organizer"
+msgstr "Organizer"
+
+msgid "Already subscribed"
+msgstr "Already subscribed"
+
+msgid "Attendees"
+msgstr "Attendees"
+
+msgid "Join"
+msgstr "Join"
+
+msgid "Training"
+msgstr "Training"
+
+msgid "Require a change of password at next logon"
+msgstr "Require a change of password at next logon"
+
+msgid "Gross revenue"
+msgstr "Gross revenue"
+
+msgid "Gross yield"
+msgstr "Gross yield"
+
+msgid "Net yield"
+msgstr "Net yield"
+
+msgid "Vacancy rate"
+msgstr "Vacancy rate"
+
+msgid "Investment"
+msgstr "Investment"
+
+msgid "Lock"
+msgstr "Lock"
+
+msgid "Variables"
+msgstr "Variables"
+
+msgid "Example"
+msgstr "Example"
+
+msgid "Increment"
+msgstr "Increment"
+
+msgid "Schema"
+msgstr "Schema"
+
+msgid "Automation"
+msgstr "Automation"
+
+msgid "Login"
+msgstr "Login"
+
+msgid "Renovation year"
+msgstr "Renovation year"
+
+msgid "Curriculum vitae"
+msgstr "Curriculum vitae"
+
+msgid "Resellers"
+msgstr "Resellers"
+
+msgid "Select"
+msgstr "Select"
+
+msgid "Billing"
+msgstr "Billing"
+
+msgid "The balance of your account is %s"
+msgstr "The balance of your account is %s"
+
+msgid "Ceiling"
+msgstr "Ceiling"
+
+msgid "Weighted area"
+msgstr "Weighted area"
+
+msgid "Collected"
+msgstr "Collected"
+
+msgid "Unlimited"
+msgstr "Unlimited"
+
+msgid "Quantity"
+msgstr "Quantity"
+
+msgid "Subscribe"
+msgstr "Subscribe"
+
+msgid "Setup"
+msgstr "Setup"
+
+msgid "Active owner"
+msgstr "Active owner"
+
+msgid "Matching at"
+msgstr "Matching at"
+
+msgid "Price by area"
+msgstr "Price by area"
+
+msgid "Default list"
+msgstr "Default list"
+
+msgid "Subtype"
+msgstr "Subtype"
+
+msgid "Add a custom document"
+msgstr "Add a custom document"
+
+msgid "Line spacing"
+msgstr "Line spacing"
+
+msgid "Font"
+msgstr "Font"
+
+msgid "Portrait"
+msgstr "Portrait"
+
+msgid "Landscape"
+msgstr "Landscape"
+
+msgid "Accounts"
+msgstr "Accounts"
+
+msgid "Optional"
+msgstr "Optional"
+
+msgid "File"
+msgstr "File"
+
+msgid "Collected at"
+msgstr "Collected at"
+
+msgid "Linked"
+msgstr "Linked"
+
+msgid "Discover our offers"
+msgstr "Discover our offers"
+
+msgid "Blank"
+msgstr "Blank"
+
+msgid "Portal"
+msgstr "Portal"
+
+msgid "Software Documentation"
+msgstr "Software Documentation"
+
+msgid "Time"
+msgstr "Time"
+
+msgid "Dedicated website"
+msgstr "Dedicated website"
+
+msgid "Subcategory"
+msgstr "Subcategory"
+
+msgid "No IP control"
+msgstr "No IP control"
+
+msgid "Auto publish"
+msgstr "Auto publish"
+
+msgid "Link to property"
+msgstr "Link to property"
+
+msgid "Happy birthday!"
+msgstr "Happy birthday!"
+
+msgid "Birthdays"
+msgstr "Birthdays"
+
+msgid "Last login"
+msgstr "Last login"
+
+msgid "This property is a part of:"
+msgstr "This property is a part of:"
+
+msgid "IP addresses"
+msgstr "IP addresses"
+
+msgid "Prospecting"
+msgstr "Prospecting"
+
+msgid "Access code"
+msgstr "Access code"
+
+msgid "Access code at"
+msgstr "Access code at"
+
+msgid "Number of shares"
+msgstr "Number of shares"
+
+msgid "Leads"
+msgstr "Leads"
+
+msgid "Cancelled"
+msgstr "Cancelled"
+
+msgid "Link"
+msgstr "Link"
+
+msgid "Advanced"
+msgstr "Advanced"
+
+msgid "Publish on homepage"
+msgstr "Publish on homepage"
+
+msgid "Suggested"
+msgstr "Suggested"
+
+msgid "Welcome on %s"
+msgstr "Welcome on %s"
+
+msgid "Content"
+msgstr "Content"
+
+msgid "Extranet access"
+msgstr "Extranet access"
+
+msgid "Publish address"
+msgstr "Publish address"
+
+msgid "Opening hours"
+msgstr "Opening hours"
+
+msgid "Backoffice"
+msgstr "Backoffice"
+
+msgid "Member since %s"
+msgstr "Member since %s"
+
+msgid "Lock menu bar"
+msgstr "Lock menu bar"
+
+msgid "Updates"
+msgstr "Updates"
+
+msgid "Bookings"
+msgstr "Bookings"
+
+msgid "Forward to contact"
+msgstr "Forward to contact"
+
+msgid "Responder"
+msgstr "Responder"
+
+msgid ""
+"You can search our Frequently Asked Questions (FAQs) database by keyword(s):"
+msgstr ""
+"You can search our Frequently Asked Questions (FAQs) database by keyword(s):"
+
+msgid "Registrar"
+msgstr "Registrar"
+
+msgid "Expiration at"
+msgstr "Expiration at"
+
+msgid "Mailbox"
+msgstr "Mailbox"
+
+msgid "Domain name"
+msgstr "Domain name"
+
+msgid "Filling"
+msgstr "Filling"
+
+msgid "Condition precedent"
+msgstr "Condition precedent"
+
+msgid "Size"
+msgstr "Size"
+
+msgid "Deal fees"
+msgstr "Deal fees"
+
+msgid "Fees charged"
+msgstr "Fees charged"
+
+msgid "Customer"
+msgstr "Customer"
+
+msgid "Booked"
+msgstr "Booked"
+
+msgid "Available"
+msgstr "Available"
+
+msgid "Associate"
+msgstr "Associate"
+
+msgid "Ceiling height"
+msgstr "Ceiling height"
+
+msgid "Translations"
+msgstr "Translations"
+
+msgid "Unsold"
+msgstr "Unsold"
+
+msgid "Sold"
+msgstr "Sold"
+
+msgid "Last action"
+msgstr "Last action"
+
+msgid "Our agency"
+msgstr "Our agency"
+
+msgid "Locate us"
+msgstr "Locate us"
+
+msgid "Your main contact"
+msgstr "Your main contact"
+
+msgid "Send me a message"
+msgstr "Send me a message"
+
+msgid "Leave us a message"
+msgstr "Leave us a message"
+
+msgid "Price with fees"
+msgstr "Price with fees"
+
+msgid "Owner access"
+msgstr "Owner access"
+
+msgid "Added"
+msgstr "Added"
+
+msgid "Available for matching"
+msgstr "Available for matching"
+
+msgid "Available at"
+msgstr "Available at"
+
+msgid "Tenant"
+msgstr "Tenant"
+
+msgid "Add to list"
+msgstr "Add to list"
+
+msgid "Custom tags"
+msgstr "Custom tags"
+
+msgid "%s pending approval properties"
+msgstr "%s pending approval properties"
+
+msgid "Negotiable price"
+msgstr "Negotiable price"
+
+msgid "Price updated"
+msgstr "Price updated"
+
+msgid "Less equal"
+msgstr "Less equal"
+
+msgid "Equal"
+msgstr "Equal"
+
+msgid "Greater equal"
+msgstr "Greater equal"
+
+msgid "Preferences"
+msgstr "Preferences"
+
+msgid "Contact means"
+msgstr "Contact means"
+
+msgid "Agency commission"
+msgstr "Agency commission"
+
+msgid "Scheduled at"
+msgstr "Scheduled at"
+
+msgid "Contract at"
+msgstr "Contract at"
+
+msgid "Commitment"
+msgstr "Commitment"
+
+msgid "Commitment at"
+msgstr "Commitment at"
+
+msgid "Offer at"
+msgstr "Offer at"
+
+msgid "No action"
+msgstr "No action"
+
+msgid "Received contact information"
+msgstr "Received contact information"
+
+msgid "Linked contact"
+msgstr "Linked contact"
+
+msgid "Related contacts"
+msgstr "Related contacts"
+
+msgid "Others"
+msgstr "Others"
+
+msgid "Assigned to"
+msgstr "Assigned to"
+
+msgid "Assign to"
+msgstr "Assign to"
+
+msgid "Assign by"
+msgstr "Assign by"
+
+msgid "Opened by"
+msgstr "Opened by"
+
+msgid "Closed by"
+msgstr "Closed by"
+
+msgid "Time zone"
+msgstr "Time zone"
+
+msgid "Customers"
+msgstr "Customers"
+
+msgid "Invert selection"
+msgstr "Invert selection"
+
+msgid "Select all"
+msgstr "Select all"
+
+msgid "Unselect all"
+msgstr "Unselect all"
+
+msgid "%s awaiting lead(s)"
+msgstr "%s awaiting lead(s)"
+
+msgid "%s lead(s) to assign"
+msgstr "%s lead(s) to assign"
+
+msgid "%s pending properties"
+msgstr "%s pending properties"
+
+msgid "%s pending matching(s)"
+msgstr "%s pending matching(s)"
+
+msgid "%s expired agreement(s)"
+msgstr "%s expired agreement(s)"
+
+msgid "%s expired soon agreement(s)"
+msgstr "%s expired soon agreement(s)"
+
+msgid "Legal notice"
+msgstr "Legal notice"
+
+msgid "Tags"
+msgstr "Tags"
+
+msgid "Allowed"
+msgstr "Allowed"
+
+msgid "Min stay"
+msgstr "Min stay"
+
+msgid "Over"
+msgstr "Over"
+
+msgid "Refresh"
+msgstr "Refresh"
+
+msgid "Free text"
+msgstr "Free text"
+
+msgid "Generate comment"
+msgstr "Generate comment"
+
+msgid "Building name"
+msgstr "Building name"
+
+msgid "VAT"
+msgstr "VAT"
+
+msgid "VAT included"
+msgstr "VAT included"
+
+msgid "VAT excluded"
+msgstr "VAT excluded"
+
+msgid "Recurrence"
+msgstr "Recurrence"
+
+msgid "Calculate"
+msgstr "Calculate"
+
+msgid "Contribution"
+msgstr "Contribution"
+
+msgid "Maximum debt"
+msgstr "Maximum debt"
+
+msgid "Purchase amount"
+msgstr "Purchase amount"
+
+msgid "Borrowing calculator"
+msgstr "Borrowing calculator"
+
+msgid "Monthly payment calculator"
+msgstr "Monthly payment calculator"
+
+msgid "You don't have broadcasting rights"
+msgstr "You don't have broadcasting rights"
+
+msgid "Pending"
+msgstr "Pending"
+
+msgid "Suggestions"
+msgstr "Suggestions"
+
+msgid "To show"
+msgstr "To show"
+
+msgid "Automatic"
+msgstr "Automatic"
+
+msgid "Manual"
+msgstr "Manual"
+
+msgid "In collaboration with a %name% professional"
+msgstr "In collaboration with a %name% professional"
+
+msgid "Partners"
+msgstr "Partners"
+
+msgid "Cost"
+msgstr "Cost"
+
+msgid "My search"
+msgstr "My search"
+
+msgid "Units"
+msgstr "Units"
+
+msgid "Spouse"
+msgstr "Spouse"
+
+msgid "Manager"
+msgstr "Manager"
+
+msgid "Category reference"
+msgstr "Category reference"
+
+msgid "Cadastre reference"
+msgstr "Cadastre reference"
+
+msgid "Lot reference"
+msgstr "Lot reference"
+
+msgid "Block reference"
+msgstr "Block reference"
+
+msgid "Stairs reference"
+msgstr "Stairs reference"
+
+msgid "Mortgage end at"
+msgstr "Mortgage end at"
+
+msgid "Review"
+msgstr "Review"
+
+msgid "Media"
+msgstr "Media"
+
+msgid "Medias"
+msgstr "Medias"
+
+msgid "Last access"
+msgstr "Last access"
+
+msgid "First access"
+msgstr "First access"
+
+msgid "Access count"
+msgstr "Access count"
+
+msgid "Default"
+msgstr "Default"
+
+msgid "Please do not enter any name or contact"
+msgstr "Please do not enter any name or contact"
+
+msgid "QR-Code"
+msgstr "QR-Code"
+
+msgid "Show price"
+msgstr "Show price"
+
+msgid "Done"
+msgstr "Done"
+
+msgid "Not applicable"
+msgstr "Not applicable"
+
+msgid "Fill in the table"
+msgstr "Fill in the table"
+
+msgid "Choice"
+msgstr "Choice"
+
+msgid "copy"
+msgstr "copy"
+
+msgid "Automatic matching"
+msgstr "Automatic matching"
+
+msgid "Authorization"
+msgstr "Authorization"
+
+msgid "Last connection the %s"
+msgstr "Last connection the %s"
+
+msgid "All"
+msgstr "All"
+
+msgid "Wiki"
+msgstr "Wiki"
+
+msgid "Latest"
+msgstr "Latest"
+
+msgid "Reset"
+msgstr "Reset"
+
+msgid "Show/hide fields"
+msgstr "Show/hide fields"
+
+msgid "Recent searches"
+msgstr "Recent searches"
+
+msgid "Association"
+msgstr "Association"
+
+msgid "Meta crawler"
+msgstr "Meta crawler"
+
+msgid "Alerts"
+msgstr "Alerts"
+
+msgid "Prescribers"
+msgstr "Prescribers"
+
+msgid "Staff"
+msgstr "Staff"
+
+msgid "Standing"
+msgstr "Standing"
+
+msgid "Receive a copy"
+msgstr "Receive a copy"
+
+msgid "Latest views"
+msgstr "Latest views"
+
+msgid "Quality"
+msgstr "Quality"
+
+msgid "Waiting for partner"
+msgstr "Waiting for partner"
+
+msgid "Viewing agreement"
+msgstr "Viewing agreement"
+
+msgid "Decline"
+msgstr "Decline"
+
+msgid "Declined"
+msgstr "Declined"
+
+msgid "Accept"
+msgstr "Accept"
+
+msgid "Accepted"
+msgstr "Accepted"
+
+msgid "Zones"
+msgstr "Zones"
+
+msgid "Zone"
+msgstr "Zone"
+
+msgid "Matrimonial regime"
+msgstr "Matrimonial regime"
+
+msgid "Marital status"
+msgstr "Marital status"
+
+msgid "Thumbnail"
+msgstr "Thumbnail"
+
+msgid "Unread"
+msgstr "Unread"
+
+msgid "Reply"
+msgstr "Reply"
+
+msgid "Pension"
+msgstr "Pension"
+
+msgid "Beam"
+msgstr "Beam"
+
+msgid "Draft"
+msgstr "Draft"
+
+msgid "Guests"
+msgstr "Guests"
+
+msgid "Crew"
+msgstr "Crew"
+
+msgid "Cruising speed"
+msgstr "Cruising speed"
+
+msgid "Builder"
+msgstr "Builder"
+
+msgid "Administration"
+msgstr "Administration"
+
+msgid "Civil law notary"
+msgstr "Civil law notary"
+
+msgid "Max price"
+msgstr "Max price"
+
+msgid "Messages"
+msgstr "Messages"
+
+msgid "Reminders"
+msgstr "Reminders"
+
+msgid "Credit"
+msgstr "Credit"
+
+msgid "Signatures"
+msgstr "Signatures"
+
+msgid "Signature"
+msgstr "Signature"
+
+msgid "Title (politeness)"
+msgstr "Title (politeness)"
+
+msgid "Amount"
+msgstr "Amount"
+
+msgid "Amounts"
+msgstr "Amounts"
+
+msgid "Updated at"
+msgstr "Updated at"
+
+msgid "Created at"
+msgstr "Created at"
+
+msgid "First published at"
+msgstr "First published at"
+
+msgid "Insurance"
+msgstr "Insurance"
+
+msgid "Provision"
+msgstr "Provision"
+
+msgid "Entries"
+msgstr "Entries"
+
+msgid "Number"
+msgstr "Number"
+
+msgid "Plot of land area"
+msgstr "Plot of land area"
+
+msgid "Deposit account"
+msgstr "Deposit account"
+
+msgid "Owner's price"
+msgstr "Owner's price"
+
+msgid "Starting price"
+msgstr "Starting price"
+
+msgid "Mobile"
+msgstr "Mobile"
+
+msgid "Tel."
+msgstr "Tel."
+
+msgid "Leases"
+msgstr "Leases"
+
+msgid "Address"
+msgstr "Address"
+
+msgid "Searches"
+msgstr "Searches"
+
+msgid "Tips"
+msgstr "Tips"
+
+msgid "Delete"
+msgstr "Delete"
+
+msgid "Maps"
+msgstr "Maps"
+
+msgid "Days"
+msgstr "Days"
+
+msgid "Catalog"
+msgstr "Catalog"
+
+msgid "contact"
+msgstr "contact"
+
+msgid "contacts"
+msgstr "contacts"
+
+msgid "Statistics"
+msgstr "Statistics"
+
+msgid "Built in"
+msgstr "Built in"
+
+msgid "Mark"
+msgstr "Mark"
+
+msgid "Percentage"
+msgstr "Percentage"
+
+msgid "Visits"
+msgstr "Visits"
+
+msgid "Visit comment"
+msgstr "Visit comment"
+
+msgid "Key number"
+msgstr "Key number"
+
+msgid "Key's place"
+msgstr "Key's place"
+
+msgid "Displayed city (optional)"
+msgstr "Displayed city (optional)"
+
+msgid "Displayed district (optional)"
+msgstr "Displayed district (optional)"
+
+msgid "Clauses"
+msgstr "Clauses"
+
+msgid "Postal code"
+msgstr "Postal code"
+
+msgid "Bathrooms"
+msgstr "Bathrooms"
+
+msgid "Seller"
+msgstr "Seller"
+
+msgid "Adjacency"
+msgstr "Adjacency"
+
+msgid "Step"
+msgstr "Step"
+
+msgid "Long comment"
+msgstr "Long comment"
+
+msgid "Subtitle"
+msgstr "Subtitle"
+
+msgid "Title"
+msgstr "Title"
+
+msgid "Last published at"
+msgstr "Last published at"
+
+msgid "floor"
+msgstr "floor"
+
+msgid "Inactive"
+msgstr "Inactive"
+
+msgid "Position"
+msgstr "Position"
+
+msgid "Please fill in a name and a phone or an e-mail."
+msgstr "Please fill in a name and a phone or an e-mail."
+
+msgid "Passwords do not match, please retype"
+msgstr "Passwords do not match, please retype"
+
+msgid "Please change your password"
+msgstr "Please change your password"
+
+msgid "New password should not be same as old password"
+msgstr "New password should not be same as old password"
+
+msgid "year"
+msgstr "year"
+
+msgid "Subscriptions"
+msgstr "Subscriptions"
+
+msgid "Tour comment"
+msgstr "Tour comment"
+
+msgid "Actions"
+msgstr "Actions"
+
+msgid "Ad"
+msgstr "Ad"
+
+msgid "Add opening hours"
+msgstr "Add opening hours"
+
+msgid "Ref"
+msgstr "Ref"
+
+msgid "price"
+msgstr "price"
+
+msgid "Personal"
+msgstr "Personal"
+
+msgid ""
+"Please note that there are dependencies, please select a contact for "
+"completing the data transfer."
+msgstr ""
+"Please note that there are dependencies, please select a contact for "
+"completing the data transfer."
+
+msgid "The installation can take several minutes, please come back later."
+msgstr "The installation can take several minutes, please come back later."
+
+msgid "Your contact speaks %s, would you like to change the language?"
+msgstr "Your contact speaks %s, would you like to change the language?"
+
+msgid "Would you like to publish on the homepage?"
+msgstr "Would you like to publish on the homepage?"
+
+msgid "plus VAT"
+msgstr "plus VAT"
+
+msgid "<b>Warning :</b> there is an error, please check each fields."
+msgstr "<b>Warning :</b> there is an error, please check each fields."
+
+msgid "Price/sq m"
+msgstr "Price/sq m"
+
+msgid "today"
+msgstr "today"
+
+msgid "week"
+msgstr "week"
+
+msgid "day"
+msgstr "day"
+
+msgid "from %from_value% to %to_value%"
+msgstr "from %from_value% to %to_value%"
+
+msgid "message"
+msgstr "message"
+
+msgid "Page"
+msgstr "Page"
+
+msgid "Action"
+msgstr "Action"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Agencies"
+msgstr "Agencies"
+
+msgid "agencies"
+msgstr "agencies"
+
+msgid "Context"
+msgstr "Context"
+
+msgid "More criteria"
+msgstr "More criteria"
+
+msgid "Criteria"
+msgstr "Criteria"
+
+msgid "Classification"
+msgstr "Classification"
+
+msgid "metres"
+msgstr "metres"
+
+msgid "Window"
+msgstr "Window"
+
+msgid "Stock area"
+msgstr "Stock area"
+
+msgid "Sales area"
+msgstr "Sales area"
+
+msgid "Sale price"
+msgstr "Sale price"
+
+msgid "Broadcast to"
+msgstr "Broadcast to"
+
+msgid "The property will not be published because it is in step « %s »"
+msgstr "The property will not be published because it is in step « %s »"
+
+msgid "Last agencies"
+msgstr "Last agencies"
+
+msgid "I confirm my subscription to %s and I accept the general conditions"
+msgstr "I confirm my subscription to %s and I accept the general conditions"
+
+msgid "from %from_date% to %to_date%"
+msgstr "from %from_date% to %to_date%"
+
+msgid "sq m"
+msgstr "sq m"
+
+msgid "days"
+msgstr "days"
+
+msgid "bedrooms"
+msgstr "bedrooms"
+
+msgid "bedroom"
+msgstr "bedroom"
+
+msgid "rooms"
+msgstr "rooms"
+
+msgid "room"
+msgstr "room"
+
+msgid "Comments"
+msgstr "Comments"
+
+msgid "comment"
+msgstr "comment"
+
+msgid "comments"
+msgstr "comments"
+
+msgid "Private comment"
+msgstr "Private comment"
+
+msgid "Private"
+msgstr "Private"
+
+msgid "Levels"
+msgstr "Levels"
+
+msgid "Level"
+msgstr "Level"
+
+msgid "Exchanges"
+msgstr "Exchanges"
+
+msgid "Exchange"
+msgstr "Exchange"
+
+msgid "by"
+msgstr "by"
+
+msgid "n.a"
+msgstr "n.a"
+
+msgid "Elevator"
+msgstr "Elevator"
+
+msgid "no"
+msgstr "no"
+
+msgid "yes"
+msgstr "yes"
+
+msgid "Printed with care"
+msgstr "Printed with care"
+
+msgid "Please do not litter on public way"
+msgstr "Please do not litter on public way"
+
+msgid "Non-contractual information"
+msgstr "Non-contractual information"
+
+msgid "Agency fees"
+msgstr "Agency fees"
+
+msgid "Agency fees included"
+msgstr "Agency fees included"
+
+msgid "Agency fees not included"
+msgstr "Agency fees not included"
+
+msgid "Fees"
+msgstr "Fees"
+
+msgid "Personal property tax"
+msgstr "Personal property tax"
+
+msgid "Style"
+msgstr "Style"
+
+msgid "Parkings"
+msgstr "Parkings"
+
+msgid "Pictures"
+msgstr "Pictures"
+
+msgid "Window card"
+msgstr "Window card"
+
+msgid "Private sheet"
+msgstr "Private sheet"
+
+msgid "Public sheet"
+msgstr "Public sheet"
+
+msgid "Service"
+msgstr "Service"
+
+msgid "Language"
+msgstr "Language"
+
+msgid "Cart"
+msgstr "Cart"
+
+msgid "Land type"
+msgstr "Land type"
+
+msgid "Property agent"
+msgstr "Property agent"
+
+msgid "Account"
+msgstr "Account"
+
+msgid "End at"
+msgstr "End at"
+
+msgid "Close at"
+msgstr "Close at"
+
+msgid "Start at"
+msgstr "Start at"
+
+msgid "Guarantees"
+msgstr "Guarantees"
+
+msgid "Update"
+msgstr "Update"
+
+msgid "Type"
+msgstr "Type"
+
+msgid "Inter-agencies"
+msgstr "Inter-agencies"
+
+msgid "Number of floors"
+msgstr "Number of floors"
+
+msgid "Evaluated price"
+msgstr "Evaluated price"
+
+msgid "Seller's commission"
+msgstr "Seller's commission"
+
+msgid "Buyer's commission"
+msgstr "Buyer's commission"
+
+msgid "Commission"
+msgstr "Commission"
+
+msgid "Origin"
+msgstr "Origin"
+
+msgid "Specific origin"
+msgstr "Specific origin"
+
+msgid "Flooring"
+msgstr "Flooring"
+
+msgid "Rank"
+msgstr "Rank"
+
+msgid "Calls"
+msgstr "Calls"
+
+msgid "Phone call"
+msgstr "Phone call"
+
+msgid "Publications"
+msgstr "Publications"
+
+msgid "Send to contact"
+msgstr "Send to contact"
+
+msgid "No results found"
+msgstr "No results found"
+
+msgid "Results"
+msgstr "Results"
+
+msgid "Result"
+msgstr "Result"
+
+msgid "results"
+msgstr "results"
+
+msgid "result"
+msgstr "result"
+
+msgid "Advertiser"
+msgstr "Advertiser"
+
+msgid "Active"
+msgstr "Active"
+
+msgid "Confidential"
+msgstr "Confidential"
+
+msgid "Activity"
+msgstr "Activity"
+
+msgid "Companies"
+msgstr "Companies"
+
+msgid "Edit"
+msgstr "Edit"
+
+msgid "Save"
+msgstr "Save"
+
+msgid "Succession"
+msgstr "Succession"
+
+msgid "Please fill in a city."
+msgstr "Please fill in a city."
+
+msgid "Guarantee"
+msgstr "Guarantee"
+
+msgid "Please fill"
+msgstr "Please fill"
+
+msgid "The email address is invalid."
+msgstr "The email address is invalid."
+
+msgid "Rights"
+msgstr "Rights"
+
+msgid "Display"
+msgstr "Display"
+
+msgid "Since"
+msgstr "Since"
+
+msgid "Filter"
+msgstr "Filter"
+
+msgid "Min"
+msgstr "Min"
+
+msgid "Max"
+msgstr "Max"
+
+msgid "Lessor"
+msgstr "Lessor"
+
+msgid "Lessee"
+msgstr "Lessee"
+
+msgid "Reservations"
+msgstr "Reservations"
+
+msgid "Booking"
+msgstr "Booking"
+
+msgid "Sleeps"
+msgstr "Sleeps"
+
+msgid "Cleaning price"
+msgstr "Cleaning price"
+
+msgid "Availabilities"
+msgstr "Availabilities"
+
+msgid "Sent"
+msgstr "Sent"
+
+msgid "Year"
+msgstr "Year"
+
+msgid "years"
+msgstr "years"
+
+msgid "months"
+msgstr "months"
+
+msgid "month"
+msgstr "month"
+
+msgid "Seasons"
+msgstr "Seasons"
+
+msgid "Season"
+msgstr "Season"
+
+msgid "Rates"
+msgstr "Rates"
+
+msgid "Todo"
+msgstr "Todo"
+
+msgid "Brands"
+msgstr "Brands"
+
+msgid "Brand"
+msgstr "Brand"
+
+msgid "Publicated at"
+msgstr "Publicated at"
+
+msgid "Bank"
+msgstr "Bank"
+
+msgid "Brief comment"
+msgstr "Brief comment"
+
+msgid "Delivery at"
+msgstr "Delivery at"
+
+msgid "Reason"
+msgstr "Reason"
+
+msgid "What's new"
+msgstr "What's new"
+
+msgid "Requests"
+msgstr "Requests"
+
+msgid "Request"
+msgstr "Request"
+
+msgid "requests"
+msgstr "requests"
+
+msgid "request"
+msgstr "request"
+
+msgid "Current rent"
+msgstr "Current rent"
+
+msgid "Properties"
+msgstr "Properties"
+
+msgid "properties"
+msgstr "properties"
+
+msgid "property"
+msgstr "property"
+
+msgid "Bill"
+msgstr "Bill"
+
+msgid "Calculator"
+msgstr "Calculator"
+
+msgid "Birthplace"
+msgstr "Birthplace"
+
+msgid "Birthday"
+msgstr "Birthday"
+
+msgid "Income"
+msgstr "Income"
+
+msgid "Costs"
+msgstr "Costs"
+
+msgid "Margin"
+msgstr "Margin"
+
+msgid "Required."
+msgstr "Required."
+
+msgid "Seasonal"
+msgstr "Seasonal"
+
+msgid "Spoken language"
+msgstr "Spoken language"
+
+msgid "Number of children"
+msgstr "Number of children"
+
+msgid "Hotline"
+msgstr "Hotline"
+
+msgid "Re-type password"
+msgstr "Re-type password"
+
+msgid "Public longitude"
+msgstr "Public longitude"
+
+msgid "Public latitude"
+msgstr "Public latitude"
+
+msgid "Access denied"
+msgstr "Access denied"
+
+msgid "Access"
+msgstr "Access"
+
+msgid "Launch"
+msgstr "Launch"
+
+msgid "Shortcuts"
+msgstr "Shortcuts"
+
+msgid "Subscription"
+msgstr "Subscription"
+
+msgid "SEO"
+msgstr "SEO"
+
+msgid "Life annuity length"
+msgstr "Life annuity length"
+
+msgid "Market value"
+msgstr "Market value"
+
+msgid "Price contribution"
+msgstr "Price contribution"
+
+msgid "Sharing"
+msgstr "Sharing"
+
+msgid "Show more results"
+msgstr "Show more results"
+
+msgid "Close"
+msgstr "Close"
+
+msgid "Hide"
+msgstr "Hide"
+
+msgid "Keywords"
+msgstr "Keywords"
+
+msgid "Corporate register"
+msgstr "Corporate register"
+
+msgid "Expired soon"
+msgstr "Expired soon"
+
+msgid "Expired"
+msgstr "Expired"
+
+msgid "Agreements"
+msgstr "Agreements"
+
+msgid "Agreement number"
+msgstr "Agreement number"
+
+msgid "VAT identification number"
+msgstr "VAT identification number"
+
+msgid "What's on your mind?"
+msgstr "What's on your mind?"
+
+msgid "Buyer"
+msgstr "Buyer"
+
+msgid "Prescriber"
+msgstr "Prescriber"
+
+msgid "Message sent"
+msgstr "Message sent"
+
+msgid "Limit"
+msgstr "Limit"
+
+msgid "Publish"
+msgstr "Publish"
+
+msgid "Do not publish"
+msgstr "Do not publish"
+
+msgid "Cancel"
+msgstr "Cancel"
+
+msgid "Already suggested"
+msgstr "Already suggested"
+
+msgid "To suggest"
+msgstr "To suggest"
+
+msgid "Suggest"
+msgstr "Suggest"
+
+msgid "Footer"
+msgstr "Footer"
+
+msgid "Header"
+msgstr "Header"
+
+msgid "Serviced plot"
+msgstr "Serviced plot"
+
+msgid "Net floor area"
+msgstr "Net floor area"
+
+msgid "Sold price"
+msgstr "Sold price"
+
+msgid "Sold at"
+msgstr "Sold at"
+
+msgid "Preview"
+msgstr "Preview"
+
+msgid "Garden area"
+msgstr "Garden area"
+
+msgid "Payment"
+msgstr "Payment"
+
+msgid "Reopen"
+msgstr "Reopen"
+
+msgid "Completed"
+msgstr "Completed"
+
+msgid "Complete"
+msgstr "Complete"
+
+msgid "Callback"
+msgstr "Callback"
+
+msgid "Callbacks"
+msgstr "Callbacks"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Coagent"
+msgstr "Coagent"
+
+msgid "Residences"
+msgstr "Residences"
+
+msgid "%s properties"
+msgstr "%s properties"
+
+msgid "%s property"
+msgstr "%s property"
+
+msgid "%s request"
+msgstr "%s request"
+
+msgid "%s requests"
+msgstr "%s requests"
+
+msgid "Characteristics"
+msgstr "Characteristics"
+
+msgid "Activities"
+msgstr "Activities"
+
+msgid "Sorry, this property is no longer available."
+msgstr "Sorry, this property is no longer available."
+
+msgid "Processed"
+msgstr "Processed"
+
+msgid "remaining tickets"
+msgstr "remaining tickets"
+
+msgid "Congratulations ! No more support tickets."
+msgstr "Congratulations ! No more support tickets."
+
+msgid "unassigned tickets"
+msgstr "unassigned tickets"
+
+msgid "All tickets are assigned."
+msgstr "All tickets are assigned."
+
+msgid "task in progress"
+msgstr "task in progress"
+
+msgid "Database"
+msgstr "Database"
+
+msgid "Used"
+msgstr "Used"
+
+msgid "%s results"
+msgstr "%s results"
+
+msgid "Redirects"
+msgstr "Redirects"
+
+msgid "Subscribe to the newsletter"
+msgstr "Subscribe to the newsletter"
+
+msgid "Purge"
+msgstr "Purge"
+
+msgid "Valuation methods"
+msgstr "Valuation methods"
+
+msgid "Rebuild cost"
+msgstr "Rebuild cost"
+
+msgid "Capitalization"
+msgstr "Capitalization"
+
+msgid "Comparative market analysis"
+msgstr "Comparative market analysis"
+
+msgid "An average of"
+msgstr "An average of"
+
+msgid "Your own valuation"
+msgstr "Your own valuation"
+
+msgid "Desired profitability"
+msgstr "Desired profitability"
+
+msgid "Taxes and/or fees"
+msgstr "Taxes and/or fees"
+
+msgid "Year of purchase"
+msgstr "Year of purchase"
+
+msgid "Rental income"
+msgstr "Rental income"
+
+msgid "Price of purchase"
+msgstr "Price of purchase"
+
+msgid "Land price"
+msgstr "Land price"
+
+msgid "Cost of construction"
+msgstr "Cost of construction"
+
+msgid "Interior fittings"
+msgstr "Interior fittings"
+
+msgid "Landscaping"
+msgstr "Landscaping"
+
+msgid "Decrepitude"
+msgstr "Decrepitude"
+
+msgid "Capital losses"
+msgstr "Capital losses"
+
+msgid "Capital gains"
+msgstr "Capital gains"
+
+msgid "Your mailbox has exceeded the storage limit (%s)"
+msgstr "Your mailbox has exceeded the storage limit (%s)"
+
+msgid "Your mailbox will reach the storage limit"
+msgstr "Your mailbox will reach the storage limit"
+
+msgid "Sort by"
+msgstr "Sort by"
+
+msgid "Condominium in difficulty"
+msgstr "Condominium in difficulty"
+
+msgid "Back to the list"
+msgstr "Back to the list"
+
+msgid "Previous listing"
+msgstr "Previous listing"
+
+msgid "Next listing"
+msgstr "Next listing"
+
+msgid "empty"
+msgstr "empty"
+
+msgid "Filename"
+msgstr "Filename"
+
+msgid "Keyword"
+msgstr "Keyword"
+
+msgid "Values"
+msgstr "Values"
+
+msgid "New feed"
+msgstr "New feed"
+
+msgid "Errors"
+msgstr "Errors"
+
+msgid "Error"
+msgstr "Error"
+
+msgid "Erase"
+msgstr "Erase"
+
+msgid "Erase all"
+msgstr "Erase all"
+
+msgid "Try"
+msgstr "Try"
+
+msgid "Query"
+msgstr "Query"
+
+msgid "Agency fees payable by vendor"
+msgstr "Agency fees payable by vendor"
+
+msgid "Agency fees payable by buyer"
+msgstr "Agency fees payable by buyer"
+
+msgid "Condominium fees"
+msgstr "Condominium fees"
+
+msgid "Bed"
+msgstr "Bed"
+
+msgid "An error occurred"
+msgstr "An error occurred"
+
+msgid "Successful subscription"
+msgstr "Successful subscription"
+
+msgid "Created date"
+msgstr "Created date"
+
+msgid "Updated date"
+msgstr "Updated date"
+
+msgid "Back to homepage"
+msgstr "Back to homepage"
+
+msgid "Price min"
+msgstr "Price min"
+
+msgid "Price max"
+msgstr "Price max"
+
+msgid "Bedroom min"
+msgstr "Bedroom min"
+
+msgid "Bedroom max"
+msgstr "Bedroom max"
+
+msgid "Room min"
+msgstr "Room min"
+
+msgid "Room max"
+msgstr "Room max"
+
+msgid "Project at"
+msgstr "Project at"
+
+msgid "Agency rate"
+msgstr "Agency rate"
+
+msgid "Tenant's commission"
+msgstr "Tenant's commission"
+
+msgid "Inventory tenant charge"
+msgstr "Inventory tenant charge"
+
+msgid "Fees included"
+msgstr "Fees included"
+
+msgid "Provision on recoverable fees"
+msgstr "Provision on recoverable fees"
+
+msgid "Never"
+msgstr "Never"
+
+msgid "Remaining credits"
+msgstr "Remaining credits"
+
+msgid "Buy credits"
+msgstr "Buy credits"
+
+msgid "%s credits"
+msgstr "%s credits"
+
+msgid "Transaction fees"
+msgstr "Transaction fees"
+
+msgid "View property"
+msgstr "View property"
+
+msgid "lot available"
+msgstr "lot available"
+
+msgid "lots available"
+msgstr "lots available"
+
+msgid "Area min"
+msgstr "Area min"
+
+msgid "Search a property"
+msgstr "Search a property"
+
+msgid "International"
+msgstr "International"
+
+msgid "Unsubscribe"
+msgstr "Unsubscribe"
+
+msgid "The property will not be published because it is in group « %s »"
+msgstr "The property will not be published because it is in group « %s »"
+
+msgid "%s month"
+msgstr "%s month"
+
+msgid "%s months"
+msgstr "%s months"
+
+msgid "No action after"
+msgstr "No action after"
+
+msgid "%s pending delete"
+msgstr "%s pending delete"
+
+msgid "Pending delete"
+msgstr "Pending delete"
+
+msgid "%s to delete"
+msgstr "%s to delete"
+
+msgid "Unsubscribed"
+msgstr "Unsubscribed"
+
+msgid "Edit my search"
+msgstr "Edit my search"
+
+msgid "Activate my search"
+msgstr "Activate my search"
+
+msgid "Cancel my search"
+msgstr "Cancel my search"
+
+msgid "Only authorized properties"
+msgstr "Only authorized properties"
+
+msgid "Another currency"
+msgstr "Another currency"
+
+msgid "Enter the first 6 digits"
+msgstr "Enter the first 6 digits"
+
+msgid ""
+"Without action on your part, your contact will be deleted before the %s."
+msgstr ""
+"Without action on your part, your contact will be deleted before the %s."
+
+msgid "No procedure in progress"
+msgstr "No procedure in progress"
+
+msgid "Procedure in progress"
+msgstr "Procedure in progress"
+
+msgid "Number of lots in the condominium"
+msgstr "Number of lots in the condominium"
+
+msgid "Network authorized"
+msgstr "Network authorized"
+
+msgid "Renew the lease"
+msgstr "Renew the lease"
+
+msgid "Remove at"
+msgstr "Remove at"
+
+msgid "External action"
+msgstr "External action"
+
+msgid ""
+"The migration of your prospect into a request will allow you to make "
+"matching and proposals with a better tracking."
+msgstr ""
+"The migration of your prospect into a request will allow you to make "
+"matching and proposals with a better tracking."
+
+msgid "floors"
+msgstr "floors"
+
+msgid "Job"
+msgstr "Job"
+
+msgid "Unsuscribe from this list"
+msgstr "Unsuscribe from this list"
+
+msgid "Entry"
+msgstr "Entry"
+
+msgid "Exit"
+msgstr "Exit"
+
+msgid "Networks"
+msgstr "Networks"
+
+msgid "Secured"
+msgstr "Secured"
+
+msgid "Opacity"
+msgstr "Opacity"
+
+msgid "Left"
+msgstr "Left"
+
+msgid "Top"
+msgstr "Top"
+
+msgid "Relative to the last element"
+msgstr "Relative to the last element"
+
+msgid "Alignment"
+msgstr "Alignment"
+
+msgid "Border size"
+msgstr "Border size"
+
+msgid "Border color"
+msgstr "Border color"
+
+msgid "Size of the internal margin"
+msgstr "Size of the internal margin"
+
+msgid "Font color"
+msgstr "Font color"
+
+msgid "Font size"
+msgstr "Font size"
+
+msgid "Background color"
+msgstr "Background color"
+
+msgid "Custom image"
+msgstr "Custom image"
+
+msgid "custom"
+msgstr "custom"
+
+msgid "Right"
+msgstr "Right"
+
+msgid "Center"
+msgstr "Center"
+
+msgid "Justified"
+msgstr "Justified"
+
+msgid "Transparency"
+msgstr "Transparency"
+
+msgid "Line height"
+msgstr "Line height"
+
+msgid "Uppercase"
+msgstr "Uppercase"
+
+msgid "Price proposal"
+msgstr "Price proposal"
+
+msgid "Template"
+msgstr "Template"
+
+msgid "Publication date"
+msgstr "Publication date"
+
+msgid "Recovered at"
+msgstr "Recovered at"
+
+msgid "Available on"
+msgstr "Available on"
+
+msgid "Allow all"
+msgstr "Allow all"
+
+msgid "Private position is not set, click here to update."
+msgstr "Private position is not set, click here to update."
+
+msgid "Public position is not set, click here to update."
+msgstr "Public position is not set, click here to update."
+
+msgid ""
+"Please use this link to subscribe to your calendar from a software or a "
+"device:"
+msgstr ""
+"Please use this link to subscribe to your calendar from a software or a "
+"device:"
+
+msgid "Activate"
+msgstr "Activate"
+
+msgid "Disable"
+msgstr "Disable"
+
+msgid "Block"
+msgstr "Block"
+
+msgid "Unblock"
+msgstr "Unblock"
+
+msgid "Area max"
+msgstr "Area max"
+
+msgid "Plot of land area min"
+msgstr "Plot of land area min"
+
+msgid "Plot of land area max"
+msgstr "Plot of land area max"
+
+msgid "Date descending"
+msgstr "Date descending"
+
+msgid "Date ascending"
+msgstr "Date ascending"
+
+msgid "Price descending"
+msgstr "Price descending"
+
+msgid "Price ascending"
+msgstr "Price ascending"
+
+msgid "Balance"
+msgstr "Balance"
+
+msgid "Construction method"
+msgstr "Construction method"
+
+msgid "Tax code"
+msgstr "Tax code"
+
+msgid "Downsides"
+msgstr "Downsides"
+
+msgid "Assets"
+msgstr "Assets"
+
+msgid "Please select a district from the list:"
+msgstr "Please select a district from the list:"
+
+msgid "Non-flood zone"
+msgstr "Non-flood zone"
+
+msgid "Potential flood zone"
+msgstr "Potential flood zone"
+
+msgid "Recognized flood zone"
+msgstr "Recognized flood zone"
+
+msgid "Delimited flood zone"
+msgstr "Delimited flood zone"
+
+msgid "Cadastre"
+msgstr "Cadastre"
+
+msgid "Delimited waterside zone"
+msgstr "Delimited waterside zone"
+
+msgid "Potential flood zone in a delimited waterside zone"
+msgstr "Potential flood zone in a delimited waterside zone"
+
+msgid "Potential flood zone in a delimited flood zone"
+msgstr "Potential flood zone in a delimited flood zone"
+
+msgid "Recognized flood zone in a delimited waterside zone"
+msgstr "Recognized flood zone in a delimited waterside zone"
+
+msgid "Recognized flood zone in a delimited flood zone"
+msgstr "Recognized flood zone in a delimited flood zone"
+
+msgid "Profile"
+msgstr "Profile"
+
+msgid "Export"
+msgstr "Export"
+
+msgid "Quota"
+msgstr "Quota"
+
+msgid "Logs"
+msgstr "Logs"
+
+msgid "Document"
+msgstr "Document"
+
+msgid "Partner"
+msgstr "Partner"
+
+msgid "Signage"
+msgstr "Signage"
+
+msgid "Set up at"
+msgstr "Set up at"
+
+msgid "Forecast"
+msgstr "Forecast"
+
+msgid "Area ascending"
+msgstr "Area ascending"
+
+msgid "Area descending"
+msgstr "Area descending"
+
+msgid "%s awaiting review(s)"
+msgstr "%s awaiting review(s)"
+
+msgid "To review"
+msgstr "To review"
+
+msgid "Copy"
+msgstr "Copy"
+
+msgid "Net seller"
+msgstr "Net seller"
+
+msgid "Price displayed"
+msgstr "Price displayed"
+
+msgid "Rental price"
+msgstr "Rental price"
+
+msgid "Listed price: %s, exchange rates are indicative."
+msgstr "Listed price: %s, exchange rates are indicative."
+
+msgid "%s units"
+msgstr "%s units"
+
+msgid "%s unit"
+msgstr "%s unit"
+
+msgid "IP address"
+msgstr "IP address"
+
+msgid "Method"
+msgstr "Method"
+
+msgid "Path"
+msgstr "Path"
+
+msgid "Pagebreak"
+msgstr "Pagebreak"
+
+msgid "Paragraph"
+msgstr "Paragraph"
+
+msgid "Spacing"
+msgstr "Spacing"
+
+msgid "Align"
+msgstr "Align"
+
+msgid "Scale"
+msgstr "Scale"
+
+msgid "Color"
+msgstr "Color"
+
+msgid "lines"
+msgstr "lines"
+
+msgid "Positioning"
+msgstr "Positioning"
+
+msgid "Border"
+msgstr "Border"
+
+msgid "Social networks"
+msgstr "Social networks"
+
+msgid "Save settings"
+msgstr "Save settings"
+
+msgid "Delete settings"
+msgstr "Delete settings"
+
+msgid "never"
+msgstr "never"
+
+msgid "Facades"
+msgstr "Facades"
+
+msgid ""
+"Please select the page where you would like to publish your properties."
+msgstr ""
+"Please select the page where you would like to publish your properties."
+
+msgid "Unique publication identifier"
+msgstr "Unique publication identifier"
+
+msgid "No active transfer"
+msgstr "No active transfer"
+
+msgid "Publication report"
+msgstr "Publication report"
+
+msgid "Click here to view the publication."
+msgstr "Click here to view the publication."
+
+msgid "Your listing is now online."
+msgstr "Your listing is now online."
+
+msgid "Share on …"
+msgstr "Share on …"
+
+msgid "Add the feature for:"
+msgstr "Add the feature for:"
+
+msgid "The agency"
+msgstr "The agency"
+
+msgid "The whole company"
+msgstr "The whole company"
+
+msgid "The whole brand"
+msgstr "The whole brand"
+
+msgid "Wrong number"
+msgstr "Wrong number"
+
+msgid "Padding"
+msgstr "Padding"
+
+msgid "Wrong e-mail or e-mail too heavy"
+msgstr "Wrong e-mail or e-mail too heavy"
+
+msgid "Empty e-mail"
+msgstr "Empty e-mail"
+
+msgid "Wrong e-mail"
+msgstr "Wrong e-mail"
+
+msgid "Wrong spouse's e-mail"
+msgstr "Wrong spouse's e-mail"
+
+msgid "Starting from floor"
+msgstr "Starting from floor"
+
+msgid "Please report to our documentation."
+msgstr "Please report to our documentation."
+
+msgid "Your email server does not authorize us to send an email."
+msgstr "Your email server does not authorize us to send an email."
+
+msgid "Not suggested"
+msgstr "Not suggested"
+
+msgid "Quick view"
+msgstr "Quick view"
+
+msgid ""
+"This feature need the software WhatsApp Web. Before using this feature be "
+"sure to download and link your smartphone."
+msgstr ""
+"This feature need the software WhatsApp Web. Before using this feature be "
+"sure to download and link your smartphone."
+
+msgid "Add a lead"
+msgstr "Add a lead"
+
+msgid "Configure"
+msgstr "Configure"
+
+msgid "Display the address"
+msgstr "Display the address"
+
+msgid "Display the contact"
+msgstr "Display the contact"
+
+msgid "Display the contact details"
+msgstr "Display the contact details"
+
+msgid "Display the contact name"
+msgstr "Display the contact name"
+
+msgid "Read"
+msgstr "Read"
+
+msgid "Write"
+msgstr "Write"
+
+msgid "Private details"
+msgstr "Private details"
+
+msgid "Private documents"
+msgstr "Private documents"
+
+msgid "Public documents"
+msgstr "Public documents"
+
+msgid "Order"
+msgstr "Order"
+
+msgid "National"
+msgstr "National"
+
+msgid "Unavailable"
+msgstr "Unavailable"
+
+msgid "Period"
+msgstr "Period"
+
+msgid "Repair"
+msgstr "Repair"
+
+msgid "Complain"
+msgstr "Complain"
+
+msgid "Reporting"
+msgstr "Reporting"
+
+msgid "Moderator"
+msgstr "Moderator"
+
+msgid "%s guests"
+msgstr "%s guests"
+
+msgid "%s guest"
+msgstr "%s guest"
+
+msgid "Referral"
+msgstr "Referral"
+
+msgid "Referrals"
+msgstr "Referrals"
+
+msgid "%s beds"
+msgstr "%s beds"
+
+msgid "%s bed"
+msgstr "%s bed"
+
+msgid "Old user"
+msgstr "Old user"
+
+msgid "New user"
+msgstr "New user"
+
+msgid "Apply on requests"
+msgstr "Apply on requests"
+
+msgid "Apply on properties"
+msgstr "Apply on properties"
+
+msgid "Forthcoming"
+msgstr "Forthcoming"
+
+msgid "Past"
+msgstr "Past"
+
+msgid "Click here to join the webinar."
+msgstr "Click here to join the webinar."
+
+msgid "You have an appointment in %hours% hour(s) and %minutes% minute(s)"
+msgstr "You have an appointment in %hours% hour(s) and %minutes% minute(s)"
+
+msgid "Your training of %s"
+msgstr "Your training of %s"
+
+msgid "(or)"
+msgstr "(or)"
+
+msgid "Grant access to the user or the contact"
+msgstr "Grant access to the user or the contact"
+
+msgid "Improve the quality of some photos."
+msgstr "Improve the quality of some photos."
+
+msgid "Click here to highlight them."
+msgstr "Click here to highlight them."
+
+msgid "Documentation"
+msgstr "Documentation"
+
+msgid "Payments"
+msgstr "Payments"
+
+msgid "Store"
+msgstr "Store"
+
+msgid "Cooling-off end at"
+msgstr "Cooling-off end at"
+
+msgid "Accuracy of appraisal"
+msgstr "Accuracy of appraisal"
+
+msgid "Fees details"
+msgstr "Fees details"
+
+msgid "Funding"
+msgstr "Funding"
+
+msgid "Personal contribution"
+msgstr "Personal contribution"
+
+msgid "Mortgage amount"
+msgstr "Mortgage amount"
+
+msgid "Accepted at"
+msgstr "Accepted at"
+
+msgid "Pre-fill"
+msgstr "Pre-fill"
+
+msgid "Register"
+msgstr "Register"
+
+msgid "Contracted at"
+msgstr "Contracted at"
+
+msgid "Records"
+msgstr "Records"
+
+msgid "Property valuation"
+msgstr "Property valuation"
+
+msgid "Selected properties"
+msgstr "Selected properties"
+
+msgid "Conclusion"
+msgstr "Conclusion"
+
+msgid "Final opinion between"
+msgstr "Final opinion between"
+
+msgid "Net annual rental"
+msgstr "Net annual rental"
+
+msgid "Average"
+msgstr "Average"
+
+msgid "Selected year"
+msgstr "Selected year"
+
+msgid "Subscribers"
+msgstr "Subscribers"
+
+msgid "Signages"
+msgstr "Signages"
+
+msgid "Keys"
+msgstr "Keys"
+
+msgid "Member of your network"
+msgstr "Member of your network"
+
+msgid "Member of %s"
+msgstr "Member of %s"
+
+msgid "Requests validated"
+msgstr "Requests validated"
+
+msgid "Incomplete requests"
+msgstr "Incomplete requests"
+
+msgid "You blocked this agency"
+msgstr "You blocked this agency"
+
+msgid "Updated"
+msgstr "Updated"
+
+msgid "Updated by"
+msgstr "Updated by"
+
+msgid "Created by"
+msgstr "Created by"
+
+msgid "Session has expired"
+msgstr "Session has expired"
+
+msgid "You have reached the quota"
+msgstr "You have reached the quota"
+
+msgid "%s bathroom"
+msgstr "%s bathroom"
+
+msgid "%s bathrooms"
+msgstr "%s bathrooms"
+
+msgid "Force recording"
+msgstr "Force recording"
+
+msgid ""
+"You are using the quick form, to access all the fields please click on full "
+"form."
+msgstr ""
+"You are using the quick form, to access all the fields please click on full "
+"form."
+
+msgid "Delete the contact"
+msgstr "Delete the contact"
+
+msgid "Update my search criteria or unsubscribe me."
+msgstr "Update my search criteria or unsubscribe me."
+
+msgid "All day"
+msgstr "All day"
+
+msgid "Synchronized with %s"
+msgstr "Synchronized with %s"
+
+msgid "Your time zone appears to be « %s », click here to update."
+msgstr "Your time zone appears to be « %s », click here to update."
+
+msgid "Freehold"
+msgstr "Freehold"
+
+msgid "Leasehold"
+msgstr "Leasehold"
+
+msgid "Commonhold"
+msgstr "Commonhold"
+
+msgid "Share of freehold"
+msgstr "Share of freehold"
+
+msgid "Please click here"
+msgstr "Please click here"
+
+msgid "Please complete the configuration"
+msgstr "Please complete the configuration"
+
+msgid "Choose a calendar"
+msgstr "Choose a calendar"
+
+msgid "Synchronize your calendar."
+msgstr "Synchronize your calendar."
+
+msgid "Send messages within your email account."
+msgstr "Send messages within your email account."
+
+msgid "Manage your contacts."
+msgstr "Manage your contacts."
+
+msgid "Synchronized account"
+msgstr "Synchronized account"
+
+msgid "Unlink"
+msgstr "Unlink"
+
+msgid "To modify this appointment, you must first unlink it."
+msgstr "To modify this appointment, you must first unlink it."
+
+msgid "Appointment shared with:"
+msgstr "Appointment shared with:"
+
+msgid "Old value"
+msgstr "Old value"
+
+msgid "New value"
+msgstr "New value"
+
+msgid "Subscribed"
+msgstr "Subscribed"
+
+msgid "Display my properties"
+msgstr "Display my properties"
+
+msgid "Interface language"
+msgstr "Interface language"
+
+msgid "Spoken languages"
+msgstr "Spoken languages"
+
+msgid "Canceled at"
+msgstr "Canceled at"
+
+msgid "Please fill in a canceled date."
+msgstr "Please fill in a canceled date."
+
+msgid "This username is already in use."
+msgstr "This username is already in use."
+
+msgid "Published at"
+msgstr "Published at"
+
+msgid "Ordered at"
+msgstr "Ordered at"
+
+msgid "Projects"
+msgstr "Projects"
+
+msgid "Renovation cost"
+msgstr "Renovation cost"
+
+msgid "Inflation"
+msgstr "Inflation"
+
+msgid "Reviews"
+msgstr "Reviews"
+
+msgid "Option"
+msgstr "Option"
+
+msgid "Check to accept"
+msgstr "Check to accept"
+
+msgid "Account creation"
+msgstr "Account creation"
+
+msgid ""
+"Access to the %s solution requires the transmission of your information and "
+"the acceptance of the general conditions"
+msgstr ""
+"Access to the %s solution requires the transmission of your information and "
+"the acceptance of the general conditions"
+
+msgid "Read the personal data conditions"
+msgstr "Read the personal data conditions"
+
+msgid "Read the terms and conditions"
+msgstr "Read the terms and conditions"
+
+msgid "Waiting for your confirmation"
+msgstr "Waiting for your confirmation"
+
+msgid "Suspended"
+msgstr "Suspended"
+
+msgid "Validations"
+msgstr "Validations"
+
+msgid "Privacy policy"
+msgstr "Privacy policy"
+
+msgid "Latest posts"
+msgstr "Latest posts"
+
+msgid "Renew"
+msgstr "Renew"
+
+msgid "Download the app"
+msgstr "Download the app"
+
+msgid ""
+"Setup the application on your smartphone and enjoy an optimized navigation "
+"for your mobile device."
+msgstr ""
+"Setup the application on your smartphone and enjoy an optimized navigation "
+"for your mobile device."
+
+msgid ""
+"Take advantage now of your software by using the credentials below. Be sure "
+"to keep this login details confidential and don't to change your password "
+"regularly."
+msgstr ""
+"Take advantage now of your software by using the credentials below. Be sure "
+"to keep this login details confidential and don't to change your password "
+"regularly."
+
+msgid "Watch our channel"
+msgstr "Watch our channel"
+
+msgid "Discover the training videos on our Youtube channel."
+msgstr "Discover the training videos on our Youtube channel."
+
+msgid "Take part in our training"
+msgstr "Take part in our training"
+
+msgid ""
+"We regularly organize online or face-to-face training, register directly "
+"from the software (Menu Tools > Training)."
+msgstr ""
+"We regularly organize online or face-to-face training, register directly "
+"from the software (Menu Tools > Training)."
+
+msgid "Please kindly fill out your agency profile."
+msgstr "Please kindly fill out your agency profile."
+
+msgid "Tripod"
+msgstr "Tripod"
+
+msgid "Square"
+msgstr "Square"
+
+msgid "Round"
+msgstr "Round"
+
+msgid "Floors"
+msgstr "Floors"
+
+msgid "You do not have enough credits to send the message."
+msgstr "You do not have enough credits to send the message."
+
+msgid ""
+"Please do not remove « {LINK} » value. We need this for the link to the "
+"property website."
+msgstr ""
+"Please do not remove « {LINK} » value. We need this for the link to the "
+"property website."
+
+msgid "Minimum bid"
+msgstr "Minimum bid"
+
+msgid "Published"
+msgstr "Published"
+
+msgid "Archived"
+msgstr "Archived"
+
+msgid "Sent for signature"
+msgstr "Sent for signature"
+
+msgid "Camera position"
+msgstr "Camera position"
+
+msgid "Capture"
+msgstr "Capture"
+
+msgid "Professional"
+msgstr "Professional"
+
+msgid "Professionals"
+msgstr "Professionals"
+
+msgid "Add a new entry"
+msgstr "Add a new entry"
+
+msgid "Monthly payment"
+msgstr "Monthly payment"
+
+msgid "Archives"
+msgstr "Archives"
+
+msgid "Inbox"
+msgstr "Inbox"
+
+msgid "%value% is too long (%max_length% characters max)."
+msgstr "%value% is too long (%max_length% characters max)."
+
+msgid "My details"
+msgstr "My details"
+
+msgid "Software"
+msgstr "Software"
+
+msgid "Personal data deleted after a removal request form received."
+msgstr "Personal data deleted after a removal request form received."
+
+msgid "Received at %s"
+msgstr "Received at %s"
+
+msgid "Lease assignments"
+msgstr "Lease assignments"
+
+msgid "Occupant"
+msgstr "Occupant"
+
+msgid "Frequency"
+msgstr "Frequency"
+
+msgid "Time slot"
+msgstr "Time slot"
+
+msgid "Rules"
+msgstr "Rules"
+
+msgid "Hourly"
+msgstr "Hourly"
+
+msgid "Daily"
+msgstr "Daily"
+
+msgid "Weekly"
+msgstr "Weekly"
+
+msgid "Monthly"
+msgstr "Monthly"
+
+msgid "In order to duplicate the property, please type the security code %s"
+msgstr "In order to duplicate the property, please type the security code %s"
+
+msgid ""
+"Please do not use the duplication to refresh your ad on the web portals."
+msgstr ""
+"Please do not use the duplication to refresh your ad on the web portals."
+
+msgid ""
+"You can refresh an ad on the portals by using the incrementing system, "
+"available from the tab Exchange > Settings."
+msgstr ""
+"You can refresh an ad on the portals by using the incrementing system, "
+"available from the tab Exchange > Settings."
+
+msgid "Legal"
+msgstr "Legal"
+
+msgid "Auction start at"
+msgstr "Auction start at"
+
+msgid "Auction end at"
+msgstr "Auction end at"
+
+msgid "My preferences"
+msgstr "My preferences"
+
+msgid "Preference"
+msgstr "Preference"
+
+msgid "Public"
+msgstr "Public"
+
+msgid "Classic"
+msgstr "Classic"
+
+msgid "Modern"
+msgstr "Modern"
+
+msgid "Design"
+msgstr "Design"
+
+msgid "Server"
+msgstr "Server"
+
+msgid "We are closed"
+msgstr "We are closed"
+
+msgid "Appliance"
+msgstr "Appliance"
+
+msgid "Energy"
+msgstr "Energy"
+
+msgid "Automatic selection"
+msgstr "Automatic selection"
+
+msgid "Non-holding of funds"
+msgstr "Non-holding of funds"
+
+msgid "Sales agent"
+msgstr "Sales agent"
+
+msgid ""
+"Do you want to use Cityscan on this property? This will consume a credit "
+"from your quota."
+msgstr ""
+"Do you want to use Cityscan on this property? This will consume a credit "
+"from your quota."
+
+msgid "Would you like to copy the owner's address into the property?"
+msgstr "Would you like to copy the owner's address into the property?"
+
+msgid "Pattern"
+msgstr "Pattern"
+
+msgid "Comment pattern"
+msgstr "Comment pattern"
+
+msgid "View all news"
+msgstr "View all news"
+
+msgid ""
+"In order to verify your e-mail address, please specify this validation code "
+"valid for 15 minutes:"
+msgstr ""
+"In order to verify your e-mail address, please specify this validation code "
+"valid for 15 minutes:"
+
+msgid "Account validation for %s"
+msgstr "Account validation for %s"
+
+msgid ""
+"We have just sent you an e-mail with a code valid for 15 minutes, please "
+"specify it to authenticate your account."
+msgstr ""
+"We have just sent you an e-mail with a code valid for 15 minutes, please "
+"specify it to authenticate your account."
+
+msgid ""
+"Other accounts use your e-mail %s, you should use your own e-mail address."
+msgstr ""
+"Other accounts use your e-mail %s, you should use your own e-mail address."
+
+msgid ""
+"Your e-mail address %s is already used by another account, please choose a "
+"different address."
+msgstr ""
+"Your e-mail address %s is already used by another account, please choose a "
+"different address."
+
+msgid "Please kindly confirm your e-mail address %s."
+msgstr "Please kindly confirm your e-mail address %s."
+
+msgid "Altitude"
+msgstr "Altitude"
+
+msgid "For security reasons, we need to confirm your details below."
+msgstr "For security reasons, we need to confirm your details below."
+
+msgid "Credits"
+msgstr "Credits"
+
+msgid "Opened at"
+msgstr "Opened at"
+
+msgid "Yesterday"
+msgstr "Yesterday"
+
+msgid "Tomorrow"
+msgstr "Tomorrow"
+
+msgid "Icons"
+msgstr "Icons"
+
+msgid "Additional address"
+msgstr "Additional address"
+
+msgid "Included"
+msgstr "Included"
+
+msgid "Procedure"
+msgstr "Procedure"
+
+msgid "Procedure reference"
+msgstr "Procedure reference"
+
+msgid "Procedure start at"
+msgstr "Procedure start at"
+
+msgid "Procedure end at"
+msgstr "Procedure end at"
+
+msgid "Base rent"
+msgstr "Base rent"
+
+msgid "Zone subject to rent control"
+msgstr "Zone subject to rent control"
+
+msgid "Delete your appointments"
+msgstr "Delete your appointments"
+
+msgid "Would you like to transfer the data to an active user?"
+msgstr "Would you like to transfer the data to an active user?"
+
+msgid "Broadcast report"
+msgstr "Broadcast report"
+
+msgid "Unit of measure"
+msgstr "Unit of measure"
+
+msgid "Checkbox"
+msgstr "Checkbox"
+
+msgid "Numeric"
+msgstr "Numeric"
+
+msgid "Electronic signature"
+msgstr "Electronic signature"
+
+msgid "Signature with identity check"
+msgstr "Signature with identity check"
+
+msgid "Signature with SMS check"
+msgstr "Signature with SMS check"
+
+msgid "Up"
+msgstr "Up"
+
+msgid "Down"
+msgstr "Down"
+
+msgid "Toilet"
+msgstr "Toilet"
+
+msgid "Your account has a debit balance"
+msgstr "Your account has a debit balance"
+
+msgid "We have received your request and will get back to you."
+msgstr "We have received your request and will get back to you."
+
+msgid "%s new lead(s)"
+msgstr "%s new lead(s)"
+
+msgid "Trust this device and skip verification at each connection."
+msgstr "Trust this device and skip verification at each connection."
+
+msgid ""
+"For security reasons, each time you log in on a new device, we will send a "
+"verification code to your phone or email address."
+msgstr ""
+"For security reasons, each time you log in on a new device, we will send a "
+"verification code to your phone or email address."
+
+msgid "Security check"
+msgstr "Security check"
+
+msgid "Web browser"
+msgstr "Web browser"
+
+msgid "Trusted"
+msgstr "Trusted"
+
+msgid "Devices"
+msgstr "Devices"
+
+msgid ""
+"The password is not enough complex, minimum 8 characters, at least one "
+"uppercase, one lowercase, one number and one special character."
+msgstr ""
+"The password is not enough complex, minimum 8 characters, at least one "
+"uppercase, one lowercase, one number and one special character."
+
+msgid "Help"
+msgstr "Help"
+
+msgid "Heating device"
+msgstr "Heating device"
+
+msgid "Heating access"
+msgstr "Heating access"
+
+msgid "Heating type"
+msgstr "Heating type"
+
+msgid "Hot water access"
+msgstr "Hot water access"
+
+msgid "Hot water device"
+msgstr "Hot water device"
+
+msgid "Mandatory fields"
+msgstr "Mandatory fields"
+
+msgid "Available soon"
+msgstr "Available soon"
+
+msgid "HD Photo"
+msgstr "HD Photo"
+
+#, fuzzy
+msgid "Contract end at"
+msgstr ""
+"#-#-#-#-#  apimo-en_US.po  #-#-#-#-#\n"
+"Contract end at\n"
+"#-#-#-#-#  apimo-en_US.po  #-#-#-#-#\n"
+"Contract ends at"
+
+msgid "%s expired contract(s)"
+msgstr "%s expired contract(s)"
+
+msgid "%s expired soon contract(s)"
+msgstr "%s expired soon contract(s)"
+
+msgid "Incomplete"
+msgstr "Incomplete"
+
+msgid "Images should not exceed 25 MB"
+msgstr "Images should not exceed 25 MB"
+
+msgid "Location Map"
+msgstr "Location Map"
+
+msgid "User Detail"
+msgstr "User Detail"
+
+msgid "File size"
+msgstr "File size"
+
+msgid "File title"
+msgstr "File title"
+
+msgid "Region"
+msgstr "Region"
+
+msgid "Bath"
+msgstr "Bath"
+
+msgid "Private Negotiation"
+msgstr "Private Negotiation"
+
+msgid "Property specifications"
+msgstr "Property specifications"
+
+msgid "Energy performance"
+msgstr "Energy performance"
+
+msgid "Media Details"
+msgstr "Media Details"
+
+msgid "View Video"
+msgstr "View Video"
+
+msgid "Start Date"
+msgstr "Start Date"
+
+msgid "End Date"
+msgstr "End Date"
+
+msgid "Welcome"
+msgstr "Welcome"
+
+msgid "See What’s happening with Apimo Plugin."
+msgstr "See what’s happening with the Apimo Plugin."
+
+msgid "PROVIDERS"
+msgstr "PROVIDERS"
+
+msgid "AGENCIES"
+msgstr "AGENCIES"
+
+msgid "PROPERTIES"
+msgstr "PROPERTIES"
+
+msgid "BOOKMARK"
+msgstr "BOOKMARK"
+
+msgid "Remove all"
+msgstr "Remove all"
+
+msgid "Apply filter"
+msgstr "Apply filter"
+
+msgid "Select Subtype"
+msgstr "Select Subtype"
+
+msgid "Enchère"
+msgstr "Auction"
+
+msgid "Location"
+msgstr "Rent"
+
+msgid "Location saisonnière"
+msgstr "Seasonal rental"
+
+msgid "From"
+msgstr "From"
+
+msgid "To"
+msgstr "To"
+
+msgid "Dates"
+msgstr "Dates"
+
+msgid "Select country"
+msgstr "Select country"
+
+msgid "Select region"
+msgstr "Select region"
+
+msgid "Select district"
+msgstr "Select district"
+
+msgid "Select city"
+msgstr "Select city"
+
+msgid "Good"
+msgstr "Good"
+
+msgid "Bad"
+msgstr "Bad"
+
+msgid "hello"
+msgstr "hello"
+
+msgid "Available Integrations"
+msgstr "Available Integrations"
+
+msgid "reCAPTCHA Detected"
+msgstr "reCAPTCHA Detected"
+
+msgid "reCAPTCHA Not Detected"
+msgstr "reCAPTCHA Not Detected"
+
+msgid "Google reCAPTCHA Integration"
+msgstr "Google reCAPTCHA Integration"
+
+msgid ""
+"Protect your forms from spam and abuse with Google reCAPTCHA integration."
+msgstr ""
+"Protect your forms from spam and abuse with Google reCAPTCHA integration."
+
+msgid "Activate Integration"
+msgstr "Activate Integration"
+
+msgid "Deactivate Integration"
+msgstr "Deactivate Integration"
+
+msgid "reCAPTCHA Configuration"
+msgstr "reCAPTCHA Configuration"
+
+msgid "Please configure your reCAPTCHA keys below to complete the setup."
+msgstr "Please configure your reCAPTCHA keys below to complete the setup."
+
+msgid "To complete the reCAPTCHA setup:"
+msgstr "To complete the reCAPTCHA setup:"
+
+msgid "Go to the"
+msgstr "Go to the"
+
+msgid "Google reCAPTCHA Admin Console"
+msgstr "Google reCAPTCHA Admin Console"
+
+msgid "Register your site and get your Site Key and Secret Key"
+msgstr "Register your site and get your Site Key and Secret Key"
+
+msgid "Enter the keys below to activate reCAPTCHA"
+msgstr "Enter the keys below to activate reCAPTCHA"
+
+msgid "reCAPTCHA is configured properly."
+msgstr "reCAPTCHA is configured properly."
+
+msgid "Site Key"
+msgstr "Site Key"
+
+msgid "Secret Key"
+msgstr "Secret Key"
+
+msgid "Save Configuration"
+msgstr "Save Configuration"
+
+msgid "Contact Form"
+msgstr "Contact Form"
+
+msgid "Invalid format"
+msgstr "Invalid format"
+
+msgid "This field is required"
+msgstr "This field is required"
+
+msgid "Invalid email format"
+msgstr "Invalid email format"
+
+msgid "Please use reCAPTCHA version 3"
+msgstr "Please use reCAPTCHA version 3"

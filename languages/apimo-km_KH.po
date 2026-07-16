@@ -1,0 +1,4216 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: km_KH\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.1\n"
+
+msgid "Reminder"
+msgstr "ការ​រំលឹក"
+
+msgid "Suggestion"
+msgstr "សំណើ"
+
+msgid "Report"
+msgstr "របាយការណ៍"
+
+#, fuzzy
+msgid "Other"
+msgstr ""
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"ផ្សេងៗ\n"
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"ផ្សេងៗ\n"
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"ផ្សេងៗ\n"
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"ផ្សេងទៀត"
+
+#, fuzzy
+msgid "Valuation"
+msgstr ""
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"ការប៉ាន់ស្មាន\n"
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"ការវាយតំលៃ"
+
+#, fuzzy
+msgid "Advertising"
+msgstr ""
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"ការផ្សព្វផ្សាយ\n"
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"ការផ្សព្វផ្សាយ\n"
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"ការផ្សព្វផ្សាយពាណិជ្ជកម្ម"
+
+msgid "Open House"
+msgstr "ផ្ទះបើកដេញថ្លៃ"
+
+#, fuzzy
+msgid "Canvassing"
+msgstr ""
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"ការស្ទង់មតិ\n"
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"ចក្ខុ​វិស័យ"
+
+msgid "Message"
+msgstr "សារ"
+
+msgid "After-sales"
+msgstr "ក្រោយលក់"
+
+msgid "Visit"
+msgstr "ទស្សនកិច្ច"
+
+msgid "Appointment"
+msgstr "ការណាត់ជួប"
+
+msgid "Phone"
+msgstr "ទូរសព្ទ"
+
+#, fuzzy
+msgid "e-mail"
+msgstr ""
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"អ៊ីម៉ែល\n"
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"អ៊ីមែល"
+
+msgid "Fax"
+msgstr "ទូរសារ"
+
+msgid "Mail"
+msgstr "ម៉ែល"
+
+msgid "SMS"
+msgstr "សារ"
+
+msgid "Walk-in"
+msgstr "ឆ្លងកាត់"
+
+msgid "Extranet"
+msgstr "អ្នកខាងក្រៅ"
+
+msgid "Project"
+msgstr "គម្រោង"
+
+msgid "Under construction"
+msgstr "កំពុងសាងសង់"
+
+msgid "Delivered"
+msgstr "ចែកចាយ"
+
+msgid "Ended"
+msgstr "បញ្ចប់"
+
+msgid "Canceled"
+msgstr "លុប"
+
+msgid "Sir"
+msgstr "លោក"
+
+msgid "Mrs."
+msgstr "លោកស្រ្តី"
+
+msgid "Ms."
+msgstr "កញ្ញា"
+
+msgid "Mr. & Mrs."
+msgstr "លោក & លោកស្រី"
+
+msgid "Sheik"
+msgstr "មេដឹកនាំ"
+
+msgid "Duke"
+msgstr "ឧកញ៉ា"
+
+msgid "Duchess"
+msgstr "ភរិយាឧកញ៉ា"
+
+msgid "Lord"
+msgstr "ចៅហ្វាយ"
+
+msgid "Maître"
+msgstr "ខ្ញុំ"
+
+msgid "Professor"
+msgstr "សាស្រ្តាចារ្យ"
+
+msgid "Regulations"
+msgstr "បទប្បញ្ញត្តិ"
+
+msgid "AML/KYC Vendor"
+msgstr "AML/KYC Vendor"
+
+msgid "AML/KYC Buyer"
+msgstr "AML/KYC Buyer"
+
+msgid "Concierge"
+msgstr "អ្នកជញ្ជូនឥវ៉ាន់"
+
+msgid "Contact"
+msgstr "ទំនាក់ទំនង"
+
+#, fuzzy
+msgid "Search"
+msgstr ""
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"ព័ត៌មានបន្ថែម\n"
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"ស្វែងរក"
+
+msgid "Owner"
+msgstr "លក់"
+
+msgid "e-mail alert"
+msgstr "អ៊ីម៉ែល​ រំលឹក"
+
+msgid "Send to a friend"
+msgstr "ផ្ញើទៅមិត្តភក្តិ"
+
+msgid "Newsletter"
+msgstr "ព្រឹត្តិបត្តិព័ត៌មាន"
+
+#, fuzzy
+msgid "Selection"
+msgstr ""
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"ការជ្រើសរើស\n"
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"ការជ្រើស"
+
+msgid "New"
+msgstr "ថ្មី"
+
+msgid "Opened"
+msgstr "បើក"
+
+msgid "Processing"
+msgstr "កំពុងដំណើរគារ"
+
+#, fuzzy
+msgid "Closed"
+msgstr ""
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"បិទ\n"
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"បិទ\n"
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"បាន​បិទ"
+
+msgid "Self-employed"
+msgstr "ការងារផ្ទាល់ខ្លួន"
+
+msgid "Bakery"
+msgstr "អ្នកដុតនំ"
+
+msgid "Restaurant"
+msgstr "ភោជនីយដ្ឋាន"
+
+msgid "Press"
+msgstr "សារព័ត៌មាន"
+
+msgid "Bar"
+msgstr "បា"
+
+msgid "Florist"
+msgstr "អ្នកលក់ផ្កា"
+
+msgid "Tobacconist"
+msgstr "អ្នកលក់ថ្នាំជក់"
+
+msgid "Clothes"
+msgstr "សំលៀកបំពាក់"
+
+msgid "Chemist"
+msgstr "ឱសថការី"
+
+msgid "Shopping centre"
+msgstr "ហាងទំនិញ"
+
+msgid "Travel agency"
+msgstr "ភ្នាក់ងារទេសចរណ៍"
+
+msgid "Real estate agent"
+msgstr "ភ្នាក់ងារអចលនទ្រព្យ"
+
+msgid "Gallery"
+msgstr "អគារវិចិត្រសាល"
+
+msgid "Garage"
+msgstr "យានដ្ឋាន"
+
+msgid "Insurer"
+msgstr "អ្នកធានា"
+
+msgid "Optician"
+msgstr "អ្នកលក់វែនតា"
+
+msgid "Perfumery"
+msgstr "គ្រឿងក្រអូប"
+
+msgid "Hotel"
+msgstr "សណ្ឋាគារ"
+
+msgid "Antique dealer"
+msgstr "ឈ្មួញជើងចាស់"
+
+msgid "Laundry"
+msgstr "កន្លែងបោកគក់"
+
+msgid "Pressing"
+msgstr "បោកអ៊ុតសំលៀកបំពាក់"
+
+msgid "Jeweller"
+msgstr "ជាងមាស"
+
+msgid "Grocer"
+msgstr "អ្នកលក់គ្រឿងទេស"
+
+msgid "Butcher"
+msgstr "អ្នកលក់សាច់"
+
+msgid "Caterer"
+msgstr "អ្នកផ្គត់ផ្គង់"
+
+msgid "Brewery"
+msgstr "រោងចក្រស្រាបៀរ"
+
+msgid "Snack"
+msgstr "អាហារសំរ៉ន់"
+
+msgid "Confectioner"
+msgstr "អ្នកលក់បង្អែម"
+
+msgid "Pork butcher"
+msgstr "អ្នកលក់សាច់ជ្រូក"
+
+msgid "Grocery"
+msgstr "ហាងលក់គ្រឿងទេស"
+
+msgid "Cheesemonger"
+msgstr "អ្នកលក់ប្រហុក"
+
+msgid "Fruit and vegetables"
+msgstr "ផ្លែឈើ និងបន្លែ"
+
+msgid "Sex shop"
+msgstr "ហាងលក់ប្រដាប់ភេទ"
+
+msgid "Video game"
+msgstr "ហាាងវីដេអូហ្គេម"
+
+msgid "Computer"
+msgstr "ហាងលក់់កុំព្យូទ័រ"
+
+msgid "Hairdresser"
+msgstr "អ្នកកាត់សក់"
+
+msgid "Cosmetician"
+msgstr "អ្នកសម្អាង"
+
+msgid "Household electrical"
+msgstr "ហាងលក់គ្រឿងអេឡិចត្រូនិក"
+
+msgid "Shoes"
+msgstr "ស្បែកជើង"
+
+msgid "Haberdasher"
+msgstr "ហាងលក់សម្លៀកបំពាក់"
+
+msgid "Groomer"
+msgstr "អ្នកមើលថែសត្វ"
+
+msgid "Tea room"
+msgstr "ហាងទឹកតែ"
+
+msgid "Beach"
+msgstr "ឆ្នេរសមុទ្រ"
+
+msgid "Bookshop"
+msgstr "ហាងលក់សមុទ្រ"
+
+msgid "Offices"
+msgstr "ការិយាល័យ"
+
+msgid "Gas station"
+msgstr "ស្ថានីយប្រេងឥន្ធន"
+
+msgid "Camping"
+msgstr "ការបោះជំរុំ"
+
+msgid "Nightclub"
+msgstr "ក្លឹបរាត្រី"
+
+msgid "Pet store"
+msgstr "ហាងលក់សត្វចិញ្ចឹម"
+
+msgid "Video arcade"
+msgstr "ទូល្បែង"
+
+msgid "Office supplies"
+msgstr "ការផ្គត់ផ្គង់ការិយាល័យ"
+
+msgid "Furniture"
+msgstr "គ្រឿងសង្ហារិម"
+
+#, fuzzy
+msgid "Decoration"
+msgstr ""
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"ការតុបតែ\n"
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"តុបតែង"
+
+msgid "Agriculture"
+msgstr "កសិកម្ម"
+
+msgid "Photo"
+msgstr "រូបថត"
+
+msgid "Drugstore"
+msgstr "ឳសថស្ថាន"
+
+msgid "Locksmith"
+msgstr "ជាងសោរ"
+
+msgid "Health club"
+msgstr "ក្លឹបសុខភាព"
+
+#, fuzzy
+msgid "Taxi"
+msgstr ""
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"រថយន្តឈ្មួល\n"
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"រថយន្តឈ្នួល"
+
+msgid "Cinema"
+msgstr "រោងភាពយន្ត"
+
+msgid "Theater"
+msgstr "រោងល្ខោន"
+
+msgid "Café"
+msgstr "ហាងកាហ្វេ"
+
+msgid "Garden centre"
+msgstr "សួនច្បារធំ"
+
+msgid "Hardware shop"
+msgstr "ហាងលក់សម្ភារៈប្រើប្រាស់"
+
+msgid "Fishmongers"
+msgstr "ត្រី"
+
+msgid "Recreation"
+msgstr "ការកំសាន្ត"
+
+msgid "Culture"
+msgstr "វប្បធម៌"
+
+msgid "Sport supplies"
+msgstr "ផ្គត់ផ្គង់កីឡា"
+
+msgid "Bedroom"
+msgstr "បន្ទប់គេង"
+
+msgid "Living-room"
+msgstr "បន្្ទប់ទទួលភ្ញៀវ"
+
+msgid "Kitchen"
+msgstr "ផ្ទះបាយ"
+
+msgid "Parking"
+msgstr "ចំណត"
+
+#, fuzzy
+msgid "Cellar"
+msgstr ""
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"បន្ទប់់ក្រោមដី\n"
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"ដើម cellars"
+
+msgid "Garden shelter"
+msgstr "សួនច្បារធំ"
+
+msgid "Bathroom"
+msgstr "បន្ទប់ទឹក"
+
+msgid "Laundry room"
+msgstr "បន្ទប់ដាក់សំភារៈ"
+
+msgid "Study"
+msgstr "ប​ន្ទប់សិក្សា"
+
+msgid "Hallway"
+msgstr "ច្រកដើរ"
+
+msgid "Corridor"
+msgstr "ច្រកផ្លូវរបៀង"
+
+msgid "Shower room"
+msgstr "បន្ទប់ងូតទឹក"
+
+msgid "Walk-in wardrobe"
+msgstr "បន្ទប់ដាក់់សំលៀកបំពាក់"
+
+msgid "Entrance"
+msgstr "ច្រកចូល"
+
+msgid "Lavatory"
+msgstr "ចានលាងដៃ"
+
+msgid "Veranda"
+msgstr "រានហាល"
+
+#, fuzzy
+msgid "Terrace"
+msgstr ""
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"យ៉មុខផ្ទះ\n"
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"ផ្ទៃ​រាប"
+
+msgid "Solarium"
+msgstr "ផ្្ទះកញ្ជក់"
+
+msgid "Reception room"
+msgstr "បន្ទប់ទទួលភ្ញៀវ"
+
+msgid "Play room"
+msgstr "បន្ទប់ក្មេងលេង"
+
+msgid "Dining room"
+msgstr "បន្ទប់ទទួួលទានអាហារ"
+
+msgid "Pool house"
+msgstr "ផ្ទះនៅជាប់អាងហែលទឹក"
+
+msgid "Cupboard"
+msgstr "ទូដាក់ចាន"
+
+msgid "Not used"
+msgstr "មិនប្រើប្រាស់"
+
+msgid "Loggia"
+msgstr "សំយ៉ាកដំបូល"
+
+msgid "Attic"
+msgstr "ធ្នើ"
+
+msgid "Mezzanine"
+msgstr "ឡៅតឿ"
+
+msgid "Pantry"
+msgstr "ដើម cellars"
+
+msgid "Maintenance room"
+msgstr "បន្ទប់រក្សាទុក"
+
+msgid "Workshop"
+msgstr "សិក្ខាសាលា"
+
+#, fuzzy
+msgid "Studio"
+msgstr ""
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"បន្ទប់ស្ទូឌីយូ\n"
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"បន្ទប់ស្នាក់នៅខ្នាតតូច"
+
+#, fuzzy
+msgid "Loft"
+msgstr ""
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"ឡៅ\n"
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"បន្ទប់ជាប់ដំបួល"
+
+msgid "Library"
+msgstr "បណ្ណាល័យ"
+
+msgid "Closet"
+msgstr "ទូូ"
+
+#, fuzzy
+msgid "Courtyard"
+msgstr ""
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"ទីធ្លាមុខផ្ទះ\n"
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"ទីធ្លា"
+
+msgid "Landing"
+msgstr "កន្លែងចូលចត"
+
+msgid "Linen room"
+msgstr "បន្ទប់ក្រណាត់ទេសឯក"
+
+#, fuzzy
+msgid "Basement"
+msgstr ""
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"បន្ទប់ក្រោមដី\n"
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"ជាន់នៅក្រោមដី"
+
+msgid "Shower room / Lavatory"
+msgstr "បន្ទប់ទឹក/ចានលាងដៃ"
+
+#, fuzzy
+msgid "Balcony"
+msgstr ""
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"រានហាាល\n"
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"យ៉រ"
+
+msgid "Exercise room"
+msgstr "បន្ទប់ហាត់ប្រាណ"
+
+msgid "Discothèque"
+msgstr "ក្លឹបរាំកំសាន្ត"
+
+msgid "Home cinema"
+msgstr "រោងភាពយន្ត"
+
+msgid "Stockroom"
+msgstr "បន្ទប់ស្តុក"
+
+#, fuzzy
+msgid "Garden"
+msgstr ""
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"សួនច្បារ\n"
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"សួន\n"
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"សួនច្បា"
+
+#, fuzzy
+msgid "Park"
+msgstr ""
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"ចំណតរថយន្ត\n"
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"ឧទ្យាន\n"
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"ឧទ្យាន"
+
+#, fuzzy
+msgid "Land"
+msgstr ""
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"ដី\n"
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"ដីទ្បូ"
+
+msgid "Patio"
+msgstr "រានហាលផ្ទាលដី"
+
+msgid "Principal bedroom"
+msgstr "បន្ទប់គេងមេគ្រួសារ"
+
+msgid "Suite"
+msgstr "បន្ទប់គេងធំ"
+
+msgid "Shed"
+msgstr "រទេះសេះ"
+
+#, fuzzy
+msgid "Apartment"
+msgstr ""
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"ផ្ទះល្វែង\n"
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"អគារស្នាក់នៅរូម\n"
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"អគារស្នាក់នៅរូម"
+
+msgid "Cabin"
+msgstr "ផ្ទះតូច"
+
+#, fuzzy
+msgid "Warehouse"
+msgstr ""
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"ឃ្លំាង\n"
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"ឃ្លាំង\n"
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"ឃ្លាំង"
+
+msgid "Outbuilding"
+msgstr "អគារតូច"
+
+msgid "Bike storage room"
+msgstr "បន្ទប់ដាក់កង់"
+
+msgid "Ski storage room"
+msgstr "បន្ទប់ដាក់សំ្គី"
+
+msgid "Garbage room"
+msgstr "បន្ទប់ធុងសំរាម"
+
+msgid "Steam room"
+msgstr "បន្ទប់ស្ទីម"
+
+msgid "Indoor swimming pool"
+msgstr "អាងហែលទឹកខាងក្នុង"
+
+msgid "Prayer room"
+msgstr "បន្ទប់ថ្វាយបង្គុំព្រះ"
+
+#, fuzzy
+msgid "Sauna"
+msgstr ""
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"សូណា\n"
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"សោណា"
+
+msgid "Watchtower"
+msgstr "ប៉ម"
+
+msgid "Room"
+msgstr "បន្ទប់"
+
+msgid "Meeting room"
+msgstr "បន្ទប់ប្រជុំ"
+
+msgid "Maid's room"
+msgstr "បន្ទប់អ្នកបម្រើ"
+
+msgid "Maid's studio"
+msgstr "បន្ទប់ស្ទូឌីយូសម្រាប់អ្នកបម្រើ"
+
+msgid "Double reception room"
+msgstr "បន្ទប់ទទួលភ្ញៀវពីរជាប់គ្នា"
+
+msgid "Triple reception room"
+msgstr "បន្ទប់ទទួលភ្ញៀវបីជាប់គ្នា"
+
+msgid "Indoor parking"
+msgstr "ចំណតខាងក្នុង"
+
+msgid "Outdoor parking"
+msgstr "ចំណតខាងក្រៅ"
+
+msgid "Shop"
+msgstr "ហាង"
+
+msgid "Cafeteria"
+msgstr "អាហារដ្ឋាន"
+
+msgid "Unit"
+msgstr "ច្រើន"
+
+msgid "Accommodation"
+msgstr "បន្ទប់ស្នាក់នៅ"
+
+#, fuzzy
+msgid "Arcade"
+msgstr ""
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"សំណង់អគារវែង\n"
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"ទូល្បែង"
+
+msgid "House"
+msgstr "ផ្ទះ"
+
+msgid "Stair"
+msgstr "ជណ្តើរ"
+
+msgid "Box"
+msgstr "ប្រអប់"
+
+msgid "Single"
+msgstr "ទោល"
+
+msgid "Twin"
+msgstr "ភ្លោះ"
+
+msgid "Twin by garage"
+msgstr "យានដ្ឋានភ្លោះ"
+
+#, fuzzy
+msgid "Village house"
+msgstr ""
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"ផ្ទះក្នុងភូមិ\n"
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"ផ្ទះអ្នកភូមិ"
+
+msgid "Twin by angle"
+msgstr "ផ្ទះភ្លោះកាច់ជ្រុង"
+
+msgid "Ranged"
+msgstr "ជួរ"
+
+msgid "Standard"
+msgstr "បទដ្ឋាន"
+
+msgid "Co-exclusive"
+msgstr "សហការផ្តាច់មុខ"
+
+msgid "Exclusive"
+msgstr "ផ្តាច់មុខ"
+
+msgid "Delegation"
+msgstr "គណៈប្រតិភូ"
+
+msgid "Exclusive agent"
+msgstr "ភ្នាក់ងារផ្តាច់មុខ"
+
+msgid "Colleague"
+msgstr "មហាវិទ្យាល័យ"
+
+#, fuzzy
+msgid "Free"
+msgstr ""
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"នៅទំនេរ\n"
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"ដោយឥតគិតថ្លៃ"
+
+msgid "Rented"
+msgstr "កំពុងជួល"
+
+msgid "Occupied"
+msgstr "កំពុងរស់នៅ"
+
+msgid "To be agreed"
+msgstr "ត្រូវបានយល់ព្រម"
+
+msgid "Building"
+msgstr "អគារ"
+
+msgid "Residence"
+msgstr "លំនៅដ្ឋាន"
+
+msgid "Housing scheme"
+msgstr "គ្រោងផ្ទះ"
+
+msgid "Hamlet"
+msgstr "ភូមិតូចៗ"
+
+msgid "Domain"
+msgstr "តំបន់ត្រួតត្រា"
+
+#, fuzzy
+msgid "Property"
+msgstr ""
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"អចលនវត្ថុ\n"
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"អចលនទ្រព្យ"
+
+msgid "Street"
+msgstr "ផ្លូវ"
+
+msgid "Sale"
+msgstr "លក់"
+
+msgid "Rental"
+msgstr "ជួល"
+
+msgid "Seasonal rental"
+msgstr "ការជួលតាមរដូវកាល"
+
+msgid "Development"
+msgstr "គំរោងថ្មី"
+
+#, fuzzy
+msgid "Life annuity"
+msgstr ""
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"ប្រាក់ប្រចាំឆ្នាំ\n"
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"Life annuity\n"
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"ស្មើនឹងជីវិត"
+
+msgid "Auction"
+msgstr "ការដេញថ្លៃ"
+
+msgid "Unit sale"
+msgstr "ការលក់មួយបន្ទប់"
+
+msgid "Bulk sale"
+msgstr "ការលក់ដុំ"
+
+msgid "Unfurnished"
+msgstr "មិនទាន់បំពាក់គ្រឿងសង្ហារឹម"
+
+msgid "Furnished"
+msgstr "គ្រឿងសង្ហារឹម"
+
+msgid "Roommate"
+msgstr "មិត្តរួមបន្ទប់"
+
+msgid "Student"
+msgstr "សិស្ស"
+
+msgid "Holidays"
+msgstr "ថ្ងៃឈប់សម្រាក"
+
+#, fuzzy
+msgid "Event"
+msgstr ""
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"ព្រឹត្តិការណ៍\n"
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"ការតាំងពិព័រណ៍ / បង្ហាញ"
+
+msgid "Life annuity occupied"
+msgstr "Life annuity occupied"
+
+msgid "Bare Ownership"
+msgstr "Bare Ownership"
+
+msgid "Forward sale"
+msgstr "ការលក់ទៅមុខ"
+
+msgid "Life annuity semi-occupied"
+msgstr "Life annuity semi-occupied"
+
+msgid "Forward sale available"
+msgstr "Forward sale available"
+
+msgid "Forward sale occupied"
+msgstr ""
+
+msgid "Life annuity without income"
+msgstr "ការបង់ប្រាក់​ប្រចាំ​ឆ្នាំមួយជីវិតដោយគ្មានប្រាក់ចំណូល"
+
+msgid "Requires updating"
+msgstr "ទាមទារពង្រឹងទិន្នន័យ"
+
+msgid "Good condition"
+msgstr "លក្ខខណ្ឌល្អ"
+
+msgid "Requires renovation"
+msgstr "ទាមទារការកែកុន"
+
+msgid "Excellent condition"
+msgstr "លក្ខខណ្ឌល្អបំផុត"
+
+msgid "Ground floor"
+msgstr "ជាន់ផ្ទាល់ដី"
+
+msgid "Top floor"
+msgstr "ជាន់់លើគេ"
+
+msgid "1st"
+msgstr "ជាន់ទី១"
+
+msgid "2nd"
+msgstr "ជាន់ទីី២"
+
+msgid "3rd"
+msgstr "ជាន់ទីី៣"
+
+msgid "4th"
+msgstr "ជាន់ទីី៤"
+
+msgid "5th"
+msgstr "ជាន់ទីី៥"
+
+msgid "6th"
+msgstr "ជាន់ទីី៦"
+
+msgid "7th"
+msgstr "ជាន់ទីី៧"
+
+msgid "8th"
+msgstr "ជាន់ទីី៨"
+
+msgid "9th"
+msgstr "ជាន់ទីី៩"
+
+msgid "10th"
+msgstr "ជាន់ទីី១០"
+
+msgid "11th"
+msgstr "ជាន់ទីី១១"
+
+msgid "12th"
+msgstr "ជាន់ទីី១២"
+
+msgid "13th"
+msgstr "ជាន់ទីី១៣"
+
+msgid "14th"
+msgstr "ជាន់ទីី១៤"
+
+msgid "15th"
+msgstr "ជាន់ទីី១៥"
+
+msgid "16th"
+msgstr "ជាន់ទីី១៦"
+
+msgid "17th"
+msgstr "ជាន់ទីី១៧"
+
+msgid "18th"
+msgstr "ជាន់ទីី១៨"
+
+msgid "19th"
+msgstr "ជាន់ទីី១៩"
+
+msgid "20th"
+msgstr "ជាន់ទីី២០"
+
+msgid "Garden level"
+msgstr "ជាន់មានសួនច្បារ"
+
+msgid "Split-level"
+msgstr "ផ្ទះជាន់កណ្តាល"
+
+msgid "-1"
+msgstr "-១"
+
+msgid "-2"
+msgstr "-២"
+
+msgid "-3"
+msgstr "-៣"
+
+msgid "-4"
+msgstr "-៤"
+
+msgid "Single-storey"
+msgstr "មួយជាន់"
+
+msgid "21st"
+msgstr "ទី២១"
+
+msgid "22nd"
+msgstr "ទី២២"
+
+msgid "23rd"
+msgstr "ទី២៣"
+
+msgid "24th"
+msgstr "ទី២៤"
+
+msgid "25th"
+msgstr "ទី២៥"
+
+msgid "26th"
+msgstr "ទី២៦"
+
+msgid "27th"
+msgstr "ទី២៧"
+
+msgid "28th"
+msgstr "ទី២៨"
+
+msgid "29th"
+msgstr "ទី២៩"
+
+msgid "30th"
+msgstr "ទី៣០"
+
+msgid "31st"
+msgstr "ទី៣១"
+
+msgid "32nd"
+msgstr "ទី៣២"
+
+msgid "33rd"
+msgstr "ទី៣៣"
+
+msgid "34th"
+msgstr "ទី៣៤"
+
+msgid "35th"
+msgstr "ទី៣៥"
+
+msgid "36th"
+msgstr "ទី៣៦"
+
+msgid "37th"
+msgstr "ទី៣៧"
+
+msgid "38th"
+msgstr "ទី៣៨"
+
+msgid "39th"
+msgstr "ទី៣៩"
+
+msgid "40th"
+msgstr "ទី៤០"
+
+msgid "-5"
+msgstr "-៥"
+
+msgid "-6"
+msgstr "-៦"
+
+msgid "-7"
+msgstr "-៧"
+
+msgid "-8"
+msgstr "-៨"
+
+msgid "-9"
+msgstr "-៩"
+
+msgid "-10"
+msgstr "-១០"
+
+msgid "41st"
+msgstr "41"
+
+msgid "42nd"
+msgstr "42"
+
+msgid "43rd"
+msgstr "43"
+
+msgid "44th"
+msgstr "44"
+
+msgid "45th"
+msgstr "45"
+
+msgid "46th"
+msgstr "46"
+
+msgid "47th"
+msgstr "47"
+
+msgid "48th"
+msgstr "48"
+
+msgid "49th"
+msgstr "49"
+
+msgid "50th"
+msgstr "50"
+
+msgid "51st"
+msgstr "51"
+
+msgid "52nd"
+msgstr "52"
+
+msgid "53rd"
+msgstr "53"
+
+msgid "54th"
+msgstr "54"
+
+msgid "55th"
+msgstr "55"
+
+msgid "56th"
+msgstr "56"
+
+msgid "57th"
+msgstr "57"
+
+msgid "58th"
+msgstr "58"
+
+msgid "59th"
+msgstr "59"
+
+msgid "60th"
+msgstr "60"
+
+msgid "Wooden floor"
+msgstr "កម្រាលឈើ"
+
+msgid "Tile"
+msgstr "ក្បឿង"
+
+msgid "Vinyl composition tile"
+msgstr "ក្បឿងផលិតពីប្លាស្ទិច"
+
+msgid "Carpet"
+msgstr "កម្រាលព្រុំ"
+
+msgid "Concrete"
+msgstr "ស៊ីម៉ង់"
+
+msgid "Natural fiber"
+msgstr "ជាតិសរសៃធម្មជាតិ"
+
+msgid "Coco"
+msgstr "ដើមដូង"
+
+msgid "Travertine"
+msgstr "ថ្មល្អាង"
+
+msgid "Marble"
+msgstr "ថ្មម៉ាត"
+
+msgid "Granite"
+msgstr "ថ្មក្រានីត"
+
+msgid "Terracotta tile"
+msgstr "ក្បឿងដីឥដ្ឋ"
+
+msgid "Teak"
+msgstr "ដើមម៉ៃសាក់"
+
+msgid "Mosaïc"
+msgstr "រួបភាពធ្វើពីថ្ម"
+
+msgid "Clay"
+msgstr "ដីឥដ្ឋ"
+
+msgid "Stone"
+msgstr "ថ្ម"
+
+msgid "Laminate"
+msgstr "សម្ភារៈបន្ទះ"
+
+msgid "Convector"
+msgstr "ម៉ាស៊ីនកំម្តៅ"
+
+msgid "Underfloor"
+msgstr "ដែលមានកម្តៅ"
+
+msgid "Radiator"
+msgstr "ម៉ាស៊ីនកម្តៅ"
+
+msgid "Stove"
+msgstr "ចង្ក្រានកម្តៅ"
+
+msgid "Air-conditioning"
+msgstr "ម៉ាស៊ីនត្រជាក់"
+
+msgid "Central"
+msgstr "កណ្តាល"
+
+msgid "Fireplace"
+msgstr "កន្លែងប្រមួលផ្តុំពេលមានអគ្គិភ័យ"
+
+msgid "Individual"
+msgstr "បុគ្គល"
+
+msgid "Common"
+msgstr "ធម្មតា"
+
+msgid "Mixed"
+msgstr "ចម្រុះ"
+
+msgid "District heating"
+msgstr "ប្រព័ន្ធកំដៅ"
+
+msgid "Gas"
+msgstr "ឧស្ម័ន"
+
+msgid "Fuel oil"
+msgstr "ប្រេងឥន្ធនៈ"
+
+msgid "Electric"
+msgstr "អគ្គិសនី"
+
+msgid "Wood"
+msgstr "ឈើ"
+
+msgid "Solar"
+msgstr "ពន្លឺព្រះអាទិត្យ"
+
+msgid "Charcoal"
+msgstr "ធ្យូង"
+
+msgid "Heat pump"
+msgstr "ម៉ាស៊ីនកម្តៅ"
+
+msgid "Geothermal"
+msgstr "កំម្តៅនៃផែនដី"
+
+msgid "Wood pellet"
+msgstr "កំំណាតឈឺសំរាប់ដុត"
+
+#, fuzzy
+msgid "Hot water"
+msgstr ""
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"ទឹកក្ដៅ\n"
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"ទឹក​ក្តៅ"
+
+msgid "Hot water tank"
+msgstr "ធុងទឹកក្តៅ"
+
+msgid "Boiler"
+msgstr "ម៉ាស៊ីនទឹកក្តៅ"
+
+msgid "Flat"
+msgstr "ផ្ទះល្វែង"
+
+msgid "Dry-stone wall terraces"
+msgstr "ជញ្ជាំងថ្ម"
+
+msgid "Steep"
+msgstr "ទីចោត"
+
+msgid "Wooded"
+msgstr "នៃឈើ"
+
+msgid "Meadow"
+msgstr "វាលស្មៅ"
+
+msgid "Term lease"
+msgstr "ជួលរយៈពេល"
+
+msgid "Long-Term"
+msgstr "រយៈ​ពេល​វែង"
+
+msgid "Long-Term - Single activity"
+msgstr "រយៈពេលវែង - សកម្មភាពតែ​មួយ"
+
+msgid "Long-Term - All activities"
+msgstr "រយៈពេលវែង - សកម្មភាពទាំងអស់"
+
+msgid "Seaside"
+msgstr "មាត់សមុទ្រ"
+
+msgid "Village"
+msgstr "ភូមិ"
+
+msgid "Old town"
+msgstr "ទីក្រុង​ចាស់"
+
+msgid "Precinct"
+msgstr "បរិវេណ"
+
+msgid "Ski slope"
+msgstr "ជម្រាលស្គី"
+
+msgid "Town center"
+msgstr "ទីក្រុង"
+
+msgid "Industrial estate"
+msgstr "តំបន់ឧស្សាហកម្ម"
+
+msgid "Shopping center"
+msgstr "មជ្ឈមណ្ឌលផ្សារទំនើប"
+
+msgid "Business park"
+msgstr "សួនពាណិជ្ជកម្ម"
+
+msgid "Airport area"
+msgstr "តំបន់ព្រលានយន្តហោះ"
+
+msgid "Port area"
+msgstr "តំបន់វិទ្យាសាស្រ្ត"
+
+msgid "Suburb"
+msgstr "ជាយក្រុង"
+
+#, fuzzy
+msgid "Hills"
+msgstr ""
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"កូនភ្នំ\n"
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"តាមភ្នំ"
+
+msgid "Waterfront"
+msgstr "មាត់ទឹក"
+
+msgid "Countryside"
+msgstr "ជនបទ"
+
+msgid "East"
+msgstr "ទិស​ខាង​កើត"
+
+msgid "North"
+msgstr "ទិស​ខាងជើង"
+
+msgid "West"
+msgstr "ទិស​ខាងលិច"
+
+msgid "South"
+msgstr "ទិស​ខាងត្បូង"
+
+msgid "Day"
+msgstr "ថ្ងៃ"
+
+msgid "Week"
+msgstr "សប្តាហ៍"
+
+msgid "Fortnight"
+msgstr "ពីរសប្តាហ៍"
+
+msgid "Month"
+msgstr "ខែ"
+
+msgid "Quarterly"
+msgstr "ប្រចាំត្រីមាស"
+
+msgid "Bimonthly"
+msgstr "រាល់ពីរខែម្តង"
+
+msgid "Half-yearly"
+msgstr "កន្លះឆ្នាំម្តង"
+
+msgid "Yearly"
+msgstr "ប្រចាំឆ្នាំ"
+
+msgid "Bus"
+msgstr "រថយន្តក្រុង"
+
+msgid "Bus hub"
+msgstr "ចំណតរថយន្តក្រុង"
+
+msgid "Metro"
+msgstr "រថភ្លើង​ក្រោម​ដី"
+
+msgid "Shops"
+msgstr "ហាង"
+
+msgid "Primary school"
+msgstr "បឋមសិក្សា"
+
+msgid "Town centre"
+msgstr "កណ្តាលក្រុង"
+
+msgid "Hospital/clinic"
+msgstr "មន្ទីរពេទ្យ/គ្លីនិក"
+
+msgid "Doctor"
+msgstr "វេជ្ជបណ្ឌិត"
+
+msgid "Tram"
+msgstr "រថភ្លើងអគ្គីសនី"
+
+msgid "Train station"
+msgstr "ស្ថានីយ៍"
+
+msgid "Public parking"
+msgstr "ចំណតរថយន្តសាធារណៈ"
+
+msgid "Supermarket"
+msgstr "ផ្សារទំនើប"
+
+msgid "Sea port"
+msgstr "កំពង់ផែសមុទ្រ"
+
+msgid "Nursery"
+msgstr "ការថែទាំពេលថ្ងៃ"
+
+msgid "Public pool"
+msgstr "អាងហែលទឹកសាធារណៈ"
+
+msgid "Tennis"
+msgstr "កីឡាវាយកូនបាល់"
+
+msgid "Golf"
+msgstr "កីឡាវាយកូនគោល"
+
+msgid "Movies"
+msgstr "ភាពយន្ត"
+
+msgid "Secondary school"
+msgstr "មធ្យមសិក្សា"
+
+msgid "Sport center"
+msgstr "មជ្ឈមណ្ឌល​កីឡា"
+
+msgid "Airport"
+msgstr "ព្រ​លាន​យន្តហោះ"
+
+msgid "Sea"
+msgstr "សមុទ្រ"
+
+msgid "TGV station"
+msgstr "ស្ថានីយ៍ TGV"
+
+msgid "Highway"
+msgstr "ផ្លូវហាយវេ"
+
+msgid "University"
+msgstr "សាកលវិទ្យាល័យ"
+
+msgid "Convention center"
+msgstr "មជ្ឈមណ្ឌលសន្និបាត"
+
+msgid "Lake"
+msgstr "បឹង"
+
+#, fuzzy
+msgid "Turnover"
+msgstr ""
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"ចំណូលប្រចាំឆ្នាំរបស់ក្រុមហ៊ុន\n"
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"ចំណូល"
+
+msgid "Net income"
+msgstr "ប្រាក់ចំណូល"
+
+msgid "Gross operating profit"
+msgstr "ប្រាក់ចំណេញប្រតិបត្តិការសរុប"
+
+msgid "Personnel costs"
+msgstr "ការចំណាយលើបុគ្គលិក"
+
+msgid "Cash flow"
+msgstr "លំហូរ​សាច់ប្រាក់"
+
+msgid "Shareholders’equity"
+msgstr "ភាគហ៊ុនផ្ទាល់ជាសាច់ប្រាក់"
+
+msgid "Net debt"
+msgstr "បំណុលសុទ្ធ"
+
+msgid "Internet"
+msgstr "អ៊ីនធើណេត"
+
+msgid "Disabled access"
+msgstr "ច្រកចូលសំរាប់ជនពិការ"
+
+msgid "Alarm system"
+msgstr "កណ្តឹងរោទិ៍"
+
+msgid "Lift"
+msgstr "ជណ្តើរយោង"
+
+msgid "Caretaker"
+msgstr "Caretaker"
+
+msgid "Double glazing"
+msgstr "បង្អួចមានកញ្ចក់ពីរជាន់"
+
+msgid "Intercom"
+msgstr "Intercom"
+
+msgid "TV distribution"
+msgstr "ទូរទស្សន៍ខ្សែកាប"
+
+msgid "Swimming pool"
+msgstr "អាងហែលទឹក"
+
+msgid "Security door"
+msgstr "Security door"
+
+msgid "Tennis court"
+msgstr "Tennis"
+
+msgid "Irrigation sprinkler"
+msgstr "Irrigation sprinkler"
+
+msgid "Barbecue"
+msgstr "Barbecue"
+
+msgid "Electric gate"
+msgstr "Electric gate"
+
+msgid "Crawl space"
+msgstr "Crawl space"
+
+msgid "Car port"
+msgstr "កំពង់ផែរថយន្ត"
+
+msgid "Caretaker house"
+msgstr "Caretaker house"
+
+msgid "Sliding windows"
+msgstr "Sliding windows"
+
+msgid "Central vacuum system"
+msgstr "ប្រព័ន្ធបូមធូលី"
+
+msgid "Electric shutters"
+msgstr "ទ្វាអគារអគ្គិសនី"
+
+msgid "Window shade"
+msgstr "បង្អួចបាំងពន្លឺ"
+
+msgid "Electric awnings"
+msgstr "បង្អួចបាំងពន្លឺអគ្គិសនី"
+
+msgid "Washing machine"
+msgstr "ម៉ាស៊ីន​បោកគក់"
+
+msgid "Jacuzzi"
+msgstr "អាង​ទឹកក្តៅ"
+
+msgid "Whirlpool tub"
+msgstr "អាងទឹកក្នុងបន្ទប់ទឹក"
+
+msgid "Well"
+msgstr "អណ្តូង"
+
+msgid "Spring"
+msgstr "និទាឃរដូវ"
+
+msgid "Engine generator"
+msgstr "ម៉ាស៊ីនភ្លើង"
+
+msgid "Dishwasher"
+msgstr "ម៉ា​ស៊ីន​លាង​ចាន"
+
+msgid "Oven"
+msgstr "ចង្ក្រាន"
+
+msgid "Safe"
+msgstr "សុវត្ថិភាព"
+
+msgid "Helipad"
+msgstr "Helipad"
+
+msgid "Videophone"
+msgstr "វីដេអូទូរស័ព្ទ"
+
+msgid "Video security"
+msgstr "សន្តិសុខវីដេអូ"
+
+msgid "Iron"
+msgstr "ឆ្នាំងអ៊ុត"
+
+msgid "Hair dryer"
+msgstr "ម៉ាស៊ីន​ផ្លុំ​សក់"
+
+msgid "Television"
+msgstr "ទូរទស្សន៍"
+
+msgid "DVD Player"
+msgstr "ម៉ាស៊ីន​ចាក់​ឌីវីឌី"
+
+msgid "CD Player"
+msgstr "ម៉ាស៊ីន​ចាក់​ស៊ីឌី"
+
+msgid "Outdoor lighting"
+msgstr "ភ្លើងបំភ្លឺខាងក្រៅ"
+
+msgid "Spa"
+msgstr "ស្ប៉ា"
+
+msgid "Home automation"
+msgstr "ផ្ទះបំពាក់ប្រព័ន្ធ​ស្វ័យ​ប្រវត្ត"
+
+msgid "Linens"
+msgstr "កម្រាលពូកខ្នើយ"
+
+msgid "Tableware"
+msgstr "សម្ភារៈប្រើក្នុងការបរិភោគអាហារ"
+
+msgid "Clothes dryer"
+msgstr "ម៉ាស៊ីនសម្ងួតសម្លៀកបំពាក់"
+
+msgid "Refrigerator"
+msgstr "ទូទឹកកក"
+
+msgid "Reception 24/7"
+msgstr "ទទួលភ្ញៀវ 24/7"
+
+msgid "Coffeemaker"
+msgstr "អ្នក​ឆុងកាហ្វេ"
+
+msgid "Microwave oven"
+msgstr "ចង្ក្រានកំដៅម្ហូប"
+
+msgid "Shabbat elevator"
+msgstr "ជណ្តើរយន្ត Shabbat"
+
+msgid "Sukkah"
+msgstr "Sukkah"
+
+msgid "Synagogue"
+msgstr "សាលាប្រជុំ"
+
+msgid "Digicode"
+msgstr "កូដឌីជីថល"
+
+msgid "Common laundry"
+msgstr "បោកគក់ទូទៅ"
+
+msgid "Pets allowed"
+msgstr "អនុញ្ញាតសត្វចិញ្ចឹម"
+
+msgid "Metal shutters"
+msgstr "ទ្វាដែក"
+
+msgid "Wiring closet"
+msgstr "បន្ទប់ខ្សែបណ្តាញ"
+
+msgid "Computer network"
+msgstr "បណ្តាញកុំព្យូទ័រ"
+
+msgid "Dropped ceiling"
+msgstr "ពិដានធ្លាក់ចុះ"
+
+msgid "Fire hose cabinets"
+msgstr "ទូដាក់បំពង់អគ្គីភ័យ"
+
+msgid "Fire sprinkler system"
+msgstr "ប្រព័ន្ធបាញ់ទឹកការពារអគ្គីភ័យ"
+
+msgid "Wharf"
+msgstr "កំពង់ទូក"
+
+msgid "Connected thermostat"
+msgstr "តភ្ជាប់ឧបករណ៍កំណត់កំដៅ"
+
+msgid "Bowling game"
+msgstr "ទីលានលេងប៉ូលបៃតង"
+
+msgid "Water softener"
+msgstr "វត្ថុរាវ"
+
+msgid "Triple glazing"
+msgstr "បង្អួចមានកញ្ចក់បីជាន់"
+
+msgid "Well drilling"
+msgstr "ការខួងរន្ធបានល្អ"
+
+msgid "Optical fiber"
+msgstr "ខ្សែរអុបទិក"
+
+msgid "Playground"
+msgstr "សួនកុមារ"
+
+msgid "Supplies"
+msgstr "ផ្គត់ផ្គង់"
+
+msgid "Outdoor spaces"
+msgstr "ទីធ្លាខាងក្រៅ"
+
+msgid "Rental supplies"
+msgstr "ការផ្គត់ផ្គង់តាមរដូវកាល"
+
+msgid "Security"
+msgstr "សន្ដិសុខ"
+
+msgid "Professional supplies"
+msgstr "ការផ្គត់ផ្គង់មាន​ជំនាញ​វិជ្ជាជីវៈ"
+
+msgid "High standard"
+msgstr "ស្ដង់ដារខ្ពស់"
+
+msgid "Luxury"
+msgstr "ប្រណីត"
+
+msgid "High luxury"
+msgstr "ប្រណីតណាស់"
+
+msgid "Housing estate"
+msgstr "អចលនទ្រព្យលំនៅដ្ឋាន"
+
+msgid "Regular"
+msgstr "ទៀង​ទា​ត"
+
+#, fuzzy
+msgid "In progress"
+msgstr ""
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"កំពុងដំណើរការ\n"
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"កំពុងដំណើរការ\n"
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"កំពុង​ដំណើរការ"
+
+msgid "Standby"
+msgstr "រង់ចាំ"
+
+msgid "Deleted"
+msgstr "លុបចោល"
+
+msgid "Waiting for agreement"
+msgstr "រងចាំកិច្ចព្រមព្រៀង"
+
+msgid "Agreement ended"
+msgstr "កិច្ចព្រមព្រៀងត្រូវបញ្ចប់"
+
+msgid "Offer"
+msgstr "ផ្តល់ជូន"
+
+msgid "Processing sale"
+msgstr "ដំណើរការលក់"
+
+msgid "Waiting for contract"
+msgstr "រងចាំកិិច្ចសន្យា"
+
+msgid "Pending approval"
+msgstr "រងចាំការអនុម័ត"
+
+msgid "Sell/Rent by agent"
+msgstr "លក់/ជួល ដោយភ្នាក់ងារអចលនទ្រព្យ"
+
+msgid "Sell/Rent by owner"
+msgstr "លក់/ជួល ដោយម្ចាស់កម្មសិទ្ធិ"
+
+msgid "Sell/Rent by other agent"
+msgstr "លក់/ជួល ដោយភ្នាក់ងារអចលនទ្រព្យផ្សេងទៀត"
+
+msgid "Removed by agent"
+msgstr "ដកចេញដោយភ្នាក់ងារអចលនទ្រព្យ"
+
+msgid "Removed by owner"
+msgstr "ដកចេញដោយម្ចាស់កម្មសិទ្ធិ"
+
+msgid "Sale/Rental cancelled"
+msgstr "ការលក់/ជួលលុបចោល"
+
+msgid "Delete this property"
+msgstr "លប់អចលនទ្រព្យ"
+
+msgid "Business"
+msgstr "ពាណិជ្ជកម្ម"
+
+msgid "Garage/Parking"
+msgstr "យានដ្ឋាន / ចំណត"
+
+msgid "Office"
+msgstr "ការិយាល័យ"
+
+msgid "Boat"
+msgstr "ទូក"
+
+msgid "Cellar / Box"
+msgstr "បន្ទប់ក្រោមដី / បន្ទប់តូច"
+
+msgid "Triplex"
+msgstr "ផ្ទះល្វែងបីជាន់"
+
+msgid "Building land"
+msgstr "ដីអគារ"
+
+msgid "Not constructible land"
+msgstr "ដីមិនមានការសាងសង់"
+
+msgid "Penthouse"
+msgstr "បន្ទប់ជាន់លើបង្អស់"
+
+msgid "Castle"
+msgstr "ប្រាសាទ"
+
+msgid "Twin Villa"
+msgstr "វីឡាភ្លោះ"
+
+msgid "Manor house"
+msgstr "ផ្ទះវីឡា"
+
+msgid "Farm"
+msgstr "កសិដ្ឋាន"
+
+msgid "Villa"
+msgstr "វីឡា"
+
+msgid "Apartment villa"
+msgstr "ផ្ទះល្វែងដូចនិង​វីទ្បា"
+
+msgid "Barn"
+msgstr "ជង្រុក"
+
+msgid "Ruin"
+msgstr "អគារបាក់បែក"
+
+msgid "Mill"
+msgstr "រោងម៉ាស៊ីនកិនស្រូវ"
+
+msgid "Carpark"
+msgstr "ចំណតរថយន្ត"
+
+msgid "Farmhouse"
+msgstr "ផ្ទះក្នុងកសិដ្ឋាន"
+
+msgid "Flat House"
+msgstr "ផ្ទះល្វែង"
+
+msgid "Mobile home"
+msgstr "ផ្ទះចល័ត"
+
+msgid "Cottage"
+msgstr "ខ្ទម"
+
+msgid "Hangar"
+msgstr "រោងជាង"
+
+msgid "Mas"
+msgstr "ការដ្ឋានកិនថ្ម"
+
+msgid "Local"
+msgstr "ក្នុងស្រុក"
+
+msgid "Chalet"
+msgstr "ផ្ទះឈើ"
+
+msgid "Retail space"
+msgstr "បរិវេណ"
+
+msgid "Business assets"
+msgstr "ទ្រព្យសម្បត្តិពាណិជ្ជកម្ម"
+
+msgid "Right to the lease"
+msgstr "សិទ្ធិក្នុងការជួល"
+
+msgid "Mansion"
+msgstr "ភូមិគ្រឹះ"
+
+msgid "Management"
+msgstr "គ្រប់គ្រង"
+
+msgid "Agricultural exploitation"
+msgstr "ដីកសិកម្ម"
+
+msgid "Woodshed"
+msgstr "រោងអុសដុត"
+
+msgid "Stud farm"
+msgstr "កសិដ្ឋានចិញ្ចឹមសត្វ"
+
+msgid "Plot of land"
+msgstr "ដីទ្បូ"
+
+msgid "Bastide"
+msgstr "ផ្ទះថ្ម"
+
+msgid "Bastidon"
+msgstr "ផ្ទះថ្មតូច"
+
+msgid "Company"
+msgstr "ក្រុមហ៊ុន"
+
+msgid "Vineyard property"
+msgstr "ចម្ការទំពាំងបាយជូរ"
+
+msgid "Motor Yacht"
+msgstr "ម៉ូតូទឺក"
+
+msgid "Narrow boat"
+msgstr "ទូកតូចចង្អៀត"
+
+msgid "Sailing Yacht"
+msgstr "ការបើកទូកក្ដោង"
+
+msgid "Catamaran"
+msgstr "ទូកទេសចរណ៏"
+
+msgid "Equestrian estate"
+msgstr "កសិដ្ឋានចិញ្ចឹមសេះ"
+
+msgid "Bed and breakfast"
+msgstr "គ្រែ​និង​អាហារ​ពេល​ព្រឹក"
+
+msgid "Gîte"
+msgstr "ផ្ទះសម្រាប់ថ្ងៃឈប់សម្រាក"
+
+msgid "Riad"
+msgstr "ផ្ទះម៉ារ៉ុក"
+
+msgid "Retail shop"
+msgstr "លក់​រាយ"
+
+msgid "Shophouse"
+msgstr "ផ្ទះលក់ទំនិញ"
+
+msgid "Borey"
+msgstr "បុរី"
+
+msgid "Condo"
+msgstr "ខុនដូ"
+
+msgid "Residential land"
+msgstr "ដីលំនៅដ្ឋាន"
+
+msgid "Commercial land"
+msgstr "ដីពាណិជ្ជកម្ម"
+
+msgid "Mountains"
+msgstr "ភ្នំ"
+
+msgid "Greenery"
+msgstr "ខៀវស្រងាត់"
+
+msgid "Monument"
+msgstr "វិមាន"
+
+msgid "Forest"
+msgstr "ព្រៃឈើ"
+
+msgid "City"
+msgstr "ទីក្រុង"
+
+msgid "Sky"
+msgstr "មេឃ"
+
+msgid "Harbor"
+msgstr "កំពង់ផែ"
+
+msgid "Ski slopes"
+msgstr "ជម្រាលសម្រាប់ជិះស្គី"
+
+msgid "Obstructed"
+msgstr "មើលមិនឃើញ"
+
+msgid "Slight"
+msgstr "មើលឃើញតិច"
+
+msgid "Unobstructed"
+msgstr "គ្មានអ្វីបាំង"
+
+msgid "Panoramic"
+msgstr "មើលឃើញទេសភាពទាំងមូល"
+
+msgid "Septic tank"
+msgstr "អាងស្តុកទឹកស្អុយ"
+
+msgid "Main drainage"
+msgstr "ស្ថានីយបង្ហូរទឹកមេ"
+
+msgid "Treatment plant"
+msgstr "ស្ថានីយចំរោះទឺកសម្អុយ"
+
+msgid "Estate agent"
+msgstr "ភ្នាក់​ងារ​អចលនទ្រព្យ"
+
+msgid "Phoning"
+msgstr "ទូរសព្ទ"
+
+msgid "Collaboration"
+msgstr "កិច្ចសហការ"
+
+#, fuzzy
+msgid "Provider"
+msgstr ""
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"អ្នកផ្តល់សេវាកម្ម\n"
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"អ្នកផ្តល់សេវា"
+
+msgid "Renown"
+msgstr "ល្បីល្បាញ"
+
+msgid "Walk-in / Window"
+msgstr "បង្អួច"
+
+msgid "Network"
+msgstr "បណ្តាញ"
+
+msgid "Flyer"
+msgstr "ខិតប័ណ្ឌព័ត៌មាន"
+
+msgid "Sign"
+msgstr "ចុះ​ឈ្មោះ"
+
+msgid "Magazine"
+msgstr "ទស្សនាវដ្តី"
+
+#, fuzzy
+msgid "Mailing"
+msgstr ""
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"ផ្ញើម៉ែល\n"
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"សំបុត្ររួម"
+
+#, fuzzy
+msgid "e-mailing"
+msgstr ""
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"ផ្ញើអ៊ីម៉ែល\n"
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"អ៊ីម៉ែល"
+
+msgid "Old client"
+msgstr "អតិថិជនចាស់"
+
+msgid "Appraisal"
+msgstr "វាយតម្លៃ"
+
+msgid "Selection / Favorite"
+msgstr "ការជ្រើស / ចូលចិត្ត"
+
+msgid "Main residence"
+msgstr "លំនៅដ្ឋានទីមួយ"
+
+msgid "Secondary residence"
+msgstr "លំនៅដ្ឋានទីពីរ"
+
+msgid "Student residence"
+msgstr "លំនៅដ្ឋានសំរាប់សិស្ស"
+
+msgid "Tourism residence"
+msgstr "លំនៅដ្ឋានសំរាប់អ្នកទេសចរណ៍"
+
+msgid "Seniors residence"
+msgstr "លំនៅដ្ឋានសំរាប់អ្នកចូល​និវត្តន៍"
+
+msgid "Duflot Legislation"
+msgstr "ច្បាប់​របស់ Duflot"
+
+msgid "Censi-Bouvard Legislation"
+msgstr "ច្បាប់​របស់ Censi-Bouvard"
+
+msgid "Reduced fees"
+msgstr "ការកាត់បន្ថយថ្លៃ"
+
+msgid "EHPAD (Retirement homes)"
+msgstr "EHPAD (ផ្ទះចូលនិវត្តន៍)"
+
+msgid "Act 1291"
+msgstr "ការ​ធ្វើ​សកម្មភាព​ ១២៩១"
+
+msgid "Act 887"
+msgstr "ការ​ធ្វើ​សកម្មភាព​ ៨៨៧"
+
+msgid "Mixed-use"
+msgstr "ការប្រើលាយបញ្ចូលគ្នា"
+
+msgid "Rental investment"
+msgstr "ការវិនិយោគជួល"
+
+msgid "Act 1235"
+msgstr "ការ​ធ្វើ​សកម្មភាព​ ១២៣៥"
+
+msgid "Pinel Legislation"
+msgstr "ច្បាប់​របស់Pinel"
+
+msgid "m²"
+msgstr "m²"
+
+msgid "sq ft"
+msgstr "sq ft"
+
+msgid "sq yd"
+msgstr "sq yd"
+
+msgid "ha"
+msgstr "ha"
+
+msgid "minute"
+msgstr "នាទី"
+
+msgid "metre"
+msgstr "ម៉ែត្រ"
+
+msgid "km"
+msgstr "គីឡូម៉ែត្រ"
+
+msgid "Administrator"
+msgstr "អ្នកគ្រប់គ្រង"
+
+msgid "Company manager"
+msgstr "ប្រធានក្រុមហ៊ុន"
+
+msgid "Agency manager"
+msgstr "អ្នកគ្រប់គ្រងភ្នាក់ងារ"
+
+msgid "Secretariat"
+msgstr "លេខាធិការដ្ឋាន"
+
+#, fuzzy
+msgid "Agent"
+msgstr ""
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"ឈ្មួញកណ្តាល\n"
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"ភ្នាក់ងារ"
+
+msgid "Intern"
+msgstr "កម្មសិក្សា"
+
+msgid "User"
+msgstr "ភ្នាក់ងារ"
+
+msgid "Franchisor"
+msgstr "អ្នកចាត់ការទូទៅនៃម៉ាក​យីហោ"
+
+msgid "Translator"
+msgstr "អ្នកបកប្រែ"
+
+msgid "Plan"
+msgstr "ផែនការ"
+
+msgid "Image"
+msgstr "រូបភាព"
+
+msgid "Pet"
+msgstr "សត្វចញ្ចឹម"
+
+msgid "Natural light"
+msgstr "ពន្លឺធម្មជាតិ"
+
+msgid "Kitchen island"
+msgstr "Kitchen island"
+
+msgid "Kitchen bar"
+msgstr "Kitchen bar"
+
+msgid "High ceiling"
+msgstr "ពិដានខ្ពស់"
+
+msgid "Skylight"
+msgstr "Skylight"
+
+msgid "Exposed bricks"
+msgstr "ឥដ្ឋលាតត្រដាង"
+
+msgid "Chandelier"
+msgstr "ចង្កៀង"
+
+msgid "Stainless steel"
+msgstr "ដែកអ៊ីណុក"
+
+msgid "Price on request"
+msgstr "ស្នើរសុំបង្ហាញតម្លៃ"
+
+msgid "Currency"
+msgstr "រូបិយប័ណ្ណ"
+
+msgid "price"
+msgstr "តម្លៃ"
+
+msgid "Types"
+msgstr "ប្រភេទ អចលនទ្រព្យ"
+
+msgid "room"
+msgstr "បន្ទប់"
+
+msgid "Send"
+msgstr "ផ្ញើ"
+
+msgid "Tel."
+msgstr "ទូរស័ព្ទ"
+
+msgid "Lastname"
+msgstr "នាមត្រកូល"
+
+msgid "Firstname"
+msgstr "នាមខ្លួន"
+
+msgid "Ref"
+msgstr "លេខយោង"
+
+msgid "Ref."
+msgstr "លេខកូដយោង"
+
+msgid "%s bedrooms"
+msgstr "%s បន្ទប់គេង"
+
+msgid "%s rooms"
+msgstr "%s បន្ទប់"
+
+msgid "Folder"
+msgstr "ថត"
+
+msgid "No matches found"
+msgstr "ការផ្គូរផ្គងរកមិនឃើញ"
+
+msgid "Please enter one more character"
+msgstr "សូមបញ្ចូលតួអក្សរមួយបន្ថែមទៀត"
+
+msgid "Duplicate"
+msgstr "ស្ទួន"
+
+msgid "Backup"
+msgstr "រក្សារទុក"
+
+msgid "Rates"
+msgstr "អត្រាការប្រាក់"
+
+msgid "Sender"
+msgstr "អ្នកផ្ញើ"
+
+msgid "Recipient"
+msgstr "អ្នកទទួល"
+
+msgid "Subject"
+msgstr "ប្រធានបទ"
+
+msgid "Attachment"
+msgstr "ឯកសារ​ភ្ជាប់"
+
+msgid "Key"
+msgstr "គន្លឹះ"
+
+msgid "File"
+msgstr "ឯកសារ"
+
+msgid "Name"
+msgstr "ឈ្មោះ"
+
+msgid "Back"
+msgstr "ត្រលប់ក្រោយ"
+
+msgid "Help"
+msgstr "ជួយ?"
+
+msgid "Read more"
+msgstr "Read more"
+
+msgid "Area"
+msgstr "ក្រទ្បាផ្ទៃ"
+
+msgid "Length"
+msgstr "ប្រវែង"
+
+msgid "Beam"
+msgstr "កម្ពស់"
+
+msgid "Width"
+msgstr "ទទឹង"
+
+msgid "Deposit"
+msgstr "ប្រាក់កក់"
+
+msgid "Agreement start at"
+msgstr "ចាប់ពីថ្ងៃ"
+
+msgid "Agreement end at"
+msgstr "ដល់ថ្ងៃ"
+
+msgid "Website"
+msgstr "គេហទំព័រ"
+
+msgid "Proximities"
+msgstr "នៅជិត"
+
+msgid "Log out"
+msgstr "ចាកចេញ"
+
+msgid "Availability"
+msgstr "ភាពទំនេរ"
+
+msgid "Total area"
+msgstr "ផ្ទៃដី​សរុប"
+
+msgid "Living area"
+msgstr "តំបន់ដែលរស់នៅ"
+
+msgid "Password forgotten"
+msgstr "ពាក្យសម្ងាត់ដែលភ្លេច"
+
+msgid "Password"
+msgstr "ពាក្យសម្ងាត់"
+
+msgid "Username"
+msgstr "ឈ្មោះ​ភ្នាក់ងារ"
+
+msgid "Welcome %s"
+msgstr "សូមស្វាគមន៍ %s"
+
+msgid "Add"
+msgstr "បញ្ចូល"
+
+msgid "Display"
+msgstr "បង្ហាញ"
+
+msgid "Listings"
+msgstr "បញ្ជី"
+
+msgid "Tools"
+msgstr "ឧបករណ៍"
+
+msgid "Market"
+msgstr "ផ្សារ"
+
+msgid "agencies"
+msgstr "ទីភ្នាក់ងារ"
+
+msgid "Calendar"
+msgstr "ប្រតិទិន"
+
+msgid "Homepage"
+msgstr "ទំព័រដើម"
+
+msgid "Maps"
+msgstr "ផែនទី"
+
+msgid "Value"
+msgstr "តំលៃ"
+
+msgid "Sector"
+msgstr "ផ្នែក"
+
+msgid "contacts"
+msgstr "ទំនាក់ទំនង"
+
+msgid "%s contacts"
+msgstr "%s​ ទំនាក់ទំនង"
+
+msgid "Settings"
+msgstr "ការកំណត់"
+
+msgid "General"
+msgstr "ទូទៅ"
+
+msgid "Heating"
+msgstr "កំដៅ"
+
+msgid "Waste water"
+msgstr "ទឹក​កខ្វក់"
+
+msgid "Country"
+msgstr "ប្រទេស"
+
+msgid "Escrow deposit"
+msgstr "បញ្ញើទុកសុវត្ថិភាព"
+
+msgid "Owners"
+msgstr "ម្ចាស់"
+
+msgid "Orientation"
+msgstr "បែមុខទៅ"
+
+msgid "View"
+msgstr "ការមើល"
+
+msgid "District"
+msgstr "ស្រុក"
+
+msgid "Fields"
+msgstr "ឯកទេស"
+
+msgid "Hook"
+msgstr "ទំពក់"
+
+msgid "comments"
+msgstr "យោបល់"
+
+msgid "Buy"
+msgstr "ទិញ"
+
+msgid "Leases"
+msgstr "ជួល"
+
+msgid "About us"
+msgstr "អំពីយើង"
+
+msgid "Companies"
+msgstr "ក្រុមហ៊ុន"
+
+msgid "Service"
+msgstr "សេវាកម្ម"
+
+msgid "News"
+msgstr "ព័ត៍មាន"
+
+msgid "Contact us"
+msgstr "ទាក់ទងមកយើងខ្ញុំ"
+
+msgid "Print"
+msgstr "បោះពុម្ព"
+
+msgid "Picture"
+msgstr "បញ្ចូលរូបភាព"
+
+msgid "Add to cart"
+msgstr "បញ្ចូលទៅក្នុងកន្ត្រក​ទំនិញ"
+
+msgid "Replace in cart"
+msgstr "ជំនួសក្នុងកន្ត្រក​ទំនិញ"
+
+msgid "Category"
+msgstr "សំរាប់"
+
+msgid "History"
+msgstr "ប្រវត្តិ"
+
+msgid "Details"
+msgstr "ពត៍មានលម្អិត"
+
+msgid "Date"
+msgstr "កាលបរិច្ឆេទ"
+
+msgid "Previous"
+msgstr "មុន"
+
+msgid "Next"
+msgstr "បន្ទាប់"
+
+msgid "Quick search"
+msgstr "ការ​ស្វែង​រក​ឆាប់​រហ័ស"
+
+msgid "Zipcode"
+msgstr "លេខ​កូដ​តំបន់"
+
+msgid "The username and/or password is invalid."
+msgstr "ឈ្មោះភ្នាក់ងារនិង / ឬពាក្យសម្ងាត់មិនត្រឹមត្រូវ"
+
+msgid "Group"
+msgstr "ជាក្រុម"
+
+msgid "Are you sure?"
+msgstr "តើ​អ្នក​ប្រាកដ​ឬ​អត់?"
+
+msgid "Nationality"
+msgstr "សញ្ជាតិ"
+
+msgid "Radius"
+msgstr "កាំរង្វង់"
+
+msgid "Summary"
+msgstr "សង្ខេប"
+
+msgid "Watermark"
+msgstr "សញ្ញាសំគាល់"
+
+msgid "Latitude"
+msgstr "រយៈទទឹង"
+
+msgid "Longitude"
+msgstr "រយៈបណ្ដោយ"
+
+msgid "Mortgage"
+msgstr "ប្រាក់កម្ចីទិញផ្ទះ"
+
+msgid "Download"
+msgstr "ទាញយក"
+
+msgid "Dashboard"
+msgstr "ផ្ទាំងគ្រប់គ្រង"
+
+msgid "Matching"
+msgstr "ផ្គូផ្គង"
+
+msgid "Pay now by card"
+msgstr "បង់តាមកាតឥណទាន"
+
+msgid "Pay by bank transfer"
+msgstr "ការផ្ទេរប្រាក់តាមធនាគារ"
+
+msgid "Pay by check"
+msgstr "បង់ដោយមូលទានបត្រ"
+
+msgid "Powered by"
+msgstr "ឧបត្ថម្ភដោយ"
+
+msgid "Accepted payment methods"
+msgstr "វិធីសាស្រ្តទទួលយកការទូទាត់"
+
+msgid "Condition"
+msgstr "លក្ខខណ្ឌ"
+
+msgid ""
+"Your contact is already in database, please select it on the list below."
+msgstr "មាននៅក្នុងតារាងទិន្ន៍យរូចរាល់ហើយ"
+
+msgid "Contracts"
+msgstr "កិច្ចសន្យា"
+
+msgid "Seekers"
+msgstr "អ្នកស្វែងរក"
+
+msgid "Active seekers"
+msgstr "អ្នកស្វែងរកសកម្ម"
+
+msgid "Providers"
+msgstr "ប្រទេសអ្នកផ្តល់"
+
+msgid "Active owners"
+msgstr "ម្ចាស់សកម្ម"
+
+msgid "Monitoring"
+msgstr "ការតាមដាន"
+
+msgid "Forward"
+msgstr "ទៅមុខ"
+
+msgid "Similar"
+msgstr "ស្រដៀងគ្នា"
+
+msgid "Level"
+msgstr "ជាន់"
+
+msgid "Water"
+msgstr "ទឹក"
+
+msgid "Description"
+msgstr "ការពិពណ៌នា"
+
+msgid "Deductions"
+msgstr "ប្រាក់បំណាច់"
+
+msgid "Not available"
+msgstr "មិនមាន"
+
+msgid "Occupant"
+msgstr "ការកាន់កាប់"
+
+msgid "Prospecting"
+msgstr "ការរំពឹងទុក"
+
+msgid "Sharing"
+msgstr "ចែករំលែក"
+
+msgid "Like"
+msgstr "ចូលចិត្ត"
+
+msgid "Unlike"
+msgstr "មិនចួលចិត្ត"
+
+msgid "Portfolio"
+msgstr "ផលប័ត្រ"
+
+msgid "Features"
+msgstr "លក្ខណៈពិសេស"
+
+msgid "Contracted owners"
+msgstr "កិច្ចព្រមព្រៀង​ ជាមួយម្ចាស់"
+
+msgid "Contracted customers"
+msgstr "កិច្ចព្រមព្រៀង​ ជាមួយអតិថិជន"
+
+msgid "Transfer tax"
+msgstr "ពន្ធប្រថាប់ត្រា"
+
+msgid "Change to"
+msgstr "ផ្តូរទៅ"
+
+msgid "Until"
+msgstr "ខ្នាត"
+
+msgid "Location reference"
+msgstr "ទំតាំងកំណត់យោង"
+
+msgid "Priority"
+msgstr "អាទិភាព"
+
+msgid "Full form"
+msgstr "ទំរង់ពេញ"
+
+msgid "Quick form"
+msgstr "ទំរង់ខ្លី"
+
+msgid "%s char(s)"
+msgstr "%s char(s)"
+
+msgid "Price from"
+msgstr "តំលៃ ពី"
+
+msgid "Duration"
+msgstr "រយះពេល"
+
+msgid "Request incomplete"
+msgstr "តំរ៉ូវការ មិនទាន់បានបញ្ចប់"
+
+msgid "%s incomplete request(s)"
+msgstr "%s តំរ៉ូវការ មិនទាន់បានបញ្ចប់"
+
+msgid "Subscribe for"
+msgstr "ជាវប្រចាំ​ សំរាប់"
+
+msgid "Configuration"
+msgstr "ការកំណត់រចនាសម្ព័ន្ធ"
+
+msgid "Subtotal"
+msgstr "សរុបរង"
+
+msgid "Tax notice"
+msgstr "គារជូនដំណឹងពន្ធ"
+
+msgid "Events"
+msgstr "ព្រឹត្តិការណ៍"
+
+msgid "Missing"
+msgstr "បាត់"
+
+msgid "Planned"
+msgstr "គ្រោងទុក"
+
+msgid "Full"
+msgstr "ពេញលេញ"
+
+msgid "Organizer"
+msgstr "អ្នករៀបចំកម្មវិធី"
+
+msgid "Already subscribed"
+msgstr "បានជាវរួចហើយ"
+
+msgid "Attendees"
+msgstr "អ្នកចូលរួម"
+
+msgid "Join"
+msgstr "ចួលរួម"
+
+msgid "Training"
+msgstr "ការបណ្តុះបណ្តាល"
+
+msgid "Require a change of password at next logon"
+msgstr "សូមផ្តូរពាក្សសំងាត់ នៅពេលចូលលើកក្រោយ"
+
+msgid "Gross revenue"
+msgstr "ចំណូលសរុប"
+
+msgid "Gross yield"
+msgstr "ទិន្នផលដុល"
+
+msgid "Net yield"
+msgstr "ទិន្នផលសុទ្ធ"
+
+msgid "Vacancy rate"
+msgstr "អត្រាកំណើន"
+
+msgid "Investment"
+msgstr "ការវិនិយោគ"
+
+msgid "Lock"
+msgstr "ចាក់សោ"
+
+msgid "Variables"
+msgstr "អថេរ"
+
+msgid "Example"
+msgstr "ឧទាហរណ៍"
+
+msgid "Increment"
+msgstr "Increment"
+
+msgid "Schema"
+msgstr "Schema"
+
+msgid "Automation"
+msgstr "Automation"
+
+msgid "Login"
+msgstr "ចូល"
+
+msgid "Renovation year"
+msgstr "ឆ្នាំជួសជុលកែលំអ"
+
+msgid "Curriculum vitae"
+msgstr "ប្រវត្តិរូបសង្ខេប"
+
+msgid "Resellers"
+msgstr "លក់បន្ត"
+
+msgid "Select"
+msgstr "ជ្រើសរើស"
+
+msgid "Bill"
+msgstr "វិក័យប័ត្រ"
+
+msgid "The balance of your account is %s"
+msgstr "តុល្យភាពនៃគណនីរបស់អ្នកនេះគឺ %s"
+
+msgid "Ceiling"
+msgstr "ពិដាន"
+
+msgid "Weighted area"
+msgstr "ទំហំទំងន់"
+
+msgid "Collected"
+msgstr "ប្រមូល​បាន"
+
+msgid "Unlimited"
+msgstr "គ្មានដែនកំណត់"
+
+msgid "Quantity"
+msgstr "បរិមាណ"
+
+msgid "Subscribe"
+msgstr "ជា​វ​ជា​ប្រចាំ"
+
+msgid "Setup"
+msgstr "ការដំឡើង"
+
+msgid "Active owner"
+msgstr "សកម្មភាពម្ចាស់"
+
+msgid "Matching at"
+msgstr "ការផ្គូផ្គងនៅ"
+
+msgid "Price by area"
+msgstr "តំលៃតាមតំបន់"
+
+msgid "Default list"
+msgstr "បញ្ជីលំនាំដើម"
+
+msgid "Subtype"
+msgstr "ប្រភេទរង"
+
+msgid "Inventory"
+msgstr "សារពើភ័ណ្ឌ"
+
+msgid "Add a custom document"
+msgstr "ដាក់បន្ថែមឯកសារដែលបានជ្រើសរើស"
+
+msgid "Line spacing"
+msgstr "គម្លាតបន្ទាត់"
+
+msgid "Font"
+msgstr "ពុម្ពអក្សរ"
+
+msgid "Portrait"
+msgstr "បញ្ឈរ"
+
+msgid "Landscape"
+msgstr "ផ្តេក"
+
+msgid "Account"
+msgstr "គណនី"
+
+msgid "Optional"
+msgstr "ជា​ជម្រើស"
+
+msgid "Collected at"
+msgstr "ប្រមូល​បាននៅ"
+
+msgid "Linked"
+msgstr "បានតភ្ជាប់"
+
+msgid "Discover our offers"
+msgstr "ស្វែងយល់ពីការផ្តល់ជូនរបស់យើង"
+
+msgid "Blank"
+msgstr "ទទេ"
+
+msgid "Portal"
+msgstr "វិបផតថល"
+
+msgid "Software Documentation"
+msgstr "ឯកសារកម្មវិធី"
+
+msgid "Time"
+msgstr "ពេលវេលា"
+
+msgid "Dedicated website"
+msgstr "គេហទំព័រ​ ដែលត្រូវបើក"
+
+msgid "Subcategory"
+msgstr "ចំណាត់ថ្នាក់ក្រុមរង"
+
+msgid "No IP control"
+msgstr "គ្មានការត្រួតពិនិត្យ IP"
+
+msgid "Auto publish"
+msgstr "បោះពុម្ពផ្សាយដោយស្វ័យប្រវត្តិ"
+
+msgid "Link to property"
+msgstr "ដាក់ក្រោមគំរោង"
+
+msgid "Happy birthday!"
+msgstr "រីករាយ​ថ្ងៃ​កំណើត!"
+
+msgid "Birthdays"
+msgstr "ថ្ងៃកំណើត"
+
+msgid "Last login"
+msgstr "អ្នកចូលលើកមុន"
+
+msgid "This property is a part of:"
+msgstr "អចលនទ្រព្យនេះគឺជាផ្នែកមួយនៃ:"
+
+msgid "IP address"
+msgstr "អាសយដ្ឋាន IP"
+
+msgid "Access code"
+msgstr "កូដសំរាប់ចូលប្រើ"
+
+msgid "Access code at"
+msgstr "លេខកូដចូលនៅ"
+
+msgid "Number of shares"
+msgstr "ចំនួនភាគហ៊ុន"
+
+msgid "Leads"
+msgstr "ពត៍មានតំរ៉ូវការ"
+
+msgid "Cancelled"
+msgstr "Cancelled"
+
+msgid "Link"
+msgstr "តំណភ្ជាប់"
+
+msgid "Advanced"
+msgstr "កម្រិតខ្ពស់"
+
+msgid "Publish on homepage"
+msgstr "ដាក់នៅលើទំព័រមុខ"
+
+msgid "Suggested"
+msgstr "ស្នើ"
+
+msgid "Welcome on %s"
+msgstr "សូមស្វាគមន៍មកកាន់ %s"
+
+msgid "Content"
+msgstr "មាតិកា"
+
+msgid "Extranet access"
+msgstr "ការចូលក្នងបណ្តាញឯកជន"
+
+msgid "Publish address"
+msgstr "អាសយដ្ឋានបោះពុម្ពផ្សាយ"
+
+msgid "Opening hours"
+msgstr "ម៉ោងបើក"
+
+msgid "Backoffice"
+msgstr "Backoffice"
+
+msgid "Member since %s"
+msgstr "សមាជិកតាំងពី %s"
+
+msgid "Lock menu bar"
+msgstr "ចាក់សោរបារម៉ឺនុយ"
+
+msgid "Update"
+msgstr "ធ្វើឱ្យប្រសើរ"
+
+msgid "Booking"
+msgstr "ការកក់"
+
+msgid "Forward to contact"
+msgstr "បញ្ជូនទំនាក់ទំនងបន្ត"
+
+msgid "Reply"
+msgstr "ឆ្លើយតប"
+
+msgid ""
+"You can search our Frequently Asked Questions (FAQs) database by keyword(s):"
+msgstr "អ្នកអាចស្វែងរកបាននូវសំណួរដែលសួរយើងជាញឹកញាប់ (FAQs) ដោយពាក្យគន្លឹះ"
+
+msgid "Registrar"
+msgstr "អត្រានុកូលដ្ឋាន"
+
+msgid "Expiration at"
+msgstr "ផុតកំណត់នៅ"
+
+msgid "Mailbox"
+msgstr "ប្រអប់សំបុត្រ"
+
+msgid "Domain name"
+msgstr "ឈ្មោះគេហទំព៍រ"
+
+msgid "Filling"
+msgstr "បំពេញ"
+
+msgid "Condition precedent"
+msgstr "គំរូលក្ខខណ្ឌ"
+
+msgid "Size"
+msgstr "ទំហំ"
+
+msgid "Deal fees"
+msgstr "ថ្លៃកិច្ចព្រមព្រៀង"
+
+msgid "Fees charged"
+msgstr "ថ្លៃត្រូវត្រូវបង់"
+
+msgid "Customers"
+msgstr "អតិថិជន"
+
+msgid "Booked"
+msgstr "កក់ទុក"
+
+msgid "Available"
+msgstr "ដែលទំនេរ"
+
+msgid "Associate"
+msgstr "Associate"
+
+msgid "Ceiling height"
+msgstr "Ceiling height"
+
+msgid "Translations"
+msgstr "បកប្រែ"
+
+msgid "Unsold"
+msgstr "Unsold"
+
+msgid "Sold"
+msgstr "Sold"
+
+msgid "Last action"
+msgstr "សកម្មភាពចុងក្រោយ"
+
+msgid "Our agency"
+msgstr "ភ្នាក់ងារ​ យើងខ្ញុំ"
+
+msgid "Locate us"
+msgstr "រកទីតាំងយើង"
+
+msgid "Your main contact"
+msgstr "Votre interlocuteur privilégié"
+
+msgid "Send me a message"
+msgstr "M'envoyer un message"
+
+msgid "Leave us a message"
+msgstr "Laissez-nous un message"
+
+msgid "Price with fees"
+msgstr "Prix avec charges"
+
+msgid "Owner access"
+msgstr "Espace propriétaire"
+
+msgid "Added"
+msgstr "Ajouté"
+
+msgid "Available for matching"
+msgstr "Croisement autorisé"
+
+msgid "Available at"
+msgstr "ទំនេរ នៅថ្ងៃ"
+
+msgid "Lessee"
+msgstr "អ្នកជួល"
+
+msgid "Add to list"
+msgstr "Ajouter à la liste"
+
+msgid "Custom tags"
+msgstr "Attributs personnalisés"
+
+msgid "%s pending approval properties"
+msgstr "%s អចលនទ្រព្យ កំ់ពុងរង់ចាំ សំរេច"
+
+msgid "Negotiable price"
+msgstr "តំលៃចរចាបាន"
+
+msgid "Price updated"
+msgstr "តំលៃថ្មី"
+
+msgid "Less equal"
+msgstr "Inférieur égal"
+
+msgid "Equal"
+msgstr "ស្មើ"
+
+msgid "Greater equal"
+msgstr "Supérieur égal"
+
+msgid "Preferences"
+msgstr "ចំណង់ចំណូលចិត្ត"
+
+msgid "Contact means"
+msgstr "ទំនាក់ទំនងតាមរយះ"
+
+msgid "Agency commission"
+msgstr "Agency commission"
+
+msgid "Scheduled at"
+msgstr "កំណត់ពេល ថ្ងៃ"
+
+msgid "Contract at"
+msgstr "ចុះកិច្ចសន្យា ថ្ងៃ"
+
+msgid "Commitment"
+msgstr "Commitment"
+
+msgid "Commitment at"
+msgstr "Commitment at"
+
+msgid "Offer at"
+msgstr "ការផ្តល់ជូន ថ្ងៃ"
+
+msgid "No action"
+msgstr "គ្មានសកម្មភាព"
+
+msgid "Others"
+msgstr "ផ្សេងទៀត"
+
+msgid "Received contact information"
+msgstr "ទទួលបាន​ពត៍មានទំនាក់ទំនង"
+
+msgid "Linked contact"
+msgstr "ទំនាក់ទំនងដែលបានតភ្ជាប់"
+
+msgid "Related contacts"
+msgstr "ទំនាក់ទំនងដែលទាក់ទងនឹង"
+
+msgid "Assigned to"
+msgstr "បានផ្ដល់ទៅឱ្យ"
+
+msgid "Assign to"
+msgstr "ផ្ដល់ទៅឱ្យ"
+
+msgid "Assign by"
+msgstr "ចាត់តាំងដោយ"
+
+msgid "Opened by"
+msgstr "បានបើកដោយ"
+
+msgid "Closed by"
+msgstr "បានបិទដោយ"
+
+msgid "Time zone"
+msgstr "ម៉ោងតំបន់"
+
+msgid "Invert selection"
+msgstr "ការជ្រើសរើសបញ្ច្រាស"
+
+msgid "Select all"
+msgstr "ជ្រើស​យក​ទាំងអស់"
+
+msgid "Unselect all"
+msgstr "មិនជ្រើស​យក​ទាំងអស់"
+
+msgid "%s awaiting lead(s)"
+msgstr "%s %sពត៍មានតំរ៉ូវការ កំពុងរងចាំ"
+
+msgid "%s lead(s) to assign"
+msgstr "%s ពត៍មានតំរ៉ូវការ កំពុងចាត់ចែង"
+
+msgid "%s pending properties"
+msgstr "%s អចលនទ្រព្យ កំ់ពុងរង់ចាំ"
+
+msgid "%s pending matching(s)"
+msgstr "%s ការផ្គូរផ្គងកំពុងរងចាំ"
+
+msgid "%s expired agreement(s)"
+msgstr "%s កិច្ចព្រមព្រៀង បានផុតកំណត់"
+
+msgid "%s expired soon agreement(s)"
+msgstr "%s កិច្ចព្រមព្រៀង ផុតកំណត់ឆាប់ៗ"
+
+msgid "Legal notice"
+msgstr "ការជូនដំណឹងផ្នែកច្បាប់"
+
+msgid "Tags"
+msgstr "ស្លាកសញ្ញា"
+
+msgid "Allowed"
+msgstr "ដែលបានអនុញ្ញាត"
+
+msgid "Min stay"
+msgstr "ការស្នាក់នៅនាទី"
+
+msgid "Over"
+msgstr "ជាង"
+
+msgid "Refresh"
+msgstr "ធ្វើឱ្យថ្មី"
+
+msgid "Free text"
+msgstr "បញ្ចូលអក្សរ"
+
+msgid "Generate comment"
+msgstr "បង្កើតការអត្ថាធិប្បាយ"
+
+msgid "Building name"
+msgstr "ឈ្មោះអគារ"
+
+msgid "VAT"
+msgstr "អាករលើតម្លៃបន្ថែម"
+
+msgid "VAT included"
+msgstr "រួមបញ្ចូលទាំងអាករ"
+
+msgid "VAT excluded"
+msgstr "មិនរួមបញ្ចូលទាំងអាករ"
+
+msgid "Recurrence"
+msgstr "កើតមានឡើងវិញ"
+
+msgid "Calculator"
+msgstr "គណនា"
+
+msgid "Contribution"
+msgstr "ការចូលរួមចំណែក"
+
+msgid "Maximum debt"
+msgstr "បំណុលអតិបរមា"
+
+msgid "Purchase amount"
+msgstr "ចំនួនទឹកប្រាក់ទិញ"
+
+msgid "Borrowing calculator"
+msgstr "ការគណនាប្រាក់កម្ចី"
+
+msgid "Monthly payment calculator"
+msgstr "គណនាការទូទាត់ប្រចាំខែ"
+
+msgid "You don't have broadcasting rights"
+msgstr "អ្នកមិនមានសិទ្ធិផ្សព្វផ្សាយ"
+
+msgid "Pending"
+msgstr "ការ​រង់ចាំ​ការ"
+
+msgid "Suggestions"
+msgstr "ការផ្តល់យោបល់"
+
+msgid "Automatic"
+msgstr "ដោយស្វ័យប្រវត្តិ"
+
+msgid "Manual"
+msgstr "ហត្ថកម្ម"
+
+msgid "In collaboration with a %name% professional"
+msgstr "នៅក្នុងការសហការជាមួយ %name% ដែលមានជំនាញវិជ្ជាជីវៈ"
+
+msgid "Partners"
+msgstr "ដៃគូ"
+
+msgid "Costs"
+msgstr "ការចំណាយ"
+
+msgid "My search"
+msgstr "ការស្វែងរករបស់ខ្ញុំ"
+
+msgid "Spouse"
+msgstr "ប្តីប្រពន្ធ"
+
+msgid "Manager"
+msgstr "អ្នកគ្រប់គ្រង"
+
+msgid "Category reference"
+msgstr "សេចក្ដីយោងចំណាត់ថ្នាក់"
+
+msgid "Cadastre reference"
+msgstr "ចុះឈ្មោះជាឯកសារយោង"
+
+msgid "Lot reference"
+msgstr "សេចក្ដីយោងជាឡុត"
+
+msgid "Block reference"
+msgstr "សេចក្ដីយោងជាប្លុក"
+
+msgid "Stairs reference"
+msgstr "សេចក្ដីយោងជាជណ្តើរ"
+
+msgid "Mortgage end at"
+msgstr "ចុងបញ្ចប់ប្រាក់កម្ចីទិញផ្ទះនៅ"
+
+msgid "Review"
+msgstr "ការវាយតំលៃ"
+
+msgid "Medias"
+msgstr "ប្រព័ន្ធផ្សព្វផ្សាយ"
+
+msgid "Last access"
+msgstr "ការចូលចុងក្រោយ"
+
+msgid "First access"
+msgstr "ការចូលដំបូង"
+
+msgid "Access count"
+msgstr "ការរាប់ការចូលដំណើរការ"
+
+msgid "Default"
+msgstr "លំនាំដើម"
+
+msgid "Please do not enter any name or contact"
+msgstr "សូមកុំបញ្ចូលឈ្មោះឬទំនាក់ទំនងណាមួយ"
+
+msgid "QR-Code"
+msgstr "QR-កូដ"
+
+msgid "Show price"
+msgstr "បង្ហាញតម្លៃ"
+
+msgid "Done"
+msgstr "ធ្វើរួចរាល់"
+
+msgid "Not applicable"
+msgstr "មិនបានអនុវត្ត"
+
+msgid "Fill in the table"
+msgstr "បំពេញក្នុងតារាង"
+
+msgid "Choice"
+msgstr "ជម្រើស"
+
+msgid "copy"
+msgstr "ចម្លង"
+
+msgid "Automatic matching"
+msgstr "ការផ្គូរផ្គងដោយស្វ័យប្រវត្តិ"
+
+msgid "Authorization"
+msgstr "ការផ្តល់សិទ្ធិ"
+
+msgid "Last connection the %s"
+msgstr "ការទំនាក់ទំនងចុងក្រោយ %s"
+
+msgid "All"
+msgstr "ទាំងអស់"
+
+msgid "Wiki"
+msgstr "វិគី"
+
+msgid "Latest"
+msgstr "ថ្មីៗ"
+
+msgid "Reset"
+msgstr "កំណត់ឡើងវិញ"
+
+msgid "Show/hide fields"
+msgstr "កន្លែង បង្ហាញ / លាក់"
+
+msgid "Recent searches"
+msgstr "ការស្វែងរកថ្មីៗ"
+
+msgid "Association"
+msgstr "សមាគម"
+
+msgid "Meta crawler"
+msgstr "កម្មវិធីម៉ាស៊ីនស្វែងរក"
+
+msgid "Alerts"
+msgstr "ការជូនដំណឹង"
+
+msgid "Prescribers"
+msgstr "តាមវេជ្ជបញ្ជា"
+
+msgid "Staff"
+msgstr "បុគ្គលិក"
+
+msgid "Standing"
+msgstr "លំដាប់"
+
+msgid "Receive a copy"
+msgstr "ទទួលបានច្បាប់ចម្លងមួយ"
+
+msgid "Latest views"
+msgstr "កាមើលចុងក្រោយ"
+
+msgid "Quality"
+msgstr "គុណភាព"
+
+msgid "Waiting for partner"
+msgstr "កំពុងរង់ចាំដៃគូ"
+
+msgid "Viewing agreement"
+msgstr "ការមើលកិច្ចព្រមព្រៀង"
+
+msgid "Declined"
+msgstr "បដិសេធ"
+
+msgid "Accept"
+msgstr "ព្រមទទួល"
+
+msgid "Accepted"
+msgstr "បានទទួលយក"
+
+msgid "Zone"
+msgstr "តំបន់"
+
+msgid "Matrimonial regime"
+msgstr "របបអាពាហ៍ពិពាហ៍"
+
+msgid "Marital status"
+msgstr "ស្ថានភាពគ្រួសារ"
+
+msgid "Thumbnail"
+msgstr "រូបភាពតូច"
+
+msgid "Unread"
+msgstr "មិនទាន់អាន"
+
+msgid "Pension"
+msgstr "ប្រាក់សោធននិវត្តន៍"
+
+msgid "Draft"
+msgstr "សេចក្តីព្រាង"
+
+msgid "Guests"
+msgstr "ភ្ញៀវ"
+
+msgid "Crew"
+msgstr "នាវិក"
+
+msgid "Cruising speed"
+msgstr "ល្បឿនបើកបរ"
+
+msgid "Builder"
+msgstr "អ្នកសាងសង់"
+
+msgid "Administration"
+msgstr "រដ្ឋបាល"
+
+msgid "Civil law notary"
+msgstr "មេធាវីច្បាប់ស៊ីវិល"
+
+msgid "Price max"
+msgstr "តម្លៃអតិបរមា"
+
+msgid "Reminders"
+msgstr "ការរំលឹក"
+
+msgid "Credit"
+msgstr "ឥណទាន"
+
+msgid "Agreement"
+msgstr "កិច្ចព្រមព្រៀង"
+
+msgid "Title (politeness)"
+msgstr "ចំណងជើង"
+
+msgid "Amounts"
+msgstr "ចំនួនទឹកប្រាក់"
+
+msgid "Updated at"
+msgstr "បានធ្វើបច្ចុប្បន្នភាពនៅ"
+
+msgid "Created at"
+msgstr "បានបង្កើតនៅ"
+
+msgid "First published at"
+msgstr "បានចេញផ្សាយជាលើកដំបូងនៅ"
+
+msgid "Insurance"
+msgstr "ការធានារ៉ាប់រង"
+
+msgid "Provision"
+msgstr "ការផ្តល់"
+
+msgid "Entries"
+msgstr "ធាតុផ្សំ"
+
+msgid "Number"
+msgstr "ចំនួន"
+
+msgid "Plot of land area"
+msgstr "តំបន់ដីទ្បូ"
+
+msgid "Deposit account"
+msgstr "គណនី​ប្រាក់​បញ្ញើ"
+
+msgid "Owner's price"
+msgstr "តម្លៃរបស់ម្ចាស់"
+
+msgid "Starting price"
+msgstr "តម្លៃចាប់ផ្តើម"
+
+msgid "Mobile"
+msgstr "ទូរស័ព្ទដៃ"
+
+msgid "Address"
+msgstr "អាសយដ្ឋាន"
+
+msgid "Searches"
+msgstr "ការស្វែងរក"
+
+msgid "Tips"
+msgstr "ព័ត៌មានជំនួយ"
+
+msgid "Delete"
+msgstr "លុប"
+
+msgid "days"
+msgstr "ថ្ងៃ"
+
+msgid "Catalog"
+msgstr "កាតាឡុក"
+
+msgid "Statistics"
+msgstr "ស្ថិតិ"
+
+msgid "Built in"
+msgstr "សាងសង់ឡើងនៅក្នុង"
+
+msgid "Mark"
+msgstr "សញ្ញា"
+
+msgid "Percentage"
+msgstr "ជាភាគរយ"
+
+msgid "Visits"
+msgstr "មើល"
+
+msgid "Visit comment"
+msgstr "ការអត្ថាធិប្បាយដំណើរទស្សនកិច្ច"
+
+msgid "Key number"
+msgstr "លេខគន្លឹះ"
+
+msgid "Key's place"
+msgstr "កន្លែងសំខាន់ៗ"
+
+msgid "Displayed city (optional)"
+msgstr "បង្ហាញទីក្រុង (ជា​ជំរើស)"
+
+msgid "Displayed district (optional)"
+msgstr "បង្ហាញស្រុក (ជា​ជំរើស)"
+
+msgid "Clauses"
+msgstr "ឃ្លា"
+
+msgid "Postal code"
+msgstr "លេខ​កូដ​ប្រៃ​ស​ណី​យ"
+
+msgid "Seller"
+msgstr "អ្នកលក់"
+
+msgid "Adjacency"
+msgstr "នៅជាប់គ្នា"
+
+msgid "Step"
+msgstr "ជំហាន"
+
+msgid "Long comment"
+msgstr "ការអត្ថាធិប្បាយវែង"
+
+msgid "Subtitle"
+msgstr "ចំណងជើងរង"
+
+msgid "Title"
+msgstr "ងារ"
+
+msgid "Last published at"
+msgstr "បានបោះផ្សាយចុងក្រោយនៅ"
+
+msgid "Inactive"
+msgstr "Inactive"
+
+msgid "Position"
+msgstr "Position"
+
+msgid "Please fill in a name and a phone or an e-mail."
+msgstr "Please fill in a name and a phone or an e-mail."
+
+msgid "Passwords do not match, please retype"
+msgstr "Passwords do not match, please retype"
+
+msgid "Please change your password"
+msgstr "Please change your password"
+
+msgid "New password should not be same as old password"
+msgstr "New password should not be same as old password"
+
+msgid "years"
+msgstr "ឆ្នាំ"
+
+msgid "Subscription"
+msgstr "ការជាវ"
+
+msgid "Tour comment"
+msgstr "មតិយោបល់"
+
+msgid "Activities"
+msgstr "សកម្មភាព"
+
+msgid "Ad"
+msgstr "Ad"
+
+msgid "Add opening hours"
+msgstr "បន្ថែមម៉ោងបើក"
+
+msgid "Personal"
+msgstr "ផ្ទាល់ខ្លួន"
+
+msgid ""
+"Please note that there are dependencies, please select a contact for "
+"completing the data transfer."
+msgstr ""
+"Please note that there are dependencies, please select a contact for "
+"completing the data transfer."
+
+msgid "The installation can take several minutes, please come back later."
+msgstr "…"
+
+msgid "Your contact speaks %s, would you like to change the language?"
+msgstr "Votre contact parle %s, souhaitez-vous changer la langue ?"
+
+msgid "Would you like to publish on the homepage?"
+msgstr "Publish on homepage?"
+
+msgid "plus VAT"
+msgstr "បូក vat"
+
+msgid "<b>Warning :</b> there is an error, please check each fields."
+msgstr "<b>Error</b>"
+
+msgid "Price/sq m"
+msgstr "តម្លៃ / ម៉ែត្រការ៉េ"
+
+msgid "today"
+msgstr "ថ្ងៃនេះ"
+
+msgid "week"
+msgstr "សប្តាហ៍"
+
+msgid "from %from_value% to %to_value%"
+msgstr "ពី %from_value% ទៅ %to_value%"
+
+msgid "Page"
+msgstr "ទំព័រ"
+
+msgid "Status"
+msgstr "ស្ថានភាព"
+
+msgid "Context"
+msgstr "បរិបទ"
+
+msgid "More criteria"
+msgstr "លក្ខណៈវិនិច្ឆ័យច្រើនទៀត"
+
+msgid "Criteria"
+msgstr "លក្ខណៈវិនិច្ឆ័យ"
+
+msgid "Classification"
+msgstr "ការចាត់ថ្នាក់"
+
+msgid "metres"
+msgstr "ម៉ែត្រ"
+
+msgid "Window"
+msgstr "បង្អួច"
+
+msgid "Stock area"
+msgstr "តំបន់ភាគហ៊ុន"
+
+msgid "Sales area"
+msgstr "តំបន់លក់"
+
+msgid "Sale price"
+msgstr "Sale price"
+
+msgid "Broadcast to"
+msgstr "ផ្សាយទៅ"
+
+msgid "The property will not be published because it is in step « %s »"
+msgstr ""
+"ទ្រព្យសម្បត្តិនឹងមិនត្រូវបានបោះពុម្ពផ្សាយទេព្រោះវាស្ថិតនៅក្នុងជំហាន« %s »"
+
+msgid "Last agencies"
+msgstr "ទីភ្នាក់ងារចុងក្រោយ"
+
+msgid "from %from_date% to %to_date%"
+msgstr "ពី %from_date% ទៅ %to_date%"
+
+msgid "sq m"
+msgstr "ម៉ែត្រការ៉េ"
+
+msgid "Private comment"
+msgstr "មតិយោបល់ផ្ទាល់ខ្លួន"
+
+msgid "Private"
+msgstr "ឯកជន"
+
+msgid "Exchange"
+msgstr "ការផ្លាស់ប្តូរ"
+
+msgid "by"
+msgstr "ដោយ"
+
+msgid "n.a"
+msgstr "n.a"
+
+msgid "Elevator"
+msgstr "ជណ្តើរយន្ត"
+
+msgid "no"
+msgstr "គ្មាន"
+
+msgid "yes"
+msgstr "បាទ"
+
+msgid "Printed with care"
+msgstr "បោះពុម្ពដោយការយកចិត្តទុកដាក់របស់យើង"
+
+msgid "Please do not litter on public way"
+msgstr "សូមកុំចោលសំរាមនៅលើផ្លូវសាធារណៈ"
+
+msgid "Non-contractual information"
+msgstr "មិនមានពត៍មានកិច្ចសន្យា"
+
+msgid "Agency fees"
+msgstr "តម្លៃភ្នាក់ងារ"
+
+msgid "Agency fees included"
+msgstr "រួមបញ្ចូលទាំងថ្លៃសេវា"
+
+msgid "Agency fees not included"
+msgstr "មិនរួមបញ្ចូលសេវាកម្មភ្នាក់ងារ"
+
+msgid "Fees"
+msgstr "ថ្លៃសេវា"
+
+msgid "Personal property tax"
+msgstr "ពន្ធអចលនទ្រព្យផ្ទាល់ខ្លួន"
+
+msgid "Property tax"
+msgstr "ពន្ធ​លើ​អចលនទ្រព្យ"
+
+msgid "Style"
+msgstr "រចនាប័ទ្ម"
+
+msgid "Pictures"
+msgstr "រូបភាពច្រើន"
+
+msgid "Window card"
+msgstr "តារាងបង្ហាញ"
+
+msgid "Private sheet"
+msgstr "តារាងឯកជន"
+
+msgid "Public sheet"
+msgstr "តារាងសាធារណៈ"
+
+msgid "Language"
+msgstr "ភាសា"
+
+msgid "Cart"
+msgstr "កន្ត្រក​ទំនិញ"
+
+msgid "Land type"
+msgstr "ប្រភេទដី"
+
+msgid "Property agent"
+msgstr "ភ្នាក់ងារអចលនទ្រព្យ"
+
+msgid "End at"
+msgstr "បញ្ចប់នៅ"
+
+msgid "Close at"
+msgstr "បិទនៅ"
+
+msgid "Start at"
+msgstr "ចាប់ផ្តើមនៅ"
+
+msgid "Guarantee"
+msgstr "លិខិតធានា"
+
+msgid "Type"
+msgstr "ប្រភេទ"
+
+msgid "Coagent"
+msgstr "សហភ្នាក់ងារ"
+
+msgid "Number of floors"
+msgstr "ចំនួនជាន់"
+
+msgid "Evaluated price"
+msgstr "តម្លៃនៃការវាយតំលៃ"
+
+msgid "Seller's commission"
+msgstr "ជើងសារភ្នាក់ងារលក់"
+
+msgid "Buyer's commission"
+msgstr "ជើងសារភ្នាក់ងារទិញ"
+
+msgid "Commission"
+msgstr "កំរ៉ៃជើងសារ"
+
+msgid "Origin"
+msgstr "ប្រភពដើម"
+
+msgid "Specific origin"
+msgstr "ប្រភពដើមជាក់លាក់"
+
+msgid "Flooring"
+msgstr "កម្រាល"
+
+msgid "Rank"
+msgstr "ចំណាត់ថ្នាក់"
+
+msgid "Phone call"
+msgstr "ហៅ"
+
+msgid "Publications"
+msgstr "ការបោះពុម្ពផ្សាយ"
+
+msgid "Send to contact"
+msgstr "ផ្ញើទៅទាក់ទង"
+
+msgid "No results found"
+msgstr "គ្មានរកឃើញលទ្ធផល"
+
+msgid "result"
+msgstr "លទ្ធផល"
+
+msgid "Advertiser"
+msgstr "ផ្សាយពាណិជ្ជកម្ម"
+
+msgid "Active"
+msgstr "ដែលសកម្ម"
+
+msgid "Confidential"
+msgstr "ពត៍មានសម្ងាត់"
+
+msgid "Edit"
+msgstr "កែតំរ៉ូវ"
+
+msgid "Save"
+msgstr "រក្សាទុក"
+
+msgid "Succession"
+msgstr "ទទួលបានភាពជោគជ័យ"
+
+msgid "Please fill in a city."
+msgstr "សូមបំពេញនៅក្នុងប្រអប់ទីក្រុង"
+
+msgid "Please fill"
+msgstr "សូមបំពេញ"
+
+msgid "The email address is invalid."
+msgstr "អាសយដ្ឋានអ៊ីមែលមិនត្រឹមត្រូវ"
+
+msgid "Rights"
+msgstr "សិទ្ធិ"
+
+msgid "Since"
+msgstr "ចាប់តាំងពី"
+
+msgid "Filter"
+msgstr "តម្រង"
+
+msgid "Min"
+msgstr "អប្បបរមា"
+
+msgid "Max"
+msgstr "Maអតិបរមាx"
+
+msgid "Lessor"
+msgstr "អ្នកជួលអោយគេ"
+
+msgid "Bed"
+msgstr "គ្រែ"
+
+msgid "Cleaning price"
+msgstr "តម្លៃសេវាសំអាត"
+
+msgid "Availabilities"
+msgstr "ដែលអាចប្រើបាន"
+
+msgid "Sent"
+msgstr "បានផ្ញើរ"
+
+msgid "month"
+msgstr "ខែ"
+
+msgid "Season"
+msgstr "រដូវកាល"
+
+msgid "Todo"
+msgstr "ធ្វើ"
+
+msgid "Brand"
+msgstr "ម៉ាក"
+
+msgid "Publicated at"
+msgstr "ការ​បោះ​ពុ​ម្ភនៅ"
+
+msgid "Bank"
+msgstr "ធនាគារ"
+
+msgid "Brief comment"
+msgstr "ការអត្ថាធិប្បាយសង្ខេប"
+
+msgid "Delivery at"
+msgstr "ចែកចាយនៅ"
+
+msgid "Reason"
+msgstr "មូលហេតុ"
+
+msgid "What's new"
+msgstr "តើមានអ្វីថ្មី"
+
+msgid "Required."
+msgstr "តំរ៉ូវការ"
+
+msgid "Current rent"
+msgstr "ការជួលបច្ចុប្បន្ន"
+
+msgid "property"
+msgstr "អចលនទ្រព្យ"
+
+msgid "Birthplace"
+msgstr "ស្រុកកំណើត"
+
+msgid "Birthday"
+msgstr "ថ្ងៃខែឆ្មាំកំណើត"
+
+msgid "Income"
+msgstr "ប្រាក់ចំណូល"
+
+msgid "Margin"
+msgstr "កំរិត"
+
+msgid "Seasonal"
+msgstr "តាមរដូវកាល"
+
+msgid "Spoken languages"
+msgstr "ភាសានិយាយ"
+
+msgid "Number of children"
+msgstr "ចំនួនកូន"
+
+msgid "Hotline"
+msgstr "លេខទូរស័ព្ទបន្ទាន់"
+
+msgid "Re-type password"
+msgstr "វាយ​លេខសម្ងាត់​ម្តង​ទៀត"
+
+msgid "Public longitude"
+msgstr "រយៈបណ្ដោយសាធារណៈ"
+
+msgid "Public latitude"
+msgstr "រយៈទទឹងសាធារណៈ"
+
+msgid "Access denied"
+msgstr "ដំណើរ​ការ​ត្រូវ​បាន​បដិសេធ"
+
+msgid "Access"
+msgstr "ការចូលដំណើរការ"
+
+msgid "Launch"
+msgstr "ការចាប់ផ្តើម"
+
+msgid "Shortcuts"
+msgstr "ផ្លូវកាត់"
+
+msgid "SEO"
+msgstr "SEO"
+
+msgid "Life annuity length"
+msgstr "ប្រវែងស្មើនឹងជីវិត"
+
+msgid "Market value"
+msgstr "តម្លៃ​ទីផ្សារ"
+
+msgid "Price contribution"
+msgstr "ការចូលរួមចំណែកតម្លៃ"
+
+msgid "Show more results"
+msgstr "បង្ហាញលទ្ធផលច្រើនទៀត"
+
+msgid "Close"
+msgstr "បិទ"
+
+msgid "Hide"
+msgstr "លាក់"
+
+msgid "Keywords"
+msgstr "ពាក្យគន្លឹះ"
+
+msgid "Corporate register"
+msgstr "ការចុះបញ្ជីរបស់ក្រុមហ៊ុន"
+
+msgid "Expired soon"
+msgstr "ផុតកំណត់ឆាប់ៗ"
+
+msgid "Expired"
+msgstr "ផុតកំណត់"
+
+msgid "Agreement number"
+msgstr "ចំនួនកិច្ចព្រមព្រៀង"
+
+msgid "VAT identification number"
+msgstr "លេខអត្តសញ្ញាណពន្ធលើតម្លៃបន្ថែម"
+
+msgid "What's on your mind?"
+msgstr "តើអ្មកគិតយ៉ាងដូម្តេចដែរ?"
+
+msgid "Buyer"
+msgstr "អ្នកទិញ"
+
+msgid "Prescriber"
+msgstr "អ្នកចេញវេជ្ជបញ្ជា"
+
+msgid "Message sent"
+msgstr "ផ្ញើសារ"
+
+msgid "Limit"
+msgstr "កំណត់"
+
+msgid "Publish"
+msgstr "ផ្សព្វផ្សាយ"
+
+msgid "Do not publish"
+msgstr "កុំផ្សព្វផ្សាយ"
+
+msgid "Cancel"
+msgstr "បោះបង់"
+
+msgid "Already suggested"
+msgstr "ស្នើសុំរួចហើយ"
+
+msgid "To suggest"
+msgstr "ដើម្បី​ផ្តល់​យោបល់"
+
+msgid "Suggest"
+msgstr "ផ្ដល់យោបល់"
+
+msgid "Diagnostics"
+msgstr "វិនិច្ឆ័យ"
+
+msgid "Footer"
+msgstr "ជើងក្រោម"
+
+msgid "Header"
+msgstr "ក្បាលលើ"
+
+msgid "Serviced plot"
+msgstr "សេវាកម្មផែន"
+
+msgid "Net floor area"
+msgstr "សមាមាត្រកំពស់"
+
+msgid "Sold price"
+msgstr "តម្លៃលក់ចេញ"
+
+msgid "Sold at"
+msgstr "ដាក់លក់នៅ"
+
+msgid "Preview"
+msgstr "មើលជាមុន"
+
+msgid "Garden area"
+msgstr "តំបន់សួនច្បារ"
+
+msgid "Payments"
+msgstr "ការទូទាត់"
+
+msgid "Reopen"
+msgstr "បើកជាថ្មី"
+
+msgid "Completed"
+msgstr "បានបញ្ចប់"
+
+msgid "Complete"
+msgstr "បញ្ចប់"
+
+msgid "Callbacks"
+msgstr "ហៅត្រឡប់ទៅវិញ"
+
+msgid "Total"
+msgstr "សរុប"
+
+msgid "%s property"
+msgstr "%s អចលនទ្រព្យ"
+
+msgid "%s requests"
+msgstr "%s តំរ៉ូវការ"
+
+msgid "Characteristics"
+msgstr "ច​រិ​ក​លក្ខណៈ"
+
+msgid "Subscribe to the newsletter"
+msgstr "ជាវព្រឹត្តិប័ត្រព័ត៌មាន"
+
+msgid "Price min"
+msgstr "តម្លៃអប្បបរមា"
+
+msgid "Project at"
+msgstr "គម្រោង"
+
+msgid "%s unit"
+msgstr "%s ច្រើន"
+
+msgid "Not suggested"
+msgstr "មិនបានស្នើសុំ"
+
+msgid "%s guest"
+msgstr "%s ភ្ញៀវ"
+
+msgid "%s bed"
+msgstr "%s គ្រែ"
+
+msgid "%s bathrooms"
+msgstr "%s បន្ទប់ទឹក"
+
+msgid "Professionals"
+msgstr "អ្នកជំនាញ"
+
+msgid "Toilet"
+msgstr "ចានលាងដៃ"
+
+msgid "Show pagination"
+msgstr "បង្ហាញទំព័រសរសេរ"
+
+msgid "Mandatory fields"
+msgstr "វាលដែលត្រូវបំពេញ"
+
+msgid "Available soon"
+msgstr "ទំនេរឆាប់ៗនេះ"
+
+msgid "HD Photo"
+msgstr "HD Photo"
+
+#, fuzzy
+msgid "Contract end at"
+msgstr ""
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"កិច្ចសន្យាបានបញ្ចប់នៅ\n"
+"#-#-#-#-#  apimo-km_KH.po  #-#-#-#-#\n"
+"កិច្ចសន្យាបញ្ចប់នៅ"
+
+msgid "Incomplete"
+msgstr "មិនពេញលេញ"
+
+msgid "Location Map"
+msgstr "ផែនទីទីតាំង"
+
+msgid "User Detail"
+msgstr "ព័ត៌មានលំអិតអ្នកប្រើ"
+
+msgid "File size"
+msgstr "ទំហំឯកសារ"
+
+msgid "File title"
+msgstr "ចំណងជើងឯកសារ"
+
+msgid "Region"
+msgstr "តំបន់"
+
+msgid "Bath"
+msgstr "បន្ទប់ទឹក"
+
+msgid "Private Negotiation"
+msgstr "ការចរចា​ឯកជន"
+
+msgid "Property specifications"
+msgstr "ការបញ្ជាក់លក្ខណៈសម្បត្តិ"
+
+msgid "Energy performance"
+msgstr "ការអនុវត្តថាមពល"
+
+msgid "Media Details"
+msgstr "ព័ត៌មានលំអិតមេឌា"
+
+msgid "View Video"
+msgstr "មើលវីដេអូ"
+
+msgid "Start Date"
+msgstr "ថ្ងៃចាប់ផ្តើម"
+
+msgid "End Date"
+msgstr "ថ្ងៃបញ្ចប់"
+
+msgid "Welcome"
+msgstr "សូមស្វាគមន៍"
+
+msgid "See What’s happening with Apimo Plugin."
+msgstr "មើលថាតើអ្វីកំពុងកើតឡើងជាមួយកម្មវិធី Apimo។"
+
+msgid "PROVIDERS"
+msgstr "អ្នកផ្គត់ផ្គង់"
+
+msgid "AGENCIES"
+msgstr "ក្រុមហ៊ុនភ្នាក់ងារ"
+
+msgid "PROPERTIES"
+msgstr "អចលនទ្រព្យ"
+
+msgid "BOOKMARK"
+msgstr "ចំណាំ"
+
+msgid "Remove all"
+msgstr "យកចេញទាំងអស់"
+
+msgid "Apply filter"
+msgstr "អនុវត្តតម្រង"
+
+msgid "Select Subtype"
+msgstr "ជ្រើសរើសប្រភេទរង"
+
+msgid "Enchère"
+msgstr "លក់ដោយប្រកួតតម្លៃ"
+
+msgid "Location"
+msgstr "ជួល"
+
+msgid "Location saisonnière"
+msgstr "ជួលរដូវកាល"
+
+msgid "From"
+msgstr "ចាប់ពី"
+
+msgid "To"
+msgstr "ទៅ"
+
+msgid "Dates"
+msgstr "កាលបរិច្ឆេទ"
+
+msgid "Select country"
+msgstr "ជ្រើសរើសប្រទេស"
+
+msgid "Select region"
+msgstr "ជ្រើសរើសតំបន់"
+
+msgid "Select district"
+msgstr "ជ្រើសរើសស្រុក"
+
+msgid "Select city"
+msgstr "ជ្រើសរើសទីក្រុង"
+
+msgid "Good"
+msgstr "ល្អ"
+
+msgid "Bad"
+msgstr "អាក្រក់"
+
+msgid "hello"
+msgstr "សួស្តី"
+
+msgid "Available Integrations"
+msgstr "សមាហរណកម្មដែលអាចប្រើបាន"
+
+msgid "reCAPTCHA Detected"
+msgstr "បានរកឃើញ reCAPTCHA"
+
+msgid "reCAPTCHA Not Detected"
+msgstr "recaptcha មិនបានរកឃើញទេ"
+
+msgid "Google reCAPTCHA Integration"
+msgstr "ការធ្វើសមាហរណកម្មហ្គូហ្គល"
+
+msgid ""
+"Protect your forms from spam and abuse with Google reCAPTCHA integration."
+msgstr ""
+"ការពារទម្រង់របស់អ្នកពីសារឥតបានការនិងការរំលោភបំពានជាមួយសមាហរណកម្ម Google "
+"rectcha ។"
+
+msgid "Activate Integration"
+msgstr "ធ្វើឱ្យសកម្មឡើងវិញ"
+
+msgid "Deactivate Integration"
+msgstr "ធ្វើឱ្យសមាហរណកម្មធ្វើសមាហរណកម្ម"
+
+msgid "reCAPTCHA Configuration"
+msgstr "ការកំណត់រចនាសម្ព័ន្ធ reCAPTCHA"
+
+msgid "Please configure your reCAPTCHA keys below to complete the setup."
+msgstr ""
+"សូមកំណត់ការកំណត់កូនសោ RECAPTCHA របស់អ្នកនៅខាងក្រោមដើម្បីបញ្ចប់ការរៀបចំ។"
+
+msgid "To complete the reCAPTCHA setup:"
+msgstr "ដើម្បីបញ្ចប់ការតំឡើង reCAPTCHA:"
+
+msgid "Go to the"
+msgstr "ទៅរក"
+
+msgid "Google reCAPTCHA Admin Console"
+msgstr "កុងសូលរដ្ឋបាល Google"
+
+msgid "Register your site and get your Site Key and Secret Key"
+msgstr ""
+"ចុះឈ្មោះគេហទំព័ររបស់អ្នកហើយទទួលបានកូនសោវែបសាយរបស់អ្នកនិងកូនសោសម្ងាត់របស់អ្នក"
+
+msgid "Enter the keys below to activate reCAPTCHA"
+msgstr "បញ្ចូលកូនសោខាងក្រោមដើម្បីធ្វើឱ្យ recaptcha សកម្ម"
+
+msgid "reCAPTCHA is configured properly."
+msgstr "recaptcha ត្រូវបានតំឡើងត្រឹមត្រូវ។"
+
+msgid "Site Key"
+msgstr "កូនសោតំបន់បណ្តាញ"
+
+msgid "Secret Key"
+msgstr "កូនសោសម្ងាត់"
+
+msgid "Save Configuration"
+msgstr "រក្សាទុកការកំណត់រចនាសម្ព័ន្ធ"
+
+msgid "Contact Form"
+msgstr "ទម្រង់ទំនាក់ទំនង"
+
+msgid "Invalid format"
+msgstr "ទ្រង់ទ្រាយមិនត្រឹមត្រូវ"
+
+msgid "This field is required"
+msgstr "វាលនេះត្រូវបានទាមទារ"
+
+msgid "Invalid email format"
+msgstr "ទ្រង់ទ្រាយអ៊ីមែលមិនត្រឹមត្រូវ"
+
+msgid "Please use reCAPTCHA version 3"
+msgstr "សូមប្រើ reCAPTCHA ជំនាន់ទី 3"
